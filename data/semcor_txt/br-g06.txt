@@ -1,0 +1,283 @@
+ Die Frist ist um , und wiederum verstrichen sind sieben Jahr , the Maestro quoted The Flying Dutchman , as he told of his career and wanderings , explaining that the number seven had significantly recurred in his life several times .
+2
+#14 quote VERB quote%2:32:00::,quote%2:32:02::
+#21 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+When he added to his Pittsburgh commitments the directorship of the London Philharmonic Orchestra in 1958 , he conducted one hundred fifty concerts within nine months , " commuting " between the two cities .
+3
+#2 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#18 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#28 commute VERB commute%2:38:00::
+This schedule became too strenuous , even for the energetic and conscientious Mr. Steinberg .
+1
+#2 become VERB become%2:30:00::,become%2:42:01::
+His London contract was rescinded , and now , he explains cheerfully , as a bright smile lightens his intense , mobile face , " I conduct only one hundred and twenty concerts " !
+2
+#17 lighten VERB lighten%2:35:00::
+#26 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+As we began to converse in the lounge of his Fifth Avenue hotel , his restlessness and sensitivity to light and sound became immediately apparent .
+2
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#22 become VERB become%2:30:00::,become%2:42:01::
+Unfortunately , it was Muzak , which automatically is piped into the public rooms , and which nolens volens had to be endured .
+1
+#22 endure VERB endure%2:31:00::
+As he talked about himself , time and again stuffing and dragging on his pipe , Steinberg began to relax and the initial hurried feeling grew faint and was dispelled .
+5
+#9 stuff VERB stuff%2:30:02::
+#11 drag VERB drag%2:34:00::
+#17 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#19 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+#25 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+In his native Cologne , where his mother taught him to play the piano , he was able to read notes before he learned the alphabet .
+3
+#11 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+#19 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#23 learn VERB learn%2:31:01::,learn%2:31:03::
+She even devised a system of colors , whereby the boy could easily distinguish the different note values .
+1
+#2 devise VERB devise%2:36:00::
+When he started school at the age of five-and-a-half , he could not understand why the alphabet begins with the letter A , instead of C , as in the scale .
+3
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#13 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#17 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Because , like many other children , he intensely disliked practicing Czerny Etudes , he composed his own studies .
+1
+#10 practice VERB practice%2:31:00::
+When he was eight he began violin lessons .
+1
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Soon he was playing in the Cologne Municipal Orchestra , and during World War 1 , , when musicians were scarce , he joined the opera orchestra as well .
+1
+#3 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+" By observing the conductor " , he says with a twinkle in his eyes , " I learned how not to conduct " .
+4
+#2 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 learn VERB learn%2:31:01::,learn%2:31:03::
+#22 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+Simultaneously , he pursued his musical studies at the conservatory , receiving sound training in counterpoint and harmony , as well in the violin and piano .
+1
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+His professional career began when he was twenty ; he became Otto Klemperer 's personal assistant at the Cologne Opera , and a year later was promoted to the position of regular conductor .
+2
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#10 become VERB become%2:30:00::,become%2:42:01::
+No , originally he had hoped to become a concert pianist and had even performed as such .
+2
+#7 become VERB become%2:30:00::,become%2:42:01::
+#14 perform VERB perform%2:36:00::,perform%2:36:01::
+However , when he assumed the duties of a conductor , he relinquished his career as a pianist .
+1
+#4 assume VERB assume%2:40:00::,assume%2:40:01::
+Five years were spent with the Cologne Opera , after which he was called to Prague by Alexander von Zemlinsky , teacher of Arnold Scho ^ nberg and Erich Korngold .
+1
+#13 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+In 1927 he succeeded Zemlinsky as opera director of the German Theater at Prague .
+1
+#3 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+Two years later he became director of the Frankfurt Opera , where he remained until he lost this position in 1933 through the rise of the Hitler regime .
+2
+#4 become VERB become%2:30:00::,become%2:42:01::
+#16 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+He had presented the first German performances of Puccini 's Manon Lescaut and de Falla 's La Vida Breve .
+1
+#2 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+At the outset of his career , Steinberg had dedicated himself to the advancement of contemporary music by vowing to do a Scho ^ nberg work every year .
+1
+#18 vow VERB vow%2:32:00::
+In Frankfurt , too , he directed the Museum and Opera House concerts which , in addition to the standard repertoire , featured novelties like Erdmann 's Piano Concerto and Mahler 's Sixth Symphony .
+1
+#6 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+Because of the political upheaval in Germany in the 1930 's , Steinberg was forced to restrict his activities to the Jewish community .
+1
+#14 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+Through the Frankfurt Jewish Kulturbund he began to give sonata recitals in synagogues , with Cellist Emanuel Feuermann .
+2
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+As more and more Jewish musicians lost their jobs with professional organizations Steinberg united them into the Frankfurt Kulturbund Orchestra , which also gave guest performances in other German cities .
+2
+#6 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#23 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+In 1936 he accepted the leadership of the Berlin Kulturbund .
+1
+#3 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+In the fall of that year the best musicians of the Berlin and Frankfurt Kulturbund orchestras joined under the combined efforts of Bronislaw Hubermann and Steinberg to become the Palestine Orchestra - now known as the Israel Philharmonic Orchestra - with Steinberg as founder-conductor .
+1
+#27 become VERB become%2:30:00::,become%2:42:01::
+In 1938 , at the insistence of Arturo Toscanini , Steinberg left Germany for the United States , by way of Switzerland .
+1
+#11 leave VERB leave%2:38:00::,leave%2:41:00::
+After he had spent the first three years in New York as associate conductor , at Toscanini 's invitation , of the NBC Orchestra , he made numerous guest appearances throughout the United States and Latin America .
+1
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+In 1945 he became conductor of the Buffalo Philharmonic .
+1
+#3 become VERB become%2:30:00::,become%2:42:01::
+Seven years later he was asked to become director of the Pittsburgh Symphony .
+2
+#5 ask VERB ask%2:32:01::,ask%2:32:05::
+#7 become VERB become%2:30:00::,become%2:42:01::
+Since 1944 he has also conducted regularly at the San Francisco Opera , where he made his debut with a memorable performance of Verdi 's Falstaff .
+2
+#5 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+In recent years he has traveled widely in Europe , conducting in Italy , France , Austria , and Switzerland .
+2
+#5 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#10 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+He returned to Germany for the first time in 1953 , where he has since conducted in Cologne , Frankfurt , and Berlin .
+2
+#1 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#15 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+Where in Europe was he going now ?
+1
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Since it is not far from Viareggio , he will visit Puccini 's house , as he never fails to do , to pay his respects to the memory of the composer of La Boheme , which he considers one of Puccini 's masterpieces .
+3
+#10 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#18 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#23 pay VERB pay%2:41:00::
+Steinberg spoke with warmth and enthusiasm about Italy : " Rome is my second home .
+1
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+He will conduct two concerts at the Accademia di Santa Cecilia , as well as concerts in Munich and Cologne .
+1
+#2 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+" Then I return to the United States for engagements at the Hollywood Bowl and in Philadelphia " , he added .
+2
+#3 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#20 add VERB add%2:32:01::
+The forthcoming season in Pittsburgh also promises to be of unusual interest .
+1
+#6 promise VERB promise%2:32:02::,promise%2:42:00::
+Of course , I shall conduct Mahler and Bruckner works in the coming season , as usual .
+1
+#5 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+We 'll play Bruckner 's Fifth Symphony in the original version , and Mahler 's Seventh - the least accessible , known , and played of Mahler 's works .
+1
+#2 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+My Pittsburghers have become real addicts to Mahler and Bruckner " .
+1
+#3 become VERB become%2:30:00::,become%2:42:01::
+He added that he also stresses the works of these favorite masters on tour , especially Mahler 's First and Fourth symphonies , and Das Lied von der Erde , and Bruckner 's Sixth - which is rarely played - and Seventh .
+3
+#1 add VERB add%2:32:01::
+#5 stress VERB stress%2:32:00::,stress%2:32:01::
+#38 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+Bruckner 's Eighth he refers to as " my travel symphony " .
+1
+#4 refer VERB refer%2:32:00::,refer%2:42:00::
+He recalled that in California after a critic had attacked him for " still trying to sell Bruckner to the Americans " , the public 's response at the next concert was a standing ovation .
+3
+#1 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 sell VERB sell%2:40:02::,sell%2:42:13::,sell%2:42:14::
+" Now that Bruno Walter is virtually in retirement and my dear friend Dimitri Mitropoulos is no longer with us , I am probably the only one - with the possible exception of Leonard Bernstein - who has this special affinity for and champions the works of Bruckner and Mahler " .
+1
+#37 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Since he introduces so much modern music , I could not resist asking how he felt about it .
+2
+#2 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#12 ask VERB ask%2:32:00::,ask%2:32:04::
+" There was always and at all times a contemporary music and it expresses the era in which it was created .
+1
+#13 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+But I usually stick to the old phrase : ' Ich habe ein Amt , aber keine Meinung ( I hold an office , but I do not feel entitled to have an opinion ) .
+3
+#20 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#28 feel VERB feel%2:31:00::,feel%2:39:00::
+#29 entitle VERB entitled%5:00:00:eligible:00
+With all his musical activities , did he have the time and inclination to do anything else ?
+1
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He had just paid a brief visit to the Frick Collection to admire his favorite paintings by Rembrandt and Franz Hals .
+1
+#3 pay VERB pay%2:41:00::
+He was not enthusiastic over the newly acquired Claude Lorrain , but reminisced with pleasure over a Poussin exhibit he had been able to see in Paris a year ago .
+1
+#24 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+And how did he feel about modern art ?
+1
+#4 feel VERB feel%2:31:00::,feel%2:39:00::
+Again Steinberg was cautious and replied with a smile that he was not exposed to it enough to hazard comments .
+1
+#18 hazard VERB hazard%2:32:00::
+" As my wife puts it " , he said , again with a twinkle in his eyes , " all you know is your music .
+3
+#4 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+But after all , you never learned anything else " !
+1
+#6 learn VERB learn%2:31:01::,learn%2:31:03::
+Like his late colleague , Mitropoulos , he reads mystery stories , in particular Sir Arthur Conan Doyle .
+1
+#8 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+He cited Heine and Stendhal as favorites in literature .
+1
+#1 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+At the moment he was excited about his son 's having received the Prix de Rome in archaeology and was looking forward to being present this summer at the excavation of an Etruscan tomb .
+1
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+Since attack serves to stimulate interest in broadcasts , I added to my opening statement a sentence in which I claimed that German youth seemed to lack the enthusiasm which is a necessary ingredient of anger , and might be classified as uninterested and bored rather than angry .
+2
+#2 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#10 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+I was far from convinced of the truth of my statement , but could not think of anything that might evoke responses more quickly .
+1
+#20 evoke VERB evoke%2:32:01::
+" It is easy for you to talk " ; countered a twenty year old law student , " you travel around the world .
+1
+#20 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+We would like to do that too " .
+1
+#2 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+" But you want a job guaranteed when you return " , I continued my attack .
+3
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#9 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+" You must have some security " , said a young clerk .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+When I mentioned that for my first long voyage I did not even have the money for the return fare , but had trusted to luck that I would earn a sufficient amount , the young people looked at me doubtingly .
+2
+#23 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+#37 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+One girl expressed what was obviously in their minds .
+1
+#2 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+" Would you advise us to act the same way ?
+1
+#6 act VERB act%2:29:00::,act%2:41:00::
+You might have failed .
+1
+#3 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+I think it is rather foolhardy to trust to luck " .
+2
+#1 think VERB think%2:31:01::,think%2:31:03::
+#7 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+Others mentioned that I might have had to ask friends or even strangers for help and that to be stranded in a foreign country without sufficient funds did not contribute to international understanding .
+1
+#8 ask VERB ask%2:32:01::,ask%2:32:05::
+The debate needed no additional controversy and soon I could ask each individually what he expected from life , what his hopes were and what his fears .
+2
+#2 need VERB need%2:42:00::
+#10 ask VERB ask%2:32:00::,ask%2:32:04::
+Though the four boys and two girls , the youngest nineteen years of age , the oldest twenty-four , came from varying backgrounds and had different professional and personal interests , there was surprising agreement among them .
+1
+#19 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+The ideal home , they agreed , would be a small private house or a city apartment of four to five rooms , just enough for a family consisting of husband , wife , and two children .
+1
+#5 agree VERB agree%2:32:00::,agree%2:32:01::
+No one wanted a larger family or no children , and none hoped for a castle or said that living in less settled circumstances would be satisfactory .
+3
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 live VERB live%2:42:08::
+All expressed interest in world affairs but no one offered to make any sacrifices to satisfy this interest .
+2
+#1 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::

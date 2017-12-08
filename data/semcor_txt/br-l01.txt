@@ -1,0 +1,376 @@
+I felt lonely and depressed as I stared out the bus window at Chicago 's grim , dirty West Side .
+1
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+It seemed incredible , as I listened to the monotonous drone of voices and smelled the fetid odors coming from the patients , that technically I was a ward of the state of Illinois , going to a hospital for the mentally ill .
+1
+#14 smell VERB smell%2:31:00::,smell%2:39:01::
+I suddenly thought of Mary Jane Brennan , the way her pretty eyes could flash with anger , her quiet competence , the gentleness and sweetness that lay just beneath the surface of her defenses .
+2
+#14 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+#27 lie VERB lie%2:42:03::
+We had become good friends during my stay at Cook County Hospital .
+1
+#2 become VERB become%2:30:00::,become%2:42:01::
+I had told her enough about myself to offset somewhat the damaging stories that had appeared in local newspapers after my little adventure in Marshall Field + Co. .
+3
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 offset VERB offset%2:40:01::
+#15 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+She knew that I lived at a good address on the Gold Coast , that I had once been a medical student and was thinking of returning to the university to finish my medical studies .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 live VERB live%2:42:08::
+#26 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#31 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+She knew also that I was unmarried and without a single known relative .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+She was n't quite sure that I felt enough remorse about my drinking , or that I would not return to it once I was out and on my own again .
+2
+#7 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#19 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+This had worried her .
+1
+#2 worry VERB worry%2:37:00::,worry%2:37:01::
+" I read those newspaper stories about you " , she had said .
+2
+#2 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You must have loved that girl very much , but you could n't have meant it when you said that you wanted to kill her " .
+3
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#24 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+" Why do you say that " ?
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" I was full of booze and , well , a drunk is apt to do anything he says he 'll do " .
+1
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Do n't tell me about drunks .
+1
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+You 're not the kind to go violent .
+1
+#6 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+" Would it make any difference to you if I were , Mary Jane " ?
+1
+#3 make VERB make%2:31:10::,make%2:42:05::
+She met my eyes , suddenly angry .
+1
+#1 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+" I would n't have gone into nursing if I did n't care about people .
+2
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#12 care VERB care%2:37:00::,care%2:37:12::
+I 'm interested in every patient I 've helped take care of .
+1
+#8 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+" You are young , intelligent , have a whole lifetime before you to make something worth while of yourself , but you mess it up with whiskey , indifference , self-destructive attitudes .
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" Oh , yes " , I said , feeling annoyed , " she was very pretty .
+2
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+You do n't believe that I 'm going back to medical school and finish , do you " ?
+2
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#13 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+I 've worked this ward for three months now .
+1
+#2 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+We keep getting the same ones back again and again .
+2
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+You 've treated your stay here like a big joke .
+1
+#2 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+I wanted to go to college , to " -
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Chicago has some of the best " -
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Her eyes flashed angrily .
+1
+#2 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+" That 's what I mean about you , Anderson " , she said .
+2
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You do n't seem to know much about reality .
+1
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I 'll tell you why I did n't go to college ; I 'm the oldest of six children .
+1
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+My father 's a policeman and makes less than seven thousand dollars a year .
+1
+#6 make VERB make%2:40:01::
+Nurses ' training here does n't cost anything .
+1
+#6 cost VERB cost%2:42:00::,cost%2:42:01::
+They even pay me six dollars a month .
+1
+#2 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+I think it 's a good deal .
+1
+#1 think VERB think%2:31:01::,think%2:31:03::
+I 'm going to become a good nurse , and I 've got two baby brothers that are going to have college if I have to work at my profession until I 'm an old maid to give it to them " .
+2
+#4 become VERB become%2:30:00::,become%2:42:01::
+#37 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" That 's none of your business " , she said , then changed the subject .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" My father and mother died when I was two years old " , I said .
+2
+#5 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" My aunt raised me .
+1
+#3 raise VERB raise%2:36:03::
+Aunt Mary died when I was doing my military service .
+1
+#2 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+I have no one but myself to worry about " .
+1
+#7 worry VERB worry%2:37:00::,worry%2:37:01::
+Something in my voice must have touched her deeply because her anger passed quickly , and she turned away to keep me from seeing her face .
+3
+#6 touch VERB touch%2:30:00::,touch%2:37:00::
+#12 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#23 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" I 'm sorry " , she said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I do n't know what I 'd do without my family .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Her eyes became bright as she talked about her father and mother , aunts and uncles , cousins .
+1
+#2 become VERB become%2:30:00::,become%2:42:01::
+Listening , I felt cheated and lonely as only an orphan can .
+1
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+When she had finished I said :
+2
+#3 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Your dad sounds like a good father and a good policeman .
+1
+#3 sound VERB sound%2:39:06::
+I 'll bet he would n't be pleased if a rumdum like me were to ask his daughter for a date - I mean , after I 'm out of the hospital , a month or so from now " .
+1
+#2 bet VERB bet%2:31:00::
+I do n't think he 'd mind too much if he were sure you 'd decided not to be a rumdum in the future " .
+2
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#6 mind VERB mind%2:32:00::
+How would you feel about it if I were to ask you for a date when I get through at Hanover " ?
+1
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+" If I thought you were serious about going back to school , that you 'd learned something from your experiences here and at Hanover - well , I might consider such an offer .
+2
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#16 learn VERB learn%2:31:01::,learn%2:31:03::
+What about your & & & that girl you were going to kill " ?
+1
+#12 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+It suddenly seemed very important to me that Mary Jane Brennan should know the truth about me - that I was not the confused , sick , irresponsible person she believed me to be .
+1
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" There are things about me that I can n't tell you now , Mary Jane " , I said , " but if you 'll go out to dinner with me when I get out of Hanover , I 'd like to tell you the whole story .
+4
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#41 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#43 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+I can say this : I 'm dead serious about going back to school .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+As for that other girl , let 's just say that I never want to see her again .
+3
+#6 let VERB let%2:32:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+You will get to come home on long weekends from Hanover , won n't you " ?
+1
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+" Yes , I 'll get one overnight a month " .
+1
+#5 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+" We 'll go up to the Edgewater Beach Hotel for dinner " , I said .
+1
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Do you like to dance ?
+1
+#5 dance VERB dance%2:36:00::,dance%2:38:01::
+They always have a good orchestra " .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" I like to dance " , she said , then turned and walked away .
+3
+#4 dance VERB dance%2:36:00::,dance%2:38:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+I knew that .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+It was just that she felt deeply about every patient on the ward and wanted to believe that they might benefit from their treatment there .
+2
+#5 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#16 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+Now , riding this hospital bus , feeling isolated and utterly alone , I knew that she was genuine and unique , quite unlike any girl I had known before .
+4
+#2 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#7 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#14 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#28 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+It seemed the most important thing in my life at this moment that she should know the real truth about me .
+1
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Only two people in the state of Illinois knew that I was entering Hanover State Hospital under an assumed name , or why .
+2
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+It was unlikely that any girl as sharp as Mary Jane Brennan would believe it without proof .
+1
+#13 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+But I had the proof , all documented in a legal agreement which I would show her the moment I was free to do so .
+1
+#15 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+As the bus turned into the main highway and headed toward Hanover I settled back in my seat and closed my eyes , thinking over the events of the past two weeks , trying to put the pieces in order .
+5
+#3 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#9 head VERB head%2:38:00::,head%2:38:01::
+#13 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+#19 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#33 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+I wondered suddenly as I listened to the disconnected jabberings coming from the patient behind me , if I had not perhaps imagined it all .
+2
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#22 imagine VERB imagine%2:31:01::
+I had come to Chicago from New York early in September with a dramatic production called Ask Tony .
+1
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+No one , not even the producer , had any real hope of getting it back to Broadway .
+2
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+But because it was a suspense gangster story of the Capone era , many of us felt that it might catch on for a run in Chicago , continue as a road company , and eventually become a movie .
+3
+#16 feel VERB feel%2:31:00::,feel%2:39:00::
+#28 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#36 become VERB become%2:30:00::,become%2:42:01::
+Ask Tony was doomed from the moment Kupcinet leveled on it in his Sun-Times column .
+1
+#8 level VERB level%2:33:01::
+We opened on Friday and closed the following Monday .
+2
+#1 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#5 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+This let me in for a lot of kidding from the rest of the company , two members of which were native Chicagoans .
+1
+#1 let VERB let%2:30:01::,let%2:41:00::
+We were paid off Tuesday morning and given tickets back to New York .
+1
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+I felt lonely and depressed as I packed my bags at the Croydon Hotel .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#7 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+I had been among the top third in my class at N. Y. U. , had wanted desperately to go to medical school , but I 'd run out of money and energy at the same time .
+1
+#16 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Then later I had quit my safe , secure five-a-week spot on a network soap opera to take a part in this play .
+1
+#4 quit VERB quit%2:38:00::
+I knew that I 'd soon be back working as an orderly at the hospital or as a counterman at Union News or Schraffts while waiting for another acting job to open .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#25 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#31 open VERB open%2:30:00::,open%2:30:01::,open%2:35:06::
+It suddenly occurred to me that I did not particularly like acting , that I was at some sort of crossroads and would have to decide soon what I was going to do with my life .
+1
+#10 like VERB like%2:37:05::
+I closed the last bag and stood all three at the door for the bellboy to pick up , then went to the bathroom for a drink of water .
+2
+#1 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#6 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+The telephone rang .
+1
+#2 ring VERB ring%2:39:00::,ring%2:39:01::
+When I answered it a voice too dignified and British to be real said , " Is this Mr. Dale Nelson , the actor " ?
+1
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" All right " , I said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I beg your pardon , sir " ?
+1
+#2 beg VERB beg%2:40:00::
+I 'm calling you , Mr. Nelson , at the request of Mr. Phillip Wycoff .
+1
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Could you possibly have lunch with him today ?
+1
+#3 have VERB have%2:40:03::,have%2:40:05::
+" You 'll send the Rolls-Royce , of course " ?
+1
+#3 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+I started to say something else appropriate , but the man had hung up .
+2
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I finally went downstairs to the bar off the main lobby where most of the cast were drowning their sorrows over the untimely passing of Ask Tony .
+1
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+They all bowed low as I approached them .
+2
+#2 bow VERB bow%2:38:00::
+#6 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+" All right , you bastards " , I said , " the great actor is about to buy a drink " .
+2
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+I laid a tenspot on the bar and motioned to the bartender to serve a round .
+2
+#8 motion VERB motion%2:32:00::
+#13 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+He had just returned my change when the doorman came in off the street to page me .
+2
+#3 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#15 page VERB page%2:32:00::
+I walked over to him .
+1
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+" You Mr. Nelson " ? he asked .
+1
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+" Mr. Wycoff 's car is waiting for you at the east entrance " .
+1
+#6 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+I followed him out through the lobby to the street .
+1
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+An ancient Rolls-Royce , as shiningly impressive as the day it came off the ship , was parked at the curb .
+1
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+The elderly chauffeur , immaculate in a dark uniform , stood stiffly at attention holding open the door of the town car .
+2
+#10 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#14 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::

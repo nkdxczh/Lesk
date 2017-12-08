@@ -1,0 +1,265 @@
+ I realized that Hamlet was faced with an entirely different problem , but his agony could have been no greater .
+2
+#1 realize VERB realize%2:31:01::
+#5 face VERB face%2:32:00::,face%2:32:03::
+The most that was accomplished was adding Mrs. Beige 's tray to the dish pile , and by means of repeated threats , on an ascending scale , seeing that the girls dressed themselves , after a fashion .
+2
+#6 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#32 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+I was saved from making the decision as the phone rang , and the girls were upon me instantly .
+1
+#10 ring VERB ring%2:39:00::,ring%2:39:01::
+Here 's a household hint : if you can n't find your children , and get tired of calling them , pick up the phone .
+2
+#10 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#18 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+No matter if your children are at the movies , in school , visiting their grandmother , or on a field trip in some distant city , they will be upon you magically within seconds after you pick up the phone .
+1
+#13 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+Louise climbed onto a stool and clutched the hand with which I was trying to hold the phone , claiming my immediate attention on grounds of extreme emergency .
+3
+#1 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#13 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#15 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+Somehow managing to get out a cool , poised , " Wo n't you hold on a second , please " , I covered up the mouthpiece , and with more warmth and less poise , gave a quick lecture on crime and punishment , mostly the latter , including Devil 's Island and the remoter reaches of Siberia .
+3
+#1 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#23 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#49 include VERB include%2:42:00::
+I promised to illustrate the lecture , if they so much as breathed till after the call was completed .
+1
+#1 promise VERB promise%2:32:00::,promise%2:32:01::
+Speaking into the phone again and recognizing the caller , I resumed my everyday voice .
+2
+#0 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#6 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+Soon we were deep in a conversation that was interrupted many times by little things like Jennie 's holding her breath and pretending to black out , Miranda 's dumping the contents of the sugar bowl on the table , and various screeches , thuds , and giggles .
+4
+#9 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+#18 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+#22 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#29 dump VERB dump%2:38:01::
+Under the circumstances , I had difficulty keeping up with the conversation on the phone , but when I hung up I was reasonably certain that Francesca had wanted to remind me of our town meeting the next evening , and how important it was that Hank and I be there .
+2
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#28 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+I discovered that the girls had shrewdly vacated the kitchen , and were playing quietly in the living room .
+3
+#1 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#7 vacate VERB vacate%2:41:00::
+#13 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+It seemed that I would be the gainer if I accepted the peace and quiet , instead of carrying out my threats .
+1
+#10 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+Resolving to get something done , I started in on the dishes .
+2
+#0 resolve VERB resolve%2:31:02::
+#2 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+I 'm not saying it right .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+What I meant to say was that I started to start in on the dishes by gathering them all together in the kitchen sink .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#16 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+They looked so formidable , however , so demanding , that I found myself staring at them in dismay and starting to woolgather again , this time about Francesca and her husband .
+2
+#1 look VERB look%2:39:01::,look%2:42:02::
+#20 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Francesca and Herbert were among the few people we knew in Catatonia .
+1
+#9 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+We did n't even know them till about a month after we moved - at that time , they had called on us , after I met Fran at a PTA meeting , and had taken us in hand socially .
+3
+#4 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#12 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#26 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+They had been kind to us and we were indebted to them for one or two pleasant dinners , and for information as to where to shop , which dentist , doctor , plumber , and sitter to call ( not that there was much of a choice , since Catatonia was just a village ; the yellow pages of the telephone book were amazingly thin ) .
+2
+#26 shop VERB shop%2:40:00::
+#38 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Fran and he had met about two years after she had arrived in Manhattan from Nebraska , or was it Wyoming ?
+1
+#4 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+She was the daughter and sole heiress of either a cattle baron or an oil millionaire and , having arrived in New York with a big bank roll , became a dabbler in various fields .
+1
+#29 become VERB become%2:30:00::,become%2:42:01::
+She patronized Greenwich Village artists for awhile , then put some money into a Broadway show which was successful ( terrible , but successful ) .
+1
+#1 patronize VERB patronize%2:41:00::
+It was during her " writing " period that she and Herb met and decided that they were in love .
+1
+#12 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+They were married at a lavish ceremony which was duly recorded in Parvenu and all other magazines and newspapers , and then they honeymooned in Bermuda .
+2
+#2 marry VERB marry%2:41:00::,marry%2:41:01::
+#10 record VERB record%2:32:00::,record%2:32:03::
+They had bought their house in Catatonia after investigating all the regions of suburbia surrounding New York ; they had chosen Catatonia because of its reputation for excellent schools , beaches , and abundance of names .
+1
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+" You are bound to get involved with people when you have children " , Fran had told me at our first meeting , " so it is good to know that those with whom you get involved are not just dreary little housewives and dull husbands , but People Who Do Things " .
+3
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#30 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I admired their easy way of doing things but I could n't escape an uneasiness at their way of always doing the right things .
+1
+#12 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+It had a gourmet 's corner ( instead of a kitchen ) , a breakfast room , a luncheon room , a dining room , a sitting room , a room for standing up , a party room , dressing rooms for everybody , even a room for mud .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+It was all set up so there would be no dust anywhere and so that their children would color in the coloring room , paint in the painting room , play with blocks in the block house , and do all the other things in the proper rooms at exactly the right time .
+3
+#18 color VERB color%2:36:01::
+#24 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+#30 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+Francesca and Herbert considered themselves violently nonconformist and showed the world they were by filling their Colonial house with contemporary furniture and paintings and other art objects ( expensive , but not necessarily valuable , contemporary things ) .
+1
+#8 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+Fran flaunted her independence by rebelling against the Catatonia uniform of Bermuda shorts and knee-length socks by wearing Bermuda shorts and knee-length socks in color ; bright pinks and plaids and vivid stripes .
+1
+#17 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+Sometimes she even wore the uniform in solid , unrelieved black , and with her blonde hair cut so closely , wearing this uniform , she strongly resembled a member of the SS. .
+2
+#3 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#21 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+No one could dislike them , I thought .
+1
+#7 think VERB think%2:31:01::,think%2:31:03::
+It seemed , indeed , that their house was not so much a home , but rather a perfect stage set , and that they were actors who had been handed fat roles in a successful play , and had talent enough to fill the roles competently , with nice understatement .
+2
+#30 hand VERB hand%2:40:00::
+#39 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Practically the only enthusiasm they showed was when they were discussing " names " ; even brand names .
+1
+#5 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+You should hear the reverence in Fran 's voice when she said " Baccarat " or " Steuben " or " Madame Alexander " .
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She always let it be known that there was wine in the pot roast or that the chicken had been marinated in brandy , and that Koussevitzky 's second cousin was an intimate of theirs .
+2
+#2 let VERB let%2:30:01::,let%2:41:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I could n't feel at home among them .
+1
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+I had once been a witness when Blanche had smiled and said with only minimum ruefulness , " Oh , my souffle has collapsed " .
+2
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 collapse VERB collapse%2:38:02::
+Anyone knows how a real , red-blooded woman would react to such a catastrophe !
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+If Blanche had been honest , she would have yelled , slammed at least a couple of doors , and thrown a few little , valueless things .
+1
+#20 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+After five minutes with Blanche , one might welcome the astringency of Grazie , who was a sort of Gwen Cafritz to Francesca 's Perle Mesta .
+1
+#8 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+Francesca and Grazie were habitual committee chairmen and they usually managed to be elected co-chairmen , equal bosses , of whatever PTA or civic project was being launched .
+2
+#10 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#27 launch VERB launch%2:35:00::,launch%2:35:04::
+They were inseparable , not because they were fond of each other , but because they wanted to keep an eye on each other , as they were keen rivals for social leadership .
+1
+#16 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+She it was who had looked to see if I was wearing shoes upon learning that I could n't drive .
+5
+#5 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#14 learn VERB learn%2:31:01::,learn%2:31:03::
+#19 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+Grazie had a small , slick head and her hair and skin were the color of golden toast .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+She lived in an ultra-modern house whose decoration , appointments , paint , and even pets were chosen to complement her coloring ; the pets were a couple of Siamese cats .
+1
+#1 live VERB live%2:42:08::
+Her uniform was of rich , raw silk , in a shade which matched her hair , skin , housepaint , and cats , and since she was so thin as to be almost shapeless , she rather resembled a frozen fish stick .
+1
+#13 match VERB match%2:30:01::,match%2:35:08::
+The husbands of these women and others I had met in Catatonia were distinguished only in that they were , to me at least , indistinguishable .
+1
+#9 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+I could n't tell one from the other .
+1
+#3 tell VERB tell%2:31:00::,tell%2:31:01::
+Each had developed a hair-trigger chuckle and the habit of saying " zounds " ! in deference to country-squirehood .
+2
+#2 develop VERB develop%2:32:00::,develop%2:36:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I never thought I 'd live to hear people chuckle and say " zounds " ! in real life .
+2
+#5 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I would n't have missed it for anything .
+1
+#4 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+These boys acknowledged an introduction to anybody by gently pressing one of his hands in both of theirs , while they gazed , misty-eyed with care , into the eyes of the person they were meeting .
+3
+#2 acknowledge VERB acknowledge%2:32:04::,acknowledge%2:32:07::
+#9 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#35 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Could such unadulterated love , for a total stranger , be credited ?
+1
+#11 credit VERB credit%2:31:00::
+They were always leaping to light cigarettes , open car doors , fill plates or glasses , and I mistrusted the whole lot of them to the same degree that I mistrusted bake shops that called themselves " Sanitary Bake Shops " .
+2
+#8 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#35 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+I thought , and wondered what kind of homesteads such odd pioneers would establish in this suburban frontier ; pioneers who looked like off-duty gardeners even at parent-teacher conferences and who never called the school principal " Mister " .
+3
+#4 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#13 establish VERB establish%2:36:01::,establish%2:41:00::
+#32 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+I sighed , thinking that among other things , people here seemed to be those who would have to cut down if they earned less than $ 85000 yearly ; people who would give their teeth for a chance to get on " Person to Person " ; people who thought it was nice to be important , but not important to be nice ; who were more ingratiating than gracious , more personalities than persons .
+3
+#17 have VERB have%2:42:08::
+#33 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#50 think VERB think%2:31:01::,think%2:31:03::
+In my estimation , they were people who read Daphne du Maurier , and discussed Kafka ; well , not discussed him exactly , but said , " Kafka " !
+2
+#8 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+reverently and raised their eyes , as if they were at a loss to describe how they felt about Kafka , which they were , because they had no opinions about Kafka , not having read Kafka .
+4
+#2 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#14 describe VERB describe%2:32:01::
+#27 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#35 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+They were , I felt , people invariably trying to prove not who , but what they were , and trying to determine what , not who , others were .
+5
+#4 feel VERB feel%2:31:00::,feel%2:39:00::
+#8 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#20 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#22 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+Becoming aware that it was nearly lunchtime , I brought myself back to the tasks at hand .
+1
+#0 become VERB become%2:30:00::,become%2:42:01::
+I made plans for the afternoon - doing the breakfast and luncheon dishes all at once , making the beds , and then maybe painting the kitchen .
+3
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#24 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+Jennie had shouted each time .
+1
+#2 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+I dug around and found a mix , and was able to surprise them with a devil 's - food cake with chocolate icing .
+2
+#1 dig VERB dig%2:35:01::
+#4 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+( Sometimes I think you need only one rule for cooking :
+2
+#3 think VERB think%2:31:01::,think%2:31:03::
+#5 need VERB need%2:42:00::
+The cake was received in a stunned silence that was evidence in itself of the dearth of taste thrills Mama had been providing .
+1
+#22 provide VERB provide%2:34:00::,provide%2:40:00::
+Then Jennie closed her eyes , stretched forth her arms , and said : " Take my hand , Louise ; I 'm a stranger in paradise " .
+3
+#2 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::

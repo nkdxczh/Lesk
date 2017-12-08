@@ -1,0 +1,621 @@
+ It was the first time any of us had laughed since the morning began .
+4
+#3 first ADJ first%3:00:00::,first%4:02:00::
+#4 time NOUN time%1:11:00::
+#12 morning NOUN morning%1:28:00::,morning%1:28:01::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The rider from Concord was as good as his word .
+2
+#1 rider NOUN rider%1:18:02::
+#9 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+He came spurring and whooping down the road , his horse kicking up clouds of dust , shouting :
+6
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 road NOUN road%1:04:00::,road%1:06:00::
+#10 horse NOUN horse%1:05:00::,horse%1:14:00::
+#13 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#15 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#17 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+By God , they 're a-coming , they are " !
+1
+#1 God NOUN god%1:18:00::
+We heard him before he ever showed , and we heard him yelling after he was out of sight .
+2
+#5 ever ADV ever%4:02:05::
+#6 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+Solomon Chandler had n't misjudged the strength of his lungs , not at all .
+2
+#6 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#13 all ADV all%4:02:00::
+I think you could have heard him a mile away , and he was bursting at every seam with importance .
+1
+#1 think VERB think%2:31:01::,think%2:31:03::
+I have observed that being up on a horse changes the whole character of a man , and when a very small man is up on a saddle , he 'd like as not prefer to eat his meals there .
+14
+#2 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#5 up ADV up%4:02:00::,up%4:02:02::
+#8 horse NOUN horse%1:05:00::,horse%1:14:00::
+#9 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#11 whole ADJ whole%3:00:00::
+#12 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#15 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#22 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#24 up ADV up%4:02:00::,up%4:02:02::
+#27 saddle NOUN saddle%1:06:00::
+#31 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#34 prefer VERB prefer%2:31:00::
+#38 meal NOUN meal%1:28:00::
+#39 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+That 's understandable , and I appreciate the sentiment .
+2
+#6 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+#8 sentiment NOUN sentiment%1:09:00::
+As for this rider , I never saw him before or afterwards and never saw him dismounted , so whether he stood tall or short in his shoes , I can n't say ; but I do know that he gave the day tone and distinction .
+15
+#3 rider NOUN rider%1:18:02::
+#6 never ADV never%4:02:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 before ADV before%4:02:03::
+#13 never ADV never%4:02:00::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#21 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#22 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#24 short ADJ short%3:00:01::
+#27 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#40 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#42 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#43 tone NOUN tone%1:10:01::,tone%1:26:01::
+The last thing in the world that resembled a war was our line of farmers and storekeepers and mechanics perched on top of a stone wall , and this dashing rider made us feel a good deal sharper and more alert to the situation .
+12
+#1 last ADJ last%5:00:00:unlikely:00
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#12 line NOUN line%1:06:08::,line%1:10:06::,line%1:14:00::,line%1:14:01::,line%1:14:02::,line%1:14:03::
+#14 farmer NOUN farmer%1:18:00::
+#16 storekeeper NOUN storekeeper%1:18:00::
+#18 mechanic NOUN mechanic%1:18:01::
+#21 top NOUN top%1:15:00::,top%1:15:01::
+#29 dashing ADJ dashing%5:00:00:spirited:00
+#30 rider NOUN rider%1:18:02::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#37 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+#43 situation NOUN situation%1:26:01::
+I have heard people talk with contempt about the British regulars , but that only proves that a lot of people talk about things of which they are deplorably ignorant .
+6
+#3 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#9 British ADJ british%3:01:00::
+#14 only ADV only%4:02:00::,only%4:02:04::
+#15 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#20 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#23 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Whatever we felt about the redcoats , we respected them in terms of their trade , which was killing ; and I know that I , myself , was nauseated with apprehension and fear and that my hands were soaking wet where they held my gun .
+6
+#18 killing NOUN killing%1:04:00::
+#22 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#31 apprehension NOUN apprehension%1:12:00::
+#37 hand NOUN hand%1:08:00::,hand%1:10:01::
+#40 wet ADJ wet%3:00:01::,wet%3:00:05::
+#43 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+I wanted to wipe my flint , but I did n't dare to , the state my hands were in , just as I did n't dare to do anything about the priming .
+5
+#3 wipe VERB wipe%2:35:00::
+#11 dare VERB dare%2:41:01::
+#17 hand NOUN hand%1:08:00::,hand%1:10:01::
+#21 just ADV just%4:02:05::
+#26 dare VERB dare%2:41:01::
+The gun would fire or not , just as chance willed .
+4
+#3 fire VERB fire%2:33:00::,fire%2:33:02::
+#7 just ADV just%4:02:05::
+#9 chance NOUN chance%1:19:00::
+#10 will VERB will%2:32:00::
+I put a lot more trust in my two legs than in the gun , because the most important thing I had learned about war was that you could run away and survive to talk about it .
+5
+#1 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#5 trust NOUN trust%1:07:00::
+#9 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#17 most ADV most%4:02:00::
+#22 learn VERB learn%2:31:01::,learn%2:31:03::
+The gunfire , which was so near that it seemed just a piece up the road now , stopped for long enough to count to twenty ; and in that brief interval , a redcoat officer came tearing down the road , whipping his horse fit to kill .
+14
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 near ADJ near%3:00:00::
+#15 road NOUN road%1:04:00::,road%1:06:00::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#18 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#23 count VERB count%2:32:00::,count%2:32:01::
+#31 interval NOUN interval%1:09:00::
+#35 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#36 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#37 tear VERB tear%2:38:00::
+#40 road NOUN road%1:04:00::,road%1:06:00::
+#42 whip VERB whip%2:35:00::
+#44 horse NOUN horse%1:05:00::,horse%1:14:00::
+#45 fit ADJ fit%3:00:02::
+I do n't know whether he was after our rider , who had gone by a minute before , or whether he was simply scouting conditions ; but when he passed us by , a musket roared , and he reared his horse , swung it around , and began to whip it back in the direction from which he had come .
+14
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 rider NOUN rider%1:18:02::
+#16 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#17 before ADV before%4:02:03::
+#23 simply ADV simply%4:02:00::,simply%4:02:02::
+#24 scout VERB scout%2:39:00::
+#36 roar VERB roar%2:29:00::,roar%2:32:01::,roar%2:32:02::,roar%2:32:03::,roar%2:32:05::
+#42 horse NOUN horse%1:05:00::,horse%1:14:00::
+#44 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+#46 around ADV around%4:02:08::,around%4:02:09::
+#49 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#53 back ADV back%4:02:01::,back%4:02:04::
+#56 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#61 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He was a fine and showy rider , but his skill was wasted on us .
+3
+#3 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#6 rider NOUN rider%1:18:02::
+#12 wasted ADJ wasted%5:00:00:lost:01
+From above me and somewhere behind me , a rifle cracked .
+1
+#10 crack VERB crack%2:35:00::
+The redcoat officer collapsed like a punctured bolster , and the horse reared and threw him from the saddle , except that one booted foot caught in the stirrup .
+7
+#2 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#3 collapse VERB collapse%2:29:00::
+#11 horse NOUN horse%1:05:00::,horse%1:14:00::
+#18 saddle NOUN saddle%1:06:00::
+#24 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#25 catch VERB catch%2:35:01::,catch%2:35:03::,catch%2:35:06::
+#28 stirrup NOUN stirrup%1:06:00::
+Half crazed by the weight dragging , the dust , and the heat , the horse leaped our wall , dashing out the rider 's brains against it , and leaving him lying there among us - while the horse crashed away through the brush .
+14
+#5 drag VERB drag%2:32:00::,drag%2:35:00::,drag%2:35:01::,drag%2:35:02::,drag%2:38:06::,drag%2:38:10::
+#8 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#12 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#15 horse NOUN horse%1:05:00::,horse%1:14:00::
+#20 dash VERB dash%2:35:02::
+#23 rider NOUN rider%1:18:02::
+#25 brain NOUN brain%1:08:00::,brain%1:13:00::
+#30 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#32 lie VERB lie%2:35:00::,lie%2:38:00::
+#33 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#39 horse NOUN horse%1:05:00::,horse%1:14:00::
+#40 crash VERB crash%2:38:04::
+#41 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#44 brush NOUN brush%1:14:00::
+It was my initiation to war and the insane symphony war plays ; for what had happened on the common was only terror and flight ; but this grinning , broken head , not ten feet away from me , was the sharp definition of what my reality had become .
+16
+#3 initiation NOUN initiation%1:04:01::
+#11 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+#16 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#19 common NOUN common%1:15:00::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 terror NOUN terror%1:04:00::
+#24 flight NOUN flight%1:04:01::
+#30 broken ADJ broken%5:00:00:incomplete:00
+#31 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#33 not ADV not%4:02:00::
+#35 foot NOUN foot%1:23:00::
+#36 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#42 sharp ADJ sharp%5:00:00:distinct:00,sharp%5:00:00:pointed:00
+#43 definition NOUN definition%1:07:00::
+#47 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#49 become VERB become%2:30:00::,become%2:42:01::
+And now the redcoats were coming , and the gunfire was a part of the dust cloud on the road to the west of us .
+5
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#12 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#19 road NOUN road%1:04:00::,road%1:06:00::
+#22 west NOUN west%1:24:00::,west%1:24:02::
+I must state that the faster things happened , the slower they happened ; the passage and rhythm of time changed , and when I remember back to what happened then , each event is a separate and frozen incident .
+12
+#2 state VERB state%2:32:01::,state%2:32:02::
+#5 fast ADJ fast%3:00:01::
+#6 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#10 slow ADJ slow%3:00:01::
+#12 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#15 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#19 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#20 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#26 back ADV back%4:02:01::,back%4:02:04::
+#29 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#30 then ADV then%4:02:01::
+In my recollection , there was a long interval between the death of the officer and the appearance of the first of the retreating redcoats , and in that interval the dust cloud over the road seems to hover indefinitely .
+6
+#8 interval NOUN interval%1:09:00::
+#14 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#17 appearance NOUN appearance%1:11:00::
+#20 first ADJ first%3:00:00::,first%4:02:00::
+#29 interval NOUN interval%1:09:00::
+#35 road NOUN road%1:04:00::,road%1:06:00::
+Yet it could not have been more than a matter of seconds , and then the front of the British army came into view .
+6
+#11 second NOUN second%1:28:00::,second%1:28:01::
+#14 then ADV then%4:02:00::
+#16 front NOUN front%1:06:00::,front%1:14:00::,front%1:15:00::,front%1:19:00::,front%1:26:00::
+#19 British ADJ british%3:01:00::
+#21 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#23 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+It was only hours since I had last seen them , but they had changed and I had changed .
+6
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 hour NOUN hour%1:07:00::,hours%1:28:01::
+#7 last ADV last%3:00:00::
+#8 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#14 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#18 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+In the very front rank , two men were wounded and staggered along , trailing blood behind them .
+6
+#3 front ADJ front%3:00:00::
+#4 rank NOUN rank%1:14:00::,rank%1:14:01::,rank%1:14:02::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 stagger VERB stagger%2:38:01::
+#14 trail VERB trail%2:38:00::
+#15 blood NOUN blood%1:04:00::,blood%1:08:00::
+No drummers here , no pipers , and the red coats were covered with a fine film of dust .
+5
+#1 drummer NOUN drummer%1:18:00::
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#15 fine ADJ fine%3:00:00::,fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:thin:01
+#16 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+#18 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+They marched with bayonets fixed , and as fixed on their faces was anger , fear , and torment .
+5
+#1 march VERB march%2:38:00::
+#3 bayonet NOUN bayonet%1:06:00::
+#4 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#8 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#11 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Rank after rank of them came down the road , and the faces were all the same , and they walked in a sea of dust .
+6
+#2 rank NOUN rank%1:14:00::,rank%1:14:01::,rank%1:14:02::
+#8 road NOUN road%1:04:00::,road%1:06:00::
+#12 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#16 same ADJ same%3:00:00::,same%3:00:02::
+#20 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#25 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+" Committeemen , hold your fire !
+2
+#3 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+#5 fire NOUN fire%1:04:00::,fire%1:10:00::
+Hold your fire " !
+2
+#0 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+#2 fire NOUN fire%1:04:00::,fire%1:10:00::
+a voice called , and what made it even more terrible and unreal was that the redcoat ranks never paused for an instant , only some of them glancing toward the stone wall , from behind which the voice came .
+9
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 rank NOUN rank%1:14:00::,rank%1:14:01::,rank%1:14:02::
+#18 never ADV never%4:02:00::
+#22 instant NOUN instant%1:28:01::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 glance VERB glance%2:38:00::,glance%2:39:00::
+#38 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+The front of their column had already passed us , when another officer came riding down the side of the road , not five paces from where we were .
+12
+#1 front NOUN front%1:06:00::,front%1:14:00::,front%1:15:00::,front%1:19:00::,front%1:26:00::
+#4 column NOUN column%1:08:00::,column%1:14:00::,column%1:25:02::
+#6 already ADV already%4:02:00::
+#7 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#12 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#14 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#15 down ADJ down%3:00:00::
+#17 side NOUN side%1:15:01::,side%1:15:02::
+#20 road NOUN road%1:04:00::,road%1:06:00::
+#22 not ADV not%4:02:00::
+#24 pace NOUN pace%1:04:00::
+My Cousin Simmons carried a musket , but he had loaded it with bird shot , and as the officer came opposite him , he rose up behind the wall and fired .
+6
+#3 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#10 load VERB load%2:35:02::
+#19 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#20 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#21 opposite ADJ opposite%3:00:00::,opposite%5:00:00:different:00,opposite%5:00:01:other:00
+#31 fire VERB fire%2:33:00::,fire%2:33:02::
+One moment there was a man in the saddle ; the next a headless horror on a horse that bolted through the redcoat ranks , and during the next second or two , we all of us fired into the suddenly disorganized column of soldiers .
+11
+#1 moment NOUN moment%1:28:00::,moment%1:28:01::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 saddle NOUN saddle%1:06:00::
+#14 horror NOUN horror%1:12:01::
+#17 horse NOUN horse%1:05:00::,horse%1:14:00::
+#19 bolt VERB bolt%2:38:02::
+#23 rank NOUN rank%1:14:00::,rank%1:14:01::,rank%1:14:02::
+#29 second NOUN second%1:28:00::,second%1:28:01::
+#37 fire VERB fire%2:33:00::,fire%2:33:02::
+#42 column NOUN column%1:08:00::,column%1:14:00::,column%1:25:02::
+#44 soldier NOUN soldier%1:18:00::
+One moment , the road was filled with disciplined troops , marching four by four with a purpose as implacable as death ; the next , a cloud of gun smoke covered a screaming fury of sound , out of which the redcoat soldiers emerged with their bayonets and their cursing fury .
+10
+#1 moment NOUN moment%1:28:00::,moment%1:28:01::
+#4 road NOUN road%1:04:00::,road%1:06:00::
+#9 troop NOUN troop%1:14:00::
+#11 march VERB march%2:38:00::
+#27 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#34 fury NOUN fury%1:12:00::
+#36 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#43 soldier NOUN soldier%1:18:00::
+#47 bayonet NOUN bayonet%1:06:00::
+#51 fury NOUN fury%1:12:00::
+In the course of this , they had fired on us ; but I have no memory of that .
+4
+#2 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#8 fire VERB fire%2:33:00::,fire%2:33:02::
+#14 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#16 memory NOUN memory%1:09:00::,memory%1:09:02::
+I had squeezed the trigger of my own gun , and to my amazement , it had fired and kicked back into my shoulder with the force of an angry mule ; and then I was adding my own voice to the crescendo of sound , hurling more vile language than I ever thought I knew , sobbing and shouting , and aware that if I had passed water before , it was not enough , for my pants were soaking wet .
+18
+#2 squeeze VERB squeeze%2:35:00::,squeeze%2:35:05::,squeeze%2:40:03::,squeeze%2:41:01::
+#7 own ADJ own%5:00:00:personal:00
+#17 fire VERB fire%2:33:00::,fire%2:33:02::
+#23 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#26 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#30 mule NOUN mule%1:05:00::
+#33 then ADV then%4:02:00::
+#36 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#38 own ADJ own%5:00:00:personal:00
+#39 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#44 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#52 ever ADV ever%4:02:05::
+#55 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#59 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#69 before ADV before%4:02:03::
+#73 not ADV not%4:02:00::
+#78 pants NOUN panting%1:06:00::
+#81 wet ADJ wet%3:00:01::,wet%3:00:05::
+I would have stood there and died there if left to myself , but Cousin Simmons grabbed my arm in his viselike grip and fairly plucked me out of there ; and then I came to some sanity and plunged away with such extraordinary speed that I outdistanced Cousin Simmons by far .
+12
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#6 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#7 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#9 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#16 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#18 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#22 grip NOUN grip%1:04:00::
+#24 fairly ADV fairly%4:02:02::
+#25 pluck VERB pluck%2:40:01::
+#29 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#40 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#44 speed NOUN speed%1:04:00::,speed%1:07:00::
+Everyone else was running .
+1
+#3 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+Later we realized that the redcoats had stopped their charge at the wall .
+4
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#2 realize VERB realize%2:31:01::
+#7 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#9 charge NOUN charge%1:04:01::
+Their only hope of survival was to hold to the road and keep marching .
+5
+#2 hope NOUN hope%1:09:00::,hope%1:18:00::
+#7 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#10 road NOUN road%1:04:00::,road%1:06:00::
+#12 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#13 march VERB march%2:38:00::
+We tumbled to a stop in Deacon Gordon 's cow hole , a low-lying bit of pasture with a muddy pool of water in its middle .
+7
+#1 tumble VERB tumble%2:30:00::
+#4 stop NOUN stop%1:10:01::
+#10 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#14 bit NOUN bit%1:23:01::
+#16 pasture NOUN pasture%1:15:00::
+#20 pool NOUN pool%1:06:00::,pool%1:17:01::
+#25 middle NOUN middle%1:28:00::
+A dozen cows mooed sadly and regarded us as if we were insane , as perhaps we were at that moment , with the crazy excitement of our first encounter , the yelling and shooting still continuing up at the road , and the thirst of some of the men , which was so great that they waded into the muddy water and scooped up handfuls of it .
+10
+#20 moment NOUN moment%1:28:00::,moment%1:28:01::
+#24 crazy ADJ crazy%5:00:00:insane:00
+#28 first ADJ first%3:00:00::,first%4:02:00::
+#35 still ADV still%4:02:00::
+#36 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#40 road NOUN road%1:04:00::,road%1:06:00::
+#49 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#53 so ADV so%4:02:03::,so%4:02:07::
+#54 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#65 handful NOUN handful%1:23:00::
+Isaac Pitt , one of the men from Lincoln , had taken a musket ball in his belly ; and though he had found the strength to run with us , now he collapsed and lay on the ground , dying , the Reverend holding his head and wiping his hot brow .
+14
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#23 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#25 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#27 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#31 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#33 collapse VERB collapse%2:29:00::
+#38 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#40 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#44 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#46 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#48 wipe VERB wipe%2:35:00::
+#50 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#51 brow NOUN brow%1:08:00::
+It may appear that we were cruel and callous , but no one had time to spend sympathizing with poor Isaac - except the Reverend .
+3
+#2 appear VERB appear%2:30:00::
+#14 time NOUN time%1:28:01::,time%1:28:05::
+#19 poor ADJ poor%5:00:00:unfortunate:00
+I know that I myself felt that it was a mortal shame for a man to be torn open by a British musket ball , as Isaac had been , yet I also felt relieved and lucky that it had been him and not myself .
+8
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 feel VERB feel%2:31:00::,feel%2:39:00::
+#10 mortal ADJ mortal%5:00:01:fatal:00
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#17 tear VERB tear%2:35:00::,tear%2:35:01::
+#18 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#21 British ADJ british%3:01:00::
+#33 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+I was drunk with excitement and the smell of gunpowder that came floating down from the road , and the fact that I was not afraid now , but only waiting to know what to do next .
+10
+#9 gunpowder NOUN gunpowder%1:27:00::
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#12 float VERB float%2:38:04::
+#13 down ADV down%4:02:00::,down%4:02:02::
+#16 road NOUN road%1:04:00::,road%1:06:00::
+#26 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#29 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#30 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#32 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#36 next ADV next%4:02:00::
+Meanwhile , I reloaded my gun , as the other men were doing .
+2
+#9 other ADJ other%3:00:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+We were less than a quarter of a mile from the road , and we could trace its shape from the ribbon of powder smoke and dust that hung over it .
+6
+#5 quarter NOUN quarter%1:28:00::
+#11 road NOUN road%1:04:00::,road%1:06:00::
+#18 shape NOUN shape%1:07:00::,shape%1:07:01::
+#21 ribbon NOUN ribbon%1:06:00::
+#26 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#28 hang VERB hang%2:35:06::,hang%2:42:00::
+Wherever you looked , you saw Committeemen running across the meadows , some away from the road , some toward it , some parallel to it ; and about a mile to the west a cluster of at least fifty militia were making their way in our direction .
+7
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#13 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#16 road NOUN road%1:04:00::,road%1:06:00::
+#33 west NOUN west%1:24:00::,west%1:24:02::
+#47 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+Cousin Joshua and some others felt that we should march toward Lexington and take up new positions ahead of the slow-moving British column , but another group maintained that we should stick to this spot and this section of road .
+8
+#5 feel VERB feel%2:31:00::,feel%2:39:00::
+#9 march VERB march%2:38:00::
+#16 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#22 column NOUN column%1:08:00::,column%1:14:00::,column%1:25:02::
+#31 stick VERB stick%2:35:10::
+#34 spot NOUN spot%1:10:01::,spot%1:15:01::
+#37 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#39 road NOUN road%1:04:00::,road%1:06:00::
+I did n't offer any advice , but I certainly did not want to go back to where the officer lay with his brains dashed out .
+3
+#19 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#23 brain NOUN brain%1:08:00::,brain%1:13:00::
+#24 dash VERB dash%2:35:02::
+Someone said that while we were standing here and arguing about it , the British would be gone ; but Cousin Simmons said he had watched them marching west early in the morning , and moving at a much brisker pace it had still taken half an hour for their column to pass , what with the narrowness of the road and their baggage and ammunition carts .
+18
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 argue VERB argue%2:32:00::
+#17 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#27 march VERB march%2:38:00::
+#29 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#32 morning NOUN morning%1:28:00::,morning%1:28:01::
+#40 pace NOUN pace%1:28:00::
+#44 take VERB take%2:40:06::,take%2:42:03::
+#47 hour NOUN hour%1:07:00::,hours%1:28:01::
+#50 column NOUN column%1:08:00::,column%1:14:00::,column%1:25:02::
+#52 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#60 road NOUN road%1:04:00::,road%1:06:00::
+#63 baggage NOUN baggage%1:06:00::
+#65 ammunition NOUN ammunition%1:06:00::
+While this was being discussed , we saw the militia to the west of us fanning out and breaking into little clusters of two and three men as they approached the road .
+5
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 west NOUN west%1:24:00::,west%1:24:02::
+#26 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#29 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#31 road NOUN road%1:04:00::,road%1:06:00::
+It was the opinion of some of us that these must be part of the Committeemen who had been in the Battle of the North Bridge , which entitled them to a sort of veteran status , and we felt that if they employed this tactic , it was likely enough the best one .
+8
+#12 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#28 entitle VERB entitled%5:00:00:eligible:00
+#32 sort NOUN sort%1:09:00::,sort%1:18:00::
+#35 status NOUN status%1:26:00::,status%1:26:01::
+#39 feel VERB feel%2:31:00::,feel%2:39:00::
+#43 employ VERB employ%2:34:00::
+#50 enough ADV enough%4:02:00::
+#52 good ADJ best%3:00:00::,good%3:00:01::
+Mattathias Dover said :
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+If we cluster together , the redcoats can make an advantage out of it , but there 's not a blessed thing they can do with two or three of us except chase us , and we can outrun them " .
+4
+#3 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#20 blessed ADJ blessed%5:00:01:cursed:00
+#21 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#32 chase NOUN chase%1:04:00::
+That settled it , and we broke into parties of two and three .
+2
+#1 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#8 party NOUN party%1:14:02::
+Cousin Joshua Dover decided to remain with the Reverend and poor Isaac Pitt until life passed away - and he was hurt so badly he did not seem for long in this world .
+5
+#10 poor ADJ poor%5:00:00:unfortunate:00
+#14 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#22 so ADV so%4:02:03::,so%4:02:07::
+#23 badly ADV badly%4:02:02::
+#32 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+I went off with Cousin Simmons , who maintained that if he did n't see to me , he did n't know who would .
+2
+#14 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Good heavens , Adam " , he said , " I thought one thing you 'd have no trouble learning is when to get out of a place " .
+4
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#28 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+" I learned that now " , I said .
+2
+#2 learn VERB learn%2:31:01::,learn%2:31:03::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+We ran east for about half a mile before we turned back to the road , panting from the effort and soaked with sweat .
+4
+#1 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#2 east ADJ east%3:00:00::
+#14 road NOUN road%1:04:00::,road%1:06:00::
+#23 sweat NOUN sweat%1:04:00::
+There was a clump of trees that appeared to provide cover right up to the road , and the shouting and gunfire never slackened .
+8
+#3 clump NOUN clump%1:14:01::
+#5 tree NOUN tree%1:20:00::
+#7 appear VERB appear%2:30:00::
+#9 provide VERB provide%2:34:00::,provide%2:40:00::
+#10 cover NOUN cover%1:04:01::,cover%1:04:02::,cover%1:06:02::,cover%1:17:00::
+#11 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#15 road NOUN road%1:04:00::,road%1:06:00::
+#19 shout NOUN shout%1:10:00::
+Under the trees , there was a dead redcoat , a young boy with a pasty white skin and a face full of pimples , who had taken a rifle ball directly between the eyes .
+11
+#2 tree NOUN tree%1:20:00::
+#7 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#12 boy NOUN boy%1:18:03::
+#15 pasty ADJ pasty%5:00:00:colorless:02
+#16 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#17 skin NOUN skin%1:05:01::,skin%1:06:02::,skin%1:08:00::,skin%1:26:00::
+#20 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#21 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#27 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#31 directly ADV directly%4:02:05::
+#34 eye NOUN eye%1:08:00::,eye%1:09:01::
+Three men were around him .
+1
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+They had stripped him of his musket and equipment , and now they were pulling his boots and jacket off .
+2
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#16 boot NOUN boot%1:06:00::
+Cousin Simmons grabbed one of them by the shoulder and flung him away .
+3
+#2 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#8 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#12 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Cousin Simmons roared .
+1
+#2 roar VERB roar%2:29:00::,roar%2:32:01::,roar%2:32:02::,roar%2:32:03::,roar%2:32:05::
+They tried to outface him , but Joseph Simmons was as wide as two average men , and it would have taken braver men than these were to outface him .
+5
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#11 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#15 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#21 take VERB take%2:40:06::,take%2:42:03::
+#23 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::

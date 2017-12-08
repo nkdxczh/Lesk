@@ -1,0 +1,805 @@
+ Going downstairs with the tray , Winston wished he could have given in to Miss Ada , but he knew better than to do what she said when she had that little girl look .
+7
+#0 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#19 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 better ADV better%4:02:00::
+#26 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#32 girl NOUN girl%1:18:00::,girl%1:18:04::
+#33 look NOUN look%1:04:00::,look%1:07:01::
+There were times it was n't right to make a person happy , like the times she came in the kitchen and asked for a peanut butter sandwich .
+7
+#2 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 person NOUN person%1:03:00::,person%1:08:00::
+#11 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#15 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#20 kitchen NOUN kitchen%1:06:00::
+#22 ask VERB ask%2:32:01::,ask%2:32:05::
+" You know we do n't keep peanut butter in this house " , he always told her .
+5
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#15 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" Why , Winston " , she 'd cry , " I just now saw you eating it out of the jar " !
+2
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#18 out ADV out%4:02:04::
+But he knew how important it was for her to keep her figure .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+In the kitchen , Leona , his little young wife , was reading the morning paper .
+3
+#2 kitchen NOUN kitchen%1:06:00::
+#14 morning NOUN morning%1:28:00::,morning%1:28:01::
+#15 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+Her legs hung down long and thin as she sat on the high stool .
+7
+#1 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#2 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#3 down ADV down%4:02:00::,down%4:02:02::
+#4 long ADJ long%3:00:01::
+#6 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#9 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#12 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+" Here " , Winston said gently , " what 's these dishes doing not washed " ?
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 dish NOUN dish%1:06:00::
+#14 not ADV not%4:02:00::
+The enormous plates which had held Mr. Jack 's four fried eggs and five strips of bacon were still stacked in the sink .
+6
+#2 plate NOUN plate%1:06:00::,plate%1:06:02::,plate%1:06:03::,plate%1:13:01::,plate%1:23:00::
+#5 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+#14 strip NOUN strip%1:06:03::,strip%1:17:00::
+#18 still ADV still%4:02:00::
+#19 stack VERB stack%2:35:00::
+#22 sink NOUN sink%1:06:00::
+" Leave me alone " , Leona said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She looked at him impudently over the corner of the paper .
+3
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#10 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+" This is moving day " , Winston reminded her , " and I bet you left things every which way upstairs , your clothes all over the floor and the bed not made .
+8
+#4 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#14 bet VERB bet%2:31:00::
+#16 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#17 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#24 clothes NOUN clothes%1:06:00::
+#28 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#31 bed NOUN bed%1:06:00::
+#32 not ADV not%4:02:00::
+His eye had fastened on her leg ; bending , he touched her knee .
+3
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+#6 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#11 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+" If I catch you one more time down here without stockings " -
+4
+#3 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#7 time NOUN time%1:11:00::
+#8 down ADJ down%3:00:00::
+#9 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+She twitched her leg away .
+3
+#1 twitch VERB twitch%2:29:00::
+#3 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#4 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+She had an alley cat 's manners .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 manner NOUN manner%1:07:01::,manners%1:07:00::
+Winston stacked Miss Ada 's thin pink dishes in the sink .
+5
+#1 stack VERB stack%2:35:00::
+#5 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#6 pink ADJ pink%5:00:00:chromatic:00
+#7 dish NOUN dish%1:06:00::
+#10 sink NOUN sink%1:06:00::
+Then he spread out the last list on the counter .
+3
+#0 then ADV then%4:02:00::
+#6 list NOUN list%1:10:00::
+#9 counter NOUN counter%1:06:00::
+" To Be Left Behind " was printed at the top in Miss Ada ; fine hand .
+4
+#4 behind ADV behind%4:02:01::
+#10 top NOUN top%1:06:00::,top%1:06:01::,top%1:06:04::,top%1:15:00::
+#15 fine ADJ fine%3:00:00::,fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:thin:01
+#16 hand NOUN hand%1:09:00::
+Winston took out a pencil , admired the point , and wrote slowly and heavily , " Clothes Stand " .
+5
+#8 point NOUN point%1:06:00::,point%1:25:00::
+#11 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#14 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+#17 clothes NOUN clothes%1:06:00::
+#18 stand NOUN stand%1:15:00::
+Sighing , Leona dropped the paper and stood up .
+2
+#3 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#5 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+" I guess I better get ready to go " .
+3
+#5 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#6 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#8 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+Winston watched her fumbling to untie her apron .
+2
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#7 apron NOUN apron%1:06:00::
+Carefully , he undid the bow .
+2
+#3 undo VERB undo%2:35:01::
+#5 bow NOUN bow%1:06:03::
+" How come your bows is always cockeyed " ?
+2
+#4 bow NOUN bow%1:06:03::
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+She turned and put her arms around his neck .
+4
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#3 put VERB put%2:35:00::,put%2:35:05::
+#5 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#8 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+" I do n't want to leave here , Winston " .
+3
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 leave VERB leave%2:38:00::,leave%2:41:00::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+" Now listen to that " .
+1
+#1 now ADV now%4:02:07::
+" I thought you was sick to death of this big house .
+2
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+Said you wore yourself out , cleaning all these empty rooms " .
+2
+#9 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#10 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+" At least there is room here " , she said .
+3
+#5 room NOUN room%1:26:00::
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" What room is there going to be in an apartment for any child " ?
+1
+#2 room NOUN room%1:26:00::
+" I told you what Miss Ada 's doctor said " .
+3
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 doctor NOUN doctor%1:18:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I do n't mean Miss Ada !
+1
+#4 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+What you think I care about that ?
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#4 care VERB care%2:37:00::,care%2:37:12::
+I mean our children " .
+1
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+She sounded as though they already existed .
+2
+#5 already ADV already%4:02:00::
+#6 exist VERB exist%2:42:00::
+In spite of the hundred things he had on his mind , Winston went and put his arm around her waist .
+5
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#10 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+#15 put VERB put%2:35:00::,put%2:35:05::
+#17 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+" We 've got plenty of time to think about that .
+1
+#6 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+All the time in the world .
+1
+#2 time NOUN time%1:28:01::,time%1:28:05::
+We 've only been married four years , January " .
+3
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 married ADJ married%3:01:00::
+#6 year NOUN year%1:28:00::,year%1:28:01::
+" Four years " ! she wailed .
+1
+#2 year NOUN year%1:28:00::,year%1:28:01::
+" That 's a long time , waiting " .
+1
+#7 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+" How many times have I told you " - he began , and was almost glad when she cut him off - " Too many times " !
+5
+#3 time NOUN time%1:11:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#24 too ADV too%4:02:00::
+#26 time NOUN time%1:11:00::
+- and flounced to the sink , where she began noisily to wash her hands .
+5
+#2 flounce VERB flounce%1:04:00::
+#5 sink NOUN sink%1:06:00::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#12 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#14 hand NOUN hand%1:08:00::,hand%1:10:01::
+Too many times was the truth of it , Winston thought .
+3
+#0 too ADV too%4:02:00::
+#2 time NOUN time%1:11:00::
+#10 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+He hardly believed his reason himself any more .
+3
+#1 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#2 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+Although it had seemed a good reason , to begin with : no couple could afford to have children .
+4
+#5 good ADJ best%3:00:00::,good%3:00:01::
+#6 reason NOUN reason%1:09:01::,reason%1:16:00::
+#13 couple NOUN couple%1:14:00::,couple%1:17:00::
+#15 afford VERB afford%2:34:00::,afford%2:42:00::
+" How you going to work with a child hanging on you " ?
+1
+#5 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+he asked Leona .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" You want to keep this job , do n't you " ?
+3
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#6 job NOUN job%1:04:00::,job%1:06:00::
+He doubted whether she heard him , over the running water .
+3
+#1 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#9 running ADJ running%3:00:02::
+#10 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+He sat for a while with his hands on his knees , watching the bend of her back as she gathered up her things - a comb , a bottle of aspirin - to take upstairs and pack .
+9
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#7 hand NOUN hand%1:08:00::,hand%1:10:01::
+#12 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#14 bend NOUN bend%1:25:01::
+#17 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#23 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#26 comb NOUN comb%1:04:00::
+#34 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#37 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+She made him sad some days , and he was never sure why ; it was something to do with her back , the thinness of it , and the quick , jerky way she bent .
+9
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 sad ADJ sad%3:00:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 never ADV never%4:02:00::
+#21 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#30 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#32 jerky ADJ jerky%5:00:00:sudden:00
+#33 way NOUN way%1:04:00::,way%1:09:00::
+#35 bend VERB bend%2:35:08::,bend%2:38:02::
+She was too young , that was all ; too young and thin and straight .
+4
+#2 too ADV too%4:02:00::
+#9 too ADV too%4:02:00::
+#12 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#14 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+It was Mr. Jack , bellowing out in the hall .
+1
+#9 hall NOUN hall%1:06:03::,hall%1:06:05::
+He was standing in front of the mirror , tightening his tie .
+2
+#2 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#11 tie NOUN tie%1:06:01::
+He had on his gray tweed overcoat and his city hat , and his brief case lay on the bench .
+3
+#4 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#6 overcoat NOUN overcoat%1:06:00::
+#9 city NOUN city%1:15:00::,city%1:15:01::
+" I do n't know what you think you 've been doing about my clothes " , he said .
+4
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 think VERB think%2:31:01::,think%2:31:03::
+#14 clothes NOUN clothes%1:06:00::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" This coat looks like a rag heap " .
+2
+#2 coat NOUN coat%1:06:00::
+#6 rag NOUN rag%1:06:00::
+There were a few blades of lint on the shoulder .
+2
+#4 blade NOUN blade%1:06:00::
+#9 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+Winston took the clothesbrush out of the closet and went to work .
+3
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#7 closet NOUN closet%1:06:02::
+#11 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+He gave Mr. Jack a real going over ; he brushed his shoulders and his back and his collar with long , firm strokes .
+9
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#5 real ADJ real%3:00:00::,real%5:00:00:true:00
+#10 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#12 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#15 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#18 collar NOUN collar%1:07:00::
+#20 long ADJ long%3:00:01::
+#22 firm ADJ firm%5:00:00:forceful:00,firm%5:00:00:hard:01,firm%5:00:00:resolute:00,firm%5:00:00:secure:02
+#23 stroke NOUN stroke%1:10:01::
+Mr. Jack cried when the brush tipped his hat down over his eyes .
+3
+#6 tip VERB tip%2:38:04::
+#9 down ADV down%4:02:00::,down%4:02:02::
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+Winston apologized and quickly set the hat right .
+2
+#4 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#7 right ADV right%4:02:01::
+Then he stood back to look at Mr. Jack , who was pulling on his pigskin gloves .
+4
+#0 then ADV then%4:02:00::
+#5 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#12 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#15 pigskin NOUN pigskin%1:27:00::
+Winston enjoyed seeing him start out ; he wore his clothes with style .
+5
+#1 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#10 clothes NOUN clothes%1:06:00::
+#12 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+When he was going to town , nothing was good enough - he had cursed at Winston once for leaving a fleck of polish on his shoelace .
+4
+#10 enough ADV enough%4:02:00::
+#14 curse VERB curse%2:32:00::,curse%2:32:02::
+#17 once ADV once%4:02:00::
+#19 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+At home , he would n't even wash his hands for supper , and he wandered around the yard in a pair of sweaty old corduroys .
+4
+#1 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#7 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#9 hand NOUN hand%1:08:00::,hand%1:10:01::
+#24 old ADJ old%3:00:01::,old%3:00:02::
+The velvet smoking jackets , pearl gray , wine , and blue , which Miss Ada had bought him hung brushed and unworn in the closet .
+5
+#5 pearl NOUN pearl%1:07:00::
+#6 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#17 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#19 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#25 closet NOUN closet%1:06:02::
+" Good-by , Winston " , Mr. Jack said , giving a final set to his hat .
+3
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#13 set NOUN set%1:09:00::,set%1:09:01::
+" Look out for those movers " !
+1
+#5 mover NOUN mover%1:18:01::
+Winston watched him hurry down the drive to his car ; a handsome , fine-looking man it made him proud to see .
+7
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#6 drive NOUN drive%1:06:00::,drive%1:06:01::
+#12 handsome ADJ handsome%5:00:00:beautiful:00
+#15 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 proud ADJ proud%3:00:00::
+#21 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+After Mr. Jack drove away , Winston went on looking out the window .
+4
+#3 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#4 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#9 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#12 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+He noticed a speck of dirt on the sill and swiped at it with his finger .
+1
+#10 swipe VERB swipe%2:35:00::
+Then he looked at his finger , at the wrinkled , heavy knuckle and the thick nail he used like a knife to pry up , slit , and open .
+6
+#0 then ADV then%4:02:00::
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#15 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#16 nail NOUN nail%1:08:00::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 pry VERB pry%2:35:00::
+For the first time , he let himself be sad about the move .
+2
+#6 let VERB let%2:30:01::,let%2:41:00::
+#9 sad ADJ sad%3:00:00::
+That house was ten years off his life .
+3
+#1 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#7 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+Each brass handle and hinge shone for his reward , and he knew how to get at the dust in the china flowers and how to take down the long glass drops which hung from the chandelier .
+8
+#2 handle NOUN handle%1:06:00::
+#5 shine VERB shine%2:43:00::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#22 flower NOUN flower%1:20:00::,flower%1:28:00::
+#29 long ADJ long%3:00:01::
+#31 drop NOUN drop%1:25:00::
+#33 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+He knew the house like a blind man , through his fingers , and he did not like to think of all the time and rags and polishes he had spent on keeping it up .
+4
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#3 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#16 not ADV not%4:02:00::
+#25 rag NOUN rag%1:06:00::
+Ten years ago , he had come to the house to be interviewed .
+3
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+The tulips and the big pink peonies had been blooming along the drive , and he had walked up from the bus almost singing .
+7
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#5 pink ADJ pink%5:00:00:chromatic:00
+#9 bloom VERB bloom%2:30:00::
+#12 drive NOUN drive%1:06:00::,drive%1:06:01::
+#17 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#21 bus NOUN bus%1:06:00::
+#23 sing VERB sing%2:32:08::,sing%2:36:01::
+Miss Ada had been out back , in a straw hat , planting flowers .
+3
+#5 back NOUN back%1:06:00::,back%1:15:02::
+#12 plant VERB plant%2:35:00::
+#13 flower NOUN flower%1:20:00::,flower%1:28:00::
+She had talked to him right there , with the hot sun in his face , which made him sweat and feel ashamed .
+6
+#5 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#6 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#10 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#11 sun NOUN sun%1:18:00::,sun%1:19:00::
+#14 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#19 sweat VERB sweat%2:29:00::
+Still , he had liked the way she had looked , in a fresh , neat cotton dress - citron yellow , if he remembered .
+9
+#0 still ADV still%4:02:04::
+#4 like VERB like%2:37:05::
+#6 way NOUN way%1:04:00::,way%1:09:00::
+#9 look VERB look%2:39:01::,look%2:42:02::
+#13 fresh ADJ fresh%5:00:00:original:00
+#15 neat ADJ neat%5:00:00:tidy:00
+#16 cotton NOUN cotton%1:06:01::
+#17 dress NOUN dress%1:06:00::
+#20 yellow NOUN yellow%1:07:00::
+She had had a dignity about her , even barefoot and almost too tan .
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 too ADV too%4:02:00::
+#13 tan NOUN tan%1:07:00::
+Since then , the flowers she had planted had spread all over the hill .
+5
+#1 then ADV then%4:02:01::
+#4 flower NOUN flower%1:20:00::,flower%1:28:00::
+#7 plant VERB plant%2:35:00::
+#9 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#13 hill NOUN hill%1:06:01::,hill%1:17:00::
+Already the jonquils were blooming in a flock by the front gate , and the periwinkles were coming on , blue by the porch steps .
+6
+#0 already ADV already%4:02:00::
+#4 bloom VERB bloom%2:30:00::
+#10 front ADJ front%3:00:00::
+#11 gate NOUN gate%1:06:00::
+#15 periwinkle NOUN periwinkle%1:20:01::
+#24 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+In a week the hyacinths would spike out .
+1
+#4 hyacinth NOUN hyacinth%1:20:00::
+And the dogwood in early May , for Miss Ada 's alfresco party ; and after that the Japanese cherries .
+2
+#4 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#12 party NOUN party%1:14:00::
+Now the yard looked wet and bald , the trees bare under their buds , but in a while Miss Ada 's flowers would bloom like a marching parade .
+11
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 look VERB look%2:39:01::,look%2:42:02::
+#4 wet ADJ wet%3:00:01::,wet%3:00:05::
+#6 bald ADJ bald%5:00:00:hairless:00
+#9 tree NOUN tree%1:20:00::
+#10 bare ADJ bare%3:00:04::
+#13 bud NOUN bud%1:20:00::
+#18 while NOUN while%1:28:00::
+#22 flower NOUN flower%1:20:00::,flower%1:28:00::
+#24 bloom VERB bloom%2:30:00::
+#28 parade NOUN parade%1:14:00::
+She had dug a hole for each bulb , each tree wore a tag with her writing on it ; where would she go for her gardening now ?
+9
+#2 dig VERB dig%2:35:01::
+#4 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#7 bulb NOUN bulb%1:08:01::
+#10 tree NOUN tree%1:20:00::
+#11 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#13 tag NOUN tag%1:10:01::
+#16 writing NOUN writing%1:10:01::
+#23 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#27 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Somehow Winston did n't think she 'd take to window boxes .
+1
+#4 think VERB think%2:31:01::,think%2:31:03::
+He had a thousand things to see to .
+2
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#6 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+Still , he could n't help thinking , we 're all getting old , getting small ; the snail is pulling in her horns .
+6
+#0 still ADV still%4:02:04::
+#6 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#11 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#12 old ADJ old%3:00:01::,old%3:00:02::
+#14 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#23 horn NOUN horn%1:05:01::
+In the living room , Miss Ada was standing by the window with a sheaf of lists in her hand .
+4
+#8 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#11 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#16 list NOUN list%1:10:00::
+#19 hand NOUN hand%1:08:00::,hand%1:10:01::
+She was looking out at the garden .
+2
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#6 garden NOUN garden%1:06:00::
+" Winston " , she said , " get the basket for the breakables " .
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#10 basket NOUN basket%1:06:00::
+Winston had the big straw basket ready in the hall .
+4
+#3 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#4 straw NOUN straw%1:27:00::
+#5 basket NOUN basket%1:06:00::
+#9 hall NOUN hall%1:06:03::,hall%1:06:05::
+He brought it in and put it down beside her .
+1
+#5 put VERB put%2:35:00::,put%2:35:05::
+Miss Ada was looking fine ; she had on her Easter suit , blue , with lavender binding .
+4
+#3 look VERB look%2:39:01::,look%2:42:02::
+#4 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#11 suit NOUN suit%1:06:00::
+#17 binding NOUN binding%1:06:00::
+Halfway across the house , he could have smelled her morning perfume .
+3
+#3 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#8 smell VERB smell%2:31:00::,smell%2:39:01::
+#10 morning NOUN morning%1:28:00::,morning%1:28:01::
+It hung in all her day clothes , sweet and strong ; sometimes when he was pressing , Winston raised her dresses to his face .
+7
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 clothes NOUN clothes%1:06:00::
+#10 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#16 press VERB press%2:35:01::,press%2:35:02::,press%2:35:03::,press%2:36:00::
+#19 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#21 dress NOUN dress%1:06:00::
+#24 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Frowning , Miss Ada studied the list .
+2
+#4 study VERB study%2:31:00::
+#6 list NOUN list%1:10:00::
+" Well , let 's see .
+1
+#5 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Winston followed her around the room , collecting the small frail objects ( Christmas , birthday , and anniversary ) and wrapping them in tissue paper .
+6
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#7 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#11 object NOUN object%1:03:00::
+#13 Christmas NOUN christmas%1:28:00::
+#21 wrap VERB wrap%2:35:00::
+Neither of them trusted the movers .
+2
+#3 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+#5 mover NOUN mover%1:18:01::
+When they came to Mr. Jack 's photograph , twenty by twelve inches in a curly silver frame , Miss Ada said , " By rights I ought to leave that , seeing he won n't take my clotheshorse " .
+6
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#12 inch NOUN inch%1:23:02::
+#17 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#36 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+She smiled at Winston , and he saw the hateful hard glitter in her eyes .
+4
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#11 glitter NOUN glitter%1:07:00::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+He picked up the photograph and began to wrap it .
+2
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 wrap VERB wrap%2:35:00::
+" At least you could leave it for the movers " , Miss Ada said .
+3
+#5 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#9 mover NOUN mover%1:18:01::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" What possessed you to tell me a clotheshorse would be a good idea " ?
+2
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#13 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+Winston folded the tissue paper carefully .
+1
+#1 fold VERB fold%2:35:00::
+" He 's used it every day ; every morning , I lay out his clothes on it " .
+3
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 morning NOUN morning%1:28:00::,morning%1:28:01::
+#15 clothes NOUN clothes%1:06:00::
+" Well , that 's over now .
+1
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+And it was his main present !
+1
+#5 present NOUN present%1:21:00::
+Leave that fool picture out " , she added sharply .
+2
+#0 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#8 add VERB add%2:32:01::
+Winston laid it in the basket .
+2
+#1 lay VERB lay%2:35:01::
+#5 basket NOUN basket%1:06:00::
+" Mr. Jack sets store by that " .
+1
+#3 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+It was meant to be my present " .
+1
+#6 present NOUN present%1:21:00::
+But she went on down the list .
+1
+#6 list NOUN list%1:10:00::
+Winston was relieved ; those presents had been on his mind .
+1
+#5 present NOUN present%1:21:00::
+He had only agreed with Miss Ada about getting the valet , but he had actually suggested the photograph to Mr. Jack .
+2
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 valet NOUN valet%1:18:00::
+" You know what she likes , Winston " , he had said wearily , one evening in November when Winston was pulling off his overshoes .
+4
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 evening NOUN evening%1:28:00::,evening%1:28:02::
+#18 November NOUN november%1:28:00::
+" Tell me what to get her for Christmas " .
+2
+#5 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#8 Christmas NOUN christmas%1:28:00::
+" She 's been talking about a picture " , Winston had told him .
+1
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+You mean picture of me " ?
+1
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+On Christmas night , they had had a disagreement about it .
+2
+#1 Christmas NOUN christmas%1:28:00::
+#2 night NOUN night%1:28:00::
+Winston had heard because he was setting up the liquor tray in the next room .
+3
+#9 liquor NOUN liquor%1:13:00::
+#13 next ADJ next%5:00:00:close:01
+#14 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+Through the door , he had seen Mr. Jack walking around , waiting for Miss Ada .
+2
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Finally she had come down ; Winston had heard her shaking out the skirt of her new pink silk hostess gown .
+3
+#10 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#16 new ADJ new%3:00:00::
+#17 pink ADJ pink%5:00:00:chromatic:00
+" How do you like it " ? she had asked .
+1
+#10 ask VERB ask%2:32:00::,ask%2:32:04::
+Mr. Jack had said , " You look about fifteen years old " .
+4
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 look VERB look%2:39:01::,look%2:42:02::
+#8 about ADV about%4:02:00::
+#11 old PRT old%3:00:02::
+" I do n't know " .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He had stood at a little distance , studying her , as though he would walk around next and look at the back of her head .
+5
+#6 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#8 study VERB study%2:31:00::
+#17 next ADV next%4:02:00::
+#19 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#25 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" Lovie , you make me feel naked " .
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 naked ADJ naked%5:00:00:unclothed:00
+Miss Ada had giggled , and she went sweeping and rustling to the couch and sank down .
+6
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#10 rustle VERB rustle%2:39:00::
+#13 couch NOUN couch%1:06:00::
+#15 sink VERB sink%2:35:00::,sink%2:38:04::,sink%2:38:06::
+#16 down ADV down%4:02:00::,down%4:02:02::
+" You look like that picture I have at the office " , Mr. Jack had started .
+3
+#2 look VERB look%2:39:01::,look%2:42:02::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 office NOUN office%1:06:00::
+" Not a line , not a wrinkle .
+4
+#1 not ADV not%4:02:00::
+#3 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#5 not ADV not%4:02:00::
+#7 wrinkle NOUN wrinkle%1:25:00::
+I look like an old man , compared " , and he had picked up his photograph with the red Christmas bow still on it .
+5
+#7 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#19 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#20 Christmas NOUN christmas%1:28:00::
+#21 bow NOUN bow%1:06:03::
+#22 still ADV still%4:02:00::
+" Look , an old man .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+Will you wear pink when you 're sixty " ?
+1
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+I'm going to put it on my dresser " .
+2
+#3 put VERB put%2:35:00::,put%2:35:05::
+#7 dresser NOUN dresser%1:06:00::
+" I guess it 's children make a woman old .
+2
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 old ADJ old%3:00:01::,old%3:00:02::
+A man gets old anyhow " .
+4
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#4 anyhow ADV anyhow%4:02:00::
+After a minute he went on , " People must think the curse is on me , seeing you fresh as an apple and me old and gray " .
+9
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#10 think VERB think%2:31:01::,think%2:31:03::
+#12 curse NOUN curse%1:10:01::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+#22 apple NOUN apple%1:13:00::
+#25 old ADJ old%3:00:01::,old%3:00:02::
+#27 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+" I 'll give you a medical certificate , framed , if you like " , Miss Ada had said .
+4
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#9 frame VERB frame%2:42:00::
+#13 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+All I want is a picture - with a few lines .
+1
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Make the man put them in if he has to " .
+3
+#0 make VERB make%2:36:15::
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#3 put VERB put%2:35:00::,put%2:35:05::
+After that they had sat for five minutes without saying a word .
+4
+#4 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#7 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+Then Miss Ada had stood up , rustling and rustling , and gone upstairs .
+4
+#0 then ADV then%4:02:00::
+#7 rustle VERB rustle%2:39:00::
+#9 rustle VERB rustle%2:39:00::
+#12 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::

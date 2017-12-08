@@ -1,0 +1,572 @@
+ A band viscometer is shown in Figure 2 .
+2
+#4 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#6 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+It consists of two blocks with flat surfaces held apart by shims .
+5
+#4 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#6 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#7 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#9 apart ADV apart%4:02:03::
+There is a small well in the top in which the fluid or paste to be tested is placed .
+3
+#4 well NOUN well%1:10:00::
+#7 top NOUN top%1:06:00::,top%1:06:01::,top%1:06:04::,top%1:15:00::
+#18 place VERB place%2:31:13::
+A tape of cellulose acetate is pulled between the blocks and the tape pulls the fluid or paste with it between the parallel faces of the blocks .
+4
+#6 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#9 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#13 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#26 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+In normal use weights are hung on the end of the tape and allowed to pull the tape and the material to be tested between the blocks .
+5
+#1 normal ADJ normal%3:00:01::,normal%3:00:03::
+#13 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#15 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#20 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#26 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+After it has reached terminal velocity , the time for the tape to travel a known distance is recorded .
+5
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#8 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#13 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#16 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#18 record VERB record%2:32:00::,record%2:32:03::
+By the use of various weights , data for a force rate of shear graph can be obtained .
+4
+#10 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#11 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#14 graph NOUN graph%1:10:00::
+#17 obtain VERB obtain%2:40:00::
+The instrument used for this work was a slight modification of that previously described .
+3
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 slight ADJ slight%5:00:00:insignificant:00
+#13 describe VERB describe%2:32:01::
+In this test a * * f tape was pulled between the blocks with a motor and pulley at a rate of * * f with a clearance of 0.002 " on each side of the tape .
+5
+#2 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#9 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#12 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#20 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#27 clearance NOUN clearance%1:07:00::
+This gives a rate of shear of * * f .
+2
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#3 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+This , however , can only be considered approximate , as the diameter of the pulley was increased by the build-up of tape and the tape was occasionally removed from the pulley during the runs .
+5
+#2 however ADV however%4:02:04::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#12 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#20 buildup NOUN buildup%1:22:00::
+#28 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+The face of one block contained a hole 1 16 " in diameter which led to a manometer for the measurement of the normal pressure .
+8
+#1 face NOUN face%1:06:00::,face%1:06:01::,face%1:06:02::,face%1:10:00::,face%1:15:00::
+#4 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#5 contain VERB contain%2:42:00::,contain%2:42:06::
+#7 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#12 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#14 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#23 normal ADJ normal%3:00:01::,normal%3:00:03::
+#24 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+Although there were only four fluids tested , it was apparent that there were two distinct types .
+3
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 distinct ADJ distinct%5:00:00:separate:00
+#16 type NOUN type%1:18:00::
+Two of the fluids showed a high positive normal pressure when undergoing shear , and two showed small negative pressures which were negligible in comparison with the amount of the positive pressures generated by the other two .
+8
+#6 high ADJ high%3:00:02::
+#7 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+#8 normal ADJ normal%3:00:01::,normal%3:00:03::
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#18 negative ADJ negative%3:00:05::,negative%5:00:00:minus:00
+#19 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#30 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+#31 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+Figure 3 shows the data on a silicone fluid , labeled 12500 cps which gave a high positive normal pressure .
+6
+#0 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#4 data NOUN data%1:14:00::,datum%1:09:00::
+#14 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#16 high ADJ high%3:00:02::
+#18 normal ADJ normal%3:00:01::,normal%3:00:03::
+#19 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+Although the tape was run for over 1 hr. , a steady state was not reached , and it was concluded that the reason for this was that the back pressure of the manometer was built up from the material fed from between the blocks and this was available at a very slow rate .
+11
+#11 steady ADJ steady%3:00:00::
+#14 not ADV not%4:02:00::
+#15 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#20 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#23 reason NOUN reason%1:09:01::,reason%1:16:00::
+#29 back ADJ back%5:00:00:noncurrent:00
+#30 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#39 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#44 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#52 slow ADJ slow%3:00:01::
+#53 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+A system had to be used which did not depend upon the feeding of the fluid into the manometer if measurements of the normal pressure were to be made in a reasonable time .
+7
+#1 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 not ADV not%4:02:00::
+#23 normal ADJ normal%3:00:01::,normal%3:00:03::
+#24 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#28 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#31 reasonable ADJ reasonable%5:00:00:moderate:00
+A back pressure was then introduced , and the rise or fall of the material in the manometer indicated which was greater , the normal pressure in the block or the back pressure .
+11
+#1 back ADJ back%5:00:00:noncurrent:00
+#2 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#9 rise NOUN rise%1:07:02::
+#11 fall NOUN fall%1:11:01::
+#14 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#18 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#21 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#24 normal ADJ normal%3:00:01::,normal%3:00:03::
+#25 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#31 back ADJ back%5:00:00:noncurrent:00
+#32 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+By this method it was determined that the normal pressure exerted by a sample of polybutene ( molecular weight reported to be 770 ) was over half an atmosphere .
+5
+#5 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#8 normal ADJ normal%3:00:01::,normal%3:00:03::
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#19 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#28 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+The actual pressure was not determined because the pressure was beyond the upper limit of the apparatus on hand .
+6
+#2 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#4 not ADV not%4:02:00::
+#5 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#8 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#10 beyond ADV beyond%4:02:01::
+#16 apparatus NOUN apparatus%1:06:00::
+The two fluids which gave the small negative pressures were polybutenes with molecular weights which were stated to be 520 and 300 .
+3
+#4 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#8 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#16 state VERB state%2:32:01::,state%2:32:02::
+These are fluids which one would expect to be less viscoelastic or more Newtonian because of their lower molecular weight .
+2
+#9 less ADV less%4:02:00::,less%4:02:01::
+#12 more ADV more%4:02:00::
+The maximum suction was 3.25 " of test fluid measured from the top of the block , and steady states were apparently reached with these fluids .
+4
+#9 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#12 top NOUN top%1:15:00::,top%1:15:01::
+#18 steady ADJ steady%3:00:00::
+#22 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+It is presumed that this negative head was associated with some geometric factor of the assembly , since different readings were obtained with the same fluid and the only apparent difference was the assembly and disassembly of the apparatus .
+11
+#2 presume VERB presume%2:31:00::
+#8 associated ADJ associate%5:00:00:subordinate:01
+#11 geometric ADJ geometric%3:01:00::
+#12 factor NOUN factor%1:08:00::,factor%1:18:00::
+#15 assembly NOUN assembly%1:06:00::
+#18 different ADJ different%3:00:00::,different%5:00:00:other:00
+#19 reading NOUN reading%1:09:02::
+#21 obtain VERB obtain%2:40:00::
+#24 same ADJ same%3:00:00::,same%3:00:02::
+#33 assembly NOUN assembly%1:06:00::
+#38 apparatus NOUN apparatus%1:06:00::
+This negative pressure is not explained by the velocity head * * f since this is not sufficient to explain the readings by several magnitudes .
+5
+#2 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#4 not ADV not%4:02:00::
+#16 not ADV not%4:02:00::
+#21 reading NOUN reading%1:09:02::
+#24 magnitude NOUN magnitude%1:07:00::,magnitude%1:24:00::
+These experiments can be considered exploratory only .
+1
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+However , they do demonstrate the presence of large normal pressures in the presence of flat shear fields which were forecast by the theory in the first part of the paper .
+10
+#0 however ADV however%4:02:04::
+#4 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#9 normal ADJ normal%3:00:01::,normal%3:00:03::
+#10 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#15 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#17 field NOUN field%1:14:00::,field%1:19:00::
+#26 first ADJ first%3:00:00::,first%4:02:00::
+#27 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#30 paper NOUN paper%1:10:00::
+They also give information which will aid in the design of a more satisfactory instrument for the measurement of the normal pressures .
+5
+#9 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#12 more ADV more%4:02:00::
+#14 instrument NOUN instrument%1:04:00::,instrument%1:06:00::
+#20 normal ADJ normal%3:00:01::,normal%3:00:03::
+#21 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+Such an instrument would be useful for the characterization of many commercial materials as well as theoretical studies .
+4
+#2 instrument NOUN instrument%1:04:00::,instrument%1:06:00::
+#11 commercial ADJ commercial%5:00:00:inferior:02
+#12 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#17 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+The elasticity as a parameter of fluids which is not subject to simple measurement at present , and it is a parameter which is probably varying in an unknown manner with many commercial materials .
+6
+#1 elasticity NOUN elasticity%1:07:00::
+#9 not ADV not%4:02:00::
+#12 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#29 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#32 commercial ADJ commercial%5:00:00:inferior:02
+#33 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+Such an instrument is expected to be especially useful if it could be used to measure the elasticity of heavy pastes such as printing inks , paints , adhesives , molten plastics , and bread dough , for the elasticity is related to those various properties termed " length " , " shortness " , " spinnability " , etc. , which are usually judged by subjective methods at present .
+11
+#2 instrument NOUN instrument%1:04:00::,instrument%1:06:00::
+#7 especially ADV especially%4:02:00::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#17 elasticity NOUN elasticity%1:07:00::
+#19 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#26 paint NOUN paint%1:06:00::
+#39 elasticity NOUN elasticity%1:07:00::
+#45 property NOUN property%1:07:00::,property%1:09:00::
+#48 length NOUN length%1:07:02::,length%1:07:03::
+#66 subjective ADJ subjective%3:00:00::
+The actual change * * f caused by a shear field is calculated by multiplying the pressure differential times the volume , just as it is for any gravitational or osmotic pressure head .
+5
+#2 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#10 field NOUN field%1:14:00::,field%1:19:00::
+#12 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#16 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#20 volume NOUN volume%1:07:03::,volume%1:23:00::
+If the volume is the molal volume , then * * f is obtained on a molal basis which is the customary terminology of the chemists .
+4
+#2 volume NOUN volume%1:07:03::,volume%1:23:00::
+#6 volume NOUN volume%1:07:03::,volume%1:23:00::
+#8 then ADV then%4:02:02::
+#25 chemist NOUN chemist%1:18:00::
+Although the * * f calculation is obvious by analogy with that for gravitational field and osmotic pressure , it is interesting to confirm it by a method which can be generalized to include related effects .
+3
+#23 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#33 include VERB include%2:42:00::
+#35 effect NOUN effect%1:09:00::,effect%1:19:00::
+Consider a shear field with a height of H and a cross-sectional area of A opposed by a manometer with a height of h ( referred to the same base as H ) and a cross-sectional area of a .
+8
+#3 field NOUN field%1:14:00::,field%1:19:00::
+#6 height NOUN height%1:07:00::,height%1:07:02::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#21 height NOUN height%1:07:00::,height%1:07:02::
+#25 refer VERB refer%2:32:00::,refer%2:42:00::
+#28 same ADJ same%3:00:00::,same%3:00:02::
+#29 base NOUN base%1:06:00::,base%1:06:01::,base%1:15:00::,base%1:17:00::,base%1:25:00::
+#36 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+If * * f is the change per unit volume in Gibbs function caused by the shear field at constant P and T , and |r is the density of the fluid , then the total potential energy of the system above the reference height is * * f .
+7
+#6 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#9 volume NOUN volume%1:07:03::,volume%1:23:00::
+#17 field NOUN field%1:14:00::,field%1:19:00::
+#33 then ADV then%4:02:02::
+#40 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#43 reference NOUN reference%1:04:00::,reference%1:10:06::
+#44 height NOUN height%1:07:00::,height%1:07:02::
+* * f is the work necessary to fill the manometer column from the reference height to h .
+3
+#6 necessary ADJ necessary%3:00:00::
+#11 column NOUN column%1:06:01::,column%1:25:02::
+#15 height NOUN height%1:07:00::,height%1:07:02::
+The total volume of the system above the reference height is * * f , and h can be eliminated to obtain an equation for the total potential energy of the system in terms of H .
+7
+#2 volume NOUN volume%1:07:03::,volume%1:23:00::
+#5 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#8 reference NOUN reference%1:04:00::,reference%1:10:06::
+#9 height NOUN height%1:07:00::,height%1:07:02::
+#21 obtain VERB obtain%2:40:00::
+#23 equation NOUN equation%1:10:00::
+#31 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+The minimum total potential energy is found by taking the derivative with respect to H and equating to zero .
+1
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+This gives * * f , which is the pressure .
+2
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+This is interesting for it combines both the thermodynamic concept of a minimum Gibbs function for equilibrium and minimum mechanical potential energy for equilibrium .
+1
+#5 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+This method can be extended to include the concentration differences caused by shear fields .
+4
+#4 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#6 include VERB include%2:42:00::
+#8 concentration NOUN concentration%1:04:01::
+#13 field NOUN field%1:14:00::,field%1:19:00::
+The relation between osmotic pressure and the Gibbs function may also be developed in an analogous way .
+3
+#1 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#12 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#16 way NOUN way%1:04:00::,way%1:09:00::
+In the above development we have applied the thermodynamics of equilibrium ( referred to by some as thermostatics ) to the steady state .
+4
+#3 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#6 apply VERB apply%2:34:00::
+#12 refer VERB refer%2:32:00::,refer%2:42:00::
+#21 steady ADJ steady%3:00:00::
+This can be justified thermodynamically in this case , and this will be done in a separate paper which is being prepared .
+4
+#3 justify VERB justify%2:32:00::,justify%2:32:01::
+#7 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#17 paper NOUN paper%1:10:00::
+#21 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+This has an interesting analogy with the assumption stated by Philippoff that " the deformational mechanics of elastic solids can be applied to flowing solutions " .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 assumption NOUN assumption%1:09:00::
+#8 state VERB state%2:32:01::,state%2:32:02::
+#15 mechanics NOUN mechanics%1:09:00::
+#21 apply VERB apply%2:34:00::
+#24 solution NOUN solution%1:27:00::
+There is one exception to the above statement as has been pointed out , and that is that fluids can relax by flowing into fields of lower rates of shear , so the statement should be modified by stating that the mechanics are similar .
+7
+#20 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+#22 flow VERB flow%2:30:00::,flow%2:38:00::
+#24 field NOUN field%1:14:00::,field%1:19:00::
+#27 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#29 shear VERB shear%2:35:02::
+#38 state VERB state%2:32:01::,state%2:32:02::
+#41 mechanics NOUN mechanics%1:09:00::
+If the mechanics are similar , we can also infer that the thermodynamics will also be similar .
+1
+#2 mechanics NOUN mechanics%1:09:00::
+The concept of the strain energy as a Gibbs function difference * * f and exerting a force normal to the shearing face is compatible with the information obtained from optical birefringence studies of fluids undergoing shear .
+7
+#4 strain NOUN strain%1:19:00::
+#5 energy NOUN energy%1:19:00::
+#17 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#18 normal ADJ normal%3:00:01::,normal%3:00:03::
+#27 information NOUN information%1:10:00::,information%1:14:00::
+#28 obtain VERB obtain%2:40:00::
+#32 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+Essentially these birefringence studies show that at low rates of shear a tension is present at 45 ` to the direction of shear , and as the rate of shear increases , the direction of the maximum tension moves asymptotically toward the direction of shear .
+12
+#3 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#4 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#7 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#8 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#12 tension NOUN tension%1:26:01::
+#14 present ADJ present%3:00:02::
+#20 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#27 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#33 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#37 tension NOUN tension%1:26:01::
+#38 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#42 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+According to Philippoff , the recoverable shear s is given by * * f where |c is the angle of extinction .
+1
+#9 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+From this and the force of deformation it should be possible to calculate the elastic energy of deformation which should be equal to the * * f calculated from the pressure normal to the shearing face .
+7
+#4 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#12 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#15 energy NOUN energy%1:19:00::
+#21 equal ADJ equal%3:00:00::
+#27 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#30 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#31 normal ADJ normal%3:00:01::,normal%3:00:03::
+There is another means which should show the direction and relative value of the stresses in viscoelastic fluids that is not mentioned as such in the literature , and that is the shape of the suspended drops of low viscosity fluids in shear fields .
+10
+#3 means NOUN means%1:06:00::
+#8 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#10 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#11 value NOUN value%1:09:00::
+#14 stress NOUN stress%1:19:00::,stress%1:26:01::
+#20 not ADV not%4:02:00::
+#32 shape NOUN shape%1:07:00::,shape%1:07:01::
+#36 drop NOUN drop%1:23:00::,drop%1:25:00::
+#38 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#43 field NOUN field%1:14:00::,field%1:19:00::
+These droplets are distorted by the normal forces just as a balloon would be pulled or pressed out of shape in one 's hands .
+8
+#3 distort VERB distort%2:35:00::
+#6 normal ADJ normal%3:00:01::,normal%3:00:03::
+#7 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#8 just ADV just%4:02:05::
+#11 balloon NOUN balloon%1:06:01::
+#14 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#16 press VERB press%2:35:01::,press%2:35:02::,press%2:35:03::,press%2:36:00::
+#19 shape NOUN shape%1:07:00::,shape%1:07:01::
+These droplets appear to be ellipsoids , and it is mathematically convenient to assume that they are .
+2
+#2 appear VERB appear%2:30:00::
+#13 assume VERB assume%2:31:00::
+If they are not ellipsoids , the conclusions will be a reasonable approximation .
+3
+#3 not ADV not%4:02:00::
+#7 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#11 reasonable ADJ reasonable%5:00:00:moderate:00
+The direction of the tension of minimum pressure is , of course , given by the direction of the major axis of the ellipsoids .
+5
+#1 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#4 tension NOUN tension%1:26:01::
+#7 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#13 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#16 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+Mason and Taylor both show that the major axis of the ellipsoids is at 45 ` at low rates of shear and that it approaches the direction of shear with increased rates of shear .
+5
+#17 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#18 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#24 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#26 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#31 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+( Some suspensions break up before they are near to the direction of shear , and some become asymptotic to it without breakup . )
+4
+#2 suspension NOUN suspension%1:27:00::
+#8 near ADJ near%3:00:00::
+#11 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#17 become VERB become%2:30:00::,become%2:42:01::
+This is , of course , a similar type of behavior to that indicated by birefringence studies .
+2
+#8 type NOUN type%1:18:00::
+#16 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+The relative forces can be calculated from the various radii of curvature if we assume : ( A ) The surface tension is uniform on the surface of the drop .
+6
+#1 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#2 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#5 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#14 assume VERB assume%2:31:00::
+#26 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#29 drop NOUN drop%1:23:00::,drop%1:25:00::
+( B ) That because of the low viscosity of the fluid , the internal pressure is the same in all directions .
+4
+#7 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#15 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#18 same ADJ same%3:00:00::,same%3:00:02::
+#21 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+( C ) The kinetic effects are negligible .
+1
+#5 effect NOUN effect%1:09:00::,effect%1:19:00::
+( D ) Since the shape of the drop conforms to the force field , it does not appreciably affect the distribution of forces in the fluid .
+7
+#5 shape NOUN shape%1:07:00::,shape%1:07:01::
+#8 drop NOUN drop%1:23:00::,drop%1:25:00::
+#12 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#13 field NOUN field%1:14:00::,field%1:19:00::
+#17 not ADV not%4:02:00::
+#19 affect VERB affect%2:30:00::,affect%2:42:00::
+#23 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+These are reasonable assumptions with low viscosity fluids suspended in high viscosity fluids which are subjected to low rates of shear .
+7
+#2 reasonable ADJ reasonable%5:00:00:moderate:00
+#3 assumption NOUN assumption%1:09:00::
+#5 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#10 high ADJ high%3:00:02::
+#15 subject VERB subject%2:33:00::
+#17 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#18 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+Just as the pressure exerted by surface tension in a spherical drop is * * f and the pressure exerted by surface tension on a cylindrical shape is * * f , the pressure exerted by any curved surface is * * f , where |g is the interfacial tension and * * f and * * f are the two radii of curvature .
+6
+#0 just ADV just%4:02:05::
+#3 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#11 drop NOUN drop%1:23:00::,drop%1:25:00::
+#18 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#26 shape NOUN shape%1:07:00::,shape%1:07:01::
+#33 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+This formula is given by Rumscheidt and Mason .
+2
+#1 formula NOUN formula%1:10:03::
+#3 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+If a is the major axis of an ellipsoid and b and c are the other two axes , the radius of curvature in the ab plane at the end of the axis is * * f , and the difference in pressure along the a and b axes is * * f .
+6
+#15 other ADJ other%3:00:00::
+#17 axis NOUN axis%1:09:00::
+#26 plane NOUN plane%1:06:00::
+#29 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#42 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#48 axis NOUN axis%1:09:00::
+There are no data published in the literature on the shape of low viscosity drops to confirm the above formulas .
+7
+#3 data NOUN data%1:14:00::,datum%1:09:00::
+#4 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#10 shape NOUN shape%1:07:00::,shape%1:07:01::
+#12 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#14 drop NOUN drop%1:23:00::,drop%1:25:00::
+#16 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#19 formula NOUN formula%1:10:03::
+However , there are photographs of suspended drops of cyclohexanol phthalate ( viscosity 155 poises ) suspended in corn syrup of 71 poises in a paper by Mason and Bartok .
+5
+#0 however ADV however%4:02:04::
+#7 drop NOUN drop%1:23:00::,drop%1:25:00::
+#14 poise NOUN poise%1:23:00::
+#22 poise NOUN poise%1:23:00::
+#25 paper NOUN paper%1:10:00::
+This viscosity of the material in the drops is , of course , not negligible .
+3
+#4 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#7 drop NOUN drop%1:23:00::,drop%1:25:00::
+#13 not ADV not%4:02:00::
+Measurements on the photograph in this paper give * * f at the maximum rate of shear of * * f .
+3
+#6 paper NOUN paper%1:10:00::
+#7 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#14 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+If it is assumed that the formula given by Lodge of * * f , cosec 2lc applies , the pressure difference along the major axes can be calculated from the angle of inclination of the major axis , and from this the interfacial tension can be calculated .
+8
+#3 assume VERB assume%2:31:00::
+#6 formula NOUN formula%1:10:03::
+#7 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#20 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#28 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#31 angle NOUN angle%1:25:00::
+#33 inclination NOUN inclination%1:25:00::
+#47 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+Its value was * * f from the above data .
+2
+#1 value NOUN value%1:09:00::
+#9 data NOUN data%1:14:00::,datum%1:09:00::
+This appears to be high , as would be expected from the appreciable viscosity of the material in the drops .
+4
+#1 appear VERB appear%2:30:00::
+#4 high ADJ high%3:00:02::
+#16 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#19 drop NOUN drop%1:23:00::,drop%1:25:00::
+It is appropriate to call attention to certain thermodynamic properties of an ideal gas that are analogous to rubber-like deformation .
+1
+#9 property NOUN property%1:07:00::,property%1:09:00::
+The internal energy of an ideal gas depends on temperature only and is independent of pressure or volume .
+5
+#2 energy NOUN energy%1:19:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 independent ADJ independent%3:00:00::
+#15 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#17 volume NOUN volume%1:07:03::,volume%1:23:00::
+In other words , if an ideal gas is compressed and kept at constant temperature , the work done in compressing it is completely converted into heat and transferred to the surrounding heat sink .
+4
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#24 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+#26 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#28 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+There is a well-known relationship between probability and entropy which states that * * f , where \q is the probability that state ( i.e. , volume for an ideal gas ) could be reached by chance alone .
+6
+#8 entropy NOUN s%1:07:00::
+#10 state VERB state%2:32:01::,state%2:32:02::
+#26 volume NOUN volume%1:07:03::,volume%1:23:00::
+#34 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#36 chance NOUN chance%1:19:00::
+#37 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+This conformational entropy is , in this case , equal to the usual entropy , for there are no other changes or other energies involved .
+8
+#7 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#9 equal ADJ equal%3:00:00::
+#13 entropy NOUN s%1:07:00::
+#19 other ADJ other%5:00:02:past:00
+#20 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#22 other ADJ other%5:00:02:past:00
+#23 energy NOUN energy%1:19:00::
+#24 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+Note that though the ideal gas itself contains no additional energy , the compressed gas does exert an increased pressure .
+5
+#0 note VERB note%2:32:00::,note%2:39:00::
+#7 contain VERB contain%2:42:00::,contain%2:42:06::
+#10 energy NOUN energy%1:19:00::
+#14 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#19 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+The energy for any isothermal work done by the perfect gas must come as thermal energy from its surroundings .
+2
+#1 energy NOUN energy%1:19:00::
+#15 energy NOUN energy%1:19:00::

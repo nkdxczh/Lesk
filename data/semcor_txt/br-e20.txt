@@ -1,0 +1,291 @@
+ Draw a line across the country at the latitude of lower Pennsylvania .
+1
+#0 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+Fortunately , it is the FHA which has arrived at this conclusion , for it means that cooling equipment of all kinds may now be included in a mortgage , and thus acquired with a minimum of financial stress .
+2
+#15 mean VERB mean%2:31:05::,mean%2:42:00::
+#25 include VERB include%2:42:00::
+Even if you live above that line , the FHA will back you , for they have decided that the inclusion of air conditioning in all new homes is a good thing and should be encouraged .
+2
+#3 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#11 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+New simplified packaged units , recently devised prefabricated glass-fiber ducts , and improved add-on techniques make it possible to acquire a system for an 1800 - square-foot house for as little as $ 600 to $ 900 .
+1
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+You can install it yourself - this is a central system that will cool every part of your house .
+1
+#2 install VERB install%2:35:00::
+No less an authority than the FHA concurs that the savings air conditioning makes possible more than offset its operating costs .
+3
+#7 concur VERB concur%2:32:00::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 offset VERB offset%2:40:01::
+Home air conditioning has come a long way from the early days of overcooled theaters and the thermal shock they inflicted .
+1
+#4 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+We know now that a 15 - degree differential in temperature is the maximum usually desirable , and accurate controls assure the comfort we want .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 assure VERB assure%2:31:00::,assure%2:32:03::
+#24 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+We know , too , that health is never harmed by summer cooling .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Heart conditions and high blood pressure escape the stresses brought on by oppressive heat .
+1
+#6 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+The cleaner air means less time spent pushing a vacuum , fewer trips to the dry cleaners , lighter loads for the washing machine .
+2
+#3 mean VERB mean%2:31:05::,mean%2:42:00::
+#7 push VERB push%2:32:01::,push%2:38:00::
+The need for reupholstering , redecorating , repainting becomes more infrequent .
+1
+#8 become VERB become%2:30:00::,become%2:42:01::
+Clothes hold their shape better , and mildew and rust become almost forgotten words .
+1
+#10 become VERB become%2:30:00::,become%2:42:01::
+When you 're less fatigued , things just naturally look brighter .
+1
+#9 look VERB look%2:39:01::,look%2:42:02::
+You 'll sleep longer and better , too , awake refreshed and free of hot weather nerves .
+1
+#2 sleep VERB sleep%2:29:00::
+You can forget about screens , and leave the storm windows up all year around .
+1
+#7 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Best of all , central air conditioning is something you can afford .
+1
+#11 afford VERB afford%2:34:00::,afford%2:42:00::
+No matter what style your home is , ranch , two-story , Colonial or contemporary , central air conditioning is easily installed .
+1
+#21 install VERB install%2:35:00::
+If that 's done , the house can be designed and oriented for best operation , and this can mean savings both in the size of equipment and in the cost of the house itself .
+2
+#11 orient VERB orient%2:39:00::
+#19 mean VERB mean%2:31:05::,mean%2:42:00::
+If you can n't see your way clear to have summer cooling included when building , by all means make provision for its easy adding later .
+1
+#12 include VERB include%2:42:00::
+Manufacturers have designed equipment for just such circumstances , and your savings over starting from scratch will be substantial .
+1
+#13 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+If your house is to have a forced warm air system , cooling can be a part of it .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This costs less than having a completely separate cooling system , for your regular heating ductwork , filters and furnace blower do double duty for cooling .
+2
+#1 cost VERB cost%2:42:00::,cost%2:42:01::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+You can get year - ' round air conditioners in the same variety of styles in which you buy a furnace alone - high or low boy , horizontal or counterflow .
+1
+#18 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+The units can be installed in basement , attic , crawlspace , or in a closet located in the living area .
+1
+#4 install VERB install%2:35:00::
+If you plan to add cooling later to your heating system , there are things to watch for .
+3
+#2 plan VERB plan%2:31:00::,plan%2:31:01::
+#4 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#16 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Be sure ducts that require insulation get it when they are installed .
+1
+#11 install VERB install%2:35:00::
+Be sure your ducts and blower are big enough to handle cooling .
+1
+#10 handle VERB handle%2:41:00::,handle%2:41:03::
+This is especially important if you live in a mild-winter zone .
+1
+#6 live VERB live%2:42:08::
+Be sure you get a perimeter heating system , and diffusers that will work as well for cooling as they do for heating .
+1
+#13 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+You can get a hot water system that will also work for cooling your house .
+1
+#10 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+For cooling , chilled water is circulated instead of hot water .
+1
+#6 circulate VERB circulate%2:38:04::
+The minimum cost for an average one-story , 7 - room house with basement , is likely to run $ 1500 above the cost of the heating alone .
+1
+#18 run VERB run%2:42:07::
+If the problems of combining cooling with your heating are knotty , it may be cheaper to plan on a completely separate cooling system .
+2
+#4 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#17 plan VERB plan%2:31:00::,plan%2:31:01::
+The simplest kind of separate system uses a single , self-contained unit .
+1
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+It is , in effect , an oversize room conditioner equipped with prefab glass-fiber ducts to distribute the cooled , cleaned , dehumidified air where it is wanted .
+1
+#16 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+In a long , rambling ranch , two such units can be installed , one serving the living area , the other the sleeping zone .
+1
+#12 install VERB install%2:35:00::
+In a two-story house , one unit may be installed in the basement to serve the first floor , another in the attic to cool the second .
+2
+#9 install VERB install%2:35:00::
+#14 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+In each case , having separate systems for living and sleeping areas has the advantage of permitting individual zone control .
+2
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+One of the more remarkable of the new cooling systems is one that can be switched to heating .
+1
+#15 switch VERB switch%2:30:03::
+As you know , a conditioner makes indoor air cool by pumping the heat out of it and then releasing this heat outdoors .
+4
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 pump VERB pump%2:35:00::
+#19 release VERB release%2:35:00::,release%2:41:00::
+A relatively simple switching arrangement reverses the cycle so that the machine literally runs backward , and the heat is extracted from outdoor air and turned indoors .
+1
+#13 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+Consider it as a standby setup , at negligible cost , for those emergencies when the furnace quits , a blizzard holds up fuel delivery , or for cool summer mornings or evenings when you do n't want to start up your whole heating plant .
+2
+#17 quit VERB quit%2:38:00::
+#37 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+How large a cooling unit you need , and the method of its installation , depends on a variety of factors .
+1
+#6 need VERB need%2:42:00::
+Families with children usually do n't want the house quite so cool .
+1
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+If you are a party thrower , you may need added capacity .
+1
+#9 need VERB need%2:42:00::
+The body is a heat machine , and 20 to 25 guests can easily double your cooling load .
+1
+#14 double VERB double%2:40:03::
+Cooling requirements are best expressed in terms of BTU 's .
+1
+#4 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+A BTU is a unit of heat , and the BTU rating of a conditioner refers to how much heat your machine can pump out of your house in an hour .
+2
+#15 refer VERB refer%2:32:00::,refer%2:42:00::
+#23 pump VERB pump%2:35:00::
+A very rough rule of thumb is that , under favorable conditions , you 'll need 15 BTU 's of cooling for every square foot of your house .
+1
+#15 need VERB need%2:42:00::
+This is if outdoor temperatures have a high average of 95 degrees .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+You 'll need more if the high average is above that , less if it 's below .
+1
+#2 need VERB need%2:42:00::
+Coolers are also rated by tons .
+1
+#3 rate VERB rate%2:31:01::
+A ton of cooling compares to the cooling you get by melting a ton of ice .
+3
+#4 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#9 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#11 melt VERB melt%2:30:00::
+By accepted definition , a 1 - ton conditioner will provide 12000 BTU of cooling in one hour .
+1
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+You may find a conditioner rated by horsepower .
+1
+#5 rate VERB rate%2:31:01::
+It is generally an inaccurate method of rating , for the horsepower is that of the compressor motor , and many other components beside it determine how much cooling you 'll get .
+1
+#25 determine VERB determine%2:31:02::,determine%2:32:03::
+The safest procedure is to let your builder estimate the size of the unit you need , rather than trying to do this yourself .
+3
+#5 let VERB let%2:30:01::,let%2:41:00::
+#15 need VERB need%2:42:00::
+#19 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Do n't urge your builder to give you a little extra cooling capacity just to be sure you have enough .
+2
+#6 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Reducing humidity is often as important as cooling .
+1
+#0 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Before it cycles on again , humidity can build up and make you uncomfortable even though the temperature is still low .
+2
+#2 cycle VERB cycle%2:30:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+With a unit of the right size , a compressor will run continuously during hot weather , reducing humidity as evenly as it does temperature .
+2
+#11 run VERB run%2:35:00::,run%2:35:04::,run%2:36:01::
+#17 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Attention to details can cut in half the size unit you need and pare operating expense proportionately .
+2
+#4 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#11 need VERB need%2:42:00::
+If you have a house which heat does n't penetrate easily , your unit will have less heat to remove .
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+Keep the direct sun from reaching the house and you 've won the first battle .
+3
+#0 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+#5 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#11 win VERB win%2:33:00::
+If the house you plan to buy or build won n't have big overhangs , you can still do a fair job of keeping the sun off walls and windows with properly designed trellises , fences and awnings .
+4
+#4 plan VERB plan%2:31:00::,plan%2:31:01::
+#6 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+Shade trees , too , are a big help , so keep them if you can .
+1
+#11 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+The more directly the sun strikes walls and roof , the greater its heat impact .
+1
+#5 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+The way a house is set on its lot can therefore influence how much cooling you 're going to need .
+2
+#5 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#19 need VERB need%2:42:00::
+A shift in the walls , or a change in the roof slope , so the sun hits them more obliquely , can save you money .
+2
+#17 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#23 save VERB save%2:30:00::,save%2:40:02::,save%2:40:04::
+You can use heat-absorbing glass to stop the sun , double glass and insulated glass to combat condensation .
+2
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+They 're easier to shade there .
+1
+#4 shade VERB shade%2:35:00::
+An attic space above insulation makes a house easier to cool .
+1
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+You 'll even gain by putting your water heater outside the conditioned space , and using an electric range instead of a gas one .
+3
+#3 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#5 put VERB put%2:35:00::,put%2:35:05::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Gas adds to the moisture load .
+1
+#1 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Insulate , weatherstrip , double-glaze to the maximum .
+1
+#0 insulate VERB insulate%2:30:01::
+Such extra-thick insulation not only permits a much smaller cooling installation , but will continue to reduce operating expenses both in heating and cooling .
+2
+#14 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#16 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+A light-colored roof will reduce sun heat by 50 per cent .
+1
+#4 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+It costs two to three times as much to remove a BTU in summer as it does to add one in winter , so every solitary BTU is worth attention .
+2
+#1 cost VERB cost%2:42:00::,cost%2:42:01::
+#18 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+You 'll foil them in droves , along with their pal humidity , by having and using a kitchen range exhaust fan , a bathroom ventilator for when you shower , and an outside vent for the clothes drier .
+3
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#29 shower VERB shower%2:29:00::
+It 's no use pretending that all conditioners are quiet , but the noise they produce can be kept to a minimum .
+3
+#4 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#15 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#18 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Avoid attic placement directly above a bedroom .
+1
+#0 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::

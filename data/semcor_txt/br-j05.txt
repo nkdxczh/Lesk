@@ -1,0 +1,688 @@
+ Polyphosphates gave renewed life to soap products at a time when surfactants were a threat though expensive , and these same polyphosphates spelled the decline of soap usage when the synergism between polyphosphates and synthetic detergent actives was recognized and exploited .
+8
+#3 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#6 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#9 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#14 threat NOUN threat%1:10:00::,threat%1:26:00::
+#20 same ADJ same%3:00:00::,same%3:00:02::
+#22 spell VERB spell%2:36:00::
+#34 synthetic ADJ synthetic%5:00:00:artificial:00
+#38 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+The market today for detergent builders is quite diverse .
+1
+#1 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+The best known field of application for builders is in heavy-duty , spray-dried detergent formulations for household use .
+3
+#3 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#5 application NOUN application%1:04:02::
+#14 formulation NOUN formulation%1:27:00::
+These widely advertised products , which are used primarily for washing clothes , are based on high-sudsing , synthetic organic actives ( sodium alkylbenzenesulfonates ) and contain up to 50 % by weight of sodium tripolyphosphate or a mixture of sodium tripolyphosphate and tetrasodium pyrophosphate .
+8
+#3 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#11 clothes NOUN clothes%1:06:00::
+#18 synthetic ADJ synthetic%5:00:00:artificial:00
+#19 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#26 contain VERB contain%2:42:00::,contain%2:42:06::
+#32 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+In the household market , there are also low-sudsing detergent formulations based on nonionic actives with about the same amount of phosphate builder ; light-duty synthetic detergents with much less builder ; and the dwindling built soap powders as well as soap flakes and granules , none of which are now nationally advertised .
+6
+#3 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#10 formulation NOUN formulation%1:27:00::
+#18 same ADJ same%3:00:00::,same%3:00:02::
+#21 phosphate NOUN phosphate%1:27:00::
+#25 synthetic ADJ synthetic%5:00:00:artificial:00
+#50 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+A well publicized entrant which has achieved success only recently is the built liquid detergent , with which the major problem today is incorporation of builder and active into a small volume using a sufficiently high builder / active ratio .
+7
+#1 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 major ADJ major%3:00:05::,major%3:00:06::
+#20 problem NOUN problem%1:09:00::,problem%1:26:00::
+#31 volume NOUN volume%1:07:03::,volume%1:23:00::
+#32 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#35 high ADJ high%3:00:02::
+Hard surface cleaning in household application is represented by two classes of alkaline products : ( 1 ) the formulations made expressly for machine dishwashers , and ( 2 ) the general-purpose cleaners used for walls and woodwork .
+9
+#1 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#5 application NOUN application%1:04:02::
+#7 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#10 class NOUN class%1:14:00::,class%1:14:02::
+#13 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#19 formulation NOUN formulation%1:27:00::
+#20 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#24 dishwasher NOUN dishwasher%1:06:00::
+#33 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The better quality products in both of these lines contain phosphate builders .
+4
+#1 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#3 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#9 contain VERB contain%2:42:00::,contain%2:42:06::
+#10 phosphate NOUN phosphate%1:27:00::
+In addition , many of the hard surface cleaners used for walls and woodwork had their genesis in trisodium orthophosphate , which is still the major ingredient of a number of such products .
+7
+#7 surface ADJ surface%3:00:00::
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#23 still ADV still%4:02:00::
+#25 major ADJ major%3:00:05::,major%3:00:06::
+#29 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#32 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+Many scouring powders now also contain phosphates .
+4
+#1 scour NOUN scour%1:15:00::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 contain VERB contain%2:42:00::,contain%2:42:06::
+#6 phosphate NOUN phosphate%1:27:00::
+These hard surface cleaners are discussed in Chapter 28 .
+3
+#1 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#2 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#7 chapter NOUN chapter%1:10:00::
+Cleaning or detergent action is entirely a matter of surfaces .
+3
+#3 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#7 matter NOUN matter%1:09:00::,matter%1:09:01::
+#9 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Wet cleaning involves an aqueous medium , a solid substrate , soil to be removed , and the detergent or surface-active material .
+5
+#0 wet ADJ wet%3:00:01::,wet%3:00:05::
+#5 medium NOUN medium%1:27:02::
+#11 soil NOUN soil%1:26:00::
+#14 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#21 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+An oversimplified differentiation between soft - and hard surface cleaning lies in the magnitude and kind of surface involved .
+5
+#4 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#7 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#8 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#17 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#18 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+One gram of cotton has been found to have a specific surface area of * * f .
+5
+#1 gram NOUN g%1:23:00::
+#3 cotton NOUN cotton%1:06:01::
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+In contrast , a metal coupon * * f in size would have a magnitude from 100000 to a million less .
+4
+#4 metal NOUN metal%1:27:00::
+#10 size NOUN size%1:07:00::,size%1:07:02::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 magnitude NOUN magnitude%1:07:00::,magnitude%1:24:00::
+Even here there is room for some variation , for metal surfaces vary in smoothness , absorptive capacity , and chemical reactivity .
+4
+#4 room NOUN room%1:26:00::
+#7 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#10 metal NOUN metal%1:27:00::
+#11 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Spring used a Brush surface analyzer in a metal cleaning study and showed considerable differences in soil removal , depending upon surface roughness .
+7
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 metal NOUN metal%1:27:00::
+#10 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#12 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#16 soil NOUN soil%1:15:00::,soil%1:26:00::
+#21 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+There are considerable differences between the requirements for textile and hard surface cleaning .
+3
+#8 textile NOUN textile%1:06:00::
+#10 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#11 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Exclusive of esthetic values , such as high - or low foam level , perfume content , etc. , the requirements for the organic active used in washing textiles are high .
+9
+#3 value NOUN value%1:21:00::,values%1:09:00::
+#7 high ADJ high%3:00:02::
+#12 level NOUN level%1:26:00::,level%1:26:01::
+#15 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#23 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#25 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#27 washing NOUN washing%1:04:00::
+#28 textile NOUN textile%1:06:00::
+#30 high ADJ high%3:00:02::
+No matter how they are formulated , a large number of organic actives are simply not suitable for this application , since they do not give adequate soil removal .
+3
+#11 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#14 simply ADV simply%4:02:00::,simply%4:02:02::
+#27 soil NOUN soil%1:26:00::
+This is best demonstrated by practical washing tests in which cloth articles are repeatedly washed with the same detergent formulation .
+9
+#3 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#5 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#6 washing NOUN washing%1:04:00::
+#7 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#10 cloth NOUN cloth%1:06:00::
+#11 article NOUN article%1:03:00::
+#14 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#17 same ADJ same%3:00:00::,same%3:00:02::
+#19 formulation NOUN formulation%1:27:00::
+A good formulation will keep the clothes clean and white after many washings ; whereas , with a poor formulation , the clothes exhibit a build-up of " tattle-tale grey " and dirty spots - sometimes with bad results even after the first wash .
+14
+#2 formulation NOUN formulation%1:27:00::
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#6 clothes NOUN clothes%1:06:00::
+#7 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#9 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#18 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#19 formulation NOUN formulation%1:27:00::
+#22 clothes NOUN clothes%1:06:00::
+#23 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#25 buildup NOUN buildup%1:22:00::
+#33 spot NOUN spot%1:04:00::,spot%1:07:00::,spot%1:07:01::,spot%1:10:02::,spot%1:15:01::
+#37 bad ADJ bad%3:00:00::,bad%5:00:00:inferior:02
+#42 first ADJ first%3:00:00::,first%4:02:00::
+#43 wash NOUN wash%1:04:01::
+Since practical washing procedures are both lengthy and expensive , a number of laboratory tests have been developed for the numerical evaluation of detergents .
+5
+#1 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#2 washing NOUN washing%1:04:00::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#14 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#17 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Harris has indicated that two devices , the Launder-Ometer and Terg-O-Tometer are most widely used for rapid detergent testing , and he has listed the commercially available standard soiled fabrics .
+9
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#5 device NOUN device%1:06:00::
+#12 most ADV most%4:02:00::
+#13 widely ADV widely%4:02:01::
+#14 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#23 list VERB list%2:32:00::,list%2:41:00::
+#27 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#29 fabric NOUN fabric%1:06:00::
+Also given are several laboratory wash procedures in general use .
+3
+#1 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#5 wash NOUN wash%1:04:01::
+#8 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+The soiled fabrics used for rapid testing of detergent formulations are made in such a way that only part of the soil is removed by even the best detergent formulation in a single wash .
+14
+#2 fabric NOUN fabric%1:06:00::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#9 formulation NOUN formulation%1:27:00::
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#15 way NOUN way%1:04:00::,way%1:09:00::
+#17 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#18 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#21 soil NOUN soil%1:26:00::
+#23 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#27 good ADJ best%3:00:00::,good%3:00:01::
+#29 formulation NOUN formulation%1:27:00::
+#32 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#33 wash NOUN wash%1:04:01::
+In this way , numerical values for the relative efficacy of various detergent formulations can be obtained by measuring the reflectance ( whiteness ) of the cloth swatches before and after washing .
+9
+#2 way NOUN way%1:04:00::,way%1:09:00::
+#5 value NOUN value%1:09:00::
+#8 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#13 formulation NOUN formulation%1:27:00::
+#16 obtain VERB obtain%2:40:00::
+#18 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#26 cloth NOUN cloth%1:06:00::
+#28 before ADV before%4:02:03::
+#31 washing NOUN washing%1:04:00::
+Soil redeposition is evaluated by washing clean swatches with the dirty ones .
+3
+#0 soil NOUN soil%1:26:00::
+#5 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#6 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+As is the case with the surface-active agent , the requirements for builders to be used in detergent compositions for washing textiles are also high .
+6
+#3 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 composition NOUN composition%1:27:00::
+#20 washing NOUN washing%1:04:00::
+#21 textile NOUN textile%1:06:00::
+#24 high ADJ high%3:00:02::
+Large numbers of potential builders have been investigated , but none have been found to be as effective as the polyphosphates over the relatively wide range of conditions met in practice .
+6
+#13 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#17 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#24 wide ADJ wide%5:00:00:large:00
+#25 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#27 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#28 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The problems of hard surface cleaning are not nearly as complex .
+5
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#3 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#4 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 nearly ADV nearly%4:02:00::
+#10 complex ADJ complex%3:00:00::
+In hard surface cleaning , the inorganic salts are more important than the organic active .
+5
+#1 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#2 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#7 salt NOUN salt%1:27:00::
+#9 more ADV more%4:02:00::
+#13 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+Indeed , when the proper inorganic constituents are employed , practically any wetting or surface-active agent will do a reasonably good job when present in sufficient amount in a hard surface cleaning formulation .
+11
+#0 indeed ADV indeed%4:02:03::
+#4 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#6 constituent NOUN constituent%1:09:00::
+#8 employ VERB employ%2:34:00::
+#10 practically ADV practically%4:02:00::
+#12 wet ADJ wet%3:00:01::,wet%3:00:05::
+#21 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#23 present ADJ present%3:00:02::
+#29 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#30 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#32 formulation NOUN formulation%1:27:00::
+Hydroxides , orthophosphates , borates , carbonates , and silicates are important inorganic ingredients of hard surface cleaners .
+2
+#15 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#16 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+In addition , the polyphosphates are also used , probably acting more as peptizing agents than anything else .
+3
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#11 more ADV more%4:02:00::,more%4:02:01::
+#14 agent NOUN agent%1:10:00::,agent%1:17:00::
+The importance of the inorganic constituents in hard surface cleaning has been emphasized in a number of papers .
+4
+#5 constituent NOUN constituent%1:09:00::
+#7 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#8 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#15 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Although there is no question but that the process of washing fabrics involves a number of phenomena which are related together in an extremely complicated way and that these phenomena and their interrelations are not well understood at the present , this section attempts to present briefly an up-to-date picture of the physical chemistry of washing either fabrics or hard surfaces .
+18
+#3 no DET no%4:02:01::
+#8 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#10 washing NOUN washing%1:04:00::
+#11 fabric NOUN fabric%1:06:00::
+#14 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#16 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#19 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#20 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#24 complicated ADJ complicated%5:00:00:complex:00
+#29 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#36 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#39 present NOUN present%1:10:00::,present%1:28:00::
+#42 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#45 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#55 washing NOUN washing%1:04:00::
+#57 fabric NOUN fabric%1:06:00::
+#59 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#60 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+The purpose of washing is , obviously , to remove soils which are arbitrarily classed in the four major categories given below :
+6
+#3 washing NOUN washing%1:04:00::
+#9 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#10 soil NOUN soil%1:26:00::
+#18 major ADJ major%3:00:05::,major%3:00:06::
+#19 category NOUN category%1:14:00::
+#20 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+Dirt , which is here defined as particulate material which is usually inorganic and is very often extremely finely divided so as to exhibit colloidal properties .
+5
+#5 define VERB define%2:32:00::,defined%3:00:00::
+#8 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#19 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#23 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#25 property NOUN property%1:07:00::,property%1:09:00::
+Greasy soils , which are typified by hydrocarbons and fats ( esters of glycerol with long chain organic acids ) .
+6
+#0 greasy ADJ greasy%5:00:00:dirty:01
+#1 soil NOUN soil%1:26:00::
+#15 long ADJ long%3:00:01::
+#16 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#17 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#18 acid NOUN acid%1:27:00::
+Stains , which include the wide variety of nonparticulate materials which give color even when present in very low concentration on the soiled object .
+11
+#0 stain NOUN stain%1:07:00::
+#3 include VERB include%2:42:00::
+#5 wide ADJ wide%5:00:00:large:00
+#6 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#9 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#12 color NOUN color%1:07:00::,color%1:27:00::
+#15 present ADJ present%3:00:02::
+#18 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#19 concentration NOUN concentration%1:04:01::
+#23 object NOUN object%1:03:00::
+Miscellaneous soils , which primarily include sticky substances and colorless liquids which evaporate to leave a residue .
+7
+#1 soil NOUN soil%1:26:00::
+#5 include VERB include%2:42:00::
+#6 sticky ADJ sticky%5:00:00:adhesive:00
+#7 substance NOUN substance%1:03:00::,substance%1:27:00::
+#9 colorless ADJ colorless%3:00:02::
+#10 liquid NOUN liquid%1:27:04::
+#14 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+The dirt on the soiled objects is mechanically held by surface irregularities to some extent .
+3
+#5 object NOUN object%1:03:00::
+#8 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#10 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+However , a major factor in binding dirt is the attraction between surfaces that goes under the name of van der Waal 's forces .
+5
+#0 however ADV however%4:02:04::
+#3 major ADJ major%3:00:05::,major%3:00:06::
+#4 factor NOUN factor%1:08:00::,factor%1:18:00::
+#6 bind VERB bind%2:30:09::,bind%2:35:06::
+#12 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+This is a theoretically complicated dipole interaction which causes any extremely small uncharged particle to agglomerate with other small uncharged particles , or to stick to an uncharged surface .
+5
+#4 complicated ADJ complicated%5:00:00:complex:00
+#13 particle NOUN particle%1:17:00::,particle%1:27:01::
+#17 other ADJ other%5:00:02:past:00
+#20 particle NOUN particle%1:17:00::,particle%1:27:01::
+#28 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Obviously , if colloidal particles bear charges of opposite sign or , if one kind is charged and the other kind is not , the attraction will be intensified and the tendency to agglomerate will be greatly reinforced .
+5
+#4 particle NOUN particle%1:17:00::,particle%1:27:01::
+#6 charge NOUN charge%1:12:00::,charge%1:19:00::
+#8 opposite ADJ opposite%5:00:00:other:00
+#19 other ADJ other%3:00:00::
+#28 intensify VERB intensify%2:30:00::
+Likewise , a charged particle will tend to stick to an uncharged surface and vice versa , and a charged particle will be very strongly attracted to a surface exhibiting an opposite charge .
+9
+#0 likewise ADV likewise%4:02:01::
+#4 particle NOUN particle%1:17:00::,particle%1:27:01::
+#6 tend VERB tend%2:42:01::
+#12 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#20 particle NOUN particle%1:17:00::,particle%1:27:01::
+#28 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#29 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#31 opposite ADJ opposite%5:00:00:other:00
+#32 charge NOUN charge%1:12:00::,charge%1:19:00::
+In addition , dirt particles can be held onto a soiled surface by sticky substances or by the surface tension of liquids , including liquid greases .
+8
+#4 particle NOUN particle%1:17:00::,particle%1:27:01::
+#7 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#11 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#13 sticky ADJ sticky%5:00:00:adhesive:00
+#14 substance NOUN substance%1:03:00::,substance%1:27:00::
+#21 liquid NOUN liquid%1:27:04::
+#23 include VERB include%2:42:00::
+#24 liquid ADJ liquid%3:00:00::
+Greases , stains , and miscellaneous soils are usually sorbed onto the soiled surface .
+3
+#2 stain NOUN stain%1:07:00::
+#6 soil NOUN soil%1:26:00::
+#13 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+In most cases , these soils are taken up as liquids through capillary action .
+3
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#5 soil NOUN soil%1:26:00::
+#10 liquid NOUN liquid%1:27:04::
+In an essentially static system , an oil cannot be replaced by water on a surface unless the interfacial tensions of the water phase are reduced by a surface-active agent .
+9
+#3 static ADJ static%3:01:00::
+#4 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#7 oil NOUN oil%1:27:00::
+#10 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#12 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#15 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#22 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#23 phase NOUN phase%1:26:00::
+#25 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+The washing process whereby soils are removed consists basically of applying mechanical action to loosen the dirt particles and dried matter in the presence of water which helps to float off the debris and acts , to some extent , as a dissolving and solvating agent .
+13
+#1 washing NOUN washing%1:04:00::
+#2 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#4 soil NOUN soil%1:26:00::
+#6 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#7 consist VERB consist%2:42:01::
+#10 apply VERB apply%2:34:00::
+#12 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#17 particle NOUN particle%1:17:00::,particle%1:27:01::
+#19 dry ADJ dry%3:00:01::
+#20 matter NOUN matter%1:03:00::,matter%1:10:00::
+#25 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#27 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#29 float VERB float%2:38:01::
+Greasy soils are hardly removed by washing in plain water ; and natural waters , in addition , often contain impurities such as calcium salts which can react with soils to make them more difficult to remove .
+13
+#0 greasy ADJ greasy%5:00:00:dirty:01
+#1 soil NOUN soil%1:26:00::
+#3 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#4 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#6 washing NOUN washing%1:04:00::
+#8 plain ADJ plain%3:00:01::
+#9 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#12 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#19 contain VERB contain%2:42:00::,contain%2:42:06::
+#24 salt NOUN salt%1:27:00::
+#29 soil NOUN soil%1:26:00::
+#33 more ADV more%4:02:00::
+#36 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+Therefore , detergents are used .
+1
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The detergent active is that substance which primarily acts to remove greasy soils .
+4
+#8 act VERB act%2:29:00::,act%2:41:00::,act%2:41:06::
+#10 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#11 greasy ADJ greasy%5:00:00:dirty:01
+#12 soil NOUN soil%1:26:00::
+The other constituents in a built detergent assist in this and in the removal of dirty stains and the hydrophilic sticky or dried soils .
+6
+#1 other ADJ other%3:00:00::
+#2 constituent NOUN constituent%1:09:00::
+#16 stain NOUN stain%1:07:00::
+#20 sticky ADJ sticky%5:00:00:adhesive:00
+#22 dry ADJ dry%3:00:01::
+#23 soil NOUN soil%1:26:00::
+As is well known , detergent actives belong to the chemical class consisting of moderately high molecular weight and highly polar molecules which exhibit the property of forming micelles in solution .
+6
+#11 class NOUN class%1:14:00::,class%1:14:02::
+#15 high ADJ high%3:00:02::
+#20 polar ADJ polar%5:00:00:charged:00
+#23 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#25 property NOUN property%1:07:00::,property%1:09:00::
+#30 solution NOUN solution%1:27:00::
+Physicochemical investigations of anionic surfactants , including the soaps , have shown that there is little polymerization or agglomeration of the chain anions below a certain region of concentration called the critical micelle concentration .
+5
+#6 include VERB include%2:42:00::
+#8 soap NOUN soap%1:06:00::
+#21 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#28 concentration NOUN concentration%1:04:01::
+#33 concentration NOUN concentration%1:04:01::
+( 1 ) Below the critical micelle concentration , monomers and some dimers are present .
+2
+#7 concentration NOUN concentration%1:04:01::
+#14 present ADJ present%3:00:02::
+( 2 ) In the critical micelle region , there is a rapid agglomeration or polymerization to give the micelles , which have a degree of polymerization averaging around 60 - 80 .
+3
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 degree NOUN degree%1:26:01::
+#28 around ADV around%4:02:03::
+( 3 ) For anionics , these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar groups ( the ionized ends ) face outward towards the aqueous continuous phase .
+7
+#11 roughly ADV roughly%4:02:03::
+#20 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#24 polar ADJ polar%5:00:00:charged:00
+#29 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#31 face VERB face%2:38:00::,face%2:42:00::
+#36 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#37 phase NOUN phase%1:26:00::
+Obviously hydrophobic ( oleophilic ) substances such as greases , oils , or particles having a greasy or oily surface are more at home in the center of a micelle than in the aqueous phase .
+10
+#1 hydrophobic ADJ hydrophobic%3:00:00::
+#5 substance NOUN substance%1:03:00::,substance%1:27:00::
+#10 oil NOUN oil%1:27:00::
+#13 particle NOUN particle%1:17:00::,particle%1:27:01::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 greasy ADJ greasy%5:00:00:dirty:01
+#18 oily ADJ oily%5:00:00:coated:00
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#21 more ADV more%4:02:00::,more%4:02:01::
+#34 phase NOUN phase%1:26:00::
+Micelles can imbibe and hold a considerable amount of oleophilic substances so that the micelle volume may be increased as much as approximately two-fold .
+2
+#4 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+#15 volume NOUN volume%1:07:03::,volume%1:23:00::
+Although the matter has not been unequivocally demonstrated , the available data show that micelles in themselves do not contribute significantly to the detergency process .
+6
+#2 matter NOUN matter%1:09:00::,matter%1:09:01::
+#7 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#11 data NOUN data%1:14:00::,datum%1:09:00::
+#12 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#20 significantly ADV significantly%4:02:02::
+#24 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+Related to micelle formation is the technologically important ability of detergent actives to congregate at oil water interfaces in such a manner that the polar ( or ionized ) end of the molecule is directed towards the aqueous phase and the hydrocarbon chain towards the oily phase .
+10
+#3 formation NOUN formation%1:04:01::
+#8 ability NOUN ability%1:09:00::
+#21 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#24 polar ADJ polar%5:00:00:charged:00
+#29 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#34 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+#38 phase NOUN phase%1:26:00::
+#42 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#45 oily ADJ oily%5:00:00:coated:00
+#46 phase NOUN phase%1:26:00::
+In the cleaning process , sorbed greasy soils become coated in this manner with an oriented film of surfactant .
+6
+#3 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#6 greasy ADJ greasy%5:00:00:dirty:01
+#7 soil NOUN soil%1:26:00::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#12 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#16 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+Then during washing , the greasy soil rolls back at the edges so that emulsified droplets can disengage themselves from the sorbed oil mass , with the aid of mechanical action , and enter the aqueous phase .
+13
+#0 then ADV then%4:02:00::
+#2 washing NOUN washing%1:04:00::
+#5 greasy ADJ greasy%5:00:00:dirty:01
+#6 soil NOUN soil%1:26:00::
+#7 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+#8 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#11 edge NOUN edge%1:06:01::
+#17 disengage VERB disengage%2:35:00::
+#22 oil NOUN oil%1:27:00::
+#23 mass NOUN mass%1:07:01::,mass%1:14:02::,mass%1:17:00::,mass%1:23:00::
+#30 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#33 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#36 phase NOUN phase%1:26:00::
+Obviously , a substance which is permanently or temporarily sorbed on the surface in place of the soil will tend to accelerate this process and effectively push off the greasy soil .
+8
+#3 substance NOUN substance%1:03:00::,substance%1:27:00::
+#12 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#17 soil NOUN soil%1:26:00::
+#19 tend VERB tend%2:42:01::
+#23 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#26 push VERB push%2:32:01::,push%2:38:00::
+#29 greasy ADJ greasy%5:00:00:dirty:01
+#30 soil NOUN soil%1:26:00::
+Substances other than detergent actives also tend to be strongly sorbed from aqueous media onto surfaces of other contiguous condensed phases .
+5
+#6 tend VERB tend%2:42:01::
+#13 medium NOUN medium%1:27:03::
+#15 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#17 other ADJ other%3:00:00::
+#20 phase NOUN phase%1:26:00::
+This is particularly true of highly charged ions , especially those ions which fall into the class of polyelectrolytes .
+3
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#9 especially ADV especially%4:02:00::
+#16 class NOUN class%1:14:00::,class%1:14:02::
+Whereas the usual organic surface-active agent is strongly sorbed at oil-water interfaces , the highly charged ions are most strongly sorbed at interfaces between water and insoluble materials exhibiting an ionic structure ( see Table 26 - 2 on p. 1678 ) .
+7
+#3 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#22 interface NOUN interface%1:10:00::
+#24 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#26 insoluble ADJ insoluble%3:00:01::
+#27 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#28 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#34 table NOUN table%1:14:00::
+Thus , for aqueous media , we can think of the idealized organic active as an oleophilic or hydrophobic surface-active agent , and of an idealized builder as a oleophobic or hydrophilic surface-active agent .
+4
+#0 thus ADV thus%4:02:00::
+#4 medium NOUN medium%1:27:03::
+#12 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#18 hydrophobic ADJ hydrophobic%3:00:00::
+From the equilibrium sorption data which are available , it seems logical to expect that polyphosphate ions would be strongly sorbed on the surface of the dirt ( especially clay soils ) so as to give it a greatly increased negative charge .
+5
+#4 data NOUN data%1:14:00::,datum%1:09:00::
+#23 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#28 especially ADV especially%4:02:00::
+#30 soil NOUN soil%1:15:00::,soil%1:26:00::
+#35 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+The charged particles then repel each other and are also repelled from the charged surface , which almost invariably bears a negative charge under washing conditions .
+7
+#2 particle NOUN particle%1:17:00::,particle%1:27:01::
+#3 then ADV then%4:02:00::
+#4 repel VERB repel%2:35:00::
+#10 repel VERB repel%2:35:00::
+#14 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#24 washing NOUN washing%1:04:00::
+#25 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+The negatively charged dirt particles then leave the surface and go into the aqueous phase .
+4
+#4 particle NOUN particle%1:17:00::,particle%1:27:01::
+#5 then ADV then%4:02:00::
+#8 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#14 phase NOUN phase%1:26:00::
+This hypothesis is evolved in analogy to the demonstrated action of organic actives in detergency .
+3
+#3 evolve VERB evolve%2:30:00::
+#9 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#11 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+It does not consider the kinetic effects of the phosphate builders on sorption desorption phenomena which will be discussed later ( see pp. 1746 - 1748 ) .
+4
+#6 effect NOUN effect%1:09:00::,effect%1:19:00::
+#9 phosphate NOUN phosphate%1:27:00::
+#14 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#19 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+The crude picture of the detergency process thus far developed can be represented as : * * f The influence of mechanical action on the particles of free soil may be compared to that of kinetic energy on a molecular scale .
+8
+#1 crude ADJ crude%5:00:01:unskilled:00
+#6 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#9 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#22 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#25 particle NOUN particle%1:17:00::,particle%1:27:01::
+#28 soil NOUN soil%1:26:00::
+#31 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#40 scale NOUN scale%1:24:01::,scale%1:24:03::
+Freed soil must be dispersed and protected against flocculation .
+1
+#1 soil NOUN soil%1:26:00::
+Cleaned cloth must be protected against the redeposition of dispersed soil .
+3
+#0 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#1 cloth NOUN cloth%1:06:00::
+#10 soil NOUN soil%1:26:00::
+It is evident that the requirements imposed by these effects upon any one detergent constituent acting alone are severe .
+6
+#6 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#9 effect NOUN effect%1:09:00::,effect%1:19:00::
+#14 constituent NOUN constituent%1:09:00::
+#15 act VERB act%2:33:00::,act%2:41:00::
+#16 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#18 severe ADJ severe%5:00:01:bad:00
+Upon consideration of the variety of soils and fabrics normally encountered in the washing process , it is little wonder that the use of a number of detergent constituents having " synergistic " properties has gained widespread acceptance .
+12
+#1 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#4 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#6 soil NOUN soil%1:26:00::
+#8 fabric NOUN fabric%1:06:00::
+#9 normally ADV normally%4:02:00::
+#13 washing NOUN washing%1:04:00::
+#14 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#25 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#28 constituent NOUN constituent%1:09:00::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#33 property NOUN property%1:07:00::,property%1:09:00::
+#35 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+In the over-all process , it is difficult to assign a " pure " role to each constituent of a built detergent formulation ; and , indeed , there is no more reason to separate the interrelated roles of the active , builder , antiredeposition agent , etc. than there is to assign individual actions to each of the numerous isomers making up a given commercial organic active .
+14
+#3 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#9 assign VERB assign%2:31:02::,assign%2:34:00::
+#17 constituent NOUN constituent%1:09:00::
+#22 formulation NOUN formulation%1:27:00::
+#26 indeed ADV indeed%4:02:03::
+#32 reason NOUN reason%1:09:01::,reason%1:16:00::
+#45 agent NOUN agent%1:10:00::,agent%1:17:00::
+#52 assign VERB assign%2:31:02::,assign%2:34:00::
+#53 individual ADJ individual%5:00:00:independent:00
+#54 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#60 isomer NOUN isomer%1:27:00::
+#64 given ADJ give%2:32:03::
+#65 commercial ADJ commercial%5:00:00:inferior:02
+#66 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00

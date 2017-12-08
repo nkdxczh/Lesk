@@ -1,0 +1,644 @@
+ The safe at Ingleside District Station stands next to the gum machine in a narrow passageway that leads to Captain Harris 's office ( to the left ) , the lieutenant 's office ( farther along and to the left ) and the janitor 's supply closet ( straight ahead ) .
+11
+#1 safe NOUN safe%1:06:00::
+#6 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#7 next ADJ next%5:00:00:close:01
+#10 gum NOUN gum%1:20:01::
+#14 narrow ADJ narrow%3:00:00::
+#22 office NOUN office%1:06:00::
+#26 left NOUN left%1:08:00::
+#32 office NOUN office%1:06:00::
+#35 along ADV along%4:02:01::,along%4:02:03::
+#39 left NOUN left%1:08:00::
+#48 straight ADV straight%4:02:05::
+The safe is a repository for three dead flashlight batteries , a hundred and fifty unused left-hand fingerprint cards , a stack of unsold Policemen's Ball tickets from last year , and thirty-seven cents in coins and stamps .
+10
+#1 safe NOUN safe%1:06:00::
+#7 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#15 unused ADJ unused%5:00:00:clean:01
+#18 card NOUN card%1:10:00::
+#21 stack NOUN stack%1:14:00::
+#26 ticket NOUN ticket%1:10:01::
+#28 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#29 year NOUN year%1:28:00::,year%1:28:01::
+#33 cent NOUN cent%1:23:00::
+#37 stamp NOUN stamp%1:10:02::
+Gun set the captain 's fifth of Hiram Walker inside the safe before he reported to Lt. Killpath , though he knew that Killpath 's ulcer prevented him from making any untoward incursion on Herman Wolff 's gift .
+7
+#1 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#11 safe NOUN safe%1:06:00::
+#14 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#26 prevent VERB prevent%2:41:00::
+#29 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#37 gift NOUN gift%1:04:00::
+It was more a matter of tact , and also it was none of Killpath 's goddam business .
+3
+#2 more ADV more%4:02:00::,more%4:02:01::
+#4 matter NOUN matter%1:09:00::,matter%1:09:01::
+#17 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+He walked up to the lieutenant 's office , leaned wearily against the gun rack that housed four rifles and a gas gun nobody remembered having used and a submachine gun that was occasionally tried out on the Academy Range .
+5
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#7 office NOUN office%1:06:00::
+#14 rack NOUN rack%1:06:01::
+#16 house VERB house%2:42:02::
+#26 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+He stared at the clerk who sat at a scarred and ancient fumed-oak desk stuffing envelopes .
+4
+#4 clerk NOUN clerk%1:18:00::
+#6 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#14 stuff VERB stuff%2:30:02::
+#15 envelope NOUN envelope%1:06:01::
+The clerk wagged his head toward the captain 's office .
+3
+#1 clerk NOUN clerk%1:18:00::
+#4 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#9 office NOUN office%1:06:00::
+Gun went to the connecting door , which was open , and stood at attention while Orville Torrence Killpath , in full uniform , finished combing his hair .
+8
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#12 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#21 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#22 uniform NOUN uniform%1:06:00::
+#24 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#25 comb VERB comb%2:29:00::
+#27 hair NOUN hair%1:08:00::
+The lieutenant 's sparse brown hair was heavily pomaded , and as Killpath raked the comb through it , it stuck together in thatches so that it looked like umbrella ribs clinging to his pink skull .
+10
+#5 hair NOUN hair%1:08:00::
+#7 heavily ADV heavily%4:02:00::
+#13 rake VERB rake%2:38:00::
+#15 comb NOUN comb%1:04:00::
+#16 through ADV through%4:02:01::
+#20 stick VERB stick%2:42:07::
+#21 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#29 umbrella NOUN umbrella%1:06:00::
+#30 rib NOUN rib%1:08:02::
+#34 pink ADJ pink%5:00:00:chromatic:00
+The lieutenant eyed Gun 's reflection in the mirror over the washbowl and then glanced back at his own face , moving the comb methodically around his head .
+7
+#5 reflection NOUN reflection%1:19:00::
+#14 glance VERB glance%2:38:00::,glance%2:39:00::
+#18 own ADJ own%5:00:00:personal:00
+#19 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#21 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#23 comb NOUN comb%1:04:00::
+#27 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Leave me alone , Gun thought .
+3
+#0 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#2 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#5 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Fight with Sam Schaeffer , fight with the whole damned Bureau .
+2
+#8 whole ADJ whole%3:00:00::
+#9 damned ADJ damned%5:00:00:cursed:00
+But leave me alone .
+2
+#1 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#3 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+Because I 'm looking for the son of a bitch that killed that old man , and I 'm going to get him .
+1
+#11 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+If you just leave me to hell alone , Lieutenant .
+3
+#2 just ADV just%4:02:00::,just%4:02:03::
+#3 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#7 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+Killpath peered through half closed lids at his reflection , thrust up his chin in a gesture of satisfaction and about-faced .
+5
+#1 peer VERB peer%2:39:00::
+#4 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#8 reflection NOUN reflection%1:19:00::
+#11 up ADV up%4:02:00::,up%4:02:02::
+#20 about-face VERB about-face%2:38:00::
+Gun waited for Killpath to sit down behind the desk near the window .
+2
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#12 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+He sat stiff-backed in a chair that did not swivel , though it was obvious to Gun that Killpath felt his position as acting captain plainly merited a swivel chair .
+6
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 chair NOUN chair%1:06:00::,chair%1:06:01::
+#8 not ADV not%4:02:00::
+#19 feel VERB feel%2:31:00::,feel%2:39:00::
+#21 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#25 plainly ADV plainly%4:02:01::
+The desk before him was in no better repair than the rest of the furniture crowded into the room , including wooden file cabinets with some of their pulls yanked off and a wardrobe stained with the roof seepage of countless seasons .
+10
+#6 no ADV no%4:02:01::
+#7 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#8 repair NOUN repair%1:04:00::
+#11 rest NOUN rest%1:24:00::
+#14 furniture NOUN furniture%1:06:00::
+#18 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#20 include VERB include%2:42:00::
+#21 wooden ADJ wooden%5:00:00:woody:00
+#28 pull NOUN pull%1:04:00::
+#34 stain VERB stain%2:30:00::,stain%2:35:05::
+Killpath pulled one thin leg up , clamping his arms around the shinbone to press his knee into an incredibly scrawny gut .
+8
+#1 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#3 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#4 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#5 up ADV up%4:02:00::,up%4:02:02::
+#9 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#14 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#19 incredibly ADV incredibly%4:02:02::
+#21 gut NOUN gut%1:08:00::
+It was the posture which the men had come to recognize as that of Killpath defying his ulcer .
+4
+#3 posture NOUN posture%1:07:00::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#10 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+He put his chin on his kneecap , stretching his neck like that of a turkey on a chopping block , and stared wordlessly at his sergeant .
+4
+#1 put VERB put%2:35:00::,put%2:35:05::
+#8 stretch VERB stretch%2:29:01::,stretch%2:29:02::
+#10 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+#15 turkey NOUN turkey%1:05:00::
+Gun waited .
+1
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+The 7 : 45 bell rang and he could hear the outside doors bang shut , closing in the assembled day watch .
+4
+#4 bell NOUN bell%1:28:00::
+#5 ring VERB ring%2:39:00::,ring%2:39:01::
+#13 bang VERB bang%2:38:00::
+#16 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+Finally , Orville intoned through his hawk nose , " We can n't have people running in any time they please , Sergeant " .
+4
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#15 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#18 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#20 please VERB please%2:37:01::
+" Running in , running out .
+3
+#1 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#4 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#5 out ADV out%4:02:04::
+Makes for confusion and congestion " .
+1
+#2 confusion NOUN confusion%1:04:00::,confusion%1:26:01::
+He rocked back in the chair , knee locked against stomach , his beady eyes fixed on Matson .
+6
+#1 rock VERB rock%2:38:06::
+#2 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#5 chair NOUN chair%1:06:00::,chair%1:06:01::
+#10 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+#15 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+He was silent again , possibly listening to the sounds in the squadroom .
+1
+#9 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+Gun cleared his throat .
+1
+#1 clear VERB clear%2:30:01::,clear%2:30:02::,clear%2:30:10::,clear%2:31:00::,clear%2:38:00::
+Killpath said , " You were expected to report to my office twenty minutes ago , Sergeant .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 report VERB report%2:32:03::
+#11 office NOUN office%1:06:00::
+#13 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+That 's not getting all the juice out of the orange , now is it " ?
+2
+#2 not ADV not%4:02:00::
+#10 orange NOUN orange%1:13:00::
+Then Killpath smiled .
+1
+#0 then ADV then%4:02:00::
+Gun knew that nothing but aces back to back would give the lieutenant an ulcer and a smile at the same time .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 ace NOUN ace%1:06:00::
+#10 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+The day-watch platoon commander , Lt. Rinker , was calling out the beat assignments , but Matson could n't make the names mean anything .
+6
+#3 commander NOUN commander%1:18:01::
+#12 beat NOUN beat%1:15:00::
+#13 assignment NOUN assignment%1:04:03::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 name NOUN name%1:14:00::
+#22 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+" I called the station at three this morning " , Killpath 's nasal voice pronounced .
+5
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#4 station NOUN station%1:06:00::
+#8 morning NOUN morning%1:28:00::,morning%1:28:01::
+#13 nasal ADJ nasal%3:01:00::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" Do you have any idea who might have been in charge at the time " ?
+3
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#14 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+" Now , now , you 're just guessing , Sergeant " .
+1
+#7 just ADV just%4:02:00::,just%4:02:03::
+He smiled thinly , savoring his joke .
+1
+#4 savor VERB savor%2:39:02::
+" What if I said nobody was here but a couple of patrolmen " ?
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+" Sir , Vaughn knows better than to leave the station without a relief .
+5
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 better ADV better%4:02:00::
+#8 leave VERB leave%2:38:00::,leave%2:41:00::
+#10 station NOUN station%1:06:00::
+#13 relief NOUN relief%1:18:00::
+" He let a patrolman take over the duties of the station keeper .
+2
+#2 let VERB let%2:30:01::,let%2:41:00::
+#8 duty NOUN duty%1:04:00::,duty%1:04:02::
+" But you did n't know a thing about it , did you " ?
+1
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Killpath leaned forward ; his foot slipped off the chair and he put it back again , frowning now .
+5
+#2 forward ADV forward%4:02:00::,forward%4:02:04::
+#5 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#6 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#9 chair NOUN chair%1:06:00::,chair%1:06:01::
+#18 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+" That 's not taking one 's command with a responsible attitude , Matson " .
+2
+#3 not ADV not%4:02:00::
+#4 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+Gun told himself that the old bastard was a fool .
+3
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+#9 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+But stupidity was no consolation when it had rank .
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 rank NOUN rank%1:26:00::,rank%1:26:01::
+" Oh , yes .
+1
+#3 yes NOUN yes%1:10:00::
+He stretched a pale hand out to the scattered papers on his desk .
+3
+#1 stretch VERB stretch%2:29:01::,stretch%2:29:02::
+#3 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#4 hand NOUN hand%1:08:00::,hand%1:10:01::
+" I might point out that your inability to report to my office this morning when you were instructed to do so has not , ah , limited my knowledge of your activities as you may have hoped " .
+8
+#9 report VERB report%2:32:03::
+#12 office NOUN office%1:06:00::
+#14 morning NOUN morning%1:28:00::,morning%1:28:01::
+#18 instruct VERB instruct%2:32:01::
+#21 so ADV so%4:02:04::
+#23 not ADV not%4:02:00::
+#29 knowledge NOUN knowledge%1:03:00::
+#32 activity NOUN activity%1:04:00::,activity%1:26:00::
+He took up a white sheet of paper , dark with single-spaced data .
+3
+#4 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#9 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#12 data NOUN data%1:14:00::,datum%1:09:00::
+A car pulled into the driveway outside the window .
+2
+#2 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#8 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+Gun knew it was Car 12 , the wagon , returned from delivering Ingleside 's drunk-and-disorderlies to the City Jail .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#12 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+But for some fool reason he could n't remember which men he 'd put on the transfer detail .
+5
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 put VERB put%2:35:00::,put%2:35:05::
+#16 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#17 detail NOUN detail%1:14:01::
+He stared at the report in Killpath 's hand , sure it was written by Accacia - just as sure as if he 'd submitted it in his scrawled longhand .
+5
+#4 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+#13 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#17 just ADV just%4:02:05::
+#24 submit VERB submit%2:31:12::,submit%2:33:00::,submit%2:41:00::
+He sucked in his breath and kept quiet while Killpath laid down the sheet again , wound the gold wire stems of his glasses around his ears and then , eying the report as it lay before him on the desk , intoned , " Acting Lieutenant Gunnar Matson one failed to see that the station keeper was properly relieved two absented himself throughout the entire watch without checking on the station 's activities or the whereabouts of his section sergeants three permitted members of the Homicide Detail of the Inspector's Bureau to arrogate for their own convenience a patrolman who was thereby prevented from carrying on his proper assignment four failed to notify the station commander Acting Captain O. T. Killpath of a homicide occurring in the district five frequented extralegal establishments known as after-hours spots for purposes of an unofficial and purportedly social nature and six " - he leaned back and peeled off his glasses " - failed to co-operate with the Acting Captain by returning promptly when so ordered .
+33
+#6 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#7 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#11 down ADV down%4:02:00::,down%4:02:02::
+#13 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+#16 wind VERB wind%2:35:06::
+#20 stem NOUN stem%1:06:01::,stem%1:06:02::
+#26 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#32 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#50 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#58 properly ADV properly%4:02:00::
+#59 relieve VERB relieve%2:32:01::
+#66 watch NOUN watch%1:28:00::
+#68 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#71 station NOUN station%1:06:00::
+#73 activity NOUN activity%1:04:00::,activity%1:26:00::
+#79 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#83 member NOUN member%1:18:00::,member%1:24:00::
+#96 own ADJ own%5:00:00:personal:00
+#97 convenience NOUN convenience%1:26:00::
+#103 prevent VERB prevent%2:41:00::
+#108 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#109 assignment NOUN assignment%1:04:03::
+#111 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#115 station NOUN station%1:06:00::
+#116 commander NOUN commander%1:18:01::
+#132 establishment NOUN establishment%1:14:00::,establishment%1:14:02::
+#136 spot NOUN spot%1:10:01::,spot%1:15:01::
+#144 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#145 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#160 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#168 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#169 promptly ADV promptly%4:02:02::
+#172 order VERB order%2:32:01::,order%2:32:02::
+What have you to say to that , Sergeant " ?
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Killpath sailed the paper across the desk , but Matson did n't pick it up or even glance at it .
+3
+#1 sail VERB sail%2:38:00::
+#3 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#17 glance VERB glance%2:38:00::,glance%2:39:00::
+" I did n't think Accacia knew so many big words , Lieutenant " .
+4
+#4 think VERB think%2:31:01::,think%2:31:03::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#10 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+Killpath licked his lips .
+2
+#1 lick VERB lick%2:35:00::
+#3 lip NOUN lip%1:08:00::,lip%1:20:00::
+" Patrolman Accacia is an alert and conscientious law-enforcement officer .
+2
+#7 conscientious ADJ conscientious%3:00:00::
+#9 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+I do n't think his diligence mitigates your negligence , Matson " .
+2
+#3 think VERB think%2:31:01::,think%2:31:03::
+#5 diligence NOUN diligence%1:04:00::
+Gun held his breath a moment , pushing the volume and pitch of his voice down under the trapdoor in his throat .
+6
+#5 moment NOUN moment%1:28:00::,moment%1:28:01::
+#7 push VERB push%2:32:01::,push%2:38:00::
+#9 volume NOUN volume%1:07:02::
+#11 pitch NOUN pitch%1:07:00::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#15 down ADV down%4:02:00::,down%4:02:06::
+I would have been negligent and a goddam lousy cop to boot , if I 'd sat around this station all night when somebody got away with murder in my district .
+4
+#8 lousy ADJ lousy%5:00:00:bad:00
+#9 cop NOUN cop%1:18:00::
+#16 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#19 station NOUN station%1:06:00::
+It 's too bad I did n't call you , and it 's too bad I let Schaeffer use Accacia when he could have had a boy who 'd be glad to learn something of Homicide procedure .
+5
+#7 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#16 let VERB let%2:30:01::,let%2:41:00::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#32 learn VERB learn%2:31:01::,learn%2:31:03::
+But I 'm not one damned bit sorry I went out to question the people I know in the places they hang around , and " -
+6
+#5 damn ADJ damn%5:00:00:cursed:00
+#6 bit NOUN bit%1:23:01::
+#7 sorry ADJ sorry%3:00:02::
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#16 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#19 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+" Let 's not push our patience beyond the danger line , Sergeant " , Killpath nasaled .
+4
+#1 let VERB let%2:32:00::
+#3 not ADV not%4:02:00::
+#4 push VERB push%2:32:01::,push%2:38:00::
+#6 patience NOUN patience%1:07:00::
+" I should n't like to have to write you up for insubordination as well as dereliction of duty " .
+1
+#18 duty NOUN duty%1:04:00::,duty%1:04:02::
+Gun stiffened , his hands balling into fists at his sides .
+3
+#4 hand NOUN hand%1:08:00::,hand%1:10:01::
+#5 ball VERB ball%2:35:00::
+#10 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+He clamped his jaws to keep the fury from spilling out .
+2
+#5 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#7 fury NOUN fury%1:12:00::
+An argument with Orville Torrence Killpath was as frustrating and as futile as a cap pistol on a firing range .
+3
+#1 argument NOUN argument%1:10:00::
+#14 cap NOUN cap%1:06:00::
+#15 pistol NOUN pistol%1:06:00::
+Killpath leaned forward again , rocked comfortably with his arms still wrapped around one knee .
+5
+#2 forward ADV forward%4:02:00::,forward%4:02:04::
+#5 rock VERB rock%2:38:06::
+#9 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#10 still ADV still%4:02:00::
+#11 wrap VERB wrap%2:35:00::
+" Let 's just remember , Sergeant , that we must all carry our own umbrella .
+2
+#1 let VERB let%2:32:00::
+#3 just ADV just%4:02:00::,just%4:02:03::
+A district station can n't run smoothly , unless " - He interrupted himself , looking around Gun at the doorway .
+5
+#2 station NOUN station%1:06:00::
+#5 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+#6 smoothly ADV smoothly%4:02:00::
+#12 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+#15 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+" Morning , Lieutenant Rinker " .
+1
+#1 morning X morning%1:10:00::
+I thought you had n't come in yet " .
+2
+#1 think VERB think%2:31:01::,think%2:31:03::
+#7 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+" I 've been here for some time " .
+2
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+He stood up , cocked his head and eyed Gun coldly .
+2
+#4 cock VERB cock%2:38:01::
+#6 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" The sergeant is just leaving " .
+2
+#4 just ADV just%4:02:05::
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+It had come as no great surprise to Matson that the hot water in the showers did n't work , that Loren Severe had thrown up all over the stairs , or that some thieving bastard of a cop had walked off with his cigarettes .
+9
+#2 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#6 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#11 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#12 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#15 shower NOUN shower%1:04:00::
+#18 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#35 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+#38 cop NOUN cop%1:18:00::
+It was the best he could hope for on a watch that had ended with a session in Killpath 's office .
+4
+#3 best NOUN best%1:18:00::
+#10 watch NOUN watch%1:28:00::
+#16 session NOUN session%1:04:00::,session%1:28:00::
+#20 office NOUN office%1:06:00::
+Now , as he passed the open counter that divided the assembly room from the business office , he nodded and said good night to the station keeper and his clerks , not stopping to hear the day-watch playback of his chewing out .
+12
+#4 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#6 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#7 counter NOUN counter%1:06:00::
+#9 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#11 assembly NOUN assembly%1:04:00::
+#12 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#15 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#16 office NOUN office%1:06:00::
+#19 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#32 not ADV not%4:02:00::
+#33 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Not that he gave a damn what the grapevine sent out about Killpath 's little speech on the comportment of platoon commanders .
+3
+#8 grapevine NOUN grapevine%1:10:00::
+#15 speech NOUN speech%1:10:00::,speech%1:10:02::
+#21 commander NOUN commander%1:18:01::
+He just did n't want to talk about it .
+2
+#1 just ADV just%4:02:00::,just%4:02:03::
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+If the acting captain wanted his acting lieutenant to sit on his ass around the station all night , Killpath would just have to go out and drag Gun back by the heels once an hour ; because he 'd be damned if he was going to be a mid-watch pencil-pusher just to please his ulcerated pro-tem captain .
+13
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#9 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#12 ass NOUN arse%1:08:00::
+#15 station NOUN station%1:06:00::
+#21 just ADV just%4:02:00::,just%4:02:03::
+#22 have VERB have%2:42:08::
+#27 drag VERB drag%2:32:00::,drag%2:35:00::,drag%2:35:01::,drag%2:35:02::,drag%2:38:06::,drag%2:38:10::
+#32 heel NOUN heel%1:06:00::
+#33 once ADV once%4:02:00::
+#35 hour NOUN hour%1:07:00::,hours%1:28:01::
+#41 damn ADJ damn%5:00:00:cursed:00
+#51 just ADV just%4:02:00::,just%4:02:03::
+#53 please VERB please%2:37:00::,please%2:37:03::
+At the doorway he squinted up at the gray morning overcast and patted his jacket pockets for the cigarettes , remembering then that he 'd left them at the Doughnuttery .
+5
+#4 squint VERB squint%2:29:02::
+#8 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#15 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#21 then ADV then%4:02:01::
+#25 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+He could pick up another pack on his way home , if he were going home .
+2
+#5 pack NOUN pack%1:23:00::
+#8 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+But even before he started across the oiled road to his Plymouth , parked in the lot under the cypress trees across from the station , he knew that he was n't going home .
+5
+#4 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#8 road NOUN road%1:04:00::,road%1:06:00::
+#16 lot NOUN lot%1:15:00::
+#24 station NOUN station%1:06:00::
+#27 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+It was nine o ' clock in the morning : the hour which , like a spade turning clods of earth , exposed to the day a myriad of busy creatures that had lain dormant in the quiet night .
+9
+#8 morning NOUN morning%1:28:00::,morning%1:28:01::
+#11 hour NOUN hour%1:28:01::,hour%1:28:02::
+#16 spade NOUN spade%1:06:00::
+#17 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#18 clod NOUN clod%1:14:00::
+#20 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#25 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#27 myriad NOUN myriad%1:23:00::
+#37 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+Mission Street at this hour was populated by a whole community that Gun could not have seen on his tour of duty - the neighborhood that had known Urbano Quintana by day .
+9
+#4 hour NOUN hour%1:28:01::,hour%1:28:02::
+#9 whole ADJ whole%3:00:00::
+#10 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#14 not ADV not%4:02:00::
+#16 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 tour NOUN tour%1:28:01::
+#21 duty NOUN duty%1:04:00::,duty%1:04:02::
+#27 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#31 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Sol Phillips had purchased the Alliance Furniture Mart seventeen years ago .
+2
+#3 purchase VERB purchase%2:40:00::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+It was professedly worth three thousand dollars in stock and good will , and the name was written in gold in foot high letters across each of the two display windows .
+6
+#8 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#15 name NOUN name%1:14:00::
+#19 gold NOUN gold%1:07:00::
+#21 foot NOUN foot%1:23:00::
+#22 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#23 letter NOUN letter%1:10:01::,letter%1:10:02::
+On the right window , at eye level , in smaller print but also in gold , was Gonzalez , Prop. , and under that , Se Habla Espanol .
+6
+#2 right ADJ right%3:00:00::
+#3 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#7 level NOUN level%1:07:00::
+#11 print NOUN print%1:10:00::
+#15 gold NOUN gold%1:07:00::
+Mr. Phillips took a razor to Gonzalez , Prop. , but left the promise that Spanish would be understood because he thought it meant that Spanish clientele would be welcome .
+7
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#11 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#15 Spanish NOUN spanish%1:10:00::
+#18 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#23 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#25 Spanish NOUN spanish%1:18:00::
+#29 welcome ADJ welcome%3:00:00::
+Language was no problem anyway ; Mr. Phillips had only to signal from his doorway to summon aid from the ubiquitous bilingual children who played on the sidewalks of Mission Street .
+5
+#0 language NOUN language%1:10:00::
+#3 problem NOUN problem%1:09:00::,problem%1:26:00::
+#4 anyway ADV anyway%4:02:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#24 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+Aside from the fact that business was slow this time of year and his one salesgirl was not the most enterprising , Mr. Phillips had no worries at all , and he said as much to Gun Matson , who sat across from him in civilian clothes , on a Jiffy-Couch-a-Bed , mauve velour , $ 79.89 nothing down special !
+6
+#5 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#19 most ADV most%4:02:00::
+#24 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#40 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#46 clothes NOUN clothes%1:06:00::
+" She 's honest as the day " , Mr. Phillips said , and added , " Mr. Gunnar , I can say this to you : Beebe is a little too honest .
+3
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 add VERB add%2:32:01::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You can n't tell a customer how much it 's going to cost him to refinance his payments before he even signs for a loan on the money down !
+4
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#5 customer NOUN customer%1:18:00::
+#12 cost VERB cost%2:42:00::,cost%2:42:01::
+#21 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+A time plan is a mere convenience , you understand , and when " - He interrupted himself , smiling .
+3
+#6 convenience NOUN convenience%1:26:00::
+#9 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#16 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+" I put her in lamps .
+1
+#2 put VERB put%2:35:00::,put%2:35:05::
+That way I do n't lose so much " .
+2
+#5 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#6 so ADV so%4:02:03::,so%4:02:07::
+" Why do n't you just hire somebody else " ?
+2
+#5 just ADV just%4:02:00::,just%4:02:03::
+#6 hire VERB hire%2:41:00::

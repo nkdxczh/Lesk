@@ -1,0 +1,289 @@
+ When Mickey Charles Mantle , the New York Yankees ' man of muscle , drives a home run 450 feet into the bleachers , his feat touches upon the sublime .
+2
+#14 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+#26 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+When Roger Eugene Maris , Mantle 's muscular teammate , powers four home runs in a double-header , his performance merits awe .
+1
+#10 power VERB power%2:34:00::
+But when tiny , 145 - pound Albert Gregory Pearson of the Los Angeles Angels , who once caught three straight fly balls in center field because , as a teammate explained , " the other team thought no one was out there " , hits seven home runs in four months ( three more than his total in 1958 , 1959 , and 1960 ) , his achievement borders on the ridiculous .
+3
+#18 catch VERB catch%2:35:00::
+#37 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#45 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+This is the year home runs ranged from the sublime to the ridiculous .
+1
+#6 range VERB range%2:42:00::
+It is the year when ( 1 ) amiable Jim Gentile of the Baltimore Orioles ambled to the plate in consecutive innings with the bases loaded and , in unprecedented style , delivered consecutive grand-slam home runs ; ( 2 ) Willie Mays of the San Francisco Giants borrowed a teammate 's bat and became the ninth big leaguer to stroke four home runs in a game ; ( 3 ) the Milwaukee Braves tied a major-league record with fourteen home runs in three games and lost two of them ; and ( 4 ) catcher Johnny Blanchard of the New York Yankees matched a record with home runs in four successive times at bat , two of them as a pinch-hitter .
+6
+#32 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#54 become VERB become%2:30:00::,become%2:42:01::
+#60 stroke VERB stroke%2:33:00::
+#74 tie VERB tie%2:33:00::
+#86 lose VERB lose%2:30:03::,lose%2:33:00::
+#103 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+Experts point to the thinning of pitching talent in the American League caused by expansion .
+1
+#1 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+This , of course , is baseball 's most remarkable mark : The 60 home runs hit in 1927 by the incorrigible epicure , the incredible athlete , George Herman ( Babe ) Ruth of the Yankees .
+1
+#16 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+Since 1927 , fewer than a dozen men have made serious runs at Babe Ruth 's record and each , in turn , has been thwarted .
+1
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+In the final month of the 1927 season , he hit seventeen home runs , a closing spurt never matched .
+2
+#10 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#19 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+Always , in the abortive attacks upon Ruth 's record , one man alone - a Jimmy Foxx ( 58 in 1932 ) or a Hank Greenberg ( 58 in 1938 ) or a Hack Wilson ( 56 in 1930 ) - made the bid .
+1
+#42 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+But now , for the first time since Lou Gehrig ( with 47 home runs ) spurred Ruth on in 1927 , two men playing for the same team have zeroed in on 60 .
+1
+#24 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+After 108 games in 1927 , Ruth had 35 home runs .
+1
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+After 108 games in 1961 , Mickey Mantle has 43 , Roger Maris 41 .
+1
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Extend Mantle 's and Maris 's present paces over the full 1961 schedule of 162 games , and , mathematically , each will hit more than 60 home runs .
+2
+#0 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#23 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+To better Ruth 's mark , neither needs a spectacular September flourish .
+2
+#1 better VERB better%2:30:00::
+#7 need VERB need%2:42:00::
+All Mantle needs is eight more home runs in August and ten in September , and he will establish a new record .
+2
+#2 need VERB need%2:42:00::
+#18 establish VERB establish%2:36:01::,establish%2:41:00::
+Baseball commissioner Ford Frick has ruled that Ruth 's record will remain official unless it is broken in 154 games . )
+1
+#5 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+How can you walk Maris to get to Mantle " ?
+1
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Although both concede they would like to hit 60 , they stick primarily to the baseball player 's standard quote : " The important thing is to win the pennant " .
+4
+#2 concede VERB concede%2:32:00::,concede%2:33:00::
+#5 like VERB like%2:37:05::
+#7 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#27 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+Each enjoys seeing the other hit home runs ( " I hope Roger hits 80 " , Mantle says ) , and each enjoys even more seeing himself hit home runs ( " and I hope I hit 81 " ) .
+9
+#1 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#13 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#26 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#28 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#37 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+The three pay $ 251 a month for four rooms ( kitchen , dining room , living room , and bedroom ) , with air-conditioning and new modern furniture .
+1
+#2 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Mantle and Cerv use the twin beds in the bedroom ; Maris sleeps on a green studio couch in the living room .
+2
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 sleep VERB sleep%2:29:00::
+They divide up the household chores : Cerv does most of the cooking ( breakfast and sandwich snacks , with dinner out ) , Mantle supplies the transportation ( a white 1961 Oldsmobile convertible ) , and Maris drives the 25 - minute course from the apartment house to Yankee Stadium .
+2
+#1 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#38 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+Mantle , Maris , and Cerv probably share one major-league record already : Among them , they have fifteen children - eight for Cerv , four for Mantle , and three for Maris .
+1
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+As roommates , teammates , and home-run mates , Mantle , 29 , who broke in with the Yankees ten years ago , and Maris , 26 , who came to the Yankees from Kansas City two years ago , have strikingly similar backgrounds .
+2
+#29 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#40 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Both were scholastic stars in football , basketball , and baseball ( Mantle in Commerce , Okla. , Maris in Fargo , N. D . ) ; as halfbacks , both came close to playing football at the University of Oklahoma ( " Sometimes in the minors " , Maris recalls , " I wished I had gone to Oklahoma " ) .
+2
+#34 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#50 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+To an extent , the two even look alike .
+1
+#7 look VERB look%2:39:01::,look%2:42:02::
+Both have blue eyes and short blond hair .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Both are 6 feet tall and weigh between 195 and 200 pounds , but Mantle , incredibly muscular ( he has a 17 - 1 2 - inch neck ) , looks bigger .
+3
+#6 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#31 look VERB look%2:39:01::,look%2:42:02::
+With their huge backs and overdeveloped shoulders , both must have their clothes made to order .
+1
+#13 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Maris purchases $ 100 suits from Simpson 's in New York .
+1
+#1 purchase VERB purchase%2:40:00::
+Mantle , more concerned with dress , buys his suits four at a time at Neiman-Marcus in Dallas and pays as much as $ 250 each .
+2
+#7 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#19 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Neither Mantle nor Maris need fear being classified an intellectual , but lately Mantle has shown unusual devotion to an intellectual opus , Henry Miller 's " Tropic of Cancer " .
+1
+#15 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+Mantle so appreciated Miller 's delicate literary style that he broadened teammates ' minds by reading sensitive passages aloud during road trips .
+2
+#2 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+#15 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+" What do you and Mickey talk about at home " ? a reporter asked Maris recently .
+1
+#14 ask VERB ask%2:32:00::,ask%2:32:04::
+" To tell you the truth " , Maris said , " Mickey do n't talk much " .
+2
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+What is surprising and pleasant is that Mantle and Maris , under constant pressure from writers and photographers , are trying to be cooperative .
+1
+#20 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+But last week , when a reporter was standing near Mantle 's locker , Mickey walked up and volunteered an anecdote .
+1
+#15 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+" See that kid " ? he said , pointing to a dark-haired 11 - year-old boy .
+3
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+I 'll never forget one time I struck out three times , dropped a fly ball , and we lost the game .
+2
+#12 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#19 lose VERB lose%2:30:03::,lose%2:33:00::
+I came back , sitting by my locker , feeling real low , and the kid walks over to me , looks up , and says :
+5
+#4 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#16 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#21 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+' You stunk " ' .
+1
+#2 stink VERB stink%2:39:00::
+Maris , in talking to reporters , tries to answer all questions candidly and fully , but on rare occasions , he shuns newsmen .
+2
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#9 answer VERB answer%2:31:00::,answer%2:32:00::
+" When I 've made a dumb play " , he says , " I do n't want to talk to anyone .
+3
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Benched at Tulsa in 1955 , he told manager Dutch Meyer :
+2
+#0 bench VERB bench%2:41:00::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" I can n't play for you .
+1
+#4 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+Send me where I can play " .
+2
+#0 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#5 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+Benched at Indianapolis in 1956 , he told manager Kerby Farrell : " I 'm not learning anything on the bench .
+3
+#0 bench VERB bench%2:41:00::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#16 learn VERB learn%2:31:01::,learn%2:31:03::
+( Farrell did - and Maris led the team to victory in the Little World Series . )
+1
+#6 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+" That 's the way I am " , he says .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I tell people what I think .
+2
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 think VERB think%2:31:01::,think%2:31:03::
+If you 're a good ballplayer , you 've got to get mad .
+1
+#11 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Give me a team of nine angry men and I 'll give you a team of nine gentlemen and we 'll beat you nine out of ten times " .
+1
+#21 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+One good indication of the two men 's personalities is the way they reacted to meeting their own heroes .
+1
+#15 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+" When I was a kid " , Maris told a sportswriter last week , " I used to follow Williams every day in the box score , just to see whether he got a hit or not " .
+5
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 follow VERB follow%2:30:00::,follow%2:30:01::,follow%2:31:00::,follow%2:31:14::,follow%2:41:02::
+#30 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#33 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#35 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+" Are you kidding " ? said Maris .
+2
+#3 kid VERB kid%2:32:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" When Mickey went to the Yankees " , says Mark Freeman , an ex-Yankee pitcher who sells mutual funds in Denver , " DiMaggio still was playing and every day Mickey would go by his locker , just aching for some word of encouragement from this great man , this hero of his .
+5
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#27 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#39 ache VERB ache%2:39:01::
+But DiMaggio never said a word .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It crushed Mickey .
+1
+#1 crush VERB crush%2:37:00::
+He told me he vowed right then that if he ever got to be a star , this never would be said of him " .
+3
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#4 vow VERB vow%2:32:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mantle has kept the vow .
+1
+#2 keep VERB keep%2:41:05::
+If laying ties on a railroad track , which he once did for $ 1 an hour , paid more than playing right field for the Yankees , Maris would lay ties on a railroad track .
+4
+#1 lay VERB lay%2:35:00::,lay%2:36:00::
+#18 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#21 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#30 lay VERB lay%2:35:00::,lay%2:36:00::
+If working in a zinc mine , which he once did for 87 - 1 2 cents an hour , paid more than playing center field for the Yankees , Mantle would work in a zinc mine .
+4
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#20 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#23 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#32 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+They try to play baseball the best they can .
+3
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#8 can VERB can%2:41:00::
+( " One of the reasons they get along fine " , says a sportswriter who is friendly with the two men , " is that both realize Mantle is head-and-shoulders above Maris " . )
+2
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#27 realize VERB realize%2:31:01::
+Hitting , Mantle has an immediate advantage because he bats both left-handed and right-handed , Maris only left-handed .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 bat VERB bat%2:35:01::
+They both possess near classic stances , dug in firmly , arms high , set for fierce swings .
+2
+#2 possess VERB possess%2:40:00::,possess%2:42:00::
+#14 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+Mantle is considerably better hitting for average ( .332 , fourth in the league , to .280 for Maris so far this year ) .
+1
+#4 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+Both have brilliant speed : Mantle was timed from home plate ( batting left-handed ) to first base in 3.1 seconds , faster than any other major leaguer ; Maris ran the 100 - yard dash in ten seconds in high school and once won a race against Luis Aparicio , the swift , base-stealing shortstop of the White Sox .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 bat VERB bat%2:35:01::
+#30 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#44 win VERB win%2:33:00::
+With this ultimate weapon , the two Yankees may have saved baseball from its dullest season .
+1
+#10 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+In 1920 , as the startling news that the 1919 White Sox had conspired to lose the World Series leaked out , fans grew disillusioned and disinterested in baseball .
+2
+#15 lose VERB lose%2:30:03::,lose%2:33:00::
+#23 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+Something was needed to revive interest ; the something was the home run .
+1
+#2 need VERB need%2:42:00::

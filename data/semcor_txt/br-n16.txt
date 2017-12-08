@@ -1,0 +1,713 @@
+ Over the rattling of fenders , humming of tires and chattering of gears there was a charming melody of whispers and tiny giggles .
+5
+#2 rattle NOUN rattle%1:11:00::
+#4 fender NOUN fender%1:06:03::
+#6 hum NOUN hum%1:26:00::
+#10 chatter NOUN chatter%1:11:01::
+#12 gear NOUN gear%1:06:04::
+Cool air moving slowly through the open or smashed out side windows hinted of blooming roadside vegetation , and occasionally a faint fragrance of perfume swirled from the back seat .
+10
+#0 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#1 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#6 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#8 smashed ADJ smash%2:38:02::
+#11 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#16 vegetation NOUN vegetation%1:14:00::
+#21 faint ADJ faint%5:00:00:perceptible:00
+#28 back ADJ back%5:00:00:posterior:00
+#29 seat NOUN seat%1:06:00::,seat%1:06:01::,seat%1:06:03::,seat%1:07:00::,seat%1:15:00::,seat%1:15:01::
+" Moriarty " , my driver suddenly exclaimed with something so definite , so final in his tone I once more repeated the absurdity , mustering all my latent powers of hypocrisy to sound convinced .
+8
+#5 driver NOUN driver%1:18:00::,driver%1:18:02::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#17 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#21 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#25 muster VERB muster%2:35:02::
+#29 power NOUN power%1:18:00::
+#33 sound VERB sound%2:39:06::
+We were coming to an intersection , turning right , chuffing to a stop .
+4
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#8 right ADV right%4:02:01::,right%4:02:03::
+#13 stop NOUN stop%1:10:01::
+Forced to realize that this was the end of a very short line I scanned a road marker and discovered what the end of a slightly longer line would be for the old Mexican : Moriarty , New Mexico .
+10
+#0 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#2 realize VERB realize%2:31:01::
+#7 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#11 short ADJ short%3:00:01::
+#14 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#16 road NOUN road%1:04:00::,road%1:06:00::
+#17 marker NOUN marker%1:06:00::
+#19 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#22 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#25 slightly ADV slightly%4:02:01::
+Adios " , I said , exhausting my Spanish vocabulary on my host and exchanging one of a scarcely tapped store of smiles with my host 's daughters .
+6
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 exhaust VERB exhaust%2:34:00::
+#12 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#19 tap VERB tap%2:39:00::
+#20 store NOUN store%1:06:01::,store%1:06:03::,store%1:21:00::
+#25 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+I waved with discretion and moderation to the vague golden faces fading through rising dust and the distortions of the back window glass .
+11
+#1 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#3 discretion NOUN discretion%1:09:00::
+#5 moderation NOUN moderation%1:07:01::
+#9 golden ADJ golden%5:00:00:metallic:00
+#10 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#11 fade VERB fade%2:30:01::
+#13 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#14 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#17 distortion NOUN distortion%1:04:00::
+#20 back ADJ back%5:00:00:posterior:00
+#21 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+Then I saw the father 's head slightly turn ; gauche rainbow shapes replaced the poignant ovals of gold .
+9
+#0 then ADV then%4:02:00::
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#6 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#7 slightly ADV slightly%4:02:01::
+#8 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#12 shape NOUN shape%1:07:00::,shape%1:07:01::
+#13 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#18 gold NOUN gold%1:07:00::
+Autos whizzed past .
+1
+#1 whiz VERB whiz%2:39:00::
+White shirted and conservatively cravated drivers stared conspicuously toward the eastern horizon and past my supplicating and accusing gaze .
+4
+#0 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#5 driver NOUN driver%1:18:00::,driver%1:18:02::
+#10 eastern ADJ eastern%5:00:00:east:00
+#11 horizon NOUN horizon%1:15:00::
+Suddenly a treble auto horn tootley-toot-tootled , and , thumbing hopefully , I saw emergent in windshield flash : red lips , streaming silk of blonde hair and - ah , trembling confusion of hope , apprehension , despair - the leering face of old Herry .
+12
+#4 horn NOUN horn%1:06:00::
+#10 hopefully ADV hopefully%4:02:00::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 emergent ADJ emergent%5:00:00:nascent:00
+#19 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#20 lip NOUN lip%1:08:00::,lip%1:20:00::
+#22 stream VERB stream%2:38:01::
+#25 blonde ADJ blonde%3:00:00::
+#26 hair NOUN hair%1:08:00::
+#32 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#36 apprehension NOUN apprehension%1:12:00::
+#42 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+" Mor-ee-air-teeeee " , he shrieked , his white teeth grossly counterpointing those of the glittering blonde .
+4
+#8 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#9 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#11 counterpoint VERB counterpoint%2:42:00::
+#16 blonde NOUN blonde%1:18:00::
+Over the rapidly diminishing outline of a jump seat piled high with luggage Herry 's black brushcut was just discernible , near , or enviably near that spot where - hidden - more delicately textured , most beautifully tinted hair must still be streaming back in cool , oh cool wind sweetly perfumed with sagebrush and yucca flowers and engine fumes .
+19
+#4 outline NOUN outline%1:15:00::
+#9 pile VERB pile%2:35:00::
+#10 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#15 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#18 just ADV just%4:02:04::
+#21 near ADJ near%3:00:00::
+#25 near ADJ near%3:00:00::
+#27 spot NOUN spot%1:10:01::,spot%1:15:01::
+#32 more ADV more%4:02:00::,more%4:02:01::
+#36 most ADV most%4:02:01::
+#39 hair NOUN hair%1:08:00::
+#41 still ADV still%4:02:00::
+#43 stream VERB stream%2:38:01::
+#44 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#46 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#49 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#50 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#57 flower NOUN flower%1:20:00::,flower%1:28:00::
+#59 engine NOUN engine%1:06:00::
+Damn his luck .
+1
+#0 damn VERB damn%2:32:00::
+I would have foregone my romantic chances rather than leave a friend sweltering and dusty and - Well , at least I would n't have shouted back a taunt .
+4
+#5 romantic ADJ romantic%5:00:01:loving:00
+#7 rather ADV rather%4:02:02::
+#11 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#25 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+Still nursing anger I listlessly thumbed a car that was slowly approaching , its pre-war chrome nearly blinding me .
+5
+#0 still ADV still%4:02:00::
+#1 nurse VERB nurse%2:29:00::
+#11 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#16 nearly ADV nearly%4:02:00::
+#17 blind VERB blind%2:39:01::
+It was stopping .
+1
+#2 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Just as I straightened up with my duffel bag , I heard : " Sahjunt Yoorick , meet Mrs. Major J. A. Roebuck " .
+2
+#0 just ADV just%4:02:05::
+#17 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The voice was that of Johnson , tail gunner off another crew .
+4
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#7 tail NOUN tail%1:25:00::
+#8 gunner NOUN gunner%1:18:00::
+#11 crew NOUN crew%1:14:01::
+Squeezing a look between Johnson 's fat jowls and the car frame a handsome and still darkhaired lady inquired " Y ' all drahve " ?
+6
+#0 squeeze VERB squeeze%2:35:01::,squeeze%2:35:03::,squeeze%2:35:05::,squeeze%2:41:01::
+#2 look NOUN look%1:04:00::,look%1:07:01::
+#11 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+#13 handsome ADJ handsome%5:00:00:beautiful:00
+#17 lady NOUN lady%1:18:01::,lady%1:18:02::
+#18 inquire VERB inquire%2:32:01::
+I nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" Onleh one thiihng " , Mrs. Roebuck continued .
+1
+#8 continue VERB continue%2:32:00::,continue%2:42:01::
+I said that it did n't make any difference to me either , as far as I knew .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 far ADV far%4:02:02::
+#17 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+How far I knew will shortly become apparent .
+3
+#1 far ADV far%4:02:02::
+#5 shortly ADV shortly%4:02:01::
+#6 become VERB become%2:30:00::,become%2:42:01::
+Let me pass over the trip to Sante Fe with something of the same speed which made Mrs. Roebuck " wonduh if the wahtahm speed limit " ( 35 m. p. h . ) " is still in ee-faket " .
+3
+#5 trip NOUN trip%1:04:00::
+#14 speed NOUN speed%1:04:00::,speed%1:07:00::
+#36 still ADV still%4:02:00::
+I let up on the accelerator , only to gradually reach again the 60 m. p. h. which would , I hoped , overhaul Herry and the blonde , and as there were cars whose drivers apparently had something more important to catch than had I , Mrs. Major Roebuck settled down to practicing on Corporal Johnson the kittenish wiles she would need when making her duty call on Colonel and Mrs. Somebody in Sante Fe .
+12
+#7 only ADV only%4:02:00::,only%4:02:04::
+#10 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#23 overhaul VERB overhaul%2:38:00::
+#27 blonde NOUN blonde%1:18:00::
+#35 driver NOUN driver%1:18:00::,driver%1:18:02::
+#37 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#39 more ADV more%4:02:00::,more%4:02:01::
+#42 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#53 practice VERB practice%2:31:00::
+#62 need VERB need%2:42:00::
+#64 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#67 call NOUN call%1:04:02::,call%1:04:03::
+When Johnson ejaculated " Howsabout my buying us all a nice cold Co-cola , Ma ' am " ?
+3
+#2 ejaculate VERB ejaculate%2:32:00::
+#10 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#11 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+Mrs. Roebuck smilingly declined and began suddenly to go on about her son , who was " onleh a little younguh than you bawhs " .
+1
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Johnson never would have believed she had a son that age .
+4
+#1 never ADV never%4:02:00::
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+Mrs. Roebuck thought Johnson was a " sweet bawh t ' lah lahk thet " , but her Herman was getting to be a man , there was no getting around it .
+2
+#2 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 sweet ADJ sweet%5:00:00:lovable:00
+" Just befoh he left foh his academeh we wuh hevin dack-rihs on the vuhranduh , Major Roebuck an Ah , an Huhmun says ' May Ah hev one too ' ?
+3
+#1 just ADV just%4:02:05::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 too ADV too%4:02:01::
+just as p ' lite an - an cohnfidunt , an Ah says ' Uh coahse you cai n't ' , but he says ' Whah nawt , you ah hevin one ' ?
+2
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+an Ah coudn ansuh him an so Ah said ' Aw right , Ah gay-ess , an his fathuh did n uttuh one wohd an aftuh Huhmun was gone , the majuh laughed an tole me thet he an the bawh had been hevin an occasional drink t ' gethuh f ' ovuh a yeah , onleh an occasional one , but just the same it was behahn mah back , an Ah doa n think thet 's nahce at all , d ' you " ?
+6
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+#62 just ADV just%4:02:00::,just%4:02:03::
+#64 same ADJ same%3:00:00::
+#69 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#75 think VERB think%2:31:01::,think%2:31:03::
+" No , I do n't " , Johnson said .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 'm a good Baptist , and drinking & & & " .
+2
+#4 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#5 baptist NOUN baptists%1:14:00::
+Mrs. Roebuck very kindly let me drive through Sante Fe to a road which would , she said , lead us to Taos and then Raton and " eventshahleh " out of New Mexico .
+5
+#4 let VERB let%2:30:01::,let%2:41:00::
+#6 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#12 road NOUN road%1:04:00::,road%1:06:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+How lightly her " eventshah-leh " passed into the crannies where I was storing dialect material for some vaguely dreamed opus , and how the word would echo .
+5
+#15 material NOUN material%1:06:01::,material%1:10:00::
+#18 vaguely ADV vaguely%4:02:00::
+#20 opus NOUN opus%1:10:00::
+#25 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#27 echo VERB echo%2:39:00::
+Hardly had Mrs. Roebuck driven off when a rusty pick-up truck , father or grandfather of Senor " Moriarty 's " Ford sedan , came screeching to a dust swirling stop , and a brown face appeared , its nose threatened by shards of what had once been the side window .
+14
+#0 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#4 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#8 rusty ADJ rusty%5:00:00:rusted:00
+#9 pickup NOUN pickup%1:06:00::
+#10 truck NOUN truck%1:06:00::,truck%1:06:01::
+#12 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#22 sedan NOUN sedan%1:06:00::
+#24 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+#28 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#30 stop NOUN stop%1:10:01::
+#35 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#36 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#46 once ADV once%4:02:01::
+#50 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+The straight , black hair flopped in a vigorous nod , the slender nose plunged toward glass teeth and drew safely back .
+7
+#1 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+#3 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#4 hair NOUN hair%1:08:00::
+#5 flop VERB flop%2:38:00::
+#12 slender ADJ slender%5:00:00:thin:03
+#17 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#19 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+Johnson unwired the right hand door , whose window was , like the left one , merely loosely taped fragments of glass , and Johnson wadded himself into a narrow seat made still more narrow by three cases of beer .
+10
+#8 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#13 left ADJ left%5:00:00:unexhausted:00
+#21 glass NOUN glass%1:27:00::
+#25 wad VERB wad%2:35:01::
+#29 narrow ADJ narrow%3:00:00::
+#30 seat NOUN seat%1:06:00::,seat%1:06:01::,seat%1:06:03::,seat%1:07:00::,seat%1:15:00::,seat%1:15:01::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#33 more ADV more%4:02:00::,more%4:02:01::
+#34 narrow ADJ narrow%3:00:00::
+#37 case NOUN case%1:06:00::,case%1:06:06::
+" In back , buddy " , the driver said to me .
+3
+#2 back NOUN back%1:06:00::,back%1:15:02::
+#8 driver NOUN driver%1:18:00::,driver%1:18:02::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Quickly but carefully lowering my duffel bag over the low side rack , I stepped on the running board ; it flopped down , sprang back up and gouged my shin .
+8
+#3 lower VERB lower%2:30:01::
+#9 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#11 rack NOUN rack%1:06:01::
+#21 flop VERB flop%2:38:00::
+#22 down ADV down%4:02:00::,down%4:02:02::
+#24 spring VERB spring%2:38:01::
+#26 up ADV up%4:02:00::
+#28 gouge VERB gouge%2:35:01::
+The truck was hurtling forward .
+2
+#1 truck NOUN truck%1:06:00::,truck%1:06:01::
+#4 forward ADV forward%4:02:00::,forward%4:02:04::
+I seized the rack and made a western style flying mount just in time , one of my knees mercifully landing on my duffel bag - and merely wrecking my camera , I was to discover later - my other knee landing on the slivery truck floor boards and - but this is no medical report .
+13
+#1 seize VERB seize%2:31:00::,seize%2:31:04::,seize%2:40:01::,seize%2:40:02::
+#3 rack NOUN rack%1:06:01::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 western ADJ western%3:00:01::
+#8 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#9 flying ADJ flying%5:00:00:moving:02
+#20 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#30 camera NOUN camera%1:06:00::
+#35 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#36 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#39 other ADJ other%3:00:00::
+#41 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#45 truck NOUN truck%1:06:00::,truck%1:06:01::
+I was again in motion and at a speed which belied the truck 's similarity to Senor X 's Ford turtle .
+3
+#4 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#10 belie VERB belie%2:42:00::
+#12 truck NOUN truck%1:06:00::,truck%1:06:01::
+Maybe I would beat old Herry to Siberia after all .
+1
+#3 beat VERB beat%2:33:00::,beat%2:33:14::
+Something pulled my leg .
+2
+#1 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#3 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+I drew back , drawing back my foot for a kick .
+2
+#7 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#10 kick NOUN kick%1:04:00::
+But it was only Johnson reaching around the wire chicken fencing , which half covered the truck cab 's glassless rear window .
+7
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#9 chicken NOUN chicken%1:13:00::
+#10 fence NOUN fence%1:06:00::
+#14 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#16 truck NOUN truck%1:06:00::,truck%1:06:01::
+#17 cab NOUN cab%1:06:02::
+The way his red rubber lips were stretched across his pearly little teeth I though he was only having a little joke , but , no , he wanted me to bend down from the roar of wind so he could roar something into my ear .
+13
+#1 way NOUN way%1:04:00::,way%1:09:00::
+#3 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#5 lip NOUN lip%1:08:00::,lip%1:20:00::
+#12 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#17 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#18 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#28 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#31 bend VERB bend%2:35:08::,bend%2:38:02::
+#32 down ADV down%4:02:00::,down%4:02:02::
+#37 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#38 so CONJ so%4:02:06::
+#41 roar VERB roar%2:29:00::,roar%2:32:01::,roar%2:32:02::,roar%2:32:03::,roar%2:32:05::
+#45 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+" Hell , yes " , I roared back between dusty lips .
+3
+#3 yes NOUN yes%1:10:00::
+#7 roar VERB roar%2:29:00::,roar%2:32:01::,roar%2:32:02::,roar%2:32:03::,roar%2:32:05::
+#11 lip NOUN lip%1:08:00::,lip%1:20:00::
+Did I want a beer ?
+1
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Did an anteater want ants ?
+1
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Gracias " , I hollered , my first long swallow filling me with confidence and immediately doubling the size of my Spanish vocabulary .
+4
+#7 first ADJ first%3:00:00::,first%4:02:00::
+#8 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#9 swallow NOUN swallow%1:04:00::
+#16 double VERB double%2:40:03::
+At once my ears were drowned by a flow of what I took to be Spanish , but - the driver 's white teeth flashing at me , the road wildly veering beyond his glistening hair , beyond his gesticulating bottle - it could have been the purest Oxford English I was half hearing ; I would n't have known the difference .
+10
+#3 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#15 Spanish NOUN spanish%1:10:00::
+#20 driver NOUN driver%1:18:00::,driver%1:18:02::
+#22 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#23 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#24 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+#29 road NOUN road%1:04:00::,road%1:06:00::
+#31 veer VERB veer%2:38:00::
+#35 hair NOUN hair%1:08:00::
+#59 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Johnson was trying to grab the wheel , though the swerve of the truck was throwing him away from it .
+6
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#6 wheel NOUN wheel%1:06:00::,wheel%1:06:01::,wheel%1:06:03::,wheel%1:06:05::,wheel%1:07:00::
+#13 truck NOUN truck%1:06:00::,truck%1:06:01::
+#15 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#17 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+White teeth suddenly vanishing , the driver slammed the side of his bottle against Johnson 's ear .
+5
+#0 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#1 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#3 vanish VERB vanish%2:30:01::
+#6 driver NOUN driver%1:18:00::,driver%1:18:02::
+#16 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+We were off the road , gleaming barbed wire pulling taut .
+3
+#4 road NOUN road%1:04:00::,road%1:06:00::
+#9 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#10 taut ADJ taut%5:00:00:tense:03
+I ducked just as the first strand broke somewhere down the line and came whipping over the sideboards .
+10
+#1 duck VERB duck%2:38:00::
+#2 just ADV just%4:02:05::
+#5 first ADJ first%3:00:00::,first%4:02:00::
+#6 strand NOUN strand%1:06:02::
+#7 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#9 down ADV down%4:02:00::,down%4:02:02::
+#11 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#14 whip VERB whip%2:38:00::
+#17 sideboard NOUN sideboard%1:06:01::
+We were in a field , in a tight , screeching turn .
+3
+#4 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#8 tight ADJ tight%3:00:02::
+#11 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+Prairie dogs were popping up and popping down .
+2
+#6 pop VERB pop%2:35:00::
+#7 down ADV down%4:02:00::,down%4:02:02::
+When I fell on my back , I saw a vulture hovering .
+4
+#2 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#5 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 vulture NOUN vulture%1:05:00::
+Just as I got to my knees , there was again the sound of the fence stretching , and I had time only to start taking my kneeling posture seriously .
+10
+#0 just ADV just%4:02:05::
+#3 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#12 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#15 fence NOUN fence%1:06:00::
+#16 stretch VERB stretch%2:30:00::,stretch%2:30:04::,stretch%2:30:05::,stretch%2:35:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#24 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#25 take VERB take%2:31:02::,take%2:34:00::
+#28 posture NOUN posture%1:07:00::
+This time no wire came whipping into the truck .
+4
+#1 time NOUN time%1:11:00::
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#5 whip VERB whip%2:38:00::
+#8 truck NOUN truck%1:06:00::,truck%1:06:01::
+We were back on the road .
+1
+#5 road NOUN road%1:04:00::,road%1:06:00::
+I regained my squatting position behind the truck cab 's rear window .
+4
+#3 squat NOUN squat%1:04:00::
+#4 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+#7 truck NOUN truck%1:06:00::,truck%1:06:01::
+#8 cab NOUN cab%1:06:02::
+Johnson 's left hand was pressed against the side of his head , red cheeks whitening beneath his fingers .
+5
+#5 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#8 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#13 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#14 cheek NOUN cheek%1:08:00::
+" Tee-wah " , the driver cackled , his black eyes glittering behind dull silver chicken fencing .
+6
+#5 driver NOUN driver%1:18:00::,driver%1:18:02::
+#9 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#10 eye NOUN eye%1:08:00::,eye%1:09:01::
+#13 dull ADJ dull%5:00:00:unsaturated:03
+#15 chicken NOUN chicken%1:13:00::
+#16 fence NOUN fence%1:06:00::
+You thought I was a Mexican , did n't you , buddy " ?
+1
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+I nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" Hell , that 's all right , buddy " , the Indian ( I now guessed ) said .
+3
+#12 Indian NOUN indian%1:10:00::
+#15 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Drink your beer " .
+1
+#1 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+Miraculously , the bottle was still in my hand , foam still geysering over my ( luckily ) waterproof watch .
+4
+#5 still ADV still%4:02:00::
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+#11 still ADV still%4:02:00::
+#19 watch NOUN watch%1:06:00::
+No sooner had I started drinking than the driver started zigzagging the truck .
+5
+#1 soon ADV soon%4:02:00::
+#4 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#5 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#8 driver NOUN driver%1:18:00::,driver%1:18:02::
+#12 truck NOUN truck%1:06:00::,truck%1:06:01::
+I drank furiously .
+1
+#1 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+A long time .
+2
+#1 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#2 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+Teeth again flashing back at me , the driver released a deluge of Spanish in which " amigo " appeared every so often like an island in the stormy waves of surrounding sound .
+8
+#0 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#2 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+#8 driver NOUN driver%1:18:00::,driver%1:18:02::
+#9 release VERB release%2:35:00::,release%2:41:00::
+#13 Spanish NOUN spanish%1:10:00::
+#19 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#25 island NOUN island%1:06:00::
+#29 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+I bobbed my head each time it appeared .
+4
+#1 bob VERB bob%2:32:00::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#5 time NOUN time%1:11:00::
+#7 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Suddenly the Spanish became an English in which only one word emerged with clarity and precision , " son of a bitch " , sometimes hyphenated by vicious jabs of a beer bottle into Johnson 's quivering ribs .
+6
+#2 Spanish NOUN spanish%1:10:00::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#5 English NOUN english%1:09:00::
+#10 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#27 vicious ADJ vicious%5:00:00:wrong:01
+#37 rib NOUN rib%1:08:01::
+A big car was approaching , its chrome teeth grinning .
+2
+#1 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#4 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+Beyond it the gray road stretched a long , long way .
+6
+#3 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#4 road NOUN road%1:04:00::,road%1:06:00::
+#5 stretch VERB stretch%2:42:00::
+#7 long ADJ long%3:00:01::
+#9 long ADJ long%3:00:01::
+#10 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+The car was just about to us , its driver 's fat , solemn face intent on the road ahead , on business , on a family in Sante Fe - on anything but an old pick-up truck in which two human beings desperately needed rescue .
+9
+#3 just ADV just%4:02:05::
+#9 driver NOUN driver%1:18:00::,driver%1:18:02::
+#14 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#18 road NOUN road%1:04:00::,road%1:06:00::
+#22 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#26 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#35 old ADJ old%3:00:01::,old%3:00:02::
+#36 pickup NOUN pickup%1:06:00::
+#44 need VERB need%2:42:00::
+I tossed the bottle .
+1
+#1 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+High , so it would only bounce harmlessly but loudly off the car 's steel roof .
+4
+#0 high ADV high%4:02:02::
+#2 so CONJ so%4:02:10::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+Too high .
+1
+#1 high ADV high%4:02:02::
+On unoccupied roadway the bottle shattered into a small amber flash .
+3
+#1 unoccupied ADJ unoccupied%5:00:00:uninhabited:00
+#5 shatter VERB shatter%2:30:01::
+#10 flash NOUN flash%1:10:01::
+The Indian was again raising his bottle , but to my astonished relief - probably only a fraction of Johnson 's - the bottle this time went to the Indian 's lips .
+9
+#1 Indian NOUN indian%1:10:00::
+#4 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#12 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#17 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#25 time NOUN time%1:11:00::
+#26 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#29 Indian NOUN indian%1:10:00::
+#31 lip NOUN lip%1:08:00::,lip%1:20:00::
+Another car was coming , a tiny , dark shape on a far hill .
+3
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 shape NOUN shape%1:07:00::,shape%1:07:01::
+#13 hill NOUN hill%1:06:01::,hill%1:17:00::
+I started looking on the splintery truck bed for a piece of board , a dirt clod - anything I could throw and with better aim than I had thrown the beer bottle .
+8
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#12 board NOUN board%1:06:00::,board%1:06:03::,board%1:27:00::
+#16 clod NOUN clod%1:14:00::
+#21 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#24 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#25 aim NOUN aim%1:04:00::
+#29 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+In the ditch sand was white and soft looking , only an occasional pebble discernible , faintly gleaming .
+3
+#5 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#7 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+But Johnson could n't quickly unwire the truck door , and if I escaped , he might suffer .
+3
+#7 truck NOUN truck%1:06:00::,truck%1:06:01::
+#13 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#17 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+The car was approaching fast .
+1
+#3 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+On the truck bed there was nothing smaller than a piece of rusty machinery ; with more time I could have loosened a small burr or cotter pin -
+2
+#12 rusty ADJ rusty%5:00:00:rusted:00
+#24 bur NOUN bur%1:20:00::
+Suddenly and not a second too soon I thought of the coins in my pocket .
+4
+#2 not ADV not%4:02:00::
+#4 second NOUN second%1:28:00::,second%1:28:01::
+#6 soon ADV soon%4:02:00::
+#14 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+There was no time to pick out a penny ; I got a coin between my thumb and forefinger , leaned my elbows in a very natural and casual manner on top of the truck cab and flipped my little missile .
+8
+#8 penny NOUN penny%1:23:00::
+#26 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+#28 casual ADJ casual%5:00:00:unconcerned:00
+#29 manner NOUN manner%1:07:01::;1:07:02::
+#31 top NOUN top%1:15:00::,top%1:15:01::
+#34 truck NOUN truck%1:06:00::,truck%1:06:01::
+#35 cab NOUN cab%1:06:02::
+#37 flip VERB flip%2:38:02::
+There was a blur just under my focus of vision , a crash ; the car 's far windshield panel turned into a silver web with a dark hole in the center .
+7
+#4 just ADV just%4:02:04::
+#7 focus NOUN focus%1:07:01::
+#9 vision NOUN vision%1:09:01::,vision%1:09:02::,vision%1:09:03::
+#19 panel NOUN panel%1:06:00::
+#24 web NOUN web%1:17:00::
+#28 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#31 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+I heard the screech of brakes behind me , an insane burst of laughter beneath me .
+1
+#5 brake NOUN brake%1:06:00::
+Looking back I saw a gray-haired man getting out of his halted car and trying to read our license number .
+3
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+Johnson 's fat hand , another bottle were protruding from the truck cab , and that self proclaimed Baptist teetotaler , had a bottle at his own lips .
+5
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+#11 truck NOUN truck%1:06:00::,truck%1:06:01::
+#12 cab NOUN cab%1:06:02::
+#26 own ADJ own%5:00:00:personal:00
+#27 lip NOUN lip%1:08:00::,lip%1:20:00::
+Two cars came over a crest , their chrome and glass flashing .
+4
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#5 crest NOUN crest%1:15:01::
+#10 glass NOUN glass%1:27:00::
+#11 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+The Indian 's arm whipped sidewise - there was a flash of amber and froth , the crash of the bottle shattering against the side of the first car .
+8
+#1 Indian NOUN indian%1:10:00::
+#3 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#4 whip VERB whip%2:38:00::
+#10 flash NOUN flash%1:10:01::
+#14 froth NOUN froth%1:17:00::
+#17 crash NOUN crash%1:11:01::
+#21 shatter VERB shatter%2:30:01::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+Brakes shrieked behind us .
+1
+#0 brake NOUN brake%1:06:00::
+I saw Johnson 's bottle snatched from his hand , saw it go in a swirl of foam just behind the second car .
+6
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#18 just ADV just%4:02:04::
+#21 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+This time there was no sound of brakes but the shrieking of women .
+3
+#1 time NOUN time%1:11:00::
+#5 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#7 brake NOUN brake%1:06:00::
+I looked back at pale ovals framed in the elongated oval of the car 's rear window .
+2
+#4 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#6 frame VERB frame%2:42:00::
+" Drink , you son of a bitch " !
+1
+#1 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+I quickly turned around and began to drink .
+2
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+But the Indian was jabbing another bottle toward Johnson .
+1
+#2 Indian NOUN indian%1:10:00::

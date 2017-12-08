@@ -1,0 +1,424 @@
+ " So it was n't the earthquake that made him return to his village " !
+2
+#8 make VERB make%2:36:15::
+#10 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Now dammit , I do n't want to go into any more explanations .
+2
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+Here comes Jason .
+1
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Keep this to yourself " .
+1
+#0 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+Reverend Jason , looking worried , hurried toward us .
+1
+#3 look VERB look%2:39:01::,look%2:42:02::
+The men seem to think so " .
+1
+#4 think VERB think%2:31:01::,think%2:31:03::
+" Dirion found a large war party south of us .
+1
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+They 'll probably attack at dawn " , Montero said .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He brushed past the clergyman and walked into the center of the camp .
+2
+#1 brush VERB brush%2:30:00::,brush%2:35:00::
+#6 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Using his hands as a trumpet he shouted , " Fort up !
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+For a second , engages , cooks , voyageurs appeared struck dumb .
+1
+#9 appear VERB appear%2:30:00::
+Then Little Billy began shouting orders to round up the ponies and fill the water buckets and for the cooks to hurry up with the meal .
+2
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+They all flew into action .
+1
+#2 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+" That was a terrible thing to do " , I said to Oso .
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Aricaras treated us like friends .
+1
+#2 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+And here all the time you knew the Sioux would be using our rifles on them !
+2
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+God , what a world you people live in " .
+1
+#7 live VERB live%2:42:08::
+" Old Knife 's got the largest war party ever seen on the river " , he said calmly .
+2
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Let Old Knife come up and kill you and your people , or would you steer him on someone else " ?
+2
+#0 let VERB let%2:30:01::,let%2:41:00::
+#6 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+He shook his head .
+1
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+That 's why the British never got the tribes to fight for the King .
+1
+#6 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+Then he went on to the Cheyennes and told them that the Sioux was goin ' to move up .
+1
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Hell , they were fightin ' each other so hard they had no time for anyone else .
+1
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The War Department wrote Mr. Manuel a letter and said he was a hero .
+2
+#3 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I saw that letter .
+1
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He carried it in a little wallet made of fish skin " .
+2
+#1 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+" But that was war " , I said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In this country there 's a war on every time the grass turns green .
+1
+#12 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+I remember being told it would happen so fast people would think it took place overnight .
+3
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#11 think VERB think%2:31:01::,think%2:31:03::
+That 's why the Trust do n't want us to make it .
+1
+#7 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+- Old Knife 's not the only chief he 'll get to do his dirty work !
+1
+#10 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Before we get through he 'll have the Blackfeet hankerin ' for our hair and our goods .
+1
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Well , talkin ' ai n't goin ' to help - let 's fort up " !
+1
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+As I dug in behind one of the bales we were using as protection , I grudgingly found myself agreeing with Oso 's logic , especially when I imagined what would have happened to Missy if Old Knife 's large party of screeching warriors had overrun our company .
+4
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#19 agree VERB agree%2:32:00::,agree%2:32:01::
+#28 imagine VERB imagine%2:31:01::
+#45 overrun VERB overrun%2:42:00::
+Still , I was disgusted with myself for agreeing with Montero 's methods .
+1
+#8 agree VERB agree%2:32:00::,agree%2:32:01::
+Surprisingly , he had told the others what he had done .
+1
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+In the brief moment I had to talk to them before I took my post on the ring of defenses , I indicated I was sickened by the methods men employed to live and trade on the river .
+5
+#12 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#22 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#25 sicken VERB sicken%2:39:00::
+#30 employ VERB employ%2:34:00::
+#32 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+" I think Montero did right " , Amy said firmly .
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Let the savages kill each other What do we care " ?
+3
+#1 let VERB let%2:30:01::,let%2:41:00::
+#4 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#10 care VERB care%2:37:00::,care%2:37:12::
+Montero had set up a strong position , using every bale and box we had in addition to barricades of logs and brush .
+2
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He had ordered the ponies brought inside the fortified circle and had assigned Pierre and a band of picked engages the job of trying to keep them steady under fire .
+4
+#2 order VERB order%2:32:01::,order%2:32:02::
+#12 assign VERB assign%2:31:00::,assign%2:41:00::
+#23 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#25 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+The pony herd was the one flaw in our defense ; the Rees undoubtedly would try to cut down as many of the animals as possible .
+1
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Wildly bucking horses would make the position difficult to defend against charging warriors .
+1
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The cooks had prepared one of the best meals we 'd had in a long time , and on Montero 's orders had baked enough bread to last the day .
+4
+#3 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#11 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#23 bake VERB bake%2:42:00::
+#27 last VERB last%2:42:01::
+Buckets were filled , the herd fed and watered .
+2
+#6 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#8 water VERB water%2:40:00::
+Oso slept unconcernedly , his rifle cradled in his arms ; I did n't catch a wink .
+2
+#1 sleep VERB sleep%2:29:00::
+#6 cradle VERB cradle%2:35:00::
+Every time I closed my eyes , I saw Gray Eyes rushing at me with a knife .
+3
+#3 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+It was a relief when they finally came .
+1
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+They poured through the opening in the valley , then spread out in a long line to come at us , brandishing their lances and filling the morning with their spine-chilling scalp cry .
+1
+#17 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+" Oso " , Montero called " I 'll get Gray Eyes " .
+1
+#5 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+" That 'll be a pleasure to see " , the big black murmured as he stared down the barrel of his rifle .
+1
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" Hold your fire " , Montero was shouting .
+2
+#1 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+#8 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+" Wait until my shot .
+1
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+I 'll shoot the first man who does n't " .
+1
+#2 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+I could see them in my sights .
+1
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+His face was split by a vermilion streak , his eyes were pools of white ; jagged red and black medicine symbols covered his chest .
+2
+#3 split VERB split%2:41:03::
+#22 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Next to him was a young boy I was sure had sat near me at one of the trading sessions .
+1
+#11 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+I found his chest in my sights .
+1
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+It had a red circle .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The circle came nearer and nearer .
+1
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+My God , how long is he going to wait , I thought .
+1
+#9 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Montero 's rifle cracked .
+1
+#3 crack VERB crack%2:35:00::
+At first I thought he had missed .
+2
+#3 think VERB think%2:31:01::,think%2:31:03::
+#6 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+As he started to slump over , another warrior swung him onto his horse .
+3
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#4 slump VERB slump%2:38:00::
+#9 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+I squeezed the trigger .
+1
+#1 squeeze VERB squeeze%2:35:00::,squeeze%2:35:05::,squeeze%2:40:03::,squeeze%2:41:01::
+At the last second I dropped my sights from the bare chest and bright red circle to the chest of his pony .
+1
+#5 drop VERB drop%2:29:01::,drop%2:38:01::
+I saw the pony fall like a stone and the young warrior flew over its head , bouncing like a rubber ball .
+3
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+#17 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+He started to run but Oso 's shot caught him on the wing .
+3
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#8 catch VERB catch%2:35:13::
+He jerked once in the grass and lay still .
+2
+#1 jerk VERB jerk%2:35:01::
+#7 lie VERB lie%2:35:00::,lie%2:38:00::
+" If you 're goin ' to kill ' em - kill ' em " !
+2
+#7 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#11 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+What else he said was lost in the rattle of gunfire on all sides .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Aricaras broke under the devastating fire , wheeled and retreated .
+2
+#2 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#8 wheel VERB wheel%2:38:00::
+Montero was shouting .
+1
+#2 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+Far up the valley I could see the Rees circling and reorganizing .
+1
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+A horse screamed as it twisted from side to side in a frenzy .
+1
+#5 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+A rifle cracked ; the square head fell over .
+1
+#2 crack VERB crack%2:35:00::
+One of the warriors suddenly leaped to his feet and began running across the valley to the trees that lined the small creek .
+3
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#11 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#19 line VERB line%1:15:02::
+His legs pumped furiously , his long black hair streamed out behind him .
+1
+#9 stream VERB stream%2:38:01::
+He was dead before he hit the ground .
+1
+#5 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+" For Christ 's sake , do n't waste your powder on one of ' em " !
+1
+#8 waste VERB waste%2:34:05::,waste%2:40:00::
+Montero shouted furiously .
+1
+#1 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+" Wait for the charge !
+1
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+The charge , I tell you " !
+1
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+They grew louder as the Indians charged again .
+2
+#1 grow VERB grow%2:30:04::
+#6 charge VERB charge%2:33:00::,charge%2:38:00::
+I could see their faces glistening with sweat and bear grease , their mouths open , shouting their spine-chilling cries .
+2
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+" Gray Eyes is back " , Montero said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I could see the blood running down his chest .
+2
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 run VERB run%2:30:01::,run%2:38:01::,run%2:38:08::
+He was riding between two warriors , who held him erect when he started to slump .
+4
+#2 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#8 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#13 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#15 slump VERB slump%2:38:00::
+In my sights I watched him looming bigger and bigger .
+1
+#4 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Montero 's shot had caught him high in the chest ; there was no doubt he was dying .
+2
+#4 catch VERB catch%2:35:13::
+#17 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Again we waited for Montero .
+1
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+This time he delayed so long that some of the engages shouted frantically , but they held their fire .
+2
+#11 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#16 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+The horses were only several lengths away when he fired .
+1
+#9 fire VERB fire%2:33:00::,fire%2:33:02::
+Our rolling volley swept most of the other riders from their mounts .
+1
+#3 sweep VERB sweep%2:35:01::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+But a few reached our wall .
+1
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+I saw Little Billy rise and fire almost point blank and an Indian 's face became shattered flesh and bone .
+4
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#6 fire VERB fire%2:33:00::,fire%2:33:02::
+#15 become VERB become%2:30:00::,become%2:42:01::
+A second leaped from his horse to the top of the bale , firing four arrows in such rapid succession it did n't seem possible they were in flight .
+1
+#13 fire VERB fire%2:33:00::,fire%2:33:02::
+Oso reached up , jerked the buck from the bale and snapped his neck .
+3
+#1 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#4 jerk VERB jerk%2:35:01::
+#11 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+Other Indians were running at the ponies , shrilling and waving blankets .
+2
+#3 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#10 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+Reverend Jason got one , the Canadians the others .
+1
+#2 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+I saw the clergyman kneel for a moment by the twitching body of the man he had shot , then run back to his position .
+4
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 twitch VERB twitch%2:29:00::
+#17 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#20 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+The pall of dust they raised made it difficult to see when the Aricaras charged again .
+4
+#5 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 charge VERB charge%2:33:00::,charge%2:38:00::
+This time more of them hurdled the barrier .
+1
+#5 hurdle VERB hurdle%2:38:00::
+A small Indian dived at Montero , who caught him with a swift upward stroke of his rifle butt .
+2
+#3 dive VERB dive%2:38:00::
+#8 catch VERB catch%2:35:13::
+It sounded like a man kicking a melon .
+2
+#1 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#5 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+Above me a dark rider was whipping his pony with a quirt in an attempt to hurdle the bales .
+2
+#6 whip VERB whip%2:35:00::
+#16 hurdle VERB hurdle%2:38:00::
+Although my shot killed his horse , he rolled off the bale on top of me .
+2
+#3 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#8 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+I could smell woodsmoke , grease , and oil .
+1
+#2 smell VERB smell%2:31:00::,smell%2:39:01::
+Coming over the wall he had seemed like a hideous devil .
+1
+#0 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Now under me I could see him for what he really was , a boy dressed up in streaks of paint .
+1
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+The Aricaras made one last desperate charge .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It was pitiful to see the thin ranks of warriors , old and young , wheeling and twisting their ponies frantically from side to side only to be tumbled bleeding from their saddles by the relentless slam , slam of the cruelly efficient Hawkinses .
+5
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 wheel VERB wheel%2:38:00::
+#17 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#28 tumble VERB tumble%2:30:00::
+#29 bleed VERB bleed%2:38:00::
+Others , badly wounded , gripped hands in manes , knees in bellies , held on as long as possible and then , weak from ghastly wounds , slipped sideways , slowly , almost thoughtfully , to be broken under the slashing hoofs .
+3
+#5 grip VERB grip%2:35:00::
+#28 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#38 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+Some gracefully soared from the backs of their wounded , screaming mounts to make one last defiant charge before the lead split their hearts or tore their guts .
+3
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 split VERB split%2:41:03::
+#25 tear VERB tear%2:35:00::,tear%2:35:01::
+None of them reached our walls again .
+1
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::

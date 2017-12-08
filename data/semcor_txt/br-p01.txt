@@ -1,0 +1,690 @@
+ They neither liked nor disliked the Old Man .
+2
+#1 neither ADV neither%5:00:00:incomplete:00
+#2 like VERB like%2:37:05::
+To them he could have been the broken bell in the church tower which rang before and after Mass , and at noon , and at six each evening - its tone , repetitive , monotonous , never breaking the boredom of the streets .
+6
+#7 broken ADJ broken%5:00:00:incomplete:00
+#8 bell NOUN bell%1:28:00::
+#14 ring VERB ring%2:39:00::,ring%2:39:01::
+#28 evening NOUN evening%1:28:00::,evening%1:28:02::
+#37 never ADV never%4:02:00::
+#38 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+Yet if he were not there , they would have missed him , as they would have missed the sounds of bees buzzing against the screen door in early June ; or the smell of thick tomato paste - the ripe smell that was both sweet and sour - rising up from aluminum trays wrapped in fly dotted cheesecloth .
+10
+#4 not ADV not%4:02:00::
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#10 miss VERB miss%2:37:00::,miss%2:38:00::
+#17 miss VERB miss%2:37:00::,miss%2:38:00::
+#21 bee NOUN bee%1:05:00::
+#22 buzz VERB buzz%2:39:00::
+#28 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#45 sweet ADJ sweet%3:00:01::,sweet%5:00:00:fragrant:00
+#47 sour ADJ sour%5:00:00:malodorous:00
+#56 fly NOUN fly%1:04:00::
+Or the surging whirling sounds of bats at night , when their black bodies dived into the blackness above and below the amber street lights .
+5
+#6 bat NOUN bat%1:05:00::
+#8 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#12 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#13 body NOUN body%1:08:00::,body%1:08:02::
+#14 dive VERB dive%2:38:00::
+Or the bay of female dogs in heat .
+2
+#2 bay NOUN bay%1:11:00::
+#5 dog NOUN dog%1:05:00::
+They never called him by name , although he had one .
+3
+#1 never ADV never%4:02:00::
+#2 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Filippo Rossi , that 's what he was called in the old country ; but here he was just Signore or the Old Man .
+2
+#15 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#18 just ADV just%4:02:00::,just%4:02:03::
+But this was not unusual , because youth in these quarters was always pushed at a distance from its elders .
+5
+#3 not ADV not%4:02:00::
+#10 quarter NOUN quarter%1:15:00::
+#12 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#19 elder NOUN elder%1:18:00::
+Youth obeyed when commanded .
+1
+#3 command VERB command%2:32:00::,command%2:32:01::,command%2:41:00::,command%2:42:00::
+It went to church on Sunday and one Saturday a month went to confession .
+1
+#13 confession NOUN confession%1:10:01::
+But youth asked nothing of its parents - not a touch of the hand or a kiss given in passing .
+5
+#2 ask VERB ask%2:32:01::,ask%2:32:05::
+#8 not ADV not%4:02:00::
+#10 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#13 hand NOUN hand%1:08:00::,hand%1:10:01::
+#16 kiss NOUN kiss%1:04:00::
+The only thing unusual about the Old Man had long since happened .
+2
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+But the past was dead here as the present was dead .
+5
+#2 past NOUN past%1:28:01::
+#4 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#8 present NOUN present%1:10:00::,present%1:28:00::
+#10 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+Once the Old Man had had a wife .
+2
+#0 once ADV once%4:02:01::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+And once she , too , ignored him .
+1
+#4 too ADV too%4:02:01::
+With a tiny fur-piece wrapped around her shoulders , she wiggled her satin covered buttocks down the street before him and did n't stop .
+3
+#7 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#15 down ADV down%4:02:00::,down%4:02:02::
+#23 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+In one hand she clutched a hundred dollar bill and in the other a straw suitcase .
+2
+#2 hand NOUN hand%1:08:00::,hand%1:10:01::
+#14 straw NOUN straw%1:27:00::
+The way she strutted down the street , the Old Man would have been blind not to have noticed both .
+4
+#1 way NOUN way%1:04:00::,way%1:09:00::
+#3 strut VERB strut%2:38:00::
+#4 down ADV down%4:02:00::,down%4:02:02::
+#14 blind ADJ blind%3:00:00::
+Without looking at him , without looking at anything except Drexel Street directly in front of her , she climbed up into one of those orange streetcars , rode away in it , and never came back .
+4
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#6 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#12 directly ADV directly%4:02:05::
+#34 never ADV never%4:02:00::
+" But she should n't have come here in the first place " , the women had said .
+3
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She thought she was bigger than we are because she came from Torino " .
+2
+#4 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#10 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+She gave herself fancy airs !
+1
+#3 fancy ADJ fancy%3:00:00::
+Just because she had a part on the stage in the old country , she thought she could carry her head higher than ours " .
+4
+#0 just ADV just%4:02:00::,just%4:02:03::
+#18 carry VERB carry%2:29:00::,carry%2:33:12::,carry%2:35:01::,carry%2:35:09::
+#20 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#21 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+" It 's not for making pretty speeches about Dante those actresses get paid so good " .
+5
+#3 not ADV not%4:02:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 speech NOUN speech%1:10:00::,speech%1:10:02::
+#13 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#14 so ADV so%4:02:03::,so%4:02:07::
+Calloused fingers , caressed only by the smoothness of polished rosaries , had swayed excitedly beneath puckered chins where tiny black hairs sprouted , never to be tweezed away .
+5
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#20 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#21 hair NOUN hair%1:08:00::,hair%1:20:00::,hair%1:23:00::
+#24 never ADV never%4:02:00::
+#28 away ADV away%4:02:04::
+Mauve colored mouths that had never known anything sweeter than the taste of new wine and the passion of man 's tongue had not smiled , but had condemned again and again .
+8
+#1 colored ADJ colored%5:00:00:black:02
+#2 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#5 never ADV never%4:02:00::
+#6 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#8 sweet ADJ sweet%3:00:01::,sweet%5:00:00:fragrant:00
+#11 taste NOUN taste%1:09:02::,taste%1:09:04::,taste%1:11:00::,taste%1:13:00::
+#13 new ADJ new%3:00:00::
+#21 tongue NOUN tongue%1:10:00::
+But if the Old Man even thought about his wife now , nobody cared a fig .
+1
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+It was enough for people to know that at one time he had looked down the street at the fleshy suppleness of a woman he had consumed - watching her become thinner and thinner in the distance , as thin as the seams on her stockings , and still thinner .
+14
+#2 enough ADV enough%4:02:00::
+#4 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#14 down ADV down%4:02:00::,down%4:02:02::
+#19 fleshy ADJ fleshy%5:00:00:fat:01
+#28 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#30 become VERB become%2:30:00::,become%2:42:01::
+#31 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#33 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#36 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#39 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#42 seam NOUN seam%1:06:00::
+#49 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+His voice had not commanded her to stop .
+3
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#4 command VERB command%2:32:00::,command%2:32:01::,command%2:41:00::,command%2:42:00::
+#7 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+The women said they had seen him wave an exhausted farewell ; but he might have been shooing away the fleas that hopped from his yellow dog onto him .
+8
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#9 exhausted ADJ exhausted%5:00:00:tired:00
+#10 farewell NOUN farewell%1:04:00::
+#22 hop VERB hop%2:38:04::
+#25 yellow ADJ yellow%5:00:00:chromatic:00
+#26 dog NOUN dog%1:05:00::
+( He was never without that dog . )
+2
+#3 never ADV never%4:02:00::
+#6 dog NOUN dog%1:05:00::
+And his eyes - those miniature sundials of variegated yellow - had not altered their expression or direction .
+5
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+#6 sundial NOUN sundial%1:06:00::
+#9 yellow ADJ yellow%5:00:00:chromatic:00
+#15 expression NOUN expression%1:10:02::,expression%1:10:04::
+#17 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+The Old Man 's very soul could have left him and flown down that street , but he would n't have had anyone know it .
+5
+#5 soul NOUN soul%1:12:00::,soul%1:18:00::
+#8 leave VERB leave%2:38:00::,leave%2:41:00::
+#11 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+#12 down ADV down%4:02:00::,down%4:02:02::
+#23 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Perhaps he had known then where that hundred dollar bill had come from and where it was taking his wife .
+4
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 then ADV then%4:02:01::
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#17 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+But when he called for his withered , wrinkled sister Rose to care for him and the children , had he guessed that all he would remember of his woman was the memory of her climbing into that streetcar ?
+3
+#9 sister NOUN sister%1:18:00::,sister%1:18:01::,sister%1:18:02::
+#12 care VERB care%2:41:13::
+#32 memory NOUN memory%1:09:00::,memory%1:09:02::
+There seemed to be a contemptuous purpose in the way he sat there with his eyes glued to Drexel Street and his back in opposition to the church behind him .
+5
+#9 way NOUN way%1:04:00::,way%1:09:00::
+#11 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#12 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#15 eye NOUN eye%1:08:00::,eye%1:09:01::
+#22 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+For all he saw or cared to see , this could have been a town in Italy , not the outskirts of Philadelphia .
+4
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 care VERB care%2:37:00::,care%2:37:12::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#18 not ADV not%4:02:00::
+It could have been Bari or Chieti for the way it smelled .
+1
+#11 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+What did it matter to him that the park at the foot of Ash Road stretched beneath elevated trains that roared from the stucco station into the city 's center at half-hour intervals ?
+6
+#8 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#11 foot NOUN foot%1:15:00::
+#18 train NOUN train%1:06:00::
+#24 station NOUN station%1:06:00::
+#27 city NOUN city%1:15:00::,city%1:15:01::
+#32 interval NOUN interval%1:09:00::
+Or that the tiny creek spun its silent course toward the Schuylkill ?
+1
+#8 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+This place was hatred to him , just as hatred was his only companion in his aloneness .
+3
+#1 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#7 just ADV just%4:02:05::
+#13 companion NOUN companion%1:18:00::
+Sameness for the Old Man was framed in by a wall of ginkgo trees which divided these quarters from the city .
+4
+#13 tree NOUN tree%1:20:00::
+#15 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#17 quarter NOUN quarter%1:15:00::
+#20 city NOUN city%1:15:00::,city%1:15:01::
+Sameness lined the streets with two story houses the color of ash .
+5
+#1 line VERB line%1:15:02::
+#6 story NOUN story%1:06:00::
+#7 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#9 color NOUN color%1:07:00::,color%1:27:00::
+#11 ash NOUN ash%1:27:01::
+It slashed the sloping manure scented lawns with concrete steps which climbed upward to white wooden porches .
+5
+#6 lawn NOUN lawn%1:15:00::
+#9 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#11 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#14 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#15 wooden ADJ wooden%5:00:00:woody:00
+It swayed with the wicker swings and screeched with the rusted hinges of screen doors .
+1
+#5 swing NOUN swing%1:06:00::
+Even the stable garage , which housed nothing now but the scent of rot , had a lawn before it .
+6
+#3 garage NOUN garage%1:06:00::
+#6 house VERB house%2:42:02::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 scent NOUN scent%1:09:01::
+#13 rot NOUN rot%1:22:00::
+#17 lawn NOUN lawn%1:15:00::
+And the coffee shop on Drexel Street , where the men spent their evenings and Sundays playing cards , had a rose hedge beneath its window .
+7
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 evening NOUN evening%1:28:00::,evening%1:28:02::
+#16 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#17 card NOUN cards%1:04:00::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 rose NOUN rose%1:20:00::
+#25 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+The hedge reeked of coffee dregs thrown against it .
+2
+#4 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#6 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+Only one house on the street had no lawn before it .
+4
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 lawn NOUN lawn%1:15:00::
+It squatted low and square upon the sidewalk with a heavy iron grating supporting a glass facade .
+6
+#1 squat VERB squat%2:35:00::
+#2 low ADV low%4:02:00::
+#10 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#12 grate NOUN grate%1:06:01::
+#13 support VERB support%2:31:04::,support%2:40:00::
+#15 glass NOUN glass%1:27:00::
+Above it , from a second story showroom , wooden angels surveyed the neighborhood .
+4
+#6 story NOUN story%1:06:00::
+#9 wooden ADJ wooden%5:00:00:woody:00
+#10 angel NOUN angel%1:18:00::
+#11 survey VERB survey%2:39:00::
+Did the Old Man remember them there ?
+1
+#6 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Yet everywhere else sameness was stucco and wood in square blocks - like fortresses perched against the slant of the hill , rising with the hill to the top where the church was and beyond that to the cemetery .
+6
+#7 wood NOUN wood%1:06:02::
+#17 slant NOUN slant%1:07:00::
+#20 hill NOUN hill%1:06:01::,hill%1:17:00::
+#22 rise VERB rise%2:30:03::,rise%2:38:00::,rise%2:38:02::,rise%2:42:00::,rise%2:42:01::
+#25 hill NOUN hill%1:06:01::,hill%1:17:00::
+#28 top NOUN top%1:15:00::,top%1:15:01::
+Only paved alleyways tunneled through the walls of those fortresses into the mysterious core of intimacy behind the houses where backyards owned no fences , where one man 's property blended with the next to form courtyards in which no one knew privacy .
+12
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 tunnel VERB tunnel%2:35:00::
+#12 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#13 core NOUN core%1:17:00::
+#18 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#20 backyard NOUN backyard%1:06:00::
+#21 own VERB owned%3:00:00::
+#23 fence NOUN fence%1:06:00::
+#27 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#29 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#35 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#41 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+Love and hatred and fear were one here , shaded only by fig trees and grape vines .
+2
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+And the forked tongue of gossip licked its sinister way from back porch to back porch .
+3
+#3 tongue NOUN tongue%1:10:00::
+#6 lick VERB lick%2:35:00::
+#8 sinister ADJ sinister%5:00:00:alarming:00
+They kept him alive , waiting .
+3
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#3 alive ADJ alive%3:00:01::
+#5 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Waiting for what and for whom , only he could tell and would not .
+3
+#0 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It was as though he had made a pact with the devil himself , but it was not yet time to pay the price .
+5
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 devil NOUN devil%1:18:00::
+#19 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#21 pay VERB pay%2:40:02::
+#23 price NOUN price%1:07:01::
+The Old Man 's son threw himself down , belly first , upon a concrete step , taking in the coolness of it , and dreaming of the day he would be rich .
+6
+#5 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#7 down ADV down%4:02:00::,down%4:02:02::
+#15 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#25 dream VERB dream%2:36:00::,dream%2:39:00::
+#28 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#32 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+At fifteen he did n't care that he had no mother , that he could n't remember her face or her touch ; neither did he care that Aunt Rose provided for him .
+7
+#5 care VERB care%2:37:00::,care%2:37:12::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#18 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#21 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#26 care VERB care%2:37:00::,care%2:37:12::
+#30 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+He was named Pompeii as a tribute to his heritage , and he could n't have cared less about that either .
+5
+#2 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#6 tribute NOUN tribute%1:10:01::
+#9 heritage NOUN heritage%1:09:00::
+#16 care VERB care%2:37:00::,care%2:37:12::
+#17 little ADV little%4:02:00::
+To him life was a restless boredom that began with the rising sun and ended only with sleep .
+6
+#2 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#11 rising ADJ rising%5:00:00:ascending:00
+#12 sun NOUN sun%1:17:00::,sun%1:17:01::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#17 sleep NOUN sleep%1:26:00::
+When he would be a man , he would be a rich man .
+1
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He would not be like the " rich Americans " who lived in white columned houses on the other side of the park .
+7
+#2 not ADV not%4:02:00::
+#7 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#8 American NOUN american%1:18:00::,american%1:18:01::
+#13 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#15 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#18 other ADJ other%3:00:00::
+#22 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+He would not ride the eight-thirty local to the city each morning .
+3
+#3 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#9 city NOUN city%1:15:00::,city%1:15:01::
+#11 morning NOUN morning%1:28:00::,morning%1:28:01::
+He would not carry a brief case .
+2
+#2 not ADV not%4:02:00::
+#3 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Nor would he work at all .
+1
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+He would square his shoulders and carry a cane before each step .
+5
+#2 square VERB square%2:38:00::
+#4 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#6 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#8 cane NOUN cane%1:20:00::
+#11 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+He would sit inside the coffee shop and pound a gloved fist upon the table and a girl would hear him and come running , bowing with her running , calling out in her bowing , " At your service " .
+8
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#8 pound VERB pound%2:35:00::
+#14 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#17 girl NOUN girl%1:18:01::,girl%1:18:03::
+#22 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#23 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#25 bow VERB bow%2:38:00::
+#34 bow VERB bow%2:38:00::
+He would order her to bring coffee , and would take from his vest pocket a thin black pipe which he would stuff - he would not remove his gloves - and light and smoke .
+10
+#2 order VERB order%2:32:01::,order%2:32:02::
+#6 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#10 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#16 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#17 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#18 pipe NOUN pipe%1:06:01::
+#22 stuff VERB stuff%2:30:02::
+#27 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#32 light VERB light%2:34:00::,light%2:43:00::
+#34 smoke VERB smoke%2:34:00::
+He could do that when he would be a man .
+1
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+" Hey , Laura " ! he called to his sister on the porch above the steps .
+3
+#7 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#10 sister NOUN sister%1:18:00::,sister%1:18:01::,sister%1:18:02::
+#16 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+She was only ten months older than he .
+1
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+" Laura , what would you say if I smoked a pipe " ?
+3
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 smoke VERB smoke%2:34:00::
+#11 pipe NOUN pipe%1:06:01::
+Laura did not answer him .
+2
+#2 not ADV not%4:02:00::
+#3 answer VERB answer%2:31:00::,answer%2:32:00::
+She leaned unconcerned against the broken porch fence , brushing and drying her wet , gilded hair in the sun .
+7
+#5 broken ADJ broken%5:00:00:incomplete:00
+#7 fence NOUN fence%1:06:00::
+#9 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#11 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#13 wet ADJ wet%3:00:01::,wet%3:00:05::
+#16 hair NOUN hair%1:08:00::
+#19 sun NOUN sun%1:18:00::,sun%1:19:00::
+One lithe leg straddled the railing and swung loosely before the creaking , torn pales .
+3
+#2 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#5 rail NOUN rail%1:06:02::
+#14 pale NOUN pale%1:06:00::
+Her tanned foot , whose arch swept high and white , pointed artfully toward tapering toes - toes like fingers , whose tips glowed white .
+9
+#2 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#6 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#7 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#9 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#11 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#15 toe NOUN toe%1:08:01::
+#17 toe NOUN toe%1:08:01::
+#22 tip NOUN tip%1:15:00::
+#24 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+All the while she sat there , her sinewy arms swirled before her chest .
+4
+#2 while NOUN while%1:28:00::
+#4 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#13 chest NOUN chest%1:08:00::,chest%1:08:01::
+Her face showed no sign of having heard Pompeii .
+2
+#1 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#2 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+It was a face that had lost its childlike softness and was beginning to fold within its fragile features a harshness that belied the lyric lines of its contours .
+6
+#3 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#6 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#12 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 feature NOUN feature%1:08:00::,feature%1:09:01::
+#22 belie VERB belie%2:42:00::
+#25 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+The eyes , blue and always somewhat downcast , possessed a sullen quality .
+6
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+#3 blue ADJ blue%5:00:00:chromatic:00
+#5 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#7 downcast ADJ downcast%5:00:00:down:00
+#9 possess VERB possess%2:40:00::,possess%2:42:00::
+#12 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+Even though the boy could not see them , he knew they were clouded by distance .
+6
+#3 boy NOUN boy%1:18:03::
+#5 not ADV not%4:02:00::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 cloud VERB cloud%2:35:00::
+#15 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+He was never sure they fully took him in .
+2
+#2 never ADV never%4:02:00::
+#5 fully ADV fully%4:02:04::
+Pompeii called again , " Laura " !
+1
+#1 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+But the only answer that reached him was the screeching of the porch rail from her leg moving against it .
+4
+#5 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#13 rail NOUN rail%1:06:02::
+#16 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#17 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+" She 's in a mood " , he thought " There 's not a month she does n't get herself in a mood " .
+3
+#9 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#13 not ADV not%4:02:00::
+#19 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Well , what did that matter when the sun was shining and there were dreams to dream about ?
+4
+#5 matter VERB matter%2:42:00::
+#8 sun NOUN sun%1:17:00::,sun%1:17:01::
+#10 shine VERB shine%2:43:00::
+#16 dream VERB dream%2:36:00::,dream%2:39:00::
+And as for his pipe , if he wanted to smoke one , nobody would stop him .
+4
+#4 pipe NOUN pipe%1:06:01::
+#8 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#10 smoke VERB smoke%2:34:00::
+#15 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+Suddenly he was interrupted in his daydreaming by a warm wetness lapping against his chin , and his eyes opened wide and long at the sight of a goat 's claret tongue , feasting against the salt taste of him .
+11
+#3 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+#9 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#11 lap VERB lap%2:34:00::
+#18 eye NOUN eye%1:08:00::,eye%1:09:01::
+#19 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#20 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#25 sight NOUN sight%1:04:00::,sight%1:10:00::
+#28 goat NOUN goat%1:05:00::
+#31 tongue NOUN tongue%1:10:00::
+#36 salt NOUN salt%1:09:00::
+#37 taste NOUN taste%1:09:02::,taste%1:09:04::,taste%1:11:00::,taste%1:13:00::
+Above the tongue , an aged yellow eye , sallow and time-cast , encrusted within a sphere of marbleized pink skin , stared unfalteringly at him .
+6
+#2 tongue NOUN tongue%1:10:00::
+#6 yellow ADJ yellow%5:00:00:chromatic:00
+#7 eye NOUN eye%1:08:00::,eye%1:09:01::
+#16 sphere NOUN sphere%1:15:01::
+#19 pink ADJ pink%5:00:00:chromatic:00
+#20 skin NOUN skin%1:05:01::,skin%1:06:02::,skin%1:08:00::,skin%1:26:00::
+" Christ sake , goat , git " !
+1
+#4 goat NOUN goat%1:05:00::
+But the goat would not .
+1
+#2 goat NOUN goat%1:05:00::
+" You 're boiling milk , ai n't you " ? soothing it with his hand , knowing the whiskered jowls and the swollen smoothness of teats that wrinkled expectantly to his touch .
+4
+#3 boil VERB boil%2:30:00::
+#15 hand NOUN hand%1:08:00::,hand%1:10:01::
+#17 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#32 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+His head undulated gradually , covering space , to come straining beneath the taut belly within the warmth of those teats .
+3
+#1 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#9 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#13 taut ADJ taut%5:00:00:tense:03
+With his mouth opened wide , he squirted the warm white milk against the roof of his mouth and his tongue savored the light , earthy taste of it .
+10
+#2 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#3 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#4 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#9 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#10 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#17 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#20 tongue NOUN tongue%1:10:00::
+#21 savor VERB savor%2:39:02::
+#23 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#26 taste NOUN taste%1:09:02::,taste%1:09:04::,taste%1:11:00::,taste%1:13:00::
+The boy 's fingers and mouth operated with the skilled unity of a bagpipe player , pressing and pulling , delighting in what he did .
+7
+#1 boy NOUN boy%1:18:03::
+#5 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#6 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#10 unity NOUN unity%1:07:00::,unity%1:26:00::
+#14 player NOUN player%1:18:02::
+#16 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#18 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+Above him slid the evasive shadow of a storm cloud .
+1
+#5 shadow NOUN shadow%1:15:00::
+Its form was a heavy figure in a fluttering soutane .
+3
+#1 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#4 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#5 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+But the boy could see only the goat 's belly .
+4
+#2 boy NOUN boy%1:18:03::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 goat NOUN goat%1:05:00::
+The Old Man near the corner let the shadow pass over him , sensing something portentous in it .
+3
+#5 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#6 let VERB let%2:30:01::,let%2:41:00::
+#8 shadow NOUN shadow%1:15:00::
+He knew it was there , knew also what it was about , but he would n't raise a finger except to smooth his yellow dog 's back .
+7
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#24 yellow ADJ yellow%5:00:00:chromatic:00
+#25 dog NOUN dog%1:05:00::
+#27 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+There would be time enough , perhaps the Old Man reassured himself , to pay the devil his due .
+4
+#3 time NOUN time%1:28:01::,time%1:28:05::
+#14 pay VERB pay%2:40:02::
+#16 devil NOUN devil%1:18:00::
+#18 due NOUN due%1:21:00::
+Time enough to give up his soul .
+2
+#0 time NOUN time%1:28:01::,time%1:28:05::
+#6 soul NOUN soul%1:12:00::,soul%1:18:00::
+In the meantime , six sandals , stained an ocher , the same color as Pompeii 's shaved hair , edged up close to him .
+4
+#5 sandal NOUN sandal%1:06:00::
+#12 same ADJ same%3:00:00::,same%3:00:02::
+#13 color NOUN color%1:07:00::,color%1:27:00::
+#18 hair NOUN hair%1:08:00::
+The clapping they made on the concrete interrupted him in the ecstatic pleasure he knew , so that he quickly released his hold on the goat and pretended to be examining its haunches for ticks .
+11
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+#11 ecstatic ADJ ecstatic%5:00:00:joyous:00
+#14 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#20 release VERB release%2:35:00::,release%2:41:00::
+#22 hold NOUN hold%1:07:00::
+#25 goat NOUN goat%1:05:00::
+#27 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#30 examine VERB examine%2:31:00::,examine%2:32:01::
+#32 haunch NOUN haunch%1:08:01::
+#34 tick NOUN tick%1:05:00::
+He knew at a glance that the biggest sandals belonged to Niobe , the neatest ones to Concetta , and the laced ones to Romeo , Concetta 's idiot brother .
+7
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 glance NOUN glance%1:04:00::
+#7 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#8 sandal NOUN sandal%1:06:00::
+#9 belong VERB belong%2:40:00::,belong%2:42:02::
+#14 neat ADJ neat%5:00:00:tidy:00
+#29 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+Pompeii expected Romeo 's small body to sink closer and closer to the ground .
+4
+#5 body NOUN body%1:08:00::,body%1:08:02::
+#7 sink VERB sink%2:35:00::,sink%2:38:04::,sink%2:38:06::
+#10 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#13 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+He expected Concetta 's thin hand to reach down to grasp the boy , and her shrill , impetuous voice to sound against the rotundity of his disfigured flesh that was never sure of hearing anything .
+8
+#4 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#5 hand NOUN hand%1:08:00::,hand%1:10:01::
+#7 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#8 down ADV down%4:02:00::,down%4:02:02::
+#12 boy NOUN boy%1:18:03::
+#19 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#21 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#31 never ADV never%4:02:00::

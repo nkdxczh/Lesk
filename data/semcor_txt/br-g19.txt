@@ -1,0 +1,562 @@
+ Today the private detective will also investigate insurance claims or handle divorce cases , but his primary function remains what it has always been , to assist those who have money in their unending struggle with those who have not .
+8
+#10 handle VERB handle%2:41:00::,handle%2:41:03::
+#12 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#16 primary ADJ primary%5:00:00:important:00
+#17 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#22 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#38 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#39 not ADV not%4:02:00::
+The mythological private eye differs from his counterpart in real life in two essential ways .
+4
+#7 counterpart NOUN counterpart%1:09:00::
+#10 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#13 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#14 way NOUN way%1:04:00::,way%1:09:00::
+On the one hand , he does not work for a large agency , but is almost always self-employed .
+5
+#7 not ADV not%4:02:00::
+#8 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#11 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#12 agency NOUN agency%1:14:00::,agency%1:14:01::
+#17 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+As a free-lance investigator , the fictional detective is responsible to no one but himself and his client .
+1
+#17 client NOUN client%1:18:00::
+For this reason , he appears as an independent and self-reliant figure , whose rugged individualism need not be pressed into the mold of a 9 to 5 routine .
+7
+#2 reason NOUN reason%1:09:01::,reason%1:16:00::
+#5 appear VERB appear%2:30:00::
+#8 independent ADJ independent%3:00:00::,independent%5:00:00:nonpartisan:00
+#11 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#15 individualism NOUN individualism%1:09:00::
+#17 not ADV not%4:02:00::
+#22 mold NOUN mold%1:06:02::
+On the other hand , the fictional detective does not break strikes or handle divorce cases ; no client would ever think of asking him to do such things .
+8
+#9 not ADV not%4:02:00::
+#11 strike NOUN strike%1:04:00::
+#13 handle VERB handle%2:41:00::,handle%2:41:03::
+#15 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#18 client NOUN client%1:18:00::
+#20 ever ADV ever%4:02:05::
+#23 ask VERB ask%2:32:01::,ask%2:32:05::
+#28 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Whatever his original assignment , the fictional private eye ends up by investigating and solving a crime , usually a murder .
+2
+#2 original ADJ original%5:00:01:first:00
+#3 assignment NOUN assignment%1:04:03::
+Operating as a one man police force in fact if not in name , he is at once more independent and more dedicated than the police themselves .
+5
+#0 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#10 not ADV not%4:02:00::
+#18 more ADV more%4:02:00::
+#19 independent ADJ independent%3:00:00::
+#21 more ADV more%4:02:00::
+He catches criminals not merely because he is paid to do so ( frequently he does not receive a fee at all ) , but because he enjoys his work , because he firmly believes that murder must be punished .
+5
+#8 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#17 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#19 fee NOUN fee%1:21:00::
+#27 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#29 work NOUN work%1:06:01::
+Thus the fictional detective is much more than a simple businessman .
+3
+#0 thus ADV thus%4:02:00::
+#9 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#10 businessman NOUN businessman%1:18:00::
+He is , first and foremost , a defender of public morals , a servant of society .
+3
+#10 public ADJ public%3:00:00::,public%5:00:00:common:02
+#11 moral NOUN morals%1:16:00::
+#16 society NOUN society%1:14:00::,society%1:14:02::
+It is this curious blend of rugged individualism and public service which accounts for the great appeal of the mythological detective .
+4
+#7 individualism NOUN individualism%1:09:00::
+#9 public ADJ public%3:00:00::,public%5:00:00:common:02
+#15 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 appeal NOUN appeal%1:07:00::
+By virtue of his self-reliance , his individualism and his freedom from external restraint , the private eye is a perfect embodiment of the middle class conception of liberty , which amounts to doing what you please and let the devil take the hindmost .
+7
+#7 individualism NOUN individualism%1:09:00::
+#12 external ADJ external%5:00:00:extrinsic:00
+#13 restraint NOUN restraint%1:09:00::
+#20 perfect ADJ perfect%3:00:00::
+#26 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#28 liberty NOUN liberty%1:26:02::
+#36 please VERB please%2:37:01::
+At the same time , because the personal code of the detective coincides with the legal dictates of his society , because he likes to catch criminals , he is in middle class eyes a virtuous man .
+6
+#7 personal ADJ personal%5:00:00:subjective:00
+#8 code NOUN code%1:10:01::
+#15 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#19 society NOUN society%1:14:00::,society%1:14:02::
+#33 eye NOUN eye%1:08:00::,eye%1:09:01::
+#36 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+In this way , the private detective gets the best of two possible worlds .
+2
+#7 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#9 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+He is an individualist but not an anarchist ; he is a public servant but not a cop .
+4
+#5 not ADV not%4:02:00::
+#12 public ADJ public%3:00:00::,public%5:00:00:common:02
+#15 not ADV not%4:02:00::
+#17 cop NOUN cop%1:18:00::
+In short , the fictional private eye is a specialized version of Adam Smith 's ideal entrepreneur , the man whose private ambitions must always and everywhere promote the public welfare .
+6
+#10 version NOUN version%1:10:01::
+#15 ideal ADJ ideal%5:00:00:abstract:00
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#24 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#27 promote VERB promote%2:32:00::,promote%2:41:01::
+#29 public ADJ public%3:00:00::,public%5:00:00:common:02
+In the mystery story , as in The Wealth of Nations , individualism and the social good are two sides of the same benevolent coin .
+3
+#15 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#16 good NOUN good%1:07:00::
+#22 same ADJ same%3:00:00::,same%3:00:02::
+There is only one catch to this idyllic arrangement :
+2
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 catch NOUN catch%1:07:00::
+Adam Smith was wrong .
+1
+#3 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+Not only did the ideal entrepreneur not produce the greatest good for the greatest number , he ended by destroying himself , by giving birth to monopoly capitalism .
+8
+#4 ideal ADJ ideal%5:00:00:abstract:00
+#6 not ADV not%4:02:00::
+#7 produce VERB produce%2:39:00::
+#9 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#10 good NOUN good%1:07:00::
+#14 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#23 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#26 monopoly NOUN monopoly%1:26:02::
+The rise of the giant corporations in Western Europe and the United States dates from the period 1880 - 1900 .
+3
+#1 rise NOUN rise%1:17:00::
+#7 western ADJ western%3:00:01::
+#16 period NOUN period%1:28:00::,period%1:28:03::
+Now , although the roots of the mystery story in serious literature go back as far as Balzac , Dickens , and Poe , it was not until the closing decades of the 19 th century that the private detective became an established figure in popular fiction .
+9
+#4 root NOUN root%1:10:00::,root%1:15:00::,root%1:18:00::
+#10 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#15 far ADV far%4:02:00::,far%4:02:01::
+#26 not ADV not%4:02:00::
+#35 century NOUN century%1:28:00::
+#40 become VERB become%2:30:00::,become%2:42:01::
+#42 established ADJ established%3:00:00::
+#43 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#45 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+Thus the transformation of Adam Smith 's ideal entrepreneur into a mythological detective coincides closely with the decline of the real entrepreneur in economic life .
+5
+#0 thus ADV thus%4:02:00::
+#7 ideal ADJ ideal%5:00:00:abstract:00
+#20 real ADJ real%3:00:00::,real%5:00:00:true:00
+#23 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#24 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+Driven from the marketplace by the course of history , our hero disguises himself as a private detective .
+4
+#0 drive VERB drive%2:35:11::,drive%2:38:01::
+#6 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#8 history NOUN history%1:28:00::
+#11 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+The birth of the myth compensates for the death of the ideal .
+2
+#4 myth NOUN myth%1:10:00::
+#5 compensate VERB compensate%2:40:00::
+Even on the fictional level , however , the contradictions which give rise to the mystery story are not fully resolved .
+4
+#4 level NOUN level%1:26:00::,level%1:26:01::
+#18 not ADV not%4:02:00::
+#19 fully ADV fully%4:02:04::
+#20 resolve VERB resolve%2:31:01::,resolve%2:32:00::
+The individualism and public service of the private detective both stem from his dedication to a personal code of conduct : he enforces the law without being told to do so .
+6
+#3 public ADJ public%3:00:00::,public%5:00:00:common:02
+#10 stem VERB stem%2:42:00::
+#13 dedication NOUN dedication%1:11:00::
+#16 personal ADJ personal%5:00:00:subjective:00
+#24 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#27 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+The private eye is therefore a moral man ; but his morality rests upon that of his society .
+2
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#17 society NOUN society%1:14:00::,society%1:14:02::
+The basic premise of all mystery stories is that the distinction between good and bad coincides with the distinction between legal and illegal .
+5
+#1 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#10 distinction NOUN distinction%1:09:00::
+#12 good NOUN good%1:07:02::
+#18 distinction NOUN distinction%1:09:00::
+#20 legal ADJ legal%3:00:00::,legal%5:00:00:eligible:00
+Unfortunately , this assumption does not always hold good .
+3
+#3 assumption NOUN assumption%1:09:00::
+#5 not ADV not%4:02:00::
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+As capitalism in the 20 th century has become increasingly dependent upon force and violence for its survival , the private detective is placed in a serious dilemma .
+4
+#6 century NOUN century%1:28:00::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#12 force NOUN force%1:07:00::
+#23 place VERB place%2:31:13::
+If he is good , he may not be legal ; if he is legal , he may not be good .
+6
+#3 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#7 not ADV not%4:02:00::
+#9 legal ADJ legal%3:00:00::,legal%5:00:00:eligible:00
+#14 legal ADJ legal%3:00:00::,legal%5:00:00:eligible:00
+#18 not ADV not%4:02:00::
+#20 good ADJ good%3:00:01::,good%5:00:01:sound:00
+It is the gradual unfolding and deepening of this contradiction which creates the inner dialectic of the evolution of the mystery story .
+3
+#13 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+#14 dialectic NOUN dialectic%1:09:00::
+#17 evolution NOUN evolution%1:22:00::
+With the advent of Sir Arthur Conan Doyle 's Sherlock Holmes , the development of the modern private detective begins .
+2
+#13 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#19 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Sherlock Holmes is not merely an individualist ; he is very close to being a mental case .
+2
+#3 not ADV not%4:02:00::
+#11 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+A brief list of the great detective 's little idiosyncrasies would provide Dr. Freud with ample food for thought .
+3
+#2 list NOUN list%1:10:00::
+#5 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#11 provide VERB provide%2:34:00::,provide%2:40:00::
+Holmes is addicted to the use of cocaine and other refreshing stimulants ; he is prone to semi catatonic trances induced by the playing of the vioiln ; he is a recluse , an incredible egotist , a confirmed misogynist .
+4
+#9 other ADJ other%3:00:00::
+#15 prone ADJ prone%5:00:00:inclined:02
+#20 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#34 incredible ADJ incredible%3:00:00::
+Holmes rebels against the social conventions of his day not on moral but rather on aesthetic grounds .
+7
+#4 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#5 convention NOUN convention%1:09:00::
+#8 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#9 not ADV not%4:02:00::
+#11 moral ADJ moral%3:00:00::
+#13 rather ADV rather%4:02:02::
+#16 ground NOUN ground%1:16:00::
+His eccentricity begins as a defense against boredom .
+3
+#1 eccentricity NOUN eccentricity%1:07:01::
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+It was in order to avoid the stuffy routine of middle class life that Holmes became a detective in the first place .
+3
+#5 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#12 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#15 become VERB become%2:30:00::,become%2:42:01::
+As he informs Watson , " My life is spent in one long effort to escape from the commonplaces of existence .
+3
+#2 inform VERB inform%2:32:00::,inform%2:32:10::
+#12 long ADJ long%3:00:02::
+#18 commonplace NOUN commonplace%5:00:02:ordinary:00
+These little problems help me to do so " .
+2
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+#3 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Holmes is a public servant , to be sure ; but the society which he serves bores him to tears .
+5
+#3 public ADJ public%3:00:00::,public%5:00:00:common:02
+#12 society NOUN society%1:14:00::,society%1:14:02::
+#15 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#16 bore VERB bore%2:35:00::
+#19 tear NOUN tear%1:08:01::
+The curious relationship between Holmes and Scotland Yard provides an important clue to the deeper significance of his eccentric behavior .
+5
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#11 clue NOUN clue%1:10:01::
+#14 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+#15 significance NOUN significance%1:09:01::
+#18 eccentric ADJ eccentric%5:00:00:unconventional:01
+Although he is perfectly willing to cooperate with Scotland Yard , Holmes has nothing but contempt for the intelligence and mentality of the police .
+1
+#18 intelligence NOUN intelligence%1:09:00::
+They for their part are convinced that Holmes is too " unorthodox " and " theoretical " to make a good detective .
+3
+#3 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#9 too ADV too%4:02:00::
+#18 make VERB make%2:31:10::,make%2:42:05::
+Why do the police find Holmes " unorthodox " ?
+1
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+On the face of it , it is because he employs deductive techniques alien to official police routine .
+1
+#10 employ VERB employ%2:34:00::
+Another , more interesting explanation , is hinted at by Watson when he observes on several occasions that Holmes would have made a magnificent criminal .
+4
+#13 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#16 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#21 make VERB make%2:31:10::,make%2:42:05::
+#23 magnificent ADJ magnificent%5:00:00:impressive:00
+The great detective modestly agrees .
+1
+#1 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+Watson 's insight is verified by the mysterious link between Holmes and his arch opponent , Dr. Moriarty .
+2
+#7 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#8 link NOUN link%1:24:00::
+The two men resemble each other closely in their cunning , their egotism , their relentlessness .
+1
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The first series of Sherlock Holmes adventures ends with Holmes and Moriarty grappling together on the edge of a cliff .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#12 grapple VERB grapple%2:41:00::
+#13 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#16 edge NOUN edge%1:06:01::
+They are presumed to have plunged to a common grave in this fatal embrace .
+5
+#2 presume VERB presume%2:31:00::
+#5 plunge VERB plunge%2:38:00::
+#8 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#9 grave NOUN grave%1:06:00::
+#13 embrace NOUN embrace%1:04:00::
+Linked to Holmes even in death , Moriarty represents the alter-ego of the great detective , the image of what our hero might have become were he not a public servant .
+7
+#8 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#13 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#17 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#21 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#24 become VERB become%2:30:00::,become%2:42:01::
+#27 not ADV not%4:02:00::
+#29 public ADJ public%3:00:00::,public%5:00:00:common:02
+Just as Holmes the eccentric stands behind Holmes the detective , so Holmes the potential criminal lurks behind both .
+2
+#0 just ADV just%4:02:05::
+#4 eccentric NOUN eccentric%1:18:00::
+In the modern English " whodunnit " , this insinuation of latent criminality in the detective himself has almost entirely disappeared .
+1
+#20 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+Hercule Poirot and Lord Peter Whimsey ( the respective creations of Agatha Christie and Dorothy Sayers ) have retained Holmes ' egotism but not his zest for life and eccentric habits .
+6
+#9 creation NOUN creation%1:06:00::
+#23 not ADV not%4:02:00::
+#25 zest NOUN zest%1:12:00::
+#27 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#29 eccentric ADJ eccentric%5:00:00:unconventional:01
+#30 habit NOUN habit%1:04:02::
+Poirot and his counterparts are perfectly respectable people ; it is true that they are also extremely dull .
+4
+#3 counterpart NOUN counterpart%1:09:00::
+#6 respectable ADJ respectable%5:00:00:reputable:00
+#11 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#17 dull ADJ dull%5:00:01:uninteresting:00
+Their dedication to the status quo has been affirmed at the expense of the fascinating but dangerous individualism of a Sherlock Holmes .
+3
+#1 dedication NOUN dedication%1:11:00::
+#8 affirm VERB affirm%2:31:00::
+#17 individualism NOUN individualism%1:09:00::
+The latter 's real descendents were unable to take root in England ; they fled from the Victorian parlor and made their way across the stormy Atlantic .
+3
+#1 latter ADJ latter%3:00:00::
+#3 real ADJ real%3:00:00::,real%5:00:00:true:00
+#18 parlor NOUN parlor%1:06:00::
+In the American " hardboiled " detective story of the ' 20 s and ' 30 s , the spirit of the mad genius from Baker Street lives on .
+3
+#23 genius NOUN genius%1:18:00::
+#27 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#28 on ADV on%4:02:00::
+Like Holmes , the American private eye rejects the social conventions of his time .
+3
+#9 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#10 convention NOUN convention%1:09:00::
+#13 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+But unlike Holmes , he feels his society to be not merely dull but also corrupt .
+5
+#5 feel VERB feel%2:31:00::,feel%2:39:00::
+#7 society NOUN society%1:14:00::,society%1:14:02::
+#10 not ADV not%4:02:00::
+#12 dull ADJ dull%5:00:01:uninteresting:00
+#15 corrupt ADJ corrupt%3:00:04::
+Surrounded by crime and violence everywhere , the " hardboiled " private eye can retain his purity only through a life of self-imposed isolation .
+1
+#17 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+His alienation is far more acute than Holmes ' ; he is not an eccentric but rather an outcast .
+6
+#3 far ADV far%4:02:02::
+#4 more ADV more%4:02:00::
+#5 acute ADJ acute%3:00:00::
+#12 not ADV not%4:02:00::
+#14 eccentric NOUN eccentric%1:18:00::
+#16 rather ADV rather%4:02:02::
+With Rex Stout 's Nero Wolfe , alienation is represented on a purely physical plane .
+1
+#13 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+Wolfe refuses to ever leave his own house , and spends most of his time drinking beer and playing with orchids .
+7
+#3 ever ADV ever%4:02:05::
+#4 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 own ADJ own%5:00:00:personal:00
+#7 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#14 time NOUN time%1:28:01::,time%1:28:05::
+#15 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#18 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+More profound and more disturbing , however , is the moral isolation of Raymond Chandler 's Philip Marlowe .
+1
+#10 moral ADJ moral%3:00:00::
+In a society where everything is for sale , Marlowe is the only man who cannot be bought .
+3
+#2 society NOUN society%1:14:00::,society%1:14:02::
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#17 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+His tough honesty condemns him to a solitary and difficult existence .
+2
+#1 tough ADJ tough%3:00:01::,tough%3:00:02::,tough%3:00:03::,tough%5:00:00:rugged:00,tough%5:00:00:violent:00,tough%5:00:01:difficult:00
+#2 honesty NOUN honesty%1:07:00::
+Beaten , bruised and exhausted , he pursues the elusive killer through the demi-monde of high society and low morals , always alone , always despised .
+8
+#0 beaten ADJ beaten%3:44:00::
+#4 exhausted ADJ exhausted%5:00:00:tired:00
+#7 pursue VERB pursue%2:38:00::
+#18 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#19 moral NOUN morals%1:16:00::
+#21 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#22 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#24 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+In the end , he gets his man , but no one seems to care ; virtue is its own and only reward .
+4
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 care VERB care%2:37:00::,care%2:37:12::
+#16 virtue NOUN virtue%1:07:03::
+#19 own ADJ own%5:00:00:personal:00
+A similar tone of underlying futility and despair pervades the spy thrillers of Eric Ambler and dominates the most famous of all American mystery stories , Dashiell Hammett 's The Maltese Falcon .
+2
+#2 tone NOUN tone%1:10:01::,tone%1:26:01::
+#18 most ADV most%4:02:00::
+Sam Spade joins forces with a band of adventurers in search of a priceless jeweled statue of a falcon ; but when the bird is found at last , it turns out to be a fake .
+3
+#6 band NOUN band%1:14:01::
+#25 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#35 fake NOUN fake%1:18:00::
+Now the detective must save his own skin by informing on the girl he loves , who is also the real murderer .
+7
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#6 own ADJ own%5:00:00:personal:00
+#7 skin NOUN skin%1:05:01::,skin%1:06:02::,skin%1:08:00::,skin%1:26:00::
+#9 inform VERB inform%2:32:00::,inform%2:32:10::
+#12 girl NOUN girl%1:18:01::,girl%1:18:03::
+#20 real ADJ real%3:00:00::,real%5:00:00:true:00
+For Sam Spade , neither crime nor virtue pays ; moreover , it is increasingly difficult to distinguish between the two .
+1
+#7 virtue NOUN virtue%1:07:03::
+Because the private eye intends to save society in spite of himself , he invariably finds himself in trouble with the police .
+4
+#4 intend VERB intend%2:31:01::,intend%2:32:00::
+#6 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#7 society NOUN society%1:14:00::,society%1:14:02::
+#15 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The latter are either too stupid to catch the killer or too corrupt to care .
+5
+#1 latter ADJ latter%3:00:00::
+#4 too ADV too%4:02:00::
+#11 too ADV too%4:02:00::
+#12 corrupt ADJ corrupt%3:00:04::
+#14 care VERB care%2:37:00::,care%2:37:12::
+In either case , they do not appreciate the private detective 's zeal .
+2
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#7 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+Frequently enough , the police are themselves in league with the killer ; Dashiell Hammett 's Red Harvest provides a classic example of this theme .
+3
+#18 provide VERB provide%2:34:00::,provide%2:40:00::
+#21 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#24 theme NOUN theme%1:10:02::
+But even when the police are honest , they do not trust the private eye .
+2
+#10 not ADV not%4:02:00::
+#11 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+He is , like Phillip Marlowe , too alienated to be reliable .
+1
+#7 too ADV too%4:02:00::
+Finally , in The Maltese Falcon among others , the clash between detective and police is carried to its logical conclusion : Sam Spade becomes the chief murder suspect .
+4
+#10 clash NOUN clash%1:04:00::
+#16 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#20 conclusion NOUN conclusion%1:10:02::,conclusion%1:11:00::,conclusion%1:28:00::
+#24 become VERB become%2:30:00::,become%2:42:01::
+In order to exonerate himself , he is compelled to find the real criminal , who happens to be his girl friend .
+4
+#3 exonerate VERB exonerate%2:32:00::
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 real ADJ real%3:00:00::,real%5:00:00:true:00
+#16 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+What was only a vague suspicion in the case of Sherlock Holmes now appears as a direct accusation : the private eye is in danger of turning into his opposite .
+6
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 suspicion NOUN suspicion%1:09:01::
+#8 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#16 direct ADJ direct%3:00:02::
+It is the growing contradiction between individualism and public service in the mystery story which creates this fatal dilemma .
+1
+#8 public ADJ public%3:00:00::,public%5:00:00:common:02
+By upholding his own personal code of behavior , the private detective has placed himself in opposition to a society whose fabric is permeated with crime and corruption .
+6
+#3 own ADJ own%5:00:00:personal:00
+#4 personal ADJ personal%5:00:00:subjective:00
+#13 place VERB place%2:31:13::
+#19 society NOUN society%1:14:00::,society%1:14:02::
+#21 fabric NOUN fabric%1:07:00::
+#27 corruption NOUN corruption%1:26:00::
+That society responds by condemning the private eye as a threat to the status quo , a potential criminal .
+2
+#1 society NOUN society%1:14:00::,society%1:14:02::
+#10 threat NOUN threat%1:10:00::,threat%1:26:00::
+If the detective insists upon retaining his personal standards , he must now do so in conscious defiance of his society .
+3
+#7 personal ADJ personal%5:00:00:subjective:00
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#20 society NOUN society%1:14:00::,society%1:14:02::
+He must , in short , cease to be a detective and become a rebel .
+1
+#12 become VERB become%2:30:00::,become%2:42:01::
+On the other hand , if he wishes to continue in his chosen profession , he must abandon his own code and sacrifice his precious individualism .
+7
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#13 profession NOUN profession%1:14:00::
+#17 abandon VERB abandon%2:40:01::
+#19 own ADJ own%5:00:00:personal:00
+#20 code NOUN code%1:10:01::
+#24 precious ADJ precious%5:00:00:valuable:00
+#25 individualism NOUN individualism%1:09:00::
+Dashiell Hammett resolved this contradiction by ceasing to write mystery stories and turning to other pursuits .
+3
+#2 resolve VERB resolve%2:31:01::,resolve%2:32:00::
+#8 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#14 other ADJ other%5:00:02:past:00
+His successors have adopted the opposite alternative .
+1
+#5 opposite ADJ opposite%5:00:00:other:00
+In order to save the mystery story , they have converted the private detective into an organization man .
+3
+#3 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#10 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+#17 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The first of two possible variations on this theme is symbolized by Mickey Spillane 's Mike Hammer .
+2
+#5 variation NOUN variation%1:04:00::,variation%1:04:02::,variation%1:10:00::
+#8 theme NOUN theme%1:10:02::
+At first glance , this hero seems to be more rather than less of an individualist than any of his predecessors .
+3
+#5 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#10 rather ADV rather%4:02:02::
+#12 little ADV little%4:02:00::
+He kills when he pleases , takes his women where he finds them and always acts as judge , jury and executioner rolled into one .
+5
+#1 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#4 please VERB please%2:37:01::
+#6 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#11 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::

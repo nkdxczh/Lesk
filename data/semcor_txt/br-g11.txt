@@ -1,0 +1,588 @@
+ As cells coalesced into organisms , they built new " unnatural " and internally controlled environments to cope even more successfully with the entropy increasing properties of the external world .
+9
+#1 cell NOUN cell%1:03:00::,cell%1:06:03::
+#14 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#15 environment NOUN environment%1:15:00::,environment%1:26:00::
+#17 cope VERB cope%2:41:00::
+#19 more ADV more%4:02:00::
+#23 entropy NOUN second%1:24:00::
+#25 property NOUN property%1:07:00::,property%1:09:00::
+#28 external ADJ external%5:00:00:extrinsic:00
+#29 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+The useful suggestion of Professor David Hawkins which considers culture as a third stage in biological evolution fits quite beautifully then with our suggestion that science has provided us with a rather successful technique for building protective artificial environments .
+10
+#9 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#13 stage NOUN stage%1:04:00::,stage%1:26:00::
+#16 evolution NOUN evolution%1:22:01::
+#17 fit VERB fit%2:42:01::
+#18 quite ADV quite%4:02:02::
+#20 then ADV then%4:02:02::
+#27 provide VERB provide%2:34:00::,provide%2:40:00::
+#31 rather ADV rather%4:02:00::,rather%4:02:04::
+#37 artificial ADJ artificial%3:00:00::
+#38 environment NOUN environment%1:15:00::,environment%1:26:00::
+One wonders about its applicability to people .
+2
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#6 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Will advances in human sciences help us build social structures and governments which will enable us to cope with people as effectively as the primitive combination of protein and nucleic acid built a structure of molecules which enabled it to adapt to a sea of molecular interaction ?
+7
+#1 advance NOUN advance%1:11:00::
+#5 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#14 enable VERB enable%2:30:00::,enabling%3:00:00::
+#19 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#25 combination NOUN combination%1:04:00::,combination%1:14:00::
+#37 enable VERB enable%2:30:00::,enabling%3:00:00::
+For the family is the simplest example of just such a unit , composed of people , which gives us both some immunity from , and a way of dealing with , other people .
+12
+#2 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#5 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#6 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#8 just ADV just%4:02:05::
+#11 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#13 compose VERB compose%2:42:00::
+#15 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#18 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#27 way NOUN way%1:04:00::,way%1:09:00::
+#29 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#32 other ADJ other%3:00:00::
+#33 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Social invention did not have to await social theory any more than use of the warmth of a fire had to await Lavoisier or the buoyant protection of a boat the formulations of Archimedes .
+8
+#0 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#3 not ADV not%4:02:00::
+#7 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#10 more ADV more%4:02:00::,more%4:02:01::
+#18 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#25 buoyant ADJ buoyant%5:00:00:light:01
+#29 boat NOUN boat%1:06:00::
+#31 formulation NOUN formulation%1:04:00::
+But it has been during the last two centuries , during the scientific revolution , that our independence from the physical environment has made the most rapid strides .
+8
+#6 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#8 century NOUN century%1:28:00::
+#13 revolution NOUN revolution%1:04:00::
+#20 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#21 environment NOUN environment%1:15:00::,environment%1:26:00::
+#23 make VERB make%2:31:10::,make%2:42:05::
+#25 most ADV most%4:02:00::
+#27 stride NOUN stride%1:23:00::
+We have ample light when the sun sets ; the temperature of our homes is independent of the seasons ; we fly through the air , although gravity pulls us down ; the range of our voice ignores distance .
+14
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#6 sun NOUN sun%1:17:00::,sun%1:17:01::
+#7 set VERB set%2:38:00::
+#13 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#15 independent ADJ independent%3:00:00::
+#21 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#24 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#27 gravity NOUN gravity%1:19:00::
+#28 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#30 down ADV down%4:02:00::,down%4:02:02::
+#33 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#36 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#38 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+At what stage are social sciences then ?
+2
+#2 stage NOUN stage%1:04:00::,stage%1:26:00::
+#6 then ADV then%4:02:02::
+Is the future of psychology akin to the rich future of physics at the time of Newton ?
+3
+#2 future NOUN future%1:10:00::,future%1:28:00::
+#9 future NOUN future%1:10:00::,future%1:28:00::
+#11 physics NOUN physics%1:09:00::
+There is a haunting resemblance between the notion of cause in Copernicus and in Freud .
+2
+#7 notion NOUN notion%1:09:02::
+#9 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+And it is certainly no slight to either of them to compare both their achievements and their impact .
+2
+#11 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#14 achievement NOUN achievement%1:04:00::
+Political theoretical understanding , although almost at a standstill during this century , did develop during the eighteenth and nineteenth centuries , and resulted in a flood of inventions which increased the possibility for man to coexist with man .
+6
+#11 century NOUN century%1:28:00::
+#14 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#20 century NOUN century%1:28:00::
+#26 flood NOUN flood%1:04:01::
+#34 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#38 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+Constitutional government , popular vote , trial by jury , public education , labor unions , cooperatives , communes , socialized ownership , world courts , and the veto power in world councils are but a few examples .
+8
+#0 constitutional ADJ constitutional%3:00:00::
+#1 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#6 trial NOUN trial%1:04:02::
+#10 public ADJ public%3:00:00::,public%5:00:00:common:02
+#11 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#18 commune NOUN commune%1:14:00::
+#29 power NOUN power%1:18:00::
+#37 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+Most of these , with horrible exceptions , were conceived as is a ship , not as an attempt to quell the ocean of mankind , nor to deny its force , but as a means to survive and enjoy it .
+5
+#9 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#24 mankind NOUN mankind%1:05:00::
+#28 deny VERB deny%2:32:00::,deny%2:32:01::
+#35 means NOUN means%1:06:00::
+#39 enjoy VERB enjoy%2:39:00::
+The most effective political inventions seem to make maximum use of natural harbors and are aware that restraining breakwaters can play only a minor part in the whole scheme .
+7
+#1 most ADV most%4:02:00::
+#2 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#11 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#23 minor ADJ minor%3:00:07::
+#24 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#27 whole ADJ whole%3:00:00::
+Just as present technology had to await the explanations of physics , so one might expect that social invention will follow growing sociological understanding .
+5
+#0 just ADV just%4:02:05::
+#2 present ADJ present%3:00:01::
+#10 physics NOUN physics%1:09:00::
+#17 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#20 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+We are desperately in the need of such invention , for man is still very much at the mercy of man .
+4
+#11 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#13 still ADV still%4:02:00::
+#18 mercy NOUN mercy%1:04:00::
+#20 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+I want , therefore , to discuss a second and quite different fruit of science , the connection between scientific understanding and fear .
+5
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#10 quite ADV quite%4:02:02::
+#11 different ADJ different%5:00:00:unusual:00
+#12 fruit NOUN fruit%1:20:00::
+#17 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+There are certainly large areas of understanding in the human sciences which in themselves and even without political invention can help to dispel our present fears .
+4
+#3 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#20 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#24 present ADJ present%3:00:01::
+Lucretius has remarked : " The reason why all Mortals are so gripped by fear is that they see all sorts of things happening in the earth and sky with no discernable cause , and these they attribute to the will of God " .
+12
+#2 remark VERB remark%2:32:01::
+#6 reason NOUN reason%1:09:01::,reason%1:16:00::
+#11 so ADV so%4:02:03::,so%4:02:07::
+#12 grip VERB grip%2:37:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 sort NOUN sort%1:09:00::,sort%1:18:00::
+#22 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#23 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#26 earth NOUN earth%1:15:00::,earth%1:17:01::
+#32 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#40 will NOUN will%1:09:01::,willpower%1:07:00::
+#42 God NOUN god%1:18:00::
+Perhaps things were even worse then .
+3
+#1 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#4 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#5 then ADV then%4:02:01::
+It is difficult to reconstruct the primeval fears of man .
+1
+#9 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+We get some clue from a few remembrances of childhood and from the circumstance that we are probably not much more afraid of people now than man ever was .
+9
+#1 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#3 clue NOUN clue%1:10:01::
+#13 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#18 not ADV not%4:02:00::
+#20 more ADV more%4:02:00::
+#23 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#24 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#26 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#27 ever ADV ever%4:02:05::
+We are not now afraid of atomic bombs in the same way that people once feared comets .
+6
+#2 not ADV not%4:02:00::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 same ADJ same%3:00:00::,same%3:00:02::
+#11 way NOUN way%1:04:00::,way%1:09:00::
+#13 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#14 once ADV once%4:02:01::
+The bombs are as harmless as an automobile in a garage .
+2
+#1 bomb NOUN bomb%1:06:00::
+#10 garage NOUN garage%1:06:00::
+We are worried about what people may do with them - that some crazy fool may " push the button " .
+4
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 crazy ADJ crazy%5:00:00:insane:00
+#14 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+#17 push VERB push%2:32:01::,push%2:38:00::
+I am certainly not adequately trained to describe or enlarge on human fears , but there are certain features of the fears dispelled by scientific explanations that stand out quite clearly .
+5
+#3 not ADV not%4:02:00::
+#5 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#7 describe VERB describe%2:32:01::
+#18 feature NOUN feature%1:08:00::,feature%1:09:01::
+#29 quite ADV quite%4:02:02::
+They are in general those fears that once seemed to have been amenable to prayer or ritual .
+1
+#7 once ADV once%4:02:01::
+They include both individual fears and collective ones .
+2
+#1 include VERB include%2:42:00::
+#3 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+They arise in situations in which one believes that what happens depends not only on the external world , but also on the precise pattern of behavior of the individual or group .
+7
+#1 arise VERB arise%2:30:00::,arise%2:42:01::
+#3 situation NOUN situation%1:26:01::
+#10 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#11 depend VERB depend%2:42:00::
+#16 external ADJ external%5:00:00:extrinsic:00
+#17 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#24 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+Often it is recognized that all the details of the pattern may not be essential to the outcome but , because the pattern was empirically determined and not developed through theoretical understanding , one is never quite certain which behavior elements are effective , and the whole pattern becomes ritualized .
+16
+#7 detail NOUN detail%1:10:00::,detail%1:24:00::
+#10 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#12 not ADV not%4:02:00::
+#14 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#22 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#25 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#27 not ADV not%4:02:00::
+#28 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#35 never ADV never%4:02:00::
+#36 quite ADV quite%4:02:02::
+#37 certain ADJ certain%3:00:01::
+#40 element NOUN element%1:06:00::,element%1:09:00::
+#42 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#46 whole ADJ whole%3:00:00::
+#47 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#48 become VERB become%2:30:00::,become%2:42:01::
+Yet often fear persists because , even with the most rigid ritual , one is never quite free from the uneasy feeling that one might make some mistake or that in every previous execution one had been unaware of the really decisive act .
+9
+#9 most ADV most%4:02:00::
+#10 rigid ADJ rigid%5:00:00:unadaptable:00
+#15 never ADV never%4:02:00::
+#16 quite ADV quite%4:02:02::
+#17 free ADJ free%5:00:00:nonexistent:00
+#25 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 previous ADJ previous%5:00:00:preceding:00
+#33 execution NOUN execution%1:04:03::
+#42 act NOUN act%1:03:00::
+To say that science had reduced many such fears merely reiterates the obvious and frequent statement that science eliminated much of magic and superstition .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+But a somewhat more detailed analysis of this process may be illuminating .
+2
+#3 more ADV more%4:02:00::
+#8 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+The frequently postulated antique worry that the daylight hours might dwindle to complete darkness apparently gave rise to a ritual and celebration which we still recognize .
+7
+#2 postulate VERB postulate%2:31:00::
+#3 antique ADJ antique%5:00:00:old:01
+#7 daylight NOUN daylight%1:19:00::
+#8 hour NOUN hour%1:07:00::,hours%1:28:01::
+#12 complete ADJ complete%5:00:00:skilled:00
+#13 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#24 still ADV still%4:02:00::
+It is curious that even centuries of repetition of the yearly cycle did not induce a sufficient degree of confidence to allow people to abandon the ceremonies of the winter solstice .
+8
+#5 century NOUN century%1:28:00::
+#11 cycle NOUN cycle%1:28:00::
+#13 not ADV not%4:02:00::
+#14 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#17 degree NOUN degree%1:26:01::
+#21 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#22 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#24 abandon VERB abandon%2:40:01::
+This and other fears of the solar system have disappeared gradually , first , with the Ptolemaic system and its built-in concept of periodicity and then , more firmly , with the Newtonian innovation of an universal force that could account quantitatively for both terrestrial and celestial motions .
+5
+#2 other ADJ other%5:00:02:past:00
+#9 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#27 more ADV more%4:02:00::
+#37 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#47 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+This understanding provides a very simple example of the fact that one can eliminate fear without instituting any controls .
+5
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#6 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#16 institute VERB institute%2:36:01::
+#18 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+In fact , although we have dispelled the fear , we have not necessarily assured ourselves that there are no dangers .
+2
+#12 not ADV not%4:02:00::
+#14 assure VERB assure%2:32:01::,assure%2:32:02::
+There is still the remote possibility of planetoid collision .
+3
+#2 still ADV still%4:02:00::
+#4 remote ADJ remote%5:00:00:unlikely:00
+#8 collision NOUN collision%1:11:00::
+A meteor could fall on San Francisco .
+1
+#3 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+Solar activities could presumably bring long periods of flood or drought .
+3
+#1 activity NOUN activity%1:04:00::,activity%1:26:00::
+#6 period NOUN period%1:28:00::,period%1:28:03::
+#8 flood NOUN flood%1:19:00::
+Our understanding of the solar system has taught us to replace our former elaborate rituals with the appropriate action which , in this case , amounts to doing nothing .
+4
+#10 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#12 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#18 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#23 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+This almost trivial example is nevertheless suggestive , for there are some elements in common between the antique fear that the days would get shorter and shorter and our present fear of war .
+6
+#3 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#12 element NOUN element%1:06:00::,element%1:09:00::
+#17 antique ADJ antique%5:00:00:old:01
+#21 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#29 present ADJ present%3:00:01::
+We , in our country , think of war as an external threat which , if it occurs , will not be primarily of our own doing .
+4
+#4 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#11 external ADJ external%5:00:00:extrinsic:00
+#20 not ADV not%4:02:00::
+#25 own ADJ own%5:00:00:personal:00
+And yet we obviously also believe that the avoidance of the disaster depends in some obscure or at least uncertain way on the details of how we behave .
+4
+#12 depend VERB depend%2:31:00::
+#20 way NOUN way%1:04:00::,way%1:09:00::
+#23 detail NOUN detail%1:10:00::,detail%1:24:00::
+#27 behave VERB behave%2:41:00::,behave%2:41:01::
+What elements of our behavior are decisive ?
+1
+#1 element NOUN element%1:06:00::,element%1:09:00::
+Our weapons production , our world prestige , our ideas of democracy , our actions of trust or stubbornness or secrecy or espionage ?
+5
+#2 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#5 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#9 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#14 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#16 trust NOUN trust%1:07:00::
+We have staved off a war and , since our behavior has involved all these elements , we can only keep adding to our ritual without daring to abandon any part of it , since we have not the slightest notion which parts are effective .
+11
+#12 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#15 element NOUN element%1:06:00::,element%1:09:00::
+#19 only ADV only%4:02:00::,only%4:02:04::
+#20 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#28 abandon VERB abandon%2:40:01::
+#30 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#37 not ADV not%4:02:00::
+#39 slight ADJ slight%5:00:00:insignificant:00
+#40 notion NOUN notion%1:09:02::
+#42 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#44 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+I think that we are here also talking of the kind of fear that a young boy has for a group of boys who are approaching at night along the streets of a large city .
+7
+#1 think VERB think%2:31:01::,think%2:31:03::
+#16 boy NOUN boy%1:18:03::
+#22 boy NOUN boy%1:18:03::
+#25 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#27 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#33 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#34 city NOUN city%1:15:00::,city%1:15:01::
+If an automobile were approaching him , he would know what was required of him , even though he might not be able to act quickly enough .
+6
+#4 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 not ADV not%4:02:00::
+#22 able ADJ able%3:00:00::
+#24 act VERB act%2:33:00::,act%2:41:00::
+#26 enough ADV enough%4:02:00::
+With the group of boys it is different .
+2
+#4 boy NOUN boy%1:18:03::
+#7 different ADJ different%5:00:00:unusual:00
+He does not know whether to look up or look aside , to put his hands in his pockets or to clench them at his side , to cross the street , or to continue on the same side .
+11
+#2 not ADV not%4:02:00::
+#6 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 up ADV up%4:02:00::,up%4:02:02::
+#9 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#13 put VERB put%2:35:00::,put%2:35:05::
+#15 hand NOUN hand%1:08:00::,hand%1:10:01::
+#18 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#25 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#28 cross VERB cross%2:38:00::
+#34 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#37 same ADJ same%3:00:00::,same%3:00:02::
+When confronted with a drunk or an insane person I have no notion of what any one of them might do to me or to himself or to others .
+3
+#4 drunk NOUN drunk%1:18:00::
+#8 person NOUN person%1:03:00::,person%1:08:00::
+#12 notion NOUN notion%1:09:02::
+I believe that what I do has some effect on his actions and I have learned , in a way , to commune with drunks , but certainly my actions seem to resemble more nearly the performance of a rain dance than the carrying out of an experiment in physics .
+9
+#1 believe VERB believe%2:31:03::
+#8 effect NOUN effect%1:09:00::,effect%1:19:00::
+#11 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#15 learn VERB learn%2:31:01::,learn%2:31:03::
+#22 commune VERB commune%2:32:02::
+#29 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#33 more ADV more%4:02:00::
+#36 performance NOUN performance%1:04:01::,performance%1:10:00::
+#49 physics NOUN physics%1:09:00::
+I am usually filled with an uneasiness that through some unwitting slip all hell may break loose .
+1
+#11 slip NOUN slip%1:04:05::
+Our inability to explain why certain people are fond of us frequently induces the same kind of ritual and malaise .
+3
+#6 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#12 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#14 same ADJ same%3:00:00::
+We are forced , in our behavior towards others , to adopt empirically successful patterns in toto because we have such a minimal understanding of their essential elements .
+4
+#2 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#22 minimal ADJ minimal%3:00:00::
+#26 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#27 element NOUN element%1:06:00::,element%1:09:00::
+Our collective policies , group and national , are similarly based on voodoo , but here we often lack even the empirically successful rituals and are still engaged in determining them .
+5
+#2 policy NOUN policy%1:09:00::,policy%1:10:00::
+#10 base VERB base%2:31:00::
+#26 still ADV still%4:02:04::
+#27 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#29 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+We use terms from our personal experience with individuals such as " trust " , " cheat " , and " get tough " .
+4
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#2 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#5 personal ADJ personal%5:00:00:subjective:00
+#12 trust NOUN trust%1:07:00::
+We talk about national character in the same way that Copernicus talked of the compulsions of celestial bodies to move in circles .
+6
+#4 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#8 way NOUN way%1:04:00::,way%1:09:00::
+#14 compulsion NOUN compulsion%1:16:00::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#21 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+We perform elaborate international exhortations and ceremonies with virtually no understanding of social cause and effect .
+5
+#6 ceremony NOUN ceremony%1:11:00::
+#8 virtually ADV virtually%4:02:02::
+#12 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#13 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#15 effect NOUN effect%1:09:00::,effect%1:19:00::
+Small wonder , then , that we fear .
+1
+#3 then ADV then%4:02:02::
+The achievements which dispelled our fears of the cosmos took place three centuries ago .
+3
+#1 achievement NOUN achievement%1:04:00::
+#8 cosmos NOUN cosmos%1:17:00::
+#12 century NOUN century%1:28:00::
+What additional roles has the scientific understanding of the 19th and 20th centuries played ?
+1
+#12 century NOUN century%1:28:00::
+In the physical sciences , these achievements concern electricity , chemistry , and atomic physics .
+4
+#6 achievement NOUN achievement%1:04:00::
+#7 concern VERB concern%2:42:00::,concern%2:42:01::
+#8 electricity NOUN electricity%1:19:01::
+#10 chemistry NOUN chemistry%1:09:00::
+In the life sciences , there has been an enormous increase in our understanding of disease , in the mechanisms of heredity , and in bio - and physiological chemistry .
+3
+#19 mechanism NOUN mechanism%1:22:00::
+#21 heredity NOUN heredity%1:22:00::
+#29 chemistry NOUN chemistry%1:09:00::
+The major effect of these advances appears to lie in the part they have played in the industrial revolution and in the tools which scientific understanding has given us to build and manipulate a more protective environment .
+9
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#5 advance NOUN advance%1:11:00::
+#6 appear VERB appear%2:30:00::
+#11 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#22 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#27 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#34 more ADV more%4:02:00::
+#36 environment NOUN environment%1:15:00::,environment%1:26:00::
+In addition , our way of dealing directly with natural phenomena has also changed .
+4
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#6 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#7 directly ADV directly%4:02:05::
+#13 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Apparently the population as a whole eventually acquires enough confidence in the explanations of the scientists to modify its procedures and its fears .
+1
+#8 enough ADV enough%4:02:00::
+How and why this process occurs would provide an interesting separate subject for study .
+4
+#4 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+#11 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#13 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+In some areas , the progress is slower than in others .
+1
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+In agriculture , for example , despite the advances in biology , elaborate rituals tend to persist along with a continued sense of the imminence of some natural disaster .
+4
+#8 advance NOUN advance%1:11:00::
+#14 tend VERB tend%2:42:01::
+#21 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#27 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+In child care , the opposite extreme prevails ; procedures change rapidly and parental confidence probably exceeds anything warranted by established psychological theory .
+4
+#5 opposite ADJ opposite%5:00:00:other:00
+#6 extreme NOUN extreme%1:07:00::
+#10 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#20 established ADJ established%3:00:00::
+There are many domains in which understanding has brought about widespread and quite appropriate reduction in ritual and fear .
+2
+#12 quite ADV quite%4:02:02::
+#14 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+Much of the former extreme uneasiness associated with visions and hallucinations and with death has disappeared .
+4
+#3 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#4 extreme NOUN extreme%1:07:00::
+#8 vision NOUN vision%1:09:03::
+#15 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+The persistent horror of having a malformed child has , I believe , been reduced , not because we have gained any control over this misfortune , but precisely because we have learned that we have so little control over it .
+10
+#2 horror NOUN horror%1:12:01::
+#4 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#11 believe VERB believe%2:31:03::
+#14 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#20 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#22 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#32 learn VERB learn%2:31:01::,learn%2:31:03::
+#35 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#36 so ADV so%4:02:03::,so%4:02:07::
+#38 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+In fact , the recent warnings about the use of X-rays have introduced fears and ambiguities of action which now require more detailed understanding , and thus in this instance , science has momentarily aggravated our fears .
+9
+#4 recent ADJ recent%5:00:00:past:00
+#12 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#17 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#19 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#21 more ADV more%4:02:00::
+#26 thus ADV thus%4:02:00::
+#29 instance NOUN instance%1:09:00::
+#33 momentarily ADV momentarily%4:02:02::
+#34 aggravate VERB aggravate%2:30:00::
+In fact , insofar as science generates any fear , it stems not so much from scientific prowess and gadgets but from the fact that new unanswered questions arise , which , until they are understood , create uncertainty .
+6
+#11 stem VERB stem%2:42:00::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#17 prowess NOUN prowess%1:09:00::
+#25 new ADJ new%3:00:00::
+#28 arise VERB arise%2:30:00::,arise%2:42:01::
+#35 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Perhaps the most illuminating example of the reduction of fear through understanding is derived from our increased knowledge of the nature of disease .
+5
+#2 most ADV most%4:02:00::
+#4 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#7 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#17 knowledge NOUN knowledge%1:03:00::
+#20 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+The situation with regard to our attitude and " control " of disease contains close analogies to problems confronting us with respect to people .
+6
+#1 situation NOUN situation%1:26:01::
+#9 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#13 contain VERB contain%2:42:00::,contain%2:42:06::
+#14 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#17 problem NOUN problem%1:09:00::,problem%1:26:00::
+#23 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+The fear of disease was formerly very much the kind of fear I have tried to describe .
+2
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 describe VERB describe%2:32:01::

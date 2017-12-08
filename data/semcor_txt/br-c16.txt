@@ -1,0 +1,246 @@
+ A year ago it was bruited that the primary character in Erich Maria Remarque 's new novel was based on the Marquis Alfonso de Portago , the Spanish nobleman who died driving in the Mille Miglia automobile race of 1957 .
+3
+#18 base VERB base%2:31:00::
+#30 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#31 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+Clerfayt of " Heaven Has No Favorites " resembles Portago only in that he is male and a race-driver - quite a bad race-driver , whereas Portago was a good one .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+One looked forward to Mr. Remarque 's ninth book if only because not even a reasonably good novel has yet been written grounded on automobile racing , as dramatic a sport as mankind has devised .
+3
+#21 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#22 ground VERB ground%2:31:00::
+#34 devise VERB devise%2:36:00::
+Unhappily , " Heaven Has No Favorites " does not alter the record except to add one more bad book to the list .
+2
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+He proposed throwing together a man in an occupation of high hazard and a woman balanced on a knife-edge between death from tuberculosis and recovery .
+2
+#1 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#2 throw VERB throw%2:31:00::,throw%2:35:02::
+His heroine chooses to die - the price of recovery , years under the strict regimen of a sanatorium , being higher than she wishes to pay .
+2
+#4 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#26 pay VERB pay%2:40:02::
+The ramblings on life , death , and the wonder of it all are distressing ; the love-making , perhaps because it is pale and low-key when one has been conditioned to expect harsh colors and explicitness , is often charming ; the automobile racing bears little relation to reality .
+2
+#30 condition VERB condition%2:41:00::
+#45 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+This latter failure is more than merely bad reportage and it is distinctly more important than it would have been had the author drawn Clerfayt as , say , a tournament golfer .
+1
+#23 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+Race-drivers , on the other hand , are quite often killed on the circuit , and since it was obviously Mr. Remarque 's intention to establish automobile racing as life in microcosm , one might reasonably have expected him to demonstrate precise knowledge not only of techniques but of mores and attitudes .
+3
+#10 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#25 establish VERB establish%2:31:00::
+#40 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+The jacket biography describes him as a former racing driver , and he may indeed have been , although I do not recall having encountered his name either in the records or the literature .
+2
+#3 describe VERB describe%2:32:01::
+#22 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+The book carries a disclaimer in which Remarque says it has been necessary for him to take minor liberties with some of the procedures and formalities of racing .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The necessity is not clear to me , and , in any case , to present a case-hardened race-driver as saying he has left his car , which , or whom , he calls " Giuseppe " , parked " on the Place Vendome sneering at a dozen Bentleys and Rolls-Royces parked around him " is not a liberty ; it is an absurdity .
+4
+#15 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 leave VERB leave%2:38:00::,leave%2:41:00::
+#33 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+To be human , he believes , is to seek one 's own destruction : the Freudian " death-wish " cliche inevitably cited whenever laymen talk about auto race-drivers .
+1
+#22 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+In point of fact , the race-drivers one knows are nearly always intelligent , healthy technicians who differ from other technicians only in the depth of the passion they feel for the work by which they live .
+1
+#36 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+A Clerfayt may moon on about the face of Death in the cockpit ; a Portago could say , as he did say to me , " If I die tomorrow , still I have had twenty-eight wonderful years ; but I sha n't die tomorrow ; I 'll live to be 105 " .
+5
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#44 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#49 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+Clerfayt , transported , may think of the engine driving his car as " a mystical beast under the hood " .
+2
+#2 transport VERB transport%2:35:01::
+#9 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+The Italian master Piero Taruffi , no less sensitive , knows twice the ecstasy though he thinks of a car 's adhesion to a wet two-lane road at 165 miles an hour as a matter best expressed in algebraic formulae .
+2
+#10 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#36 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+Clerfayt , driving , sees himself " a volcano whose cone funneled down to hell " ; the Briton Stirling Moss , one of the greatest virtuosi of all time , believes that ultra-fast road-circuit driving is an art form related to ballet .
+3
+#2 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#4 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#31 believe VERB believe%2:31:03::
+Errors in technical terminology suggest that the over-all translation from the German may not convey quite everything Mr. Remarque hoped to tell us .
+1
+#21 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+The West is leaderless , according to this book .
+1
+#5 accord VERB accord%2:42:00::
+In contrast , the East is ably led by such stalwart heroes as Khrushchev , Tito , and Mao .
+1
+#7 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+Against this invincible determination to communize the whole world stands a group of nations unable to agree on fundamentals and each refusing to make any sacrifice of sovereignty for the common good of all .
+3
+#9 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#16 agree VERB agree%2:32:00::,agree%2:32:01::
+#23 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It is Field Marshal Montgomery 's belief that in most Western countries about 60 per cent of the people do not really care about democracy or Christianity ; about 30 per cent call themselves Christians in order to keep up appearances and be considered respectable , and only the last 10 per cent are genuine Christians and believers in democracy .
+2
+#22 care VERB care%2:37:00::,care%2:37:12::
+#32 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+But these Western countries do care about themselves .
+1
+#5 care VERB care%2:37:00::,care%2:37:12::
+Each feels intensely national .
+1
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+If , say , the Russians intended to stop Tom Jones ' going to the pub , then Tom Jones would fight the Commies .
+2
+#6 intend VERB intend%2:31:01::,intend%2:32:00::
+#8 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+For all practical purposes , the West stands disunited , undedicated , and unprepared for the tasks of world leadership .
+1
+#7 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+Never given to mincing words , he places heavy blame upon the faulty , uncourageous leadership of Britain and particularly America .
+1
+#7 place VERB place%2:31:13::
+At war 's end leadership in Western Europe passed from Britain because the Labour Government devoted its attention to the creation of a welfare state .
+1
+#15 devote VERB devote%2:31:00::
+With Britain looking inward , overseas problems were neglected and the baton was passed on to the United States .
+1
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+Montgomery believes that she started well .
+2
+#1 believe VERB believe%2:31:03::
+#4 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+" America gave generously in economic aid and military equipment to friend and foe alike " .
+1
+#2 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+She pushed wartorn and poverty-stricken nations into prosperity , but she failed to lead them into unity and world peace .
+1
+#1 push VERB push%2:32:01::,push%2:38:00::
+America has divided more than she has united the West .
+1
+#2 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+The reasons are that America generally believes that she can buy anything with dollars , and that she compulsively strives to be liked .
+2
+#10 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#22 like VERB like%2:37:05::
+However , she really does not know how to match the quantity of dollars given away by a quality of leadership that is basically needed .
+2
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 need VERB need%2:42:00::
+But the greater reason for fumbling , stumbling American leadership is due to the shock her pride suffered when the Japanese attacked at Pearl Harbor .
+1
+#17 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+" They are determined " , Montgomery writes , " not to be surprised again , and now insist on a state of readiness for war which is not only unnecessary , but also creates nervousness among other nations in the Western Alliance - not to mention such great suspicions among the nations of the Eastern bloc that any progress towards peaceful coexistence or disarmament is not possible " .
+1
+#7 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+The net result is that under American leadership the general world situation has become bad .
+1
+#13 become VERB become%2:30:00::,become%2:42:01::
+As faulty as has been our leadership clearly the United States must be relied upon to lead .
+1
+#16 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+The path to leadership is made clear .
+1
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Montgomery calls for a leader who will first put the West 's own house in order .
+1
+#8 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+This leader must be a man who lives above illusions that heretofore have shaped the foreign policy of the United States , namely that Russia will agree to a reunited Germany , that the East German government does not exist , that events in Japan in June 1960 were Communist-inspired , that the true government of China is in Formosa , that Mao was the evil influence behind Khrushchev at the Summit Conference in Paris in May 1960 , and that either China or Russia wants or expects war .
+4
+#7 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#26 agree VERB agree%2:32:00::,agree%2:32:01::
+#39 exist VERB exist%2:42:00::
+#85 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Such a leader must strengthen NATO politically , and establish that true unity about which it has always talked .
+1
+#9 establish VERB establish%2:36:01::,establish%2:41:00::
+After drastically overhauling NATO , Western leadership should turn to reducing the suspicions that tear apart the East and West .
+2
+#2 overhaul VERB overhaul%2:30:00::
+#10 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Major to this effort is to get all world powers to withdraw to their own territories , say by 1970 .
+1
+#6 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+" The West should make the central proposal ; but the East would have to show sincerity in carrying it out " .
+2
+#13 have VERB have%2:42:08::
+#15 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+" But where is the leader who will handle all these things for us " ?
+1
+#8 handle VERB handle%2:41:00::,handle%2:41:03::
+Montgomery knew all the national leaders up to the time of Kennedy .
+1
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+He alone has the wisdom , the conviction , the tenacity , and the courage to reach a decision .
+1
+#16 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+But de Gaulle is buried in the cause of restoring France 's lost soul .
+1
+#4 bury VERB bury%2:39:00::
+Whoever rises to the occasion walks a treacherous path to leadership .
+1
+#5 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+The leader Montgomery envisages will need to discipline himself , lead a carefully regulated and orderly life , allow time for quiet thought and reflection , adapt decisions and plans to changing situations , be ruthless , particularly with inefficiency , and be honest and morally proper .
+3
+#10 lead VERB lead%2:32:00::,lead%2:36:00::
+#18 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#31 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+All in all , Montgomery calls for a leader who will anticipate and dominate the events that surround him .
+1
+#11 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+In looking as far back as Moses , thence to Cromwell , Napoleon , Lincoln , Churchill , and Nehru , Montgomery attempts to trace the stirrings and qualities of great men .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#24 trace VERB trace%2:31:00::,trace%2:38:00::,trace%2:38:03::
+He believes that greatness is a marriage between the man and the times as was aptly represented by Churchill , who would very possibly have gone down in history as a political failure if it had not been for Hitler 's war .
+1
+#1 believe VERB believe%2:31:03::
+Most of what is said about his great men of history has already been said , and what has not is largely irrelevant to the contemporary scene .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Like Eisenhower , he holds the militarist 's suspicion of politicians .
+1
+#4 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+" Monty " shows a remarkable capacity for the direct statement and an equally remarkable incapacity for giving adequate support .
+2
+#3 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#17 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+For the most part , his writing rambles and jogs , preventing easy access by the reader to his true thoughts .
+3
+#7 ramble VERB ramble%2:42:00::
+#9 jog VERB jog%2:38:00::
+#11 prevent VERB prevent%2:41:00::
+Nevertheless , Montgomery has stated courageously and wisely the crisis of the Western world .
+1
+#4 state VERB state%2:32:01::,state%2:32:02::
+It suffers from a lack of unity of purpose and respect for heroic leadership .
+1
+#1 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+And it remains to be seen if the new frontier now taking form can produce the leadership and wisdom necessary to understand the current shape of events .
+3
+#5 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#14 produce VERB produce%2:39:00::
+#21 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+It is no common thing for a listener ( critical or otherwise ) to hear a singer " live " for the first time only after he has died .
+1
+#28 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+But then , Mario Lanza was no common singer , and his whole career , public and non-public , was studded with the kind of unconventional happenings that terminate with the appearance of his first " recital " only when he has ceased to be a living voice .
+1
+#46 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+It is a kind of justice , too , that it should originate in London 's Royal Albert Hall , where , traditionally , the loudest , if not the greatest , performers have entertained the thousands it will accommodate ( RCA Victor LM 2454 , $ 4.98 ) .
+2
+#34 entertain VERB entertain%2:41:00::
+#39 accommodate VERB accommodate%2:42:01::
+To be sure , Lanza made numerous concert tours , here and abroad , but these did not take him to New York where the carping critic might lurk .
+2
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#18 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::

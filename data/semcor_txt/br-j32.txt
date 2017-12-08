@@ -1,0 +1,649 @@
+ The many linguistic techniques for reducing the amount of dictionary information that have been proposed all organize the dictionary 's contents around prefixes , stems , suffixes , etc. .
+5
+#5 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#14 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#16 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#20 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#24 stem NOUN stem%1:10:01::
+A significant reduction in the voume of store information is thus realized , especially for a highly inflected language such as Russian .
+5
+#2 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#7 store NOUN store%1:06:01::,store%1:06:03::,store%1:21:00::
+#11 realize VERB realize%2:36:00::
+#13 especially ADV especially%4:02:00::
+#21 Russian NOUN russian%1:10:00::
+For English the reduction in size is less striking .
+4
+#3 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#5 size NOUN size%1:07:00::,size%1:07:02::
+#7 less ADV less%4:02:00::,less%4:02:01::
+#8 striking ADJ striking%5:00:00:conspicuous:00
+This approach requires that : ( 1 ) each text word be separated into smaller elements to establish a correspondence between the occurrence and dictionary entries , and ( 2 ) the information retrieved from several entries in the dictionary be synthesized into a description of the particular word .
+11
+#1 approach NOUN approach%1:04:02::,approach%1:06:00::
+#9 text NOUN text%1:10:00::
+#10 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#12 separate VERB separate%2:31:01::,separate%2:35:02::,separate%2:41:01::
+#15 element NOUN element%1:06:00::,element%1:09:00::
+#17 establish VERB establish%2:36:01::,establish%2:41:00::
+#19 correspondence NOUN correspondence%1:07:01::
+#36 entry NOUN entry%1:21:00::
+#44 description NOUN description%1:10:00::,description%1:10:01::
+#47 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#48 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+The logical scheme used to accomplish the former influences the placement of information in the dictionary file .
+2
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 file NOUN file%1:10:00::
+Implementation of the latter requires storage of information needed only for synthesis .
+3
+#3 latter ADJ latter%3:00:00::
+#8 need VERB need%2:42:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+We suggest the application of certain data-processing techniques as a solution to the problem .
+4
+#3 application NOUN application%1:04:02::
+#5 certain ADJ certain%5:00:00:definite:00
+#10 solution NOUN solution%1:09:00::,solution%1:10:00::
+#13 problem NOUN problem%1:09:00::,problem%1:26:00::
+But first , we must define two terms so that their meaning will be clearly understood :
+5
+#5 define VERB define%2:32:00::,defined%3:00:00::
+#7 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#8 so CONJ so%4:02:06::
+#11 meaning NOUN meaning%1:09:00::
+#15 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+form - any unique sequence of alphabetic characters that can appear in a language preceded and followed by a space .
+4
+#4 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#10 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#16 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#19 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+occurrence - an instance of a form in text .
+2
+#3 instance NOUN instance%1:09:00::
+#8 text NOUN text%1:10:00::
+We propose a method for selecting only dictionary information required by the text being translated and a means for passing the information directly to the occurrences in text .
+6
+#1 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#12 text NOUN text%1:10:00::
+#14 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+#17 means NOUN means%1:06:00::
+#27 text NOUN text%1:10:00::
+We accomplish this by compiling a list of text forms as text is read by the computer .
+4
+#4 compile VERB compile%2:40:00::
+#6 list NOUN list%1:10:00::
+#8 text NOUN text%1:10:00::
+#11 text NOUN text%1:10:00::
+A random storage scheme , based on the spelling of forms , provides an economical way to compile this text form list .
+6
+#5 base VERB base%2:31:00::
+#8 spelling NOUN spelling%1:10:00::
+#12 provide VERB provide%2:34:00::,provide%2:40:00::
+#17 compile VERB compile%2:40:00::
+#19 text NOUN text%1:10:00::
+#21 list NOUN list%1:10:00::
+Dictionary forms found to match forms in the text list are marked .
+5
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#4 match VERB match%2:30:01::,match%2:35:08::
+#8 text NOUN text%1:10:00::
+#9 list NOUN list%1:10:00::
+#11 mark VERB mark%2:30:00::,mark%2:31:08::,mark%2:39:00::
+A location in the computer store is also named for each marked form ; dictionary information about the form stored at this location can be retrieved directly by occurrences of the form in text .
+5
+#5 store NOUN store%1:06:01::,store%1:06:03::,store%1:21:00::
+#8 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#11 marked ADJ marked%3:00:00::,marked%5:00:00:conspicuous:00
+#15 information NOUN information%1:09:00::,information%1:10:02::
+#33 text NOUN text%1:10:00::
+Finally , information is retrieved from the dictionary as required by stages of the translation process - the grammatic description for sentence-structure determination , equivalent choice information for semantic analysis , and target-language equivalents for output construction .
+6
+#2 information NOUN information%1:09:00::,information%1:10:02::
+#11 stage NOUN stage%1:04:00::,stage%1:26:00::
+#14 translation NOUN translation%1:10:00::
+#19 description NOUN description%1:10:00::,description%1:10:01::
+#26 information NOUN information%1:09:00::,information%1:10:02::
+#35 output NOUN output%1:06:00::
+The dictionary is a form dictionary , at least in the sense that complete forms are used as the basis for matching text occurrences with dictionary entries .
+5
+#11 sense NOUN sense%1:10:00::
+#13 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#21 match VERB match%2:30:01::,match%2:35:08::
+#22 text NOUN text%1:10:00::
+Also , the dictionary is divided into at least two parts :
+2
+#5 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#10 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+the list of dictionary forms and the file of information that pertains to these forms .
+3
+#1 list NOUN list%1:10:00::
+#7 file NOUN file%1:10:00::
+#9 information NOUN information%1:09:00::,information%1:10:02::
+A more detailed description of dictionary operations - text lookup and dictionary modification - give a clearer picture .
+5
+#3 description NOUN description%1:10:00::,description%1:10:01::
+#6 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#8 text NOUN text%1:10:00::
+#9 lookup NOUN lookup%1:22:00::
+#16 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+Text lookup , as we will describe it , consists of three steps .
+4
+#0 text NOUN text%1:10:00::
+#1 lookup NOUN lookup%1:22:00::
+#6 describe VERB describe%2:32:01::
+#12 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+The first is compiling a list of text forms , assigning an information cell to each , and replacing text occurrences with the information cell assigned to the form of each occurrence .
+9
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#5 list NOUN list%1:10:00::
+#7 text NOUN text%1:10:00::
+#12 information NOUN information%1:10:00::,information%1:14:00::
+#13 cell NOUN cell%1:03:00::,cell%1:06:03::
+#19 text NOUN text%1:10:00::
+#23 information NOUN information%1:10:00::,information%1:14:00::
+#24 cell NOUN cell%1:03:00::,cell%1:06:03::
+#25 assign VERB assign%2:31:02::,assign%2:34:00::
+For this step the computer memory is separated into three regions : cells in the W region are used for storage of the forms in the text form list ; cells in the X-region and Y region are reserved as information cells for text forms .
+10
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#5 memory NOUN memory%1:06:00::
+#12 cell NOUN cell%1:03:00::,cell%1:06:03::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#26 text NOUN text%1:10:00::
+#28 list NOUN list%1:10:00::
+#30 cell NOUN cell%1:03:00::,cell%1:06:03::
+#40 information NOUN information%1:10:00::,information%1:14:00::
+#41 cell NOUN cell%1:03:00::,cell%1:06:03::
+#43 text NOUN text%1:10:00::
+When an occurrence * * f is isolated during text reading , a random memory address * * f , the address of a cell in the X-region , is computed from the form of * * f .
+5
+#9 text NOUN text%1:10:00::
+#10 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#15 address NOUN address%1:10:04::,address%1:15:00::
+#21 address NOUN address%1:10:04::,address%1:15:00::
+#24 cell NOUN cell%1:03:00::,cell%1:06:03::
+If cell * * f has not previously been assigned as the information cell of a form in the text form list , it is now assigned as the information cell of * * f .
+11
+#1 cell NOUN cell%1:03:00::,cell%1:06:03::
+#6 not ADV not%4:02:00::
+#9 assign VERB assign%2:31:02::,assign%2:34:00::
+#12 information NOUN information%1:10:00::,information%1:14:00::
+#13 cell NOUN cell%1:03:00::,cell%1:06:03::
+#19 text NOUN text%1:10:00::
+#21 list NOUN list%1:10:00::
+#25 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#26 assign VERB assign%2:31:02::,assign%2:34:00::
+#29 information NOUN information%1:10:00::,information%1:14:00::
+#30 cell NOUN cell%1:03:00::,cell%1:06:03::
+The form itself is stored in the next available cells of the W-region , beginning in cell * * f .
+2
+#9 cell NOUN cell%1:03:00::,cell%1:06:03::
+#14 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The address * * f and the number of cells required to store the form are written in * * f ; the information cell * * f is saved to represent the text occurrence .
+7
+#1 address NOUN address%1:10:04::,address%1:15:00::
+#7 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#16 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#23 information NOUN information%1:10:00::,information%1:14:00::
+#29 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+#31 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#33 text NOUN text%1:10:00::
+Text reading continues with the next occurrence .
+2
+#0 text NOUN text%1:10:00::
+#1 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+Let us assume that * * f is identical to the form of an occurrence * * f which preceded * * f in the text .
+3
+#2 assume VERB assume%2:31:00::
+#8 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#25 text NOUN text%1:10:00::
+When this situation exists , the address * * f will equal * * f which was produced from * * f .
+3
+#3 exist VERB exist%2:42:00::
+#6 address NOUN address%1:10:04::,address%1:15:00::
+#17 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+If * * f was assigned as the information cell for * * f , the routine can detect that * * f is identical to * * f by comparing * * f with the form stored at location * * f .
+4
+#5 assign VERB assign%2:31:02::,assign%2:34:00::
+#8 information NOUN information%1:10:00::,information%1:14:00::
+#24 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#30 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+The address * * f is stored in the cell * * f .
+1
+#1 address NOUN address%1:10:04::,address%1:15:00::
+When , as in this case , the two forms match , the address * * f is saved to represent the occurrence * * f .
+5
+#5 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#10 match VERB match%2:30:01::,match%2:35:08::
+#13 address NOUN address%1:10:04::,address%1:15:00::
+#18 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+#20 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+Text reading continues with the next occurrence .
+2
+#0 text NOUN text%1:10:00::
+#1 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+The formula for computing random addresses from the form of each occurrence will not give a distinct address for each distinct form .
+6
+#5 address NOUN address%1:10:04::,address%1:15:00::
+#13 not ADV not%4:02:00::
+#14 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#16 distinct ADJ distinct%5:00:00:separate:00
+#17 address NOUN address%1:10:04::,address%1:15:00::
+#20 distinct ADJ distinct%5:00:00:separate:00
+Thus , when more than one distinct form leads to a particular cell in the X-region , a chain of information cells must be created to accommodate the forms , one cell in the chain for each form .
+7
+#0 thus ADV thus%4:02:00::
+#6 distinct ADJ distinct%5:00:00:separate:00
+#11 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#18 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#20 information NOUN information%1:10:00::,information%1:14:00::
+#26 accommodate VERB accommodate%2:30:01::
+#34 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+If * * f leads to an address * * f that is equal to the address computed from * * f , even though * * f does not match * * f , the chain of information cells is extended from * * f by storing the address of the next available cell in the Y-region , * * f , in * * f .
+9
+#7 address NOUN address%1:10:04::,address%1:15:00::
+#13 equal ADJ equal%3:00:00::
+#16 address NOUN address%1:10:04::,address%1:15:00::
+#29 not ADV not%4:02:00::
+#30 match VERB match%2:30:01::,match%2:35:08::
+#36 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#38 information NOUN information%1:10:00::,information%1:14:00::
+#41 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#49 address NOUN address%1:10:04::,address%1:15:00::
+The cell * * f becomes the second information cell in the chain and is assigned as the information cell of * * f .
+5
+#5 become VERB become%2:30:00::,become%2:42:01::
+#7 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#8 information NOUN information%1:10:00::,information%1:14:00::
+#12 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#15 assign VERB assign%2:31:02::,assign%2:34:00::
+A third cell can be added by storing the address of another Y-cell in * * f ; similarly , as many cells are added as are required .
+3
+#5 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#9 address NOUN address%1:10:04::,address%1:15:00::
+#24 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Each information cell in the chain contains the address of the Y-cell where the form to which it is assigned is stored .
+4
+#5 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#6 contain VERB contain%2:42:00::,contain%2:42:06::
+#8 address NOUN address%1:10:04::,address%1:15:00::
+#19 assign VERB assign%2:31:02::,assign%2:34:00::
+Each cell except the last in the chain also contains the address of the Y-cell that is the next element of the chain ; the absence of such a link in the last cell indicates the end of the chain .
+10
+#4 last ADJ last%5:00:00:unlikely:00
+#7 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#9 contain VERB contain%2:42:00::,contain%2:42:06::
+#11 address NOUN address%1:10:04::,address%1:15:00::
+#19 element NOUN element%1:06:00::,element%1:09:00::
+#22 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#29 link NOUN link%1:24:00::
+#32 last ADJ last%5:00:00:unlikely:00
+#34 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#39 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+Hence , when the address * * f is computed from * * f , the cell * * f and all Y-cells in its chain must be inspected to determine whether * * f is already in the form list or whether it should be added to the form list and the chain .
+8
+#0 hence ADV hence%4:02:00::
+#4 address NOUN address%1:10:04::,address%1:15:00::
+#25 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+#36 already ADV already%4:02:00::
+#40 list NOUN list%1:10:00::
+#46 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#50 list NOUN list%1:10:00::
+#53 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+When the information cell for * * f has been determined , it is saved as a representation of * * f .
+3
+#10 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#14 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+#17 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+Text reading continues with the next occurrence .
+3
+#0 text NOUN text%1:10:00::
+#1 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#5 next ADJ next%5:00:00:close:01
+Text reading is terminated when a pre-determined number of forms have been stored in the text form list .
+5
+#0 text NOUN text%1:10:00::
+#1 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#7 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 text NOUN text%1:10:00::
+#17 list NOUN list%1:10:00::
+This initiates the second step of glossary lookup - connecting the information cell of forms in the text form list to dictionary forms .
+6
+#1 initiate VERB initiate%2:30:00::
+#3 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#4 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#7 lookup NOUN lookup%1:22:00::
+#17 text NOUN text%1:10:00::
+#19 list NOUN list%1:10:00::
+Each form represented by the dictionary is looked up in the text form list .
+3
+#2 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#11 text NOUN text%1:10:00::
+#13 list NOUN list%1:10:00::
+Each time a dictionary form matches a text form , the information cell of the matching text form is saved .
+6
+#1 time NOUN time%1:11:00::
+#5 match VERB match%2:30:01::,match%2:35:08::
+#7 text NOUN text%1:10:00::
+#15 matching ADJ matched%3:00:00::
+#16 text NOUN text%1:10:00::
+#19 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+The number of dictionary forms skipped since the last one matched is also saved .
+5
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#5 skip VERB skip%2:38:00::
+#8 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#10 match VERB match%2:30:01::,match%2:35:08::
+#13 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+These two pieces of information for each dictionary form that is matched by a text form constitute the table of dictionary usage .
+4
+#11 match VERB match%2:30:01::,match%2:35:08::
+#14 text NOUN text%1:10:00::
+#16 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#18 table NOUN table%1:14:00::
+If each text form is marked when matched with a dictionary form , the text forms not contained in the dictionary can be identified when all dictionary forms have been read .
+8
+#2 text NOUN text%1:10:00::
+#5 mark VERB mark%2:30:00::,mark%2:31:08::,mark%2:39:00::
+#7 match VERB match%2:30:01::,match%2:35:08::
+#14 text NOUN text%1:10:00::
+#16 not ADV not%4:02:00::
+#17 contain VERB contain%2:42:00::,contain%2:42:06::
+#23 identify VERB identify%2:31:00::,identify%2:32:00::
+#30 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+The appropriate action for handling these forms can be taken at that time .
+3
+#2 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#4 handle VERB handle%2:41:00::,handle%2:41:03::
+#9 take VERB take%2:31:02::,take%2:34:00::
+Each dictionary form is looked up in the text form list by the same method used to look up a new text occurrence in the form list during text reading .
+9
+#8 text NOUN text%1:10:00::
+#10 list NOUN list%1:10:00::
+#13 same ADJ same%3:00:00::,same%3:00:02::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#20 new ADJ new%3:00:00::
+#21 text NOUN text%1:10:00::
+#26 list NOUN list%1:10:00::
+#28 text NOUN text%1:10:00::
+#29 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+A random address * * f that lies within the X-region of memory mentioned earlier is computed from the i-th dictionary form .
+5
+#1 random ADJ random%3:00:00::
+#2 address NOUN address%1:10:04::,address%1:15:00::
+#7 lie VERB lie%2:42:03::
+#12 memory NOUN memory%1:06:00::
+#14 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+If cell * * f is an information cell , it and any information cells in the Y-region that have been linked to * * f each contain an address in the W-region where a potentially matching form is stored .
+3
+#27 contain VERB contain%2:42:00::,contain%2:42:06::
+#29 address NOUN address%1:10:04::,address%1:15:00::
+#36 matching ADJ matched%3:00:00::
+The dictionary form is compared with each of these text forms .
+2
+#4 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#9 text NOUN text%1:10:00::
+When a match is found , an entry is made in the table of dictionary usage .
+4
+#2 match NOUN match%1:09:00::
+#4 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#7 entry NOUN entry%1:21:00::
+#12 table NOUN table%1:14:00::
+If cell * * f is not an information cell we conclude that the i-th dictionary form is not in the text list .
+5
+#6 not ADV not%4:02:00::
+#11 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#18 not ADV not%4:02:00::
+#21 text NOUN text%1:10:00::
+#22 list NOUN list%1:10:00::
+These two steps essentially complete the lookup operation .
+4
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#4 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#6 lookup NOUN lookup%1:22:00::
+#7 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+The final step merely uses the table of dictionary usage to select the dictionary information that pertains to each form matched in the text form list , and uses the list of information cells recorded in text order to attach the appropriate information to each occurrence in text .
+13
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 table NOUN table%1:14:00::
+#20 match VERB match%2:30:01::,match%2:35:08::
+#23 text NOUN text%1:10:00::
+#25 list NOUN list%1:10:00::
+#28 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#30 list NOUN list%1:10:00::
+#34 record VERB record%2:32:00::,record%2:32:03::
+#36 text NOUN text%1:10:00::
+#37 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#39 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#47 text NOUN text%1:10:00::
+The list of text forms in the W-region of memory and the contents of the information cells in the X and Y-regions are no longer required .
+3
+#1 list NOUN list%1:10:00::
+#3 text NOUN text%1:10:00::
+#9 memory NOUN memory%1:06:00::
+Only the assignment of the information cells is important .
+2
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 assignment NOUN assignment%1:04:02::
+The first stage of translation after glossary lookup is structural analysis of the input text .
+6
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 stage NOUN stage%1:04:00::,stage%1:26:00::
+#4 translation NOUN translation%1:10:00::
+#7 lookup NOUN lookup%1:22:00::
+#13 input NOUN input%1:10:00::
+#14 text NOUN text%1:10:00::
+The grammatical description of each occurrence in the text must be retrieved from the dictionary to permit such an analysis .
+2
+#2 description NOUN description%1:10:00::,description%1:10:01::
+#8 text NOUN text%1:10:00::
+A description of this process will serve to illustrate how any type of information can be retrieved from the dictionary and attached to each text occurrence .
+5
+#1 description NOUN description%1:10:00::,description%1:10:01::
+#4 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#6 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#11 type NOUN type%1:18:00::
+#24 text NOUN text%1:10:00::
+The grammatic descriptions of all forms in the dictionary are recorded in a separate part of the dictionary file .
+3
+#2 description NOUN description%1:10:00::,description%1:10:01::
+#10 record VERB record%2:32:00::,record%2:32:03::
+#18 file NOUN file%1:10:00::
+The order is identical to the ordering of the forms they describe .
+3
+#1 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#3 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#11 describe VERB describe%2:32:01::
+When entries are being retrieved from this file , the table of dictionary usage indicates which entries to skip and which entries to store in the computer .
+6
+#1 entry NOUN entry%1:21:00::
+#7 file NOUN file%1:10:00::
+#10 table NOUN table%1:14:00::
+#16 entry NOUN entry%1:21:00::
+#18 skip VERB skip%2:38:00::
+#21 entry NOUN entry%1:21:00::
+This selection rejection process takes place as the file is read .
+4
+#1 selection NOUN selection%1:22:00::
+#3 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#8 file NOUN file%1:10:00::
+#10 read VERB read%2:31:06::
+Each entry that is selected for storage is written into the next available cells of the W-region .
+3
+#1 entry NOUN entry%1:21:00::
+#8 write VERB write%2:32:03::
+#11 next ADJ next%5:00:00:close:01
+The address of the first cell and the number of cells used is written in the information cell for the form .
+5
+#1 address NOUN address%1:10:04::,address%1:15:00::
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#8 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 write VERB write%2:32:03::
+( The address of the information cell is also supplied by the table of dictionary usage . )
+2
+#2 address NOUN address%1:10:04::,address%1:15:00::
+#12 table NOUN table%1:14:00::
+When the complete file has been read , the grammatic descriptions for all text forms found in the dictionary have been stored in the W-region ; the information cell assigned to each text form contains the address of the grammatic description of the form it represents .
+11
+#2 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#3 file NOUN file%1:10:00::
+#6 read VERB read%2:31:06::
+#10 description NOUN description%1:10:00::,description%1:10:01::
+#13 text NOUN text%1:10:00::
+#29 assign VERB assign%2:31:02::,assign%2:34:00::
+#32 text NOUN text%1:10:00::
+#34 contain VERB contain%2:42:00::,contain%2:42:06::
+#36 address NOUN address%1:10:04::,address%1:15:00::
+#40 description NOUN description%1:10:00::,description%1:10:01::
+#45 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+Hence , the description of each text occurrence can be retrieved by reading the list of text ordered information cell addresses and outputting the description indicated by the information cell for each occurrence .
+9
+#0 hence ADV hence%4:02:00::
+#3 description NOUN description%1:10:00::,description%1:10:01::
+#6 text NOUN text%1:10:00::
+#12 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#14 list NOUN list%1:10:00::
+#16 text NOUN text%1:10:00::
+#20 address NOUN address%1:10:04::,address%1:15:00::
+#24 description NOUN description%1:10:00::,description%1:10:01::
+#25 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+The only requirements on dictionary information made by the text lookup operation are that each form represented by the dictionary be available for lookup in the text form list and that information for each form be available in a sequence identical with the sequence of the forms .
+10
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 text NOUN text%1:10:00::
+#10 lookup NOUN lookup%1:22:00::
+#11 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#23 lookup NOUN lookup%1:22:00::
+#26 text NOUN text%1:10:00::
+#28 list NOUN list%1:10:00::
+#39 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#40 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#43 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+This leaves the ordering of entries variable .
+3
+#1 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#5 entry NOUN entry%1:21:00::
+#6 variable ADJ variable%3:00:00::
+( Here an entry is a form plus the information that pertains to it . )
+2
+#1 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#3 entry NOUN entry%1:21:00::
+Two very useful ways for modifying a form dictionary are the addition to the dictionary of complete paradigms rather than single forms and the application of a single change to more than one dictionary form .
+9
+#3 way NOUN way%1:04:00::,way%1:09:00::
+#11 addition NOUN addition%1:23:00::
+#16 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#18 rather ADV rather%4:02:02::
+#20 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#24 application NOUN application%1:04:02::
+#27 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#28 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#34 form NOUN form%1:09:01::,form%1:10:00::
+The former is intended to decrease the amount of work necessary to extend dictionary coverage .
+5
+#1 former ADJ former%3:00:00::
+#3 intend VERB intend%2:31:01::,intend%2:32:00::
+#9 work NOUN work%1:04:00::,work%1:06:01::
+#10 necessary ADJ necessary%3:00:00::
+#12 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+The latter is useful for modifying information about some or all forms of a word , hence reducing the work required to improve dictionary contents .
+6
+#1 latter ADJ latter%3:00:00::
+#11 form NOUN form%1:09:01::,form%1:10:00::
+#14 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#16 hence ADV hence%4:02:00::
+#17 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#19 work NOUN work%1:04:00::,work%1:06:01::
+Applying the techniques developed at Harvard for generating a paradigm from a representative form and its classification , we can add all forms of a word to the dictionary at once .
+6
+#0 apply VERB apply%2:34:00::
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#12 representative ADJ representative%5:00:00:democratic:00
+#13 form NOUN form%1:09:01::,form%1:10:00::
+#22 form NOUN form%1:09:01::,form%1:10:00::
+#25 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+An extension of the principle would permit entering a grammatic description of each form .
+4
+#1 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#7 enter VERB enter%2:32:04::,enter%2:41:06::
+#10 description NOUN description%1:10:00::,description%1:10:01::
+#13 form NOUN form%1:09:01::,form%1:10:00::
+Equivalents could be assigned to the paradigm either at the time it is added to the dictionary or after the word has been studied in context .
+4
+#3 assign VERB assign%2:31:02::,assign%2:34:00::
+#10 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#20 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#23 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+Thus , one can think of a dictionary entry as a word rather than a form .
+4
+#0 thus ADV thus%4:02:00::
+#11 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#12 rather ADV rather%4:02:02::
+#15 form NOUN form%1:09:01::,form%1:10:00::
+If all forms of a paradigm are grouped together within the dictionary , a considerable reduction in the amount of information required is possible .
+4
+#2 form NOUN form%1:09:01::,form%1:10:00::
+#8 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#15 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#20 information NOUN information%1:09:00::,information%1:10:02::
+For example , the inflected forms of a word can be represented , insofar as regular inflection allows , by a stem and a set of endings to be attached .
+8
+#5 form NOUN form%1:09:01::,form%1:10:00::
+#8 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#15 regular ADJ regular%5:00:00:frequent:00,regular%5:00:00:normal:01
+#16 inflection NOUN inflection%1:24:00::
+#17 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#21 stem NOUN stem%1:10:01::
+#24 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#29 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+( Indeed , the set of endings can be replaced by the name of a set of endings . )
+5
+#1 indeed ADV indeed%4:02:03::
+#4 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#9 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#12 name NOUN name%1:14:00::
+#15 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+The full forms can be derived from such information just prior to the lookup of the form in the text form list .
+8
+#1 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#2 form NOUN form%1:09:01::,form%1:10:00::
+#8 information NOUN information%1:09:00::,information%1:10:02::
+#13 lookup NOUN lookup%1:22:00::
+#16 form NOUN form%1:09:01::,form%1:10:00::
+#19 text NOUN text%1:10:00::
+#20 form NOUN form%1:09:01::,form%1:10:00::
+#21 list NOUN list%1:10:00::
+Similarly , if the equivalents for the forms of a word do not vary , the equivalents need be entered only once with an indication that they apply to each form .
+8
+#7 form NOUN form%1:09:01::,form%1:10:00::
+#10 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#12 not ADV not%4:02:00::
+#19 enter VERB enter%2:32:04::,enter%2:41:06::
+#20 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#21 once ADV once%4:02:00::
+#27 apply VERB apply%2:42:00::
+#30 form NOUN form%1:09:01::,form%1:10:00::
+The dictionary system is in no way dependent upon such summarization or designed around it .
+2
+#2 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#7 dependent ADJ dependent%5:00:00:conditional:00
+When irregularity and variation prevent summarizing , information is written in complete detail .
+5
+#3 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#4 prevent VERB prevent%2:41:00::
+#7 information NOUN information%1:09:00::,information%1:10:02::
+#11 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#12 detail NOUN detail%1:10:00::,detail%1:24:00::
+Entries are summarized only when by doing so the amount of information retained in the dictionary is reduced and the time required for dictionary operations is decreased .
+5
+#0 entry NOUN entry%1:21:00::
+#7 so ADV so%4:02:04::
+#11 information NOUN information%1:09:00::,information%1:10:02::
+#17 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#24 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::

@@ -1,0 +1,173 @@
+These are defined by a simple involutorial transformation of the points in which a general line meets a nonsingular quadric surface bearing a curve of symbol * * f .
+2
+#2 define VERB define%2:42:00::,define%2:42:03::
+#16 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Then in 2 we show that any line involution with the properties that ( a ) It has no complex of invariant lines , and ( b ) Its singular lines form a complex consisting exclusively of the lines which meet a twisted curve , is necessarily of the type discussed in 1 .
+3
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#31 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#40 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+No generalization of these results to spaces of more than three dimensions has so far been found possible .
+1
+#16 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+A general line l meets Q in two points , * * f and * * f , through each of which passes a unique generator of the regulus , * * f , whose lines are simple secants of \ g .
+2
+#4 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#22 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+On these generators let * * f and * * f be , respectively , the harmonic conjugates of * * f and * * f with respect to the two points in which the corresponding generator meets \ g .
+1
+#37 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+We observe first that no line , l , can meet its image except at one of its intersections with Q .
+2
+#1 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#10 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+For if it did , the plane of l and l ' would contain two generators of * * f , which is impossible .
+1
+#13 contain VERB contain%2:42:00::,contain%2:42:06::
+Moreover , from the definitive transformation of intercepts on the generators of * * f , it is clear that the only points of Q at which a line can meets its image are the points of \ g .
+1
+#30 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Hence the totality of singular lines is the kth order complex of lines which meet \ g .
+1
+#14 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The invariant lines are the lines of the congruence of secants of \ g , since each of these meets Q in two points which are invariant .
+1
+#19 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The order of this congruence is * * f , since * * f secants of a curve of symbol ( a , b ) on a quadric surface pass through an arbitrary point .
+1
+#29 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+The class of the congruence is * * f , since an arbitrary plane meets \ g in k points .
+1
+#14 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+It is interesting that a 1 : 1 correspondence can be established between the lines of two such pencils , so that in a sense a unique image can actually be assigned to each tangent .
+2
+#11 establish VERB establish%2:36:01::,establish%2:41:00::
+#31 assign VERB assign%2:31:02::,assign%2:34:00::
+For the lines of any plane , | p , meeting Q in a conic C , are transformed into the congruence of secants of the curve C ' into which C is transformed in the point involution on Q .
+1
+#10 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Moreover , if * * f and * * f are two planes intersecting in a line l , tangent to Q at a point P , the two free intersections of the image curves * * f and * * f must coincide at P ' , the image of P , and at this point * * f and * * f must have a common tangent l ' .
+1
+#65 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Hence , thought of as a line in a particular plane | p , any tangent to Q has a unique image and moreover this image is the same for all planes through l .
+1
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This curve is of symbol * * f since it meets | l , and hence every line of * * f in the * * f invariant points on | l and since it obviously meets every line of * * f in a single point .
+2
+#10 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#36 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+A final class of exceptional lines is identifiable from the following considerations : Since no two generators of * * f can intersect , it follows that their image curves can have no free intersections .
+1
+#31 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In other words , these curves have only fixed intersections common to them all .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Now the only way in which all curves of the image family of * * f can pass through a fixed point is to have a generator of * * f which is not a secant but a tangent of \ g , for then any point on such a generator will be transformed into the point of tangency .
+1
+#17 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Clearly , any line , l , of any bundle having one of these points of tangency , T , as vertex will be transformed into the entire pencil having the image of the second intersection of l and Q as vertex and lying in the plane determined by the image point and the generator of * * f which is tangent to \ g at T .
+2
+#43 lie VERB lie%2:42:03::
+#47 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+A conic , C , being a ( 1 , 1 ) curve on Q , meets the image of any line of * * f , which we have already found to be a * * f curve on Q , in * * f points .
+2
+#16 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#31 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+Hence its image , C ' , meets any line of * * f in * * f points .
+1
+#7 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Moreover , C ' obviously meets any line * * f in a single point .
+1
+#5 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The preceding observations make it clear that there exist line involutions of all orders greater than 1 with no complex of invariant lines and with a complex of singular lines consisting exclusively of the lines which meet a twisted curve \ g .
+3
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 exist VERB exist%2:42:00::
+#36 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+We now shall show that any involution with these characteristics is necessarily of the type we have just described .
+1
+#18 describe VERB describe%2:32:01::
+To do this we must first show that every line which meets \ g in a point P meets its image at P .
+2
+#11 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#18 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+To see this , consider a general pencil of lines containing a general secant of \ G .
+2
+#1 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#10 contain VERB contain%2:42:00::,contain%2:42:06::
+By ( 1 ) , the image of this pencil is a ruled surface of order * * f which is met by the plane of the pencil in a curve , C , of order * * f .
+1
+#21 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+On C there is a * * f correspondence in which the * * f points cut from C by a general line , l , of the pencil correspond to the point of intersection of the image of l and the plane of the pencil .
+1
+#29 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+Since C is rational , this correspondence has k coincidences , each of which implies a line of the pencil which meets its image .
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+However , since the pencil contains a secant of \ g it actually contains only * * f singular lines .
+2
+#5 contain VERB contain%2:42:00::,contain%2:42:06::
+#13 contain VERB contain%2:42:00::,contain%2:42:06::
+To avoid this contradiction it is necessary that C be composite , with the secant of \ g and a curve of order * * f as components .
+1
+#1 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+But if this is the case , then an arbitrary pencil of lines having a point , P , of \ g as vertex is transformed into a ruled surface of order * * f having * * f generators concurrent at P .
+1
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Since a ruled surface of order n with n concurrent generators is necessarily a cone , it follows finally that every line through a point , P , of \ g meets its image at P , as asserted .
+2
+#17 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#31 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Moreover , in this involution there is a cone of invariant lines of order * * f , namely the cone of secants of \ g which pass through P .
+1
+#27 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Hence it follows that the involution within the bundle must be a perspective de Jonquieres involution of order * * f and the invariant locus must have a multiple line of multiplicity either * * f or * * f .
+2
+#2 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The first possibility requires that there be a line through P which meets \ g in * * f points ; the second requires that there be a line through P which meets \ g in * * f points .
+2
+#12 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#32 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+In each case , lines of the bundles are transformed by involutions within the pencils they determine with the multiple secant .
+1
+#16 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+In the first case the fixed elements within each pencil are the multiple secant and the line joining the vertex , P , to the intersection of \ g and the plane of the pencil which does not lie on the multiple secant .
+1
+#38 lie VERB lie%2:42:03::
+In the second , the fixed elements are the lines which join the vertex , P , to the two intersections of \ g and the plane of the pencil which do not lie on the multiple secant .
+1
+#33 lie VERB lie%2:42:03::
+Hence \ g must have either a regulus of * * f-fold secants or a regulus of * * f-fold secants .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+For if such were the case , either the plane of the two lines would meet \ g in more than k points or , alternatively , the order of the image regulus of the pencil determined by the two lines would be too high .
+2
+#15 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#36 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+We now observe that the case in which \ g is a * * f curve on a quadric is impossible if the complex of singular lines consists exclusively of the lines which meet \ g .
+2
+#2 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#33 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+For any pencil in a plane containing a * * f-fold secant of \ g has an image regulus which meets the plane of the pencil in * * f lines , namely the images of the lines of the pencil which pass through the intersection of \ g and the multiple secant , plus an additional component to account for the intersections of the images of the general lines of the pencil .
+4
+#6 contain VERB contain%2:42:00::,contain%2:42:06::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#42 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Continuing with the case in which \ g is a * * f curve on a quadric Q , we first observe that the second regulus of Q consists precisely of the lines which join the two free intersections of \ g and the planes through any one of the multiple secants .
+1
+#21 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+For each of these lines meets Q in three points , namely two points on \ g and one point on one of the multiple secants .
+1
+#5 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Now consider an arbitrary line , l , meeting Q in two points , * * f and * * f .
+1
+#8 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+If | a is the multiple secant of \ g which passes through * * f and | b is the simple secant of \ g which passes through * * f , and if * * f are the points in which | a meets \ g , and if * * f is the image of * * f on the generator | b , it follows that the image of the line * * f is * * f .
+4
+#11 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#27 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#45 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#68 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::

@@ -1,0 +1,459 @@
+ Directions are written for those who have had previous experience in making pottery .
+3
+#2 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#7 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Instructions for preparing clay , drying , glazing and firing are not given .
+4
+#2 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#5 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#7 glaze VERB glaze%2:35:00::
+#9 fire VERB fire%2:30:00::
+Glazes , one-stroke ceramic colors , stains , cones as indicated in the individual instructions .
+1
+#10 indicate VERB indicate%2:32:00::
+Use well-wedged clay , free of air bubbles and pliable enough to bend without cracking .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 crack VERB crack%2:30:02::
+The size of wooden mold will determine the amount of clay needed .
+1
+#6 determine VERB determine%2:31:02::,determine%2:32:03::
+Roll clay to thickness indicated in individual instructions .
+2
+#0 roll VERB roll%2:30:10::,roll%2:35:05::,roll%2:38:11::
+#4 indicate VERB indicate%2:32:00::
+Whenever possible , use the wooden mold as a pattern for cutting clay .
+1
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+When mold has more than one design cavity , make individual paper patterns .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Place mold or paper pattern on rolled clay and cut clay by holding knife in vertical position ( cut more pieces than required for project to make allowance for defects ; experiment with defects for decoration techniques of glazes and colors ) .
+2
+#0 place VERB place%2:31:13::
+#12 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+Place the cut clay piece loosely over the carved cavity design side of wooden mold .
+1
+#0 place VERB place%2:31:13::
+To obtain clear impression of mold , press clay gently but firmly into mold cavity , starting at center and working to outer edges .
+3
+#1 obtain VERB obtain%2:40:00::
+#16 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#20 work VERB work%2:36:00::,work%2:39:10::,work%2:42:10::
+Trim excess clay away from outer edges .
+1
+#0 trim VERB trim%2:35:03::
+Check thickness of clay and build up thin areas by moistening surface with a little water and adding small pieces of clay .
+2
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#17 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Allow project to stand for about five minutes ( if wooden press mold is a good antique , do not leave clay in too long as the dampness may cause mold to crack ) .
+4
+#0 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#3 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#20 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#32 crack VERB crack%2:30:02::
+To release clay from mold , place hands in a cupped position around project ; gently lift the edge on far side , then continue to release edge completely around mold .
+5
+#1 release VERB release%2:35:00::,release%2:41:00::
+#6 place VERB place%2:31:13::
+#16 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#24 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#26 release VERB release%2:35:00::,release%2:41:00::
+Slight tapping on the underside of mold will help release the clay , but too much agitation will cause the clay to become soft and will interfere with removal of clay from mold .
+4
+#8 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#9 release VERB release%2:35:00::,release%2:41:00::
+#22 become VERB become%2:30:00::,become%2:42:01::
+#26 interfere VERB interfere%2:41:00::
+Place a piece of plaster wall board or plaster bat on clay and reverse bat , clay and mold in one action .
+1
+#0 place VERB place%2:31:13::
+This will prevent the clay from twisting or bending , causing warping when fired .
+3
+#2 prevent VERB prevent%2:41:00::
+#6 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#13 fire VERB fire%2:30:00::
+Place project on table and carefully lift the mold off .
+2
+#0 place VERB place%2:31:13::
+#6 lift VERB lift%2:35:00::
+Study surface of clay for defects or desired corrections .
+1
+#0 study VERB study%2:31:00::
+If clay is slightly out of shape , square straight sides with guide sticks or rulers pressed against opposite sides , or smooth round pieces with damp fingers .
+1
+#8 square VERB square%2:30:00::
+Make slight , smooth grooves rather than cuts for the texture ( cuts could cause air pockets under the glaze creating pinholes or craters in the glaze during firing ) .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Leave the clay on plaster board to dry slowly , covered lightly with a loose piece of plastic or cloth to prevent warping .
+4
+#0 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#7 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#10 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#21 prevent VERB prevent%2:41:00::
+( opposite page , right top ) : Stoneware clay was used .
+1
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Clay was rolled to 1 4 " thickness .
+1
+#2 roll VERB roll%2:30:10::,roll%2:35:05::,roll%2:38:11::
+Back of clay scored or roughened for proper gripping surface .
+1
+#3 score VERB score%2:32:00::
+glazed with two coats of Creek-Turn white stoneware glaze ( no glaze on sides or bottom ) .
+1
+#0 glaze VERB glaze%2:35:00::
+Decorated on unfired glaze with one coat of one-stroke ceramic colors ; raised details of designs were colored in shades of yellow-green , blue-green , brown and pink .
+1
+#17 color VERB color%2:36:01::
+Tiles were fired once to cone 05 .
+1
+#2 fire VERB fire%2:30:00::
+( opposite page , bottom ) : White clay was used , rolled to 1 4 " thickness .
+2
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 roll VERB roll%2:30:10::,roll%2:35:05::,roll%2:38:11::
+Bisque fired to cone 05 .
+1
+#1 fire VERB fire%2:30:00::
+Stained with Jacquelyn 's ceramic unfired stain , polished , following manufacturer 's directions .
+2
+#0 stain VERB stain%2:30:01::
+#10 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+Opaque cantaloupe and transparent wood brown were used .
+1
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+( opposite page , top left ) : Red clay was used , rolled 1 2 " thick .
+2
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 roll VERB roll%2:30:10::,roll%2:35:05::,roll%2:38:11::
+Mold was used as pattern and clay cut by holding knife at about 45 ` angle , to form an undercut , making base smaller than the pattern top .
+4
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#18 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+While clay is still pressed in mold , press three equally spaced holes 1 4 " deep , using pencil eraser , in bottom of clay to allow for proper drying and firing .
+1
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Paperweight may be personalized on back while clay is leather hard .
+1
+#3 personalize VERB personalise%2:30:00::
+Bisque fired to cone 05 .
+1
+#1 fire VERB fire%2:30:00::
+( opposite page , top left ) : Remove wooden design head from bowl of butter mold .
+1
+#8 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+Make paper patterns for sections of jar and lid ( see Fig. 1 , opposite page ) .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Measurements for rectangular pattern piece A are obtained by measuring inside circumference and depth of butter mold bowl .
+2
+#7 obtain VERB obtain%2:40:00::
+#9 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+Use wooden design head of mold for pattern C ; pattern D for lid fits over top diameter of A .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 fit VERB fit%2:30:02::,fit%2:40:00::
+Pattern for inner lid piece E fits inside A .
+1
+#6 fit VERB fit%2:42:02::,fit%2:42:03::,fit%2:42:04::
+Jars are assembled in bowl of butter mold .
+1
+#2 assemble VERB assemble%2:36:00::
+Use white or buff clay , rolled to 3 16 " thickness .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 roll VERB roll%2:30:10::,roll%2:35:05::,roll%2:38:11::
+Place patterns on rolled clay and cut around them with knife in vertical position .
+1
+#0 place VERB place%2:31:13::
+Place clay pieces on wall board .
+1
+#0 place VERB place%2:31:13::
+To assemble jar , put paper pattern B for base in bottom of mold and clay disk B on top .
+2
+#1 assemble VERB assemble%2:36:00::
+#4 put VERB put%2:35:00::,put%2:35:05::
+Line sides of mold with paper pattern A .
+1
+#0 line VERB line%2:30:01::
+Bevel and score ends of clay piece A so that they overlap about 1 2 " and make even thickness .
+1
+#2 score VERB score%2:32:00::
+Place clay piece A inside ; use slip to join overlapped ends together .
+2
+#0 place VERB place%2:31:13::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Join B to bottom of A , scoring and reinforcing with clay coil .
+1
+#7 score VERB score%2:32:00::
+Trim excess clay from around lip of mold and set aside while assembling lid .
+3
+#0 trim VERB trim%2:35:03::
+#9 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#12 assemble VERB assemble%2:36:00::
+To assemble lid , press clay piece C in cavity of wooden design head .
+1
+#1 assemble VERB assemble%2:36:00::
+Press clay into mold as instructed in General Directions .
+1
+#5 instruct VERB instruct%2:32:01::,instruct%2:32:02::
+Score plain side of C and leave in mold .
+2
+#0 score VERB score%2:32:00::
+#6 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Score one side of disk D , join to C ; score other side of D and one side of disk E and join as before .
+2
+#0 score VERB score%2:32:00::
+#11 score VERB score%2:32:00::
+While assembled lid is still on design head , gently but firmly press it on plaster board .
+1
+#12 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+If design head has a deep cavity , clay lid will be quite thick at this point ; press eraser of pencil gently 1 4 " deep into deep clay to allow vent for proper drying and firing .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+Check fit of lid on jar ; if inner lid is too big , trim to fit , allowing room for thickness of glaze .
+3
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#14 trim VERB trim%2:35:03::
+#16 fit VERB fit%2:42:02::,fit%2:42:03::,fit%2:42:04::
+Remove lid from head of mold .
+1
+#0 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+Remove jar from mold .
+1
+#0 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+Place jar on plaster board with lid in place to dry slowly .
+2
+#0 place VERB place%2:31:13::
+#10 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+Bisque fire to cone 08 with lid on jar .
+1
+#1 fire VERB fire%2:30:00::
+For an antique effect on jars , brush Creek-Turn brown toner on bisque ware and sponge it off .
+2
+#7 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#15 sponge VERB sponge%2:35:00::
+Glaze with two coats of clear or transparent matt glaze .
+1
+#0 glaze VERB glaze%2:35:00::
+The large jar was brushed with Creek-Turn green toner and sponged off .
+1
+#4 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+Glaze with two coats of matt glazes in turquoise with touches of blossom pink on lid .
+1
+#0 glaze VERB glaze%2:35:00::
+When dry they were fired to cone 06 - 05 .
+1
+#4 fire VERB fire%2:30:00::
+( Made from modern wooden molds * * f . )
+1
+#1 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Roll white clay to 3 16 " thickness .
+1
+#0 roll VERB roll%2:30:10::,roll%2:35:05::,roll%2:38:11::
+Use mold to cut four side pieces .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#3 cut VERB cut%2:29:00::,cut%2:30:06::,cut%2:30:14::,cut%2:35:00::,cut%2:36:11::,cut%2:41:13::
+For top and bottom pieces , use short end of mold as measurement guide .
+1
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Trim excess clay from rim of mold .
+1
+#0 trim VERB trim%2:35:03::
+Score beveled edges and remove pieces from mold ; place design-side up on plaster board .
+3
+#0 score VERB score%2:32:00::
+#4 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#9 place VERB place%2:31:13::
+Make all four sides .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Cut clay top and base pieces ; place on plaster board .
+2
+#0 cut VERB cut%2:29:00::,cut%2:30:06::,cut%2:30:14::,cut%2:35:00::,cut%2:36:11::,cut%2:41:13::
+#7 place VERB place%2:31:13::
+Allow all pieces to become leather hard before constructing shaker .
+2
+#0 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#4 become VERB become%2:30:00::,become%2:42:01::
+Construct sides , bottom and top as for box , using slip on scored edges and coils of clay to reinforce seams .
+1
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Join the four sides together first , then add the base ; add top last .
+2
+#8 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#12 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Use water on finger to smooth seams and edges .
+1
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Turn shaker upside down .
+1
+#0 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+Add holes in top , forming " S " for salt and " P " for pepper .
+1
+#0 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Set aside to dry thoroughly .
+1
+#3 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+Cut a strip of clay for sides long enough and wide enough for three impressions of mold design .
+1
+#0 cut VERB cut%2:29:00::,cut%2:30:06::,cut%2:30:14::,cut%2:35:00::,cut%2:36:11::,cut%2:41:13::
+Press clay into cavity of one mold three times ; bevel overlapping ends for splice joint , score beveled edges .
+1
+#17 score VERB score%2:32:00::
+Form clay strip into a cylinder ; use slip to join scored ends .
+1
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Place cylinder on a disk of clay slightly larger than cylinder .
+1
+#0 place VERB place%2:31:13::
+Score bottom edge of cylinder and join to disk with slip .
+1
+#0 score VERB score%2:32:00::
+Trim away excess clay ; reinforce seam with a coil of clay .
+1
+#0 trim VERB trim%2:35:03::
+This will form the sugar bowl .
+1
+#2 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+Make creamer the same .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+To add handle , place a wooden dowel against the inside wall of creamer .
+2
+#1 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#4 place VERB place%2:31:13::
+Score outside of container where handle ends will be joined .
+1
+#0 score VERB score%2:32:00::
+Bend handle ; press scored handle ends firmly in place using dowel to reinforce container while pressing ; use slip to join .
+4
+#3 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+To form spout , between two designs , dampen area slightly and gently push clay outward .
+2
+#8 dampen VERB dampen%2:30:01::
+#13 push VERB push%2:32:01::,push%2:38:00::
+Make lid for sugar bowl the same as jar lids , omitting design disk .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Set aside to dry with lid on sugar bowl .
+1
+#3 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+Make same as salt and pepper shakers , leaving off top pieces .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Vases may be made into candles by filling with melted wax and a wick .
+1
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Cut a piece of clay for base and two for sides each about * * f ( long enough for three impressions of mold ) .
+1
+#0 cut VERB cut%2:29:00::,cut%2:30:06::,cut%2:30:14::,cut%2:35:00::,cut%2:36:11::,cut%2:41:13::
+Press the two sides into cavity of one mold three times .
+1
+#0 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+Put cut pieces on plaster board to dry to firm leather-hard state .
+3
+#0 put VERB put%2:35:00::,put%2:35:05::
+#1 cut VERB cut%2:29:00::,cut%2:30:06::,cut%2:30:14::,cut%2:35:00::,cut%2:36:11::,cut%2:41:13::
+#7 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+Score side edges of base ; join sides and base with slip and reinforce with coil .
+1
+#0 score VERB score%2:32:00::
+A cardboard pattern cut to fit inside holder will help to prevent warping .
+4
+#3 cut VERB cut%2:29:00::,cut%2:30:06::,cut%2:30:14::,cut%2:35:00::,cut%2:36:11::,cut%2:41:13::
+#5 fit VERB fit%2:42:02::,fit%2:42:03::,fit%2:42:04::
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#11 prevent VERB prevent%2:41:00::
+Place pattern inside holder ; use three strips of clay to hold in place ( see Fig. 2 , page 71 ) .
+2
+#0 place VERB place%2:31:13::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Do not use wood as it will not shrink with the clay and would cause breakage .
+2
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 shrink VERB shrink%2:30:00::
+Let all projects dry slowly for several days .
+1
+#3 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+Bisque fire to cone 08 .
+1
+#1 fire VERB fire%2:30:00::
+Inside of pieces was glazed with three coats of Creek-Turn bottle green antique glaze .
+1
+#4 glaze VERB glaze%2:35:00::
+Outside was finished with Creek-Turn brown toner brushed on and sponged off to give antique finish .
+2
+#2 finish VERB finish%2:35:00::,finish%2:42:00::
+#13 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Fired to cone 06 - 05 .
+1
+#0 fire VERB fire%2:30:00::
+When changing from one color to another , whether working on right or wrong side , pick up the new strand from underneath dropped strand .
+2
+#1 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+#23 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+Photograph shows the wrong side of work with light strand being picked up under dark strand in position to be purled .
+2
+#1 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#20 purl VERB purl%2:36:02::
+Spread article on flat surface to required width before measuring length at center .
+2
+#0 spread VERB spread%2:35:03::,spread%5:00:00:distributed:00
+#9 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+Mark row on which first stitches have been bound off for armhole by drawing a contrasting colored thread through it .
+1
+#13 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+Place work on a flat surface and smooth out .
+1
+#0 place VERB place%2:31:13::
+Measure straight up from marked row .
+1
+#0 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+When directions read " sl a marker on needle " , put a small safety pin , paper clip , or commercial ring marker on needle .
+1
+#11 put VERB put%2:35:00::,put%2:35:05::
+In working , always slip marker from one needle to another .
+2
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#4 slip VERB slip%2:30:03::,slip%2:31:00::,slip%2:31:01::,slip%2:38:01::
+To mark a row or stitch , tie contrasting thread around end of row or stitch to be marked .
+1
+#7 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+Pin right sides of pieces together , keeping edges even and matching rows or patterns .
+2
+#7 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#11 match VERB match%2:30:01::,match%2:35:08::
+Thread matching yarn in tapestry needle .
+1
+#0 thread VERB thread%2:35:00::
+Do not draw yarn too tight .
+1
+#2 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+Place sleeve seam at center underarm and center of sleeve cap at shoulder seam .
+1
+#0 place VERB place%2:31:13::
+Ease in any extra fullness evenly around .
+1
+#0 ease VERB ease%2:38:00::
+Straight vertical edges , such as those at the back seam of a sock , can be woven together invisibly .
+1
+#17 weave VERB weave%2:36:00::
+Thread matching yarn in tapestry needle .
+1
+#0 thread VERB thread%2:35:00::
+Hold edges together , right side up .
+1
+#0 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::

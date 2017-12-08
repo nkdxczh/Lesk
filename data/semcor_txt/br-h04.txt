@@ -1,0 +1,243 @@
+The state presently owns 389 passenger vehicles in comparison to approximately 200 in 1940 .
+1
+#3 own VERB owned%3:00:00::
+The automobile maintenance unit , or motor pool , came into existence in 1942 and has been responsible for centralized maintenance and management of state-owned transportation since that time .
+1
+#9 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+The motor pool has made exceptional progress in automotive management including establishment of cost billing systems , records keeping , analyses of vehicle use , and effecting economies in vehicle operation .
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 include VERB include%2:31:00::,include%2:41:03::
+Cars were operated in 1959 for an average .027 per mile .
+1
+#2 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+Purchase of state vehicles is handled similarly to all state purchases .
+1
+#5 handle VERB handle%2:41:00::,handle%2:41:03::
+The legislature 's role in policy determination concerning state-owned vehicles has been confined almost exclusively to appropriating funds for vehicles .
+1
+#16 appropriate VERB appropriate%2:31:00::
+The meaningful policies governing the purchase , assignment , use and management of state vehicles have been shaped by the state 's administrative officers .
+1
+#3 govern VERB govern%2:41:01::,govern%2:41:02::
+Meaningful policies include : ( a ) kinds of cars the state should own , ( b ) when cars should be traded , ( c ) the need and assignment of vehicles , ( d ) use of cars in lieu of mileage allowances , ( e ) employees taking cars home , and ( f ) need for liability insurance on state automobiles .
+4
+#2 include VERB include%2:42:00::
+#13 own VERB owned%3:00:00::
+#22 trade VERB trade%2:40:02::
+#50 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+The state purchases and assigns grades of cars according to need and position status of driver and use of vehicle .
+2
+#2 purchase VERB purchase%2:40:00::
+#4 assign VERB assign%2:31:02::,assign%2:34:00::
+The purchase of compact ( economy ) cars is being made currently on a test basis .
+1
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Cars are traded mostly on a three-year basis in the interest of economy .
+1
+#2 trade VERB trade%2:40:02::
+The factors governing need and assignment of cars are flexible according to circumstances .
+1
+#2 govern VERB govern%2:41:01::,govern%2:41:02::
+Unsuccessful efforts have been made to replace high mileage allowances with state automobiles .
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+Forty-seven states assign or provide vehicles for employees on state business .
+2
+#2 assign VERB assign%2:31:02::,assign%2:34:00::
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+Two other states provide vehicles , but only with legislative approval .
+1
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+States which provide automobiles for employees assign them variously to the agency , the individual , or to a central pool .
+2
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 assign VERB assign%2:31:02::,assign%2:34:00::
+Twenty-six states operate a central motor pool for acquisition , allocation and / or maintenance of state-owned vehicles .
+1
+#2 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+Nineteen states report laws , policies or regulations for assigning state vehicles in lieu of paying mileage allowances .
+3
+#2 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#9 assign VERB assign%2:31:02::,assign%2:34:00::
+#15 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Actual mileage allowances are itemized reimbursements allowed employees for the use of personally-owned vehicles on state business at the rate of .07 per mile .
+1
+#6 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+Both allowances are governed by conditions and restrictions set forth in detail in the state 's Travel Regulations .
+1
+#3 govern VERB govern%2:41:01::,govern%2:41:02::
+Rhode Island 's reimburseable rate of .07 per mile for use of personally-owned cars compares favorably with other states ' rates .
+1
+#14 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+The travel regulations , requirements and procedures governing reimbursement are controlled properly and not overly restrictive .
+2
+#7 govern VERB govern%2:41:01::,govern%2:41:02::
+#10 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+Travel allowances , including subsistence , have been revised by administrative officials recently and compare favorably with other states ' allowances .
+3
+#3 include VERB include%2:31:00::,include%2:41:03::
+#8 revise VERB revise%2:32:00::
+#14 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+With few exceptions travelers on state business are allowed actual travel expenses and $ 15 per day subsistence .
+1
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+Travel allowances are well-regulated and pose little problem in administration and / or audit control .
+1
+#5 pose VERB pose%2:42:00::
+It is difficult to pinpoint the time of origin of the state purchasing automobiles for use of employees in Rhode Island .
+1
+#12 purchase VERB purchase%2:40:00::
+Few records are available concerning the subject prior to 1940 .
+1
+#4 concern VERB concern%2:42:00::,concern%2:42:01::
+The Registry of Motor Vehicles indicates that at least one state automobile was registered as far back as 1917 .
+2
+#5 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#13 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+It should be enough to say that the practice of the state buying automobiles is at least forty years old .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+The best reason that can be advanced for the state adopting the practice was the advent of expanded highway construction during the 1920 s and ' 30 s .
+1
+#6 advance VERB advance%2:30:01::,advance%2:30:09::,advance%2:32:00::,advance%2:33:00::,advance%2:38:00::,advance%2:41:01::
+At that time highway engineers traveled rough and dirty roads to accomplish their duties .
+1
+#5 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+Using privately-owned vehicles was a personal hardship for such employees , and the matter of providing state transportation was felt perfectly justifiable .
+3
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 provide VERB provide%2:34:00::,provide%2:40:00::
+#19 feel VERB feel%2:31:00::,feel%2:39:00::
+Once the principle was established , the increase in state-owned vehicles came rapidly .
+1
+#4 establish VERB establish%2:36:01::,establish%2:41:00::
+Table 1 immediately below shows the rate of growth of vehicles and employees .
+1
+#4 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+This rate of increase does not signify anything in itself .
+1
+#6 signify VERB signify%2:32:01::
+But it does show that automobiles have increased steadily over the years and in almost the same proportion to the increase of state employees .
+1
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+The fact is simply that state-owned vehicles have remained in practically the same proportion as employees to use them .
+1
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+While the origin of state-owned automobiles may be obscured , subsequent developments concerning the assignment , use , and management of state automobiles can be related more clearly .
+1
+#12 concern VERB concern%2:42:00::,concern%2:42:01::
+Prior to 1942 , automobiles were the individual responsibility of the agency to which assigned .
+1
+#14 assign VERB assign%2:31:02::,assign%2:34:00::
+This responsibility included all phases of management .
+1
+#2 include VERB include%2:42:00::
+It embraced determining when to purchase and when to trade vehicles , who was to drive , when and where repairs were to be made , where gasoline and automobile services were to be obtained and other allied matters .
+5
+#2 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#5 purchase VERB purchase%2:40:00::
+#9 trade VERB trade%2:40:02::
+#15 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#34 obtain VERB obtain%2:40:00::
+It met these problems by the creation of the state automobile maintenance unit ( more popularly called the motor pool ) , a centralized operation for the maintenance and control of all state transportation .
+1
+#1 meet VERB meet%2:41:02::,meet%2:42:01::
+The motor pool then , as now , had headquarter facilities in Providence and other garages located throughout the state .
+1
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In 1951 the pool 's operation was transferred to the newly-created Department of Administration , an agency established as the central staff and auxiliary department of the state government .
+2
+#7 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#17 establish VERB establish%2:36:01::,establish%2:41:00::
+The management of state-owned vehicles since that time has been described in a recent report in the following manner : " Under this new management considerable progress appears to have been made .
+3
+#10 describe VERB describe%2:32:01::
+#27 appear VERB appear%2:30:00::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The agencies of government are now billed for the actual cost of services provided to each passenger car rather than the prior uniform charge for all cars .
+2
+#6 bill VERB bill%2:32:01::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+Whereas the maintenance rotary fund had in the past sustained losses considerably beyond expectations , the introduction of the cost-billing system plus other control refinements has resulted in keeping the fund on a proper working basis .
+2
+#9 sustain VERB sustain%2:29:00::
+#28 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+One indication of the merits of the new management is found in the fact that during the period 1951 - 1956 , while total annual mileage put on the vehicles increased 35 % , the total maintenance cost increased only 11 % .
+1
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+" In order to further refine the management of passenger vehicles , on July 1 , 1958 , the actual title to every vehicle was transferred , by Executive Order , to the Division of Methods , Research and Office Services .
+1
+#25 transfer VERB transfer%2:40:00::,transfer%2:40:01::
+The objective behind this action was to place in one agency the responsibility for the management , assignment , and replacement of all vehicles .
+1
+#7 place VERB place%2:31:13::
+( Note : So far as State Police cars are concerned , only their replacement is under this division ) .
+1
+#1 note VERB note%2:32:00::,note%2:39:00::
+This tied in closely with the current attempt to upgrade state-owned cars to the extent that vehicles are not retained beyond the point where maintenance costs ( in light of depreciation ) become excessive .
+1
+#32 become VERB become%2:30:00::,become%2:42:01::
+Moreover , it allows the present management to reassign vehicles so that mileage will be more uniformly distributed throughout the fleet ; for example , if one driver puts on 22000 miles per year and another driver 8000 miles per year , their cars will be switched so that both cars will have 30000 miles after two years , rather than 44000 miles ( and related higher maintenance costs ) and 16000 miles respectively " .
+3
+#3 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#17 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+#46 switch VERB switch%2:30:03::
+It handles all types of vehicle maintenance , but concentrates more on " service station activities " than on extensive vehicle repairs .
+1
+#1 handle VERB handle%2:41:00::,handle%2:41:03::
+It contracts with outside repair garages for much of the latter work .
+1
+#1 contract VERB contract%2:32:00::
+Pool records reveal in detail the cost per mile and miles per gallon of each vehicle , the miles traveled in one year or three years , the periods when vehicle costs become excessive , and when cars should be traded for sound economies .
+3
+#19 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#32 become VERB become%2:30:00::,become%2:42:01::
+#40 trade VERB trade%2:40:02::
+Based on this figure and considering depreciation costs of vehicles , pool personnel have determined that travel in excess of 10000 miles annually is more economical by state car than by payment of allowances for use of personally-owned vehicles .
+2
+#0 base VERB base%2:31:00::
+#14 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+They estimate further that with sufficient experience and when cost-data of compact cars is compiled , the break-even point may be reduced to 7500 miles of travel per year .
+2
+#14 compile VERB compile%2:40:00::
+#21 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Table 2 shows operating cost data of state vehicles selected at random .
+1
+#2 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+Good facilities would be a decided help to pool operations and probably reduce vehicle costs even more .
+1
+#12 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+The purchase of state-owned vehicles is handled in the same manner as all other purchases of the state .
+1
+#6 handle VERB handle%2:41:00::,handle%2:41:03::
+Requests are made by the motor pool along with any necessary cooperation from the agencies to which assignments of cars will be made .
+2
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Bids are evaluated by the Division of Purchases with the assistance of pool staff , and awards for the purchase of the automobiles are made to the lowest responsible bidders .
+1
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The reasons are obvious : ( 1 ) the state is buying in quantity , and ( 2 ) it has no federal excise or state sales tax to pay .
+2
+#11 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#29 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+In that ownership of all vehicles rests with the state motor pool , cars are paid for with funds appropriated to the agencies but transferred to the rotary fund mentioned earlier .
+3
+#15 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#19 appropriate VERB appropriate%2:31:00::
+#24 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+This is a normal governmental procedure which reflects more accurately cost-accounting principles .
+1
+#7 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+The assignment and use of vehicles after purchase is another matter to be covered in detail later .
+1
+#13 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+Probably the most important of all matters for review are the broad administrative policies governing the purchase , assignment , use , and management of state vehicles .
+1
+#14 govern VERB govern%2:41:01::,govern%2:41:02::
+The legislature 's role in policy determination in this area for years has been confined almost solely to the amount of funds appropriated annually for the purchase and operation of vehicles .
+1
+#22 appropriate VERB appropriate%2:31:00::

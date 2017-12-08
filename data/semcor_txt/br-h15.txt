@@ -1,0 +1,786 @@
+ At the entrance side of the shelter , each roof beam is rested on the inside 4 inches of the block wall .
+4
+#3 side NOUN side%1:06:00::,side%1:15:00::
+#10 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+#17 inch NOUN inch%1:23:02::
+#20 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+The outside 4 - inch space is filled by mortaring blocks on edge .
+5
+#1 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#4 inch NOUN inch%1:23:02::
+#5 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#9 mortar VERB mortar%2:35:00::
+#10 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+The wooden bracing between the roof beams is placed flush with the inside of the wall .
+6
+#1 wooden ADJ wooden%5:00:00:woody:00
+#2 brace NOUN brace%1:06:04::
+#6 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+#8 place VERB place%2:31:13::
+#9 flush ADJ flush%5:00:00:even:01
+#12 inside NOUN inside%1:15:00::
+Mortar is poured between this bracing and the 4 - inch blocks on edge to complete the wall thickness for radiation shielding .
+9
+#0 mortar NOUN mortar%1:06:01::
+#5 brace NOUN brace%1:06:04::
+#10 inch NOUN inch%1:23:02::
+#11 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#13 edge NOUN edge%1:06:01::
+#15 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#18 thickness NOUN thickness%1:07:01::
+#20 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#21 shield NOUN shield%1:05:00::
+( For details see inset , fig. 5 . )
+1
+#2 detail NOUN detail%1:10:00::,detail%1:24:00::
+The first one or two roof boards ( marked " E " in fig. 6 ) are slipped into place across the roof beams , from outside the shelter .
+7
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#6 board NOUN board%1:06:00::,board%1:27:00::
+#8 mark VERB mark%2:30:00::,mark%2:31:08::,mark%2:39:00::
+#17 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#19 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#23 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+#26 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+These boards are nailed to the roof beams by reaching up through the open space between the beams , from inside the shelter .
+7
+#1 board NOUN board%1:06:00::,board%1:27:00::
+#3 nail VERB nail%2:35:00::
+#7 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+#9 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#13 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#14 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#17 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+Concrete blocks are passed between the beams and put on the boards .
+5
+#1 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#3 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#6 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+#8 put VERB put%2:35:00::,put%2:35:05::
+#11 board NOUN board%1:06:00::,board%1:27:00::
+The roof blocks are in two layers and are not mortared together .
+5
+#2 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#6 layer NOUN layer%1:06:00::
+#9 not ADV not%4:02:00::
+#10 mortar VERB mortar%2:35:00::
+#11 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+Work on the roof continues in this way .
+2
+#4 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#7 way NOUN way%1:04:00::,way%1:09:00::
+The last roof boards are covered with blocks from outside the shelter .
+5
+#1 last ADJ last%5:00:00:unlikely:00
+#3 board NOUN board%1:06:00::,board%1:27:00::
+#5 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#7 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#9 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+When the roof blocks are all in place , the final rows of wall blocks are mortared into position .
+5
+#3 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#11 row NOUN row%1:14:00::
+#14 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#16 mortar VERB mortar%2:35:00::
+#18 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+The structure is complete .
+1
+#3 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+Building plans are on page 21 .
+2
+#1 plan NOUN plan%1:06:00::,plan%1:09:01::
+#4 page NOUN page%1:10:00::
+Solid concrete blocks , relatively heavy and dense , are used for this shelter .
+4
+#2 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#5 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#7 dense ADJ dense%5:00:00:thick:02
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+These blocks are sold in various sizes so it seldom is necessary to cut a block to fit .
+7
+#1 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#3 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#6 size NOUN size%1:07:01::
+#7 so CONJ so%4:02:10::
+#11 necessary ADJ necessary%3:00:00::
+#15 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#17 fit VERB fit%2:42:02::,fit%2:42:03::,fit%2:42:04::
+Solid blocks are recommended because hollow blocks would have to be filled with concrete to give effective protection .
+6
+#1 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#3 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#5 hollow ADJ hollow%3:00:00::
+#6 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#15 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#16 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+Bricks are an alternative .
+1
+#0 brick NOUN brick%1:06:00::
+If they are used , the walls and roof should be 10 inches thick to give the same protection as the 8 - inch solid concrete blocks .
+6
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 inch NOUN inch%1:23:02::
+#13 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#17 same ADJ same%3:00:00::,same%3:00:02::
+#23 inch NOUN inch%1:23:02::
+#26 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+The illustrations in fig. 8 show how to lay a concrete block wall .
+2
+#8 lay VERB lay%2:35:00::,lay%2:36:00::
+#11 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+More detailed instructions may be obtained from your local building supply houses and craftsmen .
+1
+#5 obtain VERB obtain%2:40:00::
+Other sources of information include the National Concrete Masonry Association , 38 South Dearborn Street , Chicago , Ill. , the Portland Cement Association , 33 West Grand Avenue , Chicago , Ill. , and the Structural Clay Products Association , Washington , D. C. .
+3
+#3 information NOUN information%1:09:00::,information%1:10:02::
+#4 include VERB include%2:42:00::
+#41 Washington NOUN washington%1:15:01::
+An outdoor , aboveground fallout shelter also may be built with concrete blocks .
+1
+#12 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+( See fig. 9 , double wall shelter . )
+1
+#5 double ADJ double%5:00:02:multiple:00
+Most people would have to hire a contractor to build this shelter .
+2
+#1 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#5 hire VERB hire%2:41:00::
+Plans are on pages 22 and 23 .
+2
+#0 plan NOUN plan%1:06:00::,plan%1:09:01::
+#3 page NOUN page%1:10:00::
+This shelter could be built in regions where water or rock is close to the surface , making it impractical to build an underground shelter .
+6
+#8 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#10 rock NOUN rock%1:13:00::,rock%1:17:01::
+#12 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#15 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 impractical ADJ impractical%3:00:00::
+Two walls of concrete blocks are constructed at least 20 inches apart .
+3
+#4 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#10 inch NOUN inch%1:23:02::
+#11 apart ADV apart%4:02:03::
+The space between them is filled with pit-run gravel or earth .
+1
+#1 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+The walls are held together with metal ties placed in the wet mortar as the walls are built .
+6
+#3 hold VERB hold%2:31:10::,hold%2:32:13::,hold%2:42:00::,hold%2:42:01::,hold%2:42:02::,hold%2:42:04::
+#4 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#6 metal NOUN metal%1:27:00::
+#8 place VERB place%2:31:13::
+#11 wet ADJ wet%3:00:01::,wet%3:00:05::
+#12 mortar NOUN mortar%1:06:01::
+The roof shown here ( fig. 9 ) is a 6 - inch slab of reinforced concrete , covered with at least 20 inches of pit-run gravel .
+5
+#2 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#12 inch NOUN inch%1:23:02::
+#18 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#23 inch NOUN inch%1:23:02::
+An alternate roof , perhaps more within do-it-yourself reach , could be constructed of heavy wooden roof beams , overlaid with boards and waterproofing .
+6
+#1 alternate ADJ alternate%5:00:00:secondary:01
+#14 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#15 wooden ADJ wooden%5:00:00:woody:00
+#17 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+#19 overlay VERB overlay%2:35:00::
+#21 board NOUN board%1:06:00::,board%1:27:00::
+It would have to be covered with at least 28 inches of pit-run gravel .
+2
+#5 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#10 inch NOUN inch%1:23:02::
+The materials for a double wall shelter would cost about $ 700 .
+3
+#1 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#4 double ADJ double%5:00:02:multiple:00
+#8 cost VERB cost%2:42:00::,cost%2:42:01::
+Contractors ' charges would be additional .
+1
+#2 charge NOUN charge%1:21:01::,charge%1:21:02::
+The shelter would provide almost absolute fallout protection .
+3
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 absolute ADJ absolute%5:00:00:unequivocal:00
+#6 fallout NOUN fallout%1:27:00::
+Pre shaped corrugated metal sections or pre-cast concrete can be used for shelters either above or below ground .
+3
+#4 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+These are particularly suitable for regions where water or rock is close to the surface .
+5
+#2 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#7 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#9 rock NOUN rock%1:13:00::,rock%1:17:01::
+#11 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#14 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+They form effective fallout shelters when mounded over with earth , as shown in figure 10 .
+4
+#1 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+#2 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#9 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#14 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+Materials for this shelter would cost about $ 700 .
+2
+#0 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#5 cost VERB cost%2:42:00::,cost%2:42:01::
+A contractor probably would be required to help build it .
+1
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+His charges would be added to the cost of materials .
+3
+#1 charge NOUN charge%1:21:01::,charge%1:21:02::
+#4 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#9 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+This shelter , as shown on page 24 , would provide almost absolute protection from fallout radiation .
+5
+#4 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#6 page NOUN page%1:10:00::
+#12 absolute ADJ absolute%5:00:00:unequivocal:00
+#15 fallout NOUN fallout%1:27:00::
+#16 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+An alternate hatchway entrance , shown on page 25 , would reduce the cost of materials $ 50 to $ 100 .
+5
+#1 alternate ADJ alternate%5:00:00:secondary:01
+#5 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#7 page NOUN page%1:10:00::
+#11 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#15 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+The National Lumber Manufacturers Association , Washington , D. C. , is developing plans to utilize specially treated lumber for underground shelter construction .
+4
+#6 Washington NOUN washington%1:15:01::
+#12 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#13 plan NOUN plan%1:09:00::
+#18 lumber NOUN lumber%1:27:00::
+The Structural Clay Products Institute , Washington , D. C. , is working to develop brick and clay products suitable for shelter construction .
+5
+#6 Washington NOUN washington%1:15:01::
+#12 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#14 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#15 brick NOUN brick%1:06:00::
+#18 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+An underground reinforced concrete shelter can be built by a contractor for about $ 1000 to $ 1500 , depending on the type of entrance .
+2
+#12 about ADV about%4:02:00::
+#22 type NOUN type%1:18:00::
+The shelter shown would provide almost absolute fallout protection .
+3
+#2 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#6 absolute ADJ absolute%5:00:00:unequivocal:00
+#7 fallout NOUN fallout%1:27:00::
+The illustration ( fig. 11 ) shows this shelter with the roof at ground level and mounded over .
+1
+#6 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+The same shelter could be built into an embankment or below ground level .
+1
+#1 same ADJ same%3:00:00::,same%3:00:02::
+Plans for the shelter , with either a stairway or hatchway entrance , are shown on pages 26 and 27 .
+3
+#0 plan NOUN plan%1:06:00::,plan%1:09:01::
+#14 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#16 page NOUN page%1:10:00::
+Another type of shelter which gives excellent fallout protection can be built as an added room to the basement of a home under construction .
+4
+#1 type NOUN type%1:18:00::
+#7 fallout NOUN fallout%1:27:00::
+#15 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#21 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+It would add about $ 500 to the total cost of the home .
+2
+#2 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#12 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The shelter illustrated in figure 12 is based on such a room built in a new home in the Washington , D. C. area in the Spring of 1959 .
+6
+#11 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#15 new ADJ new%3:00:00::
+#16 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#19 Washington NOUN washington%1:15:01::
+#23 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#26 spring NOUN spring%1:28:00::
+Important considerations common to each type of shelter are :
+2
+#1 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#5 type NOUN type%1:18:00::
+Radio reception .
+1
+#1 reception NOUN reception%1:10:00::
+The entrance must have at least one right-angle turn .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+Radiation scatters somewhat like light .
+2
+#0 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#4 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+Some will go around a corner .
+2
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#5 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+The rest continues in a straight line .
+2
+#1 rest NOUN rest%1:24:00::
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Therefore , sharp turns in a shelter entrance will reduce radiation intensity inside the shelter .
+5
+#2 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+#3 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#9 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#10 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#11 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+Ventilation is provided in a concrete block basement shelter by vents in the wall and by the open entrance .
+5
+#0 ventilation NOUN ventilation%1:06:00::
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#10 vent NOUN vent%1:06:00::
+#17 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+A blower may be installed to increase comfort .
+3
+#1 blower NOUN blower%1:06:00::
+#4 install VERB install%2:35:00::
+#7 comfort NOUN comfort%1:26:01::
+A blower is essential for the double wall shelter and for the underground shelters .
+3
+#1 blower NOUN blower%1:06:00::
+#3 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#6 double ADJ double%5:00:02:multiple:00
+It should provide not less than 5 cubic feet per minute of air per person .
+3
+#10 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#12 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#14 person NOUN person%1:03:00::,person%1:08:00::
+Vent pipes also are necessary ( as shown in figs. 9 , 10 , and 11 ) , but filters are not .
+5
+#0 vent NOUN vent%1:06:00::
+#1 pipe NOUN pipe%1:06:00::
+#4 necessary ADJ necessary%3:00:00::
+#7 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#21 not ADV not%4:02:00::
+Radio reception is cut down by the shielding necessary to keep out radiation .
+4
+#1 reception NOUN reception%1:10:00::
+#7 shield NOUN shield%1:05:00::
+#8 necessary ADJ necessary%3:00:00::
+#12 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+As soon as the shelter is completed a radio reception check must be made .
+4
+#6 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#9 reception NOUN reception%1:10:00::
+#10 check NOUN check%1:09:00::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It probably will be necessary to install an outside antenna , particularly to receive CONELRAD broadcasts .
+6
+#4 necessary ADJ necessary%3:00:00::
+#6 install VERB install%2:35:00::
+#8 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#9 antenna NOUN antenna%1:06:00::
+#11 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#13 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+Lighting is an important consideration .
+2
+#0 lighting NOUN lighting%1:26:00::
+#4 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+Continuous low-level lighting may be provided in the shelter by means of a 4 - cell hot-shot battery to which is wired a 150 - milliampere flashlight type bulb .
+9
+#0 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#2 lighting NOUN lighting%1:26:00::
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+#15 cell NOUN cell%1:06:00::
+#17 battery NOUN battery%1:06:00::
+#21 wire VERB wire%2:35:00::
+#26 flashlight NOUN flashlight%1:06:00::
+#27 type NOUN type%1:18:00::
+#28 bulb NOUN bulb%1:06:00::
+Tests have shown that such a device , with a fresh battery , will furnish light continuously for at least 10 days .
+7
+#0 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 device NOUN device%1:06:00::
+#10 fresh ADJ fresh%5:00:00:original:00
+#11 battery NOUN battery%1:06:00::
+#15 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#21 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+With a spare battery , a source of light for 2 weeks or more would be assured .
+4
+#2 spare ADJ spare%5:00:01:unnecessary:00
+#3 battery NOUN battery%1:06:00::
+#8 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#16 assure VERB assure%2:31:00::,assure%2:32:03::
+A flashlight or electric lantern also should be available for those periods when a brighter light is needed .
+7
+#1 flashlight NOUN flashlight%1:06:00::
+#3 electric ADJ electric%3:01:00::
+#4 lantern NOUN lantern%1:06:00::
+#11 period NOUN period%1:28:00::,period%1:28:03::
+#14 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#15 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#17 need VERB need%2:42:00::
+There should be a regular electrical outlet in the shelter as power may continue in many areas .
+4
+#4 regular ADJ regular%5:00:00:frequent:00,regular%5:00:00:normal:01
+#11 power NOUN power%1:19:00::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#16 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Other considerations .
+1
+#1 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+- If there are outside windows in the basement corner where you build a shelter , they should be shielded as shown in the Appendix , page 29 .
+6
+#4 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#5 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#9 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#21 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#24 appendix NOUN appendix%1:10:00::
+#26 page NOUN page%1:10:00::
+Other basement windows should be blocked when an emergency threatens .
+2
+#2 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#5 block VERB block%2:33:00::
+Basement walls that project above the ground should be shielded as shown in the Appendix , page 29 .
+5
+#3 project VERB project%2:42:00::
+#6 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#11 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#14 appendix NOUN appendix%1:10:00::
+#16 page NOUN page%1:10:00::
+In these shelters the entrance should be not more than 2 feet wide .
+2
+#11 foot NOUN foot%1:23:00::
+#12 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+Bunks , or materials to build them , may have to be put inside the enclosure before the shelter walls are completed .
+5
+#0 bunk NOUN bunk%1:10:00::
+#3 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#12 put VERB put%2:35:00::,put%2:35:05::
+#15 enclosure NOUN enclosure%1:06:00::
+#21 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+The basement or belowground shelters also will serve for tornado or hurricane protection .
+1
+#7 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+The radioactivity of fallout decays rapidly at first .
+1
+#3 fallout NOUN fallout%1:27:00::
+Forty-nine hours after an atomic burst the radiation intensity is only about 1 percent of what it was an hour after the explosion .
+5
+#1 hour NOUN hour%1:07:00::,hours%1:28:01::
+#7 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#8 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 hour NOUN hour%1:07:00::,hours%1:28:01::
+But the radiation may be so intense at the start that one percent may be extremely dangerous .
+3
+#2 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 intense ADJ intense%3:00:00::
+Therefore , civil defense instructions received over CONELRAD or by other means should be followed .
+4
+#4 instruction NOUN instruction%1:10:02::,instruction%1:10:04::
+#5 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#11 means NOUN means%1:06:00::
+#14 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+A battery powered radio is essential .
+2
+#1 battery NOUN battery%1:06:00::
+#5 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+Radiation instruments suitable for home use are available , and would be of value in locating that portion of the home which offers the best protection against fallout radiation .
+7
+#0 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#1 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#4 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#20 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#24 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#27 fallout NOUN fallout%1:27:00::
+#28 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+There is a possibility that battery powered radios with built-in radiation meters may become available .
+4
+#5 battery NOUN battery%1:06:00::
+#10 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#11 meter NOUN meter%1:06:00::
+#13 become VERB become%2:30:00::,become%2:42:01::
+One instrument thus would serve both purposes .
+3
+#1 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#2 thus ADV thus%4:02:01::
+#4 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+Your local civil defense will gather its own information and will receive broad information from State and Federal sources .
+4
+#5 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#7 own ADJ own%5:00:00:personal:00
+#12 broad ADJ broad%5:00:00:comprehensive:00,broad%5:00:00:general:00
+#13 information NOUN information%1:09:00::,information%1:10:02::
+It will tell you as soon as possible :
+1
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+How long to stay in your shelter .
+2
+#1 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#3 stay VERB stay%2:42:01::
+How soon you may go outdoors .
+2
+#1 soon ADV soon%4:02:00::
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+How long you may stay outside .
+3
+#1 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#4 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#5 outside ADV outside%4:02:01::
+You should be prepared to stay in your shelter full time for at least several days and to make it your home for 14 days or longer .
+5
+#5 stay VERB stay%2:42:01::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#24 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+A checklist in the Appendix , ( page 30 ) tells what is needed .
+4
+#4 appendix NOUN appendix%1:10:00::
+#7 page NOUN page%1:10:00::
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#13 need VERB need%2:42:00::
+Families with children will have particular problems .
+3
+#0 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+They should provide for simple recreation .
+2
+#4 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#5 recreation NOUN recreation%1:04:00::
+Part of the family should be sleeping while the rest is awake .
+4
+#0 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#3 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#6 sleep VERB sleep%2:29:00::
+#9 rest NOUN rest%1:24:00::
+To break the monotony it may be necessary to invent tasks that will keep the family busy .
+4
+#1 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#7 necessary ADJ necessary%3:00:00::
+#13 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#15 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+Records such as diaries can be kept .
+2
+#0 record NOUN record%1:10:03::,record%1:21:00::
+#6 keep VERB keep%2:32:00::,keep%2:34:00::
+The survival of the family will depend largely on information received by radio .
+3
+#4 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#6 depend VERB depend%2:31:00::
+#9 information NOUN information%1:09:00::,information%1:10:02::
+A record should be kept of the information and instructions , including the time and date of broadcast .
+7
+#1 record NOUN record%1:10:03::,record%1:21:00::
+#4 keep VERB keep%2:32:00::,keep%2:34:00::
+#7 information NOUN information%1:09:00::,information%1:10:02::
+#9 instruction NOUN instruction%1:10:02::,instruction%1:10:04::
+#11 include VERB include%2:42:00::
+#13 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#15 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+Family rationing probably will be necessary .
+2
+#0 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#5 necessary ADJ necessary%3:00:00::
+Blowers should be operated periodically on a regular schedule .
+4
+#0 blower NOUN blower%1:06:00::
+#3 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#7 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#8 schedule NOUN schedule%1:09:00::
+There will come a time in a basement shelter when the radiation has decayed enough to allow use of the whole basement .
+4
+#2 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#4 time NOUN time%1:11:00::
+#11 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#20 whole ADJ whole%3:00:00::
+However , as much time as possible should be spent within the shelter to hold radiation exposure to a minimum .
+3
+#0 however ADV however%4:02:04::
+#15 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#16 exposure NOUN exposure%1:26:01::
+The housekeeping problems of living in a shelter will begin as soon as the shelter is occupied .
+5
+#1 housekeeping NOUN housekeeping%1:04:00::
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+#4 live VERB live%2:42:08::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+Food , medical supplies , utensils , and equipment , if not already stored in the shelter , must be quickly gathered up and carried into it .
+2
+#12 already ADV already%4:02:00::
+#24 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+After the family has settled in the shelter , the housekeeping rules should be spelled out by the adult in charge .
+5
+#2 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#4 settle VERB settle%2:30:00::,settle%2:30:01::,settle%2:30:02::,settle%2:30:03::,settle%2:30:05::
+#10 housekeeping NOUN housekeeping%1:04:00::
+#11 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#20 charge NOUN charge%1:04:00::,charge%1:04:03::,charge%1:10:01::,charge%1:18:00::
+Sanitation in the confines of the family shelter will require much thought and planning .
+1
+#6 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+Provision for emergency toilet facilities and disposal of human wastes will be an unfamiliar problem .
+5
+#0 provision NOUN provision%1:04:01::,provision%1:21:00::
+#3 toilet NOUN toilet%1:06:01::
+#4 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#6 disposal NOUN disposal%1:04:00::
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+A covered container such as a kitchen garbage pail might do as a toilet .
+2
+#6 kitchen NOUN kitchen%1:06:00::
+#13 toilet NOUN toilet%1:06:01::
+A 10 - gallon garbage can , with a tightly fitting cover , could be used to keep the wastes until it is safe to leave the shelter .
+6
+#3 gallon NOUN gallon%1:23:01::
+#11 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#23 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#25 leave VERB leave%2:38:00::,leave%2:41:00::
+Water rationing will be difficult and should be planned carefully .
+2
+#0 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#8 plan VERB plan%2:31:00::,plan%2:31:01::
+A portable electric heater is advisable for shelters in cold climates .
+1
+#9 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+It would take the chill from the shelter in the beginning .
+2
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#4 chill NOUN chill%1:07:00::
+Even if the electric power fails after an attack , any time that the heater has been used will make the shelter that much more comfortable .
+4
+#14 heater NOUN heater%1:06:00::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#25 comfortable ADJ comfortable%3:00:01::
+Body heat in the close quarters will help keep up the temperature .
+4
+#0 body NOUN body%1:08:00::,body%1:08:02::
+#1 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#4 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Warm clothing and bedding , of course , are essential .
+2
+#0 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#9 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+Open flame heating or cooking should be avoided .
+4
+#0 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#1 flame NOUN flame%1:22:00::
+#4 cooking NOUN cooking%1:04:00::
+#7 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+A flame would use up air .
+2
+#1 flame NOUN flame%1:22:00::
+#5 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+Some families already have held weekend rehearsals in their home shelters to learn the problems and to determine for themselves what supplies they would need .
+8
+#1 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#2 already ADV already%4:02:00::
+#4 hold VERB hold%2:36:00::,holding%1:04:00::
+#9 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#12 learn VERB learn%2:31:01::,learn%2:31:03::
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#24 need VERB need%2:42:00::
+Few areas , if any , are as good as prepared shelters but they are worth knowing about .
+2
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#16 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+A family dwelling without a basement provides some natural shielding from fallout radiation .
+5
+#1 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#8 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#9 shield NOUN shield%1:05:00::
+#11 fallout NOUN fallout%1:27:00::
+#12 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+On the ground floor the radiation would be about half what it is outside .
+3
+#5 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#8 about ADV about%4:02:00::
+#13 outside ADV outside%4:02:01::
+The best protection would be on the ground floor in the central part of the house .
+4
+#1 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#11 central ADJ central%3:00:01::,central%5:00:00:important:00
+#12 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#15 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+A belowground basement can cut the fallout radiation to one tenth of the outside level .
+5
+#4 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#6 fallout NOUN fallout%1:27:00::
+#7 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#13 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#14 level NOUN level%1:07:00::
+The safest place is the basement corner least exposed to windows and deepest below ground .
+7
+#1 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#2 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#6 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#7 least ADV less%4:02:01::
+#10 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#12 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#14 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+If there is time after the warning , the basement shielding could be improved substantially by blocking windows with bricks , dirt , books , magazines , or other heavy material .
+10
+#10 shield NOUN shield%1:05:00::
+#14 substantially ADV substantially%4:02:01::
+#16 block VERB block%2:33:00::
+#17 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#19 brick NOUN brick%1:06:00::
+#23 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#25 magazine NOUN magazine%1:10:00::
+#28 other ADJ other%5:00:02:past:00
+#29 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#30 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+Large apartment buildings of masonry or concrete provide better natural shelter than the usual family dwellings .
+5
+#0 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 masonry NOUN masonry%1:04:00::
+#8 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#9 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#14 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+In general , such apartments afford more protection than smaller buildings because their walls are thick and there is more space .
+4
+#5 afford VERB afford%2:40:00::
+#10 building NOUN building%1:06:00::
+#15 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#20 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+The central area of the ground floor of a heavily constructed apartment building , with concrete floors , should provide more fallout protection than the ordinary basement of a family dwelling .
+7
+#1 central ADJ central%3:00:01::,central%5:00:00:important:00
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#9 heavily ADV heavily%4:02:00::
+#16 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#21 fallout NOUN fallout%1:27:00::
+#25 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#29 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+The basement of such an apartment building may provide as much natural protection as the specially constructed concrete block shelter recommended for the basement of a family dwelling .
+4
+#11 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#18 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#20 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#26 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+The Federal Government is aiding local governments in several places to survey residential , commercial and industrial buildings to determine what fallout protection they would provide , and for how many people .
+6
+#9 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#11 survey VERB survey%2:31:01::
+#14 commercial ADJ commercial%3:00:00::
+#17 building NOUN building%1:06:00::
+#19 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#21 fallout NOUN fallout%1:27:00::
+The problem for the city apartment dweller is primarily to plan the use of existing space .
+3
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#4 city NOUN city%1:15:00::,city%1:15:01::
+#15 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+Such planning will require the cooperation of other occupants and of the apartment management .
+3
+#1 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#7 other ADJ other%3:00:00::
+#13 management NOUN management%1:04:00::,management%1:14:00::

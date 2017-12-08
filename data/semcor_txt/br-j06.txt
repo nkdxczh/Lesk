@@ -1,0 +1,576 @@
+ The thermal exchange of chlorine between * * f and liquid * * f is readily measurable at temperatures in the range of 180 ` and above .
+2
+#10 liquid ADJ liquid%3:00:00::
+#21 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The photochemical exchange occurs with a quantum yield of the order of unity in the liquid phase at 65 ` using light absorbed only by the * * f .
+8
+#6 quantum NOUN quantum%1:09:01::
+#10 order NOUN order%1:07:01::
+#15 liquid NOUN liquid%1:27:04::
+#16 phase NOUN phase%1:26:00::
+#20 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#21 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#22 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#23 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+In the gas phase , with * * f of * * f and * * f of * * f , quantum yields of the order of * * f have been observed at 85 ` .
+4
+#2 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#3 phase NOUN phase%1:26:00::
+#22 quantum NOUN quantum%1:09:01::
+#33 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction .
+4
+#1 extensive ADJ extensive%5:00:00:large:00
+#4 obtain VERB obtain%2:40:00::
+#14 obtain VERB obtain%2:40:00::
+#16 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+It appears possible to set a lower limit of about * * f for the activation energy of the abstraction of a chlorine atom from a carbon tetrachloride molecule by a chlorine atom to form * * f radical .
+4
+#1 appear VERB appear%2:30:00::
+#4 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#34 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+#38 radical NOUN radical%1:27:00::
+The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions .
+12
+#1 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#4 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#5 phase NOUN phase%1:26:00::
+#8 appear VERB appear%2:30:00::
+#15 power NOUN power%1:10:00::
+#19 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#20 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#24 radical NOUN radical%1:27:00::
+#27 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#37 rather ADV rather%4:02:02::
+#41 radical NOUN radical%1:27:00::
+#42 combination NOUN combination%1:04:00::,combination%1:14:00::
+Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data .
+6
+#12 elemental ADJ elemental%3:01:00::
+#16 corresponding ADJ corresponding%5:00:00:similar:00
+#20 appear VERB appear%2:30:00::
+#27 obtain VERB obtain%2:40:00::
+#29 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#31 data NOUN data%1:14:00::,datum%1:09:00::
+It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical reactions in both the liquid and gas phases and to determine values for activation energies of some of the intermediate reactions of atoms and free radicals , as well as information on the heat of dissociation of the carbon halogen bond .
+11
+#2 appear VERB appear%2:30:00::
+#9 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#11 mechanism NOUN mechanism%1:22:00::
+#21 liquid NOUN liquid%1:27:04::
+#23 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#24 phase NOUN phase%1:26:00::
+#27 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#28 value NOUN value%1:09:00::
+#47 information NOUN information%1:10:00::,information%1:14:00::
+#55 carbon NOUN carbon%1:06:00::
+#57 bond NOUN bond%1:19:00::
+The reaction of chlorine with carbon tetrachloride seemed particularly suited for such studies .
+1
+#12 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid .
+6
+#5 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#16 vacuum NOUN vacuum%1:25:00::
+#17 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#18 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#21 distillation NOUN distillation%1:22:00::
+#24 liquid NOUN liquid%1:27:04::
+It should be possible to free carbon tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine .
+3
+#11 substance NOUN substance%1:03:00::,substance%1:27:00::
+#17 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#22 addition NOUN addition%1:23:00::
+Furthermore , the exchange would not be expected to be sensitive to trace amounts of impurities because it would not be apt to be a chain reaction since the activation energy for abstraction of chlorine by a chlorine atom would be expected to be too high ; also it would be expected that * * f would compete very effectively with any impurities as a scavenger for * * f radicals .
+7
+#5 not ADV not%4:02:00::
+#10 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#12 trace NOUN trace%1:23:00::
+#19 not ADV not%4:02:00::
+#44 too ADV too%4:02:00::
+#45 high ADJ high%3:00:02::
+#70 radical NOUN radical%1:27:00::
+Contrary to these expectations we have found it impossible to obtain the degree of reproducibility one would wish , even with extensive efforts to prepare especially pure reagents .
+6
+#0 contrary ADJ contrary%5:00:00:different:00
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 obtain VERB obtain%2:40:00::
+#12 degree NOUN degree%1:26:01::
+#21 extensive ADJ extensive%5:00:00:large:00
+#24 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+We are reporting these investigations here briefly because of their relevancy to problems of the study of apparently simple exchange reactions of chlorine and because the results furnish some information on the activation energy for abstraction of chlorine atoms from carbon tetrachloride .
+4
+#2 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#15 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#18 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#29 information NOUN information%1:10:00::,information%1:14:00::
+Matheson highest purity tank chlorine was passed through a tube of resublimed * * f into an evacuated Pyrex system where it was condensed with liquid air .
+5
+#1 high ADJ high%3:00:02::
+#3 tank NOUN tank%1:06:00::
+#9 tube NOUN tube%1:06:00::,tube%1:06:02::
+#19 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#23 condense VERB condense%2:30:06::
+It was then distilled at least three times from a trap at - 78 ` to a liquid air trap with only a small middle fraction being retained in each distillation .
+6
+#2 then ADV then%4:02:00::
+#3 distill VERB distill%2:30:03::
+#7 time NOUN time%1:11:00::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#25 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#30 distillation NOUN distillation%1:22:00::
+The purified product was stored at - 78 ` in a tube equipped with a break seal .
+2
+#2 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#11 tube NOUN tube%1:06:00::,tube%1:06:02::
+Of several methods employed for tagging chlorine with radiochlorine , the exchange of inactive chlorine with tagged aluminum chloride at room temperature was found to be the most satisfactory .
+4
+#3 employ VERB employ%2:34:00::
+#5 tag VERB tag%2:35:00::
+#23 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#27 most ADV most%4:02:00::
+To prepare the latter , silver chloride was precipitated from a solution containing * * f obtained from the Oak Ridge National Laboratory .
+6
+#1 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#3 latter ADJ latter%3:00:00::
+#8 precipitate VERB precipitate%2:30:00::
+#11 solution NOUN solution%1:27:00::
+#12 contain VERB contain%2:42:00::,contain%2:42:06::
+#16 obtain VERB obtain%2:40:00::
+The silver chloride was fused under vacuum in the presence of aluminum chips with the resultant product of * * f which was sublimed into a flask on the vacuum line .
+6
+#4 fuse VERB fuse%2:30:00::
+#6 vacuum NOUN vacuum%1:25:00::
+#12 chip NOUN chip%1:17:00::
+#16 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#23 sublime VERB sublime%2:30:05::
+#29 vacuum NOUN vacuum%1:25:00::
+Previously purified chlorine was subsequently admitted and the exchange was allowed to take place .
+2
+#5 admit VERB admit%2:40:00::,admit%2:41:00::,admit%2:41:01::
+#10 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+The radiochlorine was stored at - 78 ` in a tube equipped with a break seal .
+1
+#10 tube NOUN tube%1:06:00::,tube%1:06:02::
+Liter quantities of Mallinckrodt , low sulfur , reagent grade carbon tetrachloride were saturated with * * f and * * f and illuminated for about 50 hours with a 1000 watt tungsten lamp at a distance of a few inches .
+9
+#1 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#5 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#6 sulfur NOUN sulfur%1:27:00::
+#9 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#23 illuminate VERB illuminate%2:30:03::
+#25 about ADV about%4:02:00::
+#27 hour NOUN hour%1:07:00::,hours%1:28:01::
+#36 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#40 inch NOUN inch%1:23:02::
+The mixture was then extracted with alkali and with water following which the carbon tetrachloride was distilled on a Vigreux column , a 25 % center cut being retained which was then degassed under vacuum in the presence of * * f .
+7
+#3 then ADV then%4:02:00::
+#9 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#16 distill VERB distill%2:30:03::
+#20 column NOUN column%1:06:01::,column%1:25:02::
+#25 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#31 then ADV then%4:02:00::
+#34 vacuum NOUN vacuum%1:25:00::
+Purified inactive chlorine was then added from one of the tubes described above and the mixture frozen out and sealed off in a flask equipped with a break seal .
+4
+#4 then ADV then%4:02:00::
+#5 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#10 tube NOUN tube%1:06:00::,tube%1:06:02::
+#11 describe VERB describe%2:32:01::
+This chlorine carbon tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off .
+7
+#4 solution NOUN solution%1:27:00::
+#6 illuminate VERB illuminate%2:30:03::
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 vacuum NOUN vacuum%1:25:00::
+#19 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#24 distill VERB distill%2:30:03::
+#25 off ADV off%4:02:00::
+The required amount of carbon tetrachloride was distilled into a series of reaction cells on a manifold on a vacuum line .
+5
+#7 distill VERB distill%2:30:03::
+#10 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#13 cell NOUN cell%1:03:00::,cell%1:06:03::
+#16 manifold NOUN manifold%1:06:00::
+#19 vacuum NOUN vacuum%1:25:00::
+The desired amounts of inactive chlorine and radioactive chlorine were likewise condensed in these cells on the vacuum line following which they were frozen down and the manifold as a whole was sealed off .
+5
+#10 likewise ADV likewise%4:02:01::
+#11 condense VERB condense%2:30:03::
+#14 cell NOUN cell%1:03:00::,cell%1:06:03::
+#17 vacuum NOUN vacuum%1:25:00::
+#27 manifold NOUN manifold%1:06:00::
+The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the reaction tubes , frozen down , and each tube was then sealed off .
+8
+#1 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#4 manifold NOUN manifold%1:06:00::
+#6 liquid NOUN liquid%1:27:04::
+#7 phase NOUN phase%1:26:00::
+#10 then ADV then%4:02:00::
+#19 tube NOUN tube%1:06:00::,tube%1:06:02::
+#26 tube NOUN tube%1:06:00::,tube%1:06:02::
+#28 then ADV then%4:02:00::
+The reactants for the gas phase experiments were first frozen out in a side arm attached to the manifold and then allowed to distill slowly into the manifold of pre-cooled reaction cells before sealing off .
+10
+#4 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#5 phase NOUN phase%1:26:00::
+#14 arm NOUN arm%1:06:02::,arm%1:06:03::
+#15 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#18 manifold NOUN manifold%1:06:00::
+#20 then ADV then%4:02:00::
+#21 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#23 distill VERB distill%2:30:03::
+#27 manifold NOUN manifold%1:06:00::
+#31 cell NOUN cell%1:03:00::,cell%1:06:03::
+This method in general solved the problem of obtaining fairly equal concentrations of reactants in each of the six cells from a set .
+7
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+#8 obtain VERB obtain%2:40:00::
+#9 fairly ADV fairly%4:02:02::
+#10 equal ADJ equal%3:00:00::
+#11 concentration NOUN concentration%1:04:01::
+#19 cell NOUN cell%1:03:00::,cell%1:06:03::
+#22 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+The samples for liquid phase thermal reaction studies were prepared in Pyrex capillary tubing 2.5 mm. i.d. and about 15 cm. long .
+5
+#3 liquid NOUN liquid%1:27:04::
+#4 phase NOUN phase%1:26:00::
+#7 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#9 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#21 long ADJ long%3:00:01::
+In a few experiments the tubes were made from standard 6 mm. i.d. Pyrex tubing of 1 mm. wall thickness .
+4
+#5 tube NOUN tube%1:06:00::,tube%1:06:02::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#9 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#19 thickness NOUN thickness%1:07:01::
+Both types of tube withstood the pressure of approximately 20 atmospheres exerted by the carbon tetrachloride at 220 ` .
+4
+#1 type NOUN type%1:18:00::
+#3 tube NOUN tube%1:06:00::,tube%1:06:02::
+#6 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#10 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+The photochemical reaction cells consisted of 10 mm. i.d. Pyrex tubing , 5.5 cm. long , diffraction effects being minimized by the fact that the light passed through only liquid glass interfaces and not gas glass interfaces .
+9
+#3 cell NOUN cell%1:06:00::
+#14 long ADJ long%3:00:01::
+#17 effect NOUN effect%1:09:00::,effect%1:19:00::
+#25 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#28 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#29 liquid NOUN liquid%1:27:04::
+#31 interface NOUN interface%1:10:00::
+#34 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#36 interface NOUN interface%1:10:00::
+These cells were used rather than square Pyrex tubing because of the tendency of the latter to shatter when thawing frozen carbon tetrachloride .
+6
+#1 cell NOUN cell%1:06:00::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 rather ADV rather%4:02:02::
+#6 square ADJ square%3:00:00::
+#15 latter ADJ latter%3:00:00::
+#17 shatter VERB shatter%2:30:01::
+The round cells were reproducibly positioned in the light beam which entered the thermostated mineral oil bath through a window .
+4
+#1 round ADJ round%3:00:00::
+#11 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#16 bath NOUN bath%1:06:00::
+#19 window NOUN window%1:06:00::,window%1:06:02::,window%1:06:03::
+Two types of light source were used , a thousand watt projection lamp and an AH6 high pressure mercury arc .
+7
+#1 type NOUN type%1:18:00::
+#3 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 high ADJ high%3:00:02::
+#17 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#18 mercury NOUN mercury%1:07:00::
+#19 arc NOUN arc%1:19:00::
+The light was filtered by the soft glass window of the thermostat thus ensuring that only light absorbed by the chlorine and not by the carbon tetrachloride could enter the reaction cell .
+8
+#1 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#3 filter VERB filter%2:38:00::
+#8 window NOUN window%1:06:00::,window%1:06:02::,window%1:06:03::
+#12 thus ADV thus%4:02:01::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#17 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#28 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+Relative incident light intensities were measured with a thermopile potentiometer system .
+7
+#0 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#1 incident ADJ incident%3:01:00::
+#2 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#3 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#5 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#9 potentiometer NOUN potentiometer%1:06:01::
+#10 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+Changes of intensity on the cell were achieved by use of a wire screen and by varying the distance of the light source from the cell .
+5
+#0 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#2 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#13 screen NOUN screen%1:06:03::
+#18 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#21 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+Following reaction the cells were scratched with a file and opened under a 20 % aqueous sodium iodide solution .
+4
+#5 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#8 file NOUN file%1:06:00::
+#10 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#18 solution NOUN solution%1:27:00::
+Carrier * * f was added and the aqueous and organic phases were separated ( cells containing gaseous reactants were immersed in liquid air before opening under sodium iodide ) .
+7
+#0 carrier NOUN carrier%1:05:00::
+#5 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#10 organic ADJ organic%3:00:02::
+#11 phase NOUN phase%1:26:00::
+#13 separate VERB separate%2:31:01::,separate%2:35:02::,separate%2:41:01::
+#16 contain VERB contain%2:42:00::,contain%2:42:06::
+#20 immerse VERB immerse%2:31:00::
+After titration of the liberated * * f with * * f , aliquots of the aqueous and of the organic phase were counted in a solution type Geiger tube .
+6
+#4 liberate VERB liberate%2:41:02::
+#20 organic ADJ organic%3:00:02::
+#21 phase NOUN phase%1:26:00::
+#23 count VERB count%2:32:00::,count%2:32:01::
+#26 solution NOUN solution%1:27:00::
+#27 type NOUN type%1:18:00::
+In the liquid phase runs the amount of carbon tetrachloride in each reaction tube was determined by weighing the tube before opening and weighing the fragments after emptying .
+7
+#2 liquid NOUN liquid%1:27:04::
+#3 phase NOUN phase%1:26:00::
+#13 tube NOUN tube%1:06:00::,tube%1:06:02::
+#15 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#17 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#19 tube NOUN tube%1:06:00::,tube%1:06:02::
+#23 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+The fraction of exchange was determined as the ratio of the counts / minute observed in the carbon tetrachloride to the counts / minute calculated for the carbon tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon tetrachloride , empirically determined correction being made for the difference in counting efficiency of * * f in * * f and * * f .
+13
+#1 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#5 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#11 count NOUN count%1:23:00::
+#13 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#14 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#21 count NOUN count%1:23:00::
+#23 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#24 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#29 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#35 activity NOUN activity%1:22:00::,activity%1:26:01::
+#44 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#47 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#52 count NOUN count%1:23:00::
+In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed .
+7
+#1 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#3 liquid NOUN liquid%1:27:04::
+#4 phase NOUN phase%1:26:00::
+#10 tube NOUN tube%1:06:00::,tube%1:06:02::
+#13 different ADJ different%3:00:00::,different%5:00:00:other:00
+#14 manifold NOUN manifold%1:06:00::
+#17 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+Following observation of the fact that the reaction rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to volume ratio in the reaction tubes .
+15
+#1 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#8 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#11 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#14 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#17 same ADJ same%3:00:00::,same%3:00:02::
+#19 manifold NOUN manifold%1:06:00::
+#23 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#24 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#35 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#41 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#52 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#58 effect NOUN effect%1:09:00::,effect%1:19:00::
+#66 effect NOUN effect%1:09:00::,effect%1:19:00::
+#70 volume NOUN volume%1:07:03::,volume%1:23:00::
+#75 tube NOUN tube%1:06:00::,tube%1:06:02::
+In addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a * * f eutectic on the vacuum line , and by exchange of * * f with molten * * f .
+5
+#5 describe VERB describe%2:32:01::
+#8 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#15 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#18 electrolysis NOUN electrolysis%1:22:00::
+#27 vacuum NOUN vacuum%1:25:00::
+No correlation between these variables and the irreproducibility of the results was found .
+1
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The reaction rates observed at 200 ` ranged from * * f of the chlorine exchanged per hour to 0.7 exchanged per hour .
+5
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#3 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#7 range VERB range%2:42:00::
+#17 hour NOUN hour%1:07:00::,hours%1:28:01::
+#22 hour NOUN hour%1:07:00::,hours%1:28:01::
+In most cases the chlorine concentration was about * * f .
+3
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#5 concentration NOUN concentration%1:04:01::
+#7 about ADV about%4:02:00::
+Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour .
+9
+#0 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#3 tube NOUN tube%1:06:00::,tube%1:06:02::
+#4 contain VERB contain%2:42:00::,contain%2:42:06::
+#8 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#14 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#22 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#24 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#27 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#37 hour NOUN hour%1:07:00::,hours%1:28:01::
+No detectable reaction was found at room temperature for reaction mixtures allowed to stand up to 5 hours .
+4
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#13 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#17 hour NOUN hour%1:07:00::,hours%1:28:01::
+The liquid phase photochemical exchange between chlorine and carbon tetrachloride was more reproducible than the thermal exchange , although still erratic .
+4
+#1 liquid NOUN liquid%1:27:04::
+#2 phase NOUN phase%1:26:00::
+#11 more ADV more%4:02:00::
+#19 still ADV still%4:02:04::
+The improvement was most noticeable in the greater consistency among reaction cells prepared as a group on the same manifold .
+6
+#3 most ADV most%4:02:00::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#8 consistency NOUN consistence%1:07:02::
+#12 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#18 same ADJ same%3:00:00::,same%3:00:02::
+#19 manifold NOUN manifold%1:06:00::
+Rather large differences were still found between reaction cells from different manifold fillings .
+6
+#0 rather ADV rather%4:02:00::,rather%4:02:04::
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 still ADV still%4:02:04::
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 different ADJ different%3:00:00::,different%5:00:00:other:00
+#11 manifold NOUN manifold%1:06:00::
+Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85 ` in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation energy and the effect of light intensity .
+12
+#3 tube NOUN tube%1:06:00::,tube%1:06:02::
+#6 manifold NOUN manifold%1:06:00::
+#9 illuminate VERB illuminate%2:30:03::
+#13 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#21 further ADJ further%5:00:00:far:00
+#24 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#26 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#32 obtain VERB obtain%2:40:00::
+#33 information NOUN information%1:10:00::,information%1:14:00::
+#40 effect NOUN effect%1:09:00::,effect%1:19:00::
+#42 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#43 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+In all cases there was readily measurable exchange after as little as one hour of illumination .
+3
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#13 hour NOUN hour%1:07:00::,hours%1:28:01::
+#15 illumination NOUN illumination%1:26:01::
+By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation energies ranging from 11 to 18 * * f was observed while dependence on the first power of the light intensity seemed to be indicated in most cases .
+12
+#1 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#4 seal VERB seal%2:35:03::
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#8 manifold NOUN manifold%1:06:00::
+#10 dependency NOUN dependency%1:26:00::
+#11 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#15 range VERB range%2:42:00::
+#24 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#30 power NOUN power%1:10:00::
+#33 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#34 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#41 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl oxalate actinometer solution illuminated for a known time in a typical reaction cell and making appropriate conversions based on the differences in the absorption spectra of uranyl oxalate and of chlorine , and considering the spectral distribution of the light source .
+8
+#8 quantum NOUN quantum%1:09:01::
+#11 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#15 reduction NOUN reduction%1:04:02::,reduction%1:22:00::
+#21 solution NOUN solution%1:27:00::
+#22 illuminate VERB illuminate%2:30:03::
+#36 base VERB base%2:31:00::
+#54 spectral ADJ spectral%3:01:00::
+#58 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon tetrachloride at 65 ` is of the order of magnitude of unity .
+2
+#5 quantum NOUN quantum%1:09:01::
+#13 liquid ADJ liquid%3:00:00::
+When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced .
+4
+#9 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#14 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#16 illuminate VERB illuminate%2:30:03::
+#22 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Exchange was also observed in these cells , which had chlorine present at * * f .
+2
+#3 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#11 present ADJ present%3:00:02::
+Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon tetrachloride concentration on the reaction rate .
+17
+#4 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#13 trace NOUN trace%1:23:00::
+#17 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#20 effect NOUN effect%1:09:00::,effect%1:19:00::
+#27 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#28 phase NOUN phase%1:26:00::
+#38 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#41 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#43 different ADJ different%3:00:00::,different%5:00:00:other:00
+#44 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#47 tube NOUN tube%1:06:00::,tube%1:06:02::
+#52 obtain VERB obtain%2:40:00::
+#53 information NOUN information%1:10:00::,information%1:14:00::
+#56 effect NOUN effect%1:09:00::,effect%1:19:00::
+#59 concentration NOUN concentration%1:04:01::
+#64 concentration NOUN concentration%1:04:01::
+#68 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+Data on such comparisons together with data on the effect of light intensity are given in Table /1 .
+9
+#0 data NOUN data%1:14:00::,datum%1:09:00::
+#3 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#4 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#6 data NOUN data%1:14:00::,datum%1:09:00::
+#9 effect NOUN effect%1:09:00::,effect%1:19:00::
+#11 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#12 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#14 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#16 table NOUN table%1:14:00::
+In series /1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. .
+6
+#1 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#5 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#6 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#7 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#13 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#23 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The last column shows the rate of exchange that would have been observed at a relative intensity of 4 ( 14.7 cm. distance ) calculated on the assumptions that the incident light intensity is inversely proportional to the square of the distance of the lamp from the cell and that the rate is directly proportional to the incident light intensity .
+18
+#1 last ADJ last%5:00:00:unlikely:00
+#2 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#5 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#12 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#15 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#22 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#24 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#27 assumption NOUN assumption%1:09:00::
+#30 incident ADJ incident%3:01:00::
+#31 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#32 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#38 square NOUN square%1:23:00::
+#41 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#51 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#57 incident ADJ incident%3:01:00::
+#58 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#59 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+Direct proportionality of the rate to the incident intensity has also been assumed in obtaining the value in the last column for the fourth sample of series /2 , where the light intensity was reduced by use of a screen .
+12
+#0 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#4 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#7 incident ADJ incident%3:01:00::
+#12 assume VERB assume%2:31:00::
+#14 obtain VERB obtain%2:40:00::
+#16 value NOUN value%1:09:00::
+#19 last ADJ last%5:00:00:unlikely:00
+#20 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#26 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#31 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#34 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#39 screen NOUN screen%1:06:03::

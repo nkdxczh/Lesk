@@ -1,0 +1,694 @@
+ " Well " - said Mr. Skyros .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It was awkward : very awkward .
+2
+#2 awkward ADJ awkward%5:00:00:difficult:00
+#5 awkward ADJ awkward%5:00:00:difficult:00
+Someone reasonably trustworthy .
+1
+#1 reasonably ADV reasonably%4:02:00::
+And Angie knew -
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Time " , said Angie , and he smiled very sweet and slow at Mr. Skyros .
+2
+#1 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Not too much time , because I 'll be needing some more myself pretty much right away .
+2
+#2 too ADV too%4:02:00::
+#10 need VERB need%2:42:00::
+And I done favors for you , big favor not so long back , did n't I , and I 'm right here to take on where Pretty left off .
+7
+#3 favor NOUN favor%1:04:00::
+#7 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#8 favor NOUN favor%1:04:00::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#12 back ADV back%4:02:01::,back%4:02:04::
+#21 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#22 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+No trouble .
+1
+#1 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+I do n't want no trouble , you do n't want no trouble , nobody wants trouble , Mr. Skyros " .
+6
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#10 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#12 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#15 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#16 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Dear heaven , no , thought Mr. Skyros , turning away as another man came in .
+2
+#5 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He straightened his tie at the mirror with a shaking hand ; the genial smile seemed painted on his face .
+4
+#3 tie NOUN tie%1:06:01::
+#10 hand NOUN hand%1:08:00::,hand%1:10:01::
+#13 genial ADJ genial%5:00:00:friendly:01
+#19 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Angie knew - Speak of dangerous information !
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 information NOUN information%1:09:00::,information%1:10:02::
+Angie knew too much entirely already .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 already ADV already%4:02:00::
+Really he had Mr. Skyros at bay .
+2
+#0 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+" Big favor I done you .
+2
+#1 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#2 favor NOUN favor%1:04:00::
+Acourse there 's this deal o ' Denny 's - and Jackie 's - kinda hangin ' fire , ai n't it , maybe you 've been kinda worryin ' over that .
+1
+#4 deal NOUN deal%1:10:00::
+And can n't say I blame you " , said Angie thoughtfully .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" This deal with the ace o ' spades .
+3
+#2 deal NOUN deal%1:04:00::
+#5 ace NOUN ace%1:06:00::
+#8 spade NOUN spade%1:06:01::
+Anything to do with an ace o ' spades , bad luck " .
+2
+#5 ace NOUN ace%1:06:00::
+#8 spade NOUN spade%1:06:01::
+Ace of spades - a widow , that was what they called a widow , these low-class crooks remembered Mr. Skyros distractedly .
+2
+#11 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#17 crook NOUN crook%1:18:00::
+All about that Angie knew , too .
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 too ADV too%4:02:01::
+When things got a little out of hand , they very rapidly got a lot out of hand - it seemed to be a general rule .
+5
+#1 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#2 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#12 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#24 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#25 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+All just by chance , and in a way tracing back to poor Frank , all of it , because naturally - brothers , living together - and Angie -
+8
+#1 just ADV just%4:02:00::,just%4:02:03::
+#9 trace VERB trace%2:31:00::,trace%2:38:00::,trace%2:38:03::
+#10 back ADV back%4:02:01::,back%4:02:04::
+#12 poor ADJ poor%5:00:00:unfortunate:00
+#20 naturally ADV naturally%4:02:00::
+#22 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#24 live VERB live%2:42:08::
+#25 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+Mr. Skyros did not at all like the look on Angelo 's regular featured , almost girlishly good-looking face - or indeed anything about Angelo .
+7
+#3 not ADV not%4:02:00::
+#5 all ADV all%4:02:00::
+#6 like VERB like%2:37:05::
+#8 look NOUN look%1:04:00::,look%1:07:01::
+#12 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#18 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#21 indeed ADV indeed%4:02:03::
+Mr. Skyros was not a man who thought very much about moral principles ; he found money much more interesting ; but all the same he thought now , uneasily , of the way in which Angelo earned his living - and paid for his own stuff - and eyed the soft smile , and the spaniel like dark eyes , and he felt a little ill .
+16
+#3 not ADV not%4:02:00::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#18 more ADV more%4:02:00::,more%4:02:01::
+#26 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#27 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#33 way NOUN way%1:04:00::,way%1:09:00::
+#39 living NOUN living%1:21:00::
+#42 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#45 own ADJ own%5:00:00:personal:00
+#46 stuff NOUN stuff%1:07:00::
+#51 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+#58 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#59 eye NOUN eye%1:08:00::,eye%1:09:01::
+#63 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#66 ill ADJ ill%3:00:01::
+" Look , my friend " , he said , " in my life I learn , how is it the proverb says , better an ounce of prevention to a pound of cure .
+8
+#4 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 learn VERB learn%2:31:01::,learn%2:31:03::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#26 ounce NOUN ounce%1:05:00::
+#31 pound NOUN pound%1:23:09::,pound%1:23:10::
+#33 cure NOUN cure%1:06:00::
+I stay in business so long because I 'm careful .
+5
+#1 stay VERB stay%2:42:02::
+#3 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#5 long NOUN longing%1:12:00::
+#9 careful ADJ careful%3:00:00::,careful%5:00:00:mindful:00
+Two weeks , a month , we talk it over again , and maybe if nothing happens meanwhile to say the cops know this and that , then we make a little deal , is n't it " ?
+6
+#16 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 cop NOUN cop%1:18:00::
+#22 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#29 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 deal NOUN deal%1:10:00::
+" That 's a long while " , said Angie .
+3
+#4 long ADJ long%3:00:02::
+#5 while NOUN while%1:28:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I tell you , you want to leave it that way , I do n't fool around with it .
+2
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+I go over to Castro and get fixed up there .
+2
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#2 over ADV over%4:02:00::
+I can n't wait no two weeks " .
+1
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+And Mr. Skyros did n't like Angie , but what with Prettyman and three of his boys inside , and not likely to come out - And Angie such a valuable salesman , Prettyman said - All the nuisance and danger of getting in touch with practically a whole new bunch of boys - Why did everything have to happen at once ?
+9
+#5 like VERB like%2:37:05::
+#17 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#20 not ADV not%4:02:00::
+#21 likely ADJ likely%3:00:00::
+#34 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#46 practically ADV practically%4:02:00::
+#49 new ADJ new%3:00:00::
+#57 have VERB have%2:42:08::
+#59 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Denny said stupidly , " Why , you ai n't turning Angie down , are you , Mr. Skyros ?
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I mean , we all figured - I guess anybody 'd figure - Angie " -
+2
+#5 figure VERB figure%2:31:01::,figure%2:31:02::
+#11 figure VERB figure%2:31:01::,figure%2:31:02::
+" Mr. Skyros too smart a fellow want to get rid of me " , he said .
+4
+#4 smart ADJ smart%3:00:00::
+#6 fellow NOUN fellow%1:18:00::
+#7 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Oh , God , the name repeated over and over , anybody to hear - Not being a fool , Mr. Skyros knew why .
+5
+#2 God NOUN god%1:18:00::
+#5 name NOUN name%1:14:00::
+#6 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#18 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+#22 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+But aside from everything else , it would scarcely be pleasant to have dealings with one who was nominally an underling and actually held - you could say - the whip hand .
+3
+#12 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 dealing NOUN dealing%1:04:02::
+#22 actually ADV actually%4:02:01::
+If Mr. Skyros had dreamed of all the trouble that young man would eventually cause -
+2
+#4 dream VERB dream%2:36:00::
+#8 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Of course , there was another factor .
+1
+#6 factor NOUN factor%1:08:00::,factor%1:18:00::
+Angie worth his weight in gold right now , but these users , they sometimes went down fast .
+5
+#3 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#5 gold NOUN gold%1:21:00::
+#6 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#17 fast ADV fast%4:02:01::
+Who knew , Angie might not last long .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 last VERB last%2:42:01::
+#7 long NOUN longing%1:12:00::
+The sweat broke out on Mr. Skyros ' forehead as he realized he had been actually thinking - hoping - planning - perhaps -
+4
+#1 sweat NOUN sweat%1:04:00::
+#11 realize VERB realize%2:31:01::
+#16 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#20 plan VERB plan%2:31:00::,plan%2:31:01::
+Good God above , had not Domokous been enough ?
+1
+#5 not ADV not%4:02:00::
+He patted Angelo 's thin shoulder paternally .
+2
+#4 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#5 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+" Now you do n't want to go talking that way " , he said .
+3
+#5 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#10 way NOUN way%1:04:00::,way%1:09:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Sure , sure , you 're the one take over for Pretty , soon as I get the supply , get started up again , is n't it ?
+2
+#14 soon ADV soon%4:02:00::
+#21 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+You do n't need worry , Angelo .
+2
+#3 need VERB need%2:42:00::
+#4 worry VERB worry%2:37:00::,worry%2:37:01::
+I tell you , I know how it is with you , my friend , I sympathize , and I 'll make it a special point - a special favor - get in touch , and get some stuff just for you .
+7
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#29 favor NOUN favor%1:04:00::
+#38 stuff NOUN stuff%1:07:00::
+#39 just ADV just%4:02:00::,just%4:02:03::
+I do n't know if I can manage it tonight or tomorrow , but I 'll try my best , my friend .
+4
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#18 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#21 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+You see , you got to remember , we all got schedules , like any business !
+2
+#11 schedule NOUN schedule%1:09:00::
+#15 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+My man , he won n't be around a little while , he just fixed me up with this stuff they took out of the Elite .
+4
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 around ADV around%4:02:01::
+#10 while NOUN while%1:28:00::
+#19 stuff NOUN stuff%1:07:00::
+It 's awkward , you see that , is n't it " ?
+1
+#5 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+" Well , that 's your business , Mr. Skyros " , said Angie , and his dreamy eyes moved past Mr. Skyros ' shoulder to gaze vaguely out the ground glass window .
+7
+#6 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 eye NOUN eye%1:08:00::,eye%1:09:01::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#24 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#27 vaguely ADV vaguely%4:02:00::
+#32 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+" I appreciate it , you do that .
+1
+#2 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+We do n't none of us want no trouble .
+2
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+I 'm in a room over the Golden Club on San Pedro , you just ask for me there , you want see me .
+5
+#4 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#14 just ADV just%4:02:00::,just%4:02:03::
+#18 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#21 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#22 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+Or maybe I call you - tonight ?
+1
+#3 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+About nine o ' clock , I call and see if you got any .
+2
+#7 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#9 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+A couple decks for me , Mr. Skyros - and ten twelve to sell , see , I like to have a little ready cash " .
+4
+#1 couple NOUN couple%1:23:01::
+#13 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 cash NOUN cash%1:21:00::
+" Oh , now , I do n't know about that much " , said Mr. Skyros .
+2
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" And you know , Angelo , Pretty , he always keeps it a strict cash basis , like they say " -
+3
+#10 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Sure " , said Angie .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Fifty a throw , that the deal ?
+2
+#2 throw NOUN throw%1:26:00::
+#6 deal NOUN deal%1:10:00::
+I bring you the cash , say five hundred for ten decks .
+2
+#4 cash NOUN cash%1:21:00::
+#6 say VERB say%2:32:01::
+" Standard deal , Mr. Skyros .
+2
+#1 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#2 deal NOUN deal%1:10:00::
+You go ' n ' have a look round for it " .
+1
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+" I do my best " , said Mr. Skyros earnestly , " just for you , my friend .
+3
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 just ADV just%4:02:00::,just%4:02:03::
+#18 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+This is awkward for everybody , is n't it , we all got to put up with inconvenience sometimes .
+1
+#2 awkward ADJ awkward%5:00:00:difficult:00
+He got out of there in a hurry , brushing past another man in the door , mopping his brow .
+4
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#9 brush VERB brush%2:30:00::,brush%2:35:00::
+#12 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 brow NOUN brow%1:08:00::
+The expedient thing - yes , very true , one must make do as one could , in some situations .
+3
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#19 situation NOUN situation%1:26:01::
+It could all be straightened out later .
+1
+#6 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+Not very much later , but when things had settled down a little .
+2
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#7 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+He was not a superstitious man , but he felt perhaps there was a little something in that , indeed .
+3
+#2 not ADV not%4:02:00::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 feel VERB feel%2:31:00::,feel%2:39:00::
+He rather wished he had never got into the business , and still - scarcely to be resisted , a nice little profit with not much work involved , easy money .
+3
+#1 rather ADV rather%4:02:01::
+#20 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#27 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+Katya Roslev , who would be Katharine Ross so very soon now , rang up her first sale of the day and counted back the change .
+6
+#8 so ADV so%4:02:03::,so%4:02:07::
+#10 soon ADV soon%4:02:00::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#17 sale NOUN sale%1:04:00::,sale%1:04:02::
+#20 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#22 count VERB count%2:32:00::,count%2:32:01::
+She did not notice that the customer seized her purchase and turned away without a smile or a word of thanks .
+5
+#2 not ADV not%4:02:00::
+#6 customer NOUN customer%1:18:00::
+#7 seize VERB seize%2:31:00::,seize%2:31:04::,seize%2:40:01::,seize%2:40:02::
+#9 purchase NOUN purchase%1:04:00::
+#18 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+Usually she marked the few who did thank you , you did n't get that kind much in a place like this : and she played a little game with herself , seeing how downright rude she could act to the others , before they 'd take offense , threaten to call the manager .
+8
+#19 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#25 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#28 game NOUN game%1:04:00::,game%1:09:00::
+#32 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#35 rude ADJ rude%3:00:04::
+#38 act VERB act%2:29:00::,act%2:41:00::
+#47 offense NOUN offence%1:12:00::
+#51 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Funny how seldom they did : used to it , probably .
+1
+#0 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+The kind who came into a cheap store like this !
+2
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 store NOUN store%1:06:00::
+Grab , snatch , I saw that first !
+2
+#0 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+and , Here , I 'll take this , I was before her , you wait on me now or I do n't bother with it , see !
+3
+#6 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#18 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#23 bother VERB bother%2:41:00::
+This kind of place .
+1
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+She 'd be through here , just no time at all - leave this kind of thing ' way behind .
+4
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#6 just ADV just%4:02:00::,just%4:02:03::
+#8 time NOUN time%1:28:01::,time%1:28:05::
+#16 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Off at noon , and she 'd never come back .
+1
+#7 never ADV never%4:02:00::
+Never have to .
+1
+#1 have VERB have%2:42:08::
+She 'd be smart about it , get him to give it to her in little bills so 's nobody would suspect - maybe could n't get it until Monday account of that , the banks - But that was n't really long to wait .
+9
+#3 smart ADJ smart%3:00:00::
+#7 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#10 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#16 bill NOUN bill%1:21:00::
+#17 so CONJ so%4:02:06::
+#35 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#41 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#42 long ADJ long%3:00:02::
+#44 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Not when she 'd waited so long already .
+4
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 long NOUN longing%1:12:00::
+#7 already ADV already%4:02:00::
+No need say anything at all to the old woman .
+2
+#1 need NOUN need%1:26:00::
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She had it all planned out , how she 'd do .
+2
+#3 all ADV all%4:02:00::
+#4 plan VERB plan%2:31:00::,plan%2:31:01::
+She 'd say she did n't feel good on Sunday , could n't go to church - there 'd be a little argument , but she could be stubborn - and when the old woman had gone , quick pack the things she 'd need to take , all but the dress she 'd wear Monday , and take the bag down to that place in the station where you could put things in a locker overnight , for a dime .
+14
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 argument NOUN argument%1:10:00::
+#36 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#39 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+#41 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#46 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#51 dress NOUN dress%1:06:00::
+#54 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#58 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#60 bag NOUN bag%1:06:00::
+#67 station NOUN station%1:06:00::
+#71 put VERB put%2:35:00::,put%2:35:05::
+#72 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#75 locker NOUN locker%1:06:00::
+Then on Monday morning - or it might have to be Tuesday - get up and leave just the usual time , and last thing , put the money in an envelope under the old woman 's purse there in the drawer .
+10
+#3 morning NOUN morning%1:28:00::,morning%1:28:01::
+#16 leave VERB leave%2:38:00::,leave%2:41:00::
+#17 just ADV just%4:02:05::
+#20 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#23 last ADJ last%5:00:00:unlikely:00
+#24 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#26 put VERB put%2:35:00::,put%2:35:05::
+#31 envelope NOUN envelope%1:06:01::
+#38 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#41 drawer NOUN drawer%1:06:00::
+She would n't be going to get that for an hour or so after Katya had left , go do the daily shopping .
+3
+#10 hour NOUN hour%1:07:00::,hours%1:28:01::
+#16 leave VERB leave%2:38:00::,leave%2:41:00::
+#22 shop NOUN shop%1:06:00::
+No need leave a note with it , either - or maybe just something like , Do n't worry about me , I 'm going away to make a better life .
+8
+#1 need NOUN need%1:26:00::
+#2 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#4 note NOUN note%1:10:03::
+#12 just ADV just%4:02:00::,just%4:02:03::
+#18 worry VERB worry%2:37:00::,worry%2:37:01::
+#27 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#29 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#30 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+A better life .
+2
+#1 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#2 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+It was n't as if she wanted much .
+1
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+She did n't mind working hard , not as if she figured to do anything wrong to live easy and soft - all she wanted was a chance , where she was n't marked as what she was .
+7
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#5 hard ADV hard%4:02:00::
+#11 figure VERB figure%2:31:01::,figure%2:31:02::
+#17 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#18 easy ADV easy%4:02:01::
+#24 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#33 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+To be Katharine Ross , and work in a nicer shop somewhere , at a little more money so she could have prettier clothes , and learn ladies ' manners and all like that , and get to know different people than up to now , not just the ones like her here , with foreign sounding names , the ones went to the same church and - Different place , different job , different people , she 'd be all different too .
+26
+#6 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#9 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#10 shop NOUN shop%1:06:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 clothes NOUN clothes%1:06:00::
+#26 learn VERB learn%2:31:01::,learn%2:31:03::
+#27 lady NOUN lady%1:18:00::,lady%1:18:01::
+#29 manner NOUN manner%1:07:01::,manners%1:07:00::
+#38 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#39 different ADJ different%5:00:00:unusual:00
+#40 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#46 not ADV not%4:02:00::
+#47 just ADV just%4:02:00::,just%4:02:03::
+#52 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#55 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#57 name NOUN name%1:14:00::
+#64 same ADJ same%3:00:00::,same%3:00:02::
+#68 different ADJ different%5:00:00:unusual:00
+#69 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#71 different ADJ different%5:00:00:unusual:00
+#72 job NOUN job%1:04:00::,job%1:06:00::
+#74 different ADJ different%5:00:00:unusual:00
+#75 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#80 all ADV all%4:02:00::
+#81 different ADJ different%5:00:00:unusual:00
+#82 too ADV too%4:02:01::
+Prettier , she 'd do her hair another way ; smarter , and wear different kinds of clothes - she 'd be Katharine Ross , just what that sounded like .
+6
+#6 hair NOUN hair%1:08:00::
+#8 way NOUN way%1:04:00::,way%1:09:00::
+#13 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#14 different ADJ different%5:00:00:unusual:00
+#17 clothes NOUN clothes%1:06:00::
+#25 just ADV just%4:02:05::
+" You 've give me the wrong change " , said the customer sharply .
+5
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#6 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#7 change NOUN change%1:21:02::,change%1:21:03::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 customer NOUN customer%1:18:00::
+" Think I can n't count " ?
+2
+#1 think VERB think%2:31:01::,think%2:31:03::
+#5 count VERB count%2:32:00::,count%2:32:01::
+Katya made up the amount in indifferent silence .
+1
+#6 indifferent ADJ indifferent%5:00:00:uninterested:00
+She was listening to other voices , out of the future .
+3
+#4 other ADJ other%3:00:00::
+#5 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#10 future NOUN future%1:10:00::,future%1:28:00::
+Some of those vaguely imagined new , different people .
+3
+#3 vaguely ADV vaguely%4:02:00::
+#5 new ADJ new%3:00:00::
+#7 different ADJ different%5:00:00:unusual:00
+Oh , Katharine 's awfully nice , and pretty too , I like Katharine .
+4
+#4 awfully ADV awfully%4:02:00::
+#5 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#9 too ADV too%4:02:01::
+#12 like VERB like%2:37:05::
+Let 's ask Katharine to go with us , she 's always lots of fun .
+1
+#11 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+Soon , very soon now & & & .
+2
+#0 soon ADV soon%4:02:00::
+#3 soon ADV soon%4:02:00::
+Mendoza did n't wake until nearly nine thirty .
+2
+#3 wake VERB wake%2:29:02::
+#5 nearly ADV nearly%4:02:00::
+It was going to be another hot day ; already the thermometer stood close to ninety .
+4
+#6 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 already ADV already%4:02:00::
+#12 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+Alison was still sound asleep ; he made fresh coffee and searched through all the desk drawers for more cigarettes before thinking of her handbag , and found a crumpled stray cigarette at its bottom , which tasted peculiarly of face powder .
+9
+#2 still ADV still%4:02:00::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#8 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+#9 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#16 drawer NOUN drawer%1:06:00::
+#27 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#30 stray ADJ stray%5:00:00:sporadic:00
+#34 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#38 peculiarly ADV peculiarly%4:02:00::
+He left a note propped on the desk asking her to call him sometime today , and drove home .
+5
+#1 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#3 note NOUN note%1:10:03::
+#8 ask VERB ask%2:32:01::,ask%2:32:05::
+#11 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#17 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+After he 'd got out fresh liver for Bast , he paused to look at her crouched daintily over her dish .
+4
+#5 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+#6 liver NOUN liver%1:13:00::
+#13 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#20 dish NOUN dish%1:06:00::
+Surely she was just a trifle fatter around the middle ?
+3
+#0 surely ADV surely%4:02:00::
+#3 just ADV just%4:02:00::,just%4:02:03::
+#9 middle NOUN middle%1:28:00::
+He seemed to remember reading somewhere that Abyssinians had large litters , and suffered a dismaying vision of the apartment overrun with a dozen kittens .
+8
+#4 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#8 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#9 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 litter NOUN litter%1:06:00::
+#13 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#20 overrun VERB overrun%2:42:00::
+#23 dozen NOUN dozen%1:23:00::
+#24 kitten NOUN kitten%1:05:00::
+- what then " ? he asked her severely .
+1
+#8 severely ADV severely%4:02:02::
+" A lot of people are so peculiar that they do n't like cats , it 's not the easiest thing in the world to find good homes for kittens - and , damn it , you know very well if I have them around long , impossible to give them away !
+15
+#2 lot PRON lots%1:23:00::
+#4 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#7 peculiar ADJ peculiar%5:00:00:strange:00
+#13 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#17 not ADV not%4:02:00::
+#19 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#20 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#23 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#25 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#27 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#29 kitten NOUN kitten%1:05:00::
+#37 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#44 around ADV around%4:02:01::
+#45 long NOUN longing%1:12:00::
+And I suppose now that you 've finally grown up , if a little late , you 'd go on producing kittens every six months or so .
+5
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#14 late ADV late%4:02:00::
+#20 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#21 kitten NOUN kitten%1:05:00::
+Yes , well , it 's a pity to spoil your girlish figure - which all those kittens would do anyway - but I think when you 've raised these we 'll just have the vet fix it so there won n't be any more .
+11
+#7 pity NOUN pity%1:11:00::
+#9 spoil VERB spoil%2:35:00::
+#12 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#17 kitten NOUN kitten%1:05:00::
+#20 anyway ADV anyway%4:02:00::
+#24 think VERB think%2:31:01::,think%2:31:03::
+#32 just ADV just%4:02:00::,just%4:02:03::
+#33 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#35 vet NOUN vet%1:18:00::
+#36 fix VERB fix%2:29:00::
+#38 so CONJ so%4:02:10::
+I wonder if the Carters would take one .
+2
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#6 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+And it 's no good looking at me like that " , as she wound affectionately around his ankles .
+2
+#4 good NOUN good%1:07:00::
+#5 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::

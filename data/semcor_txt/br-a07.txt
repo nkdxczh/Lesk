@@ -1,0 +1,236 @@
+The resentment among Democratic organization leaders to the reported Wagner plan was directed particularly at the Mayor 's efforts to name his own running mates without consulting the leaders .
+2
+#12 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+#20 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+Some Democratic district and county leaders are reported trying to induce State Controller Arthur Levitt of Brooklyn to oppose Mr. Wagner for the Mayoral nomination in the Sept. 7 Democratic primary .
+3
+#7 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#8 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 induce VERB induced%3:00:00::
+These contend there is a serious question as to whether Mr. Wagner has the confidence of the Democratic rank and file in the city .
+2
+#1 contend VERB contend%2:32:01::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Their view is that last-minute changes the Mayor is proposing to make in the Democratic ticket only emphasize the weakness of his performance as Mayor .
+2
+#9 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He is publicly on record as believing Mr. De Sapio should be replaced for the good of the party .
+2
+#6 believe VERB believe%2:31:03::
+#12 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+Last night the Mayor visited Mr. Buckley at the Bronx leader 's home for a discussion of the situation .
+1
+#4 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+Apparently he believes Mr. Buckley holds the key to the Democratic organization 's acceptance of his choices for running mates without a struggle .
+1
+#5 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+In talks with Mr. Buckley last week in Washington , the Mayor apparently received the Bronx leader 's assent to dropping Controller Lawrence E. Gerosa , who lives in the Bronx , from this year 's ticket .
+3
+#13 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#20 drop VERB drop%2:31:06::,drop%2:32:00::,drop%2:35:01::,drop%2:41:01::
+#27 live VERB live%2:42:08::
+But Mr. Buckley seems to have assumed he would be given the right to pick Mr. Gerosa 's successor .
+2
+#6 assume VERB assume%2:31:00::
+#14 pick VERB pick%2:31:00::
+The Mayor declined in two interviews with reporters yesterday to confirm or deny the reports that he had decided to run and wanted Mr. Screvane , who lives in Queens , to replace Abe Stark , the incumbent , as the candidate for President of the City Council and Mr. Beame , who lives in Brooklyn , to replace Mr. Gerosa as the candidate for Controller .
+9
+#2 decline VERB decline%2:40:00::
+#10 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#12 deny VERB deny%2:32:00::,deny%2:32:01::
+#20 run VERB run%2:33:06::
+#22 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#27 live VERB live%2:42:08::
+#32 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#53 live VERB live%2:42:08::
+#58 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+The Mayor spoke yesterday at the United Irish Counties Feis on the Hunter College Campus in the Bronx .
+1
+#2 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+After his speech , reporters asked him about the report of his political intentions , published in yesterday 's New York Times .
+2
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+#15 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+The Mayor said :
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+But as I have said before , if I announce my candidacy , I will have something definite to say about running mates " .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+A wave of public resentment against corruption in government is rising in Massachusetts .
+1
+#10 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+The taxi driver taking the visitor from the airport remarks that politicians in the state are " all the same " .
+1
+#3 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+" It 's ' See Joe , see Jim " ' , he says .
+1
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+A succession of highly publicized scandals has aroused the public within the last year .
+1
+#7 arouse VERB arouse%2:37:00::
+Day after day some new episode is reported .
+1
+#7 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+An assistant attorney general is directed to investigate .
+1
+#5 direct VERB direct%2:32:00::
+Congress starts another week tomorrow with sharply contrasting forecasts for the two chambers .
+1
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+In the Senate , several bills are expected to pass without any major conflict or opposition .
+1
+#9 pass VERB pass%2:41:02::
+In the House , the Southern-Republican coalition is expected to make another major stand in opposition to the Administration 's housing bill , while more jockeying is expected in an attempt to advance the aid-to-education bill .
+2
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 advance VERB advance%2:30:01::,advance%2:30:09::,advance%2:32:00::,advance%2:33:00::,advance%2:38:00::,advance%2:41:01::
+The panel 's action depends on the return of Representative James W. Trimble , Democrat of Arkansas , who has been siding with Speaker Sam Rayburn 's forces in the Rules Committee in moving bills to the floor .
+1
+#21 side VERB side%1:10:00::
+The Democratic leadership , however , hopes to pass it sometime this week .
+1
+#8 pass VERB pass%2:41:02::
+The $ 6100000000 measure , which was passed last Monday by the Senate , provides for forty-year mortgages at low down-payments for moderate-income families .
+1
+#7 pass VERB pass%2:41:02::
+It also provides for funds to clear slums and help colleges build dormitories .
+1
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+The education bill appears to be temporarily stalled in the Rules Committee , where two Northern Democratic members who usually vote with the Administration are balking because of the religious controversy .
+2
+#3 appear VERB appear%2:30:00::
+#25 balk VERB balk%2:41:00::
+Mr. Delaney and Mr. O ' Neill are not willing to vote on the public-school measure until the defense education bill clears the House Education and Labor Committee .
+1
+#21 clear VERB clear%2:32:01::,clear%2:38:01::,clear%2:40:07::,clear%2:41:01::
+About half of all Peace Corps projects assigned to voluntary agencies will be carried out by religious groups , according to an official of the corps .
+1
+#7 assign VERB assign%2:31:00::,assign%2:41:00::
+In the $ 40000000 budget that has been submitted for Congressional approval , $ 26000000 would be spent through universities and private voluntary agencies .
+1
+#8 submit VERB submit%2:32:00::,submit%2:32:01::
+Twelve projects proposed by private groups are at the contract-negotiation stage , Gordon Boyce , director of relations with the voluntary agencies , said in a Washington interview .
+2
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Six of these were proposed by religious groups .
+1
+#4 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+Interviews with several church leaders have disclosed that this development has raised the question whether the Peace Corps will be able to prevent confusion for church and state over methods , means and goals .
+2
+#11 raise VERB raise%2:32:01::,raise%2:37:08::
+#22 prevent VERB prevent%2:41:00::
+There are a number of ways this could happen , the churchmen pointed out , and here is an example :
+1
+#8 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Last month in Ghana an American missionary discovered when he came to pay his hotel bill that the usual rate had been doubled .
+3
+#7 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#12 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#22 double VERB double%2:40:03::
+When he protested , the hotel owner said :
+2
+#2 protest VERB protest%2:32:00::,protest%2:41:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Why do you worry ?
+1
+#4 worry VERB worry%2:37:00::,worry%2:37:01::
+The U. S. Government is paying for it .
+1
+#5 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The U. S. Government pays for all its overseas workers " .
+1
+#4 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+" I do n't work for the Government " , the American said .
+2
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Same thing " , he said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+And then , some churchmen remarked , there is a more classical church-state problem :
+1
+#5 remark VERB remark%2:32:01::
+Can religious agencies use Government funds and Peace Corps personnel in their projects and still preserve the constitutional requirement on separation of church and state ?
+1
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+No religious group , he declared in an interview , will receive Peace Corps funds unless it forswears all proselytizing on the project it proposes .
+2
+#5 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#24 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+At a gay party in the Kremlin for President Sukarno of Indonesia , Premier Khrushchev pulled out his pockets and said , beaming : " Look , he took everything I had " !
+5
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 beam VERB beam%2:32:01::
+#25 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#28 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#31 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This was the biggest annual outlay since the Communist program for the under-developed countries made its modest beginning in 1954 .
+1
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+A committee of experts has recommended that a country 's population be considered in the distribution of professional posts at the United Nations .
+1
+#5 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+This was disclosed today by a responsible source amid intensified efforts by the Soviet Union to gain a greater role in the staff and operation of the United Nations .
+2
+#9 intensify VERB intensify%2:30:00::
+#16 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+One effect of the proposal , which puts a premium on population instead of economic strength , as in the past , would be to take jobs from European nations and give more to such countries as India .
+3
+#7 put VERB put%2:31:13::,put%2:34:00::
+#25 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#31 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+The new formula for filling staff positions in the Secretariat is one of a number of recommendations made by a panel of eight in a long and detailed report .
+1
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The report was completed after nearly eighteen months of work on the question of the organization of the United Nations .
+1
+#3 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+The Advisory Committee on Administrative and Budgetary Questions is expected to receive the report this week .
+1
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+The jobs formula is understood to follow these lines :
+1
+#6 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+The three leaders of Laos agreed today to begin negotiations tomorrow on forming a coalition government that would unite the war-ridden kingdom .
+3
+#5 agree VERB agree%2:32:00::,agree%2:32:01::
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#12 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+The decision was made in Zurich by Prince Boun Oum , Premier of the pro-Western royal Government ; Prince Souvanna Phouma , leader of the nation 's neutralists and recognized as Premier by the Communist bloc , and Prince Souphanouvong , head of the pro-Communist Pathet Lao forces .
+2
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#29 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+Their joint statement was welcomed by the Western delegations who will attend tomorrow the nineteenth plenary session of the fourteen-nation conference on the future of Laos .
+2
+#4 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+#11 attend VERB attend%2:42:00::
+An agreement among the Princes on a coalition government would ease their task , diplomats conceded .
+2
+#10 ease VERB ease%2:38:00::
+#15 concede VERB concede%2:32:00::,concede%2:33:00::
+W. Averell Harriman of the United States , Malcolm MacDonald of Britain , Maurice Couve de Murville , France 's Foreign Minister , and Howard C. Green , Canada 's Minister of External Affairs , concluded , meanwhile , a round of consultations here on future tactics in the conference .
+1
+#35 conclude VERB conclude%2:32:06::,conclude%2:42:02::,concluding%5:00:00:closing:00
+They had a two-hour luncheon together in " an atmosphere of cordial understanding and relaxation " , she said .
+2
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The three Laotians agreed upon a six-point agenda for their talks , which are to last three days .
+2
+#3 agree VERB agree%2:32:00::,agree%2:32:01::
+#15 last VERB last%2:42:00::
+The Princess said it was too early to say what would be decided if no agreement was reached after three days .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+The meetings in Zurich , the statement said , would deal only with principles that would guide the three factors in their search for a coalition Government .
+3
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#16 guide VERB guide%2:38:01::,guide%2:41:00::

@@ -1,0 +1,226 @@
+These forty-seven special purpose governments have the authority to levy taxes , to borrow money , own property , sue and be sued , and in general to exercise normal corporate powers .
+6
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 levy VERB levy%2:40:00::
+#16 own VERB owned%3:00:00::
+#19 sue VERB sue%2:41:00::
+#22 sue VERB sue%2:41:00::
+#28 exercise VERB exercise%2:34:00::
+Unlike cities and towns , however , they do not have to submit any financial statements to the state Bureau of Audits .
+1
+#12 submit VERB submit%2:32:00::,submit%2:32:01::
+It is not an exaggeration to say that the state government has little or no fiscal control over these units of government .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In addition to the collection of service charges , the special districts levy annual property taxes of approximately $ 450000 .
+1
+#12 levy VERB levy%2:40:00::
+Included in the findings are :
+1
+#0 include VERB include%2:42:00::
+Forty-six states , including Rhode Island , end their fiscal year on June 30 .
+1
+#3 include VERB include%2:31:00::,include%2:41:03::
+In eight states whose fiscal years close on June 30 , a majority of their cities close their fiscal year on December 31 : ( Georgia , Iowa , Kentucky , Maine , Maryland , Minnesota , Virginia , and South Carolina ) .
+2
+#6 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#16 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+One state , Alabama , closes its fiscal year on September 30 , and all cities in the state , with one exception , also close fiscal years on September 30 .
+2
+#5 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#25 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+Mississippi closes its fiscal year on June 30 , while all of its cities close their fiscal years on September 30 .
+2
+#1 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#14 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+Pennsylvania closes its fiscal year on May 31 .
+1
+#1 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+All of its cities close their fiscal years on December 31 .
+1
+#4 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+The remaining twelve states have varying fiscal years for the state , city and local governments .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+However , only Illinois , Oregon , Louisiana and Rhode Island have a situation in which the sundry units of government vary widely in relation to fiscal uniformity .
+1
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+An excellent summary of advantages concerning the uniform fiscal year and coordinated fiscal calendars was contained in a paper presented by a public finance authority recently .
+3
+#5 concern VERB concern%2:42:00::,concern%2:42:01::
+#15 contain VERB contain%2:42:00::,contain%2:42:06::
+#19 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+He listed among the values of fiscal uniformity :
+1
+#1 list VERB list%2:32:00::,list%2:41:00::
+The uniform fiscal year ensures conformance with another common sense rule , that of having cash in the bank before checks are drawn .
+2
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+It enables towns to make more economical purchases and to take advantage of cash discounts .
+2
+#1 enable VERB enable%2:30:00::,enabling%3:00:00::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The uniform fiscal year promotes more careful budgeting and strengthens control over expenditures .
+1
+#4 promote VERB promote%2:32:00::,promote%2:41:01::
+By fixing the tax rate in advance of spending , upper limits are set on expenditures .
+2
+#1 fix VERB fix%2:30:00::,fix%2:30:02::,fix%2:32:03::,fix%2:36:01::
+#13 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+Furthermore , tax collections not immediately needed for current expenditures may be invested in short-term treasury notes , augmenting the town 's miscellaneous revenues and reducing the tax levy .
+3
+#6 need VERB need%2:42:00::
+#12 invest VERB invest%2:40:00::
+#25 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+When towns have the same fiscal year it is relatively easy to make meaningful comparisons ; and as the cost of local government increases , the demand for such comparison also increases .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Towns having different fiscal years are difficult to compare .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+In any event it is a form of borrowing which could be and should be rendered unnecessary .
+1
+#15 render VERB render%2:30:00::
+Its elimination would result in the saving of interest costs , heavy when short-term money rates are high , and in freedom from dependence on credit which is not always available when needed most .
+1
+#32 need VERB need%2:42:00::
+This type of borrowing can be reduced to a minimum if quarterly installment payment of taxes is instituted and the first payment placed near the opening of the fiscal year .
+2
+#6 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#17 institute VERB institute%2:36:01::
+Any approach toward such a system looks toward saving and security .
+1
+#6 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+It should be noted that there are other and equally important reasons for establishing meaningful intergovernmental reporting bases on a uniform fiscal year .
+2
+#3 note VERB note%2:32:00::,note%2:39:00::
+#13 establish VERB establish%2:36:01::,establish%2:41:00::
+It has been said that when local government revenues were mostly produced locally from the property tax , the lack of a uniform fiscal year was no great handicap ; but with the growth of state and federal fiscal aid , the emphasis on equalization , and the state-local sharing of responsibility for certain important functions , this is no longer true .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 produce VERB produce%2:39:00::
+These involve more the mechanics employed in adjusting to fiscal uniformity than they do actual actual disadvantages to the principle .
+2
+#5 employ VERB employ%2:34:00::
+#7 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+This is an inherent part of adjusting fiscal calendars .
+1
+#6 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+It usually means a confused and disgruntled tax-paying public for a period of time .
+1
+#2 mean VERB mean%2:31:05::,mean%2:42:00::
+But cooperation and understanding between local officials and the citizenry help lessen this problem .
+1
+#10 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+This will be covered more fully later .
+1
+#3 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+It should be kept in mind that the ease or difficulty with which a town or city can convert to the proposed plan is directly dependent upon the financial condition of that town or city .
+2
+#3 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#18 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+Sacrifice will have to be made in some cases , but it is to the municipality 's advantage to finance the change-over for a short period of time rather than pay interest on tax anticipation notes indefinitely .
+2
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#30 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The type of program desired can be determined by the nature and extent of the adjustments needed .
+2
+#7 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#16 need VERB need%2:42:00::
+There are at least two problems to consider : one is a matter of adjusting the fiscal calendar ; the other is how to finance the adjustments when necessary .
+1
+#14 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+Twelve cities and towns in Rhode Island presently indicate some plans to establish a uniform and / or coordinated fiscal-tax year calendar .
+2
+#8 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 establish VERB establish%2:36:01::,establish%2:41:00::
+Plans vary from the " talking stage " to establishing special committees to accomplish this end .
+1
+#9 establish VERB establish%2:36:01::,establish%2:41:00::
+What is important here is that many of the cities and towns recognize the need for improved fiscal practices and are taking the initiative to obtain them .
+3
+#12 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#21 take VERB take%2:31:02::,take%2:34:00::
+#25 obtain VERB obtain%2:40:00::
+An analysis of the fiscal-tax collection year calendars throughout the state indicates that transition may not be as painful as is commonly thought .
+1
+#11 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+However , it must be stressed that much depends upon the financial condition of the individual cities and towns involved .
+1
+#5 stress VERB stress%2:32:00::,stress%2:32:01::
+The adjustments needed to establish a uniform and coordinated fiscal-tax collection year calendar throughout Rhode Island , based on a July 1 - June 30 year , are shown below .
+4
+#2 need VERB need%2:42:00::
+#4 establish VERB establish%2:36:01::,establish%2:41:00::
+#17 base VERB base%2:31:00::
+#28 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+Six cities and towns are presently on a July 1 - June 30 fiscal year and have coordinated their tax collection year with it .
+1
+#17 coordinate VERB coordinate%2:30:01::
+These municipalities include : Barrington , Lincoln , Middletown , Newport , North Kingstown , and South Kingstown .
+1
+#2 include VERB include%2:42:00::
+This change will automatically adjust their tax collection year calendar so as to make all tax installments due and payable in the fiscal year collectible within that year .
+2
+#4 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Six cities and towns are now on a July 1 - June 30 fiscal year and will need only to adjust their tax collection year calendar to establish uniformity .
+2
+#20 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#27 establish VERB establish%2:36:01::,establish%2:41:00::
+These cities and towns include Bristol , Glocester , Pawtucket , Cumberland , Central Falls , and Woonsocket .
+1
+#4 include VERB include%2:42:00::
+Both have excellent integration of their fiscal-tax collection year calendars .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In that both cities end their fiscal years on September 30 , they could levy taxes for an interim period of nine months , commencing with September 30 and ending with June 30 .
+1
+#14 levy VERB levy%2:40:00::
+Both would start their new fiscal year on July 1 .
+1
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Under this plan both Cranston and Providence would be on the uniform fiscal year but would still be using the same installment periods .
+1
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The remaining twenty-three towns have fiscal years which end prior to June 30 .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Assuming an adjustment to the July 1 - June 30 fiscal year , the required adjustment of the tax collection years and the towns involved are shown in Table 3 .
+3
+#0 assume VERB assume%2:31:00::
+#24 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#26 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+Aside from the matter of adjusting the fiscal and tax calendars , there is the problem of financing the adjustment when this is necessary .
+1
+#5 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+It should be emphasized strongly that adjustments in fiscal dates or adoption of interim budgets do not necessarily mean financing over and above normal governmental requirements .
+1
+#18 mean VERB mean%2:31:05::,mean%2:42:00::
+In many communities there is simply no financial problem ; it is only a matter of adjusting accounting methods , careful fiscal planning and management , or some like combination of techniques .
+1
+#16 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+As shown earlier in Table 1 , the several cities and towns use widely varied fiscal and tax collection calendars .
+2
+#1 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+These factors practically insure that no single financing formula is feasible ; each situation must be studied and a plan developed that takes into consideration such factors as the effect of the existing and prospective tax calendars , the financial condition of the treasuries , and the length of the transition interval .
+3
+#3 insure VERB insure%2:32:04::,insure%2:40:00::
+#16 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#20 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Suitable plans range from those that are very easy to develop to those that are difficult to formulate and require borrowing ranging from short-term serial notes to long-term bonds .
+3
+#2 range VERB range%2:42:00::
+#10 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#21 range VERB range%2:42:00::
+The financial problem , where it exists , usually stems from the adoption of a budget for the transitional or adjustment period .
+2
+#6 exist VERB exist%2:42:00::
+#9 stem VERB stem%2:42:00::
+For those communities which have financial difficulties in effecting adjustments , there are a number of alternatives any one of which alone , or in combination with others , would minimize if not even eliminate the problem .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::

@@ -1,0 +1,786 @@
+ One day , the children had wanted to get up onto General Burnside 's horse .
+3
+#1 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#14 horse NOUN horse%1:05:00::,horse%1:14:00::
+They wanted to see what his back felt like - the General 's .
+3
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#7 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+He looked so comfortable being straight .
+4
+#1 look VERB look%2:39:01::,look%2:42:02::
+#2 so ADV so%4:02:03::,so%4:02:07::
+#3 comfortable ADJ comfortable%3:00:01::
+#5 straight ADJ straight%5:00:00:tidy:00
+They wanted to touch the mystery .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 mystery NOUN mystery%1:09:00::
+Arlene was boosting them up when the policeman came by .
+1
+#4 up ADV up%4:02:00::,up%4:02:02::
+He was very rude .
+1
+#3 rude ADJ rude%3:00:04::
+Arlene had a hard voice , too , this time .
+5
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#4 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#6 too ADV too%4:02:01::
+#9 time NOUN time%1:11:00::
+The policeman 's eyes rather popped for a second ; but then Arlene got another tone in a hurry , and she said , " If it was n't for these dear children " - .
+9
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#4 rather ADV rather%4:02:00::,rather%4:02:04::
+#5 pop VERB pop%2:39:06::
+#8 second NOUN second%1:28:00::,second%1:28:01::
+#11 then ADV then%4:02:00::
+#13 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#15 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#31 dear ADJ dear%5:00:00:close:02
+The policeman got a confused , funny look on his face , and he had answered kind of politely , " Now , look here , lady : I know you got to entertain these kids and all .
+8
+#6 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#7 look NOUN look%1:04:00::,look%1:07:01::
+#10 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#15 answer VERB answer%2:31:00::,answer%2:32:00::
+#26 lady NOUN lady%1:18:01::,lady%1:18:02::
+#29 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#33 entertain VERB entertain%2:41:00::
+#35 kid NOUN kid%1:18:00::
+But this is a public park and it 's a city ordinance that the statues cannot be crawled on " .
+5
+#4 public ADJ public%3:00:00::,public%5:00:00:common:02
+#5 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#10 city NOUN city%1:15:00::,city%1:15:01::
+#11 ordinance NOUN ordinance%1:10:01::
+#17 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+Arlene was so ashamed that she hung her head when she said , " Yes , sir " .
+4
+#2 so ADV so%4:02:03::,so%4:02:07::
+#6 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#8 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The policeman walked on , but he looked back once .
+3
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#3 on ADV on%4:02:00::
+#9 once ADV once%4:02:00::
+That had happened on the day when two other unusual things had occurred .
+3
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Arlene had taught them a new way to have fun in their little private area ; and they had told their mother about the tumbles .
+7
+#5 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#6 way NOUN way%1:04:00::,way%1:09:00::
+#8 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#19 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#21 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+In matters of exact information , that kept her one step behind developments ; and so they were consistently true to their principles .
+6
+#1 matter NOUN matter%1:09:00::,matter%1:09:01::
+#4 information NOUN information%1:09:00::,information%1:10:02::
+#7 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#10 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#12 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#22 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+" Never mind " , Arlene had said , after the policeman had left , having pursued the usual unco-operative course of grownups .
+4
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 leave VERB leave%2:38:00::,leave%2:41:00::
+#16 pursue VERB pursue%2:35:00::,pursue%2:41:00::,pursue%2:41:01::
+#20 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+I know something that is much more fun that we can do on our little lawn " .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 lawn NOUN lawn%1:15:00::
+" What is it " ? asked the children , whose reflexes and replies were invariably so admirably normal and predictable .
+4
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 reflex NOUN reflex%1:04:00::
+#16 so ADV so%4:02:03::,so%4:02:07::
+#18 normal ADJ normal%3:00:01::,normal%3:00:03::
+" Just you wait " , advised Arlene , echoing the dialogue in a recent British movie .
+4
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#9 echo VERB echo%2:39:00::
+#14 recent ADJ recent%5:00:00:past:00
+#15 British ADJ british%3:01:00::
+And when they had got to their little lawn , they had had a most twirlingly magnificent time .
+4
+#8 lawn NOUN lawn%1:15:00::
+#14 most ADV most%4:02:01::
+#16 magnificent ADJ magnificent%5:00:00:impressive:00
+#17 time NOUN time%1:11:00::
+First , Arlene had put them through some rapid somersaults .
+1
+#4 put VERB put%2:31:13::,put%2:34:00::
+They had protested that that was n't any surprise .
+2
+#2 protest VERB protest%2:32:00::,protest%2:41:00::
+#8 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+" Just you wait " , said Arlene again , as though she were discovering the pleasantly tingling insinuations of that handy little sturdy statement .
+4
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#21 handy ADJ handy%5:00:00:convenient:00
+" Is it anything like cooked over oatmeal " ? asked one of the children .
+2
+#7 oatmeal NOUN oatmeal%1:13:01::
+#10 ask VERB ask%2:32:00::,ask%2:32:04::
+" Not the least bit " , Arlene snapped .
+1
+#8 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+One of the many things that was so nice about her was that she always took your questions seriously , particularly your very , very serious questions .
+7
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#8 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#14 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#15 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#20 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#25 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+Those were especially the ones that all other grownups laughed at loudest .
+2
+#2 especially ADV especially%4:02:00::
+#7 other ADJ other%3:00:00::
+She would sometimes even get a little hard on you , she took you so seriously .
+4
+#4 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#7 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#12 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#14 so ADV so%4:02:03::,so%4:02:07::
+But not hard for very long .
+2
+#1 not ADV not%4:02:00::
+#2 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+Just long enough to make you feel important .
+3
+#0 just ADV just%4:02:04::
+#2 enough ADV enough%4:02:00::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" Now " , said Arlene , eventually , making them both sit in formation on a big root of a live oak , the sort of root that divided itself and made their bottoms sag down and feel comfortable .
+12
+#1 now ADV now%4:02:07::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 make VERB make%2:36:15::
+#12 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#14 formation NOUN formation%1:14:00::,formation%1:17:00::
+#17 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#18 root NOUN root%1:20:00::
+#25 sort NOUN sort%1:09:00::,sort%1:18:00::
+#27 root NOUN root%1:20:00::
+#29 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#34 bottom NOUN bottom%1:08:00::
+#39 comfortable ADJ comfortable%3:00:01::
+" Now , we 're going to be like what General Burnside and his horse make us think of " .
+3
+#1 now ADV now%4:02:07::
+#14 horse NOUN horse%1:05:00::,horse%1:14:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The children looked at each other and sagged their bottoms down even more comfortably than ever .
+6
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 sag VERB sag%2:38:00::
+#9 bottom NOUN bottom%1:08:00::
+#10 down ADV down%4:02:00::,down%4:02:02::
+#12 more ADV more%4:02:00::
+#15 ever ADV ever%4:02:05::
+Their curiosity went happily out of bounds .
+2
+#1 curiosity NOUN curiosity%1:09:00::
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Then , Arlene threw herself backwards and wiggled in a way that was just wonderful .
+5
+#0 then ADV then%4:02:00::
+#3 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#5 backward ADV backward%4:02:03::
+#10 way NOUN way%1:04:00::,way%1:09:00::
+#13 just ADV just%4:02:00::,just%4:02:03::
+She held herself that way and turned her head towards them and laughed and winked .
+4
+#1 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#6 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#8 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" Imagine being able to laugh and wink when you 're like the top part of that picture frame at home " , one of them said .
+4
+#1 imagine VERB imagine%2:31:01::
+#3 able ADJ able%3:00:00::
+#20 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#26 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I'm General Burnside 's horse , upside down " , Arlene said , sort of gaspingly , for her : even she had to breathe kind of funny when she was in that position .
+3
+#5 horse NOUN horse%1:05:00::,horse%1:14:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#34 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+She made General Burnside 's horse 's belly do so funny when it was upside down .
+2
+#5 horse NOUN horse%1:05:00::,horse%1:14:00::
+#9 so ADV so%4:02:03::,so%4:02:07::
+Then , she was back on her feet , winking and smiling that enormous smile ( she had lots of wonderful big teeth that you never would have suspected she had when she was not smiling ) .
+11
+#0 then ADV then%4:02:00::
+#4 back ADV back%4:02:05::
+#7 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 lot PRON lots%1:23:00::
+#21 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#22 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#25 never ADV never%4:02:00::
+#28 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#34 not ADV not%4:02:00::
+And she would wink and throw kisses .
+2
+#5 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#6 kiss NOUN kiss%1:04:00::
+They both tried to keep smiling and winking for a long time , but it made their lips and eyelids tremble .
+3
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#17 lip NOUN lip%1:08:00::,lip%1:20:00::
+" This time " , Arlene said , and she even kept on wiggling a little bit while she was just talking , " you 're going to tell me what I am and what I'm doing .
+5
+#2 time NOUN time%1:11:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 little ADV less%4:02:01::
+#20 just ADV just%4:02:00::,just%4:02:03::
+#28 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It all has something to do with General Burnside and his horse " .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 horse NOUN horse%1:05:00::,horse%1:14:00::
+This time , it was so grand ; they could tell exactly what it was .
+4
+#1 time NOUN time%1:11:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#10 tell VERB tell%2:31:00::,tell%2:31:01::
+#11 exactly ADV exactly%4:02:02::
+It was General Burnside 's horse running in a circle .
+3
+#5 horse NOUN horse%1:05:00::,horse%1:14:00::
+#6 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#9 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+His legs shook , and the shaking went right on up his body through his hips to his shoulders .
+8
+#1 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#2 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#6 shake NOUN shake%1:10:00::
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#12 body NOUN body%1:08:00::,body%1:08:02::
+#15 hip NOUN hip%1:08:00::
+#18 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+" That 's the General 's horse " , one of them cried out .
+2
+#4 general NOUN general%1:18:00::
+#6 horse NOUN horse%1:05:00::,horse%1:14:00::
+The other remarked , in a happy laughter , " That 's a funny old horse " .
+3
+#2 remark VERB remark%2:32:01::
+#6 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#15 horse NOUN horse%1:05:00::,horse%1:14:00::
+The first one said , " He sure does shake .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+He 's old " .
+1
+#2 old ADJ old%3:00:01::,old%3:00:02::
+Then there was the General kissing his wife .
+2
+#0 then ADV then%4:02:00::
+#4 general NOUN general%1:18:00::
+They had to be told that one .
+1
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+But it was even funnier after they had been told .
+2
+#4 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Their father , when he came back from those many business trips , just bumped their mother on the forehead with his lips and asked if anybody had thought to mix the martinis and put them in the electric icebox .
+9
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#11 trip NOUN trip%1:04:00::
+#13 just ADV just%4:02:00::,just%4:02:03::
+#14 bump VERB bump%2:35:00::
+#16 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#22 lip NOUN lip%1:08:00::,lip%1:20:00::
+#24 ask VERB ask%2:32:00::,ask%2:32:04::
+#34 put VERB put%2:35:00::,put%2:35:05::
+#38 electric ADJ electric%3:01:00::
+He was the funniest man .
+2
+#3 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He never could keep still , even when he did n't move his feet .
+4
+#1 never ADV never%4:02:00::
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#11 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#13 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+Then , they had to get up and be General Burnside .
+1
+#0 then ADV then%4:02:00::
+Or his horse .
+1
+#2 horse NOUN horse%1:05:00::,horse%1:14:00::
+All they could think of was to run around in circles , kicking their legs out .
+4
+#10 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+#12 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#14 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#15 out ADV out%4:02:04::
+It was n't very funny .
+1
+#4 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+Then , they said General Burnside was going to jump over his horse 's head ; and they did some somersaults .
+5
+#0 then ADV then%4:02:00::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+#12 horse NOUN horse%1:05:00::,horse%1:14:00::
+#14 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+But that was n't very funny , either .
+2
+#5 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+#7 either ADV either%4:02:00::
+" You ought to shake " , Arlene advised them .
+1
+#4 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+And Arlene showed them how to begin .
+1
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+She also taught them to sing " I wish I could shimmy like my sister Kate " .
+2
+#5 sing VERB sing%2:32:08::,sing%2:36:01::
+#14 sister NOUN sister%1:18:00::,sister%1:18:01::,sister%1:18:02::
+That helped a lot .
+1
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+They were clumsy , but they were beginning to catch on .
+1
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+They also caught on a little bit on how to smile a lot without your lips trembling .
+2
+#5 little ADV less%4:02:01::
+#15 lip NOUN lip%1:08:00::,lip%1:20:00::
+" Imagine you won't get your allowance if you 're caught not smiling - or smiling with your lips trembling too much " , Arlene suggested .
+5
+#1 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#4 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#10 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#11 not ADV not%4:02:00::
+#18 lip NOUN lip%1:08:00::,lip%1:20:00::
+That helped a great deal .
+1
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+They were a little late in getting home .
+1
+#4 late ADV late%4:02:00::
+" I'm sorry , Mrs. Minks " , Arlene said in a tone so low you could hardly hear it .
+6
+#2 sorry ADJ sorry%3:00:02::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#14 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#17 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+My mother constituted herself the voice of all of us .
+3
+#1 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#2 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#5 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" It 's perfectly understandable , Arlene " , my mother said in a friendly way .
+3
+#10 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 way NOUN way%1:04:00::,way%1:09:00::
+" I suppose you all were playing and forgot " ?
+2
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#6 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+" Yes , ma'am " , the children chorused heartily .
+1
+#9 heartily ADV heartily%4:02:01::
+The children rushed off to get rid of their sweaters ; and Arlene began tapping the kitchen door open .
+5
+#9 sweater NOUN sweater%1:06:00::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#14 tap VERB tap%2:39:01::
+#16 kitchen NOUN kitchen%1:06:00::
+#18 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+" Arlene 's a good girl " , my uncle remarked to us ; but he said it too soon , for it came out just before the tap to which the door responded .
+4
+#5 girl NOUN girl%1:18:01::,girl%1:18:03::
+#10 remark VERB remark%2:32:01::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 tap NOUN tap%1:11:00::
+That tap had a slight bang ish quality .
+4
+#1 tap NOUN tap%1:11:00::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 slight ADJ slight%5:00:00:insignificant:00
+#7 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+" She really is a dear little thing " , my mother agreed .
+4
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#5 dear ADJ dear%5:00:00:close:02
+#11 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#12 agree VERB agree%2:32:00::,agree%2:32:01::
+Her upper lip lifted slightly .
+4
+#1 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#2 lip NOUN lip%1:08:00::,lip%1:20:00::
+#3 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#4 slightly ADV slightly%4:02:01::
+She was biting into a small red radish ; and that action always caused her to lift her lip from the sting of the thing .
+8
+#2 bite VERB bite%2:35:00::
+#6 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#7 radish NOUN radish%1:20:00::
+#11 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#12 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#18 lip NOUN lip%1:08:00::,lip%1:20:00::
+#21 sting NOUN sting%1:26:01::
+Also , she lived in continual fear of finding a white worm curled up in a neat , mean little heap at the white center of the radish .
+9
+#3 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#8 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#10 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#11 worm NOUN worm%1:05:00::
+#16 neat ADJ neat%5:00:00:tidy:00
+#18 mean ADJ mean%5:00:00:ignoble:01,mean%5:00:00:nasty:00
+#23 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#24 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#27 radish NOUN radish%1:20:00::
+She would try to see over the bulge of her cheeks and somewhat under her teeth to the place where she was biting .
+6
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 cheek NOUN cheek%1:08:00::
+#15 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#18 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#22 bite VERB bite%2:35:00::
+It never worked , naturally ; but it made her look unusual .
+5
+#1 never ADV never%4:02:00::
+#2 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#4 naturally ADV naturally%4:02:00::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 look VERB look%2:39:01::,look%2:42:02::
+Also , when she had bitten off half of the small radish , she found the suspense unbearable ; and she would snatch the finger held half of the radish out to where she could inspect it .
+4
+#11 radish NOUN radish%1:20:00::
+#14 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#16 suspense NOUN suspense%1:09:00::
+#29 radish NOUN radish%1:20:00::
+One could hear a very faint , ladylike sigh of relief .
+2
+#5 faint ADJ faint%5:00:00:perceptible:00
+#10 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+Actually , it was inaudible to anyone not expecting it .
+2
+#0 actually ADV actually%4:02:00::,actually%4:02:02::
+#7 not ADV not%4:02:00::
+But the warm joy of her brown eyes was open to the general public .
+4
+#2 warm ADJ warm%3:00:02::,warm%5:00:00:excitable:00,warm%5:00:00:lively:00,warm%5:00:00:loving:00
+#7 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 open ADJ open%3:00:00::,open%5:00:00:susceptible:00,open%5:00:00:unconstricted:00,open%5:00:00:unrestricted:00,open%5:00:00:unsettled:02
+#12 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+Later on , the children told her further about somersaulting .
+2
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 further ADV further%4:02:02::,further%4:02:03::
+" It must be awfully good for them .
+1
+#4 awfully ADV awfully%4:02:00::
+And awfully kind of Arlene " , she told us later .
+3
+#1 awfully ADV awfully%4:02:00::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+" But do you know something curious " ? she added .
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 add VERB add%2:32:01::
+" I reached into that funny little pocket that is high up on my dress .
+3
+#5 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#7 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#14 dress NOUN dress%1:06:00::
+I have no notion why I reached .
+3
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 notion NOUN notion%1:09:02::
+#6 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+And I found a radish .
+2
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#4 radish NOUN radish%1:20:00::
+I thought for a second .
+2
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#4 second NOUN second%1:28:00::,second%1:28:01::
+But I would not pamper myself in that silly way .
+2
+#3 not ADV not%4:02:00::
+#9 way NOUN way%1:04:00::,way%1:09:00::
+I opened the window and threw the radish out " .
+3
+#1 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#3 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#7 radish NOUN radish%1:20:00::
+Then , my mother blushed at this small lie ; for she knew and we knew that it was cowardice that had made one more radish that night just too impossible a strain .
+10
+#0 then ADV then%4:02:00::
+#3 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#8 lie NOUN lie%1:10:00::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#25 radish NOUN radish%1:20:00::
+#28 just ADV just%4:02:00::,just%4:02:03::
+#29 too ADV too%4:02:00::
+#32 strain NOUN strain%1:26:02::
+Arlene became indispensable ; nobody could have told why .
+1
+#1 become VERB become%2:30:00::,become%2:42:01::
+A friend of my father 's came to dinner .
+3
+#1 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#4 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He was passing through town and phoned to say hello .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+As a result , he was persuaded out to dinner .
+1
+#7 out ADV out%4:02:02::
+As a matter of fact , this happened every four or five months .
+1
+#7 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Sometimes , he coincided with my father 's being at home .
+2
+#6 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#10 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+But he was always persuaded out .
+2
+#3 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#5 out ADV out%4:02:02::
+he liked children , in a loathsome kind of way ; the two youngest in our family always had to be brought in and put through tricks for his entertainment .
+4
+#1 like VERB like%2:37:05::
+#16 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#17 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#26 trick NOUN trick%1:04:05::
+When he had left , I could never remember whether he had poked them in their middles , laughingly , with a thick index finger or whether he was merely so much the sort of person who did this that one assumed the action , not bothering to look .
+13
+#3 leave VERB leave%2:38:00::,leave%2:41:00::
+#7 never ADV never%4:02:00::
+#12 poke VERB poke%2:35:01::
+#16 middle NOUN middle%1:28:00::
+#22 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#30 so ADV so%4:02:03::,so%4:02:07::
+#33 sort NOUN sort%1:09:00::,sort%1:18:00::
+#35 person NOUN person%1:03:00::,person%1:08:00::
+#41 assume VERB assume%2:31:00::
+#43 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#45 not ADV not%4:02:00::
+#46 bother VERB bother%2:41:00::
+#48 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+The children loathed him , too .
+1
+#5 too ADV too%4:02:01::
+This evening , they were pushed in from the breakfast room , with odds and ends of dessert distributed over them .
+2
+#10 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#18 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+There had been some coconut in it , for I remember my mother 's taking a quick glance at a stringy bit of this nut on the cheek of one of them and then putting down her radish with a shiver .
+8
+#4 coconut NOUN cocoanut%1:13:00::
+#12 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#16 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#17 glance NOUN glance%1:04:00::
+#24 nut NOUN nut%1:06:00::
+#27 cheek NOUN cheek%1:08:00::
+#37 radish NOUN radish%1:20:00::
+#40 shiver NOUN shiver%1:04:00::
+They were pushed gently into the room by Arlene - whose only part appearing were hands that crept quickly back around to the kitchen side of the door .
+6
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#13 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#15 hand NOUN hand%1:08:00::,hand%1:10:01::
+#17 creep VERB creep%2:38:00::
+#19 back ADV back%4:02:01::,back%4:02:04::
+#23 kitchen NOUN kitchen%1:06:00::
+We had just sat down .
+1
+#2 just ADV just%4:02:05::
+" Tell Mr. Gorboduc what you 're doing these days " , my mother advised the children , ceremonially .
+2
+#9 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#13 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+There was an air of revolt about the children - even irreverence for their own principles .
+2
+#3 air NOUN air%1:04:01::,air%1:07:00::
+#14 own ADJ own%5:00:00:personal:00
+This could be told chiefly from a sort of head tossing and prancing , a horse like balkiness of demeanor .
+5
+#3 tell VERB tell%2:31:00::,tell%2:31:01::
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#10 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#15 horse NOUN horse%1:05:00::,horse%1:14:00::
+Possibly , the coconut containing dessert had brought up bitter problems of administration .
+6
+#0 possibly ADV possibly%4:02:00::
+#3 coconut NOUN cocoanut%1:13:00::
+#4 contain VERB contain%2:42:00::,contain%2:42:06::
+#9 bitter ADJ bitter%5:00:00:intolerable:00
+#10 problem NOUN problem%1:09:00::,problem%1:26:00::
+#12 administration NOUN administration%1:04:01::
+But , at the beginning , this stayed just in the air .
+2
+#7 stay VERB stay%2:42:02::
+#8 just ADV just%4:02:04::
+" We go to the park with this nice lady " , one of them said .
+4
+#5 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#8 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#9 lady NOUN lady%1:18:01::,lady%1:18:02::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" We have good times " .
+2
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+This happy bulletin convulsed Mr. Gorboduc .
+2
+#1 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#3 convulse VERB convulse%2:38:00::
+" You do " ? he asked , between wheezes of laughter .
+2
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#9 wheeze NOUN wheeze%1:04:00::
+He was forced to wipe his eyes .
+3
+#2 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#4 wipe VERB wipe%2:35:00::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+" You do n't step on the flowers , do you ?
+2
+#4 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#7 flower NOUN flower%1:20:00::,flower%1:28:00::
+One of the children maneuvered out of range of the poking index finger .
+3
+#4 maneuver VERB maneuver%2:38:00::
+#7 range NOUN range%1:07:00::,range%1:15:01::
+#10 poke VERB poke%2:35:01::
+" No " , he said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mr. Gorboduc took a swig of his sherry .
+1
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+He was so long thinking that my mother had time to inspect her sherry for dregs .
+5
+#2 so ADV so%4:02:03::,so%4:02:07::
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 time NOUN time%1:28:01::,time%1:28:05::
+Usually , this was done when attention was diverted by someone else 's long , boring story .
+3
+#6 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#8 divert VERB divert%2:38:00::
+#16 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+But this time she was nervous : she was open .
+3
+#2 time NOUN time%1:11:00::
+#5 nervous ADJ nervous%5:00:00:troubled:00
+#9 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+" Tell me - what do you do at the park " ? he asked .
+2
+#10 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#14 ask VERB ask%2:32:00::,ask%2:32:04::
+This was delivered in a forthright way , without coyness and over pretended interest - an admirable way with children .
+6
+#2 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+#5 forthright ADJ forthright%5:00:01:direct:02
+#6 way NOUN way%1:04:00::,way%1:09:00::
+#9 coyness NOUN coyness%1:07:00::
+#13 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#17 way NOUN way%1:04:00::,way%1:09:00::
+Only , unfortunately , he could not remove from his voice a nagging insinuation of the direct command .
+5
+#6 not ADV not%4:02:00::
+#7 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#10 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#12 nagging ADJ nagging%5:00:00:ill-natured:00
+#16 direct ADJ direct%3:00:02::
+This nettled the children into the revelation of exact truth , a sacrifice of their secret superiority over grown people , but a victory in the wide fields of perpetration and illegitimate accomplishment .
+4
+#1 nettle VERB nettle%2:37:00::
+#6 revelation NOUN revelation%1:10:02::
+#19 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#27 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+" We bump " , one said ; and the other went on to development of the idea .
+3
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#17 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+" We grind , too " , he said .
+2
+#4 too ADV too%4:02:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+My mother was beside herself with curiosity .
+2
+#1 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#6 curiosity NOUN curiosity%1:09:00::
+" Say that again " , she pleaded .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 plead VERB plead%2:32:00::,plead%2:32:03::
+She laughed a little and tossed the dregs rakishly around in her glass .
+2
+#5 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#12 glass NOUN glass%1:06:00::,glass%1:06:02::,glass%1:06:04::,glass%1:27:00::
+She could see that Mr. Gorboduc was intrigued ; the hostess in her took over .
+2
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 intrigue VERB intrigue%2:42:00::
+She was rollickingly happy .
+1
+#3 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+My uncle looked at Mr. Gorboduc .
+1
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+He read Henry James and used to pretend profundity through eye-beamings at people .
+3
+#1 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#7 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#12 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Mr. Gorboduc looked down .
+2
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#3 down ADV down%4:02:00::,down%4:02:02::
+He would not look up .
+2
+#2 not ADV not%4:02:00::
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+He was very funny about the whole thing .
+1
+#3 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00

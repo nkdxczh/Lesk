@@ -1,0 +1,538 @@
+ We are trying to study a linear operator T on the finite dimensional space V , by decomposing T into a direct sum of operators which are in some sense elementary .
+6
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#11 finite ADJ finite%3:00:00::
+#13 space NOUN space%1:03:00::,space%1:15:01::
+#24 operator NOUN operator%1:24:00::
+#29 sense NOUN sense%1:10:00::
+We can do this through the characteristic values and vectors of T in certain special cases , i.e. , when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1 .
+5
+#7 value NOUN value%1:09:00::
+#9 vector NOUN vector%1:25:00::
+#13 certain ADJ certain%5:00:00:definite:00
+#15 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#33 product NOUN product%1:09:00::
+What can we do with the general T ?
+1
+#6 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+If we try to study T using characteristic values , we are confronted with two problems .
+4
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#8 value NOUN value%1:09:00::
+#15 problem NOUN problem%1:09:00::,problem%1:26:00::
+First , T may not have a single characteristic value ; this is really a deficiency in the scalar field , namely , that it is not algebraically closed .
+7
+#4 not ADV not%4:02:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#9 value NOUN value%1:09:00::
+#13 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#26 not ADV not%4:02:00::
+#28 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+Second , even if the characteristic polynomial factors completely over F into a product of polynomials of degree 1 , there may not be enough characteristic vectors for T to span the space V ; this is clearly a deficiency in T .
+5
+#13 product NOUN product%1:09:00::
+#22 not ADV not%4:02:00::
+#26 vector NOUN vector%1:25:00::
+#30 span VERB span%2:42:00::
+#32 space NOUN space%1:03:00::,space%1:15:01::
+The second situation is illustrated by the operator T on * * f ( F any field ) represented in the standard basis by * * f .
+5
+#1 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#7 operator NOUN operator%1:24:00::
+#16 field NOUN field%1:14:00::,field%1:19:00::
+#18 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#21 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+The characteristic polynomial for A is * * f and this is plainly also the minimal polynomial for A ( or for T ) .
+1
+#12 plainly ADV plainly%4:02:01::
+Thus T is not diagonalizable .
+2
+#0 thus ADV thus%4:02:00::
+#3 not ADV not%4:02:00::
+One sees that this happens because the null space of * * f has dimension 1 only .
+4
+#4 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 dimension NOUN dimension%1:07:00::
+#16 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+On the other hand , the null space of * * f and the null space of * * f together span V , the former being the subspace spanned by * * f and the latter the subspace spanned by * * f and * * f .
+6
+#20 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#21 span VERB span%2:42:00::
+#25 former ADJ former%3:00:00::
+#28 subspace NOUN subspace%1:14:00::
+#36 latter ADJ latter%3:00:00::
+#38 subspace NOUN subspace%1:14:00::
+This will be more or less our general method for the second problem .
+2
+#7 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#11 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+If ( remember this is an assumption ) the minimal polynomial for T decomposes * * f where * * f are distinct elements of F , then we shall show that the space V is the direct sum of the null spaces of * * f .
+4
+#6 assumption NOUN assumption%1:09:00::
+#23 element NOUN element%1:06:00::,element%1:09:00::
+#30 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#33 space NOUN space%1:03:00::,space%1:15:01::
+The diagonalizable operator is the special case of this in which * * f for each i .
+2
+#2 operator NOUN operator%1:24:00::
+#6 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The theorem which we prove is more general than what we have described , since it works with the primary decomposition of the minimal polynomial , whether or not the primes which enter are all of first degree .
+8
+#4 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#7 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#12 describe VERB describe%2:32:01::
+#16 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#19 primary ADJ primary%3:00:00::,primary%5:00:00:underived:00
+#30 prime NOUN prime%1:23:00::
+#32 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#36 first ADJ first%3:00:00::,first%4:02:00::
+The reader will find it helpful to think of the special case when the primes are of degree 1 , and even more particularly , to think of the proof of Theorem 10 , a special case of this theorem .
+7
+#1 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#14 prime NOUN prime%1:23:00::
+#23 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#29 proof NOUN proof%1:09:00::
+#36 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+Let T be a linear operator on the finite dimensional vector space V over the field F .
+3
+#0 let VERB let%2:32:00::
+#8 finite ADJ finite%3:00:00::
+#10 vector NOUN vector%1:25:00::
+Let p be the minimal polynomial for T , * * f where the * * f are distinct irreducible monic polynomials over F and the * * f are positive integers .
+3
+#0 let VERB let%2:32:00::
+#18 distinct ADJ distinct%5:00:00:separate:00
+#31 integer NOUN integer%1:23:00::
+Let * * f be the null space of * * f .
+1
+#0 let VERB let%2:32:00::
+Then ( a ) * * f ( b ) each * * f is invariant under T ( c ) if * * f is the operator induced on * * f by T , then the minimal polynomial for * * f is * * f .
+4
+#0 then ADV then%4:02:02::
+#27 operator NOUN operator%1:24:00::
+#28 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#36 then ADV then%4:02:02::
+The idea of the proof is this .
+1
+#4 proof NOUN proof%1:09:00::
+If the direct sum decomposition ( a ) is valid , how can we get hold of the projections * * f associated with the decomposition ?
+1
+#18 projection NOUN projection%1:09:01::
+The projection * * f will be the identity on * * f and zero on the other * * f .
+3
+#1 projection NOUN projection%1:09:01::
+#8 identity NOUN identity%1:24:01::
+#17 other ADJ other%3:00:00::
+We shall find a polynomial * * f such that * * f is the identity on * * f and is zero on the other * * f , and so that * * f , etc. .
+3
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#15 identity NOUN identity%1:24:01::
+#25 other ADJ other%3:00:00::
+For each i , let * * f .
+1
+#4 let VERB let%2:32:00::
+Since * * f are distinct prime polynomials , the polynomials * * f are relatively prime ( Theorem 8 , Chapter 4 ) .
+4
+#5 distinct ADJ distinct%5:00:00:separate:00
+#6 prime ADJ prime%3:01:00::
+#16 prime ADJ prime%3:01:00::
+#21 chapter NOUN chapter%1:10:00::
+Thus there are polynomials * * f such that * * f .
+1
+#0 thus ADV thus%4:02:00::
+Note also that if * * f , then * * f is divisible by the polynomial p , because * * f contains each * * f as a factor .
+4
+#0 note VERB note%2:32:00::,note%2:39:00::
+#8 then ADV then%4:02:02::
+#23 contain VERB contain%2:42:00::,contain%2:42:06::
+#30 factor NOUN factor%1:23:00::
+We shall show that the polynomials * * f behave in the manner described in the first paragraph of the proof .
+6
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#9 behave VERB behave%2:41:00::,behave%2:41:01::
+#12 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#13 describe VERB describe%2:32:01::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#20 proof NOUN proof%1:09:00::
+Let * * f .
+1
+#0 let VERB let%2:32:00::
+Since * * f and p divides * * f for * * f , we have * * f .
+2
+#6 divide VERB divide%2:31:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Thus the * * f are projections which correspond to some direct sum decomposition of the space V .
+3
+#0 thus ADV thus%4:02:00::
+#6 projection NOUN projection%1:09:01::
+#8 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+We wish to show that the range of * * f is exactly the subspace * * f .
+3
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#14 subspace NOUN subspace%1:14:00::
+It is clear that each vector in the range of * * f is in * * f for if |a is in the range of * * f , then * * f and so * * f because * * f is divisible by the minimal polynomial p .
+5
+#2 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#5 vector NOUN vector%1:25:00::
+#8 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#24 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#30 then ADV then%4:02:02::
+Conversely , suppose that |a is in the null space of * * f .
+1
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+If * * f , then * * f is divisible by * * f and so * * f , i.e. , * * f .
+1
+#5 then ADV then%4:02:02::
+But then it is immediate that * * f , i.e. , that |a is in the range of * * f .
+2
+#1 then ADV then%4:02:02::
+#17 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+This completes the proof of statement ( a ) .
+2
+#1 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#3 proof NOUN proof%1:09:00::
+It is certainly clear that the subspaces * * f are invariant under T .
+2
+#3 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#6 subspace NOUN subspace%1:14:00::
+If * * f is the operator induced on * * f by T , then evidently * * f , because by definition * * f is 0 on the subspace * * f .
+6
+#6 operator NOUN operator%1:24:00::
+#7 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#15 then ADV then%4:02:02::
+#16 evidently ADV evidently%4:02:00::
+#23 definition NOUN definition%1:10:00::
+#31 subspace NOUN subspace%1:14:00::
+This shows that the minimal polynomial for * * f divides * * f .
+2
+#1 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#10 divide VERB divide%2:31:00::
+Conversely , let g be any polynomial such that * * f .
+1
+#2 let VERB let%2:32:00::
+Then * * f .
+1
+#0 then ADV then%4:02:02::
+Thus * * f is divisible by the minimal polynomial p of T , i.e. , * * f divides * * f .
+2
+#0 thus ADV thus%4:02:00::
+#19 divide VERB divide%2:31:00::
+It is easily seen that * * f divides g .
+3
+#2 easily ADV easily%4:02:01::,easily%4:02:06::
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#8 divide VERB divide%2:31:00::
+Hence the minimal polynomial for * * f is * * f .
+1
+#0 hence ADV hence%4:02:00::
+If * * f are the projections associated with the primary decomposition of T , then each * * f is a polynomial in T , and accordingly if a linear operator U commutes with T then U commutes with each of the * * f i.e. , each subspace * * f is invariant under U .
+5
+#6 projection NOUN projection%1:09:01::
+#15 then ADV then%4:02:02::
+#33 commute VERB commute%2:30:01::
+#38 commute VERB commute%2:30:01::
+#49 subspace NOUN subspace%1:14:00::
+In the notation of the proof of Theorem 12 , let us take a look at the special case in which the minimal polynomial for T is a product of first degree polynomials , i.e. , the case in which each * * f is of the form * * f .
+4
+#5 proof NOUN proof%1:09:00::
+#18 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#31 degree NOUN degree%1:07:01::,degree%1:09:00::,degree%1:23:03::,degree%1:26:01::
+#37 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+Now the range of * * f is the null space * * f of * * f .
+2
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+By Theorem 10 , D is a diagonalizable operator which we shall call the diagonalizable part of T .
+3
+#8 operator NOUN operator%1:24:00::
+#12 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#15 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+Let us look at the operator * * f .
+1
+#5 operator NOUN operator%1:24:00::
+Now * * f * * f so * * f .
+1
+#0 now ADV now%4:02:02::,now%4:02:07::
+The reader should be familiar enough with projections by now so that he sees that * * f and in general that * * f .
+5
+#1 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#5 enough ADV enough%4:02:00::
+#7 projection NOUN projection%1:09:01::
+#9 now ADV now%4:02:02::,now%4:02:07::
+#13 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+When * * f for each i , we shall have * * f , because the operator * * f will then be 0 on the range of * * f .
+4
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 operator NOUN operator%1:24:00::
+#22 then ADV then%4:02:02::
+#27 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+Let N be a linear operator on the vector space V .
+1
+#8 vector NOUN vector%1:25:00::
+We say that N is nilpotent if there is some positive integer r such that * * f .
+2
+#1 say VERB say%2:32:01::
+#11 integer NOUN integer%1:23:00::
+Let T be a linear operator on the finite dimensional vector space V over the field F .
+3
+#0 let VERB let%2:32:00::
+#8 finite ADJ finite%3:00:00::
+#10 vector NOUN vector%1:25:00::
+Suppose that the minimal polynomial for T decomposes over F into a product of linear polynomials .
+2
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#14 linear ADJ linear%3:00:01::
+Then there is a diagonalizable operator D on V and a nilpotent operator N on V such that ( a ) * * f , ( b ) * * f .
+3
+#0 then ADV then%4:02:02::
+#5 operator NOUN operator%1:24:00::
+#12 operator NOUN operator%1:24:00::
+The diagonalizable operator D and the nilpotent operator N are uniquely determined by ( a ) and ( b ) and each of them is a polynomial in T .
+3
+#2 operator NOUN operator%1:24:00::
+#7 operator NOUN operator%1:24:00::
+#11 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+We have just observed that we can write * * f where D is diagonalizable and N is nilpotent , and where D and N not only commute but are polynomials in T .
+3
+#3 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#7 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#27 commute VERB commute%2:30:01::
+Now suppose that we also have * * f where D ' is diagonalizable , N ' is nilpotent , and * * f .
+3
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We shall prove that * * f .
+1
+#2 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+Since D ' and N ' commute with one another and * * f , we see that D ' and N ' commute with T .
+3
+#6 commute VERB commute%2:30:01::
+#16 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#23 commute VERB commute%2:30:01::
+Thus D ' and N ' commute with any polynomial in T ; hence they commute with D and with N .
+4
+#0 thus ADV thus%4:02:00::
+#6 commute VERB commute%2:30:01::
+#13 hence ADV hence%4:02:00::
+#15 commute VERB commute%2:30:01::
+Now we have * * f or * * f and all four of these operators commute with one another .
+4
+#0 now ADV now%4:02:02::,now%4:02:07::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 operator NOUN operator%1:24:00::
+#16 commute VERB commute%2:30:01::
+Since D and D ' are both diagonalizable and they commute , they are simultaneously diagonalizable , and * * f is diagonalizable .
+1
+#10 commute VERB commute%2:30:01::
+Since N and N ' are both nilpotent and they commute , the operator * * f is nilpotent ; for , using the fact that N and N ' commute * * f and so when r is sufficiently large every term in this expression for * * f will be 0 .
+6
+#10 commute VERB commute%2:30:01::
+#13 operator NOUN operator%1:24:00::
+#30 commute VERB commute%2:30:01::
+#40 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#42 term NOUN term%1:09:00::
+#45 expression NOUN expression%1:10:02::,expression%1:10:03::
+( Actually , a nilpotent operator on an n-dimensional space must have its nth power 0 ; if we take * * f above , that will be large enough .
+6
+#1 actually ADV actually%4:02:00::,actually%4:02:02::
+#5 operator NOUN operator%1:24:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 power NOUN power%1:10:00::
+#19 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#28 large ADJ large%3:00:00::,large%5:00:00:significant:00
+It then follows that * * f is large enough , but this is not obvious from the above expression . )
+5
+#1 then ADV then%4:02:02::
+#2 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 not ADV not%4:02:00::
+#19 expression NOUN expression%1:10:02::,expression%1:10:03::
+Now * * f is a diagonalizable operator which is also nilpotent .
+2
+#0 now ADV now%4:02:02::,now%4:02:07::
+#7 operator NOUN operator%1:24:00::
+Such an operator is obviously the zero operator ; for since it is nilpotent , the minimal polynomial for this operator is of the form * * f for some * * f ; but then since the operator is diagonalizable , the minimal polynomial cannot have a repeated root ; hence * * f and the minimal polynomial is simply x , which says the operator is 0 .
+10
+#2 operator NOUN operator%1:24:00::
+#7 operator NOUN operator%1:24:00::
+#20 operator NOUN operator%1:24:00::
+#35 then ADV then%4:02:02::
+#38 operator NOUN operator%1:24:00::
+#46 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#49 root NOUN root%1:14:00::,root%1:23:00::
+#51 hence ADV hence%4:02:00::
+#64 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#66 operator NOUN operator%1:24:00::
+Thus we see that * * f and * * f .
+2
+#0 thus ADV thus%4:02:00::
+#2 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Let V be a finite dimensional vector space over an algebraically closed field F , e.g. , the field of complex numbers .
+5
+#0 let VERB let%2:32:00::
+#4 finite ADJ finite%3:00:00::
+#6 vector NOUN vector%1:25:00::
+#7 space NOUN space%1:03:00::,space%1:15:01::
+#11 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+Then every linear operator T on V can be written as the sum of a diagonalizable operator D and a nilpotent operator N which commute .
+6
+#0 then ADV then%4:02:02::
+#9 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#12 sum NOUN sum%1:06:00::,sum%1:21:00::
+#16 operator NOUN operator%1:24:00::
+#21 operator NOUN operator%1:24:00::
+#24 commute VERB commute%2:30:01::
+These operators D and N are unique and each is a polynomial in T .
+1
+#1 operator NOUN operator%1:24:00::
+From these results , one sees that the study of linear operators on vector spaces over an algebraically closed field is essentially reduced to the study of nilpotent operators .
+6
+#5 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#13 vector NOUN vector%1:25:00::
+#14 space NOUN space%1:03:00::,space%1:15:01::
+#18 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#22 reduce VERB reduce%2:30:06::
+#28 operator NOUN operator%1:24:00::
+For vector spaces over non algebraically closed fields , we still need to find some substitute for characteristic values and vectors .
+6
+#1 vector NOUN vector%1:25:00::
+#2 space NOUN space%1:03:00::,space%1:15:01::
+#6 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#13 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#18 value NOUN value%1:09:00::
+#20 vector NOUN vector%1:25:00::
+It is a very interesting fact that these two problems can be handled simultaneously and this is what we shall do in the next chapter .
+4
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+#12 handle VERB handle%2:41:00::,handle%2:41:03::
+#23 next ADJ next%5:00:00:close:01
+#24 chapter NOUN chapter%1:10:00::
+In concluding this section , we should like to give an example which illustrates some of the ideas of the primary decomposition theorem .
+4
+#1 conclude VERB conclude%2:32:06::,conclude%2:42:02::,concluding%5:00:00:closing:00
+#3 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#11 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#17 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+We have chosen to give it at the end of the section since it deals with differential equations and thus is not purely linear algebra .
+5
+#8 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#11 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#14 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#19 thus ADV thus%4:02:00::
+#21 not ADV not%4:02:00::
+In the primary decomposition theorem , it is not necessary that the vector space V be finite dimensional , nor is it necessary for parts ( a ) and ( b ) that p be the minimal polynomial for T .
+7
+#8 not ADV not%4:02:00::
+#9 necessary ADJ necessary%3:00:00::
+#12 vector NOUN vector%1:25:00::
+#13 space NOUN space%1:03:00::,space%1:15:01::
+#16 finite ADJ finite%3:00:00::
+#22 necessary ADJ necessary%3:00:00::
+#24 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+If T is a linear operator on an arbitrary vector space and if there is a monic polynomial p such that * * f , then parts ( a ) and ( b ) of Theorem 12 are valid for T with the proof which we gave .
+6
+#9 vector NOUN vector%1:25:00::
+#10 space NOUN space%1:03:00::,space%1:15:01::
+#25 then ADV then%4:02:02::
+#26 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#43 proof NOUN proof%1:09:00::
+#46 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+Let n be a positive integer and let V be the space of all n times continuously differentiable functions f on the real line which satisfy the differential equation * * f where * * f are some fixed constants .
+6
+#0 let VERB let%2:32:00::
+#5 integer NOUN integer%1:23:00::
+#7 let VERB let%2:32:00::
+#11 space NOUN space%1:03:00::,space%1:15:01::
+#23 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#38 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+If * * f denotes the space of n times continuously differentiable functions , then the space V of solutions of this differential equation is a subspace of * * f .
+4
+#6 space NOUN space%1:03:00::,space%1:15:01::
+#14 then ADV then%4:02:02::
+#16 space NOUN space%1:03:00::,space%1:15:01::
+#26 subspace NOUN subspace%1:14:00::
+If D denotes the differentiation operator and p is the polynomial * * f then V is the null space of the operator p ( D ) , because * * f simply says * * f .
+4
+#5 operator NOUN operator%1:24:00::
+#14 then ADV then%4:02:02::
+#22 operator NOUN operator%1:24:00::
+#33 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Let us now regard D as a linear operator on the subspace V .
+2
+#2 now ADV now%4:02:02::,now%4:02:07::
+#11 subspace NOUN subspace%1:14:00::
+Then * * f .
+1
+#0 then ADV then%4:02:02::
+If we are discussing differentiable complex valued functions , then * * f and V are complex vector spaces , and * * f may be any complex numbers .
+3
+#9 then ADV then%4:02:02::
+#17 vector NOUN vector%1:25:00::
+#18 space NOUN space%1:03:00::,space%1:15:01::
+We now write * * f where * * f are distinct complex numbers .
+3
+#1 now ADV now%4:02:02::,now%4:02:07::
+#2 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#11 distinct ADJ distinct%5:00:00:separate:00
+If * * f is the null space of * * f , then Theorem 12 says that * * f .
+2
+#13 then ADV then%4:02:02::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In other words , if f satisfies the differential equation * * f , then f is uniquely expressible in the form * * f where * * f satisfies the differential equation * * f .
+1
+#14 then ADV then%4:02:02::
+Thus , the study of the solutions to the equation * * f is reduced to the study of the space of solutions of a differential equation of the form * * f .
+4
+#0 thus ADV thus%4:02:00::
+#9 equation NOUN equation%1:10:00::
+#14 reduce VERB reduce%2:30:06::
+#20 space NOUN space%1:03:00::,space%1:15:01::
+This reduction has been accomplished by the general methods of linear algebra , i.e. , by the primary decomposition theorem .
+1
+#7 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+To describe the space of solutions to * * f , one must know something about differential equations , that is , one must know something about D other than the fact that it is a linear operator .
+3
+#1 describe VERB describe%2:32:01::
+#3 space NOUN space%1:03:00::,space%1:15:01::
+#24 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+However , one does not need to know very much .
+3
+#0 however ADV however%4:02:04::
+#4 not ADV not%4:02:00::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+It is very easy to establish by induction on r that if f is in * * f then * * f that is , * * f , etc. .
+3
+#3 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#5 establish VERB establish%2:31:00::
+#18 then ADV then%4:02:02::
+Thus * * f if and only if * * f .
+2
+#0 thus ADV thus%4:02:00::
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+A function g such that * * f , i.e. , * * f , must be a polynomial function of degree * * f or less : * * f .
+1
+#21 degree NOUN degree%1:07:01::,degree%1:09:00::,degree%1:23:03::,degree%1:26:01::
+Thus f satisfies * * f if and only if f has the form * * f .
+3
+#0 thus ADV thus%4:02:00::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Accordingly , the ' functions ' * * f span the space of solutions of * * f .
+3
+#0 accordingly ADV accordingly%4:02:00::
+#9 span VERB span%2:42:00::
+#11 space NOUN space%1:03:00::,space%1:15:01::
+Since * * f are linearly independent functions and the exponential function has no zeros , these r functions * * f , form a basis for the space of solutions .
+4
+#6 independent ADJ independent%3:00:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#28 space NOUN space%1:03:00::,space%1:15:01::

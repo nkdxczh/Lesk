@@ -1,0 +1,778 @@
+ Scotty did not go back to school .
+2
+#2 not ADV not%4:02:00::
+#6 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+His parents talked seriously and lengthily to their own doctor and to a specialist at the University Hospital - Mr. McKinley was entitled to a discount for members of his family - and it was decided it would be best for him to take the remainder of the term off , spend a lot of time in bed and , for the rest , do pretty much as he chose - provided , of course , he chose to do nothing too exciting or too debilitating .
+12
+#8 own ADJ own%5:00:00:personal:00
+#9 doctor NOUN doctor%1:18:00::
+#27 member NOUN member%1:18:00::,member%1:24:00::
+#30 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#39 good ADJ best%3:00:00::,good%3:00:01::
+#45 remainder NOUN remainder%1:24:00::
+#48 term NOUN term%1:28:00::,term%1:28:01::
+#55 time NOUN time%1:28:01::,time%1:28:05::
+#57 bed NOUN bed%1:06:00::
+#62 rest NOUN rest%1:24:00::
+#81 too ADV too%4:02:00::
+#84 too ADV too%4:02:00::
+His teacher and his school principal were conferred with and everyone agreed that , if he kept up with a certain amount of work at home , there was little danger of his losing a term .
+6
+#11 agree VERB agree%2:32:00::,agree%2:32:01::
+#20 certain ADJ certain%5:00:00:definite:00
+#23 work NOUN work%1:06:01::
+#25 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#33 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#35 term NOUN term%1:28:00::,term%1:28:01::
+Scotty accepted the decision with indifference and did not enter the arguments .
+4
+#1 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#8 not ADV not%4:02:00::
+#9 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#11 argument NOUN argument%1:10:00::
+He was discharged from the hospital after a two day checkup and he and his parents had what Mr. McKinley described as a " celebration lunch " at the cafeteria on the campus .
+4
+#2 discharge VERB discharge%2:33:01::
+#5 hospital NOUN hospital%1:06:00::
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 describe VERB describe%2:32:01::
+Rachel wore a smart hat and , because she had been warned recently about smoking , puffed at her cigarettes through a long ivory holder stained with lipstick .
+6
+#1 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#3 smart ADJ smart%5:00:00:stylish:00
+#16 puff VERB puff%2:34:00::
+#22 long ADJ long%3:00:01::
+#23 ivory NOUN ivory%1:27:00::
+#24 holder NOUN holder%1:06:00::
+Scotty 's father sat sprawled in his chair , angular , alert as a cricket , looking about at the huge stainless-steel appointments of the room with an expression of proprietorship .
+9
+#2 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#7 chair NOUN chair%1:06:00::,chair%1:06:01::
+#9 angular ADJ angular%3:00:00::
+#14 cricket NOUN cricket%1:05:00::
+#16 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#22 appointment NOUN appointment%1:04:02::
+#25 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#28 expression NOUN expression%1:07:00::
+Teachers - men who wore brown suits and had gray hair and pleasant smiles - came to their table to talk shop and to be introduced to Scotty and Rachel .
+9
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#6 suit NOUN suit%1:06:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#10 hair NOUN hair%1:08:00::
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#18 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#25 introduce VERB introduce%2:32:00::
+Rachel was polite , Scotty indifferent .
+1
+#5 indifferent ADJ indifferent%5:00:00:uninterested:00
+They ate the cafeteria food with its orange sauces and Scotty gazed without interest at his food , the teachers , the heroic baronial windows , and the bright ranks of college banners .
+7
+#8 sauce NOUN sauce%1:13:00::
+#13 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#24 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#28 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#29 rank NOUN rank%1:14:00::,rank%1:14:01::,rank%1:14:02::
+#31 college NOUN college%1:14:00::,college%1:14:01::
+#32 banner NOUN banner%1:06:00::
+His father tried to make the food a topic .
+3
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" The blueberry pie is good , Scotty .
+1
+#5 good ADJ good%3:00:01::,good%5:00:00:nice:00
+I recommend it " .
+1
+#1 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+He looked at his son , his face worried .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Scotty murmured , " No , thanks " , so softly his father had to bend his gaunt height across the table and turn a round brown ear to him .
+7
+#9 so ADV so%4:02:03::,so%4:02:07::
+#12 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#15 bend VERB bend%2:35:08::,bend%2:38:02::
+#18 height NOUN height%1:07:00::,height%1:07:02::
+#21 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#23 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#27 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+Scotty regarded the ear and the grizzled hair around it with a moment of interest .
+4
+#3 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#7 hair NOUN hair%1:08:00::
+#12 moment NOUN moment%1:28:00::,moment%1:28:01::
+#14 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+He said more loudly , " I'm full , old Pop " .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#2 more ADV more%4:02:00::
+#7 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+He had eaten almost nothing on the crested , three sectioned plate and had drunk about half the milk in its paper container .
+4
+#7 crested ADJ crested%5:00:02:adorned:00
+#11 plate NOUN plate%1:06:00::,plate%1:06:02::,plate%1:06:03::,plate%1:13:01::,plate%1:23:00::
+#14 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#21 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+" He's all right , Craig " , Rachel said .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I can fix him something later in the afternoon when we get home " .
+2
+#3 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+#13 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Since his seizure , Scotty had had little appetite ; yet his changed appearance , surprisingly , was one of plumpness .
+2
+#2 seizure NOUN seizure%1:26:00::
+#13 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+His face was fuller ; his lips and the usually sharp lines of his jaw had become swollen looking .
+7
+#1 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#3 full ADJ full%3:00:01::,full%5:00:00:ample:00,full%5:00:02:ample:00
+#6 lip NOUN lip%1:08:00::,lip%1:20:00::
+#10 sharp ADJ sharp%5:00:00:distinct:00,sharp%5:00:00:pointed:00
+#11 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#18 look VERB look%2:39:01::,look%2:42:02::
+He breathed now with his mouth open , showing a whitely curving section of lower teeth ; he kept his eyes , with their puffed blurred lids , always lowered , though not , apparently , focusing .
+10
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#6 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#12 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#15 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#18 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#20 eye NOUN eye%1:08:00::,eye%1:09:01::
+#28 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#29 lower ADV low%4:02:00::
+#32 not ADV not%4:02:00::
+Even his neck seemed thicker and therefore shorter .
+2
+#2 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+#4 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+His hands , which had been as quick as a pair of fluttering birds , were now neither active nor really relaxed .
+6
+#1 hand NOUN hand%1:08:00::,hand%1:10:01::
+#7 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#13 bird NOUN bird%1:05:00::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#17 neither ADV neither%5:00:00:incomplete:00
+#20 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+They lay on his lap , palms up , stiffly motionless , the tapered fingers a little thick at the joints .
+4
+#4 lap NOUN lap%1:26:00::
+#6 palm NOUN palm%1:08:00::
+#17 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#20 joint NOUN joint%1:06:01::
+Altogether he had , since the seizure , the appearance of a boy who overindulged in food and took no exercise .
+6
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 seizure NOUN seizure%1:26:00::
+#9 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+#12 boy NOUN boy%1:18:03::
+#18 take VERB take%2:31:02::,take%2:34:00::
+#20 exercise NOUN exercise%1:04:00::,exercise%1:04:01::,exercise%1:04:02::,exercise%1:04:03::,exercise%1:11:01::
+He looked lazy , spoiled , a little querulous .
+2
+#1 look VERB look%2:39:01::,look%2:42:02::
+#2 lazy ADJ lazy%5:00:00:idle:00
+Rachel had little to say .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She greeted her husband 's colleagues with smiling politeness , offering nothing .
+1
+#1 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+Mr. McKinley , for all his sprawling and his easy familiarity , was completely alert to his son , eyes always on the still face , jumping to anticipate Scotty 's desires .
+6
+#9 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#19 eye NOUN eye%1:08:00::,eye%1:09:01::
+#20 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#24 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#26 jump VERB jump%2:30:05::,jump%2:31:00::,jump%2:33:00::,jump%2:33:03::,jump%2:38:00::,jump%2:38:01::,jump%2:38:04::
+#28 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+It was a strained , silent lunch .
+1
+#3 strained ADJ strained%5:00:02:affected:01
+Rachel said , " I 'd better get him to bed " .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#10 bed NOUN bed%1:06:00::
+The doctors had suggested Scotty remain most of every afternoon in bed until he was stronger .
+3
+#1 doctor NOUN doctor%1:18:00::
+#11 bed NOUN bed%1:06:00::
+#15 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+Since Mr. McKinley had to give a lecture , Rachel and Scotty drove home alone in the Plymouth .
+2
+#12 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#14 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+They did not speak much .
+2
+#2 not ADV not%4:02:00::
+#3 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+Scotty gazed out at ugly gray slums and said softly , " Look at those stupid kids " .
+3
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#16 kid NOUN kid%1:18:00::
+It was a Negro section of peeling row houses , store-front churches and ragged children .
+1
+#4 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+Rachel had to bend toward Scotty and ask him to repeat .
+3
+#3 bend VERB bend%2:35:08::,bend%2:38:02::
+#7 ask VERB ask%2:32:01::,ask%2:32:05::
+#10 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+He said , " Nothing " .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+And then : " There are lots of kids around here " .
+4
+#6 lot PRON lots%1:23:00::
+#8 kid NOUN kid%1:18:00::
+#9 around ADV around%4:02:01::
+#10 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Scotty looked at the children , his mouth slightly opened , his eyes dull .
+6
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#8 slightly ADV slightly%4:02:01::
+#9 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+#13 dull ADJ dull%5:00:00:unsaturated:03
+He felt tired and full and calm .
+3
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#4 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#6 calm ADJ calm%5:00:00:composed:00
+The days seemed short , perhaps because his routine was , each day , almost the same .
+3
+#1 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#3 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#16 same ADJ same%3:00:00::
+He rose late and went down in his bathrobe and slippers to have breakfast either alone or with Rachel .
+4
+#1 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#2 late ADV late%4:02:00::
+#12 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#15 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+Virginia treated him with attention and tried to tempt his appetite with special food : biscuits , cookies , candies - the result of devoted hours in the tiled kitchen .
+6
+#1 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#6 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#15 biscuit NOUN biscuit%1:13:00::
+#17 cookie NOUN cookie%1:13:00::
+#25 hour NOUN hour%1:07:00::,hours%1:28:01::
+#29 kitchen NOUN kitchen%1:06:00::
+She would hover over him and , looking like her brother , anxiously watch the progress of Scotty 's fork or spoon .
+4
+#10 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#13 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#19 fork NOUN fork%1:06:00::
+#21 spoon NOUN spoon%1:23:00::
+" You do n't eat enough , honey .
+2
+#5 enough ADV enough%4:02:00::
+#7 honey NOUN honey%1:18:00::
+Try to get that down " .
+1
+#0 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Rachel , observing , would say , " He has to rediscover his own capacity .
+4
+#2 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 own ADJ own%5:00:00:personal:00
+#14 capacity NOUN capacity%1:07:00::
+It 'll take time " .
+1
+#2 take VERB take%2:40:06::,take%2:42:03::
+Virginia and Rachel talked to each other quietly now , as allies who are political rather than natural might in a war atmosphere .
+3
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 ally NOUN allies%1:14:00::
+#17 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+Both watched Scotty constantly , Rachel without seeming to , Virginia openly , her eyes filled with concern .
+3
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+#17 concern NOUN concern%1:09:01::,concern%1:12:01::
+Scotty was neutral .
+1
+#2 neutral ADJ neutral%5:00:00:nonaligned:00
+He did not resent their supervision or Virginia 's sometimes tiring sympathy .
+1
+#2 not ADV not%4:02:00::
+He ate what he felt like , slept as much or as little as he pleased , and moved about the draughty rooms of the house , when he was not in bed , with slow dubious steps , like an elderly tourist in a cathedral .
+11
+#7 sleep VERB sleep%2:29:00::
+#15 please VERB please%2:37:01::
+#18 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#22 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#25 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#30 not ADV not%4:02:00::
+#32 bed NOUN bed%1:06:00::
+#35 slow ADJ slow%3:00:01::
+#36 dubious ADJ dubious%5:00:00:uncertain:02
+#37 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+#42 tourist NOUN tourist%1:18:00::
+His energy was gone .
+2
+#1 energy NOUN energy%1:07:02::,energy%1:19:01::
+#3 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+He was able , now , to sit for hours in a chair in the living room and stare out at the bleak yard without moving .
+6
+#2 able ADJ able%3:00:00::
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#12 chair NOUN chair%1:06:00::,chair%1:06:01::
+#25 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+His hands lay loosely , yet stiffly - they were like wax hands : almost lifelike , not quite - folded in his lap ; his mouth hung slightly open .
+10
+#1 hand NOUN hand%1:08:00::,hand%1:10:01::
+#11 wax NOUN wax%1:27:00::
+#17 not ADV not%4:02:00::
+#18 quite ADV quite%4:02:02::
+#20 fold VERB fold%2:35:00::
+#23 lap NOUN lap%1:26:00::
+#26 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#27 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#28 slightly ADV slightly%4:02:01::
+#29 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+When he was asked a question or addressed in such a way that some response was inescapable , he would answer ; if , as often happened , he had to repeat because he had spoken too softly , he would repeat his words in the same way , without emphasis or impatience , only a little louder .
+13
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#7 address VERB address%2:32:00::,address%2:32:02::,address%2:41:08::
+#11 way NOUN way%1:04:00::,way%1:09:00::
+#20 answer VERB answer%2:31:00::,answer%2:32:00::
+#26 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#31 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#35 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#36 too ADV too%4:02:00::
+#41 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#43 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#46 same ADJ same%3:00:00::
+#47 way NOUN way%1:04:00::,way%1:09:00::
+#54 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+He had not even thought about her much except once or twice at night in bed when his slowly ranging thoughts would abruptly , almost accidentally , encounter her .
+5
+#2 not ADV not%4:02:00::
+#9 once ADV once%4:02:00::
+#13 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#15 bed NOUN bed%1:06:00::
+#20 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+At these times he felt a kind of pain in his upper chest , but it was an objective pain , in no way different from others in intensity and not different in kind ; it was like the bandaged wound on the back of his head which occasionally throbbed ; it was merely another part of his weakness .
+14
+#2 time NOUN time%1:11:00::
+#4 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#8 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#11 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#12 chest NOUN chest%1:08:00::,chest%1:08:01::
+#18 objective ADJ objective%5:00:00:real:00
+#19 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#24 different ADJ different%3:00:00::,different%5:00:00:other:00
+#28 intensity NOUN intensity%1:07:00::
+#30 not ADV not%4:02:00::
+#31 different ADJ different%3:00:00::,different%5:00:00:other:00
+#40 wound NOUN wound%1:26:00::
+#46 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#55 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+He was calm , drugged , and lazy .
+2
+#2 calm ADJ calm%5:00:00:composed:00
+#7 lazy ADJ lazy%5:00:00:idle:00
+He did not care .
+2
+#2 not ADV not%4:02:00::
+#3 care VERB care%2:37:00::,care%2:37:12::
+She said , " I notice the girl from across the street has n't bothered to phone or visit " .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 girl NOUN girl%1:18:01::,girl%1:18:03::
+#14 bother VERB bother%2:41:00::
+#18 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+Scotty said , " That 's all right .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He thought about it briefly , then deliberately turned the talk to something else .
+2
+#6 then ADV then%4:02:00::
+#7 deliberately ADV deliberately%4:02:00::
+Once , sitting at the front window in his parents ' room , he saw Kate come out of her house .
+6
+#0 once ADV once%4:02:00::
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 front ADJ front%3:00:00::
+#6 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#11 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#20 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+They were far off and looked tiny .
+3
+#2 far ADV far%4:02:00::
+#3 off ADV off%4:02:00::
+#5 look VERB look%2:39:01::,look%2:42:02::
+The heavy branches in his front yard would hide and then reveal them .
+2
+#1 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#10 then ADV then%4:02:00::
+They turned at the bottom of Kate 's steps and moved off in the direction of the park .
+7
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#4 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#8 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#10 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#11 off ADV off%4:02:00::
+#14 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#17 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+He thought he saw - it awakened and , for a moment , interested him - that Elizabeth held a leash in her hand and that a round fuzzy puppy was on the end of the leash .
+6
+#11 moment NOUN moment%1:28:00::,moment%1:28:01::
+#18 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#23 hand NOUN hand%1:08:00::,hand%1:10:01::
+#27 round ADJ round%3:00:00::
+#28 fuzzy ADJ fuzzy%5:00:00:hairy:00
+#33 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+Then they disappeared and Scotty got up and went into his own room and got into bed .
+4
+#0 then ADV then%4:02:00::
+#2 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#11 own ADJ own%5:00:00:personal:00
+#12 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+By the time he was under the covers he had forgotten about seeing Kate .
+1
+#7 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+The doctor , since Scotty was no longer allowed to make his regular trips into town to see him , came often and informally to the house .
+8
+#1 doctor NOUN doctor%1:18:00::
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#13 trip NOUN trip%1:04:00::
+#17 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#20 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#26 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+He would sit , slim-waisted and spare , on the edge of Scotty 's bed , his legs crossed so elaborately that the crossed foot could tap the floor .
+9
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#6 spare ADJ spare%5:00:00:thin:03
+#10 edge NOUN edge%1:06:01::
+#14 bed NOUN bed%1:06:00::
+#17 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#19 so ADV so%4:02:03::,so%4:02:07::
+#24 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#26 tap VERB tap%2:39:01::
+#28 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Scotty did not mind the doctor 's unsmiling teasing as he used to .
+3
+#2 not ADV not%4:02:00::
+#3 mind VERB mind%2:32:00::
+#5 doctor NOUN doctor%1:18:00::
+" Husky young man " , he said with mock distaste .
+2
+#1 husky ADJ husky%5:00:00:robust:00
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I imagine you 're always battling in school " .
+3
+#2 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#5 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#8 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+" I do n't go to school any more " .
+1
+#6 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The doctor had to bend close to hear ; his delicate hand , as veined as a moth 's wing , rested absently on Scotty 's chest .
+6
+#1 doctor NOUN doctor%1:18:00::
+#4 bend VERB bend%2:35:08::,bend%2:38:02::
+#10 delicate ADJ delicate%5:00:00:breakable:00
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#19 wing NOUN wing%1:05:00::,wing%1:06:00::,wing%1:13:00::
+#26 chest NOUN chest%1:08:00::,chest%1:08:01::
+Scotty said the same words more loudly .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#3 same ADJ same%3:00:00::,same%3:00:02::
+#4 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#5 more ADV more%4:02:00::
+Well , we 're taking a little vacation , that 's all " .
+1
+#7 vacation NOUN vacation%1:28:00::
+He turned unsmilingly to Rachel .
+1
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+" I think by the end of next week he could get out in the air a little .
+4
+#2 think VERB think%2:31:01::,think%2:31:03::
+#5 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#7 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#15 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+He could now but the weakness is very definite ; it would exhaust him further and unnecessarily .
+3
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 exhaust VERB exhaust%2:34:00::
+#14 further ADV further%4:02:02::,further%4:02:03::
+He 'll be stronger soon " .
+2
+#3 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#4 soon ADV soon%4:02:00::
+His stethoscope was on the table by Scotty 's bed and he picked it up and wagged it at Scotty .
+2
+#5 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#9 bed NOUN bed%1:06:00::
+He said fussily , " Just keep the cap on those strong emotions " .
+5
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 just ADV just%4:02:00::,just%4:02:03::
+#6 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#8 cap NOUN cap%1:06:02::
+#11 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+The stethoscope glinted silver in the darkening room .
+1
+#7 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+" I 'll drop by again in a few days " .
+1
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Rachel stayed on after the doctor had gone .
+2
+#5 doctor NOUN doctor%1:18:00::
+#7 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+She smoothed the covers on Scotty 's bed and picked things up from the floor .
+4
+#3 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#7 bed NOUN bed%1:06:00::
+#10 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#14 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+She did not touch him .
+2
+#2 not ADV not%4:02:00::
+#3 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+Scotty watched with disinterest .
+2
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 disinterest NOUN disinterest%1:09:01::
+He did not speak .
+2
+#2 not ADV not%4:02:00::
+#3 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+She said , " Do you think you 'll miss school " ?
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 think VERB think%2:31:01::,think%2:31:03::
+#9 miss VERB miss%2:37:00::,miss%2:38:00::
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+He had noticed how formal and irritably exact Rachel had grown .
+2
+#4 formal ADJ formal%3:00:01::,formal%3:00:02::,formal%5:00:00:dignified:00,formal%5:00:00:official:00
+#10 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+He did not care .
+2
+#2 not ADV not%4:02:00::
+#3 care VERB care%2:37:00::,care%2:37:12::
+He felt her irritability did not concern him , yet he knew he would not care even if it did .
+6
+#1 feel VERB feel%2:31:00::,feel%2:39:00::
+#5 not ADV not%4:02:00::
+#6 concern VERB concern%2:42:00::,concern%2:42:01::
+#11 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 not ADV not%4:02:00::
+#15 care VERB care%2:37:00::,care%2:37:12::
+He shook his head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" We 've had any number of calls about you .
+2
+#5 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#7 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+You could win a popularity contest at that school without any trouble .
+3
+#2 win VERB win%2:33:00::
+#8 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#11 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Miss Estherson called twice .
+1
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+She wants to pay you a visit .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+She says the children miss you .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 miss VERB miss%2:37:00::,miss%2:38:00::
+Scotty shrugged slightly .
+1
+#2 slightly ADV slightly%4:02:01::
+Rachel came close to the bed , bent as if she would kiss him , then moved away .
+6
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#5 bed NOUN bed%1:06:00::
+#7 bend VERB bend%2:35:08::,bend%2:38:02::
+#15 then ADV then%4:02:00::
+#16 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#17 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+" That doctor annoys me " .
+1
+#2 doctor NOUN doctor%1:18:00::
+" Do you suppose his self-consciousness is characteristic of the new Negro professionals or merely of doctors in general " ?
+2
+#3 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#16 doctor NOUN doctor%1:18:00::
+" Well , Mrs. Charles - Sally - has phoned too .
+1
+#10 too ADV too%4:02:01::
+Rachel 's tone was dry .
+2
+#2 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#4 dry ADJ dry%5:00:00:unstimulating:00
+" She did n't really say " - She glanced away at the floor , then swooped gracefully and picked up one of Scotty 's slippers .
+7
+#4 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 glance VERB glance%2:38:00::,glance%2:39:00::
+#10 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#13 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#15 then ADV then%4:02:00::
+#16 swoop VERB swoop%2:35:00::
+" I mean , do you feel like seeing Kate " ?
+2
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#8 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+Scotty said , " I do n't know " .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+It was true .
+1
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+He did not .
+1
+#2 not ADV not%4:02:00::
+There was the slight pain , but it was no different from the throbbing in his head .
+5
+#3 slight ADJ slight%5:00:00:insignificant:00
+#4 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#9 no DET no%4:02:01::
+#10 different ADJ different%3:00:00::,different%5:00:00:other:00
+#16 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+We 'll wait till you 're stronger and then talk about it " .
+2
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#6 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+She put the slipper neatly by its mate at the foot of the bed .
+4
+#1 put VERB put%2:35:00::,put%2:35:05::
+#7 mate NOUN mate%1:23:00::
+#10 foot NOUN foot%1:15:00::
+#13 bed NOUN bed%1:06:00::
+Scotty said , " Okay " .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+This time Rachel kissed him lightly on the forehead .
+2
+#1 time NOUN time%1:11:00::
+#5 lightly ADV lightly%4:02:00::
+His father was a constant visitor .
+1
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+Scotty would hear the front door in the evening and then his father 's deep slow voice ; it floated up the stairs .
+7
+#8 evening NOUN evening%1:28:00::,evening%1:28:02::
+#10 then ADV then%4:02:00::
+#12 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#14 deep ADJ deep%5:00:00:low:03
+#15 slow ADJ slow%3:00:01::
+#16 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#19 float VERB float%2:38:04::
+He 's getting plenty of rest " .
+2
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#5 rest NOUN rest%1:04:00::,rest%1:10:00::,rest%1:26:00::,rest%1:28:00::
+Or : " Does he get exercise " ?
+2
+#5 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 exercise NOUN exercise%1:04:00::,exercise%1:04:01::,exercise%1:04:02::,exercise%1:04:03::,exercise%1:11:01::
+The exchange was almost invariable , and Scotty , in his bed , could hear every word of it .
+2
+#11 bed NOUN bed%1:06:00::
+#16 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+He never smiled .
+1
+#1 never ADV never%4:02:00::
+It required an energy he no longer possessed to be satirical about his father .
+3
+#3 energy NOUN energy%1:07:02::,energy%1:19:01::
+#7 possess VERB possess%2:40:00::,possess%2:42:00::
+#13 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+His father would come upstairs and stand self-consciously at the foot of the bed and look at his son .
+4
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#10 foot NOUN foot%1:15:00::
+#13 bed NOUN bed%1:06:00::
+After a pause , during which he studied Scotty 's face as if Scotty were not there and could not study him too , Mr. McKinley would ask the same questions he had asked downstairs .
+10
+#7 study VERB study%2:31:00::
+#10 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#15 not ADV not%4:02:00::
+#16 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#19 not ADV not%4:02:00::
+#20 study VERB study%2:31:00::
+#22 too ADV too%4:02:01::
+#27 ask VERB ask%2:32:00::,ask%2:32:04::
+#29 same ADJ same%3:00:00::,same%3:00:02::
+#33 ask VERB ask%2:32:00::,ask%2:32:04::
+Scotty would reply softly and his father , apologetically , would ask him to repeat .
+3
+#6 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#11 ask VERB ask%2:32:01::,ask%2:32:05::
+#14 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+" I'm eating more " , he would say .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Or : " I walk around the house a lot " .
+1
+#7 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+" I'm not supposed to yet " .
+3
+#2 not ADV not%4:02:00::
+#3 suppose VERB suppose%2:31:00::
+#5 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+He was not irritated .
+1
+#2 not ADV not%4:02:00::
+He did not mind the useless , kindly questions .
+3
+#2 not ADV not%4:02:00::
+#3 mind VERB mind%2:32:00::
+#7 kindly ADJ kindly%5:00:00:kind:00
+He looked at the lined face with vague interest ; he felt he was noting it , as if it were something he might think about when he grew stronger .
+7
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#8 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#11 feel VERB feel%2:31:00::,feel%2:39:00::
+#14 note VERB note%2:32:00::,note%2:39:00::
+#28 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#29 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+Mr. McKinley examined everything with critical care , seeking something material to blame for his son 's illness .
+4
+#2 examine VERB examine%2:31:00::,examine%2:32:01::
+#5 critical ADJ critical%3:00:01::,critical%3:00:02::
+#6 care NOUN care%1:09:00::
+#10 material ADJ material%3:00:04::
+" Have you got enough blankets " ?
+1
+#5 blanket NOUN blanket%1:17:00::
+And another time , without accusation : " You never wore that scarf I bought you " .
+5
+#2 time NOUN time%1:11:00::
+#9 never ADV never%4:02:00::
+#10 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#12 scarf NOUN scarf%1:06:00::
+#14 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::

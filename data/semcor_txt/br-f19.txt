@@ -1,0 +1,571 @@
+ The popularity of folklore in America stands in direct proportion to the popularity of nationalism in America .
+2
+#6 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#8 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+And the emphasis on nationalism in America is in proportion to the growth of American influence across the world .
+2
+#12 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#18 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Thus , if we are to observe American folklore in the twentieth century , we will do well to establish the relationships between folklore , nationalism and imperialism at the outset .
+4
+#0 thus ADV thus%4:02:00::
+#6 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#12 century NOUN century%1:28:00::
+#19 establish VERB establish%2:36:01::,establish%2:41:00::
+Historians have come to recognize two cardinal facts concerning nationalism and international influence .
+3
+#2 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+#4 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#8 concern VERB concern%2:42:00::,concern%2:42:01::
+1 ) Every age rewrites the events of its history in terms of what should have been , creating legends about itself that rationalize contemporary beliefs and excuse contemporary actions .
+7
+#3 age NOUN age%1:28:02::,age%1:28:03::
+#9 history NOUN history%1:28:02::
+#19 legend NOUN legend%1:10:01::
+#23 rationalize VERB rationalise%2:32:00::
+#25 belief NOUN belief%1:09:00::,belief%1:09:01::
+#27 excuse VERB excuse%2:32:01::
+#29 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+What actually occurred in the past is seldom as important as what a given generation feels must have occurred .
+5
+#1 actually ADV actually%4:02:01::
+#5 past NOUN past%1:28:01::
+#13 given ADJ give%2:32:03::
+#14 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+#15 feel VERB feel%2:31:00::,feel%2:39:00::
+2 ) As a country superimposes its cultural and political attitudes on others , it searches its heritage in hopes of justifying its aggressiveness .
+4
+#4 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#17 heritage NOUN heritage%1:09:00::
+#19 hope NOUN hope%1:09:00::,hope%1:18:00::
+#21 justify VERB justify%2:32:00::,justify%2:32:01::
+Its folklore and legend , usually disguised as history , are allowed to account for group actions , to provide a focal point for group loyalty , and to become a cohesive force for national identification .
+6
+#3 legend NOUN legend%1:10:01::
+#8 history NOUN history%1:28:00::
+#11 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#19 provide VERB provide%2:34:00::,provide%2:40:00::
+#29 become VERB become%2:30:00::,become%2:42:01::
+#32 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+One can apply these facts to Britain in the late eighteenth and nineteenth centuries as she spread her dominion over palm and pine , and they can be applied again to the United States in more recent years .
+6
+#9 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#13 century NOUN century%1:28:00::
+#16 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#18 dominion NOUN dominion%1:26:00::
+#35 more ADV more%4:02:00::
+#36 recent ADJ recent%5:00:00:past:00
+The popularity of local color literature before the Spanish-American War , the steady currency of the Lincoln myth , the increased emphasis on the frontier west in our mass media are cases in point .
+5
+#4 color NOUN color%1:07:02::,color%1:07:03::,color%1:07:04::;1:07:03::,color%1:27:00::
+#12 steady ADJ steady%3:00:00::
+#13 currency NOUN currency%1:07:02::
+#17 myth NOUN myth%1:10:00::
+#25 west NOUN west%1:15:00::,west%1:15:01::
+Nor is it an accident that baseball , growing into the national game in the last 75 years , has become a microcosm of American life , that learned societies such as the American Folklore Society and the American Historical Association were founded in the 1880's , or that courses in American literature , American civilization , American anything have swept our school and college curricula .
+10
+#4 accident NOUN accident%1:11:00::
+#8 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#12 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#15 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#20 become VERB become%2:30:00::,become%2:42:01::
+#25 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#42 found VERB found%2:41:00::
+#49 course NOUN course%1:04:01::,course%1:14:00::
+#60 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#64 college NOUN college%1:14:00::,college%1:14:01::
+Of course , nationalism has really outlived its usefulness in a country as world oriented as ours , and its continued existence reflects one of the major culture lags of the twentieth century United States .
+8
+#5 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#11 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#13 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#22 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#26 major ADJ major%3:00:05::,major%3:00:06::
+#27 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#28 lag NOUN lag%1:28:00::
+#32 century NOUN century%1:28:00::
+Yet nationalism has lost few of its charms for the historian , writer or man in the street .
+2
+#3 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#7 charm NOUN charm%1:07:00::
+It is an understandable paradox that most American history and most American literature is today written from an essentially egocentric and isolationistic point of view at the very time America is spreading her dominion over palm and pine .
+4
+#8 history NOUN history%1:28:00::
+#28 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#31 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#33 dominion NOUN dominion%1:26:00::
+After all , the average American as he lies and waits for the enemy in Korea or as she scans the newspaper in some vain hope of personal contact with the front is unconcerned that his or her plight is the result of a complex of personal , economic and governmental actions far beyond the normal citizen 's comprehension and control .
+15
+#5 American NOUN american%1:18:00::,american%1:18:01::
+#8 lie VERB lie%2:35:00::,lie%2:38:00::
+#10 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#19 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#24 vain ADJ vain%5:00:00:unproductive:00
+#25 hope NOUN hope%1:09:00::,hope%1:18:00::
+#27 personal ADJ personal%5:00:00:subjective:00
+#28 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#31 front NOUN front%1:06:00::,front%1:14:00::,front%1:15:00::,front%1:19:00::,front%1:26:00::
+#44 complex NOUN complex%1:06:00::
+#48 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#51 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#55 normal ADJ normal%3:00:01::,normal%3:00:03::
+#58 comprehension NOUN comprehension%1:09:00::
+#60 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+Anyone 's identification with an international struggle , whether warlike or peaceful , requires absurd oversimplification and intense emotional involvement .
+2
+#11 peaceful ADJ peaceful%3:00:00::
+#17 intense ADJ intense%3:00:00::
+Such identification comes for each group in each crisis by rewriting history into legend and developing appropriate national heroes .
+5
+#2 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#11 history NOUN history%1:28:02::
+#13 legend NOUN legend%1:10:01::
+#15 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#18 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+In America , such self-deception has served a particularly useful purpose .
+1
+#6 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+A heterogeneous people have needed it to attain an element of cultural and political cohesion in a new and ever changing land .
+4
+#2 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#4 need VERB need%2:42:00::
+#9 element NOUN element%1:06:00::,element%1:09:00::
+#21 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+But we must never forget , most of the appropriate heroes and their legends were created overnight , to answer immediate needs , almost always with conscious aims and ends .
+6
+#3 never ADV never%4:02:00::
+#10 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#13 legend NOUN legend%1:10:01::
+#24 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#27 aim NOUN aim%1:09:00::
+#29 end NOUN end%1:09:02::,end%1:11:00::
+Parson Weems 's George Washington became the symbol of honesty and the father image of the uniting States .
+4
+#5 become VERB become%2:30:00::,become%2:42:01::
+#9 honesty NOUN honesty%1:07:00::
+#12 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#17 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Abraham Lincoln emerged as an incarnation of the national Constitution .
+1
+#5 incarnation NOUN incarnation%1:04:00::
+Therefore , the scholar , as he looks at our national folklore of the last 60 years , will be mindful of two facts .
+1
+#14 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+1 ) Most of the legends that are created to fan the fires of patriotism are essentially propagandistic and are not folk legends at all .
+5
+#5 legend NOUN legend%1:10:01::
+#10 fan VERB fan%2:38:00::
+#20 not ADV not%4:02:00::
+#21 folk ADJ folk%1:10:00::
+#22 legend NOUN legend%1:10:01::
+2 ) The concept that an " American national folklore " exists is itself probably another propagandistic legend .
+2
+#11 exist VERB exist%2:42:00::
+#17 legend NOUN legend%1:10:01::
+Folklore is individually created art that a homogeneous group of people preserve , vary and recreate through oral transmission .
+3
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#17 oral ADJ oral%5:00:00:spoken:00
+#18 transmission NOUN transmission%1:04:01::
+It has come to mean myths , legends , tales , songs , proverbs , riddles , superstitions , rhymes and such literary forms of expression .
+5
+#5 myth NOUN myth%1:10:00::
+#7 legend NOUN legend%1:10:01::
+#9 tale NOUN tale%1:10:00::
+#15 riddle NOUN riddle%1:10:00::
+#25 expression NOUN expression%1:10:02::,expression%1:10:04::
+Related to written literature , and often remaining temporarily frozen in written form , it loses its vitality when transcribed or removed from its oral existence .
+5
+#0 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#9 freeze VERB freeze%2:38:00::
+#12 form NOUN form%1:09:01::,form%1:10:00::
+#15 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#24 oral ADJ oral%5:00:00:spoken:00
+Though it may exist in either literate or illiterate societies , it assumes a role of true cultural importance only in the latter .
+5
+#3 exist VERB exist%2:42:00::
+#9 society NOUN society%1:14:00::,society%1:14:02::
+#16 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#19 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 latter ADJ latter%3:00:00::
+In its propagandistic and commercial haste to discover our folk heritage , the public has remained ignorant of definitions such as this .
+4
+#4 commercial ADJ commercial%3:01:00::
+#9 folk ADJ folk%1:10:00::
+#10 heritage NOUN heritage%1:09:00::
+#18 definition NOUN definition%1:10:00::
+Enthusiastically , Americans have swept subliterary and bogus materials like Paul Bunyan tales , Abe Lincoln anecdotes and labor union songs up as true products of our American oral tradition .
+7
+#2 American NOUN american%1:18:00::,american%1:18:01::
+#8 material NOUN material%1:06:01::,material%1:10:00::
+#12 tale NOUN tale%1:10:00::
+#23 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#24 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#28 oral ADJ oral%5:00:00:spoken:00
+#29 tradition NOUN tradition%1:09:01::
+Nor have we remembered that in the melting pot of America the hundreds of isolated and semi isolated ethnic , regional and occupational groups did not fuse into a homogeneous national unit until long after education and industrialization had caused them to cast oral tradition aside as a means of carrying culturally significant material .
+9
+#25 not ADV not%4:02:00::
+#26 fuse VERB fuse%2:30:00::
+#31 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#35 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#43 oral ADJ oral%5:00:00:spoken:00
+#44 tradition NOUN tradition%1:09:01::
+#48 means NOUN means%1:06:00::
+#50 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#53 material NOUN material%1:06:01::,material%1:10:00::
+Naturally , such scholarly facts are of little concern to the man trying to make money or fan patriotism by means of folklore .
+7
+#0 naturally ADV naturally%4:02:00::
+#8 concern NOUN concern%1:09:00::
+#11 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#14 make VERB make%2:40:01::
+#17 fan VERB fan%2:38:00::
+#20 means NOUN means%1:06:00::
+That much of what he calls folklore is the result of beliefs carefully sown among the people with the conscious aim of producing a desired mass emotional reaction to a particular situation or set of situations is irrelevant .
+9
+#5 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#11 belief NOUN belief%1:09:00::,belief%1:09:01::
+#16 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#20 aim NOUN aim%1:09:00::
+#22 produce VERB produce%2:39:00::
+#30 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#31 situation NOUN situation%1:26:01::
+#33 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#35 situation NOUN situation%1:26:01::
+As long as his material is Americana , can in some way be ascribed to the masses and appears " democratic " to his audience , he remains satisfied .
+5
+#4 material NOUN material%1:06:01::,material%1:10:00::
+#16 mass NOUN mass%1:14:01::
+#18 appear VERB appear%2:30:00::
+#20 democratic ADJ democratic%3:00:00::
+#24 audience NOUN audience%1:14:01::
+From all this we can now see that two streams of development run through the history of twentieth century American folklore .
+6
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#9 stream NOUN stream%1:04:00::,stream%1:11:00::,stream%1:14:00::,stream%1:26:00::
+#11 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#15 history NOUN history%1:28:02::
+#18 century NOUN century%1:28:00::
+On the one side we have the university professors and their students , trained in Teutonic methods of research , who have sought out , collected and studied the true products of the oral traditions of the ethnic , regional and occupational groups that make up this nation .
+11
+#3 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 professor NOUN full_professor%1:18:00::
+#13 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#15 Teutonic ADJ teutonic%3:01:00::
+#25 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#27 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#29 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#30 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#33 oral ADJ oral%5:00:00:spoken:00
+#34 tradition NOUN tradition%1:09:01::
+On the other we have the flag wavers and the national sentimentalists who have been willing to use any patriotic , " frontier western " or colonial material willy-nilly .
+5
+#2 other ADJ other%3:00:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#26 colonial ADJ colonial%3:01:00::
+#28 willy-nilly ADV willy-nilly%4:02:00::
+Unfortunately , few of the artists ( writers , movie producers , dramatists and musicians ) who have used American folklore since 1900 have known enough to distinguish between the two streams even in the most general of ways .
+4
+#10 producer NOUN producer%1:18:02::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#31 stream NOUN stream%1:04:00::,stream%1:11:00::,stream%1:14:00::,stream%1:26:00::
+#35 most ADV most%4:02:00::
+After all , the field is large , difficult to define and seldom taught properly to American undergraduates .
+4
+#4 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 define VERB define%2:32:00::,defined%3:00:00::
+#14 properly ADV properly%4:02:00::
+In addition , this country has been settled by many peoples of many heritages and their lore has become acculturated slowly , in an age of print and easy communication , within an ever expanding and changing society .
+10
+#4 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#7 settle VERB settle%2:30:00::,settle%2:30:01::,settle%2:30:02::,settle%2:30:03::,settle%2:30:05::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 heritage NOUN heritage%1:09:00::
+#16 lore NOUN lore%1:09:00::
+#24 age NOUN age%1:28:02::,age%1:28:03::
+#26 print NOUN print%1:10:00::
+#28 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#29 communication NOUN communication%1:03:00::,communication%1:10:01::
+#37 society NOUN society%1:14:00::,society%1:14:02::
+The problems confuse even the experts .
+1
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+Anthropologists , housewives , historians and such by profession , they approach their discipline as amateurs , collectors , commercial propagandists , analysts or some combination of the four .
+7
+#2 housewife NOUN housewife%1:18:00::
+#8 profession NOUN profession%1:14:00::
+#11 approach VERB approach%2:41:00::
+#13 discipline NOUN discipline%1:09:00::
+#17 collector NOUN collector%1:18:01::
+#19 commercial ADJ commercial%3:01:00::
+#25 combination NOUN combination%1:04:00::,combination%1:14:00::
+They have widely varying backgrounds and aims .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#2 widely ADV widely%4:02:00::,widely%4:02:02::
+#4 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+#6 aim NOUN aim%1:09:00::
+They have little " esprit de corps " .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The outlook for the amateur , for instance , is usually dependent on his fondness for local history or for the picturesque .
+1
+#17 history NOUN history%1:10:00::
+His love of folklore has romanticism in it , and he does n't care much about the dollar sign or the footnote .
+4
+#1 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 romanticism NOUN romanticism%1:07:00::
+#13 care VERB care%2:37:00::,care%2:37:12::
+Folklore is his hobby , and he , all too rightly , wishes it to remain as such .
+1
+#3 hobby NOUN hobby%1:04:00::
+The amateur is closely related to the collector , who is actually no more than the amateur who has taken to the field .
+4
+#7 collector NOUN collector%1:18:01::
+#11 actually ADV actually%4:02:01::
+#12 no ADV no%4:02:01::
+#22 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+The collector enjoys the contact with rural life ; he hunts folklore for the very " field and stream " reasons that many persons hunt game ; and only rarely is he acutely concerned with the meaning of what he has located .
+12
+#1 collector NOUN collector%1:18:01::
+#2 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#4 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#7 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#10 hunt VERB hunt%2:35:03::
+#20 reason NOUN reason%1:09:01::,reason%1:16:00::
+#23 person NOUN person%1:03:00::,person%1:08:00::
+#24 hunt VERB hunt%2:35:03::
+#25 game NOUN game%1:05:00::,game%1:13:00::
+#28 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#29 rarely ADV rarely%4:02:00::
+#36 meaning NOUN meaning%1:09:00::
+Fundamentally , both these types , the amateur and the collector , are uncritical and many of them do n't distinguish well between real folklore and bogus material .
+4
+#4 type NOUN type%1:18:00::
+#10 collector NOUN collector%1:18:01::
+#23 real ADJ real%3:00:00::,real%5:00:00:true:00
+#27 material NOUN material%1:06:01::,material%1:10:00::
+But there are also the commercial propagandists and the analysts - one dominated by money , the other by nineteenth century German scholarship .
+3
+#5 commercial ADJ commercial%3:01:00::
+#20 century NOUN century%1:28:00::
+#22 scholarship NOUN scholarship%1:09:00::
+Both are primarily concerned with the uses that can be made of the material that the collector has found .
+4
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 material NOUN material%1:06:01::,material%1:10:00::
+#16 collector NOUN collector%1:18:01::
+#18 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Both shudder at the thought of proceeding too far beyond the sewage system and the electric light lines .
+6
+#4 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#7 too ADV too%4:02:00::
+#8 far ADV far%4:02:02::
+#15 electric ADJ electric%3:01:00::
+#16 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#17 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+The commercial propagandist , who can n't afford to be critical , gets along well with the amateur , from whom he feeds , but he frequently steps on the analyst 's toes by refusing to keep his material genuine .
+7
+#1 commercial ADJ commercial%3:01:00::
+#7 afford VERB afford%2:34:00::,afford%2:42:00::
+#10 critical ADJ critical%3:00:01::
+#14 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#22 feed VERB feed%2:30:01::,feed%2:34:03::,feed%2:38:04::
+#36 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#38 material NOUN material%1:06:01::,material%1:10:00::
+His standards are , of course , completely foreign to those of the analyst .
+1
+#8 foreign ADJ foreign%3:00:01::,foreign%5:00:00:extrinsic:00
+To both the amateur and the commercial progandist the analyst lacks a soul , lacks appreciation with his endless probings and classifications .
+3
+#6 commercial ADJ commercial%3:01:00::
+#12 soul NOUN soul%1:12:00::,soul%1:18:00::
+#15 appreciation NOUN appreciation%1:04:01::
+Dominated by the vicious circle of the university promotion system , the analyst looks down on and gets along poorly with the other three groups , although he cannot deny his debt to the collector .
+2
+#22 other ADJ other%3:00:00::
+#29 deny VERB deny%2:32:00::,deny%2:32:01::
+The knowledge that most Americans have of folklore comes through contact with commercial propagandists and a few energetic amateurs and collectors .
+7
+#1 knowledge NOUN knowledge%1:03:00::
+#4 American NOUN american%1:18:00::,american%1:18:01::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+#10 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#12 commercial ADJ commercial%3:01:00::
+#20 collector NOUN collector%1:18:01::
+The work done by the analysts , the men who really know what folklore is all about , has no more appeal than any other work of a truly scientific sort and reaches a limited , learned audience .
+12
+#1 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#8 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#10 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#11 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 appeal NOUN appeal%1:07:00::
+#24 other ADJ other%5:00:02:past:00
+#25 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#28 truly ADV truly%4:02:04::
+#30 sort NOUN sort%1:09:00::,sort%1:18:00::
+#32 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#37 audience NOUN audience%1:14:01::
+Publishers want books that will sell , recording studios want discs that will not seem strange to ears used to hillbilly and jazz music , grade and high schools want quaint , but moral , material .
+10
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#2 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#5 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#9 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#10 disk NOUN disk%1:06:02::
+#13 not ADV not%4:02:00::
+#15 strange ADJ strange%3:00:01::,strange%5:00:01:unfamiliar:00
+#17 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#29 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#35 material NOUN material%1:06:01::,material%1:10:00::
+The analyst is apt to be too honest to fit in .
+2
+#3 apt ADJ apt%5:00:00:likely:00
+#6 too ADV too%4:02:00::
+As a result , most people do n't have more than a vague idea what folklore actually is ; they see it as a potpourri of charming , moral legends and patriotic anecdotes , with a superstition or remedy thrown in here and there .
+6
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#16 actually ADV actually%4:02:01::
+#28 moral ADJ moral%3:00:00::
+#29 legend NOUN legend%1:10:01::
+#38 remedy NOUN remedy%1:06:00::
+And so well is such ignorance preserved by the amateur and the money-maker that even at the college level most of the hundred odd folklore courses given in the United States survive on sentiment and nationalism alone .
+5
+#1 so ADV so%4:02:03::,so%4:02:07::
+#23 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#25 course NOUN course%1:04:01::,course%1:14:00::
+#26 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+#36 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+If one wishes to discuss a literary figure who uses folklore in his work , the first thing he must realize is that the literary figure is probably part of this ignorant American public .
+10
+#6 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#7 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#17 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#20 realize VERB realize%2:31:01::
+#24 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#25 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#28 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+And while every writer must be dealt with as a special case , the interested student will want to ask himself a number of questions about each .
+5
+#6 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#11 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#17 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 ask VERB ask%2:32:00::,ask%2:32:04::
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Does the writer know the difference between an " ersatz " ballad or tall tale and a true product of the folk ?
+4
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#18 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#21 folk NOUN folk%1:14:00::
+When the writer uses material does he tamper with it to improve its commercial effect or does he leave it pure ?
+5
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 material NOUN material%1:06:01::,material%1:10:00::
+#7 tamper VERB tamper%2:41:00::
+#13 commercial ADJ commercial%3:01:00::
+#14 effect NOUN effect%1:09:00::,effect%1:19:00::
+Is he swept away by sentiment and nostalgia for an America that was ?
+1
+#5 sentiment NOUN sentiment%1:12:00::
+Or does he sincerely want to tap the real springs of American attitude and culture regardless of how unpopular and embarrassing they may be ?
+4
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 real ADJ real%3:00:00::,real%5:00:00:true:00
+#9 spring NOUN spring%1:17:00::
+#14 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+When he gets the answers to his questions he will be discouraged .
+1
+#2 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+In the first place , a good many writers who are said to use folklore , do not , unless one counts an occasional superstition or tale .
+6
+#6 good ADJ good%5:00:00:complete:00
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 not ADV not%4:02:00::
+#21 count VERB count%2:31:00::,count%2:32:03::
+#26 tale NOUN tale%1:10:00::
+Robert Frost , for instance , writes about rural life in New England , but he does not include any significant amount of folklore in his poems .
+4
+#6 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#9 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#17 not ADV not%4:02:00::
+#18 include VERB include%2:31:00::,include%2:41:03::
+This has not , however , prevented publishers from labeling him a " folk poet " , simply because he is a rural one .
+4
+#2 not ADV not%4:02:00::
+#4 however ADV however%4:02:04::
+#6 prevent VERB prevent%2:41:00::
+#17 simply ADV simply%4:02:00::,simply%4:02:02::
+In the second place , a large number of writers , making a more direct claim than Frost to being " folk writers " of one sort or another , clearly make no distinctions between genuine and bogus material .
+9
+#2 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#3 place NOUN place%1:09:00::,place%1:10:02::,place%1:26:02::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 more ADV more%4:02:00::
+#14 direct ADJ direct%3:00:02::
+#15 claim NOUN claim%1:10:02::
+#26 sort NOUN sort%1:09:00::,sort%1:18:00::
+#33 distinction NOUN distinction%1:09:00::
+#38 material NOUN material%1:06:01::,material%1:10:00::
+Stephen Vincent Benet 's John Brown's Body comes immediately to mind in this connection , as does John Steinbeck 's The Grapes of Wrath and Carl Sandburg 's The People, Yes .
+2
+#7 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#13 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+The last two writers introduce strong political bias into their works , and not unlike the union leaders that we will discuss soon , see folklore as a reservoir of protest by a downtrodden and publically silenced mass .
+10
+#1 last ADJ last%5:00:00:unlikely:00
+#4 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#5 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+#7 bias NOUN bias%1:09:00::
+#10 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#16 union NOUN union%1:14:01::,union%1:14:02::
+#17 leader NOUN leader%1:18:00::
+#22 soon ADV soon%4:02:00::
+#30 protest NOUN protest%1:10:00::
+#37 mass NOUN mass%1:14:01::
+Folklore , as used by such writers , really reflects images engraved into it by the very person using it .
+5
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#9 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#17 person NOUN person%1:03:00::,person%1:08:00::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The folk are simply not homogeneous with respect to nation or political attitude .
+3
+#1 folk NOUN folk%1:14:00::
+#3 simply ADV simply%4:02:01::
+#4 not ADV not%4:02:00::
+In fact , there is much evidence to indicate they do n't care a bit about anything beyond their particular regional , ethnic and occupational limits .
+4
+#8 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 care VERB care%2:37:00::,care%2:37:12::
+#19 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#25 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+Nevertheless , with a reading public that longs for " the good old days " and with an awareness of our expanding international interests , it is easy for the Benets to obtain a magnified position in literature by use of all sorts of Americana , real or fake , and it is easy for the Steinbecks and Sandburgs to support their messages of reform by reading messages of reform into the minds of the folk .
+12
+#4 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#23 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#27 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#35 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#42 sort NOUN sort%1:09:00::,sort%1:18:00::
+#53 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#60 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#62 message NOUN message%1:10:00::,message%1:10:01::
+#66 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#67 message NOUN message%1:10:00::,message%1:10:01::
+#72 mind NOUN mind%1:09:00::,mind%1:09:04::
+#75 folk NOUN folk%1:14:00::

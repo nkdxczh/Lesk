@@ -1,0 +1,307 @@
+ East Providence should organize its civil defense setup and begin by appointing a full-time director , Raymond H. Hawksley , the present city CD head , believes .
+4
+#3 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#11 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#26 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+Mr. Hawksley said yesterday he would be willing to go before the city council " or anyone else locally " to outline his proposal at the earliest possible time .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#21 outline VERB outline%2:32:00::
+East Providence now has no civil defense program .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He is not interested in being named a full-time director .
+1
+#6 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+Noting that President Kennedy has handed the Defense Department the major responsibility for the nation 's civil defense program , Mr. Hawksley said the federal government would pay half the salary of a full-time local director .
+3
+#0 note VERB note%2:32:00::,note%2:39:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#27 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+He expressed the opinion the city could hire a CD director for about $ 3500 a year and would only have to put up half that amount on a matching fund basis to defray the salary costs .
+2
+#1 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#7 hire VERB hire%2:41:00::
+Mr. Hawksley said he believed there are a number of qualified city residents who would be willing to take the full-time CD job .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#18 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+One of these men is former Fire Chief John A. Laughlin , he said .
+1
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Along with a director , the city should provide a CD headquarters so that pertinent information about the local organization would be centralized .
+1
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+Mr. Hawksley said .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+One advantage that would come to the city in having a full-time director , he said , is that East Providence would become eligible to apply to the federal government for financial aid in purchasing equipment needed for a sound civil defense program .
+6
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 become VERB become%2:30:00::,become%2:42:01::
+#25 apply VERB apply%2:32:00::
+#34 purchase VERB purchase%2:40:00::
+#36 need VERB need%2:42:00::
+Matching funds also can be obtained for procurement of such items as radios , sirens and rescue trucks , he said .
+2
+#5 obtain VERB obtain%2:40:00::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mr. Hawksley believes that East Providence could use two more rescue trucks , similar to the CD vehicle obtained several years ago and now detailed to the Central Fire Station .
+4
+#2 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 obtain VERB obtain%2:40:00::
+#24 detail VERB detail%2:31:00::
+He would assign one of the rescue trucks to the Riverside section of the city and the other to the Rumford area .
+1
+#2 assign VERB assign%2:31:00::,assign%2:41:00::
+Speaking of the present status of civil defense in the city , Mr. Hawksley said he would be willing to bet that not more than one person in a hundred would know what to do or where to go in the event of an enemy attack .
+4
+#0 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 bet VERB bet%2:33:00::
+#38 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+The Narragansett Race Track grounds is one assembly point , he said , and a drive-in theater in Seekonk would be another .
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mr. Hawksley said he was not critical of city residents for not knowing what to do or where to assemble in case of an air attack .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 assemble VERB assemble%2:41:03::
+Such vital information , he said , has to be made available to the public frequently and at regular intervals for residents to know .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+If the city council fails to consider appointment of a full-time CD director , Mr. Hawksley said , then he plans to call a meeting early in September so that a civil defense organization will be developed locally .
+4
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 plan VERB plan%2:31:00::,plan%2:31:01::
+#22 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#36 develop VERB develop%2:32:00::,develop%2:36:01::
+One of the first things he would do , he said , would be to organize classes in first aid .
+2
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+Other steps would be developed after information drifts down to the local level from the federal government .
+2
+#4 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#7 drift VERB drift%2:38:01::
+Rhode Island is going to examine its Sunday sales law with possible revisions in mind .
+1
+#5 examine VERB examine%2:31:00::,examine%2:32:01::
+Governor Notte said last night he plans to name a committee to make the study and come up with recommendations for possible changes in time for the next session of the General Assembly .
+4
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 plan VERB plan%2:31:00::,plan%2:31:01::
+#8 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#12 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+A copy was released to the press .
+1
+#3 release VERB release%2:32:00::,release%2:41:01::
+The resolution urges the governor to have a complete study of the Sunday sales laws made with an eye to their revision at the next session of the legislature .
+1
+#15 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+While the city council suggested that the Legislative Council might perform the review , Mr. Notte said that instead he will take up the matter with Atty. Gen. J. Joseph Nugent to get " the benefit of his views " .
+3
+#10 perform VERB perform%2:36:00::,perform%2:41:00::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#32 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+He will then appoint the study committee with Mr. Nugent 's cooperation , the governor said .
+2
+#3 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I would expect the proposed committee to hold public hearings " , Mr. Notte said , " to obtain the views of the general public and religious , labor and special-interest groups affected by these laws " .
+3
+#8 hold VERB hold%2:36:00::,holding%1:04:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 obtain VERB obtain%2:40:00::
+The governor wrote Miss Grant that he has been concerned for some time " with the continuous problem which confronts our local and state law enforcement officers as a result of the laws regulating Sunday sales " .
+1
+#2 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+Should there be evidence they are shirking , he has said , the state police will step into the situation .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The statutes , similar in both the Bay State and Rhode Island and dating back in some instances to colonial times , severely limit the types of merchandise that may be sold on the Sabbath .
+1
+#31 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+The Central Falls City Council expressed concern especially that more foods be placed on the eligible list and that neighborhood grocery and variety stores be allowed to do business on Sunday .
+2
+#5 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#25 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+The only day they " have a chance to compete with large supermarkets is on Sunday " , the council 's resolution said .
+2
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The small shops " must be retained , for they provide essential service to the community " , according to the resolution , which added that they " also are the source of livelihood for thousands of our neighbors " .
+2
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+#24 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+It declares that Sunday sales licenses provide " great revenue " to the local government .
+2
+#1 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+The council advised the governor that " large supermarkets , factory outlets and department stores not be allowed to do business " on Sunday .
+1
+#17 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+They " operate on a volume basis " , it was contended , " and are not essential to provide the more limited but vital shopping needs of the community " .
+3
+#2 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#11 contend VERB contend%2:32:01::
+#19 provide VERB provide%2:34:00::,provide%2:40:00::
+Liberals and conservatives in both parties - Democratic and Republican - should divorce themselves and form two independent parties , George H. Reama , nationally known labor-management expert , said here yesterday .
+2
+#15 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#29 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mr. Reama told the Rotary Club of Providence at its luncheon at the Sheraton-Biltmore Hotel that about half of the people in the country want the " welfare " type of government and the other half want a free enterprise system .
+3
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#24 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#36 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+He suggested that a regrouping of forces might allow the average voter a better pull at the right lever for him on election day .
+1
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+He said he was " confessing that I was a member of the Socialist Party in 1910 " .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+That , he added , was when he was " a very young man , a machinist and toolmaker by trade .
+1
+#3 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+" That was before I studied law .
+1
+#5 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+The lawyer with whom I studied law steered me off the Socialist track .
+1
+#5 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+He said that when he was a Socialist in 1910 , the party called for government operation of all utilities and the pooling of all resources .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He suggested that without the Socialist Party ever gaining a national victory , most of its original program has come to pass under both major parties .
+2
+#8 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#21 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+Mr. Reama , who retired as vice president of the American Screw Co. in 1955 said , " Both parties in the last election told us that we need a five per cent growth in the gross national product - but neither told us how to achieve it " .
+5
+#4 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#28 need VERB need%2:42:00::
+#42 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He said he favors wage increases for workers - " but manufacturers are caught in a profit squeeze " - and raises should only come when the public is conditioned to higher prices , he added .
+6
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#3 favor VERB favor%2:31:00::,favor%2:41:00::
+#13 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#24 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#29 condition VERB condition%2:41:00::
+#35 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Indicating the way in which he has turned his back on his 1910 philosophy , Mr. Reama said : " A Socialist is a person who believes in dividing everything he does not own " .
+4
+#0 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#33 own VERB owned%3:00:00::
+Mr. Reama , far from really being retired , is engaged in industrial relations counseling .
+1
+#10 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+A petition bearing the signatures of more than 1700 Johnston taxpayers was presented to the town council last night as what is hoped will be the first step in obtaining a home rule charter for the town .
+3
+#2 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#12 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#29 obtain VERB obtain%2:40:00::
+William A. Martinelli , chairman of the Citizens Group of Johnston , transferred the petitions from his left hand to his right hand after the council voted to accept them at the suggestion of Council President Raymond Fortin Sr. .
+1
+#12 transfer VERB transfer%2:40:00::,transfer%2:40:01::
+The law which governs home rule charter petitions states that they must be referred to the chairman of the board of canvassers for verification of the signatures within 10 days and Mr. Martinelli happens to hold that post .
+5
+#3 govern VERB govern%2:41:01::,govern%2:41:02::
+#8 state VERB state%2:32:01::,state%2:32:02::
+#13 refer VERB refer%2:32:12::,refer%2:38:00::
+#33 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#35 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+Mr. Martinelli explained that there should be more than enough signatures to assure the scheduling of a vote on the home rule charter and possible election of a nine member charter commission within 70 days .
+1
+#12 assure VERB assure%2:31:00::,assure%2:32:03::
+He explained that by law the council must establish procedures for a vote on the issue within 60 days after the board of canvassers completes its work .
+2
+#8 establish VERB establish%2:36:01::,establish%2:41:00::
+#24 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+A difference of opinion arose between Mr. Martinelli and John P. Bourcier , town solicitor , over the exact manner in which the vote is handled .
+2
+#4 arise VERB arise%2:30:00::,arise%2:42:01::
+#25 handle VERB handle%2:41:00::,handle%2:41:03::
+Mr. Martinelli has , in recent weeks , been of the opinion that a special town meeting would be called for the vote , while Mr. Bourcier said that a special election might be called instead .
+1
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mr. Bourcier said that he had consulted several Superior Court justices in the last week and received opinions favoring both procedures .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#18 favor VERB favor%2:31:00::,favor%2:41:00::
+He assured Mr. Martinelli and the council that he would study the correct method and report back to the council as soon as possible .
+3
+#1 assure VERB assure%2:32:01::,assure%2:32:02::
+#10 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#15 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Mr. Martinelli said yesterday that the Citizens Group of Johnston will meet again July 24 to plan further strategy in the charter movement .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#16 plan VERB plan%2:31:00::,plan%2:31:01::
+He said that the group has no candidates for the charter commission in mind at present , but that it will undoubtedly endorse candidates when the time comes .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 endorse VERB endorse%2:41:02::
+" After inspiring this , I think we should certainly follow through on it " , he declared .
+3
+#2 inspire VERB inspire%2:32:00::,inspire%2:32:01::,inspire%2:36:00::,inspire%2:37:00::
+#6 think VERB think%2:31:01::,think%2:31:03::
+#17 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+" It has become our responsibility and I hope that the Citizens Group will spearhead the movement " .
+1
+#3 become VERB become%2:30:00::,become%2:42:01::
+He said he would not be surprised if some of the more than 30 members of the group are interested in running on the required non-partisan ballot for posts on the charter commission .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 run VERB run%2:33:06::
+" Our most immediate goal is to increase public awareness of the movement " , he indicated , " and to tell them what this will mean for the town " .
+2
+#16 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#21 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Increasing opposition can be expected in coming weeks , it was indicated .
+1
+#11 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+Misunderstanding of the real meaning of a home rule charter was cited as a factor which has caused the Citizens Group to obtain signatures under what were termed " false pretenses " .
+2
+#11 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+#22 obtain VERB obtain%2:40:00::
+Several signers affixed their names , it was learned , after being told that no tax increase would be possible without consent of the General Assembly and that a provision could be included in the charter to have the town take over the Johnston Sanitary District sewer system .
+3
+#8 learn VERB learn%2:31:01::,learn%2:31:03::
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#32 include VERB include%2:31:00::,include%2:41:03::
+Action on a new ordinance permitting motorists who plead guilty to minor traffic offenses to pay fines at the local police station may be taken at Monday 's special North Providence Town Council meeting .
+3
+#8 plead VERB plead%2:32:00::,plead%2:32:01::,plead%2:32:02::,plead%2:32:03::
+#15 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#24 take VERB take%2:31:02::,take%2:34:00::
+Council president Frank SanAntonio said yesterday he may ask the council to formally request Town Solicitor Michael A. Abatuno to draft the ordinance .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 ask VERB ask%2:32:01::,ask%2:32:05::
+#20 draft VERB draft%2:36:05::
+At the last session of the General Assembly , the town was authorized to adopt such an ordinance as a means of making enforcement of minor offenses more effective .
+1
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+At present all offenses must be taken to Sixth District Court for disposition .
+1
+#6 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Local police have hesitated to prosecute them because of the heavy court costs involved even for the simplest offense .
+2
+#5 prosecute VERB prosecute%2:41:01::
+#13 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::

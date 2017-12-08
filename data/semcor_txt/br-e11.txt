@@ -1,0 +1,267 @@
+ Livery Stable - J. Vernon , Prop. Coaching had declined considerably by 1905 , but the sign was still there , near the old Wells Fargo building in San Francisco , creaking in the fog as it had for thirty years .
+2
+#9 decline VERB decline%2:30:00::
+#31 creak VERB creak%2:39:00::
+John Vernon had had all the patronage he cared for - he had prospered , but he could not retire from horsedom .
+2
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+Coaching was in his blood .
+1
+#0 coach VERB coach%2:32:00::
+He had two interests in life : the pleasures of the table and driving .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Twice a week he drove his tallyho over the Santa Cruz road , upland and through the redwood forest , with orchards below him at one hand , and glimpses of the Pacific at the other .
+1
+#4 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+The journey back he made along the coast road , traveling hell-for-leather , every lantern of the tallyho ablaze .
+1
+#10 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+They did not complain at the inhuman hour of starting ( seven in the morning ) , nor of the tariff , which was reasonable since it covered everything but the tobacco .
+2
+#9 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#27 cover VERB cover%2:32:00::,cover%2:41:01::
+Then the Chinese hostler , who rode with Vernon on the box , would break open a hamper and produce filets of smoked bass or sturgeon , sandwiches , pickled eggs , and a rum sangaree to be heated over a spirit lamp .
+1
+#6 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+In spring and in autumn the run was made for a group of botanists which included an old friend of mine .
+2
+#8 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#15 include VERB include%2:42:00::
+They gathered roots , bulbs , odd ferns , leaves , and bits of resin from the rare Santa Lucia fir , which exists only on a forty-five mile strip on the westerly side of these mountains .
+2
+#1 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#23 exist VERB exist%2:42:00::
+In the Spanish days Franciscan monks roamed here to collect the resin for incense .
+1
+#9 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+It yields a fragrance as Orphic as that of the pastilles of Malabar .
+1
+#1 yield VERB yield%2:36:00::,yield%2:40:00::,yield%2:40:02::
+Vernon was serviceable on the botanical field trips , but he could arrange no schedule with the cooks , and he was glad when the trips dropped off , and the botanists began to motor out by themselves .
+2
+#12 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#32 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The hostler would have the table ready and a pot of coffee hissing on the stove ; then a porter from Manning 's Fish House would trot in with a tray on his head .
+1
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+It was draped with snowy napkins that kept hot a platter of oyster salt roast and a mound of corn fritters .
+1
+#7 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Oyster salt roast - oysters on the half shell , cooked on a bed of coarse salt that kept them hot when served - was a standby at Manning 's .
+3
+#10 cook VERB cook%2:30:00::,cook%2:30:03::
+#18 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#22 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+In the 1890 's the Palace Hotel began serving an oyster dish named after its manager , John C. Kirkpatrick .
+3
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#12 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+This dish much resembles the oysters Rockefeller made famous by Antoine 's in New Orleans , though the Palace chef announced it as a variant of Manning 's roast oysters .
+1
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+( Gastronomes have long argued about which came first , the Palace 's or Antoine 's .
+1
+#7 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+Antoine 's held as mandatory a splash of absinthe or Pernod on the parsley or spinach which was used for the underbedding .
+1
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Vernon , however , held out for plain oyster roast , and plenty of it , unadorned by herbs or any seasoning but salt , though he did fancy a bit of lemon .
+1
+#28 fancy VERB fancy%2:37:00::
+After the meal , he and his guests went out to inspect the rig ; this was merely a ritual , to please all hands concerned .
+1
+#22 please VERB please%2:37:00::,please%2:37:03::
+The tallyho had cost Vernon $ 2300 .
+1
+#3 cost VERB cost%2:42:00::,cost%2:42:01::
+A replica of two coaches made in England for the Belmont Club in the East , and matchless west of the Rockies , it was the despair of whips on the Santa Cruz run .
+1
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+One could shave in the reflection of its French-polished panels , and its axles were greased like those of roulette wheels .
+1
+#2 shave VERB shave%2:29:00::
+The horses were groomed to a high gloss ; departing , they stepped solemnly with knees lifted to the jaw , for they had been trained to drag at important funerals .
+4
+#12 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#16 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#25 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#27 drag VERB drag%2:30:03::,drag%2:35:00::
+But for the start of the Santa Cruz run , the whip fell .
+1
+#12 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+The clients boarded the tallyho at the Palace promptly at seven .
+1
+#2 board VERB board%2:38:00::
+They had been fed a hunting breakfast , so called because a kedgeree , the dish identified with fox hunting , was on the bill .
+2
+#3 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#16 identify VERB identify%2:31:03::,identify%2:31:04::
+There are many ways of making a kedgeree , every one of which is right .
+1
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Flake ( for three ) a cupful of cold boiled haddock , mix with a cupful of cooked rice , two minced hard-boiled eggs , some buttery white sauce done with cream , cayenne , pepper , salt , a pinch of curry , a tablespoonful of minced onion fried , and a bit of anchovy .
+1
+#0 flake VERB flake%2:35:00::
+Heat and serve hot on toast .
+1
+#2 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+The omelet named for Ernest Arbogast , the Palace 's chef , was even more in demand .
+1
+#2 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+For decades it was the most popular dish served in the Ladies ' Grill at breakfast , and it is one of the few old Palace dishes that still survive .
+1
+#8 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+The original formula goes thus .
+1
+#3 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+Fry in butter a small minced onion , rub with a tablespoonful of flour , add half a cup of cream , six beaten eggs , pepper , celery salt , a teaspoonful of minced chives , a dash of cayenne , and a pinch of nutmeg .
+1
+#15 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+A jigger of dry Sherry follows , and as the mixture stiffens , in go a hundred of the little oysters .
+2
+#5 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#14 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Louis Sherry once stayed a fortnight at the Palace , and he was so pleased with omelet Arbogast that he introduced it at his restaurant in New York .
+1
+#20 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+J. Pierpont Morgan had come in his private train to San Francisco , to attend an Episcopal convention , and brought the restaurateur with him .
+1
+#14 attend VERB attend%2:42:00::
+As things happened , Morgan was installed in the Nob Hill residence of a magnate friend , whose kitchen swarmed with cooks of approved talent .
+2
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#19 swarm VERB swarm%2:38:00::
+Sherry remained in his hotel suite , where he amused himself as best he could .
+1
+#9 amuse VERB amuse%2:41:00::
+Twice he left everything to his entourage , and fled to make the Santa Cruz tour under Vernon 's guidance .
+1
+#2 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+In the grand court of the Palace , notable for its tiers of Moorish galleries that looked down on the maelstrom of vehicles below , Vernon 's station was at the entrance .
+1
+#16 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+It was a post of honor , held inviolate for him ; he had the primacy among the coachmen .
+1
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Of majestic build , rubicund and slash-mouthed , he resembled the late General Winfield Scott , who was said to be the most imposing general of his century , if not of all centuries .
+1
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Vernon wore a gray tall hat , a gardenia , and maroon Wellington boots that glistened like currant jelly .
+1
+#1 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+He had style : he held his reins in a loose bunch at the third button of his checked Epsom surtout , and when the horses leaned at a curve , as if bent by the force of a gale , he leaned with them .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+They cantered down the peninsula , not slackening until the coach reached Woodside where the Santa Cruz uplands begin .
+2
+#11 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#18 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The road maps of the region have changed since 1905 ; inns have burned down , moved elsewhere , or taken other names .
+3
+#7 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#16 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#20 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+Once on the road ( and especially if the passengers were all regulars and masculine ) , the schedule meant nothing .
+1
+#19 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+An agreeable ease suffused Vernon and the passengers of the tallyho , from which there issued clouds of smoke .
+1
+#15 issue VERB issue%2:30:00::
+Vernon would tilt his hat over one ear as he lounged with his feet on the dashboard , indulging in a huge cigar .
+1
+#2 tilt VERB tilt%2:38:00::
+The horses moved at a clump ; they were no more on parade than was their driver ; one fork of the road was as good as another .
+1
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+The Santa Cruz mountains sprawl over three counties , and the roads twist through sky-tapping redwoods down whose furrowed columns ripple streams of rain , even when heat bakes the Santa Clara valley below at the left .
+2
+#12 twist VERB twist%2:30:00::,twist%2:35:01::,twist%2:38:01::,twist%2:42:00::
+#28 bake VERB bake%2:42:00::
+You arrive there in seersucker , and feel you were half-witted not to bring a mackintosh .
+1
+#7 feel VERB feel%2:31:00::,feel%2:39:00::
+Vernon kept an account book with a list of all the establishments that he thought worthy of patronage .
+2
+#1 keep VERB keep%2:32:00::,keep%2:34:00::
+#14 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+He was copious in his praise of those that served food that was good to eat .
+1
+#9 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+The horses seemed to know these by instinct , he used to say : such places invariably had stables with superior feed bins .
+3
+#4 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+There was Wright 's , for one , lost amongst trees , its wide verandas strewn with rockers .
+1
+#8 lose VERB lose%2:33:01::,lose%2:35:00::,lose%2:39:00::,lose%2:39:01::
+Many of its sojourners were devoted to seclusion and quiet , and lived there to the end of their days .
+1
+#12 live VERB live%2:42:08::
+Acorns from the great oaks fed the small black pigs ( akin to Berkshires ) , whose " carcass sweepstakes " were renowned .
+1
+#5 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+Their ham butts , cured in oak-log smoke , were also esteemed when roasted or boiled , and served with this original sauce .
+3
+#4 cure VERB cure%2:30:00::
+#13 roast VERB roast%2:30:00::
+#18 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Put into a saucepan a cupful of the baked ham gravy , or of the boiled ham liquor , with a half stick of butter , three teaspoonfuls of made mustard , and two mashed garlic cloves .
+1
+#0 put VERB put%2:35:00::,put%2:35:05::
+After this has simmered an hour , add two tablespoons each of Worcestershire , catsup , and chutney , two pickled walnuts , and a pint of Sherry .
+1
+#7 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Every winter a kegful of this sauce was made and placed at the end of a row of four other kegs in the cellar , so that when its turn came , it was properly mellowed .
+2
+#10 place VERB place%2:31:13::
+#30 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+Vineyards and orchards also grew around Wright 's , and deer were rather a nuisance ; they leaped six-foot fences with the agility of panthers .
+1
+#4 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+( The Almaden vineyards have now climbed to this height . )
+1
+#6 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+Apple trees grew there also .
+1
+#2 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+Though creeks in the Santa Cruz mountains flow brimful the year round and it is forever spring , the apples that grow there have a wintry crackle .
+3
+#7 flow VERB flow%2:30:00::,flow%2:38:00::
+#21 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Dwellers thereabouts preferred to get their apple pies at the local bakery , which had a brick oven fired with redwood billets .
+4
+#2 prefer VERB prefer%2:31:00::
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 fire VERB fire%2:30:01::
+The merit of the pie , Vernon believed , was due more to its making than to the waning heat of the oven .
+1
+#7 believe VERB believe%2:31:03::
+The recipe , which he got from the baker , and wrote down in his ledger , is basically this .
+1
+#5 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Peel , core , and slice across enough apples to make a dome in the pie tin , and set aside .
+2
+#5 slice VERB slice%2:35:00::
+#10 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+In a saucepan put sufficient water to cover them , an equal amount of sugar , a sliced lemon , a tablespoonful of apricot preserve or jam , a pinch each of clove and nutmeg , and a large bay leaf .
+2
+#3 put VERB put%2:35:00::,put%2:35:05::
+#7 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Let this boil gently for twenty minutes , then strain .
+1
+#9 strain VERB strain%2:35:01::
+Poach the apples in this syrup for twelve minutes , drain them , and cool .
+2
+#0 poach VERB poach%2:30:00::
+#10 drain VERB drain%2:30:01::
+Set the apples in the pastry-lined tin , spread over them three tablespoonfuls of softened butter , with as much brown sugar , a sprinkling of nutmeg , and a fresh bay leaf , then lay on a cover of pastry , and gild it with beaten yolk of egg .
+2
+#8 spread VERB spread%2:35:12::,spread%2:35:13::,spread%2:42:00::
+#35 lay VERB lay%2:35:00::,lay%2:36:00::

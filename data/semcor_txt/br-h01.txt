@@ -1,0 +1,603 @@
+ The Office of Business Economics ( OBE ) of the U.S. Department of Commerce provides basic measures of the national economy and current analysis of short-run changes in the economic situation and business outlook .
+8
+#15 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#16 measure NOUN measure%1:03:00::,measure%1:10:03::
+#20 economy NOUN economy%1:14:00::
+#26 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#29 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#30 situation NOUN situation%1:26:01::
+#32 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#33 outlook NOUN outlook%1:04:00::
+It develops and analyzes the national income , balance of international payments , and many other business indicators .
+4
+#1 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#15 other ADJ other%5:00:02:past:00
+#16 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#17 indicator NOUN indicator%1:10:00::
+Such measures are essential to its job of presenting business and Government with the facts required to meet the objective of expanding business and improving the operation of the economy .
+10
+#3 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#6 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#8 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#9 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#17 meet VERB meet%2:41:02::,meet%2:42:01::
+#19 objective NOUN objective%1:09:00::
+#22 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#26 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#29 economy NOUN economy%1:14:00::
+For further information contact Director , Office of Business Economics , U.S. Department of Commerce , Washington 25 , D.C. .
+3
+#1 further ADJ further%5:00:00:far:00
+#2 information NOUN information%1:09:00::,information%1:10:02::
+#16 Washington NOUN washington%1:15:01::
+Economic information is made available to businessmen and economists promptly through the monthly Survey of Current Business and its weekly supplement .
+5
+#0 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#1 information NOUN information%1:09:00::,information%1:10:02::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 businessman NOUN businessman%1:18:00::
+#20 supplement NOUN supplement%1:07:00::
+This periodical , including weekly statistical supplements , is available for $ 4 per year from Commerce Field Offices or Superintendent of Documents , U.S. Government Printing Office , Washington 25 , D.C. .
+3
+#3 include VERB include%2:42:00::
+#6 supplement NOUN supplement%1:07:00::
+#29 Washington NOUN washington%1:15:01::
+The Small Business Administration ( SBA ) provides guidance and advice on sources of technical information relating to small business management and research and development of products .
+8
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+#8 guidance NOUN guidance%1:10:00::
+#15 information NOUN information%1:09:00::,information%1:10:02::
+#16 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#19 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#20 management NOUN management%1:04:00::,management%1:14:00::
+#24 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#26 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+Practical management problems and their suggested solutions are dealt with in a series of SBA publications .
+6
+#0 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#1 management NOUN management%1:04:00::,management%1:14:00::
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+#6 solution NOUN solution%1:09:00::,solution%1:10:00::
+#8 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#12 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+These publications , written especially for the managers or owners of small businesses , indirectly aid in community development programs .
+7
+#3 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#4 especially ADV especially%4:02:00::
+#12 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#14 indirectly ADV indirectly%4:02:00::
+#17 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#18 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#19 program NOUN program%1:09:00::,program%1:09:01::
+They are written by specialists in numerous types of business enterprises , cover a wide range of subjects , and are directed to the needs and interests of the small firm .
+7
+#2 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#7 type NOUN type%1:18:00::
+#12 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#14 wide ADJ wide%5:00:00:large:00
+#15 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#17 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#21 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+SBA offers Administrative Management Courses , which are designed to improve the management efficiency and " know-how " of small business concerns within a community .
+2
+#12 management NOUN management%1:04:00::,management%1:14:00::
+#24 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+SBA cosponsors these courses with educational institutions and community groups .
+2
+#3 course NOUN course%1:04:01::,course%1:14:00::
+#8 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+Through the SBA 's Management Counseling Program , practical , personalized advice on sound management principles is available upon request to both prospective and established businessmen in a community .
+6
+#8 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#13 sound ADJ sound%3:00:01::
+#14 management NOUN management%1:04:00::,management%1:14:00::
+#24 established ADJ established%3:00:00::
+#25 businessman NOUN businessman%1:18:00::
+#28 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+One-day conferences covering some specific phase of business management , also part of the continuing activities of the Small Business Administration , aid community economic development programs .
+12
+#1 conference NOUN conference%1:14:00::
+#2 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#4 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#5 phase NOUN phase%1:07:00::,phase%1:28:00::
+#7 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#8 management NOUN management%1:04:00::,management%1:14:00::
+#11 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#15 activity NOUN activity%1:04:00::,activity%1:26:00::
+#23 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#24 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#25 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#26 program NOUN program%1:09:00::,program%1:09:01::
+These short , " streamlined " meetings usually are sponsored by local banks , Chambers of Commerce , trade associations , or other civic organizations .
+6
+#1 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#6 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#9 sponsor VERB sponsor%2:40:00::
+#12 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#22 other ADJ other%5:00:02:past:00
+#24 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+Production specialists in SBA regional offices are available to help individual small business concerns with technical production problems .
+7
+#0 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#5 office NOUN office%1:06:00::
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#10 individual ADJ individual%5:00:00:independent:00
+#15 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#16 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#17 problem NOUN problem%1:09:00::,problem%1:26:00::
+Guidance and advice are available on new product research and development ; new product potential ; processing methods ; product and market developments ; new industrial uses for raw , semi-processed and waste materials ; and industrial uses for agricultural products .
+14
+#0 guidance NOUN guidance%1:10:00::
+#6 new ADJ new%3:00:00::
+#7 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#10 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#12 new ADJ new%3:00:00::
+#13 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#14 potential NOUN potential%1:26:00::
+#16 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#19 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#21 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#22 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#24 new ADJ new%3:00:00::
+#28 raw ADJ raw%5:00:00:unanalyzed:00
+#40 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+SBA serves also as a clearing house for information on products and processes particularly adaptable for exploitation by small firms .
+5
+#8 information NOUN information%1:09:00::,information%1:10:02::
+#10 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#12 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#13 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#16 exploitation NOUN exploitation%1:04:00::
+This may be helpful in improving the competitive position of established firms through diversification and expansion or through more economical utilization of plant capacity .
+6
+#7 competitive ADJ competitive%3:00:00::
+#8 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#10 established ADJ established%3:00:00::
+#18 more ADV more%4:02:00::
+#22 plant NOUN plant%1:06:01::
+#23 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+Production specialists are available in SBA regional offices to help individual small business concerns with technical production problems .
+7
+#0 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#7 office NOUN office%1:06:00::
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#10 individual ADJ individual%5:00:00:independent:00
+#15 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#16 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#17 problem NOUN problem%1:09:00::,problem%1:26:00::
+These problems frequently arise where a firm is making items for the Government not directly along the lines of its normal civilian business or where the Government specifications require operations that the firm did not understand when it undertook the contract .
+10
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#3 arise VERB arise%2:30:00::,arise%2:42:01::
+#8 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#12 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#17 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#20 normal ADJ normal%3:00:01::,normal%3:00:03::
+#26 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#29 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#34 not ADV not%4:02:00::
+#35 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Production assistance often takes the form of locating tools or materials which are urgently needed .
+6
+#0 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#3 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#5 form NOUN form%1:09:01::,form%1:10:00::
+#8 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#10 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#14 need VERB need%2:42:00::
+Advice is given also on problems of plant location and plant space .
+3
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#7 plant NOUN plant%1:06:01::
+#10 plant NOUN plant%1:06:01::
+The property sales assistance program is designed to assist small business concerns that may wish to buy property offered for sale by the Federal Government .
+6
+#1 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#2 sale NOUN sale%1:04:00::,sale%1:04:02::
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#16 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#17 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#20 sale NOUN sale%1:04:00::,sale%1:04:02::
+Under this program , property sales specialists in the Small Business Administration regional offices help small business concerns to locate Federal property for sale and insure that small firms have the opportunity to bid competitively for surplus personal and real property and certain natural resources , including timber from the national forests .
+11
+#2 program NOUN program%1:09:00::,program%1:09:01::
+#4 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#5 sale NOUN sale%1:04:00::,sale%1:04:02::
+#13 office NOUN office%1:06:00::
+#14 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#21 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#25 insure VERB insure%2:32:04::,insure%2:40:00::
+#29 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#33 bid VERB bid%2:40:00::
+#34 competitively ADV competitively%4:02:00::
+#46 include VERB include%2:42:00::
+SBA works closely with the principal property disposal installations of the Federal Government in reviewing proposed sales programs and identifying those types of property that small business concerns are most likely to be interested in purchasing .
+14
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#5 principal ADJ principal%5:00:00:important:00
+#6 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#7 disposal NOUN disposal%1:07:00::
+#8 installation NOUN installation%1:06:00::
+#14 review VERB review%2:31:00::,review%2:32:00::
+#16 sale NOUN sale%1:04:00::,sale%1:04:02::
+#17 program NOUN program%1:09:00::,program%1:09:01::
+#19 identify VERB identify%2:31:00::,identify%2:32:00::
+#21 type NOUN type%1:18:00::
+#23 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#29 most ADV most%4:02:01::
+#33 interested ADJ interested%3:00:00::
+#35 purchase VERB purchase%2:40:00::
+Proposed property sales of general interest to small business concerns are publicized through SBA regional news releases , and by " flyers " directed to the small business concerns .
+6
+#1 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#2 sale NOUN sale%1:04:00::,sale%1:04:02::
+#4 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#5 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#16 release NOUN release%1:04:00::
+#21 flier NOUN flier%1:10:00::
+Each SBA regional office also maintains a " want " list of surplus property , principally machinery and equipment , desired by small business concerns in its area .
+6
+#3 office NOUN office%1:06:00::
+#5 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#8 want NOUN want%1:12:00::
+#10 list NOUN list%1:10:00::
+#13 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#27 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+When suitable equipment is located by the SBA representative , the small business concern is contacted and advised on when , where , and how to bid on such property .
+3
+#8 representative NOUN representative%1:18:00::
+#26 bid VERB bid%2:40:00::
+#29 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+Section 8 ( b ) ( 2 ) of the Small Business Act , as amended , authorizes the SBA to make a complete inventory of the productive facilities of small business concerns .
+4
+#0 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#23 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#28 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+The Administration maintains a productive facilities inventory of small business industrial concerns that have voluntarily registered .
+3
+#2 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#5 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#15 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+It is kept in each Regional office for the small firms within the region .
+2
+#2 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#6 office NOUN office%1:06:00::
+Purpose of this inventory is to include all eligible productive facilities in SBA 's facilities register so that the small business concerns may have an opportunity to avail themselves of the services authorized by the Congress in establishing the Small Business Administration .
+8
+#6 include VERB include%2:42:00::
+#10 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#14 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#15 register NOUN register%1:10:00::
+#23 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#27 avail VERB avail%2:34:00::
+#35 congress NOUN congress%1:14:00::,congress%1:14:01::
+#37 establish VERB establish%2:36:01::,establish%2:41:00::
+These services include procurement and technical assistance and notice of surplus sales and invitations to bid on Government contracts for products and services within the registrants ' field of operations .
+7
+#2 include VERB include%2:42:00::
+#5 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#8 notice NOUN notice%1:10:03::
+#11 sale NOUN sale%1:04:00::,sale%1:04:02::
+#15 bid VERB bid%2:40:00::
+#17 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#20 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+SBA can make complete facilities inventories of all small business concerns in labor surplus areas within budgetary and staff limitations .
+7
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#4 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#12 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#18 staff NOUN staff%1:14:00::,staff%1:14:01::
+#19 limitation NOUN limitation%1:04:00::
+For further information , contact Small Business Administration Regional Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas City , Mo. ; Los Angeles , Calif. ; Minneapolis , Minn. ; New York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San Francisco , Calif. ; and Seattle , Wash. .
+5
+#1 further ADJ further%5:00:00:far:00
+#2 information NOUN information%1:09:00::,information%1:10:02::
+#15 Boston NOUN boston%1:15:00::
+#23 Cleveland NOUN cleveland%1:15:00::
+#62 Richmond NOUN richmond%1:15:00::
+Branch Offices are located in other large cities .
+4
+#1 office NOUN office%1:06:00::
+#5 other ADJ other%5:00:02:past:00
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#7 city NOUN city%1:15:00::,city%1:15:01::
+Small Business Administration , What It Is , What It Does , SBA Services for Community Economic Development , and various other useful publications on currently important management , technical production , and marketing topics are available , on request , from Small Business Administration , Washington 25 , D.C. .
+5
+#21 other ADJ other%5:00:02:past:00
+#27 management NOUN management%1:04:00::,management%1:14:00::
+#30 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#33 market VERB market%2:40:00::
+#46 Washington NOUN washington%1:15:01::
+New Product Introduction for Small Business Owners , 30 cents ; Developing and Selling New Products , 45 cents ; U.S. Government Purchasing , Specifications , and Sales Directory , 60 cents , are available from the Superintendent of Documents , U.S. Government Printing Office , Washington 25 , D.C. .
+4
+#9 cent NOUN cent%1:23:00::
+#18 cent NOUN cent%1:23:00::
+#31 cent NOUN cent%1:23:00::
+#46 Washington NOUN washington%1:15:01::
+SBA makes loans to individual small business firms , providing them with financing when it is not otherwise available through private lending sources on reasonable terms .
+7
+#4 individual ADJ individual%5:00:00:independent:00
+#9 provide VERB provide%2:34:00::,provide%2:40:00::
+#16 not ADV not%4:02:00::
+#17 otherwise ADV otherwise%4:02:01::
+#20 private ADJ private%5:00:00:personal:00
+#24 reasonable ADJ reasonable%5:00:00:moderate:00
+#25 term NOUN term%1:10:01::,term%1:10:02::
+Many such loans have been made to establish small concerns or to aid in their growth , thereby contributing substantially to community development programs .
+7
+#7 establish VERB establish%2:36:01::,establish%2:41:00::
+#9 concern NOUN concern%1:09:00::
+#15 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#19 substantially ADV substantially%4:02:01::
+#21 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#22 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#23 program NOUN program%1:09:00::,program%1:09:01::
+SBA loans , which may be made to small manufacturers , small business pools , wholesalers , retailers , service establishments and other small businesses ( when financing is not otherwise available to them on reasonable terms ) , are to finance business construction , conversion , or expansion ; the purchase of equipment , facilities , machinery , supplies , or materials ; or to supply working capital .
+13
+#12 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#20 establishment NOUN establishment%1:14:01::,establishment%1:14:02::;1:14:00::
+#22 other ADJ other%5:00:02:past:00
+#24 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#29 not ADV not%4:02:00::
+#30 otherwise ADV otherwise%4:02:01::
+#35 reasonable ADJ reasonable%5:00:00:moderate:00
+#36 term NOUN term%1:10:01::,term%1:10:02::
+#42 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#45 conversion NOUN conversion%1:04:00::
+#51 purchase NOUN purchase%1:04:00::
+#55 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#62 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+Evidence that other sources of financing are unavailable must be provided .
+2
+#7 unavailable ADJ unavailable%3:00:00::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+SBA business loans are of two types : " participation " and " direct " .
+2
+#1 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#6 type NOUN type%1:18:00::
+Participation loans are those made jointly by the SBA and banks or other private lending institutions .
+3
+#10 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#12 other ADJ other%5:00:02:past:00
+#13 private ADJ private%5:00:00:personal:00
+Direct loans are those made by SBA alone .
+1
+#7 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+To qualify for either type of loan , an applicant must be a small business or approved small business " pool " and must meet certain credit requirements .
+6
+#1 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+#4 type NOUN type%1:18:00::
+#14 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#18 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#24 meet VERB meet%2:41:02::,meet%2:42:01::
+#26 credit NOUN credit%1:09:00::,credit%1:21:02::
+A small business is defined as one which is independently owned and operated and which is not dominant in its field .
+7
+#2 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#4 define VERB define%2:32:00::,defined%3:00:00::
+#9 independently ADV independently%4:02:01::
+#10 own VERB owned%3:00:00::
+#12 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#16 not ADV not%4:02:00::
+#20 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+In addition , the SBA uses such criteria as number of employees and dollar volume of the business .
+3
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 number NOUN number%1:10:01::,number%1:23:00::
+#17 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+The credit requirements stipulate that the applicant must have the ability to operate the business successfully and have enough capital in the business so that , with loan assistance from the SBA , it will be able to operate on a sound financial basis .
+11
+#1 credit NOUN credit%1:09:00::,credit%1:21:02::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 ability NOUN ability%1:09:00::
+#12 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#14 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 capital NOUN capital%1:21:00::,capital%1:21:01::
+#22 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#36 able ADJ able%3:00:00::
+#38 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#41 sound ADJ sound%3:00:01::
+A proposed loan must be for sound purposes or sufficiently secured so as to assure a reasonable chance of repayment .
+4
+#6 sound ADJ sound%3:00:01::
+#14 assure VERB assure%2:31:00::,assure%2:32:03::
+#16 reasonable ADJ reasonable%5:00:00:moderate:00
+#17 chance NOUN chance%1:07:00::,chance%1:26:00::
+The record of past earnings and prospects for the future must indicate it has the ability to repay the loan out of current and anticipated income .
+5
+#1 record NOUN record%1:10:03::,record%1:21:00::
+#6 prospect NOUN prospect%1:26:00::
+#9 future NOUN future%1:10:00::,future%1:28:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 ability NOUN ability%1:09:00::
+The maximum loan which SBA may make to any one borrower is $ 350000 .
+1
+#6 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Business loans generally are repayable in regular installments - usually monthly , including interest at the rate of 5 - 1/2 percent per annum on the unpaid balance - and have a maximum maturity of 10 years ; the term of loans for working capital is 6 years .
+11
+#0 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#2 generally ADV generally%4:02:00::
+#6 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#7 installment NOUN installment%1:21:00::
+#12 include VERB include%2:42:00::
+#13 interest NOUN interest%1:21:00::
+#16 rate NOUN rate%1:21:00::
+#26 unpaid ADJ unpaid%3:00:00::
+#27 balance NOUN balance%1:21:00::,balance%1:21:01::,balance%1:24:00::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#39 term NOUN term%1:28:00::,term%1:28:01::
+For further information , contact SBA Regional Offices in Atlanta , Ga. ; Boston , Mass. ; Chicago , Ill. ; Cleveland , Ohio ; Dallas , Tex. ; Denver , Colo. ; Detroit , Mich. ; Kansas City , Mo. ; Los Angeles , Calif. ; Minneapolis , Minn. ; New York , N.Y. ; Philadelphia , Pa. ; Richmond , Va. ; San Francisco , Calif. ; and Seattle , Wash. .
+6
+#1 further ADJ further%5:00:00:far:00
+#2 information NOUN information%1:09:00::,information%1:10:02::
+#7 office NOUN office%1:06:00::
+#13 Boston NOUN boston%1:15:00::
+#21 Cleveland NOUN cleveland%1:15:00::
+#60 Richmond NOUN richmond%1:15:00::
+Branch Offices are located in other large cities .
+4
+#1 office NOUN office%1:06:00::
+#5 other ADJ other%5:00:02:past:00
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#7 city NOUN city%1:15:00::,city%1:15:01::
+Small Business Administration , What It Is , What It Does ; SBA Business Loans and Small Business Pooling are available , on request , from Small Business Administration , Washington 25 , D.C. , and its regional offices .
+2
+#30 Washington NOUN washington%1:15:01::
+#38 office NOUN office%1:06:00::
+The Farm Credit Administration , an independent agency located within the Department of Agriculture , supervises and coordinates a cooperative credit system for agriculture .
+2
+#6 independent ADJ independent%3:00:00::
+#17 coordinate VERB coordinate%2:30:01::
+The system is composed of three credit services , Federal Land Banks and National Farm Loan Associations , Federal Intermediate ( short-term ) Credit Banks , and Banks for Cooperatives .
+2
+#1 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#6 credit NOUN credit%1:09:00::,credit%1:21:02::
+This system provides long - and short-term credit to farmers and their cooperative marketing , purchasing , and business service organizations .
+8
+#1 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 credit NOUN credit%1:09:00::,credit%1:21:02::
+#9 farmer NOUN farmer%1:18:00::
+#13 market VERB market%2:40:00::
+#15 purchase VERB purchase%2:40:00::
+#18 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#20 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+As a source of investment capital , the system is beneficial to local communities and encourages the development of industries in rural areas .
+6
+#4 investment NOUN investment%1:21:00::
+#5 capital NOUN capital%1:21:00::,capital%1:21:01::
+#8 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#13 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#17 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#19 industry NOUN industry%1:04:00::,industry%1:14:00::
+The credit provdied by the first two services in the system outlined above is primarily for general agricultural purposes .
+5
+#1 credit NOUN credit%1:09:00::,credit%1:21:02::
+#5 first ADJ first%3:00:00::,first%4:02:00::
+#10 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#11 outline VERB outline%2:32:00::
+#16 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+The third credit service , Banks for Cooperatives , exists under authority of the Farm Credit Act of 1933 .
+3
+#2 credit NOUN credit%1:09:00::,credit%1:21:02::
+#9 exist VERB exist%2:42:00::
+#11 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+The Banks for Cooperatives were established to provide a permanent source of credit on a sound basis for farmers ' cooperatives .
+5
+#5 establish VERB establish%2:36:01::,establish%2:41:00::
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+#12 credit NOUN credit%1:09:00::,credit%1:21:02::
+#15 sound ADJ sound%3:00:01::
+#18 farmer NOUN farmer%1:18:00::
+Three distinct classes of loans are made available to farmers ' cooperatives by the Banks for Cooperatives :
+4
+#1 distinct ADJ distinct%5:00:00:separate:00
+#2 class NOUN class%1:14:00::,class%1:14:02::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 farmer NOUN farmer%1:18:00::
+Commodity loans , operating capital loans , and facility loans .
+1
+#8 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+To be eligible to borrow from a Bank for Cooperatives , a cooperative must be an association in which farmers act together in processing and marketing farm products , purchasing farm supplies , or furnishing farm business services , and must meet the requirements set forth in the Farm Credit Act of 1933 , as amended .
+8
+#19 farmer NOUN farmer%1:18:00::
+#20 act VERB act%2:33:00::,act%2:41:00::
+#21 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#23 process VERB process%2:31:00::
+#27 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#29 purchase VERB purchase%2:40:00::
+#36 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#41 meet VERB meet%2:41:02::,meet%2:42:01::
+Interest rates are determined by the board of directors of the bank with the approval of the Farm Credit Administration .
+3
+#3 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#11 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#14 approval NOUN approval%1:26:00::
+For further information , contact the Bank for Cooperatives serving the region , or the Farm Credit Administration , Research and Information Division , Washington 25 , D.C. .
+4
+#1 further ADJ further%5:00:00:far:00
+#2 information NOUN information%1:09:00::,information%1:10:02::
+#9 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#24 Washington NOUN washington%1:15:01::
+Available , on request , from U.S. Department of Agriculture , Washington 25 , D.C. , are : Cooperative Farm Credit Can Assist in Rural Development ( Circular No. 44 ) , and The Cooperative Farm Credit System ( Circular No. 36 - A ) .
+1
+#11 Washington NOUN washington%1:15:01::
+To encourage exploration for domestic sources of minerals , the Office of Minerals Exploration ( OME ) of the U.S. Department of the Interior offers financial assistance to firms and individuals who desire to explore their properties or claims for 1 or more of the 32 mineral commodities listed in the OME regulations .
+7
+#4 domestic ADJ domestic%3:00:00::
+#7 mineral NOUN mineral%1:27:00::
+#36 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#38 claim NOUN claim%1:04:00::,claim%1:07:01::,claim%1:07:02::,claim%1:10:00::
+#46 mineral NOUN mineral%1:27:00::
+#48 list VERB list%2:32:00::,list%2:41:00::
+#52 regulation NOUN regulation%1:10:00::
+This help is offered to applicants who ordinarily would not undertake the exploration under present conditions or circumstances at their sole expense and who are unable to obtain funds from commercial sources on reasonable terms .
+10
+#1 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#7 ordinarily ADV ordinarily%4:02:00::
+#9 not ADV not%4:02:00::
+#14 present ADJ present%3:00:01::
+#15 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#17 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::
+#27 obtain VERB obtain%2:40:00::
+#30 commercial ADJ commercial%3:01:00::
+#33 reasonable ADJ reasonable%5:00:00:moderate:00
+#34 term NOUN term%1:10:01::,term%1:10:02::
+Each applicant is required to own or have sufficient interest in the property to be explored .
+4
+#5 own VERB owned%3:00:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 interest NOUN interest%1:21:03::
+#12 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+The Government will contract with an eligible applicant to pay up to one-half of the cost of approved exploration work as it progresses .
+4
+#1 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#3 contract VERB contract%2:32:00::
+#9 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#19 work NOUN work%1:04:00::
+The applicant pays the rest of the cost , but his own time spent on the work and charges for the use of equipment which he owns may be applied toward his share of the cost .
+8
+#2 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#4 rest NOUN rest%1:24:00::
+#11 own ADJ own%5:00:00:personal:00
+#12 time NOUN time%1:28:01::,time%1:28:05::
+#16 work NOUN work%1:04:00::,work%1:06:01::
+#18 charge NOUN charge%1:21:01::,charge%1:21:02::
+#26 own VERB owned%3:00:00::
+#32 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+Funds contributed by the Government are repaid by a royalty on production from the property .
+3
+#4 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#11 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#14 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+A 5 - percent royalty is paid on any production during the period the contract is in effect ; if the Government certifies that production may be possible from the property , the royalty obligation continues for the 10 - year period usually specified in the contract or until the Government 's contribution is repaid with interest .
+10
+#6 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#9 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#12 period NOUN period%1:28:00::,period%1:28:03::
+#21 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#24 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#30 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#35 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#41 period NOUN period%1:28:00::,period%1:28:03::
+#50 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#56 interest NOUN interest%1:21:00::
+The royalty applies to both principal and interest , but it never exceeds 5 percent .
+4
+#2 apply VERB apply%2:42:00::
+#5 principal NOUN principal%1:21:01::
+#7 interest NOUN interest%1:21:00::
+#11 never ADV never%4:02:00::
+Information , application forms , and assistance in filing may be obtained from the Office of Minerals Exploration , U.S. Department of the Interior , Washington 25 , D.C. , or from the appropriate regional office listed below :
+6
+#0 information NOUN information%1:09:00::,information%1:10:02::
+#8 file VERB file%2:32:02::,filing%1:10:00::
+#11 obtain VERB obtain%2:40:00::
+#25 Washington NOUN washington%1:15:01::
+#35 office NOUN office%1:06:00::
+#36 list VERB list%2:32:00::,list%2:41:00::

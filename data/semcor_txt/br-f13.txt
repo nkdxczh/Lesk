@@ -1,0 +1,725 @@
+The farmer 's life must be arranged to meet the demands of crops and livestock .
+3
+#1 farmer NOUN farmer%1:18:00::
+#8 meet VERB meet%2:41:02::,meet%2:42:01::
+#12 crop NOUN crop%1:20:01::
+Livestock must be tended every day , routinely .
+1
+#3 tend VERB tend%2:41:00::,tend%2:41:01::
+A slight change in the work schedule may cut the production of cows or chickens .
+6
+#1 slight ADJ slight%5:00:00:insignificant:00
+#2 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#6 schedule NOUN schedule%1:09:00::
+#8 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#10 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#14 chicken NOUN chicken%1:13:00::
+Even if there are no livestock , the farmer cannot leave the farm for long periods , particularly during the growing season .
+5
+#8 farmer NOUN farmer%1:18:00::
+#10 leave VERB leave%2:38:00::,leave%2:41:00::
+#14 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#15 period NOUN period%1:28:00::,period%1:28:03::
+#17 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+The worker who lives on a farm cannot change jobs readily .
+4
+#1 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#3 live VERB live%2:42:08::
+#8 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+#9 job NOUN job%1:04:00::,job%1:06:00::
+He cannot leave the farm to take work in another locality on short notice ; such a move may mean a loss of capital .
+5
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#7 work NOUN work%1:06:01::
+#13 notice NOUN notice%1:10:03::
+#19 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#23 capital NOUN capital%1:21:00::,capital%1:21:01::
+Hard physical labor and undesirable hours are a part of farm life .
+6
+#0 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#1 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#2 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#5 hour NOUN hour%1:28:00::
+#8 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#11 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+The farmer must get up early , and , at times , work late at night .
+4
+#1 farmer NOUN farmer%1:18:00::
+#5 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#12 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#13 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+Frequently he must work long hours in the hot sun or cold rain .
+6
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#4 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#5 hour NOUN hour%1:28:00::
+#8 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#9 sun NOUN sun%1:18:00::,sun%1:19:00::
+#11 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+No matter how well work is planned , bad weather or unexpected setbacks can cause extra work that must be caught up .
+3
+#3 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#6 plan VERB plan%2:31:00::,plan%2:31:01::
+#12 setback NOUN setback%1:11:01::
+It may not be profitable for a part-time farmer to own the labor-saving machinery that a full-time farmer can invest in profitably .
+6
+#2 not ADV not%4:02:00::
+#4 profitable ADJ profitable%3:00:00::
+#8 farmer NOUN farmer%1:18:00::
+#10 own VERB owned%3:00:00::
+#17 farmer NOUN farmer%1:18:00::
+#19 invest VERB invest%2:40:00::
+Production may fall far below expectations .
+3
+#0 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#2 fall VERB fall%2:30:06::,fall%2:30:08::,fall%2:38:00::
+#3 far ADV far%4:02:02::
+Drought , hail , disease , and insects take their toll of crops .
+3
+#2 hail NOUN hail%1:19:00::
+#8 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#12 crop NOUN crop%1:20:01::
+Sickness or loss of some of the livestock may cut into the owner 's earnings , even into his capital .
+3
+#0 sickness NOUN sickness%1:26:01::
+#9 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#19 capital NOUN capital%1:21:00::,capital%1:21:01::
+Returns for money and labor invested may be small even in a good year .
+4
+#0 return NOUN return%1:04:01::,return%1:21:00::
+#4 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#5 invest VERB invest%2:40:00::
+#12 good ADJ good%3:00:01::,good%5:00:00:nice:00
+The high cost of land , supplies , and labor make it difficult to farm profitably on a part-time basis .
+5
+#1 high ADJ high%3:00:02::
+#4 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#9 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 farm VERB farm%2:36:00::
+Land within commuting distance of a growing city is usually high in price , higher if it has subdivision possibilities .
+7
+#2 commute VERB commute%2:38:00::
+#3 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#7 city NOUN city%1:15:00::,city%1:15:01::
+#10 high ADJ high%3:00:02::
+#12 price NOUN price%1:07:01::,price%1:21:00::
+#14 high ADJ high%3:00:02::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Part-time farmers generally must pay higher prices for supplies than full-time farmers because they buy in smaller quantities .
+8
+#1 farmer NOUN farmer%1:18:00::
+#2 generally ADV generally%4:02:01::
+#4 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#5 high ADJ high%3:00:02::
+#6 price NOUN price%1:07:01::,price%1:21:00::
+#11 farmer NOUN farmer%1:18:00::
+#14 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#17 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+If the farm is in an industrial area where wages are high , farm labor costs will also be high .
+4
+#7 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 high ADJ high%3:00:02::
+#14 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#19 high ADJ high%3:00:02::
+A part-time farmer needs unusual skill to get as high production per hen , per cow , or per acre as can be obtained by a competent full-time farmer .
+6
+#2 farmer NOUN farmer%1:18:00::
+#3 need VERB need%2:42:00::
+#9 high ADJ high%3:00:02::
+#10 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#23 obtain VERB obtain%2:40:00::
+#28 farmer NOUN farmer%1:18:00::
+It will frequently be uneconomical for him to own the most up-to-date equipment .
+2
+#8 own VERB owned%3:00:00::
+#10 most ADV most%4:02:00::
+He may have to depend upon custom service for specialized operations , such as spraying or threshing , and for these , he may have to wait his turn .
+4
+#10 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#14 spray NOUN spray%1:06:00::
+#26 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#28 turn NOUN turn%1:04:06::,turn%1:10:00::
+There will be losses caused by emergencies that arise while he is away at his off farm job .
+2
+#8 arise VERB arise%2:30:00::,arise%2:42:01::
+#17 job NOUN job%1:04:00::,job%1:06:00::
+The farm may be an additional burden if the main job is lost .
+3
+#6 burden NOUN burden%1:06:01::
+#10 job NOUN job%1:04:00::,job%1:06:00::
+#12 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+This may be true whether the farm is owned or rented .
+2
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#8 own VERB owned%3:00:00::
+If the farm is rented , the rent must be paid .
+2
+#7 rent NOUN rent%1:21:00::
+#10 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+If it is owned , taxes must be paid , and if the place is not free of mortgage , there will be interest and payments on the principal to take care of .
+7
+#3 own VERB owned%3:00:00::
+#5 tax NOUN tax%1:21:00::
+#8 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#13 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#15 not ADV not%4:02:00::
+#23 interest NOUN interest%1:21:00::
+#28 principal NOUN principal%1:21:01::
+A farm provides a wholesome and healthful environment for children .
+2
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 environment NOUN environment%1:15:00::,environment%1:26:00::
+It gives them room to play and plenty of fresh air .
+4
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#3 room NOUN room%1:26:00::
+#5 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#10 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+The children can do chores adapted to their age and ability .
+1
+#8 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+Caring for a calf , a pig , or some chickens develops in children a sense of responsibility for work .
+5
+#0 care VERB care%2:41:13::
+#3 calf NOUN calf%1:05:00::
+#6 pig NOUN pig%1:18:00::
+#10 chicken NOUN chicken%1:13:00::
+#11 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Part-time farming gives a measure of security if the regular job is lost , provided the farm is owned free of debt and furnishes enough income to meet fixed expenses and minimum living costs .
+9
+#2 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#4 measure NOUN measure%1:03:00::,measure%1:10:03::
+#6 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#9 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#10 job NOUN job%1:04:00::,job%1:06:00::
+#12 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#18 own VERB owned%3:00:00::
+#28 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#32 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+For some retired persons , part-time farming is a good way to supplement retirement income .
+3
+#9 good ADJ best%3:00:00::,good%3:00:01::
+#10 way NOUN way%1:04:00::,way%1:09:00::
+#13 retirement NOUN retirement%1:04:00::
+It is particularly suitable for those who need to work or exercise out of doors for their health .
+2
+#9 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#11 exercise VERB exercise%2:29:00::,exercise%2:29:01::
+Generally , the same level of living costs less in the country than in the city .
+8
+#0 generally ADV generally%4:02:01::
+#3 same ADJ same%3:00:00::,same%3:00:02::
+#4 level NOUN level%1:26:00::,level%1:26:01::
+#6 living NOUN living%1:09:00::
+#7 cost VERB cost%2:42:00::,cost%2:42:01::
+#8 less ADV less%4:02:00::,less%4:02:01::
+#11 country NOUN country%1:15:02::
+#15 city NOUN city%1:15:00::,city%1:15:01::
+The savings are not as great , however , as is sometime supposed .
+4
+#1 saving NOUN saving%1:04:00::
+#3 not ADV not%4:02:00::
+#7 however ADV however%4:02:04::
+#12 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+Usually , the cost of food and shelter will be somewhat less on the farm and the cost of transportation and utilities somewhat more .
+2
+#19 transportation NOUN transportation%1:04:00::
+#21 utility NOUN utility%1:04:00::
+Where schools , fire and police protection , and similar municipal services are of equal quality in city and country , real estate taxes are usually about the same .
+7
+#1 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#3 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#14 equal ADJ equal%3:00:00::
+#15 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#17 city NOUN city%1:15:00::,city%1:15:01::
+#19 country NOUN country%1:15:02::
+#23 tax NOUN tax%1:21:00::
+A part-time farmer and his family can use their spare time profitably .
+3
+#2 farmer NOUN farmer%1:18:00::
+#5 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Some persons consider the work on a farm recreational .
+1
+#1 person NOUN person%1:03:00::,person%1:08:00::
+For some white-collar workers it is a welcome change from the regular job , and a physical conditioner .
+6
+#3 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#7 welcome ADJ welcome%3:00:00::
+#8 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#11 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#12 job NOUN job%1:04:00::,job%1:06:00::
+#16 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+Part-time farming can take comparatively little land , labor , and equipment - or a great deal .
+3
+#3 take VERB take%2:40:06::,take%2:42:03::
+#6 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#8 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+It depends on the kind and the scale of the farming operation .
+2
+#7 scale NOUN scale%1:24:01::,scale%1:24:03::
+#11 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+General requirements for land , labor , and equipment are discussed below .
+2
+#3 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#5 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+Specific requirements for each of various types of enterprises are discussed on pages 8 to 14 .
+4
+#0 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#6 type NOUN type%1:18:00::
+#8 enterprise NOUN enterprise%1:14:00::
+#12 page NOUN page%1:10:00::
+Three quarters to 1 acre of good land is enough for raising fruits and vegetables for home use , and for a small flock of chickens , a cow , and two pigs .
+10
+#1 quarter NOUN quarter%1:28:00::
+#6 good ADJ best%3:00:00::,good%3:00:01::
+#7 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#11 raise VERB raise%2:36:03::
+#12 fruit NOUN fruit%1:20:00::
+#14 vegetable NOUN vegetable%1:20:00::
+#16 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#23 flock NOUN flock%1:14:00::
+#25 chicken NOUN chicken%1:13:00::
+#32 pig NOUN pig%1:18:00::
+You could not , of course , raise feed for the livestock on a plot this small .
+4
+#2 not ADV not%4:02:00::
+#7 raise VERB raise%2:36:03::
+#8 feed NOUN feed%1:13:00::
+#14 plot NOUN plot%1:15:00::
+If you want to raise feed or carry out some enterprise on a larger scale , you 'll need more land .
+7
+#4 raise VERB raise%2:36:03::
+#5 feed NOUN feed%1:13:00::
+#10 enterprise NOUN enterprise%1:04:00::
+#13 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 scale NOUN scale%1:24:01::,scale%1:24:03::
+#18 need VERB need%2:42:00::
+#20 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+In deciding how much land you want , take into account the amount you 'll need to bring in the income you expect .
+2
+#4 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+But consider also how much you and your family can keep up along with your other work .
+1
+#8 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+The cost of land and the prospects for appreciation in value may influence your decision .
+4
+#3 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#6 prospect NOUN prospect%1:26:00::
+#8 appreciation NOUN appreciation%1:04:01::
+#10 value NOUN value%1:21:00::,values%1:09:00::
+Some part-time farmers buy more land than they need in anticipation of suburban development .
+5
+#2 farmer NOUN farmer%1:18:00::
+#3 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#5 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#8 need VERB need%2:42:00::
+#13 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+Sometimes a desired acreage is offered only as part of a larger tract .
+4
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#11 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#12 tract NOUN tract%1:15:00::
+When surplus land is not expensive to buy or to keep up , it is usually better to buy it than to buy so small an acreage that the development of adjoining properties might impair the residential value of the farm .
+10
+#2 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#4 not ADV not%4:02:00::
+#7 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#16 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#18 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#22 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#23 so ADV so%4:02:03::,so%4:02:07::
+#29 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#32 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#37 value NOUN value%1:21:00::,values%1:09:00::
+If you have a year-round , full-time job you can n't expect to grow much more than your family uses - unless other members of the family do a good deal of the work or you hire help .
+10
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 job NOUN job%1:04:00::,job%1:06:00::
+#13 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#18 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#22 other ADJ other%3:00:00::
+#23 member NOUN member%1:18:00::,member%1:24:00::
+#26 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#36 hire VERB hire%2:41:00::
+#37 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+As a rule , part-time farmers hire little help .
+4
+#2 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#5 farmer NOUN farmer%1:18:00::
+#6 hire VERB hire%2:41:00::
+#8 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+In deciding on the enterprises to be managed by family labor , compare the amount of labor that can be supplied by the family with the labor needs of various enterprises listed in table 1 .
+11
+#4 enterprise NOUN enterprise%1:04:00::
+#7 manage VERB manage%2:41:00::,manage%2:41:01::,manage%2:41:03::
+#9 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#10 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#12 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#16 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#23 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#26 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#30 enterprise NOUN enterprise%1:04:00::
+#31 list VERB list%2:32:00::,list%2:41:00::
+#33 table NOUN table%1:14:00::
+List the number of hours the family can be expected to work each month .
+5
+#0 list VERB list%2:32:00::,list%2:41:00::
+#2 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#4 hour NOUN hour%1:07:00::,hours%1:28:01::
+#6 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#11 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+You may want to include your own regular vacation period if you have one .
+7
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 include VERB include%2:31:00::,include%2:41:03::
+#6 own ADJ own%5:00:00:personal:00
+#7 regular ADJ regular%5:00:00:steady:00
+#8 vacation NOUN vacation%1:28:00::
+#9 period NOUN period%1:28:00::,period%1:28:03::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Do not include all your spare time or all your family 's spare time - only what you are willing to use for farm work .
+5
+#1 not ADV not%4:02:00::
+#2 include VERB include%2:31:00::,include%2:41:03::
+#10 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+If you are going to produce for home use only , you will need only hand tools .
+5
+#5 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#7 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 need VERB need%2:42:00::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+You will probably want to hire someone to do the plowing , however .
+3
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 hire VERB hire%2:41:00::
+#12 however ADV however%4:02:04::
+For larger plantings , you 'll need some kind of power for plowing , harrowing , disking , and cultivating .
+6
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#6 need VERB need%2:42:00::
+#10 power NOUN power%1:19:00::
+#12 plow VERB plough%2:36:00::
+#14 harrow VERB harrow%2:36:00::
+#19 cultivate VERB cultivate%2:30:01::
+If you have a planting of half an acre or more you may want to buy a small garden tractor ( available for $ 300 to $ 500 with attachments , 1960 prices ) .
+6
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#15 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#18 garden NOUN garden%1:06:00::
+#29 attachment NOUN attachment%1:06:00::
+#32 price NOUN price%1:07:01::,price%1:21:00::
+These tractors are not entirely satisfactory for plowing , particularly on heavier soils , so you may still want to hire someone to do the plowing .
+7
+#3 not ADV not%4:02:00::
+#7 plow VERB plough%2:36:00::
+#9 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#11 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#12 soil NOUN soil%1:15:00::,soil%1:26:00::
+#18 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#20 hire VERB hire%2:41:00::
+Cost of power and machinery is often a serious problem to the small-scale farmer .
+2
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+#13 farmer NOUN farmer%1:18:00::
+If you are going to farm for extra cash income on a part-time basis you must keep in mind the needed machinery investments when you choose among farm enterprises .
+5
+#5 farm VERB farm%2:36:00::
+#8 cash NOUN cash%1:21:00::
+#16 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#22 investment NOUN investment%1:21:00::
+#28 enterprise NOUN enterprise%1:14:00::
+You can keep your machinery investment down by buying good secondhand machinery , by sharing the cost and upkeep of machinery with a neighbor , and by hiring someone with machinery to do certain jobs .
+6
+#5 investment NOUN investment%1:21:00::
+#8 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#10 secondhand ADJ secondhand%5:00:00:secondary:01
+#27 hire VERB hire%2:41:00::
+#33 certain ADJ certain%5:00:00:definite:00
+#34 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+If an expensive and specialized piece of machinery is needed - such as a spray rig , a combine , or a binder - it is better to pay someone with a machine to do the work .
+6
+#9 need VERB need%2:42:00::
+#14 spray NOUN spray%1:06:00::
+#15 rig NOUN rig%1:06:00::
+#18 combine NOUN combine%1:06:00::
+#26 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#28 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Before you look for a farm you 'll need to know ( 1 ) the kind and scale of farming you want to undertake ; and ( 2 ) whether you want to buy or rent .
+4
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 scale NOUN scale%1:24:01::,scale%1:24:03::
+#33 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#35 rent VERB rent%2:41:01::
+Information on pages 8 to 14 may help you in deciding on the kind and scale of your farming venture .
+4
+#0 information NOUN information%1:09:00::,information%1:10:02::
+#2 page NOUN page%1:10:00::
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#15 scale NOUN scale%1:24:01::,scale%1:24:03::
+If you are not well acquainted with the area in which you wish to locate , or if you are not sure that you and your family will like and make a success of farming , usually you would do better to rent a place for a year or two before you buy .
+9
+#3 not ADV not%4:02:00::
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#20 not ADV not%4:02:00::
+#26 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#30 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#40 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#42 rent VERB rent%2:41:01::
+#44 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#52 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+Discussed below are some of the main things to look for when you select a part-time farm .
+1
+#7 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Choose a location within easy commuting distance of both the regular job and other employment opportunities .
+5
+#4 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#6 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#10 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#11 job NOUN job%1:04:00::,job%1:06:00::
+#13 other ADJ other%3:00:00::
+Then if you change jobs you won n't necessarily have to sell the farm .
+3
+#3 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+#4 job NOUN job%1:04:00::,job%1:06:00::
+#11 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+The presence of alternative job opportunities also will make the place easier to sell if that should become desirable .
+6
+#4 job NOUN job%1:04:00::,job%1:06:00::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#11 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#13 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#17 become VERB become%2:30:00::,become%2:42:01::
+Obviously the farm should be on an all weather road .
+1
+#9 road NOUN road%1:04:00::,road%1:06:00::
+If you grow anything to sell you will need markets nearby .
+4
+#2 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#5 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#8 need VERB need%2:42:00::
+#9 market NOUN market%1:06:00::,market%1:06:01::
+If you plan to sell fresh vegetables or whole milk , for example , you should be close to a town or city .
+7
+#2 plan VERB plan%2:31:00::,plan%2:31:01::
+#4 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#5 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+#6 vegetable NOUN vegetable%1:20:00::
+#8 whole ADJ whole%3:00:00::,whole%5:00:00:healthy:00
+#17 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#22 city NOUN city%1:15:00::,city%1:15:01::
+Look for a farm in a neighborhood of well-kept homes .
+1
+#9 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+There are slums in the country as well as in the city .
+2
+#5 country NOUN country%1:15:02::
+#11 city NOUN city%1:15:00::,city%1:15:01::
+Few rural areas are protected by zoning .
+1
+#6 zone VERB zone%2:41:00::
+A tavern , filling station , junk yard , rendering plant , or some other business may go up near enough to hurt your home or to hurt its value .
+7
+#9 render VERB render%2:32:01::,render%2:36:00::,render%2:40:01::,render%2:40:02::,render%2:40:03::
+#10 plant NOUN plant%1:06:01::
+#14 other ADJ other%3:00:00::
+#15 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#19 near ADJ near%3:00:00::
+#24 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#29 value NOUN value%1:21:00::,values%1:09:00::
+Check on the schools in the area , the quality of teaching , and the provision for transportation to and from them .
+6
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#3 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#9 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#15 provision NOUN provision%1:04:01::,provision%1:21:00::
+#17 transportation NOUN transportation%1:04:00::
+Find out whether fire protection , sewage system , gas , water mains , and electrical lines are available in the locality .
+3
+#3 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#9 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#16 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+If these facilities are not at the door , getting them may cost more than you expect .
+4
+#2 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#4 not ADV not%4:02:00::
+#9 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#12 cost VERB cost%2:42:00::,cost%2:42:01::
+You may have to provide them yourself or get along without them .
+1
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+You cannot get along without an adequate supply of pure water .
+1
+#10 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+If you are considering a part-time farm where the water must be provided by a well , find out if there is a good well on the farm or the probable cost of having one drilled .
+6
+#9 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#12 provide VERB provide%2:34:00::,provide%2:40:00::
+#15 well NOUN well%1:10:00::
+#23 good ADJ best%3:00:00::,good%3:00:01::
+#24 well NOUN well%1:10:00::
+#35 drill VERB drill%2:35:00::,drilled%5:00:00:trained:00
+A pond may provide adequate water for livestock and garden .
+3
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#9 garden NOUN garden%1:06:00::
+Pond water can be filtered for human use , but most part-time farmers would not want to go to so much trouble .
+6
+#4 filter VERB filter%2:38:00::
+#12 farmer NOUN farmer%1:18:00::
+#14 not ADV not%4:02:00::
+#15 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#17 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#21 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+The following amounts of water are needed per day for livestock and domestic uses .
+5
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#4 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#6 need VERB need%2:42:00::
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+Is the land suited to the crops you intend to raise ?
+5
+#2 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#3 suit VERB suit%2:42:00::
+#6 crop NOUN crop%1:20:01::
+#8 intend VERB intend%2:31:01::,intend%2:32:00::
+#10 raise VERB raise%2:36:03::
+If you can n't tell , get help from your county agricultural agent or other local specialist .
+4
+#4 tell VERB tell%2:31:00::,tell%2:31:01::
+#6 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#7 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#14 other ADJ other%5:00:02:past:00
+Soil type , drainage , or degree of slope can make the difference between good crops and poor ones .
+7
+#0 soil NOUN soil%1:15:00::,soil%1:26:00::
+#1 type NOUN type%1:18:00::
+#6 degree NOUN degree%1:23:00::
+#8 slope NOUN slope%1:07:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 crop NOUN crop%1:20:01::
+#17 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+Small areas that are n't right for a certain crop may lie next to areas that are well suited to that crop .
+6
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#5 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+#8 certain ADJ certain%5:00:00:definite:00
+#9 crop NOUN crop%1:20:01::
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#21 crop NOUN crop%1:20:01::
+Will the house on any part-time farm you are considering make a satisfactory full-time residence ?
+2
+#2 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+How much will it cost to do any necessary modernizing and redecorating ?
+2
+#4 cost VERB cost%2:42:00::,cost%2:42:01::
+#8 necessary ADJ necessary%3:00:00::
+If the house is not wired adequately for electricity or if plumbing or a central heating system must be installed , check into the cost of making these improvements .
+8
+#2 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#4 not ADV not%4:02:00::
+#5 wire VERB wire%2:35:00::
+#8 electricity NOUN electricity%1:19:01::
+#11 plumbing NOUN plumbing%1:04:01::
+#16 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#19 install VERB install%2:35:00::
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Its worth as a place to live .
+2
+#4 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#6 live VERB live%2:42:08::
+The value of the products you can raise on it .
+3
+#1 value NOUN value%1:21:00::,values%1:09:00::
+#4 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#7 raise VERB raise%2:36:03::
+The possibilities of selling the property later on for suburban subdivision .
+2
+#3 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#5 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+Decide first what the place is worth to you and your family as a home in comparison with what it would cost to live in town .
+6
+#4 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#11 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#14 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#16 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#21 cost VERB cost%2:42:00::,cost%2:42:01::
+#23 live VERB live%2:42:08::
+Take into account the difference in city and county taxes , insurance rates , utility rates , and the cost of travel to work .
+6
+#6 city NOUN city%1:15:00::,city%1:15:01::
+#9 tax NOUN tax%1:21:00::
+#11 insurance NOUN insurance%1:21:02::
+#12 rate NOUN rate%1:21:00::
+#15 rate NOUN rate%1:21:00::
+#23 work NOUN work%1:06:01::
+Next , estimate the value of possible earnings of the farm .
+1
+#4 value NOUN value%1:21:00::,values%1:09:00::
+To do this , set up a plan on paper for operating the farm .
+2
+#7 plan NOUN plan%1:09:00::
+#11 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+List the kind and quantity of things the farm can be expected to produce in an average year .
+3
+#0 list VERB list%2:32:00::,list%2:41:00::
+#4 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#13 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Estimate the value of the produce at normal prices .
+3
+#2 value NOUN value%1:21:00::,values%1:09:00::
+#7 normal ADJ normal%3:00:01::,normal%3:00:03::
+#8 price NOUN price%1:07:01::,price%1:21:00::
+The total is the probable gross income from farming .
+1
+#5 gross ADJ gross%3:00:00::
+To find estimated net farm income , subtract estimated annual farming expenditures from probable gross income from farming .
+3
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#3 net ADJ net%3:00:00::
+#14 gross ADJ gross%3:00:00::
+Include as expenditures an allowance for depreciation of farm buildings and equipment .
+1
+#0 include VERB include%2:31:00::,include%2:41:03::
+Also count as an expense a charge for the labor to be contributed by the family .
+4
+#1 count VERB count%2:31:00::,count%2:32:03::
+#6 charge NOUN charge%1:21:01::,charge%1:21:02::
+#9 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#15 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+It may be hard to decide what this labor is worth , but charge something for it .
+3
+#3 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#8 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#13 charge VERB charge%2:40:01::,charge%2:40:03::
+Otherwise , you may pay too much for the farm and get nothing for your labor .
+4
+#4 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#5 too ADV too%4:02:00::
+#11 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#15 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+To figure the value of the farm in terms of investment income , divide the estimated annual net farm income by the percentage that you could expect to get in interest if the money were invested in some other way .
+10
+#1 figure VERB figure%2:31:01::
+#3 value NOUN value%1:21:00::,values%1:09:00::
+#10 investment NOUN investment%1:21:00::
+#13 divide VERB divide%2:31:00::
+#17 net ADJ net%3:00:00::
+#28 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#30 interest NOUN interest%1:21:00::
+#35 invest VERB invest%2:40:00::
+#38 other ADJ other%5:00:02:past:00
+#39 way NOUN way%1:04:00::,way%1:09:00::

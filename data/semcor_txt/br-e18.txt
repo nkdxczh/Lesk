@@ -1,0 +1,207 @@
+For their length , their types of construction , their picturesque settings , and their literary associations , they should be known and remembered .
+1
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The first bridge known to have been covered wholly or in part , - and perhaps the most interesting one , connected Newbury ( now Newburyport ) with Salisbury Point .
+1
+#7 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Its building was first proposed in 1791 , when a group of citizens , mostly Newburyport men , petitioned the General Court for an act of incorporation .
+1
+#4 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+This document began :
+1
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+" We , the Subscribers , do agree , that as soon as a convenient Number of Persons have subscribed to this , or a similar Writing , We will present a petition to the Hon ' ble General Court of the Commonwealth of Massachusetts , praying for an Act incorporating into a Body politic the subscribers to such Writing with Liberty to build such a Bridge , and a Right to demand a Toll equal to that received at Malden Bridge , and on like Terms , and if such an Act shall be obtained , then we severally agree each with the others , that we will hold in the said Bridge the several shares set against our respective Names , the whole into two hundred shares being divided , and that we will pay such sums of Money at such Times and in such Manners , as by the said proposed Corporation , shall be directed and required " .
+10
+#7 agree VERB agree%2:32:00::,agree%2:32:01::
+#19 subscribe VERB subscribe%2:32:02::
+#30 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#50 incorporate VERB incorporate%2:42:00::
+#78 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#95 obtain VERB obtain%2:40:00::
+#100 agree VERB agree%2:32:00::,agree%2:32:01::
+#130 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#136 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#158 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+This paper was signed by forty-five persons , subscribing a total of two hundred shares .
+2
+#3 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#8 subscribe VERB subscribe%2:40:04::
+A month later the General Court served notice to the town of Newbury that the bridge was to be built .
+1
+#6 serve VERB serve%2:42:02::
+The matter was considered and reconsidered , and finally opposed , but in spite of many objections , the Court granted a charter on January 9 , 1792 .
+1
+#20 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+On November 26 of that year the bridge was completed and opened .
+2
+#9 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#11 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+Timothy Palmer , who invented and later patented the arch type of construction for wooden bridges , was the genius who planned and supervised the building of the Essex , or " Deer Island " bridge although the actual work was carried out under the direction of William Coombs , who received 300 as recompense .
+2
+#21 plan VERB plan%2:36:01::
+#51 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+This two-part bridge is best described by Rev. Timothy Dwight , president of Yale College , in his " Travels in New-England and New-York " , published in New Haven in 1821 .
+2
+#5 describe VERB describe%2:32:01::
+#26 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+He says of it :
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" It consists of two divisions , separated by an island at a small distance from the southern shore .
+1
+#7 separate VERB separate%2:35:00::,separate%2:35:01::,separate%2:38:00::,separate%2:41:01::,separate%2:41:02::,separated%5:00:00:distributed:00
+As Mr. Palmer was educated to house-building only , and had never seen a structure of this nature ; he certainly deserves not a little credit for the invention " .
+1
+#12 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+It is hardly necessary to remind students of covered bridges that Timothy Palmer was born in 1751 in nearby Rowley ; that he moved with his parents to West Boxford when he was sixteen years old ; and was there apprenticed to a builder and architect , Moody Spofford .
+1
+#23 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+It was indeed a remarkable feat that a man who had had no experience of bridge building should have applied the principle of the arch , which appears in his famous bridges at Portsmouth , Haverhill , and Philadelphia .
+2
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+The Essex Merrimack Bridge when first built was not covered .
+1
+#9 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+As far as we know , no American bridge had been thus protected in 1792 .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Its original appearance is shown in an engraving published in the " Massachusetts Magazine " in May 1793 , which is reproduced herewith ( Fig. 1 ) .
+1
+#8 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+A brief description accompanying the picture says that the bridge contained more than 6000 tons of timber .
+3
+#3 accompany VERB accompany%2:42:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 contain VERB contain%2:42:00::,contain%2:42:06::
+It is said that the eccentric Timothy Dexter , who was one of the first share-holders , stood on the table and made a speech worthy of the occasion .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+The " Essex Journal " says that he " delivered an oration on the bridge , which for elegance of style , propriety of speech or force of argument , was truly Ciceronian " .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+The reporter must have written this with tongue in cheek , because Dexter 's oration could hardly be understood ; and , although he later explained that he was talking French , it seems rather more likely that he had succumbed to the joys of the evening .
+1
+#4 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+The north portion of the Essex bridge was well worth the cost of construction , although it proved to be twice what was estimated in the beginning .
+1
+#17 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+It stood in its original form until 1882 .
+1
+#1 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+In 1810 it was torn down and replaced by a chain suspension bridge .
+1
+#7 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+This was built by John Templeman from plans submitted by James Finley of Fayette County , Pennsylvania .
+1
+#8 submit VERB submit%2:32:00::,submit%2:32:01::
+Timothy Palmer had general supervision of the work .
+1
+#2 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+An advertisement in the " Newburyport Herald " , December 21 , 1810 , shows Palmer in a new light as an expert on chain bridges .
+1
+#14 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+" Information is hereby given that Mr. Timothy Palmer of Newburyport , Mass. has agreed to take charge of the concerns of the Patentees of the Chain Bridge , in the states of Massachusetts , New Hampshire , Vermont , Rhode Island , and Connecticut , so far as relates to the sale of Patent rights and the construction of Chain Bridges .
+3
+#4 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#14 agree VERB agree%2:32:00::,agree%2:32:01::
+#49 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+" Mr. Palmer will attend to any applications relating to bridges and if desired will view the proposed site , and lay out and superintend the work , or recommend a suitable person to execute it .
+4
+#8 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#15 view VERB view%2:39:00::,view%2:39:02::
+#29 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#34 execute VERB execute%2:36:01::
+John Templeman " Approved , Timothy Palmer " This chain bridge proved less durable than the wooden arch on the Salisbury end .
+2
+#3 approve VERB approve%2:31:00::,approve%2:32:00::
+#11 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+It fell , February 6 , 1827 , carrying with it a horse and wagon , two men and four oxen .
+2
+#1 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#8 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+The horse and men were saved , but the oxen drowned .
+1
+#5 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+This second chain bridge was 570 feet long , had two thirty-foot towers and a draw , and a double roadway .
+1
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Colonel Frederick W. Lander , impersonated , will again make his break-neck ride down the steep declivity of Talbott 's ( now College ) Hill and thunder across the bridge to join Colonel Benjamin F. Kelley 's ( West ) Virginia Infantry , then swarming through the streets in pursuit of the retreating Confederates .
+1
+#44 swarm VERB swarm%2:38:00::
+He was closely followed by the Ohio and Indiana troops - thus the old bridge has another distinction ; that of being the first such structure secured by force of arms in the war of the ' 60 s .
+2
+#3 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Twice during the Civil War it was saved from destruction by the opposing armies by the pleas and prayers of a local minister .
+1
+#7 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+It still stands as a monument to the engineering skills of the last century and still serves in the gasoline age to carry heavy traffic on U. S. Route 250 - the old Beverly and Fairmont Turnpike .
+2
+#2 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#16 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+It is one of the very few , if not the only surviving bridge of its type to serve a main artery of the U. S. highway system , thus it is far more than a relic of the horse and buggy days .
+1
+#18 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+This covered , wooden bridge is so closely identified with the first action in the early morning of June 3 , 1861 , and with subsequent troop movements of both armies in the Philippi area that it has become a part and parcel of the war story .
+2
+#8 identify VERB identify%2:31:03::,identify%2:31:04::
+#38 become VERB become%2:30:00::,become%2:42:01::
+So frequently has pictures of the bridge appeared in books and in national publications that it vies with the old John Brown Fort at Harpers Ferry as the two nationally best known structures in West Virginia .
+1
+#7 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Completed and opened for traffic in 1852 , the bridge was designed and built by Lemuel Chenoweth and his brother , Eli , of Beverly .
+2
+#0 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#2 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+Never rebuilt , the bridge was strengthened in 1938 by two extra piers , a concrete floor , and a walk-way along the upper side in order to care for modern traffic .
+1
+#28 care VERB care%2:37:00::,care%2:37:12::
+During the war it was in constant use by the wagon trains transporting supplies from the railhead at Grafton to the troops operating in the interior .
+2
+#12 transport VERB transport%2:35:01::
+#22 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+Union soldiers at times used it for sleeping quarters to escape from the rain or other inclement weather , and some of them left momentoes of their stay by carving their names and small tokens on its walls and beams .
+3
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#29 carve VERB carve%2:35:02::
+But what the elements could not do was seriously threatened when Brigadier General William E. ( Grumble ) Jones reached Philippi while on the famous Jones-Imboden raid in May , 1863 .
+1
+#19 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+General Jones was fresh from a long series of bridge burnings , including the long bridge at Fairmont , and , after seeing a great drove of horses and cattle he had collected safely across the bridge , he sent his men to work piling combustibles in and around it .
+4
+#12 include VERB include%2:42:00::
+#32 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#43 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#44 pile VERB pile%2:35:00::
+Reverend Joshual Corder , a Baptist minister , gathered a few citizens of Southern sympathies , to call on Jones and plead with him to spare the structure ; he reasoned and argued , pointing out that Jones or other Confederate commanders would need it should troops pass that way in retreat .
+5
+#21 plead VERB plead%2:32:00::,plead%2:32:03::
+#25 spare VERB spare%2:41:00::
+#32 argue VERB argue%2:32:02::
+#43 need VERB need%2:42:00::
+#47 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Jones relented , he did not order his men to apply the torch - the drove of livestock was driven up the valley , via Beverly , and across the mountains to feed and serve the Confederate army , while Jones and his raiders turned toward Buckhannon to join forces with Imboden .
+6
+#6 order VERB order%2:32:01::,order%2:32:02::
+#10 apply VERB apply%2:34:00::
+#19 drive VERB drive%2:35:11::,drive%2:38:01::
+#32 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#34 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#44 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+Again Reverend Corder saved the bridge when Union soldiers planned to destroy it , after filling its two lanes with hay and straw - but for what reason is not recorded nor remembered , certainly not because of pressure from an opposing Confederate force .
+3
+#3 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#9 plan VERB plan%2:31:00::,plan%2:31:01::
+#30 record VERB record%2:32:00::,record%2:32:03::
+Centering around this historic old structure , a group of public-spirited Barbour County citizens have organized and planned a week-long series of events , beginning on May 28 th and continuing through June 3 rd , to observe most appropriately the centennial of the first land engagement of the Civil War at Philippi .
+6
+#0 center VERB center%2:31:00::
+#15 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#17 plan VERB plan%2:31:00::,plan%2:31:01::
+#24 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#30 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#37 observe VERB observe%2:41:02::,observe%2:41:04::

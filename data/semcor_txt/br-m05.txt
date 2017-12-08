@@ -1,0 +1,308 @@
+ She lived and was given a name .
+2
+#1 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#4 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+For her first three vegetable months she waved her crabbed claws , kicked weakly with her clubbed feet and enjoyed the usual routine of the infant .
+3
+#7 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#12 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#19 enjoy VERB enjoy%2:39:00::
+Soon they all were removed to Central Laboratory School where their delicate transformation began .
+2
+#4 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+One of the babies died in the initial transferral but of Helva 's " class " , seventeen thrived in the metal shells .
+1
+#4 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Instead of kicking feet , Helva 's neural responses started her wheels ; instead of grabbing with hands , she manipulated mechanical extensions .
+4
+#2 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#9 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+#15 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#20 manipulate VERB manipulate%2:41:00::
+As she matured , more and more neural synapses would be adjusted to operate other mechanisms that went into the maintenance and running of a space ship .
+3
+#2 mature VERB mature%2:30:00::
+#11 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#13 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+As long as her development within her shell lived up to expectations , and there were no side-effects from the pituitary tinkering , Helva would live a rewarding , rich and unusual life , a far cry from what she would have faced as an ordinary , " normal " being .
+2
+#25 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#42 face VERB face%2:32:00::,face%2:32:03::
+However , no diagram of her brain patterns , no early I. Q. tests recorded certain essential facts about Helva that Central must eventually learn .
+2
+#14 record VERB record%2:32:00::,record%2:32:03::
+#24 learn VERB learn%2:31:01::,learn%2:31:03::
+They would have to bide their official time and see , trusting that the massive doses of shell-psychology would suffice her , too , as the necessary bulwark against her unusual confinement and the pressures of her profession .
+1
+#11 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+A ship run by a human brain could not run rogue or insane with the power and resources Central had to build into their scout ships .
+1
+#2 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+Most babes survived the techniques of pituitary manipulation that kept their bodies small , eliminating the necessity of transfers from smaller to larger shells .
+1
+#9 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+And very , very few were lost when the final connection was made to the control panels of ship or industrial combine .
+1
+#6 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+Shell people resembled mature dwarfs in size whatever their natal deformities were , but the well-oriented brain would not have changed places with the most perfect body in the Universe .
+1
+#20 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+So , for happy years , Helva scooted around in her shell with her classmates , playing such games as Stall , Power-Seek , studying her lessons in trajectory , propulsion techniques , computation , logistics , mental hygiene , basic alien psychology , philology , space history , law , traffic , codes : all the et ceteras that eventually became compounded into a reasoning , logical , informed citizen .
+3
+#16 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#24 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#61 become VERB become%2:30:00::,become%2:42:01::
+Not so obvious to her , but of more importance to her teachers , Helva ingested the precepts of her conditioning as easily as she absorbed her nutrient fluid .
+1
+#25 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+One such group got all incensed over shelled " children " when Helva was just turning fourteen .
+2
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#15 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+When they were forced to , Central Worlds shrugged its shoulders , arranged a tour of the Laboratory Schools and set the tour off to a big start by showing the members case histories , complete with photographs .
+2
+#12 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#29 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+Very few committees ever looked past the first few photos .
+1
+#4 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+She had activated one of her microscopic tools which she would later use for minute repairs to various parts of her control panel .
+1
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+She had tuned her sight to the proper degree .
+1
+#2 tune VERB tune%2:30:00::
+As she worked she absentmindedly crooned , producing a curious sound .
+2
+#2 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#7 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Shell people used their own vocal cords and diaphragms but sound issued through microphones rather than mouths .
+2
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#11 issue VERB issue%2:30:00::
+Helva 's hum then had a curious vibrancy , a warm , dulcet quality even in its aimless chromatic wanderings .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" Why , what a lovely voice you have " , said one of the female visitors .
+2
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Helva " looked " up and caught a fascinating panorama of regular , dirty craters on a flaky pink surface .
+2
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#6 catch VERB catch%2:35:07::,catch%2:36:12::,catch%2:39:01::,catch%2:39:12::
+Her hum became a gurgle of surprise .
+1
+#2 become VERB become%2:30:00::,become%2:42:01::
+She instinctively regulated her " sight " until the skin lost its cratered look and the pores assumed normal proportions .
+2
+#10 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#17 assume VERB assume%2:36:00::,assume%2:41:00::
+" Yes , we have quite a few years of voice training , madam " , remarked Helva calmly .
+2
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#16 remark VERB remark%2:32:01::
+" Vocal peculiarities often become excessively irritating during prolonged intra-stellar distances and must be eliminated .
+1
+#4 become VERB become%2:30:00::,become%2:42:01::
+I enjoyed my lessons " .
+1
+#1 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+Although this was the first time that Helva had seen unshelled people , she took this experience calmly .
+2
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+Any other reaction would have been reported instantly .
+1
+#6 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+" I meant that you have a nice singing voice , dear " , the lady amended .
+2
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Would you like to see my work " ?
+2
+#2 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Helva asked , politely .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:01::
+" Work " ? asked the lady .
+1
+#4 ask VERB ask%2:32:00::,ask%2:32:04::
+Helva turned her vision back to magnification and surveyed her copy critically .
+1
+#8 survey VERB survey%2:39:00::
+" Of course , some of my color values do not match the old Master 's and the perspective is faulty but I believe it to be a fair copy " .
+1
+#11 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+" You people do n't have adjustable vision " .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" Here , this will help " , suggested Helva , substituting a magnifying device in one extension and holding it over the picture .
+2
+#5 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#19 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+In a kind of shock , the ladies and gentlemen of the committee bent to observe the incredibly copied and brilliantly executed Last Supper on the head of a screw .
+2
+#15 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#21 execute VERB execute%2:36:01::
+" Well " , remarked one gentleman who had been forced to accompany his wife , " the good Lord can eat where angels fear to tread " .
+3
+#4 remark VERB remark%2:32:01::
+#10 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+#12 accompany VERB accompanied%3:00:00::
+" Are you referring , sir " , asked Helva politely , " to the Dark Age discussions of the number of angels who could stand on the head of a pin " ?
+3
+#3 refer VERB refer%2:32:00::,refer%2:42:00::
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#25 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+" If you substitute ' atom ' for ' angel ' , the problem is not insoluble , given the metallic content of the pin in question " .
+1
+#18 given ADP given%1:09:00::
+" Which you are programed to compute " ?
+1
+#4 program VERB program%2:36:00::
+" Did they remember to program a sense of humor , as well , young lady " ?
+1
+#5 program VERB program%2:36:00::
+" We are directed to develop a sense of proportion , sir , which contributes the same effect " .
+1
+#3 direct VERB direct%2:32:00::
+If the investigation committee spent months digesting the thoughtful food served them at the Laboratory School , they left Helva with a morsel as well .
+2
+#10 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#18 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+She had , of course , been exposed to and enjoyed a music appreciation course which had included the better known classical works such as " Tristan und Isolde " , " Candide " , " Oklahoma " , " Nozze de Figaro " , the atomic age singers , Eileen Farrell , Elvis Presley and Geraldine Todd , as well as the curious rhythmic progressions of the Venusians , Capellan visual chromatics and the sonic concerti of the Altairians .
+2
+#10 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#17 include VERB include%2:42:00::
+But " singing " for any shell person posed considerable technical difficulties to be overcome .
+1
+#8 pose VERB pose%2:42:00::
+Shell people were schooled to examine every aspect of a problem or situation before making a prognosis .
+3
+#3 school VERB school%2:41:01::
+#5 examine VERB examine%2:31:00::,examine%2:32:01::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Balanced properly between optimism and practicality , the nondefeatist attitude of the shell people led them to extricate themselves , their ships and personnel , from bizarre situations .
+1
+#0 balance VERB balance%2:40:00::
+Therefore to Helva , the problem that she could n't open her mouth to sing , among other restrictions , did not bother her .
+3
+#10 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#14 sing VERB sing%2:32:08::,sing%2:36:01::
+#22 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+She would work out a method , by-passing her limitations , whereby she could sing .
+1
+#14 sing VERB sing%2:32:08::,sing%2:36:01::
+She approached the problem by investigating the methods of sound reproduction through the centuries , human and instrumental .
+1
+#1 approach VERB approach%2:41:00::
+Breath control and the proper enunciation of vowel sounds within the oral cavity appeared to require the most development and practice .
+1
+#13 appear VERB appear%2:30:00::
+For their purposes , oxygen and other gases were not drawn from the surrounding atmosphere through the medium of lungs but sustained artificially by solution in their shells .
+2
+#10 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#21 sustain VERB sustain%2:34:00::,sustain%2:35:00::,sustain%2:42:01::
+After experimentation , Helva discovered that she could manipulate her diaphragmic unit to sustain tone .
+3
+#4 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#8 manipulate VERB manipulate%2:41:00::
+#13 sustain VERB sustain%2:34:00::,sustain%2:35:00::,sustain%2:42:01::
+By relaxing the throat muscles and expanding the oral cavity well into the frontal sinuses , she could direct the vowel sounds into the most felicitous position for proper reproduction through her throat microphone .
+2
+#1 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+#18 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+She compared the results with tape recordings of modern singers and was not unpleased although her own tapes had a peculiar quality about them , not at all unharmonious , merely unique .
+2
+#1 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Acquiring a repertoire from the Laboratory library was no problem to one trained to perfect recall .
+1
+#12 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+She found herself able to sing any role and any song which struck her fancy .
+3
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#5 sing VERB sing%2:32:08::,sing%2:36:01::
+#12 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+It would not have occurred to her that it was curious for a female to sing bass , baritone , tenor , alto , mezzo , soprano and coloratura as she pleased .
+2
+#15 sing VERB sing%2:32:08::,sing%2:36:01::
+#31 please VERB please%2:37:01::
+If the authorities remarked on her curious avocation , they did so among themselves .
+1
+#3 remark VERB remark%2:32:01::
+Shell people were encouraged to develop a hobby so long as they maintained proficiency in their technical work .
+1
+#12 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+On the anniversary of her sixteenth year in her shell , Helva was unconditionally graduated and installed in her ship , the XH-834 .
+2
+#14 graduate VERB graduate%2:40:00::
+#16 install VERB install%2:35:00::,install%2:35:01::,install%2:41:00::
+The neural , audio , visual and sensory connections were made and sealed .
+1
+#10 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Her extendibles were diverted , connected or augmented and the final , delicate-beyond-description brain taps were completed while Helva remained anesthetically unaware of the proceedings .
+2
+#3 divert VERB divert%2:38:01::
+#16 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+Her brain and intelligence controlled every function from navigation to such loading as a scout ship of her class needed .
+2
+#4 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#19 need VERB need%2:42:00::
+She could take care of herself and her ambulatory half , in any situation already recorded in the annals of Central Worlds and any situation its most fertile minds could imagine .
+2
+#15 record VERB record%2:32:00::,record%2:32:03::
+#30 imagine VERB imagine%2:31:01::
+Her first actual flight , for she and her kind had made mock flights on dummy panels since she was eight , showed her complete mastery of the techniques of her profession .
+2
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+There were nine qualified scouts sitting around collecting base pay the day Helva was commissioned .
+3
+#5 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#7 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#14 commission VERB commission%2:41:02::
+There were several missions which demanded instant attention but Helva had been of interest to several department heads in Central for some time and each man was determined to have her assigned to his section .
+1
+#31 assign VERB assign%2:31:00::,assign%2:41:00::
+Consequently no one had remembered to introduce Helva to the prospective partners .
+1
+#6 introduce VERB introduce%2:32:00::
+Had there been another " brain " ship at the Base at the moment , Helva would have been guided to make the first move .
+2
+#19 guide VERB guide%2:38:01::,guide%2:41:00::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+As it was , while Central wrangled among itself , Robert Tanner sneaked out of the pilots ' barracks , out to the field and over to Helva 's slim metal hull .
+1
+#6 wrangle VERB wrangle%2:32:00::
+" Are you my partner " ? she asked hopefully , as she recognized the Scout Service uniform .
+2
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#13 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+" All you have to do is ask " , he retorted hopefully .
+1
+#11 retort VERB retort%2:32:00::
+" No one has come .
+1
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+I thought perhaps there were no partners available and I 've had no directives from Central " .
+2
+#1 think VERB think%2:31:01::,think%2:31:03::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Even to herself Helva sounded a little self-pitying but the truth was she was lonely , sitting on the darkened field .
+2
+#4 sound VERB sound%2:39:06::
+#16 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+The sudden solitude had lost its momentary charm and become oppressive .
+2
+#4 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#9 become VERB become%2:30:00::,become%2:42:01::
+" No directives from Central is scarcely a cause for regret , but there happen to be eight other guys biting their fingernails to the quick just waiting for an invitation to board you , you beautiful thing " .
+4
+#14 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#20 bite VERB bite%2:35:00::
+#27 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#32 board VERB board%2:38:00::

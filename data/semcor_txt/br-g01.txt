@@ -1,0 +1,619 @@
+ Northern liberals are the chief supporters of civil rights and of integration .
+3
+#0 northern ADJ northern%3:00:01::,northern%3:00:02::
+#5 supporter NOUN supporter%1:18:00::
+#11 integration NOUN integration%1:04:00::,integration%1:04:02::
+They have also led the nation in the direction of a welfare state .
+2
+#3 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#8 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+And both in their objectives of non-discrimination and of social progress they have had ranged against them the Southerners who are called Bourbons .
+3
+#4 objective NOUN objective%1:09:00::
+#9 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#22 Bourbon NOUN bourbon%1:18:01::
+The name presumably derives from the French royal house which never learned and never forgot ; since Bourbon whiskey , though of Kentucky origin , is at least as much favored by liberals in the North as by conservatives in the South .
+6
+#11 learn VERB learn%2:31:01::,learn%2:31:03::
+#13 never ADV never%4:02:00::
+#18 whiskey NOUN whiskey%1:13:00::
+#23 origin NOUN origin%1:15:00::
+#35 north NOUN north%1:15:02::
+#41 south NOUN south%1:15:01::
+The nature of the opposition between liberals and Bourbons is too little understood in the North .
+6
+#1 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#8 Bourbon NOUN bourbon%1:18:01::
+#10 too ADV too%4:02:00::
+#11 little ADV little%4:02:00::
+#12 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#15 north NOUN north%1:15:02::
+The race problem has tended to obscure other , less emotional , issues which may fundamentally be even more divisive .
+5
+#4 tend VERB tend%2:42:01::
+#7 other ADJ other%3:00:00::
+#9 less ADV less%4:02:00::,less%4:02:01::
+#12 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#18 more ADV more%4:02:00::
+It is these other differences between North and South - other , that is , than those which concern discrimination or social welfare - which I chiefly discuss herein .
+4
+#6 north NOUN north%1:15:02::
+#8 south NOUN south%1:15:01::
+#18 concern VERB concern%2:42:00::,concern%2:42:01::
+#19 discrimination NOUN discrimination%1:04:00::
+I write about Northern liberals from considerable personal experience .
+3
+#1 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#3 northern ADJ northern%3:00:01::,northern%3:00:02::
+#7 personal ADJ personal%5:00:00:subjective:00
+A Southerner married to a New Englander , I have lived for many years in a Connecticut commuting town with a high percentage of artists , writers , publicity men , and business executives of egghead tastes .
+2
+#21 high ADJ high%3:00:02::
+#36 taste NOUN taste%1:09:01::,taste%1:12:02::
+Most of them are Democrats and nearly all consider themselves , and are viewed as , liberals .
+2
+#4 democrat NOUN democrat%1:18:01::
+#6 nearly ADV nearly%4:02:00::
+This is puzzling to an outsider conscious of the classic tradition of liberalism , because it is clear that these Democrats who are left-of-center are at opposite poles from the liberal Jefferson , who held that the best government was the least government .
+11
+#5 outsider NOUN outsider%1:18:00::
+#10 tradition NOUN tradition%1:09:01::
+#17 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#20 democrat NOUN democrat%1:18:01::
+#27 pole NOUN pole%1:15:00::
+#30 liberal ADJ liberal%3:00:00::
+#34 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#37 good ADJ best%3:00:00::,good%3:00:01::
+#38 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#41 little ADJ little%3:00:01::,little%3:00:03::,little%5:00:00:young:00
+#42 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+Yet paradoxically my liberal friends continue to view Jefferson as one of their patron saints .
+3
+#3 liberal ADJ liberal%3:00:00::
+#4 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#5 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+When I question them as to what they mean by concepts like liberty and democracy , I find that they fall into two categories : the simpler ones who have simply accepted the shibboleths of their faith without analysis ; and the intelligent , cynical ones who scornfully reply that these things do n't count any more in the world of to-day .
+11
+#8 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#12 liberty NOUN liberty%1:26:03::
+#17 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#23 category NOUN category%1:14:00::
+#30 simply ADV simply%4:02:00::,simply%4:02:02::
+#31 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#36 faith NOUN faith%1:09:01::,faith%1:14:00::
+#44 cynical ADJ cynical%5:00:00:distrustful:00
+#51 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#54 count VERB count%2:31:02::,count%2:32:03::,count%2:42:00::,count%2:42:04::
+#59 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+I am naive , they say , to make use of such words .
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+I take this to mean that the intelligent - and therefore necessarily cynical ?
+3
+#1 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#4 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#12 cynical ADJ cynical%5:00:00:distrustful:00
+- liberal considers that the need for a national economy with controls that will assure his conception of social justice is so great that individual and local liberties as well as democratic processes may have to yield before it .
+14
+#5 need NOUN need%1:26:00::
+#9 economy NOUN economy%1:14:00::
+#11 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#14 assure VERB assure%2:31:00::,assure%2:32:03::
+#16 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#18 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#19 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#21 so ADV so%4:02:03::,so%4:02:07::
+#22 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#24 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+#27 liberty NOUN liberty%1:26:03::
+#31 democratic ADJ democratic%3:00:00::
+#32 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#36 yield VERB yield%2:30:00::,yield%2:33:00::,yield%2:38:00::,yield%2:40:01::,yield%2:42:00::
+This seems like an attitude favoring a sort of totalitarian bureaucracy which , under a President of the same stamp , would try to coerce an uncooperative Congress or Supreme Court .
+7
+#5 favor VERB favor%2:31:00::,favor%2:41:00::
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#15 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#18 same ADJ same%3:00:00::,same%3:00:02::
+#19 stamp NOUN stamp%1:06:02::
+#22 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#27 congress NOUN congress%1:14:00::,congress%1:14:01::
+As for states ' rights , they have never counted in the thinking of my liberal friends except as irritations of a minor and immoral nature which exist now only as anachronisms .
+10
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#4 right NOUN right%1:07:00::,right%1:21:00::
+#9 count VERB count%2:31:02::,count%2:32:03::,count%2:42:00::,count%2:42:04::
+#12 thinking NOUN thinking%1:09:00::
+#16 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#22 minor ADJ minor%3:00:07::
+#25 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#27 exist VERB exist%2:42:00::
+#28 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#29 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+The American liberal may , in the world of to-day , have a strong case ; but he presents it publicly so enmeshed in hypocrisy that it is not an honest one .
+7
+#7 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#14 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#18 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#21 so ADV so%4:02:03::,so%4:02:07::
+#28 not ADV not%4:02:00::
+Why , in the first place , call himself a liberal if he is against laissez-faire and favors an authoritarian central government with womb-to-tomb controls over everybody ?
+5
+#7 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#17 favor VERB favor%2:31:00::,favor%2:41:00::
+#20 central ADJ central%5:00:00:important:00
+#21 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#24 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+If he attaches little importance to personal liberty , why not make this known to the world ?
+5
+#2 attach VERB attach%2:35:00::,attach%2:35:01::
+#7 liberty NOUN liberty%1:26:03::
+#10 not ADV not%4:02:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+And if he is so scornful of the rights of states , why not advocate a different sort of constitution that he could more sincerely support ?
+10
+#4 so ADV so%4:02:03::,so%4:02:07::
+#8 right NOUN right%1:07:00::,right%1:21:00::
+#10 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#12 why ADV why%1:16:00::
+#13 not ADV not%4:02:00::
+#16 different ADJ different%5:00:00:unusual:00
+#17 sort NOUN sort%1:09:00::,sort%1:18:00::
+#19 constitution NOUN constitution%1:10:00::
+#23 more ADV more%4:02:00::
+#25 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+I am concerned here , however , with the Northern liberal 's attitude toward the South .
+3
+#5 however ADV however%4:02:04::
+#9 northern ADJ northern%3:00:01::,northern%3:00:02::
+#15 south NOUN south%1:15:01::
+It appears to be one of intense dislike , which he makes little effort to conceal even in the presence of Southern friends .
+4
+#1 appear VERB appear%2:30:00::
+#6 intense ADJ intense%3:00:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+His assumption seems to be that any such friends , being tolerable humans , must be more liberal than most Southerners and therefore at least partly in sympathy with his views .
+5
+#1 assumption NOUN assumption%1:09:00::
+#8 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#16 more ADV more%4:02:00::
+#17 liberal ADJ liberal%3:00:00::
+#30 view NOUN view%1:09:04::
+Time 's editor , Thomas Griffith , in his book , The Waist High Culture , wrote : " most of what was different about it ( the Deep South ) I found myself unsympathetic to " .
+5
+#2 editor NOUN editor%1:18:00::
+#9 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#14 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#16 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#23 different ADJ different%5:00:00:unusual:00
+This , for the liberals I know , would be an understatement .
+1
+#6 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+Theirs is no mere lack of sympathy , but something closer to the passionate hatred that was directed against Fascism .
+1
+#17 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+I do not think that my experience would be typical for Southerners living in the North .
+4
+#2 not ADV not%4:02:00::
+#3 think VERB think%2:31:01::,think%2:31:03::
+#12 live VERB live%2:42:08::
+#15 north NOUN north%1:15:02::
+In business circles , usually conservative , this sort of atmosphere would hardly be found .
+5
+#1 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#2 circle NOUN circle%1:14:00::
+#8 sort NOUN sort%1:09:00::,sort%1:18:00::
+#12 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#14 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+But in our case - and neither my wife nor I have extreme views on integration , nor are we given to emotional outbursts - the situation has ruined one or two valued friendships and come close to wrecking several more .
+9
+#3 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#6 neither ADV neither%5:00:00:incomplete:00
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#13 view NOUN view%1:09:04::
+#15 integration NOUN integration%1:04:00::,integration%1:04:02::
+#20 given ADJ given%5:00:00:inclined:02
+#26 situation NOUN situation%1:26:01::
+#28 ruin VERB ruin%2:35:01::
+In fact it has caused us to give serious thought to moving our residence south , because it is not easy for the most objective Southerner to sit calmly by when his host is telling a roomful of people that the only way to deal with Southerners who oppose integration is to send in troops and shoot the bastards down .
+17
+#9 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#11 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 south ADV south%4:02:00::
+#19 not ADV not%4:02:00::
+#20 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#23 most ADV most%4:02:00::
+#24 objective ADJ objective%5:00:00:real:00
+#32 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#34 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#38 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#42 way NOUN way%1:04:00::,way%1:09:00::
+#44 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#49 integration NOUN integration%1:04:00::,integration%1:04:02::
+#52 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#54 troop NOUN troop%1:14:00::
+#56 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#58 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+Accounts have been published of Northern liberals in the South up against segregationist prejudice , especially in state-supported universities where pressure may be strong to uphold the majority view .
+10
+#0 account NOUN account%1:10:03::
+#3 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#5 northern ADJ northern%3:00:01::,northern%3:00:02::
+#9 south NOUN south%1:15:01::
+#13 prejudice NOUN prejudice%1:09:01::
+#15 especially ADV especially%4:02:00::
+#20 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#23 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#27 majority NOUN majority%1:07:00::,majority%1:23:00::
+#28 view NOUN view%1:09:04::
+But these accounts do not show that Northerners have been subjected to embarrassment or provocation by Yankee hatred displayed in social gatherings .
+6
+#2 account NOUN account%1:10:03::
+#4 not ADV not%4:02:00::
+#10 subject VERB subject%2:33:00::
+#14 provocation NOUN provocation%1:16:00::
+#20 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#21 gathering NOUN gathering%1:04:00::
+From my wife 's experience and other sources , this seems to be rarely encountered in educated circles .
+2
+#13 rarely ADV rarely%4:02:00::
+#17 circle NOUN circle%1:14:00::
+The strong feeling is certainly there ; but there is a leavening of liberalism among college graduates throughout the South , especially among those who studied in the North .
+8
+#1 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#11 leaven NOUN leaven%1:09:00::
+#15 college NOUN college%1:14:00::,college%1:14:01::
+#16 graduate NOUN graduate%1:18:00::
+#19 south NOUN south%1:15:01::
+#21 especially ADV especially%4:02:00::
+#25 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#28 north NOUN north%1:15:02::
+And social relations arising out of business ties impose courtesy , if not sympathy , toward resident and visiting Northerners .
+6
+#3 arise VERB arise%2:30:00::,arise%2:42:01::
+#6 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#7 tie NOUN tie%1:06:04::
+#8 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#13 sympathy NOUN sympathy%1:09:00::,sympathy%1:24:00::
+#18 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+Also , among the latter a large percentage soon acquire the prevalent Southern attitude on most social problems .
+5
+#4 latter ADJ latter%3:00:00::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 soon ADV soon%4:02:00::
+#16 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#17 problem NOUN problem%1:09:00::,problem%1:26:00::
+There are of course many Souths ; but for this discussion the most important division is between those who have been reconstructed and those who have n't .
+2
+#5 south NOUN south%1:15:01::
+#12 most ADV most%4:02:00::
+My definition of this much abused adjective is that a reconstructed rebel is one who is glad that the North won the War .
+3
+#1 definition NOUN definition%1:10:00::
+#19 north NOUN north%1:15:02::
+#20 win VERB win%2:33:00::
+Nobody knows how many Southerners there are in this category .
+1
+#9 category NOUN category%1:14:00::
+I suspect that there are far more unreconstructed ones than the North likes to believe .
+4
+#1 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#11 north NOUN north%1:15:02::
+#12 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#14 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+I never heard of a poll being taken on the question .
+3
+#1 never ADV never%4:02:00::
+#5 poll NOUN poll%1:04:00::
+#7 take VERB take%2:31:02::,take%2:34:00::
+No doubt such a thing would be considered unpatriotic .
+1
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Prior to 1954 I imagine that a majority of Southerners would have voted against the Confederacy .
+2
+#4 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#7 majority NOUN majority%1:07:00::,majority%1:23:00::
+Since the Supreme Court 's decision of that year this is more doubtful ; and if a poll had been taken immediately following the dispatch of troops to Little Rock I believe the majority would have been for the Old South .
+8
+#8 year NOUN year%1:28:00::,year%1:28:01::
+#11 more ADV more%4:02:00::
+#12 doubtful ADJ doubtful%5:00:00:unsettled:02
+#17 poll NOUN poll%1:04:00::
+#24 dispatch NOUN despatch%1:10:00::
+#26 troop NOUN troop%1:14:00::
+#31 believe VERB believe%2:31:03::
+#33 majority NOUN majority%1:07:00::,majority%1:23:00::
+Belief in the traditional way of life persists much more in the older states than in the new ones .
+4
+#0 belief NOUN belief%1:09:00::,belief%1:09:01::
+#9 more ADV more%4:02:00::,more%4:02:01::
+#12 old ADJ old%3:00:01::,old%3:00:02::
+#13 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Probably a larger percentage of Virginians and South Carolinians remain unreconstructed than elsewhere , with Georgia , North Carolina , and Alabama following along after them .
+2
+#2 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#15 Georgia NOUN georgia%1:15:00::
+Old attitudes are held more tenaciously in the Tidewater than the Piedmont ; so that a line running down the length of the South marking the upper limits of tidewater would roughly divide the Old South from the new , but with , of course , important minority enclaves .
+12
+#0 old ADJ old%3:00:01::,old%3:00:02::
+#3 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#4 more ADV more%4:02:00::
+#11 Piedmont NOUN piedmont%1:15:01::
+#16 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#17 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#20 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#23 south NOUN south%1:15:01::
+#24 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#31 roughly ADV roughly%4:02:03::
+#32 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#47 minority NOUN minority%1:07:00::
+The long settled areas of states like Virginia and South Carolina developed the ante-bellum culture to its richest flowering , and there the memory is more precious , and the consciousness of loss the greater .
+10
+#3 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#5 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#7 Virginia NOUN virginia%1:15:00::
+#11 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#14 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#18 flower NOUN flower%1:28:00::
+#21 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#23 memory NOUN memory%1:09:00::,memory%1:09:01::
+#25 more ADV more%4:02:00::
+#26 precious ADJ precious%5:00:00:valuable:00
+Also , we should not even to-day discount the fact that a region such as the coastal lowlands centering on Charleston had closer ties with England and the West Indies than with the North even after independence .
+7
+#4 not ADV not%4:02:00::
+#7 discount VERB discount%2:32:00::
+#20 Charleston NOUN charleston%1:15:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#23 tie NOUN tie%1:06:04::
+#33 north NOUN north%1:15:02::
+The social and psychological consequences of this continue to affect the area .
+5
+#1 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#4 consequence NOUN consequence%1:19:00::
+#7 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#9 affect VERB affect%2:30:00::,affect%2:42:00::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+In certain respects defeat increased the persistent Anglophilia of the Old South .
+1
+#2 respect NOUN respect%1:09:00::
+Poor where they had once been rich , humbled where they had been arrogant , having no longer any hope of sharing in the leadership of the nation , the rebels who would not surrender in spirit drew comfort from the sympathy they felt extended to them by the mother country .
+9
+#0 poor ADJ poor%3:00:00::,poor%3:00:03::
+#4 once ADV once%4:02:01::
+#6 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 hope NOUN hope%1:09:00::,hope%1:18:00::
+#33 not ADV not%4:02:00::
+#36 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#37 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#43 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+And no doubt many people in states like the Carolinas and Georgia , which were among the most Tory in sentiment in the eighteenth century , bitterly regretted the revolt against the Crown .
+8
+#4 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#6 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#11 Georgia NOUN georgia%1:15:00::
+#17 most ADV most%4:02:00::
+#18 Tory NOUN tory%1:18:01::
+#20 sentiment NOUN sentiment%1:09:00::
+#24 century NOUN century%1:28:00::
+#32 crown NOUN crown%1:10:00::
+Among Bourbons the racial issue may have less to do with their remaining unreconstructed than other factors .
+4
+#1 Bourbon NOUN bourbon%1:18:01::
+#4 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 factor NOUN factor%1:08:00::,factor%1:18:00::
+All Southerners agree that slavery had to go ; but many historians maintain that except for Northern meddling it would have ended in states like Virginia years before it did .
+6
+#2 agree VERB agree%2:32:00::,agree%2:32:01::
+#7 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#16 northern ADJ northern%3:00:01::,northern%3:00:02::
+#23 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#25 Virginia NOUN virginia%1:15:00::
+#27 before ADV before%4:02:03::
+Southern resentment has been over the method of its ending , the invasion , and Reconstruction ; their fears now are of miscegenation and Negro political control in many counties .
+3
+#9 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#19 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#26 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+But apart from racial problems , the old unreconstructed South - to use the moderate words favored by Mr. Thomas Griffith - finds itself unsympathetic to most of what is different about the civilization of the North .
+9
+#1 apart ADV apart%4:02:01::,apart%4:02:06::
+#4 problem NOUN problem%1:09:00::,problem%1:26:00::
+#7 old ADJ old%3:00:01::,old%3:00:02::
+#9 south NOUN south%1:15:01::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#22 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#30 different ADJ different%5:00:00:unusual:00
+#36 north NOUN north%1:15:02::
+And this , in effect , means most of modern America .
+1
+#6 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+It is hard to see how the situation could be otherwise .
+4
+#2 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#4 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#7 situation NOUN situation%1:26:01::
+#10 otherwise ADV otherwise%4:02:01::
+And therein , I feel , many Northerners delude themselves about the South .
+2
+#4 feel VERB feel%2:31:00::,feel%2:39:00::
+#12 south NOUN south%1:15:01::
+For one thing , this is not a subject often discussed or analyzed .
+2
+#6 not ADV not%4:02:00::
+#8 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+I suppose the reason is a kind of wishful thinking : do n't talk about the final stages of Reconstruction and they will take care of themselves .
+3
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#3 reason NOUN reason%1:09:01::,reason%1:16:00::
+#17 stage NOUN stage%1:04:00::,stage%1:26:00::
+Or else the North really believes that all Southerners except a few quaint old characters have come around to realizing the errors of their past , and are now at heart sharers of the American Dream , like everybody else .
+8
+#3 north NOUN north%1:15:02::
+#4 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#5 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#13 old ADJ old%3:00:01::,old%3:00:02::
+#14 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#19 realize VERB realize%2:31:01::
+#24 past NOUN past%1:28:01::
+#28 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+If the circumstances are faced frankly it is not reasonable to expect this to be true .
+5
+#2 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#4 face VERB face%2:32:00::,face%2:32:03::
+#8 not ADV not%4:02:00::
+#9 reasonable ADJ reasonable%3:00:00::,reasonable%5:00:00:rational:00
+#15 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+The situation of the South since 1865 has been unique in the western world .
+4
+#1 situation NOUN situation%1:26:01::
+#4 south NOUN south%1:15:01::
+#12 western ADJ western%3:00:01::
+#13 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+Regardless of rights and wrongs , a population and an area appropriate to a pre World War I , great power have been , following conquest , ruled against their will by a neighboring people , and have had imposed upon them social and economic controls they dislike .
+8
+#2 right NOUN right%1:07:00::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#27 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+#30 will NOUN will%1:09:01::,willpower%1:07:00::
+#39 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#42 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#44 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#45 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+And the great majority of these people are of Anglo-Saxon or Celtic descent .
+5
+#2 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#3 majority NOUN majority%1:07:00::,majority%1:23:00::
+#6 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#9 Anglo-Saxon NOUN anglo-saxon%1:18:00::
+#12 descent NOUN descent%1:14:00::
+This is the only case in modern history of a people of Britannic origin submitting without continued struggle to what they view as foreign domination .
+6
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#7 history NOUN history%1:28:00::
+#13 origin NOUN origin%1:15:00::
+#14 submit VERB submit%2:31:12::,submit%2:33:00::,submit%2:41:00::
+#23 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#24 domination NOUN domination%1:26:00::
+In every war of the United States since the Civil War the South was more belligerent than the rest of the country .
+4
+#12 south NOUN south%1:15:01::
+#14 more ADV more%4:02:00::
+#18 rest NOUN rest%1:24:00::
+#21 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+So instead of being tests of the South 's loyalty , the Spanish War , the two World Wars , and the Korean War all served to overcome old grievances and cement reunion .
+4
+#4 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#7 south NOUN south%1:15:01::
+#25 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#28 old ADJ old%3:00:01::,old%3:00:02::
+And there is no section of the nation more ardent than the South in the cold war against Communism .
+3
+#4 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#8 more ADV more%4:02:00::
+#12 south NOUN south%1:15:01::
+Had the situation been reversed , had , for instance , England been the enemy in 1898 because of issues of concern chiefly to New England , there is little doubt that large numbers of Southerners would have happily put on their old Confederate uniforms to fight as allies of Britain .
+6
+#2 situation NOUN situation%1:26:01::
+#19 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#21 concern NOUN concern%1:09:00::
+#42 old ADJ old%3:00:01::,old%3:00:02::
+#44 uniform NOUN uniform%1:06:00::
+#48 ally NOUN allies%1:14:00::
+It is extraordinary that a people as proud and warlike as Southerners should have been as docile as they have .
+1
+#7 proud ADJ proud%5:00:00:impressive:00
+The North should thank its stars that such has been the case ; but at the same time it should not draw false inferences therefrom .
+3
+#1 north NOUN north%1:15:02::
+#11 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#20 not ADV not%4:02:00::
+The two main charges levelled against the Bourbons by liberals is that they are racists and social reactionaries .
+5
+#3 charge NOUN charge%1:10:00::,charge%1:10:04::
+#4 level VERB level%2:33:01::
+#7 Bourbon NOUN bourbon%1:18:01::
+#14 racist NOUN racist%1:18:00::
+#16 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+There is much truth in both these charges , and not many Bourbons deny them .
+3
+#7 charge NOUN charge%1:10:00::,charge%1:10:04::
+#12 Bourbon NOUN bourbon%1:18:01::
+#13 deny VERB deny%2:32:00::,deny%2:32:01::
+Whatever their faults , they are not hypocrites .
+2
+#2 fault NOUN fault%1:04:00::
+#6 not ADV not%4:02:00::
+Most of them sincerely believe that the Anglo-Saxon is the best race in the world and that it should remain pure .
+5
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 Anglo-Saxon NOUN anglo-saxon%1:18:00::
+#10 good ADJ best%3:00:00::,good%3:00:01::
+#11 race NOUN race%1:14:01::
+#14 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Many Northerners believe this , too , but few of them will say so publicly .
+3
+#2 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#5 too ADV too%4:02:01::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Bourbon economic philosophy , moreover , is not very different from that of Northern conservatives .
+5
+#1 Bourbon NOUN bourbon%1:18:01::
+#2 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#8 not ADV not%4:02:00::
+#10 different ADJ different%5:00:00:unusual:00
+#14 northern ADJ northern%3:00:01::,northern%3:00:02::
+But those among the Bourbons who remain unreconstructed go much further than this .
+3
+#4 Bourbon NOUN bourbon%1:18:01::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 further ADV further%4:02:02::,further%4:02:03::
+They believe that if the South had been let alone it would have produced a civilization superior to that of modern America .
+2
+#5 south NOUN south%1:15:01::
+#16 superior ADJ superior%3:00:01::
+As it is , they consider that the North is now reaping the fruits of excess egalitarianism , that in spite of its high standard of living the " American way " has been proved inferior to the English and Scandinavian ways , although they disapprove of the socialistic features of the latter .
+8
+#8 north NOUN north%1:15:02::
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#30 way NOUN way%1:04:00::,way%1:09:00::
+#34 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#35 inferior ADJ inferior%5:00:00:bottom:00
+#41 way NOUN way%1:04:00::,way%1:09:00::
+#49 feature NOUN feature%1:08:00::,feature%1:09:01::
+#52 latter ADJ latter%3:00:00::
+The South 's antipathy to Northern civilization includes such charges as poor manners , harsh accents , lack of appreciation of the arts of living like gastronomy and the use of leisure .
+9
+#1 south NOUN south%1:15:01::
+#5 northern ADJ northern%3:00:01::,northern%3:00:02::
+#7 include VERB include%2:42:00::
+#9 charge NOUN charge%1:10:00::,charge%1:10:04::
+#11 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#14 harsh ADJ harsh%5:00:03:unpleasant:00
+#15 accent NOUN accent%1:10:01::
+#19 appreciation NOUN appreciation%1:04:01::
+#24 living NOUN living%1:09:00::
+Their own easier , slower tempo is especially dear to Southerners ; and I have heard many say that they are content to earn a half or a third as much as they could up North because they so much prefer the quieter habits of their home town .
+11
+#1 own ADJ own%5:00:00:personal:00
+#2 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#4 slow ADJ slow%3:00:01::
+#5 tempo NOUN tempo%1:28:00::
+#7 especially ADV especially%4:02:00::
+#8 dear ADJ dear%5:00:00:close:02
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#34 up ADV up%4:02:00::,up%4:02:02::
+#38 so ADV so%4:02:03::,so%4:02:07::
+#40 prefer VERB prefer%2:31:00::
+#43 habit NOUN habit%1:04:02::

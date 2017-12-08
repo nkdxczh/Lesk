@@ -1,0 +1,514 @@
+ Rather than being deceived , the eye is puzzled ; instead of seeing objects in space , it sees nothing more than - a picture .
+7
+#0 rather ADV rather%4:02:02::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#12 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#13 object NOUN object%1:03:00::
+#15 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 more ADV more%4:02:00::,more%4:02:01::
+Through 1911 and 1912 , as the Cubist facet-plane 's tendency to adhere to the literal surface became harder and harder to deny , the task of keeping the surface at arm's length fell all the more to eye-undeceiving contrivances .
+9
+#15 literal ADJ literal%5:00:00:plain:01
+#16 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#17 become VERB become%2:30:00::,become%2:42:01::
+#18 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#20 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#22 deny VERB deny%2:32:00::,deny%2:32:01::
+#27 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#29 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#33 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+To reinforce , and sometimes to replace , the simulated typography , Braque and Picasso began to mix sand and other foreign substances with their paint ; the granular texture thus created likewise called attention to the reality of the surface and was effective over much larger areas .
+13
+#6 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#15 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#20 other ADJ other%3:00:00::
+#21 foreign ADJ foreign%3:00:01::,foreign%5:00:00:extrinsic:00
+#22 substance NOUN substance%1:03:00::,substance%1:27:00::
+#25 paint NOUN paint%1:06:00::
+#28 granular ADJ granular%5:00:00:coarse:00
+#30 thus ADV thus%4:02:01::
+#32 likewise ADV likewise%4:02:01::
+#40 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#43 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#46 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#47 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+In certain other pictures , however , Braque began to paint areas in exact simulation of wood graining or marbleizing .
+6
+#1 certain ADJ certain%5:00:00:definite:00
+#5 however ADV however%4:02:04::
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#10 paint VERB paint%2:36:01::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#16 wood NOUN wood%1:06:02::
+These areas by virtue of their abrupt density of pattern , stated the literal surface with such new and superior force that the resulting contrast drove the simulated printing into a depth from which it could be rescued - and set to shuttling again - only by conventional perspective ; that is , by being placed in such relation to the forms depicted within the illusion that these forms left no room for the typography except near the surface .
+18
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#9 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#11 state VERB state%2:32:01::,state%2:32:02::
+#14 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#19 superior ADJ superior%3:00:01::
+#25 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+#28 print NOUN print%1:06:01::
+#31 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#40 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#45 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#48 perspective NOUN perspective%1:09:00::
+#55 place VERB place%2:31:13::
+#58 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#61 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#68 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#69 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#71 room NOUN room%1:26:00::
+#78 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+The accumulation of such devices , however , soon had the effect of telescoping , even while separating , surface and depth .
+4
+#6 however ADV however%4:02:04::
+#8 soon ADV soon%4:02:00::
+#11 effect NOUN effect%1:09:00::,effect%1:19:00::
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+The process of flattening seemed inexorable , and it became necessary to emphasize the surface still further in order to prevent it from fusing with the illusion .
+7
+#1 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#3 flatten VERB flatten%2:30:03::
+#9 become VERB become%2:30:00::,become%2:42:01::
+#10 necessary ADJ necessary%3:00:00::
+#14 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#20 prevent VERB prevent%2:41:00::
+#23 fuse VERB fuse%2:30:00::
+It was for this reason , and no other that I can see , that in September 1912 , Braque took the radical and revolutionary step of pasting actual pieces of imitation woodgrain wallpaper to a drawing on paper , instead of trying to simulate its texture in paint .
+11
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+#12 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#20 take VERB take%2:31:02::,take%2:34:00::
+#22 radical ADJ radical%5:00:00:immoderate:00
+#25 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#27 paste VERB paste%2:35:02::
+#28 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#36 drawing NOUN drawing%1:04:01::
+#38 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#42 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#48 paint NOUN paint%1:06:00::
+Picasso says that he himself had already made his first collage toward the end of 1911 , when he glued a piece of imitation caning oilcloth to a painting on canvas .
+6
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 already ADV already%4:02:00::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#9 first ADJ first%3:00:00::,first%4:02:00::
+#13 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#28 painting NOUN painting%1:04:01::,painting%1:04:02::,painting%1:06:00::
+It is true that his first collage looks more Analytical than Braque 's , which would confirm the date he assigns it .
+6
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#5 first ADJ first%3:00:00::,first%4:02:00::
+#7 look VERB look%2:39:01::,look%2:42:02::
+#16 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#18 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#20 assign VERB assign%2:31:02::,assign%2:34:00::
+But it is also true that Braque was the consistent pioneer in the use of simulated textures as well as of typography ; and moreover , he had already begun to broaden and simplify the facet-planes of Analytical Cubism as far back as the end of 1910 .
+6
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#28 already ADV already%4:02:00::
+#29 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#40 far ADV far%4:02:00::,far%4:02:01::
+#41 back ADV back%4:02:01::,back%4:02:04::
+#44 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+When we examine what each master says was his first collage we see that much the same thing happens in each .
+8
+#2 examine VERB examine%2:31:00::,examine%2:32:01::
+#5 master NOUN master%1:18:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 first ADJ first%3:00:00::,first%4:02:00::
+#12 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#16 same ADJ same%3:00:00::,same%3:00:02::
+#17 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#18 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+( It makes no real difference that Braque 's collage is on paper and eked out in charcoal , while Picasso 's is on canvas and eked out in oil . )
+2
+#4 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+#29 oil NOUN oil%1:06:01::
+By its greater corporeal presence and its greater extraneousness , the affixed paper or cloth serves for a seeming moment to push everything else into a more vivid idea of depth than the simulated printing or simulated textures had ever done .
+11
+#2 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#14 cloth NOUN cloth%1:06:00::
+#15 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#19 moment NOUN moment%1:28:00::,moment%1:28:01::
+#27 vivid ADJ vivid%5:00:00:realistic:00
+#28 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#30 depth NOUN depth%1:07:01::,depth%1:07:02::
+#34 print NOUN print%1:06:01::
+#39 ever ADV ever%4:02:05::
+But here again , the surface declaring device both overshoots and falls short of its aim .
+1
+#15 aim NOUN aim%1:09:00::
+For the illusion of depth created by the contrast between the affixed material and everything else gives way immediately to an illusion of forms in bas-relief , which gives way in turn , and with equal immediacy , to an illusion that seems to contain both - or neither .
+6
+#4 depth NOUN depth%1:07:01::,depth%1:07:02::
+#12 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#23 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#35 equal ADJ equal%3:00:00::
+#44 contain VERB contain%2:42:00::,contain%2:42:06::
+#48 neither ADV neither%5:00:00:incomplete:00
+Because of the size of the areas it covers , the pasted paper establishes undepicted flatness bodily , as more than an indication or sign .
+6
+#3 size NOUN size%1:07:00::,size%1:07:02::
+#6 area NOUN area%1:15:01::
+#8 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#12 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#13 establish VERB establish%2:36:01::,establish%2:41:00::
+#24 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+Literal flatness now tends to assert itself as the main event of the picture , and the device boomerangs : the illusion of depth is rendered even more precarious than before .
+7
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 tend VERB tend%2:42:01::
+#23 depth NOUN depth%1:07:01::,depth%1:07:02::
+#25 render VERB render%2:30:00::,render%2:32:04::,render%2:36:03::
+#27 more ADV more%4:02:00::
+#28 precarious ADJ precarious%5:00:00:insecure:02
+#30 before ADV before%4:02:03::
+Instead of isolating the literal flatness by specifying and circumscribing it , the pasted paper or cloth releases and spreads it , and the artist seems to have nothing left but this undepicted flatness with which to finish as well as start his picture .
+6
+#9 circumscribe VERB circumscribe%2:35:01::
+#14 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#16 cloth NOUN cloth%1:06:00::
+#17 release VERB release%2:35:00::,release%2:41:00::
+#27 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#37 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+The actual surface becomes both ground and background , and it turns out - suddenly and paradoxically - that the only place left for a three-dimensional illusion is in front of , upon , the surface .
+8
+#1 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#2 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#5 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#7 background NOUN background%1:06:00::,background%1:09:00::,background%1:11:00::,background%1:11:01::
+#21 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#22 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#35 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+In their very first collages , Braque and Picasso draw or paint over and on the affixed paper or cloth , so that certain of the principal features of their subjects as depicted seem to thrust out into real , bas-relief space - or to be about to do so - while the rest of the subject remains imbedded in , or flat upon , the surface .
+13
+#3 first ADJ first%3:00:00::,first%4:02:00::
+#9 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#11 paint VERB paint%2:36:01::
+#17 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#19 cloth NOUN cloth%1:06:00::
+#26 principal ADJ principal%5:00:00:important:00
+#27 feature NOUN feature%1:08:00::,feature%1:09:01::
+#30 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#53 rest NOUN rest%1:24:00::
+#56 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#58 embed VERB embed%2:33:00::
+#62 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#66 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+And the surface is driven back , in its very surfaceness , only by this contrast .
+2
+#2 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+In the upper center of Braque 's first collage , Fruit Dish ( in Douglas Cooper 's collection ) , a bunch of grapes is rendered with such conventionally vivid sculptural effect as to lift it practically off the picture plane .
+10
+#2 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#3 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#7 first ADJ first%3:00:00::,first%4:02:00::
+#17 collection NOUN collection%1:14:00::
+#23 grape NOUN grape%1:13:00::
+#25 render VERB render%2:30:00::,render%2:32:04::,render%2:36:03::
+#29 vivid ADJ vivid%5:00:00:realistic:00
+#31 effect NOUN effect%1:09:00::,effect%1:19:00::
+#34 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#36 practically ADV practically%4:02:00::
+The trompe-l'oeil illusion here is no longer enclosed between parallel flatnesses , but seems to thrust through the surface of the drawing paper and establish depth on top of it .
+4
+#7 enclose VERB enclose%2:42:00::
+#18 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#24 establish VERB establish%2:36:01::,establish%2:41:00::
+#25 depth NOUN depth%1:07:01::,depth%1:07:02::
+Yet the violent immediacy of the wallpaper strips pasted to the paper , and the only lesser immediacy of block capitals that simulate window lettering , manage somehow to push the grape cluster back into place on the picture plane so that it does not " jump " .
+12
+#7 strip NOUN strip%1:06:03::,strip%1:17:00::
+#8 paste VERB paste%2:35:02::
+#11 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#23 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#24 letter NOUN letter%1:10:01::,letter%1:10:02::
+#26 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#29 push VERB push%2:32:01::,push%2:38:00::
+#31 grape NOUN grape%1:13:00::
+#35 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#44 not ADV not%4:02:00::
+#46 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+At the same time , the wallpaper strips themselves seem to be pushed into depth by the lines and patches of shading charcoaled upon them , and by their placing in relation to the block capitals ; and these capitals seem in turn to be pushed back by their placing , and by contrast with the corporeality of the woodgraining .
+6
+#7 strip NOUN strip%1:06:03::,strip%1:17:00::
+#12 push VERB push%2:32:01::,push%2:38:00::
+#14 depth NOUN depth%1:07:01::,depth%1:07:02::
+#17 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#19 patch NOUN patch%1:06:00::
+#21 shading NOUN shading%1:07:00::
+Thus every part and plane of the picture keeps changing place in relative depth with every other part and plane ; and it is as if the only stable relation left among the different parts of the picture is the ambivalent and ambiguous one that each has with the surface .
+10
+#0 thus ADV thus%4:02:01::
+#4 plane NOUN plane%1:06:00::
+#8 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#12 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#13 depth NOUN depth%1:07:01::,depth%1:07:02::
+#19 plane NOUN plane%1:06:00::
+#29 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#30 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#46 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#49 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+And the same thing , more or less , can be said of the contents of Picasso 's first collage .
+5
+#2 same ADJ same%3:00:00::,same%3:00:02::
+#3 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#18 first ADJ first%3:00:00::,first%4:02:00::
+In later collages of both masters , a variety of extraneous materials are used , sometimes in the same work , and almost always in conjunction with every other eye-deceiving and eye-undeceiving device they can think of .
+7
+#5 master NOUN master%1:18:00::
+#8 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#11 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 same ADJ same%3:00:00::,same%3:00:02::
+#19 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#23 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+The area adjacent to one edge of a piece of affixed material - or simply of a painted in form - will be shaded to pry that edge away from the surface , while something will be drawn , painted or even pasted over another part of the same shape to drive it back into depth .
+16
+#1 area NOUN area%1:15:01::
+#2 adjacent ADJ adjacent%5:00:00:close:01
+#5 edge NOUN edge%1:06:01::
+#14 simply ADV simply%4:02:00::,simply%4:02:02::
+#23 shade VERB shade%2:30:00::
+#25 pry VERB pry%2:35:00::
+#27 edge NOUN edge%1:06:01::
+#28 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#31 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#37 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#39 paint VERB paint%2:36:01::
+#42 paste VERB paste%2:35:02::
+#48 same ADJ same%3:00:00::,same%3:00:02::
+#49 shape NOUN shape%1:07:00::,shape%1:07:01::
+#51 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+#55 depth NOUN depth%1:07:01::,depth%1:07:02::
+Planes defined as parallel to the surface also cut through it into real space , and a depth is suggested optically which is greater than that established pictorially .
+6
+#0 plane NOUN plane%1:06:00::
+#1 define VERB define%2:42:00::,define%2:42:03::
+#6 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 cut VERB cut%2:35:00::,cut%2:35:13::,cut%2:35:14::
+#17 depth NOUN depth%1:07:01::,depth%1:07:02::
+#23 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+All this expands the oscillation between surface and depth so as to encompass fictive space in front of the surface as well as behind it .
+5
+#4 oscillation NOUN oscillation%1:11:00::
+#6 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 depth NOUN depth%1:07:01::,depth%1:07:02::
+#12 encompass VERB encompass%2:42:00::
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Flatness may now monopolize everything , but it is a flatness become so ambiguous and expanded as to turn into illusion itself - at least an optical if not , properly speaking , a pictorial illusion .
+4
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 become VERB become%2:30:00::,become%2:42:01::
+#12 so ADV so%4:02:03::,so%4:02:07::
+#26 optical ADJ optical%3:01:01::
+Depicted , Cubist flatness is now almost completely assimilated to the literal , undepicted kind , but at the same time it reacts upon and largely transforms the undepicted kind - and it does so , moreover , without depriving the latter of its literalness ; rather , it underpins and reinforces that literalness , re-creates it .
+5
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 assimilate VERB assimilate%2:31:00::
+#34 so ADV so%4:02:04::
+#41 latter ADJ latter%3:00:00::
+#46 rather ADV rather%4:02:02::
+Out of this re-created literalness , the Cubist subject reemerged .
+1
+#8 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+For it had turned out , by a further paradox of Cubism , that the means to an illusion of depth and plasticity had now become widely divergent from the means of representation or imaging .
+9
+#8 further ADJ further%5:00:00:far:00
+#15 means NOUN means%1:06:00::
+#20 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#24 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#25 become VERB become%2:30:00::,become%2:42:01::
+#26 widely ADV widely%4:02:00::,widely%4:02:02::
+#27 divergent ADJ divergent%3:00:00::
+#30 means NOUN means%1:06:00::
+#32 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+In the Analytical phase of their Cubism , Braque and Picasso had not only had to minimize three-dimensionality simply in order to preserve it ; they had also had to generalize it - to the point , finally , where the illusion of depth and relief became abstracted from specific three-dimensional entities and was rendered largely as the illusion of depth and relief as such : as a disembodied attribute and expropriated property detached from everything not itself .
+12
+#3 phase NOUN phase%1:07:00::,phase%1:28:00::
+#18 simply ADV simply%4:02:00::,simply%4:02:02::
+#35 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#43 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#45 relief NOUN relief%1:06:00::,relief%1:25:00::
+#46 become VERB become%2:30:00::,become%2:42:01::
+#49 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#54 render VERB render%2:30:00::,render%2:32:04::,render%2:36:03::
+#62 relief NOUN relief%1:06:00::,relief%1:25:00::
+#69 attribute NOUN attribute%1:03:00::
+#72 property NOUN property%1:07:00::,property%1:09:00::
+#73 detach VERB detach%2:38:00::
+In order to be saved , plasticity had had to be isolated ; and as the aspect of the subject was transposed into those clusters of more or less interchangeable and contour obliterating facet-planes by which plasticity was isolated under the Cubist method , the subject itself became largely unrecognizable .
+4
+#16 aspect NOUN aspect%1:07:02::,aspect%1:09:01::
+#19 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#45 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#47 become VERB become%2:30:00::,become%2:42:01::
+Cubism , in its 1911 - 1912 phase ( which the French , with justice , call " hermetic " ) was on the verge of abstract art .
+5
+#7 phase NOUN phase%1:07:00::,phase%1:28:00::
+#14 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#16 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#18 hermetic ADJ hermetic%5:00:00:tight:02
+#24 verge NOUN verge%1:06:00::
+It was then that Picasso and Braque were confronted with a unique dilemma : they had to choose between illusion and representation .
+2
+#2 then ADV then%4:02:01::
+#21 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+If they opted for illusion , it could only be illusion per se - an illusion of depth , and of relief , so general and abstracted as to exclude the representation of individual objects .
+7
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#17 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#21 relief NOUN relief%1:06:00::,relief%1:25:00::
+#23 so ADV so%4:02:03::,so%4:02:07::
+#31 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#33 individual ADJ individual%5:00:00:independent:00
+#34 object NOUN object%1:03:00::
+If , on the other hand , they opted for representation , it had to be representation per se - representation as image pure and simple , without connotations ( at least , without more than schematic ones ) of the three-dimensional space in which the objects represented originally existed .
+8
+#10 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#16 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#20 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#22 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#34 more ADV more%4:02:00::,more%4:02:01::
+#46 object NOUN object%1:03:00::
+#48 originally ADV originally%4:02:01::
+#49 exist VERB exist%2:42:00::
+It was the collage that made the terms of this dilemma clear : the representational could be restored and preserved only on the flat and literal surface now that illusion and representation had become , for the first time , mutually exclusive alternatives .
+9
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 term NOUN term%1:10:01::,term%1:10:02::
+#11 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#20 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#23 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#26 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#27 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#31 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#33 become VERB become%2:30:00::,become%2:42:01::
+In the end , Picasso and Braque plumped for the representational , and it would seem they did so deliberately .
+1
+#19 deliberately ADV deliberately%4:02:00::
+( This provides whatever real justification there is for the talk about " reality " . )
+3
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 justification NOUN justification%1:09:00::
+#13 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+But the inner , formal logic of Cubism , as it worked itself out through the collage , had just as much to do with shaping their decision .
+1
+#2 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+When the smaller facet-planes of Analytical Cubism were placed upon or juxtaposed with the large , dense shapes formed by the affixed materials of the collage , they had to coalesce - become " synthesized " - into larger planar shapes themselves simply in order to maintain the integrity of the picture plane .
+12
+#8 place VERB place%2:31:13::
+#14 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#16 dense ADJ dense%5:00:00:thick:02
+#17 shape NOUN shape%1:07:00::,shape%1:07:01::
+#18 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+#22 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#32 become VERB become%2:30:00::,become%2:42:01::
+#38 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#40 shape NOUN shape%1:07:00::,shape%1:07:01::
+#42 simply ADV simply%4:02:00::,simply%4:02:02::
+#46 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#48 integrity NOUN integrity%1:07:00::
+Left in their previous atom-like smallness , they would have cut away too abruptly into depth ; and the broad , opaque shapes of pasted paper would have been isolated in such a way as to make them jump out of plane .
+8
+#3 previous ADJ previous%5:00:00:preceding:00
+#12 too ADV too%4:02:00::
+#15 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#19 broad ADJ broad%3:00:04::,broad%5:00:00:large:00
+#22 shape NOUN shape%1:07:00::,shape%1:07:01::
+#25 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#33 way NOUN way%1:04:00::,way%1:09:00::
+#41 plane NOUN plane%1:06:00::
+Large planes juxtaposed with other large planes tend to assert themselves as independent shapes , and to the extent that they are flat , they also assert themselves as silhouettes ; and independent silhouettes are apt to coincide with the recognizable contours of the subject from which a picture starts ( if it does start from a subject ) .
+11
+#0 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#1 plane NOUN plane%1:06:00::
+#5 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#6 plane NOUN plane%1:06:00::
+#7 tend VERB tend%2:42:01::
+#12 independent ADJ independent%3:00:00::
+#13 shape NOUN shape%1:07:00::,shape%1:07:01::
+#22 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#32 independent ADJ independent%3:00:00::
+#44 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#57 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+It was because of this chain-reaction as much as for any other reason - that is , because of the growing independence of the planar unit in collage as a shape - that the identity of depicted objects , or at least parts of them , re-emerged in Braque 's and Picasso 's papiers colles and continued to remain more conspicuous there - but only as flattened silhouettes - than in any of their paintings done wholly in oil before the end of 1913 .
+9
+#12 reason NOUN reason%1:09:01::,reason%1:16:00::
+#25 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#30 shape NOUN shape%1:07:00::,shape%1:07:01::
+#34 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+#42 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#56 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#64 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#78 oil NOUN oil%1:06:01::
+#81 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+Analytical Cubism came to an end in the collage , but not conclusively ; nor did Synthetic Cubism fully begin there .
+4
+#5 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#11 not ADV not%4:02:00::
+#18 fully ADV fully%4:02:04::
+#19 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Only when the collage had been exhaustively translated into oil , and transformed by this translation , did Cubism become an affair of positive color and flat , interlocking silhouettes whose legibility and placement created allusions to , if not the illusion of , unmistakable three-dimensional identities .
+10
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+#9 oil NOUN oil%1:06:01::
+#15 translation NOUN translation%1:10:00::
+#19 become VERB become%2:30:00::,become%2:42:01::
+#21 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+#23 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+#24 color NOUN color%1:07:00::,color%1:27:00::
+#26 flat ADJ flat%3:00:03::,flat%5:00:00:dull:02,flat%5:00:00:inactive:02,flat%5:00:00:noneffervescent:00,flat%5:00:00:unerect:00,flat%5:00:00:unstimulating:00
+#46 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+Synthetic Cubism began with Picasso alone , late in 1913 or early in 1914 ; this was the point at which he finally took the lead in Cubist innovation away from Braque , never again to relinquish it .
+7
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#7 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#11 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#23 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#25 lead NOUN lead%1:07:02::,lead%1:15:00::,lead%1:23:00::
+#33 never ADV never%4:02:00::
+But even before that , Picasso had glimpsed and entered , for a moment , a certain revolutionary path in which no one had preceded him .
+3
+#9 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#13 moment NOUN moment%1:28:00::,moment%1:28:01::
+#16 certain ADJ certain%5:00:00:definite:00
+It was as though , in that instant , he had felt the flatness of collage as too constricting and had suddenly tried to escape all the way back - or forward - to literal three-dimensionality .
+4
+#7 instant NOUN instant%1:28:00::
+#17 too ADV too%4:02:00::
+#22 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#24 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+This he did by using utterly literal means to carry the forward push of the collage ( and of Cubism in general ) literally into the literal space in front of the picture plane .
+2
+#7 means NOUN means%1:06:00::
+#9 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Some time in 1912 , Picasso cut out and folded a piece of paper in the shape of a guitar ; to this he glued and fitted other pieces of paper and four taut strings , thus creating a sequence of flat surfaces in real and sculptural space to which there clung only the vestige of a picture plane .
+10
+#9 fold VERB fold%2:35:00::
+#16 shape NOUN shape%1:07:00::,shape%1:07:01::
+#26 fit VERB fit%2:30:02::,fit%2:40:00::
+#33 taut ADJ taut%5:00:00:tense:03
+#34 string NOUN string%1:06:03::
+#36 thus ADV thus%4:02:01::
+#39 sequence NOUN sequence%1:07:00::,sequence%1:14:00::
+#41 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#42 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#52 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+The affixed elements of collage were extruded , as it were , and cut off from the literal pictorial surface to form a bas-relief .
+3
+#2 element NOUN element%1:06:00::,element%1:09:00::
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#21 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::

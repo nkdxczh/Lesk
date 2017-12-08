@@ -1,0 +1,233 @@
+ The average reader of this magazine owns more than one gun ( we ran a survey to find out ) but he 's always on the lookout for new and better arms .
+2
+#6 own VERB owned%3:00:00::
+#13 run VERB run%2:30:07::
+Well , if you 're that kind of sportsman we 're here to help you .
+1
+#13 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+You still have time to drop a few hints about the gifts you 'd appreciate most ; the time to decide on them is now .
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 drop VERB drop%2:32:00::,drop%2:35:00::
+#14 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+Read on , take your pick - and start dropping those hints .
+4
+#0 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#3 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#8 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#9 drop VERB drop%2:32:00::,drop%2:35:00::
+For me , a changed barrel length or an improved stock does n't constitute a truly new design .
+1
+#13 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+Such modifications are all for the best but it takes something as different as a Deerstalker or a Jet to change arms-making concepts .
+1
+#20 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Bill Ruger 's long-awaited Deerstalker ( under $ 110 ) is a new rifle action in a caliber that upsets all the modern theory of high-velocity fans ; it 's a short , light , quick-handling , fast-firing little timber gun designed to push a heavy slug at modest velocity but with lots of killing power and ample range for our most popular big game - whitetail .
+2
+#19 upset VERB upset%2:30:00::
+#43 push VERB push%2:32:01::,push%2:38:00::
+Ruger reports that on his recent African safari the little .44 Magnum cartridge was a real work horse .
+1
+#1 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Small antelope were generally grassed with one shot , and the .44 Magnum carbine also bagged reedbuck , kob and wart hog with deadly efficiency ; these are fairly large , tough animals .
+1
+#15 bag VERB bag%2:35:01::
+The deadliness of the .44 Magnum in a rifle comes as no surprise to me .
+1
+#9 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+At least five years ago , Tom Robinson of Marlin made up an over / under double rifle for me in this caliber , using the now defunct Model 90 action in 20 - gauge size .
+1
+#24 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+After figuring out how to regulate the barrels so that they shot to the same point of impact , we fired this little 20 - inch-barrel job on my home range and in Marlin 's underground test gallery .
+2
+#11 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#20 fire VERB fire%2:33:00::,fire%2:33:02::
+We quickly ran into the same trouble that plagued Bill Ruger in his first experiments : Three or four bullets would be placed well in a six-inch bull at 100 yards and then , unaccountably , one could stray far out of the group .
+1
+#22 place VERB place%2:31:13::
+Ruger learned that this was because the higher velocity achieved in a long barrel was upsetting the shape of the unjacketed revolver bullet .
+2
+#1 learn VERB learn%2:31:01::,learn%2:31:03::
+#15 upset VERB upset%2:30:00::
+But even without jacketed bullets , I had enough faith in my double to take it on an opening-day deer hunt that first year .
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Within half an hour I jumped a six-point buck that hop-skipped through a rhododendron thicket , and I caught him just behind the left foreleg at 60 yards .
+1
+#5 jump VERB jump%2:30:05::,jump%2:31:00::,jump%2:33:00::,jump%2:33:03::,jump%2:38:00::,jump%2:38:01::,jump%2:38:04::
+He moved only about 30 feet after the 240 - grain slug hit him - and this was after the bullet had passed through a sapling .
+2
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+My double was made with standard-weight revolver barrels ( before cutting to revolver length ) , and although it compares well in other respects , it 's considerably heavier than the Deerstalker , which only scales about 6 - 1 2 pounds .
+3
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#19 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#35 scale VERB scale%2:35:00::
+If ever a rifle met the needs of the whitetail hunter , this is it .
+1
+#4 meet VERB meet%2:41:02::,meet%2:42:01::
+The Deerstalker points with the ease , speed and precision of a fine imported double shotgun , and its trigger pull is light and sharp .
+1
+#2 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+The 240 - grain bullet leaves the muzzle at 1850 fps , which gives it all the smash needed at woods ranges .
+3
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+#13 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#18 need VERB need%2:42:00::
+The second really new development this year was a revolver handling a different sort of varmint load - the .22 Remington Jet Magnum Center Fire .
+1
+#10 handle VERB handle%2:41:00::,handle%2:41:03::
+The velocity of this .22 - caliber , 40 - grain bullet is rated at a very hot 2460 fps , and it 's the flattest shooting of any revolver cartridge , with a mid-range rise of about an inch over a 100 - yard range .
+1
+#13 rate VERB rate%2:31:01::
+It can cut a red squirrel neatly in two or burst a crow into a flurry of feathers .
+1
+#2 cut VERB cut%2:35:00::,cut%2:35:13::,cut%2:35:14::
+The most intriguing aspect of the S + W Magnum chambered for the new Jet is that it can also fire standard .22 rim-fires by means of adapter sleeves in the chambers .
+1
+#20 fire VERB fire%2:33:00::,fire%2:33:02::
+You may therefore convert the gun into a small-game and plinking arm , although the difference in the point of impact ( Jet vs. rim-fire ) can be somewhat disconcerting .
+1
+#3 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+The accuracy of the Jet cartridge is fine ; I tested it in my scoped S + W and it was good enough to allow me to hit a chuck with every shot at 100 yards if I did my part by holding the handgun steadily .
+3
+#24 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#27 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#42 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+The fact that the Deerstalker and the Jet were the only completely new designs this year does n't mean that 1961 did n't see changes in models , actions and calibers .
+2
+#18 mean VERB mean%2:31:00::,mean%2:31:05::,mean%2:42:03::
+#23 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Aside from the Ruger carbine , a number of hunting rifles have been introduced for the first time .
+1
+#13 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+They have fine FN actions and a better-than-average finish on both the metal and the stock wood .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Barrel weights vary sensibly with the various calibers available , and these include the standard bores ( about $ 165 ) plus the Magnums ( around $ 170 ) ; the latter include the .264 , .300 H + H , .338 , .375 and .458 .
+2
+#12 include VERB include%2:42:00::
+#32 include VERB include%2:42:00::
+Colt 's center-fire 1961 rifles are all made with Sako actions , regardless of caliber .
+1
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The .222 's have the short action ; the .243 and .308 , the medium action , and the .270 , * * f and the Magnums , the long action ( about $ 135 for the Standard Coltsman and $ 200 for the Custom version ) .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Previously , FN actions were used for the larger cartridges .
+1
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+High standard has introduced a .22 auto , the Sport-King , in two grades - field and special ( less than $ 45 and just over $ 45 , respectively ) .
+1
+#3 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+Previously known as Jefferson Arms , Kodiak has given this 11 - shot hammerless job an exceptionally fine stock design , and the 260 is the first autoloader to handle .22 Magnum rim-fires .
+2
+#8 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#29 handle VERB handle%2:41:00::,handle%2:41:03::
+Marlin has made two contributions to the harvest of new offerings .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The Model 99 ( under $ 45 ) is a light-weight , streamlined .22 rim-fire auto with a tubular magazine that holds 18 Long Rifles .
+1
+#21 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+It 's extremely accurate for an auto , and the test rifle I tried was completely trouble-free in functioning .
+1
+#13 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Once again the Mossberg Targo outfit has appeared , but this time as a bolt-action rifle-shotgun combination .
+1
+#7 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+The bore is unrifled but is provided with an insert tube which is rifled and which , surprisingly , gives pretty fair accuracy even though it 's only 3 - 1 2 inches long .
+2
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+#19 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+You can unscrew this tube and replace it with a smoothbore insert for use with .22 shotshells - to break the little Targo clay targets .
+2
+#6 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#19 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+A trap for throwing these miniature clays fastens to the barrel so that the shooter can throw his own targets .
+1
+#3 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+You can have your choice of a seven-shot repeater , the 340 TR ( about $ 40 ) or a single-shot , the 320 TR ( $ 10 less ) .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The Targo is a good outfit for fun shooting or for economic wing-shooting practice , but it 's tougher than it looks to run up a score on the clay birds .
+1
+#21 look VERB look%2:39:01::,look%2:42:02::
+They 'll travel 50 feet or more when thrown from the spring trap but it 's almost impossible to break one after it passes the 35 - foot mark .
+4
+#2 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#8 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#19 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#23 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Big Magnum calibers appeared in the Remington line for 1961 , with the addition of the .375 and .458 to the list of Model 725 's .
+1
+#3 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+These are made on special order only , in Kodiak grade ( about $ 310 ) , with integral muzzle brakes and heavy rubber recoil pads ; they weigh around nine pounds .
+2
+#2 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#28 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+A shortened version of the highly regarded Remington 742 autoloader also appeared in 1961 .
+1
+#11 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+This carbine ( under $ 140 , about $ 15 more for a deluxe grade ) has an 18 - 1 2 - inch barrel and was obviously inspired by the popularity of last year 's Model 760 pump with a short-barrel .
+2
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#28 inspire VERB inspire%2:32:00::,inspire%2:32:01::,inspire%2:36:00::,inspire%2:37:00::
+This design is hard to beat for timber hunting or for packing in a saddle scabbard .
+2
+#5 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#11 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+The latest versions of the famous Savage Model 99 are the 99 Featherweight ( about $ 125 ) and the 99 Deluxe ( under $ 135 ) , which have a top-tang safety and improved trigger design .
+1
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The replacement of the slide-lock side safety catch will make this lever-action favorite more appealing than ever since the new safety is easier and faster to operate .
+2
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#26 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+A fresh crop of beginners ' guns showed up in 1961 , and they 're good bets for your Christmas gift list if you 're wondering what to get for a youngster .
+2
+#25 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#28 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+The most unusual of them is the Ithaca 49 ( about $ 20 , $ 5 for a saddle scabbard ) - a lever-action single-shot patterned after the famous Winchester lever-action and featuring the Western look .
+1
+#25 pattern VERB pattern%2:42:00::
+Because of its traditional lines , it probably has more kid appeal than any other model .
+1
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The action is a drop-block , handling all the standard .22 rim-fires .
+1
+#6 handle VERB handle%2:41:00::,handle%2:41:03::
+This is the Model 122 ( about $ 20 ) ; it 's a single-shot bolt-action with an automatic safety - i. e. , the safety goes on every time the bolt is lifted and the gun cocked for the next shot .
+1
+#37 cock VERB cock%2:35:00::
+A beginner 's shotgun has also been introduced this year .
+1
+#7 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+The single-barrel Stevens 940 Y ( under $ 35 ) is made with a side lever rather than a top-tang lever because many youngsters are n't strong enough to operate a top tang to open a gun - and the side lever does indeed open very easily .
+3
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#29 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#44 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+This gun has a 12 - 1 2 - inch stock and is available in either 20 or .410 gauge .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The Colt line now includes a new scattergun , the Standard or Custom Pump Model ( about $ 90 and $ 150 , respectively ) in 12 , 16 and 20 .
+1
+#4 include VERB include%2:42:00::
+Firearms International has introduced another import , this one from Finland .
+1
+#3 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+High Standard has also added two models to its line .
+1
+#4 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+The Supermatic Trophy ( prices begin at less than $ 135 and depend on grade and optional features ) is a 12 - gauge auto .
+1
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The Flite-King Trophy ( beginning at just over $ 85 ) is a pump gun in 12 or 16 .
+1
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Aside from the .22 Jet - which I coupled with the Deerstalker carbine as one of the year 's two biggest developments - few significant innovations appeared among 1961 's handguns .
+1
+#26 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::

@@ -1,0 +1,699 @@
+ Beth was very still and her breath came in small jerking gasps .
+1
+#7 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+The thin legs twitched convulsively once , then Kate felt the little body stiffening in her arms and heard one strangled sound .
+7
+#1 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#2 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#3 twitch VERB twitch%2:29:00::
+#9 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#12 body NOUN body%1:08:00::,body%1:08:02::
+#16 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#21 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+The scant flesh grew cool beneath her frantic hands .
+3
+#3 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#4 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+The child was gone .
+1
+#3 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+When Juanita awoke , Kate was still rocking the dead child , still crooning in disbelief , " No , no , oh , no ! "
+4
+#6 still ADV still%4:02:00::
+#7 rock VERB rock%2:38:06::
+#9 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#12 still ADV still%4:02:00::
+They put Kate to bed and wired Jonathan and sent for the young Presbyterian minister .
+3
+#4 bed NOUN bed%1:06:00::
+#6 wire VERB wire%2:32:00::
+#14 minister NOUN minister%1:18:00::
+He sat beside Kate 's bed with the others throughout the morning , talking , talking of God 's will , while Kate lay staring angrily at him .
+6
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 bed NOUN bed%1:06:00::
+#11 morning NOUN morning%1:28:00::,morning%1:28:01::
+#17 God NOUN god%1:18:00::
+#19 will NOUN will%1:09:01::,willpower%1:07:00::
+#23 lie VERB lie%2:35:00::,lie%2:38:00::
+When he told her God had called the child to Him , she rejected his words rebelliously .
+4
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#4 God NOUN god%1:18:00::
+#6 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#15 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+Few of the neighbors came , but Mrs. Tussle came , called by tragedy .
+4
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#11 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#13 tragedy NOUN tragedy%1:11:00::
+" It always comes in threes " , she sighed heavily .
+3
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#10 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+" Trouble never comes but in threes " .
+2
+#1 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+They held the funeral the next morning from the crossroads church and buried the little box in the quiet family plot .
+7
+#1 hold VERB hold%2:36:00::,holding%1:04:00::
+#6 morning NOUN morning%1:28:00::,morning%1:28:01::
+#12 bury VERB bury%2:39:00::
+#15 box NOUN box%1:06:00::,box%1:06:03::,box%1:23:00::,box%1:23:00::;1:06:00::
+#18 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#19 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#20 plot NOUN plot%1:15:00::
+Kate moved through all the preparations and services in a state of bewilderment .
+1
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+She would not accept the death of such a little child .
+1
+#2 not ADV not%4:02:00::
+" God called her to Him " , the minister had said .
+3
+#1 God NOUN god%1:18:00::
+#9 minister NOUN minister%1:18:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+God would not do that , Kate thought stubbornly .
+3
+#0 God NOUN god%1:18:00::
+#2 not ADV not%4:02:00::
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Jonathan 's letter came , as she knew it would , and he had accepted their child 's death as another judgment from God against both Kate and himself .
+6
+#2 letter NOUN letter%1:10:00::
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#21 judgment NOUN judgment%1:09:00::
+#23 God NOUN god%1:18:00::
+In blind panic of grief she accepted Jonathan 's dictum , and believed in her desperation that she had been cursed by God .
+6
+#1 blind ADJ blind%5:00:00:irrational:00
+#2 panic NOUN panic%1:12:00::
+#6 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#12 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#20 curse VERB curse%2:32:01::
+#22 God NOUN god%1:18:00::
+She held Jonathan 's letter , his words burning like a brand , and knew suddenly that the bonds between them were severed .
+6
+#1 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#4 letter NOUN letter%1:10:00::
+#7 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#8 burn VERB burn%2:37:00::,burn%2:39:04::,burn%2:43:01::
+#14 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 bond NOUN bond%1:06:01::,bond%1:07:00::,bond%1:24:00::
+She had nothing left but her duty to his land and his son .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 duty NOUN duty%1:04:00::,duty%1:04:02::
+#9 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+Joel came and sat mutely with her , sharing her pain and anguish , averting his eyes from the ice packs on her bosom .
+5
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#10 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#14 avert VERB avert%2:38:00::
+#16 eye NOUN eye%1:08:00::,eye%1:09:01::
+Juanita and Mrs. Tussle kept Kate in bed a week until her milk dried .
+3
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#7 bed NOUN bed%1:06:00::
+#13 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+When she returned to life in the big house she felt shriveled of all emotion save dedication to duty .
+6
+#2 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#4 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#7 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#10 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#16 dedication NOUN dedication%1:11:00::
+She had even steeled herself to keep Juanita upstairs in the nurse 's room off the empty nursery , although the girl tried to insist on moving back to the quarters to spare Kate remembrance of the baby 's death .
+8
+#6 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#13 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#16 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#21 girl NOUN girl%1:18:01::,girl%1:18:03::
+#22 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#30 quarter NOUN quarters%1:06:00::
+#32 spare VERB spare%2:41:00::
+#37 baby NOUN baby%1:05:00::
+Juanita drooped about the place , wearing a haunted , brooding look , which Kate attributed to the baby 's death , until the day a letter came for her addressed to " Miss Juanita Fitzroy " , bearing a Grafton postmark .
+9
+#4 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#6 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#10 brooding ADJ brooding%5:00:00:thoughtful:00
+#11 look NOUN look%1:04:00::,look%1:07:01::
+#18 baby NOUN baby%1:05:00::
+#24 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#26 letter NOUN letter%1:10:00::
+#27 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#38 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+Seeing the slanting hand , Kate knew uneasily that it was from the Yankee colonel .
+3
+#0 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 hand NOUN hand%1:09:00::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The Federal forces had taken Parkersburg and Grafton from the Rebels and were moving to take all the mountains .
+4
+#2 force NOUN force%1:14:01::,force%1:14:02::
+#4 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#13 move VERB move%2:29:06::,move%2:36:00::,move%2:37:00::,move%2:37:01::,move%2:38:01::
+#15 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+Kate tried to contain her curiosity and foreboding at what the letter portended , at what involvement existed for Juanita .
+5
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 contain VERB contain%2:33:00::,contain%2:41:00::
+#5 curiosity NOUN curiosity%1:09:00::
+#11 letter NOUN letter%1:10:00::
+#17 exist VERB exist%2:42:00::
+Uncle Randolph and Joel had replanted the bottom lands with difficulty , for more of the slaves , including Annie , had sneaked off when the soldiers broke camp .
+2
+#18 include VERB include%2:42:00::
+#26 soldier NOUN soldier%1:18:00::
+Joel worked like a field hand in the afternoons after school .
+2
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+He had been at lessons in the schoolhouse since they returned from Harpers Ferry .
+2
+#4 lesson NOUN lesson%1:04:01::
+#10 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Kate felt she had deserted the boy in her own loss .
+3
+#1 feel VERB feel%2:31:00::,feel%2:39:00::
+#6 boy NOUN boy%1:18:03::
+#9 own ADJ own%5:00:00:personal:00
+She loved him and missed his company .
+2
+#4 miss VERB miss%2:37:00::,miss%2:38:00::
+#6 company NOUN company%1:14:00::,company%1:18:00::,company%1:26:00::
+Uncle Randolph had been riding out every evening on some secret business of his own .
+3
+#4 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#7 evening NOUN evening%1:28:00::,evening%1:28:02::
+#14 own ADJ own%5:00:00:personal:00
+What it was Kate could not fathom .
+2
+#5 not ADV not%4:02:00::
+#6 fathom VERB fathom%2:31:00::
+He claimed to be visiting the waterfront saloon at the crossroads to play cards and drink with his cronies , but Kate had not smelled brandy on him since Mrs. Lattimer 's funeral .
+7
+#4 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#7 saloon NOUN saloon%1:06:01::
+#12 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#13 card NOUN cards%1:04:00::
+#15 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#23 not ADV not%4:02:00::
+#24 smell VERB smell%2:31:00::,smell%2:39:01::
+Joel knew what he was about , however .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 however ADV however%4:02:04::
+" You 're gonna get caught " , she heard Joel say to Uncle Randolph by the pump one morning .
+4
+#5 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 pump NOUN pump%1:06:00::
+#19 morning NOUN morning%1:28:00::,morning%1:28:01::
+" Not this old fox " , chuckled Uncle Randolph .
+2
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#4 fox NOUN fox%1:18:00::
+" Everybody knows I'm just a harmless , deaf old man who takes to drink .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 just ADV just%4:02:00::,just%4:02:03::
+I aim to keep a little whisky still back in the ridge for my pleasure " .
+4
+#1 aim VERB aim%2:31:00::
+#3 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#6 whiskey NOUN whiskey%1:13:00::
+#8 back ADV back%4:02:01::,back%4:02:04::
+" Whisky still , my foot " , said Joel .
+2
+#1 whiskey NOUN whiskey%1:13:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You 're back there riding with the guerrillas , the Moccasin Rangers " .
+3
+#3 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+" Hush " , said Uncle Randolph , smiling , " or I 'll give you another black eye " .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+He patted the eye Joel had had blackened in a fight over being Rebel at the crossroads some days back .
+4
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#6 have VERB have%2:40:00::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#19 back ADV back%4:02:01::,back%4:02:04::
+Kate had no idea what they were talking of , although she had seen the blue lights and strange fires burning and winking on the ridges at night , had heard horsemen on the River Road and hill trails through the nights till dawn .
+12
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 blue ADJ blue%5:00:00:chromatic:00
+#16 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#18 strange ADJ strange%3:00:00::
+#19 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#20 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#27 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#37 hill NOUN hill%1:06:01::,hill%1:17:00::
+#38 trail NOUN trail%1:06:00::
+#41 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+Stranger , Uncle Randolph began riding home nights with a jug strapped to his saddle , drunkenly singing " Old Dan Tucker " at the top of his voice .
+9
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#7 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#10 jug NOUN jug%1:06:00::
+#11 strap VERB strap%2:29:00::
+#14 saddle NOUN saddle%1:06:00::
+#17 sing VERB sing%2:32:08::,sing%2:36:01::
+#25 top NOUN top%1:07:02::,top%1:26:00::
+#28 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+Hearing his voice ring raucously up from the road , Kate would await him anxiously and watch perplexed as he walked into the house , cold sober .
+6
+#2 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#3 ring VERB ring%2:39:00::,ring%2:39:01::
+#8 road NOUN road%1:04:00::,road%1:06:00::
+#16 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#20 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#23 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+What he was about became clear to her with the circulation of another broadside proclamation by General McClellan , threatening reprisals against Rebel guerrillas .
+4
+#4 become VERB become%2:30:00::,become%2:42:01::
+#5 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#10 circulation NOUN circulation%1:10:00::
+#13 broadside NOUN broadside%1:04:00::
+Kate drew more and more on her affection for Joel through the hot days of summer work .
+5
+#7 affection NOUN affection%1:12:00::
+#12 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#15 summer NOUN summer%1:28:00::
+#16 work NOUN work%1:06:01::
+She had taken him out of the schoolhouse and closed the school for the summer , after she saw Miss Snow crack Joel across the face with a ruler for letting a snake loose in the schoolroom .
+9
+#9 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#14 summer NOUN summer%1:28:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#21 crack VERB crack%2:35:00::
+#25 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#28 ruler NOUN ruler%1:06:00::
+#32 snake NOUN snake%1:05:00::
+#33 loose ADJ loose%5:00:00:unofficial:00
+Kate had walked past the school on her morning chores and had seen the whole incident , had seen Joel 's burning humiliation before Miss Snow 's cold , bespectacled wrath .
+6
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#5 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#12 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 whole ADJ whole%3:00:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#27 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+He had the hardest pains of growing before him now , as he approached twelve .
+5
+#1 have VERB have%2:42:08::
+#3 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#6 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+These would be his hardest years , she knew , and he missed his father desperately .
+4
+#4 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 miss VERB miss%2:37:00::,miss%2:38:00::
+#14 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+She tried to find some way to draw him out , to help him .
+4
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#5 way NOUN way%1:04:00::,way%1:09:00::
+#12 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Whenever she found time , she went blackberry picking with him , and they would come home together , mouths purple , arms and faces scratched , tired enough to forget grief for another day .
+13
+#3 time NOUN time%1:28:01::,time%1:28:05::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 blackberry NOUN blackberry%1:13:00::
+#8 pick VERB pick%2:35:01::
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#16 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#17 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#19 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#22 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#24 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#25 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#28 enough ADV enough%4:02:00::
+#34 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+He tended the new colts Beau had sired .
+2
+#1 tend VERB tend%2:41:00::,tend%2:41:01::
+#3 new ADJ new%3:00:00::
+He helped Kate and Juanita enlarge the flower garden in the side yard , where they sometimes sat in the still evenings watching the last fat bees working against the summer 's purple dusk .
+8
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#17 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#21 evening NOUN evening%1:28:00::,evening%1:28:02::
+#22 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#24 last ADJ last%5:00:00:unlikely:00
+#26 bee NOUN bee%1:05:00::
+#27 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#30 summer NOUN summer%1:28:00::
+No one went much to the crossroads now except Uncle Randolph .
+2
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+They stayed in their own world on the bluff , waiting for letters and the peddler , bringing the news .
+5
+#4 own ADJ own%5:00:00:personal:00
+#5 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#8 bluff NOUN bluff%1:17:00::
+#10 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#12 letter NOUN letter%1:10:00::
+Jonathan wrote grimly of the destruction of Harpers Ferry before they abandoned it ; of their first engagement at Falling Waters after Old Jack 's First Brigade had destroyed all the rolling stock of the B + O Railroad .
+3
+#11 abandon VERB abandon%2:31:00::,abandon%2:40:00::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#17 engagement NOUN engagement%1:04:01::
+The men were restive , he wrote , ready to take the battle to the enemy as Jackson wished .
+2
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+The peddler came bawling his wares and told them of the convention in Wheeling , Which had formed a new state government by declaring the government at Richmond in the east illegal because they were traitors .
+8
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#3 bawl VERB bawl%2:32:00::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 convention NOUN convention%1:14:00::
+#17 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#23 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#25 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#30 east NOUN east%1:15:02::
+Dangling his gaudy trinkets before them , he told of the Rebel losses in the mountains , at Cheat and Rich mountains both , and the Federal march on Beverly .
+2
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#27 march NOUN march%1:04:02::,march%1:10:01::,march%1:14:00::
+" Cleaned all them Rebs out'n the hills , they did !
+1
+#7 hill NOUN hill%1:06:01::,hill%1:17:00::
+They won't never git over inter loyal western Virginia , them traitors !
+1
+#2 never ADV never%4:02:00::
+The Federals is making everybody take the oath of loyalty around these parts too " , he crowed .
+4
+#3 make VERB make%2:36:15::
+#7 oath NOUN oath%1:10:02::
+#12 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#13 too ADV too%4:02:01::
+After he had gone , Kate asked Uncle Randolph proudly , " Would you take their oath " ?
+3
+#3 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#16 oath NOUN oath%1:10:02::
+And the old man had given a sly and wicked laugh and said , " Hell , yes !
+3
+#10 laugh NOUN laugh%1:10:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 yes NOUN yes%1:10:00::
+I think I 've taken it about fifty times already " ! winking at Joel 's look of shock .
+5
+#1 think VERB think%2:31:01::,think%2:31:03::
+#8 time NOUN time%1:11:00::
+#9 already ADV already%4:02:00::
+#16 look NOUN look%1:04:00::,look%1:07:01::
+#18 shock NOUN shock%1:26:00::
+Her mother wrote Kate of her grief at the death of Kate 's baby and at Jonathan 's decision to go with the South " And , dear Kate " , she wrote , " poor Dr. Breckenridge 's son Robert is now organizing a militia company to go South , to his good father 's sorrow .
+14
+#1 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#2 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#13 baby NOUN baby%1:05:00::
+#23 south NOUN south%1:15:01::
+#27 dear ADJ dear%5:00:00:close:02
+#32 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#35 poor ADJ poor%5:00:00:unfortunate:00
+#42 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#43 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#46 company NOUN company%1:14:02::,company%1:14:03::
+#48 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#49 south NOUN south%1:15:01::
+#53 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#54 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+In spite of the fact that the state legislature voted us neutral , John Hunt Morgan is openly flying the Confederate flag over his woolen factory " !
+3
+#11 neutral ADJ neutral%5:00:00:nonaligned:00
+#18 fly VERB fly%2:38:01::,fly%2:39:00::
+#25 factory NOUN factory%1:06:00::
+Rumor of a big battle spread like a grassfire up the valley .
+2
+#3 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#5 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+Accounts were garbled at the telegraph office when they sent old George down to Parkersburg for the news .
+5
+#0 account NOUN account%1:10:03::
+#6 office NOUN office%1:06:00::
+#9 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#10 old ADJ old%3:00:01::,old%3:00:02::
+#12 down ADV down%4:02:00::,down%4:02:02::
+" All dey know down dere is it were at Manassas Junction and it were a big fight " , the old man told them .
+4
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 down ADV down%4:02:00::,down%4:02:02::
+#16 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#23 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+In the next few days they had cause to rejoice .
+4
+#2 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#4 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+It had been a big battle , and the Confederate forces had won .
+3
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#10 force NOUN force%1:14:01::,force%1:14:02::
+#12 win VERB win%2:33:00::
+Jonathan and Ben were not on the lists of the dead or on that of the missing .
+2
+#4 not ADV not%4:02:00::
+#7 list NOUN list%1:10:00::
+Kate and Mrs. Tussle waited for letters anxiously .
+2
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#6 letter NOUN letter%1:10:00::
+Joel went to the crest of a hill behind the house and lit an enormous victory bonfire to celebrate .
+5
+#4 crest NOUN crest%1:15:01::
+#7 hill NOUN hill%1:06:01::,hill%1:17:00::
+#10 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#12 light VERB light%2:34:00::,light%2:43:00::
+#18 celebrate VERB celebrate%2:41:00::,celebrate%2:41:02::
+When Kate hurried in alarm to tell him to put it out , she saw other dots of flames among the western Virginia hills from the few scattered fires of the faithful .
+8
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 dot NOUN dot%1:25:00::
+#18 flame NOUN flame%1:22:00::
+#21 western ADJ western%3:00:02::,western%5:00:01:west:00
+#22 Virginia NOUN virginia%1:15:00::
+#23 hill NOUN hill%1:06:01::,hill%1:17:00::
+#28 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+They all prayed now that the North would realize that peace must come , for Virginia had defended her land victoriously .
+6
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 north NOUN north%1:15:02::
+#8 realize VERB realize%2:31:01::
+#10 peace NOUN peace%1:10:00::,peace%1:26:00::,peace%1:26:01::,peace%1:26:02::
+#12 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#19 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+The week after Manassas the sound of horses in the yard brought Kate up in shock from an afternoon 's rest when she saw the Federal soldiers from her upstairs window .
+7
+#5 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#7 horse NOUN horse%1:05:00::,horse%1:14:00::
+#15 shock NOUN shock%1:26:00::
+#20 rest NOUN rest%1:04:00::,rest%1:10:00::,rest%1:26:00::,rest%1:28:00::
+#23 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#26 soldier NOUN soldier%1:18:00::
+#30 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+They had already lost most of their corn , she thought .
+3
+#2 already ADV already%4:02:00::
+#3 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#7 corn NOUN corn%1:20:02::
+Were they to be insulted again because of the South 's great victory ?
+2
+#9 south NOUN south%1:15:01::
+#11 great ADJ great%5:00:01:extraordinary:00
+She remembered McClellan 's last proclamation as she hurried fearfully down the stairs .
+2
+#4 last ADJ last%5:00:00:unlikely:00
+#9 fearfully ADV fearfully%4:02:01::
+At the landing she saw Juanita , her face flushed pink with excitement , run down the hall from the kitchen to the front door .
+8
+#2 landing NOUN landing%1:06:01::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#9 flush VERB flush%2:29:00::
+#10 pink NOUN pink%1:07:00::
+#14 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#17 hall NOUN hall%1:06:03::,hall%1:06:05::
+#20 kitchen NOUN kitchen%1:06:00::
+Juanita stopped just inside the open door , her hand to her mouth .
+6
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#2 just ADV just%4:02:04::
+#3 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#5 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#9 hand NOUN hand%1:08:00::,hand%1:10:01::
+#12 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+As Kate came swiftly down the stairs to the hall she saw Colonel Marsh framed in the doorway , his face set in the same vulnerable look Juanita wore .
+8
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 hall NOUN hall%1:06:03::,hall%1:06:05::
+#11 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#21 set VERB set%2:29:05::,set%2:30:01::,set%2:30:07::,set%2:35:15::
+#24 same ADJ same%3:00:00::,same%3:00:02::
+#26 look NOUN look%1:04:00::,look%1:07:01::
+#28 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+Kate greeted him gravely , uneasy with misgivings at his visit .
+1
+#1 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+" What brings you here again , Colonel Marsh " ? she asked , taking him and Juanita into the parlor where the shutters were closed against the afternoon sun .
+6
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#12 ask VERB ask%2:32:00::,ask%2:32:04::
+#14 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#20 parlor NOUN parlor%1:06:00::
+#23 shutter NOUN shutter%1:06:00::
+#25 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+" I stopped to say goodbye , Mrs. Lattimer , and to tell you how sorry I was to hear about your baby .
+5
+#2 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 sorry ADJ sorry%3:00:02::
+#22 baby NOUN baby%1:05:00::
+I wish our doctor could have saved her " .
+2
+#3 doctor NOUN doctor%1:18:00::
+#6 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+" It was a terrible loss to me " , said Kate quietly , feeling the pain twist again at the mention , knowing now that Juanita must have written to him at Grafton .
+7
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#16 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#17 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#23 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#29 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+" Where will you go now that you 're leaving Parkersburg " ?
+3
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 leave VERB leave%2:38:00::,leave%2:41:00::
+she asked him , seeing Juanita 's eyes grow bleak .
+3
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#7 eye NOUN eye%1:08:00::,eye%1:09:01::
+#8 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+" As you know , General McClellan has been occupying Beverly .
+2
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 occupy VERB occupy%2:42:02::
+He has notified me that he has orders to go to Washington to take over the Army of the Potomac .
+2
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+I am to go to Washington to serve with him " .
+1
+#7 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+" When are you to leave " ?
+1
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+Kate asked , watching them both now anxiously .
+3
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Their eyes betrayed too much of their emotions , she thought sadly .
+3
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+#2 betray VERB betray%2:32:01::
+#10 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Would you permit Juanita to walk about the grounds with me for a short spell , Mrs. Lattimer " ?
+3
+#8 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#13 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#14 spell NOUN spell%1:28:01::
+" Stay here in the parlor where it 's cool " , she said , trying to be calm .
+7
+#1 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#5 parlor NOUN parlor%1:06:00::
+#9 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#18 calm ADJ calm%5:00:00:composed:00
+It would be better for Joel and Uncle Randolph and Mrs. Tussle not to see them .
+2
+#3 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Kate went back and reminded the kitchen women of the supper preparations .
+1
+#6 kitchen NOUN kitchen%1:06:00::
+Then she took iced lemonade to Marsh 's young aide where he sat in the cool of the big trees around the flower garden .
+7
+#0 then ADV then%4:02:00::
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#3 iced ADJ ice%2:30:03::
+#12 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#15 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#18 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#19 tree NOUN tree%1:20:00::
+When Marsh called to his aide and the pair rode off down the River Road where the gentians burned blue , Juanita was shaken and trying not to cry .
+2
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#25 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+She sought Kate out upstairs , her lips trembling .
+1
+#7 lip NOUN lip%1:08:00::,lip%1:20:00::
+" He wants me to go with him tomorrow " , she told Kate .
+3
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Kate asked , uneasy at the gravity of the girl 's dilemma .
+3
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#6 gravity NOUN gravity%1:07:00::
+#9 girl NOUN girl%1:18:01::,girl%1:18:03::
+" I could go with him .
+1
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+He knows me as your niece , which , of course , I am .
+1
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+You own me .
+1
+#1 own VERB owned%3:00:00::
+It 's your decision " , said Juanita , holding her face very still , trying to contain the bitterness of her voice as she enunciated her words too distinctly .
+9
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#11 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#17 contain VERB contain%2:33:00::,contain%2:41:00::
+#19 bitterness NOUN bitterness%1:12:00::
+#22 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#27 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#28 too ADV too%4:02:00::
+I have held your papers of manumission since I married Mr. Lattimer " .
+2
+#2 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#9 marry VERB marry%2:41:00::,marry%2:41:01::

@@ -1,0 +1,612 @@
+ An analysis of the election falls naturally in four parts .
+2
+#5 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#9 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+First is the long and still somewhat obscure process of preparation , planning and discussion .
+4
+#0 first ADJ first%3:00:00::,first%4:02:00::
+#3 long ADJ long%3:00:02::
+#5 still ADV still%4:02:00::
+#12 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+Preparation began slightly more than a year after independence with the first steps to organize rural communes .
+4
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#2 slightly ADV slightly%4:02:01::
+#14 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#16 commune NOUN commune%1:15:00::
+All political interests supported electoral planning , although there are some signs that the inherent uncertainties of a popular judgment led to some procrastination .
+7
+#2 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#3 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#5 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#11 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#18 popular ADJ popular%5:00:00:democratic:00
+#19 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#20 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+The second major aspect of the election is the actual procedure of registration , nomination and voting .
+4
+#2 major ADJ major%3:00:05::,major%3:00:06::
+#3 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#9 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#12 registration NOUN registration%1:10:00::
+Considerable technical skill was used and the administration of the elections was generally above reproach .
+4
+#1 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 administration NOUN administration%1:04:00::
+#12 generally ADV generally%4:02:01::
+However , the regionally differentiated results , which appear below in tables , are interesting evidence of the problems of developing self-government under even the most favorable circumstances .
+8
+#0 however ADV however%4:02:04::
+#8 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#11 table NOUN table%1:14:00::
+#18 problem NOUN problem%1:09:00::,problem%1:26:00::
+#21 self-government NOUN self-government%1:26:00::
+#25 most ADV most%4:02:00::
+#26 favorable ADJ favorable%5:00:00:propitious:00
+#27 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+A third aspect , and probably the one open to most controversy , is the results of the election .
+1
+#2 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+The electoral procedure prevented the ready identification of party affiliation , but all vitally interested parties , including the government itself , were busily engaged in determining the party identifications of all successful candidates the month following the elections .
+10
+#3 prevent VERB prevent%2:41:00::
+#5 ready ADJ ready%3:00:00::,ready%5:00:00:intelligent:00,ready%5:00:01:available:00
+#8 party NOUN party%1:14:02::
+#14 interested ADJ interested%5:00:00:involved:00
+#17 include VERB include%2:42:00::
+#19 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#24 engage VERB engage%2:40:00::,engage%2:40:01::,engage%2:41:06::
+#26 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#28 party NOUN party%1:14:02::
+#36 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+The fourth and concluding point will be to estimate the long-run significance of the elections and how they figure in the current pattern of internal politics .
+3
+#4 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#11 significance NOUN significance%1:07:00::
+#22 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+Elections have figured prominently in nearly every government program and official address since independence .
+5
+#2 figure VERB figure%2:42:00::
+#5 nearly ADV nearly%4:02:00::
+#7 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#11 address NOUN address%1:10:00::,address%1:10:03::
+They were stressed in the speeches of Si Mubarak Bekkai when the first Council of Ministers was formed and again when the Istiqlal took a leading role in the second Council .
+6
+#2 stress VERB stress%2:32:00::,stress%2:32:01::
+#5 speech NOUN speech%1:10:00::,speech%1:10:02::
+#12 first ADJ first%3:00:00::,first%4:02:00::
+#17 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#23 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#29 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+King Muhammad /5 , was known to be most sympathetic to the formation of local self-government and made the first firm promise of elections on May Day , 1957 .
+8
+#5 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#8 most ADV most%4:02:00::
+#9 sympathetic ADJ sympathetic%3:00:00::,sympathetic%5:00:00:kind:00
+#12 formation NOUN formation%1:04:01::
+#15 self-government NOUN self-government%1:26:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 first ADJ first%3:00:00::,first%4:02:00::
+#20 firm ADJ firm%5:00:00:faithful:00,firm%5:00:00:resolute:00,firm%5:00:00:settled:02,firm%5:00:02:stable:00
+There followed a long and sometimes bitter discussion of the feasibility of elections for the fall of 1957 , in which it appears that the Minister of the Interior took the most pessimistic view and that the Istiqlal was something less than enthusiastic .
+7
+#1 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#6 bitter ADJ bitter%5:00:00:hostile:01,bitter%5:00:00:resentful:00
+#15 fall NOUN fall%1:11:03::
+#22 appear VERB appear%2:30:00::
+#29 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#31 most ADV most%4:02:00::
+#33 view NOUN view%1:09:04::
+Since the complicated process of establishing new communes and reviewing the rudimentary plan left by the French did not even begin until the fall of 1957 , this goal appears somewhat ambitious .
+13
+#2 complicated ADJ complicated%5:00:00:complex:00
+#3 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#5 establish VERB establish%2:36:01::,establish%2:41:00::
+#6 new ADJ new%3:00:00::
+#7 commune NOUN commune%1:14:00::
+#9 review VERB review%2:31:00::,review%2:32:00::
+#12 plan NOUN plan%1:06:00::,plan%1:09:01::
+#13 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#18 not ADV not%4:02:00::
+#20 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#23 fall NOUN fall%1:11:03::
+#28 goal NOUN goal%1:09:00::,goal%1:15:00::
+#29 appear VERB appear%2:30:00::
+From the very beginning the electoral discussions raised fundamental issues in Moroccan politics , precisely the type of questions that were most difficult to resolve in the new government .
+5
+#9 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#16 type NOUN type%1:18:00::
+#21 most ADV most%4:02:01::
+#24 resolve VERB resolve%2:31:01::,resolve%2:32:00::
+#28 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+Until the Charter of Liberties was issued in the fall of 1958 , there were no guarantees of the right to assemble or to organize for political purposes .
+6
+#6 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#9 fall NOUN fall%1:11:03::
+#16 guarantee NOUN guarantee%1:10:00::
+#19 right NOUN right%1:07:00::,right%1:21:00::
+#21 assemble VERB assemble%2:41:03::
+#24 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+The Istiqlal was still firmly united in 1957 , but the P.D.I. ( Parti Democratique de l'Independance ) , the most important minor party at the time , objected to the Istiqlal 's predominance in the civil service and influence in Radio Maroc .
+4
+#3 still ADV still%4:02:00::
+#20 most ADV most%4:02:00::
+#22 minor ADJ minor%3:00:07::
+#23 party NOUN party%1:14:02::
+There were rumors that the Ministry of the Interior favored an arbitrary , " non-political " process , which were indirectly affirmed when the King personally intervened in the planned meetings .
+8
+#9 favor VERB favor%2:31:00::,favor%2:41:00::
+#16 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#20 indirectly ADV indirectly%4:02:00::
+#21 affirm VERB affirm%2:31:00::
+#24 king NOUN king%1:18:01::,king%1:26:00::
+#25 personally ADV personally%4:02:03::
+#26 intervene VERB intervene%2:30:00::
+#30 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+The day following his intervention the palace issued a statement reassuring the citizens that " the possibility of introducing appeals concerning the establishment of electoral lists , lists of candidates and finally the holding of the consultation itself " would be supported by the King himself .
+12
+#1 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#2 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#7 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#18 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#19 appeal NOUN appeal%1:04:00::,appeal%1:10:00::
+#20 concern VERB concern%2:42:00::,concern%2:42:01::
+#22 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#25 list NOUN list%1:10:00::
+#27 list NOUN list%1:10:00::
+#33 hold VERB hold%2:36:00::,holding%1:04:00::
+#41 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#44 king NOUN king%1:18:01::,king%1:26:00::
+The Ifni crisis in the fall of 1957 postponed further consideration of elections , but French consultants were called in and notices of further investigation appeared from time to time .
+8
+#5 fall NOUN fall%1:11:03::
+#9 further ADJ further%5:00:00:far:00
+#10 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#15 French ADJ french%3:01:00::
+#16 consultant NOUN consultant%1:18:00::
+#21 notice NOUN notice%1:10:00::
+#23 further ADJ further%5:00:00:far:00
+#25 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+In January , 1958 , the Minister of the Interior announced that an election law was ready to be submitted to the King , the rumors of election dates appeared once again , first for spring of 1958 and later for the summer .
+8
+#14 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#16 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#19 submit VERB submit%2:32:00::,submit%2:32:01::
+#22 king NOUN king%1:18:01::,king%1:26:00::
+#28 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#29 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#35 spring NOUN spring%1:28:00::
+#42 summer NOUN summer%1:28:00::
+Although the government was probably prepared for elections by mid - 1958 , the first decision was no doubt made more difficult as party strife multiplied .
+5
+#2 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#14 first ADJ first%3:00:00::,first%4:02:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 more ADV more%4:02:00::
+#23 party NOUN party%1:14:02::
+In late 1957 the M.P. ( Mouvement Populaire ) appeared and in the spring of 1958 the internal strains of the Istiqlal was revealed when the third Council of Government under Balafrej was formed without support from progressive elements in the party .
+9
+#1 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#9 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#13 spring NOUN spring%1:28:00::
+#18 strain NOUN strain%1:26:02::
+#33 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#35 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#37 progressive ADJ progressive%5:00:00:liberal:00
+#38 element NOUN element%1:06:00::,element%1:09:00::
+#41 party NOUN party%1:14:02::
+The parties were on the whole unprepared for elections , while the people were still experiencing post independence let-down and suffering the after effects of poor harvests in 1957 .
+6
+#1 party NOUN party%1:14:02::
+#12 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#14 still ADV still%4:02:00::
+#18 letdown NOUN letdown%1:12:00::
+#20 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#25 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+Despite the internal and international crises that harassed Morocco the elections remained a central issue .
+2
+#13 central ADJ central%5:00:00:important:00
+#14 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+They figured prominently in the Balafrej government of May , 1958 , which the King was reportedly determined to keep in office until elections could be held .
+6
+#1 figure VERB figure%2:42:00::
+#6 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#14 king NOUN king%1:18:01::,king%1:26:00::
+#19 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#21 office NOUN office%1:04:02::,office%1:14:01::,office%1:26:00::
+#26 hold VERB hold%2:36:00::,holding%1:04:00::
+But the eagerly sought " homogeneity " of the Balafrej Council of Government was never achieved as the Istiqlal quarreled over foreign policy , labor politics and economic development .
+4
+#14 never ADV never%4:02:00::
+#24 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#27 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#28 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+By December , 1958 , when ' Abdallah Ibrahim became President of the Council , elections had even greater importance .
+3
+#9 become VERB become%2:30:00::,become%2:42:01::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+They were increasingly looked upon as a means of establishing the new rural communes as the focus of a new , constructive national effort .
+4
+#7 means NOUN means%1:06:00::
+#9 establish VERB establish%2:36:01::,establish%2:41:00::
+#13 commune NOUN commune%1:14:00::
+#21 constructive ADJ constructive%3:00:00::
+To minimize the chances of repeating the Balafrej debacle the Ibrahim government was formed a titre personnel and a special office was created in the Ministry of the Interior to plan and to conduct the elections .
+6
+#3 chance NOUN chance%1:07:00::,chance%1:26:00::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#13 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#20 office NOUN office%1:04:02::,office%1:14:01::,office%1:26:00::
+#30 plan VERB plan%2:31:00::,plan%2:31:01::
+#33 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+By this time there is little doubt but what election plans were complete .
+2
+#10 plan NOUN plan%1:09:00::
+#12 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+There remained only the delicate task of maneuvering the laws through the labyrinth of Palace politics and making a small number of policy decisions .
+7
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 delicate ADJ delicate%5:00:00:sensitive:01
+#7 maneuver VERB maneuver%2:41:03::
+#9 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#12 labyrinth NOUN labyrinth%1:06:00::
+#20 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#22 policy NOUN policy%1:09:00::,policy%1:10:00::
+From the rather tortuous history of electoral planning in Morocco an important point emerges concerning the first elections in a developing country and evaluating their results .
+7
+#2 rather ADV rather%4:02:00::,rather%4:02:04::
+#4 history NOUN history%1:28:00::
+#7 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#12 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#14 concern VERB concern%2:42:00::,concern%2:42:01::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#21 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+In the new country the electoral process is considered as a means of resolving fundamental , and sometimes bitter , differences among leaders and also as a source of policy guidance .
+7
+#3 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#6 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#11 means NOUN means%1:06:00::
+#13 resolve VERB resolve%2:31:01::,resolve%2:32:00::
+#22 leader NOUN leader%1:18:00::
+#29 policy NOUN policy%1:09:00::,policy%1:10:00::
+#30 guidance NOUN guidance%1:10:00::
+In the absence of a reservoir of political consensus each organized political group hopes that the elections will give them new prominence , but in a system where there is as yet no place for the less prominent .
+4
+#21 prominence NOUN prominence%1:26:00::
+#26 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#33 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#36 less ADV less%4:02:00::,less%4:02:01::
+Lacking the respected and effective institutions that consensus helps provide , minority parties , such as the P.D.I. in 1957 and the progressive Istiqlal faction in 1958 , clamor for elections when out of power , but are not at all certain they wish to be controlled by popular choice when in power .
+13
+#4 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#5 institution NOUN institution%1:14:00::
+#8 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#9 provide VERB provide%2:34:00::,provide%2:40:00::
+#11 minority NOUN minority%1:07:00::
+#12 party NOUN party%1:14:02::
+#22 progressive ADJ progressive%5:00:00:liberal:00
+#24 faction NOUN faction%1:14:00::
+#34 power NOUN power%1:18:00::
+#38 not ADV not%4:02:00::
+#41 certain ADJ certain%3:00:01::
+#46 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#52 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+Those in power tend to procrastinate and even to repudiate the electoral process .
+3
+#2 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#3 tend VERB tend%2:42:01::
+#12 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+The tendency to treat elections as an instrument of self-interest rather than an instrument of national interest had two important effects on electoral planning in Morocco .
+6
+#3 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#7 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#13 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#17 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#20 effect NOUN effect%1:09:00::,effect%1:19:00::
+#23 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+At the central level the scrutin uninominal voting system was selected over some form of the scrutin de liste system , even though the latter had been recommended by Duverger and favored by all political parties .
+6
+#2 central ADJ central%5:00:00:important:00
+#3 level NOUN level%1:26:00::,level%1:26:01::
+#13 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#24 latter ADJ latter%3:00:00::
+#27 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#31 favor VERB favor%2:31:00::,favor%2:41:00::
+The choice of the single member district was dictated to a certain extent by problems of communication and understanding in the more remote areas of the country , but it also served to minimize the national political value of the elections .
+10
+#4 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#5 member NOUN member%1:18:00::,member%1:24:00::
+#8 dictate VERB dictate%2:32:00::
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+#16 communication NOUN communication%1:03:00::,communication%1:10:01::
+#22 remote ADJ remote%5:00:00:unlikely:00
+#23 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#26 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#31 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#37 value NOUN value%1:21:00::,values%1:09:00::
+Although the elections were for local officials , it was not necessary to conduct the elections so as to prevent parties from publicly identifying their candidates .
+5
+#10 not ADV not%4:02:00::
+#11 necessary ADJ necessary%3:00:00::
+#13 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#19 prevent VERB prevent%2:41:00::
+#20 party NOUN party%1:14:02::
+With multiple member districts the still fragmentary local party organizations could have operated more effectively and parties might have been encouraged to state their positions more clearly .
+10
+#2 member NOUN member%1:18:00::,member%1:24:00::
+#5 still ADV still%4:02:00::
+#8 party NOUN party%1:14:02::
+#9 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#12 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#13 more ADV more%4:02:00::
+#16 party NOUN party%1:14:02::
+#22 state VERB state%2:32:01::,state%2:32:02::
+#24 position NOUN position%1:09:00::
+#25 more ADV more%4:02:00::
+Both parties and the Ministry of the Interior were busily at work after the elections trying to unearth the political affiliations of the successful candidates and , thereby , give the elections a confidential but known degree of national political significance .
+5
+#1 party NOUN party%1:14:02::
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#29 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#36 degree NOUN degree%1:26:01::
+#40 significance NOUN significance%1:07:00::
+Since a national interpretation cannot be avoided it is unfortunate that the elections were not held in a way to maximize party responsibility and the educational effect of mass political participation .
+6
+#6 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#14 not ADV not%4:02:00::
+#15 hold VERB hold%2:36:00::,holding%1:04:00::
+#18 way NOUN way%1:04:00::,way%1:09:00::
+#21 party NOUN party%1:14:02::
+#26 effect NOUN effect%1:09:00::,effect%1:19:00::
+The general setting of the Moroccan election may also encourage the deterioration of local party organization .
+2
+#2 setting NOUN setting%1:06:00::
+#14 party NOUN party%1:14:02::
+The concentration of effective power in Rabat leads not only to party bickering , but to distraction from local activity that might have had many auxiliary benefits in addition to contributing to more meaningful elections .
+9
+#1 concentration NOUN concentration%1:07:03::,concentration%1:11:00::
+#3 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#4 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#11 party NOUN party%1:14:02::
+#16 distraction NOUN distraction%1:04:02::
+#19 activity NOUN activity%1:04:00::,activity%1:26:00::
+#23 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#26 benefit NOUN benefit%1:07:00::
+Interesting evidence can be found in the results of the Chamber of Commerce elections , which took place three weeks before national elections .
+1
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The Istiqlal sponsored U.M.C.I.A. ( L'Union Marocaine des Commercants , Industrialistes et Artisans ) was opposed by candidates of the new U.N.F.P. ( L'Union National des Forces Populaires ) in nearly all urban centers .
+2
+#2 sponsor VERB sponsor%2:40:00::
+#30 nearly ADV nearly%4:02:00::
+As the more conservative group with strong backing from wealthy businessmen , the U.M.C.I.A. was generally favored against the more progressive , labor based U.N.F.P. The newer party campaigned heavily , while the older , more confident party expected the Moroccan merchants and small businessmen to support them as they had done for many years .
+14
+#6 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#7 backing NOUN backing%1:04:00::
+#10 businessman NOUN businessman%1:18:00::
+#15 generally ADV generally%4:02:02::
+#16 favor VERB favor%2:31:00::,favor%2:41:00::
+#20 progressive ADJ progressive%5:00:00:liberal:00
+#22 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#27 party NOUN party%1:14:02::
+#29 heavily ADV heavily%4:02:00::
+#33 old ADJ old%3:00:01::
+#37 party NOUN party%1:14:02::
+#41 merchant NOUN merchant%1:18:00::
+#46 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#54 year NOUN year%1:28:00::,year%1:28:01::
+The local Istiqlal and U.M.C.I.A. offices did not campaign and lost heavily .
+4
+#5 office NOUN office%1:06:00::
+#7 not ADV not%4:02:00::
+#10 lose VERB lose%2:30:03::,lose%2:33:00::
+#11 heavily ADV heavily%4:02:00::
+The value of the elections was lost , both as an experiment in increased political participation and as a reliable indicator of commercial interest , as shown in Table /1 , .
+5
+#1 value NOUN value%1:21:00::,values%1:09:00::
+#6 lost ADJ lost%3:00:01::
+#20 indicator NOUN indicator%1:10:00::
+#22 commercial ADJ commercial%3:00:00::
+#28 table NOUN table%1:14:00::
+The chamber of Commerce elections were , of course , an important event in the preparation for rural commune elections .
+1
+#18 commune NOUN commune%1:14:00::
+The U.N.F.P. learned that its urban organization , which depends heavily on U.M.T. support , was most effective .
+6
+#2 learn VERB learn%2:31:01::,learn%2:31:03::
+#5 urban ADJ urban%3:01:00::
+#10 heavily ADV heavily%4:02:00::
+#13 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#16 most ADV most%4:02:00::
+#17 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+The Istiqlal found that the spontaneous solidarity of the independence struggle was not easily transposed to the more concrete , precise problems of internal politics .
+5
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#6 solidarity NOUN solidarity%1:07:00::
+#12 not ADV not%4:02:00::
+#13 easily ADV easily%4:02:01::,easily%4:02:06::
+#21 problem NOUN problem%1:09:00::,problem%1:26:00::
+The overall effect was probably to stimulate more party activity in the communal elections than might have otherwise taken place .
+5
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#8 party NOUN party%1:14:02::
+#9 activity NOUN activity%1:04:00::,activity%1:26:00::
+#12 communal ADJ communal%3:01:02::
+#17 otherwise ADV otherwise%4:02:03::
+A second major point of this essay is to examine the formal arrangements for the elections .
+6
+#2 major ADJ major%3:00:05::,major%3:00:06::
+#3 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#6 essay NOUN essay%1:10:00::
+#9 examine VERB examine%2:31:00::,examine%2:32:01::
+#11 formal ADJ formal%5:00:00:nonrepresentational:00
+#12 arrangement NOUN arrangement%1:09:01::
+Although a somewhat technical subject , it has important political implications as the above discussion of the voting system indicated .
+4
+#4 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 implication NOUN implication%1:09:00::
+#19 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+Furthermore , the problems and solutions devised in the electoral experiences of the rapidly changing countries are often of comparative value and essential to evaluating election results .
+7
+#3 problem NOUN problem%1:09:00::,problem%1:26:00::
+#5 solution NOUN solution%1:09:00::,solution%1:10:00::
+#6 devise VERB devise%2:36:00::
+#15 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#19 comparative ADJ comparative%3:00:00::
+#20 value NOUN value%1:21:00::,values%1:09:00::
+#22 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+The sine qua non of the elections was naturally an impartial and standardized procedure .
+1
+#8 naturally ADV naturally%4:02:00::
+As the background discussion indicated there were frequently expressed doubts that a government dominated by either party could fairly administer elections .
+7
+#2 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+#4 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#8 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#12 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#16 party NOUN party%1:14:02::
+#18 fairly ADV fairly%4:02:03::
+#19 administer VERB administer%2:41:00::
+The P.D.I. and later the Popular Movement protected the Istiqlal 's " privileged position " until the fall of Balafrej , and then the Istiqlal used the same argument , which it had previously ignored , against the pro U.N.F.P. tendencies of the Ibrahim government .
+7
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#13 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#17 fall NOUN fall%1:04:02::,fall%1:04:03::,fall%1:11:03::
+#25 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#27 same ADJ same%3:00:00::,same%3:00:02::
+#28 argument NOUN argument%1:10:02::
+#44 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+The bulk of the preparation had , of course , proceeded under the supervision of the Ministry of the Interior , whose officials are barred from party activity and probably generally disinterested in party politics .
+6
+#24 bar VERB bar%2:32:00::
+#26 party NOUN party%1:14:02::
+#27 activity NOUN activity%1:04:00::,activity%1:26:00::
+#30 generally ADV generally%4:02:01::
+#31 disinterested ADJ disinterested%5:00:00:impartial:00
+#33 party NOUN party%1:14:02::
+Apart from some areas of recurring trouble , like Bani Mellal , where inexperienced officials had been appointed , there is little evidence that local officials intervened in the electoral process .
+6
+#0 apart ADV apart%4:02:01::,apart%4:02:06::
+#3 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#6 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#17 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#26 intervene VERB intervene%2:30:00::
+#30 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+Centrally , however , the administrative problem was more complex and the sheer prestige of office was very likely an unfair advantage .
+5
+#2 however ADV however%4:02:04::
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+#9 complex ADJ complex%3:00:00::
+#12 sheer ADJ sheer%5:00:00:complete:00
+#15 office NOUN office%1:04:02::,office%1:14:01::,office%1:26:00::
+The King decided to remove Ibrahim a week before elections and to institute a non-party Council of Government under his personal direction .
+4
+#1 king NOUN king%1:18:01::,king%1:26:00::
+#4 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#12 institute VERB institute%2:36:01::
+#20 personal ADJ personal%5:00:00:subjective:00
+Although the monarch had frequently asserted that the elections were to be without party significance , his action was an implicit admission that party identifications were a factor .
+8
+#2 monarch NOUN monarch%1:18:00::
+#13 party NOUN party%1:14:02::
+#14 significance NOUN significance%1:07:00::
+#17 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#20 implicit ADJ implicit%3:00:00::
+#21 admission NOUN admission%1:10:00::
+#23 party NOUN party%1:14:02::
+#27 factor NOUN factor%1:08:00::,factor%1:18:00::
+The new Council was itself inescapably of political meaning , which was most clearly revealed in the absence of any U.N.F.P. members and the presence of several Istiqlal leaders .
+4
+#8 meaning NOUN meaning%1:09:00::
+#12 most ADV most%4:02:00::
+#21 member NOUN member%1:18:00::,member%1:24:00::
+#28 leader NOUN leader%1:18:00::
+Since the details of the elections were settled the change of government had no direct effect on the technical aspects of the elections , and may have been more important as an indication of royal displeasure with the U.N.F.P.
+8
+#2 detail NOUN detail%1:10:00::,detail%1:24:00::
+#7 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#9 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#15 effect NOUN effect%1:09:00::,effect%1:19:00::
+#19 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+Voting preparations began in the fall of 1959 , although the actual demarcation and planning for the rural communes was completed in 1958 .
+5
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 fall NOUN fall%1:11:03::
+#14 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#18 commune NOUN commune%1:14:00::
+#20 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+There were three major administrative tasks : the fixing of electoral districts , the registration of voters and the registration of candidates .
+4
+#3 major ADJ major%3:00:05::,major%3:00:06::
+#8 fix NOUN fix%1:04:00::
+#14 registration NOUN registration%1:10:00::
+#19 registration NOUN registration%1:10:00::
+Voter registration began in late November 1959 and continued until early January , 1960 .
+6
+#1 registration NOUN registration%1:10:00::
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#5 November NOUN november%1:28:00::
+#8 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#10 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+The government was most anxious that there be a respectable response .
+3
+#1 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#3 most ADV most%4:02:01::
+#4 anxious ADJ anxious%5:00:00:troubled:00
+Periodic bulletins of the accomplishment in each province made the registration process into a kind of competition among provincial officials .
+6
+#0 periodic ADJ periodic%3:00:00::
+#7 province NOUN province%1:15:00::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 registration NOUN registration%1:10:00::
+#11 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#18 provincial ADJ provincial%3:00:00::
+A goal was fixed , as given in Table 2 , and attention focused on its fulfillment .
+6
+#1 goal NOUN goal%1:09:00::,goal%1:15:00::
+#3 fix VERB fix%2:30:00::,fix%2:32:03::,fix%2:35:01::
+#6 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#8 table NOUN table%1:14:00::
+#12 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#16 fulfillment NOUN fulfillment%1:04:00::
+The qualifications to vote were kept very simple .
+3
+#1 qualification NOUN qualification%1:07:00::
+#5 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#7 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+Both men and women of twenty-one years of age could register and vote upon presenting proof of residence and identification .
+4
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+#14 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#15 proof NOUN proof%1:09:00::
+There were liberal provisions for dispensation where documents or records were lacking .
+4
+#2 liberal ADJ liberal%5:00:00:generous:01
+#3 provision NOUN provision%1:10:00::
+#5 dispensation NOUN dispensation%1:04:01::
+#9 record NOUN record%1:10:03::,record%1:21:00::
+The police were disqualified along with certain categories of naturalized citizens , criminals and those punished for Protectorate activities .
+2
+#7 category NOUN category%1:14:00::
+#18 activity NOUN activity%1:04:00::,activity%1:26:00::
+The registration figures given in Table 2 must be interpreted with caution since the estimate for eligible electors were made without the benefit of a reliable census .
+9
+#1 registration NOUN registration%1:10:00::
+#2 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#3 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#5 table NOUN table%1:14:00::
+#9 interpret VERB interpret%2:31:00::,interpret%2:32:00::,interpret%2:32:01::,interpret%2:36:00::
+#11 caution NOUN caution%1:09:00::
+#17 elector NOUN elector%1:18:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 benefit NOUN benefit%1:07:00::

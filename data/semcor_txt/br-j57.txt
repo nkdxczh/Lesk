@@ -1,0 +1,578 @@
+ Some who have written on Utopia have treated it as " a learned diversion of a learned world " , " a phantasy with which More amused himself " , " a holiday work , a spontaneous overflow of intellectual high spirits , a revel of debate , paradox , comedy and invention " .
+6
+#3 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#7 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#13 diversion NOUN diversion%1:04:00::
+#17 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#26 amuse VERB amuse%2:41:00::
+#33 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+With respect to this view , two points are worth making .
+3
+#4 view NOUN view%1:09:04::
+#7 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+First , it appears to be based on the fact that on its title page Utopia is described as " festivus " , " gay " .
+3
+#3 appear VERB appear%2:30:00::
+#17 describe VERB describe%2:32:01::
+#24 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+It overlooks the other fact that it is described as " Nec minus salutaris quam festivus " , " no less salutary than gay " .
+6
+#1 overlook VERB overlook%2:39:01::
+#3 other ADJ other%3:00:00::
+#8 describe VERB describe%2:32:01::
+#19 no ADV no%4:02:01::
+#20 less ADV less%4:02:00::,less%4:02:01::
+#23 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+It also overlooks the fact that in a rational lexicon , and quite clearly in More 's lexicon , the opposite of serious is not gay but frivolous , and the opposite of gay is not serious but solemn .
+9
+#2 overlook VERB overlook%2:39:01::
+#8 rational ADJ rational%3:00:00::
+#12 quite ADV quite%4:02:02::
+#22 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#24 not ADV not%4:02:00::
+#25 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#33 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#35 not ADV not%4:02:00::
+#36 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+More believed that a man could be both serious and gay .
+4
+#1 believe VERB believe%2:31:03::
+#4 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#8 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#10 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+That a writer who is gay cannot be serious is a common professional illusion , sedulously fostered by all too many academics who mistakenly believe that their frivolous efforts should be taken seriously because they are expressed with that dreary solemnity which is the only mode of expression their authors are capable of .
+11
+#5 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#8 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#11 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#16 foster VERB foster%2:41:00::
+#24 believe VERB believe%2:31:03::
+#31 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#32 seriously ADV seriously%4:02:00::
+#36 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#45 mode NOUN mode%1:07:00::
+#47 expression NOUN expression%1:10:02::,expression%1:10:04::
+#51 capable ADJ capable%3:00:02::
+Secondly , to find a learned diversion and a pleasing joke in More 's account of the stupid brutalities of early sixteenth century wars , of the anguish of the poor and dispossessed , of the insolence and cruelty of the rich and powerful requires a callousness toward suffering and sin that would be surprising in a moral imbecile and most surprising in More himself .
+10
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#6 diversion NOUN diversion%1:04:00::
+#14 account NOUN account%1:10:03::
+#20 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#22 century NOUN century%1:28:00::
+#30 poor ADJ poor%3:00:00::,poor%3:00:03::
+#41 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#50 sin NOUN sin%1:04:00::
+#57 moral ADJ moral%3:00:00::
+#60 most ADV most%4:02:01::
+Indeed , it is even surprising in the Canon of Christ Church and Regius Professor of Ecclesiastical History , who fathered this most peculiar view , and in the brilliant Professor of Medieval and Renaissance English at Cambridge , who inherited it and is now its most eminent proponent .
+10
+#0 indeed ADV indeed%4:02:03::
+#8 canon NOUN canon%1:18:00::
+#17 history NOUN history%1:28:00::
+#22 most ADV most%4:02:01::
+#23 peculiar ADJ peculiar%5:00:00:strange:00
+#24 view NOUN view%1:09:04::
+#29 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#30 professor NOUN full_professor%1:18:00::
+#44 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#46 most ADV most%4:02:00::
+But to return to the main line of our inquiry .
+2
+#2 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#6 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+It is doubtful that Utopia is still widely read because More was medieval or even because he was a martyr - indeed , it is likely that these days many who read Utopia with interest do not even know that its author was a martyr .
+10
+#2 doubtful ADJ doubtful%5:00:00:unsettled:02
+#6 still ADV still%4:02:00::
+#7 widely ADV widely%4:02:01::
+#8 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#21 indeed ADV indeed%4:02:03::
+#28 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#31 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#34 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#36 not ADV not%4:02:00::
+#38 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Utopia is still widely read because in a sense More stood on the margin of modernity .
+4
+#2 still ADV still%4:02:00::
+#3 widely ADV widely%4:02:01::
+#4 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#10 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+And if he did stand on the margins of modernity , it was not in dying a martyr for such unity as Papal supremacy might be able to force on Western Christendom .
+6
+#4 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#13 not ADV not%4:02:00::
+#15 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#20 unity NOUN unity%1:07:00::,unity%1:26:00::
+#26 able ADJ able%3:00:00::
+#30 western ADJ western%3:00:01::
+It was not even in writing Latin epigrams , sometimes bawdy ones , or in translating Lucian from Greek into Latin or in defending the study of Greek against the attack of conservative academics , or in attacking the conservative theologians who opposed Erasmus 's philological study of the New Testament .
+7
+#2 not ADV not%4:02:00::
+#6 Latin NOUN latin%1:10:00::
+#15 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+#18 Greek NOUN greek%1:10:00::
+#20 Latin NOUN latin%1:10:00::
+#25 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+#27 Greek NOUN greek%1:10:00::
+Similar literary exercises were the common doings of a Christian humanist of the first two decades of the sixteenth century .
+5
+#1 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#2 exercise NOUN exercise%1:04:00::,exercise%1:04:01::,exercise%1:04:02::,exercise%1:04:03::,exercise%1:11:01::
+#6 doing NOUN doings%1:04:00::
+#13 first ADJ first%3:00:00::,first%4:02:00::
+#19 century NOUN century%1:28:00::
+Had More 's writings been wholly limited to such exercises , they would be almost as dimly remembered as those of a dozen or so other authors living in his time , whose works tenuously survive in the minds of the few hundred scholars who each decade in pursuit of their very specialized occasions read those works .
+9
+#3 writing NOUN writing%1:10:02::
+#9 exercise NOUN exercise%1:04:00::,exercise%1:04:01::,exercise%1:04:02::,exercise%1:04:03::,exercise%1:11:01::
+#22 dozen NOUN dozen%1:23:00::
+#25 other ADJ other%3:00:00::
+#27 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#33 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#48 pursuit NOUN pursuit%1:04:00::
+#54 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#56 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+More stands on the margins of modernity for one reason alone - because he wrote Utopia .
+4
+#1 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#9 reason NOUN reason%1:09:01::,reason%1:16:00::
+#10 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#14 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+And the evidence that he does , indeed , stand there derives quite simply from the vigorous interest with which rather casual readers have responded to that book for the past century or so .
+8
+#7 indeed ADV indeed%4:02:03::
+#9 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#12 quite ADV quite%4:02:02::
+#17 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#22 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#23 have VERB have%2:40:00::
+#27 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#31 century NOUN century%1:28:00::
+Only one other contemporary of More 's evokes so immediate and direct a response , and only one other contemporary work - Niccolo Machiavelli and The Prince .
+7
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 other ADJ other%3:00:00::
+#7 evoke VERB evoke%2:32:01::
+#8 so ADV so%4:02:03::,so%4:02:07::
+#11 direct ADJ direct%3:00:02::
+#18 other ADJ other%3:00:00::
+#20 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+Can we discover what it is in Utopia that has evoked this response ?
+2
+#2 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#10 evoke VERB evoke%2:32:01::
+Remember that in seeking the modern in Utopia we do not deny the existence of the medieval and the Renaissance there ; we do not even need to commit ourselves to assessing on the same inconceivable scale the relative importance of the medieval , the Renaissance , and the modern .
+8
+#10 not ADV not%4:02:00::
+#11 deny VERB deny%2:32:00::,deny%2:32:01::
+#20 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#24 not ADV not%4:02:00::
+#28 commit VERB commit%2:32:01::
+#34 same ADJ same%3:00:00::,same%3:00:02::
+#36 scale NOUN scale%1:24:01::,scale%1:24:03::
+#38 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+The medieval was the most important to Chambers because he sought to place Thomas More , the author of Utopia , in some intelligible relation with St. Thomas More , the martyr .
+2
+#4 most ADV most%4:02:00::
+#24 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+To others whose concern it is to penetrate the significance of Christian Humanism , the Renaissance elements are of primary concern .
+4
+#3 concern NOUN concern%1:09:00::
+#9 significance NOUN significance%1:09:01::
+#16 element NOUN element%1:06:00::,element%1:09:00::
+#20 concern NOUN concern%1:09:00::
+But here we have a distinctly modern preoccupation ; we want to know why that book has kept on selling the way it has ; we want to know what is perennially new about Utopia .
+6
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#19 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#21 way NOUN way%1:04:00::,way%1:09:00::
+#28 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+To that question the answer is simple ; it can be made in two words , Utopian communism .
+3
+#6 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+But it is an answer which opens the door wide to an onrush of objections and denials .
+2
+#6 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#9 wide ADV wide%4:02:03::
+Surely there is nothing new about communism .
+1
+#0 surely ADV surely%4:02:00::
+We find it in Plato 's republic , and in Utopia More acknowledges his debt to that book .
+3
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 acknowledge VERB acknowledge%2:31:02::,acknowledge%2:32:01::,acknowledge%2:32:02::
+#17 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+We find it in that " common way of life pleasing to Christ and still in use among the truest societies of Christians " , that is , the better monasteries which made it easier to convert the Utopians to Christianity .
+9
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#6 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#12 Christ NOUN christ%1:18:00::
+#14 still ADV still%4:02:00::
+#19 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#29 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#32 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#34 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#36 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+We find it in the later Stoic conception of man 's natural condition which included the community of all possessions .
+9
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#6 stoic ADJ stoic%3:01:00::
+#7 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#9 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#11 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#12 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#14 include VERB include%2:42:00::
+#16 community NOUN community%1:21:00::,community%1:26:00::
+#19 possession NOUN possession%1:04:00::
+This conception was taken up by the early Church Fathers and by canon lawyers and theologians in the Middle Ages ; and More was far too well read not to have come across it in one or several of the forms thus given it .
+8
+#1 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#7 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#12 canon NOUN canon%1:18:00::
+#24 far ADV far%4:02:02::
+#25 too ADV too%4:02:00::
+#28 not ADV not%4:02:00::
+#30 have VERB have%2:40:00::
+#41 thus ADV thus%4:02:01::
+But although the idea of communism is very old even in More 's day and did not spring full-clad from his imagination in 1515 , it is not communism as such that we are concerned with .
+6
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#8 old ADJ old%3:00:01::,old%3:00:02::
+#13 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#17 spring VERB spring%2:29:00::
+#27 not ADV not%4:02:00::
+#34 concern VERB concern%2:42:00::,concern%2:42:01::
+We are concerned not with the genus communism nor with other species of the genus :
+3
+#2 concern VERB concern%2:42:00::,concern%2:42:01::
+#10 other ADJ other%3:00:00::
+#11 species NOUN species%1:09:00::,species%1:14:00::
+Platonic , Stoic , early Christian , monastic , canonist or theological communism ; we are concerned with Utopian communism - that is , simply communism as it appears in the imaginary commonwealth of Utopia , as More conceived it .
+8
+#2 stoic ADJ stoic%3:01:00::
+#4 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#16 concern VERB concern%2:42:00::,concern%2:42:01::
+#24 simply ADV simply%4:02:00::,simply%4:02:02::
+#28 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#31 imaginary ADJ imaginary%5:00:00:unreal:00
+#32 commonwealth NOUN commonwealth%1:14:00::
+#38 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+Perhaps one way to sharpen our sense of the modernity of Utopian communism is to contrast it with the principal earlier types of communistic theory .
+5
+#2 way NOUN way%1:04:00::,way%1:09:00::
+#6 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#19 principal ADJ principal%5:00:00:important:00
+#20 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#21 type NOUN type%1:18:00::
+We will achieve a more vivid sense of what it is by realizing what it is not .
+5
+#4 more ADV more%4:02:00::
+#5 vivid ADJ vivid%5:00:00:realistic:00
+#6 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#12 realize VERB realize%2:31:01::
+#16 not ADV not%4:02:00::
+Its function is to separate from the base ruled mass , among whom private ownership prevails , the governing warrior elite .
+3
+#1 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#9 mass NOUN mass%1:14:01::
+#20 elite NOUN elite%1:14:00::
+Moreover , it is too readily forgotten that in the Republic what gave the initial impetus to Plato 's excursus into the construction of an imaginary commonwealth with its ruling-class communism of goods , wives , and children , was his quest for a canon for the proper ordering of the individual human psyche ; and it is to this problem that the Republic ultimately returns .
+11
+#4 too ADV too%4:02:00::
+#12 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#25 imaginary ADJ imaginary%5:00:00:unreal:00
+#26 commonwealth NOUN commonwealth%1:14:00::
+#32 good NOUN good%1:07:02::
+#44 canon NOUN canon%1:10:00::
+#47 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#51 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+#53 psyche NOUN psyche%1:09:00::
+#60 problem NOUN problem%1:09:00::,problem%1:26:00::
+#65 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+In More 's Utopia communism is not a means of separating out a warrior elite from the lumpish mass .
+4
+#6 not ADV not%4:02:00::
+#8 means NOUN means%1:06:00::
+#14 elite NOUN elite%1:14:00::
+#18 mass NOUN mass%1:14:01::
+Utopian communism applies to all Utopians .
+1
+#2 apply VERB apply%2:42:00::
+And in the economy of the book it is not peripheral but central .
+4
+#3 economy NOUN economy%1:14:00::
+#6 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#9 not ADV not%4:02:00::
+#12 central ADJ central%5:00:00:important:00
+The concern of Utopia is with the optimo reipublicae statu , the best ordering of a civil society ; and it is again and again made clear that Utopian communism provides the institutional array indispensable to that best ordering .
+8
+#1 concern NOUN concern%1:09:00::
+#12 good ADJ best%3:00:00::,good%3:00:01::
+#16 civil ADJ civil%5:00:00:civilian:00
+#17 society NOUN society%1:14:00::,society%1:14:02::
+#25 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#26 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#30 provide VERB provide%2:34:00::,provide%2:40:00::
+#37 good ADJ best%3:00:00::,good%3:00:01::
+To derive Utopian communism from the Jerusalem Christian community of the apostolic age or from its medieval successors in spirit , the monastic communities , is with an appropriate shift of adjectives , misleading in the same way as to derive it from Plato 's Republic :
+7
+#8 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#12 age NOUN age%1:28:02::,age%1:28:03::
+#19 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#23 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#29 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#36 same ADJ same%3:00:00::
+#37 way NOUN way%1:04:00::,way%1:09:00::
+in the Republic we have to do with an elite of physical and intellectual athletes , in the apostolic and monastic communities with an elite of spiritual and religious athletes .
+5
+#9 elite NOUN elite%1:14:00::
+#11 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#21 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#24 elite NOUN elite%1:14:00::
+#26 spiritual ADJ spiritual%5:00:00:sacred:00
+The apostolic community was literally an elite : chosen by Christ himself .
+3
+#2 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#6 elite NOUN elite%1:14:00::
+#10 Christ NOUN christ%1:18:00::
+And the monastic communities were supposed to be made up of volunteers selected only after a novitiate which would test their religious aptitude for monastic rigors , their spiritual athleticism .
+5
+#3 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 aptitude NOUN aptitude%1:09:00::
+#25 rigor NOUN rigor%1:07:01::
+#28 spiritual ADJ spiritual%5:00:00:sacred:00
+Finally , the conception of the natural community of all possessions which originated with the Stoics was firmly fixed in a tradition by More 's time , although it was not accepted by all the theologian philosophers of the Middle Ages .
+9
+#3 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#6 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#7 community NOUN community%1:21:00::,community%1:26:00::
+#10 possession NOUN possession%1:04:00::
+#15 stoic NOUN stoic%1:18:01::
+#18 fix VERB fix%2:30:00::,fix%2:30:02::,fix%2:32:03::,fix%2:36:01::
+#21 tradition NOUN tradition%1:09:01::
+#30 not ADV not%4:02:00::
+#31 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+In that tradition communism lay a safe distance back in the age of innocence before the Fall of Man .
+8
+#2 tradition NOUN tradition%1:09:01::,tradition%1:09:02::
+#4 lie VERB lie%2:42:03::
+#6 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#7 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#8 back ADV back%4:02:01::,back%4:02:04::
+#11 age NOUN age%1:28:02::,age%1:28:03::
+#16 fall NOUN fall%1:04:02::,fall%1:04:03::,fall%1:11:03::
+#18 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+It did not serve to contrast the existing order of society with a possible alternative order , because the age of innocence was not a possible alternative once man had sinned .
+10
+#2 not ADV not%4:02:00::
+#3 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#8 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#10 society NOUN society%1:14:00::,society%1:14:02::
+#15 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#19 age NOUN age%1:28:02::,age%1:28:03::
+#23 not ADV not%4:02:00::
+#27 once CONJ once%4:02:02::
+#28 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#30 sin VERB sin%2:41:00::
+The actual function of patristic civilian canonist scholastic communism was adequately set forth by St. Gregory almost a millennium before More wrote Utopia .
+5
+#1 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#2 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#7 scholastic ADJ scholastic%3:01:01::
+#18 millennium NOUN millennium%1:28:01::
+#21 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+" The soil is common to all men .
+3
+#2 soil NOUN soil%1:15:00::,soil%1:26:00::
+#4 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#7 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+When we give the necessities of life to the poor , we restore to them what is already theirs .
+4
+#2 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#4 necessity NOUN necessity%1:26:00::
+#9 poor ADJ poor%3:00:00::,poor%3:00:03::
+#17 already ADV already%4:02:00::
+We should think of it more as an act of justice than compassion " .
+3
+#5 more ADV more%4:02:00::,more%4:02:01::
+#8 act NOUN act%1:03:00::
+#10 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+Because community not severalty of property is the law of nature no man can assert an absolutely unalterable right to what is his .
+5
+#1 community NOUN community%1:21:00::,community%1:26:00::
+#2 not ADV not%4:02:00::
+#5 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#12 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#18 right NOUN right%1:07:00::,right%1:21:00::
+Indeed , of all that is his every man is by nature and reason and therefore by conscience obligated to regard himself as a custodian .
+4
+#0 indeed ADV indeed%4:02:03::
+#8 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#11 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#13 reason NOUN reason%1:09:00::,reason%1:26:00::,reasoning%1:09:00::
+He is a trustee for the common good , however feeble the safeguards which the positive or municipal law of property provides against his misuse of that share of the common fund , wisely or unwisely , entrusted to his keeping .
+8
+#6 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#7 good NOUN good%1:07:00::
+#9 however ADV however%4:02:00::,however%4:02:02::
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#20 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#27 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#30 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#40 keep NOUN keeping%1:04:00::
+In contrast to this Stoic patristic view , Utopia implies that the nature of man is such that to rely on individual conscience to supply the deficiencies of municipal law is to embark on the bottomless sea of human sinfulness in a sieve .
+7
+#4 stoic ADJ stoic%3:01:00::
+#6 view NOUN view%1:09:04::
+#12 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#14 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#21 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+#29 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#35 bottomless ADJ bottomless%3:00:00::
+The Utopians brace conscience with legal sanctions .
+1
+#5 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+In a properly ordered society the massive force of public law performs the function which in natural law theory ineptly is left altogether to a small voice so often still .
+6
+#2 properly ADV properly%4:02:00::
+#4 society NOUN society%1:14:00::,society%1:14:02::
+#6 massive ADJ massive%5:00:00:heavy:01
+#11 perform VERB perform%2:36:00::,perform%2:41:00::
+#13 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#27 so ADV so%4:02:03::,so%4:02:07::
+In all the respects just indicated Utopian communism differs from previous conceptions in which community of possessions and living plays a role .
+7
+#3 respect NOUN respect%1:09:00::
+#5 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#10 previous ADJ previous%5:00:00:preceding:00
+#11 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#14 community NOUN community%1:21:00::,community%1:26:00::
+#16 possession NOUN possession%1:04:00::
+#18 living NOUN living%1:09:00::
+Neither from one of these conceptions nor from a combination of them can it be deduced .
+2
+#5 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#9 combination NOUN combination%1:04:00::,combination%1:14:00::
+We do not deny originality to the Agamemnon because Aeschylus found the tales of the house of Atreus among the folk lore of the Greeks .
+6
+#2 not ADV not%4:02:00::
+#3 deny VERB deny%2:32:00::,deny%2:32:01::
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 tale NOUN tale%1:10:00::
+#15 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#24 Greek NOUN greek%1:18:00::
+In a like sense whatever bits or shreds of previous conceptions one may find in it , Utopian communism remains , as an integral whole , original - a new thing .
+8
+#3 sense NOUN sense%1:10:00::
+#5 bit NOUN bit%1:23:01::
+#9 previous ADJ previous%5:00:00:preceding:00
+#10 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#13 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#23 integral ADJ integral%5:00:00:whole:00
+#24 whole NOUN whole%1:03:00::
+#26 original ADJ original%5:00:00:underived:00
+It is not merely a new thing ; it is one of the very few new things in Utopia ; most of the rest is medieval or humanist or part of an old tradition of social criticism .
+7
+#2 not ADV not%4:02:00::
+#23 rest NOUN rest%1:24:00::
+#29 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#32 old ADJ old%3:00:01::,old%3:00:02::
+#33 tradition NOUN tradition%1:09:01::
+#35 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#36 criticism NOUN criticism%1:10:00::
+But to say that at a moment in history something is new is not necessarily to say that it is modern ; and for this statement the best evidence comes within the five years following the publication of Utopia , when Martin Luther elaborates a new perception of the nature of the Divine 's encounter with man .
+12
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 moment NOUN moment%1:28:00::,moment%1:28:01::
+#8 history NOUN history%1:28:00::
+#13 not ADV not%4:02:00::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#27 good ADJ best%3:00:00::,good%3:00:01::
+#29 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#33 year NOUN year%1:28:00::,year%1:28:01::
+#43 elaborate VERB elaborate%2:30:01::
+#49 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#52 divine NOUN divine%1:18:01::
+#56 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+New , indeed , is Luther 's perception , but not modern , as anyone knows who has ever tried to make intelligible to modern students what Luther was getting at .
+6
+#2 indeed ADV indeed%4:02:03::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 ever ADV ever%4:02:05::
+#19 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#29 get VERB get%2:30:02::,get%2:31:09::
+Although Utopian communism is both new in 1516 and also modern , it is not modern communism or even modern socialism , as they exist or have ever existed in theory or in practice .
+4
+#14 not ADV not%4:02:00::
+#24 exist VERB exist%2:42:00::
+#27 ever ADV ever%4:02:05::
+#28 exist VERB exist%2:42:00::
+Consider the features of Utopian communism :
+1
+#2 feature NOUN feature%1:08:00::,feature%1:09:01::
+generous public provision for the infirm ; democratic and secret elections of all officers including priests , meals taken publicly in common refectories ; a common habit or uniform prescribed for all citizens ; even houses changed once a decade ; six hours of manual labor a day for all but a handful of magistrates and scholars , and careful measures to prevent anyone from shirking ; no private property , no money ; no sort of pricing at all for any goods or services , and therefore no market in the economic sense of the term .
+24
+#1 public ADJ public%3:00:00::,public%5:00:00:common:02
+#2 provision NOUN provision%1:04:01::,provision%1:21:00::
+#7 democratic ADJ democratic%3:00:00::
+#13 officer NOUN officer%1:18:02::,officer%1:18:03::
+#14 include VERB include%2:42:00::
+#17 meal NOUN meal%1:28:00::
+#18 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#21 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#25 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#28 uniform NOUN uniform%1:06:00::
+#35 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#37 once ADV once%4:02:00::
+#39 decade NOUN decade%1:28:00::
+#42 hour NOUN hour%1:07:00::,hours%1:28:01::
+#47 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#52 handful NOUN handful%1:23:00::
+#59 careful ADJ careful%3:00:00::,careful%5:00:00:unhurried:00
+#60 measure NOUN measure%1:04:01::,measure%1:10:02::
+#62 prevent VERB prevent%2:41:00::
+#75 sort NOUN sort%1:09:00::,sort%1:18:00::
+#82 good NOUN good%1:07:02::
+#89 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#93 sense NOUN sense%1:10:00::
+#96 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+Whatever the merits of its intent , Utopian communism is far too naive , far too crude , to suit any modern socialist or communist .
+6
+#10 far ADV far%4:02:02::
+#11 too ADV too%4:02:00::
+#14 far ADV far%4:02:02::
+#15 too ADV too%4:02:00::
+#19 suit VERB suit%2:42:00::
+#24 communist NOUN communist%1:18:00::
+It is not the details of Utopian communism that make Utopia modern , it is the spirit , the attitude of mind that informs those details .
+7
+#2 not ADV not%4:02:00::
+#4 detail NOUN detail%1:10:00::,detail%1:24:00::
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#21 mind NOUN mind%1:09:00::,mind%1:09:04::
+#23 inform VERB inform%2:32:00::,inform%2:32:10::
+#25 detail NOUN detail%1:10:00::,detail%1:24:00::
+What that spirit and attitude were we can best understand if we see more precisely how it contrasts with the communist tradition with the longest continuous history , the one which reached Christianity by the way of Stoicism through the Church Fathers of Late Antiquity .
+12
+#2 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#9 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#12 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#13 more ADV more%4:02:00::
+#20 communist NOUN communist%1:18:00::
+#21 tradition NOUN tradition%1:09:01::
+#25 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#26 history NOUN history%1:28:02::
+#31 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#37 stoicism NOUN stoicism%1:09:00::
+#43 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#44 antiquity NOUN antiquity%1:28:00::

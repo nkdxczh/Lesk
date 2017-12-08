@@ -1,0 +1,188 @@
+ When they say that under no circumstances would it ever be right to " permit " the termination of the human race by human action , because there could not possibly be any proportionate grave reason to justify such a thing , they know exactly what they mean .
+4
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 justify VERB justify%2:32:00::,justify%2:32:01::
+#43 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#47 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Of course , in prudential calculation , in balancing the good directly intended and done against the evil unintended and indirectly done , no greater precision can be forthcoming than the subject allows .
+3
+#8 balance VERB balance%2:40:00::
+#12 intend VERB intend%2:31:01::,intend%2:32:00::
+#32 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+Yet it seems clear that there can be no good sufficiently great , or evil repelled sufficiently grave , to warrant the destruction of mankind by man 's own action .
+1
+#15 repel VERB repel%2:35:00::
+I mean , however , that the moral theologian knows what he means by " permit " .
+3
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+He is talking about double effects , of which the specific action causes directly the one and indirectly the other , but causes both ; of which one is deliberately willed or intended and the other not intended or not directly intended , but still both are done , while the evil effect is , with equal consciousness on the part of the agent , foreknown to be among the consequences .
+2
+#30 will VERB will%2:32:00::
+#32 intend VERB intend%2:31:01::,intend%2:32:00::
+This is what , in a technical sense , to " only permit " an evil result means .
+1
+#17 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+It means to do it and to know one is doing it , but as only a secondary if certain effect of the good one primarily does and intends .
+3
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#28 intend VERB intend%2:31:01::,intend%2:32:00::
+Certainly , in analyzing an action which truly faced such alternatives , " it is never possible that no world would be preferable to some worlds , and there are in truth no circumstances in which the destruction of human life presents itself as a reasonable alternative " .
+2
+#8 face VERB face%2:32:00::,face%2:32:03::
+#41 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+Presumably , if the reverse is the case and the good effect is more certain than the evil result that may be forthcoming , not only must the good and the evil be prudentially weighed and found proportionate , but also calculation of the probabilities and of the degree of certainty or uncertainty in the good or evil effect must be taken into account .
+2
+#34 weigh VERB weigh%2:32:00::,weigh%2:42:03::
+#36 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+If an evil which is certain and extensive and immediate may rarely be compensated for by a problematic , speculative , future good , by the same token not every present , certain , and immediate good ( or lesser evil ) that may have to be done will be outweighed by a problematic , speculative , and future evil .
+1
+#13 compensate VERB compensate%2:40:00::
+Nevertheless , according to the traditional theory , a man begins in the midst of action and he analyzes its nature and immediate cosequences before or while putting it forth and causing these consequences .
+1
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Above all , he does not debate mere contingencies , and therefore , if these are possibly dreadful , find himself forced into inaction .
+2
+#19 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#21 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+By contrast , a good deal of nuclear pacifism begins with the contingencies and the probabilities , and not with the moral nature of the action to be done ; and by deriving legitimate decision backward from whatever may conceivably or possibly or probably result , whether by anyone 's doing or by accident , it finds itself driven to inaction , to non-political action in politics and non-military action in military affairs , and to the not very surprising discovery that there are now no distinctions on which the defense of justice can possibly be based .
+4
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#56 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#58 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+#96 base VERB base%2:31:00::
+Mr. Philip Toynbee writes , for example , that " in terms of probability it is surely as likely as not that mutual fear will lead to accidental war in the near future if the present situation continues .
+3
+#3 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#25 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#37 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+If it continues indefinitely it is nearly a statistical certainty that a mistake will be made and that the devastation will begin " .
+3
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Against such a termination of human life on earth by human action , he then proposes as an alternative that we " negotiate at once with the Russians and get the best terms which are available " , that we deliberately " negotiate from comparative weakness " .
+4
+#15 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#22 negotiate VERB negotiate%2:32:00::
+#29 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#42 negotiate VERB negotiate%2:32:00::
+He bravely attempts to face this alternative realistically , i. e. , by considering the worst possible outcome , namely , the total domination of the world by Russia within a few years .
+1
+#4 face VERB face%2:32:00::,face%2:32:03::
+This would be by far the better choice , when " it is a question of allowing the human race to survive , possibly under the domination of a regime which most of us detest , or of allowing it to destroy itself in appalling and prolonged anguish " .
+2
+#16 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#38 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+Nevertheless , the consequence of the policy proposed is everywhere subtly qualified : it is " a possible result , however improbable " ; " the worst , and least probable " result ; " if it did n't prevail mankind would still be given the opportunity of prevailing " ; for " surely anything is better than a policy which allows for the possibility of nuclear war " .
+1
+#7 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+If we have not thought and made a decision entirely in these terms , then we need to submit ourselves to the following " simple test " : " Have we decided how we are to kill the other members of our household in the event of our being less injured than they are " ?
+5
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 need VERB need%2:42:00::
+#18 submit VERB submit%2:31:12::,submit%2:33:00::,submit%2:41:00::
+#36 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Several of the replies to Mr. Toynbee , without conscious resort to the traditional terminology with regard to the permission of evil , succeed in restoring the actual context in which present moral and political decisions must be made , by distinguishing between choosing a great evil and choosing in danger of this evil .
+2
+#23 succeed VERB succeed%2:41:00::
+#38 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" I am consciously prepared to run the continued risk of ' race suicide by accident ' rather than accept the alternative certainty of race slavery by design .
+1
+#19 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+But I can only make this choice because I believe that the risk need not increase , but may be deliberately reduced " [ by precautions against accidents or by limiting war ? ]
+4
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 believe VERB believe%2:31:03::
+#13 need VERB need%2:42:00::
+#21 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+" Quoting Mr. Kennan 's phrase that anything would be better than a policy which led inevitably to nuclear war , he [ Toynbee ] says that anything is better than a policy which allows for the possibility of nuclear war " .
+2
+#1 quote VERB quote%2:32:00::,quote%2:32:02::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" If Philip Toynbee is claiming that the choice lies between capitulation and the risk of nuclear war , I think he is right .
+2
+#9 lie VERB lie%2:42:03::
+#20 think VERB think%2:31:01::,think%2:31:03::
+I do not accept that the choice is between capitulation and the certainty of nuclear war " .
+1
+#3 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+Even Professor Arnold Toynbee , agreeing with his son , does so in these terms : " Compared to continuing to incur a constant risk of the destruction of the human race , all other evils are lesser evils .
+3
+#5 agree VERB agree%2:32:00::,agree%2:32:01::
+#17 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#19 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Let us therefore put first things first , and make sure of preserving the human race at whatever the temporary price may be " .
+2
+#0 let VERB let%2:32:00::
+#3 put VERB put%2:35:00::,put%2:35:05::
+Mr. Philip Toynbee affirms at one point that if he shared the anticipations of Orwell in Nineteen Eighty-Four , if he believed Communism was not only evil but " also irredeemably evil " , then he might " think it right to do anything rather than to take the risk of a communist world .
+3
+#3 affirm VERB affirm%2:31:00::
+#21 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#38 think VERB think%2:31:01::,think%2:31:03::
+Even a nuclear holocaust is a little less frightful to contemplate than a race of dehumanised humans occupying the earth until doomsday " .
+1
+#17 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+But one does not have to affirm the existence of an evil order irredeemable in that sense , or a static order in which no changes will take place in time , to be able truthfully to affirm the following fact : there has never been justitia imprinted in social institutions and social relationships except in the context of some pax-ordo preserved by clothed or naked force .
+2
+#6 affirm VERB affirm%2:31:00::
+#37 affirm VERB affirm%2:31:00::
+On their way to the Heavenly City the children of God make use of the pax-ordo of the earthly city and acknowledge their share in responsibility for its preservation .
+1
+#21 acknowledge VERB acknowledge%2:32:00::
+Not to repel injury and uphold and improve pax-ordo means not simply to accept the misshapen order and injustice that challenges it at the moment , but also to start down the steep slope along which justice can find no place whereon to stand .
+5
+#2 repel VERB repel%2:35:00::
+#9 mean VERB mean%2:31:05::,mean%2:42:00::
+#20 challenge VERB challenge%2:32:00::,challenge%2:32:01::
+#29 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#38 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Toynbee seems to think that there is some other way to give justice social embodiment .
+1
+#3 think VERB think%2:31:01::,think%2:31:03::
+" I would far rather die after a Russian occupation of this country - by some deliberate act of refusal - than die uselessly by atomisation " .
+2
+#5 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#22 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+He does not mean , in fact he addresses himself specifically to reject the proposition , that " if we took the risk of surrendering , a new generation in Britain would soon begin to amass its strength in secret in order to reverse the consequences of that surrender " .
+2
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#33 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+He wants to be " brutally frank and say that these rebellions would be hopeless - far , far more hopeless than was the Hungarian revolution of 1956 " .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" It is no good recommending surrender rather than nuclear warfare with the proviso that surrender could be followed by the effective military resistance by occupied peoples .
+1
+#5 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+Hope for the future would lie in the natural longing of the human race for freedom and the right to develop " .
+1
+#20 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+This is to surrender in advance to whatever attack may yet be mounted , to the very last ; it is to stride along the steep slope downward .
+2
+#12 mount VERB mount%2:30:00::,mount%2:36:01::
+#22 stride VERB stride%2:38:00::
+The only contrary action , in the future as in the past , runs the risk of war ; and , now and in the future unlike in the past , any attempt to repel injury and to preserve any particular civilized attainment of mankind or its provisional justice runs some risk of nuclear warfare and the danger that an effect of it will , by human action , render this planet less habitable by the human race .
+2
+#34 repel VERB repel%2:35:00::
+#69 render VERB render%2:30:00::
+That is why it is so very important that ethical analysis keep clear the problem of decision as to " permitted " effects , and not draw back in fright from any conceivable contingency or suffer paralysis of action before possibilities or probabilities unrelated , or not directly morally related , to what we can and may and must do as long as human history endures .
+3
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#35 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#65 endure VERB endure%2:42:00::
+Finally , just as no different issues are posed for thoughtful analysis by the foreshortening of time that may yet pass before the end of human life on this earth , but only stimulation and alarm to the imagination , the same thing must be said in connection with the question of what we may perhaps already be doing , by human action , to accelerate this end .
+3
+#8 pose VERB pose%2:42:00::
+#20 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#45 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+We should not allow the image of an immanent end brought about indirectly by our own action in the continuing human struggle for a just endurable order of existence to blind us to the fact that in some measure accelerating the end of our lease may be one consequence among others of many other of mankind 's thrusts toward we know not what future .
+4
+#3 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#19 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#30 blind VERB blind%2:39:01::
+#60 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::

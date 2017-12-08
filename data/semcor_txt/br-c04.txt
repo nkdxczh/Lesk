@@ -1,0 +1,588 @@
+ The Theatre-By-The-Sea , Matunuck , presents " King of Hearts " by Jean Kerr and Eleanor Brooke .
+1
+#5 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+Directed by Michael Murray ; settings by William David Roberts .
+2
+#0 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#5 setting NOUN setting%1:06:00::
+The cast :
+1
+#1 cast NOUN cast%1:14:00::
+Producer John Holmes has chosen a delightful comedy for his season 's opener at Matunuck in Jean Kerr 's " King of Hearts " .
+1
+#12 opener NOUN opener%1:11:00::
+The dialogue is sharp , witty and candid - typical " do n't eat the daisies " material - which has stamped the author throughout her books and plays , and it was obvious that the Theatre-by-the-Sea audience liked it .
+8
+#3 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+#7 candid ADJ candid%5:00:00:direct:02
+#17 material NOUN material%1:06:01::,material%1:10:00::
+#21 stamp VERB stamp%2:36:00::
+#26 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#28 play NOUN play%1:10:01::,play%1:10:03::
+#37 audience NOUN audience%1:14:01::
+#38 like VERB like%2:37:05::
+The story is of a famous strip cartoonist , an arty individual , whose specialty is the American boy and who adopts a 10 - year old to provide him with fresh idea material .
+8
+#1 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#6 strip NOUN strip%1:10:00::
+#14 specialty NOUN specialty%1:04:00::
+#18 boy NOUN boy%1:18:03::
+#25 year NOUN years%1:28:00::
+#28 provide VERB provide%2:34:00::,provide%2:40:00::
+#31 fresh ADJ fresh%5:00:00:original:00
+#33 material NOUN material%1:06:01::,material%1:10:00::
+This is when his troubles begin , not to mention a fledgling artist who he hires , and who turns out to have ideas of his own , with particular respect to the hero 's sweetheart secretary .
+7
+#4 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#15 hire VERB hire%2:41:00::
+#23 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#26 own ADJ own%5:00:00:personal:00
+#29 particular ADJ particular%5:00:00:uncommon:00
+#33 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+John Heffernan , playing Larry Larkin , the cartoonist , carries the show in marvelous fashion .
+2
+#3 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#15 fashion NOUN fashion%1:07:00::
+His portrayal of an edgy head-in-the-clouds artist is virtually flawless .
+1
+#8 virtually ADV virtually%4:02:02::
+This may be unfortunate , perhaps , from the standpoint of David Hedison , Providence 's contribution to Hollywood , who is appearing by special arrangement with 20th Century-Fox .
+2
+#22 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#25 arrangement NOUN arrangement%1:09:01::
+Not that Mr. Hedison does not make the most of his role .
+2
+#5 not ADV not%4:02:00::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+But the book is written around a somewhat dizzy cartoonist , and it has to be that way .
+3
+#2 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#4 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#17 way NOUN way%1:04:00::,way%1:09:00::
+A word should be said for Gary Morgan , a Broadway youngsters who , as the adopted son , makes life miserable for nearly everybody and Larkin in particular .
+6
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 miserable ADJ miserable%5:00:00:unhappy:00
+#23 nearly ADV nearly%4:02:00::
+#28 particular NOUN particular%1:24:00::
+And for his playmate , Francis Coletta of West Warwick , who has a bit part , Billy .
+2
+#3 playmate NOUN playmate%1:18:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+On the whole , audiences will like this performance .
+3
+#4 audience NOUN audience%1:14:01::
+#6 like VERB like%2:37:05::
+#8 performance NOUN performance%1:04:01::,performance%1:10:00::
+It is a tremendous book , lively , constantly moving , and the Matunuck cast does well by it .
+2
+#4 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#14 cast NOUN cast%1:14:00::
+The Newport Playhouse presents " Epitaph For George Dillon " by John Osborne and Anthony Creighton , directed by Wallace Gray .
+2
+#3 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#17 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+The cast :
+1
+#1 cast NOUN cast%1:14:00::
+The angriest young man in Newport last night was at the Playhouse , where " Epitaph for George Dillon " opened as the jazz festival closed .
+5
+#5 Newport NOUN newport%1:15:01::
+#6 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#7 night NOUN night%1:28:00::
+#20 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#25 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+For the hero of this work by John Osborne and Anthony Creighton is a chap embittered by more than the lack of beer during a jam session .
+3
+#2 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#5 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#14 chap NOUN chap%1:18:00::
+He 's mad at a world he did not make .
+2
+#5 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#8 not ADV not%4:02:00::
+Furthermore , he 's something of a scoundrel , an artist whose mind and feelings are all finger-tips .
+2
+#12 mind NOUN mind%1:09:00::,mind%1:09:04::
+#17 fingertip NOUN fingertip%1:08:00::
+This is in contrast to the family with whom he boards .
+2
+#6 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#10 board VERB board%2:42:00::
+They not only think and feel cliches but live cliches as well .
+3
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#5 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#8 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+It is into this household , one eroded by irritations that have tortured the souls out of its people , that George Dillon enters at the beginning of the play .
+4
+#14 soul NOUN soul%1:12:00::,soul%1:18:00::
+#18 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#23 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#29 play NOUN play%1:10:01::,play%1:10:03::
+An unsuccessful playwright and actor , he has faith only in himself and in a talent he is not sure exists .
+6
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 faith NOUN faith%1:09:01::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 talent NOUN talent%1:09:00::,talent%1:18:00::
+#18 not ADV not%4:02:00::
+#20 exist VERB exist%2:42:00::
+By the end of the third act , the artist is dead but the body lingers on , a shell among other shells .
+8
+#2 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#6 act NOUN act%1:10:00::,act%1:10:02::
+#11 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#14 body NOUN body%1:08:00::,body%1:08:02::
+#16 on ADV on%4:02:00::
+#19 shell NOUN shell%1:17:01::
+#21 other ADJ other%3:00:00::
+#22 shell NOUN shell%1:17:01::
+Not altogether a successful play , " Epitaph for George Dillon " overcomes through sheer vitality and power what in a lesser work might be crippling .
+4
+#4 play NOUN play%1:10:01::,play%1:10:03::
+#14 sheer ADJ sheer%5:00:00:complete:00
+#17 power NOUN power%1:07:00::,power%1:07:02::
+#22 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+It is awfully talky , for instance , and not all of the talk is terribly impressive .
+2
+#2 awfully ADV awfully%4:02:00::
+#15 terribly ADV terribly%4:02:00::
+But it strikes sparks on occasion and their light causes all else to be forgotten .
+1
+#2 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+There is a fine second act , as an example , one in which Samuel Groom , as Dillon , has an opportunity to blaze away in one impassioned passage after another .
+5
+#3 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#4 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#5 act NOUN act%1:10:00::,act%1:10:02::
+#9 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This is an exciting young actor to watch .
+1
+#7 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Just as exciting but in a more technically proficient way is Laura Stuart , whose complete control of her every movement is lovely to watch .
+7
+#0 just ADV just%4:02:05::
+#7 technically ADV technically%4:02:00::
+#9 way NOUN way%1:04:00::,way%1:09:00::
+#15 complete ADJ complete%5:00:00:skilled:00
+#16 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#20 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#24 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Miss Stuart is as intensely vibrant as one could wish , almost an icy shriek threatening to explode at any moment .
+2
+#17 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#20 moment NOUN moment%1:28:00::,moment%1:28:01::
+Also fine are Sue Lawless , as a mother more protective and belligerent than a female spider and just as destructive , Harold Cherry , as her scratchy spouse , and Hildy Weissman , as a vegetable in human form .
+5
+#1 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#8 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#18 just ADV just%4:02:05::
+#36 vegetable NOUN vegetable%1:20:00::
+#39 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+Wallace Gray has directed a difficult play here , usually well , but with just a bit too much physical movement in the first act for my taste .
+10
+#3 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#6 play NOUN play%1:10:01::,play%1:10:03::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#17 too ADV too%4:02:00::
+#19 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#20 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#23 first ADJ first%3:00:00::,first%4:02:00::
+#24 act NOUN act%1:10:00::,act%1:10:02::
+#27 taste NOUN taste%1:09:01::,taste%1:12:02::
+Still , his finale is put together with taste and a most sensitive projection of that pale sustenance , despair .
+4
+#0 still ADV still%4:02:04::
+#8 taste NOUN taste%1:09:01::,taste%1:12:02::
+#13 projection NOUN projection%1:06:01::
+#16 pale ADJ pale%5:00:00:colorless:03,pale%5:00:00:weak:00
+The Warwick Musical Theater presents " Where's Charley ? "
+1
+#4 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+with music and lyrics by Frank Loesser , directed by Christopher Hewett , choreography by Peter Conlow , musical direction by Samuel Matlowsky .
+4
+#3 lyric NOUN lyric%1:10:01::
+#8 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#18 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+#19 direction NOUN direction%1:04:00::,direction%1:10:01::,direction%1:10:02::
+The cast :
+1
+#1 cast NOUN cast%1:14:00::
+Everybody fell in love with Amy again last night at the Warwick Musical Theater , and Shelley Berman was to blame .
+2
+#7 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#8 night NOUN night%1:28:00::
+One of the finest soft shoe tunes ever invented , " Once in Love with Amy " is also , of course , one of the most tantalizingly persistent of light love lyrics to come out of American musical comedy in our era .
+5
+#3 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#7 ever ADV ever%4:02:05::
+#26 most ADV most%4:02:00::
+#28 persistent ADJ persistent%5:00:00:continual:00
+#30 light ADJ light%3:00:02::,light%3:00:03::,light%5:00:00:frivolous:00
+So the audience last night was all ears and eyes just after Act 2 , got a rousing opening chorus , " Where's Charley ? "
+10
+#2 audience NOUN audience%1:14:01::
+#3 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#4 night NOUN night%1:28:00::
+#7 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#9 eye NOUN eye%1:08:00::,eye%1:09:01::
+#12 act NOUN act%1:10:00::,act%1:10:02::
+#15 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#17 rousing ADJ rousing%5:00:00:stimulating:00
+#18 opening ADJ opening%3:00:00::
+#19 chorus NOUN chorus%1:10:00::
+, and Berman sifted out all alone on the stage with the ambling chords and beat of the song just whispering into being .
+6
+#6 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#9 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#13 chord NOUN chord%1:10:00::
+#15 beat NOUN beat%1:07:00::
+#19 just ADV just%4:02:04::
+#22 being NOUN being%1:26:00::
+It is greatly to Berman 's credit that he made no attempt to outdo Ray Bolger .
+1
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He dropped his earlier and delightful hamming , which is about the only way to handle the old war horse called " Charley's Aunt " , and let himself go with as an appealing an " Amy " as anybody could ask .
+8
+#1 drop VERB drop%2:31:06::,drop%2:32:00::,drop%2:35:01::,drop%2:41:01::
+#3 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#10 about ADV about%4:02:00::
+#13 way NOUN way%1:04:00::,way%1:09:00::
+#15 handle VERB handle%2:41:00::,handle%2:41:03::
+#17 old ADJ old%3:00:01::,old%3:00:02::
+#33 appealing ADJ appealing%3:00:00::
+#41 ask VERB ask%2:32:01::,ask%2:32:05::
+In brief , Berman played himself and not Bolger .
+2
+#4 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#7 not ADV not%4:02:00::
+The big audience started applauding even before he had finished .
+4
+#1 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#2 audience NOUN audience%1:14:01::
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#9 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+The whole production this week is fresh and lively .
+2
+#1 whole ADJ whole%3:00:00::
+#2 production NOUN production%1:04:00::,production%1:10:00::
+The costumes are stunning evocations of the voluminous gowns and picture hats of the Gibson Girl days .
+1
+#16 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+The ballet work is on the nose , especially in the opening number by " The New Ashmolean Marching Society and Students ' Conservatory Band " , along with a fiery and sultry Brazilian fantasia later .
+6
+#2 work NOUN work%1:04:00::
+#8 especially ADV especially%4:02:00::
+#11 opening ADJ opening%3:00:00::
+#12 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#32 sultry ADJ sultry%5:00:00:hot:02
+#35 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+Berman , whose fame has rested in recent years on his skills as a night club monologist , proved himself very much at home in musical comedy .
+3
+#7 recent ADJ recent%5:00:00:past:00
+#8 year NOUN year%1:28:00::,year%1:28:01::
+#18 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+Sparrow size Virginia Gibson , with sparkling blue eyes and a cheerful smile , made a suitably perky Amy , while Melisande Congdon , as the real aunt , was positively monumental in the very best Gibson Girl manner .
+8
+#0 sparrow NOUN sparrow%1:05:00::
+#6 sparkling ADJ sparkling%5:00:00:starry:00
+#7 blue ADJ blue%5:00:00:chromatic:00
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#14 make VERB make%2:31:10::,make%2:42:05::
+#26 real ADJ real%3:00:00::,real%5:00:00:true:00
+#35 good ADJ best%3:00:00::,good%3:00:01::
+#38 manner NOUN manner%1:07:01::;1:07:02::
+All told , " Where's Charley ? " ought not to be missed .
+2
+#9 not ADV not%4:02:00::
+#12 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+It has a fast pace , excellent music , expert direction , and not only a good comedian , but an appealing person in his own right , Mr. Berman .
+9
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 fast ADJ fast%3:00:01::
+#4 pace NOUN pace%1:28:00::
+#6 excellent ADJ excellent%5:00:00:superior:02
+#7 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#10 direction NOUN direction%1:04:00::,direction%1:10:01::,direction%1:10:02::
+#21 appealing ADJ appealing%3:00:00::
+#22 person NOUN person%1:03:00::,person%1:08:00::
+#25 own ADJ own%5:00:00:personal:00
+The Broadway Theater League of Rhode Island presents C. Edwin Knill 's and Martin Tahse 's production of " Fiorello ! "
+2
+#7 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#16 production NOUN production%1:04:00::,production%1:10:00::
+The book is by Jerome Weidman and George Abbott , music by Jerry Bock , lyrics by Sheldon Harnick , choreography by Peter Gennaro , scenery , costumes and lighting by William and Jean Eckart , musical direction by Jack Elliott , and the production was directed by Mr. Abbott .
+7
+#1 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#15 lyric NOUN lyric%1:10:01::
+#29 lighting NOUN lighting%1:26:00::
+#36 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+#37 direction NOUN direction%1:04:00::,direction%1:10:01::,direction%1:10:02::
+#44 production NOUN production%1:04:00::,production%1:10:00::
+#46 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+The cast :
+1
+#1 cast NOUN cast%1:14:00::
+This is one of the happier events of the season .
+1
+#5 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+The company which performed the Pulitzer Prize musical here last night and will repeat it twice today is full of bounce , the politicians are in fine voice , the chorines evoke happy memories , and the Little Flower rides to break a lance again .
+14
+#1 company NOUN company%1:14:02::,company%1:14:03::
+#3 perform VERB perform%2:36:00::,perform%2:36:01::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#10 night NOUN night%1:28:00::
+#13 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+#18 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#26 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#27 voice NOUN voice%1:07:00::,voice%1:10:02::
+#31 evoke VERB evoke%2:32:01::
+#32 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#33 memory NOUN memory%1:09:00::,memory%1:09:02::
+#39 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#41 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+I saw " Fiorello ! " performed in New York by the original cast and I think this company is every bit as good , and perhaps better .
+7
+#6 perform VERB perform%2:36:00::,perform%2:36:01::
+#12 original ADJ original%5:00:01:first:00
+#13 cast NOUN cast%1:14:00::
+#16 think VERB think%2:31:01::,think%2:31:03::
+#18 company NOUN company%1:14:02::,company%1:14:03::
+#23 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#27 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Certainly in the matter of principals there is nothing lacking .
+2
+#3 matter NOUN matter%1:09:00::,matter%1:09:01::
+#5 principal NOUN principal%1:18:00::
+Bob Carroll may not bear quite as close a physical resemblance to LaGuardia as Tom Bosley does , but I was amazed at the way he became more and more Fiorello as the evening progressed , until one had to catch one's self up and remember that this was n't really LaGuardia come back among us again .
+8
+#3 not ADV not%4:02:00::
+#4 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#5 quite ADV quite%4:02:02::
+#9 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#24 way NOUN way%1:04:00::,way%1:09:00::
+#26 become VERB become%2:30:00::,become%2:42:01::
+#33 evening NOUN evening%1:28:00::,evening%1:28:02::
+#50 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+Then Rudy Bond was simply grand as Ben , the distraught Republican Party district chieftain .
+3
+#0 then ADV then%4:02:00::
+#4 simply ADV simply%4:02:00::,simply%4:02:02::
+#5 grand ADJ grand%5:00:00:extraordinary:00
+And Paul Lipson , as Morris , the faithful one who never gets home to his Shirley 's dinner , was fine , too .
+3
+#11 never ADV never%4:02:00::
+#21 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#23 too ADV too%4:02:01::
+As for the ladies , they were full of charm , and sincerity , and deep and abiding affection for this hurrying driving , honest , little man .
+6
+#3 lady NOUN lady%1:18:01::,lady%1:18:02::
+#7 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#9 charm NOUN charm%1:07:00::
+#15 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+#18 affection NOUN affection%1:12:00::
+#27 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Charlotte Fairchild was excellent as the loyal Marie , who became the second Mrs. LaGuardia , singing and acting with remarkable conviction .
+5
+#3 excellent ADJ excellent%5:00:00:superior:02
+#10 become VERB become%2:30:00::,become%2:42:01::
+#12 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#16 sing VERB sing%2:32:08::,sing%2:36:01::
+#21 conviction NOUN conviction%1:09:00::
+Jen Nelson , as Thea , his first wife , managed to make that short role impressive .
+3
+#7 first ADJ first%3:00:00::,first%4:02:00::
+#10 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#12 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+And little Zeme North , a Dora with real spirit and verve , was fascinating whether she was singing of her love for Floyd , the cop who becomes sewer commissioner and then is promoted into garbage , or just dancing to display her exuberant feelings .
+11
+#9 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#18 sing VERB sing%2:32:08::,sing%2:36:01::
+#21 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#26 cop NOUN cop%1:18:00::
+#28 become VERB become%2:30:00::,become%2:42:01::
+#29 sewer NOUN sewer%1:06:00::
+#32 then ADV then%4:02:00::
+#34 promote VERB promote%2:33:00::,promote%2:41:00::
+#39 just ADV just%4:02:00::,just%4:02:03::
+#40 dance VERB dance%2:36:00::,dance%2:38:01::
+#45 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+Such fascinating novelties in the score as the fugual treatment of " On the Side of the Angels " and " Politics and Poker " were handled splendidly , and I thought Rudy Bond and his band of tuneful ward-heelers made " Little Tin Box " even better than it was done by the New York cast ; all the words of its clever lyrics came through with perfect clarity .
+10
+#2 novelty NOUN novelty%1:09:00::
+#5 score NOUN score%1:10:00::
+#26 handle VERB handle%2:41:00::,handle%2:41:03::
+#36 band NOUN band%1:14:00::,band%1:14:01::,band%1:14:02::
+#40 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#47 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#56 cast NOUN cast%1:14:00::
+#60 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#64 lyric NOUN lyric%1:10:01::
+#68 perfect ADJ perfect%3:00:00::
+The party at Floyd 's penthouse gave the " chorines " a chance for a nostalgic frolic through all those hackneyed routines which have become a classic choreographic statement of the era 's nonsense .
+4
+#1 party NOUN party%1:14:00::
+#5 penthouse NOUN penthouse%1:06:00::
+#24 become VERB become%2:30:00::,become%2:42:01::
+#33 nonsense NOUN nonsense%1:06:00::
+LaGuardia 's multi lingual rallies , when he is running for Congress , are well staged , and wind up in a wild Jewish folk-dance that is really great musical theater .
+6
+#3 lingual ADJ lingual%3:01:00::
+#4 rally NOUN rally%1:14:00::
+#9 run VERB run%2:33:06::
+#22 wild ADJ wild%3:00:02::,wild%5:00:00:enthusiastic:00,wild%5:00:00:insane:00,wild%5:00:00:passionate:00,wild%5:00:00:stormy:00,wild%5:00:00:unsupported:02,wild%5:00:01:uncontrolled:00
+#27 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#28 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+Martin Tahse has established quite a reputation for himself as a successful stager of touring productions .
+2
+#3 establish VERB establish%2:31:00::,establish%2:36:00::,establish%2:36:10::
+#15 production NOUN production%1:04:00::,production%1:10:00::
+The sets are remarkably elaborate for a road-show that does n't pause long in any one place , and they are devised so that they shift with a minimum of interruption or obtrusiveness .
+3
+#1 set NOUN set%1:06:00::
+#16 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#21 devise VERB devise%2:36:00::
+( Several times recently I have wondered whether shows were being staged for the sake of the script or just to entertain the audience with the spectacle of scenery being shifted right in front of their eyes .
+10
+#2 time NOUN time%1:11:00::
+#6 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#8 show NOUN show%1:04:00::,show%1:10:00::
+#11 stage VERB stage%2:36:01::
+#14 sake NOUN sake%1:09:00::
+#17 script NOUN script%1:10:00::
+#19 just ADV just%4:02:00::,just%4:02:03::
+#21 entertain VERB entertain%2:41:00::
+#23 audience NOUN audience%1:14:01::
+#36 eye NOUN eye%1:08:00::,eye%1:09:01::
+I'm glad to say there 's none of that distraction in this " Fiorello ! "
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 distraction NOUN distraction%1:04:02::
+It has all been done in superb style , and the result is a show which deserves the support of every person hereabouts who enjoys good musical theater .
+7
+#6 superb ADJ superb%5:00:00:superior:02
+#7 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#14 show NOUN show%1:04:00::,show%1:10:00::
+#18 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#21 person NOUN person%1:03:00::,person%1:08:00::
+#24 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#25 good ADJ good%3:00:01::,good%5:00:00:nice:00
+Loew 's Theater presents " Where the Boys are " , an MGM picture produced by Joe Pasternak and directed by Henry Levin from a screenplay by George Wells .
+3
+#3 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#14 produce VERB produce%2:39:00::
+#19 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+The cast :
+1
+#1 cast NOUN cast%1:14:00::
+Since the hero , a sterling and upright fellow , is a rich Brown senior , while two Yalies are cast as virtual rapists , I suppose I should disqualify myself from sitting in judgment on " Where the Boys are " , but I shall do nothing of the sort .
+9
+#2 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#7 upright ADJ upright%5:00:00:righteous:00
+#8 fellow NOUN fellow%1:18:00::
+#12 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#20 cast VERB cast%2:41:14::
+#26 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#32 sit VERB sit%2:33:00::,sit%2:38:01::
+#34 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#50 sort NOUN sort%1:09:00::,sort%1:18:00::
+Instead - and not just to prove my objectivity - I hasten to report that it 's a highly amusing film which probably does a fairly accurate job of reporting on the Easter vacation shenanigans of collegians down in Fort Lauderdale , and that it seems to come to grips quite honestly with the moral problem that most commonly vexes youngsters in this age group - that is to say , sex .
+16
+#4 just ADV just%4:02:00::,just%4:02:03::
+#6 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#13 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#20 film NOUN film%1:10:00::,film%1:10:01::
+#25 fairly ADV fairly%4:02:02::
+#26 accurate ADJ accurate%5:00:00:correct:00
+#27 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#29 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#33 vacation NOUN vacation%1:28:00::
+#37 down ADV down%4:02:00::,down%4:02:02::
+#50 quite ADV quite%4:02:02::
+#51 honestly ADV honestly%4:02:01::
+#54 moral ADJ moral%3:00:00::
+#55 problem NOUN problem%1:09:00::,problem%1:26:00::
+#57 most ADV most%4:02:00::
+#71 sex NOUN sex%1:04:00::,sex%1:07:00::
+The answers the girls give struck me as reasonably varied and healthily individual .
+2
+#3 girl NOUN girl%1:18:01::,girl%1:18:03::
+#5 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+If most of them were n't exactly specific - well , that 's the way it is in life , I guess .
+3
+#6 exactly ADV exactly%4:02:02::
+#7 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#18 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+But at least it 's reassuring to see some teenagers who do n't profess to know all the answers and are thinking about their problems instead .
+3
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 problem NOUN problem%1:09:00::,problem%1:26:00::
+" Where the Boys Are " also has a juvenile bounce that makes for a refreshing venture in comedy .
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 bounce NOUN bounce%1:04:00::
+There are some sharp and whipping lines and some hilariously funny situations - the best of the latter being a mass impromptu plunge into a nightclub tank where a " mermaid " is performing .
+7
+#6 line NOUN line%1:10:02::,line%1:25:00::
+#10 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+#11 situation NOUN situation%1:26:01::
+#14 good ADJ best%3:00:00::,good%3:00:01::
+#17 latter ADJ latter%3:00:00::
+#26 tank NOUN tank%1:06:00::
+#33 perform VERB perform%2:36:00::,perform%2:36:01::
+Most of the female faces are new , or at least not too familiar .
+3
+#4 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#12 too ADV too%4:02:00::
+#13 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+Dolores Hart , is charming in a leading role , and quite believable .
+1
+#11 quite ADV quite%4:02:03::
+I was delighted with Paula Prentiss ' comedy performance , which was as fresh and unstilted as one 's highest hopes might ask .
+3
+#8 performance NOUN performance%1:04:01::,performance%1:10:00::
+#20 hope NOUN hope%1:09:00::,hope%1:18:00::
+#22 ask VERB ask%2:32:01::,ask%2:32:05::
+A couple of the males made good comedy , too - Jim Hutton and Frank Gorshin .
+3
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#6 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#9 too ADV too%4:02:01::
+The only performance which was too soft for me was that of Yvette Mimieux , but since someone had to become the victim of despoilers , just to emphasize that such things do happen at these fracases , I suppose this was the attitude the part called for .
+9
+#2 performance NOUN performance%1:04:01::,performance%1:10:00::
+#5 too ADV too%4:02:00::
+#6 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+#20 become VERB become%2:30:00::,become%2:42:01::
+#26 just ADV just%4:02:00::,just%4:02:03::
+#31 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#33 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#39 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#45 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+I must say , however , that I preferred the acting that had something of a biting edge to it .
+6
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 however ADV however%4:02:04::
+#8 prefer VERB prefer%2:31:00::
+#10 acting NOUN acting%1:04:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 edge NOUN edge%1:06:00::,edge%1:07:00::,edge%1:25:00::
+To anyone who remembers Newport at its less than maximum violence , this view of what the boys and girls do in the springtime before they wing north for the Jazz Festival ought to prove entertaining .
+5
+#4 Newport NOUN newport%1:15:01::
+#17 boy NOUN boy%1:18:03::
+#19 girl NOUN girl%1:18:01::,girl%1:18:03::
+#26 wing VERB wing%2:38:00::
+#34 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+The second feature , " The Price of Silence " , is a British detective story that will talk your head off .
+2
+#1 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#2 feature NOUN feature%1:10:00::

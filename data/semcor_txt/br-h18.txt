@@ -1,0 +1,601 @@
+ With this enlarged role in mind , I should like to make a few suggestions : What we in the United States do or do not do will make a very large difference in what happens in the rest of the world .
+6
+#5 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#25 not ADV not%4:02:00::
+#31 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#35 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#38 rest NOUN rest%1:24:00::
+We in this Department must think about foreign policy in its total context .
+1
+#11 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+Foreign policy is the total involvement of the American people with peoples and governments abroad .
+3
+#4 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#9 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+That means that , if we are to achieve a new standard of leadership , we must think in terms of the total context of our situation .
+3
+#11 standard NOUN standard%1:10:00::
+#17 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#26 situation NOUN situation%1:26:01::
+It is the concern of the Department of State that the American people are safe and secure - defense is not a monopoly concern of the Department of Defense .
+6
+#3 concern NOUN concern%1:09:00::
+#12 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#18 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#20 not ADV not%4:02:00::
+#22 monopoly NOUN monopoly%1:26:02::
+#23 concern NOUN concern%1:09:00::
+It is also the concern of the Department of State that our trading relationships with the rest of the world are vigorous , profitable , and active - this is not just a passing interest or a matter of concern only to the Department of Commerce .
+11
+#4 concern NOUN concern%1:09:00::
+#12 trade NOUN trade%1:04:03::,trading%1:04:00::
+#16 rest NOUN rest%1:24:00::
+#19 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#23 profitable ADJ profitable%3:00:00::
+#30 not ADV not%4:02:00::
+#31 just ADV just%4:02:00::,just%4:02:03::
+#33 passing ADJ passing%5:00:00:impermanent:00
+#37 matter NOUN matter%1:09:00::,matter%1:09:01::
+#39 concern NOUN concern%1:09:01::,concern%1:12:01::
+#40 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+We can no longer rely on interdepartmental machinery " somewhere upstairs " to resolve differences between this and other departments .
+2
+#13 resolve VERB resolve%2:31:01::,resolve%2:32:00::
+#18 other ADJ other%3:00:00::
+Assistant Secretaries of State will now carry an increased burden of active formulation and coordination of policies .
+6
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 carry VERB carry%2:29:00::,carry%2:33:12::,carry%2:35:01::,carry%2:35:09::
+#9 burden NOUN burden%1:06:01::
+#12 formulation NOUN formulation%1:04:00::
+#14 coordination NOUN coordination%1:24:00::
+#16 policy NOUN policy%1:09:00::,policy%1:10:00::
+Means must be found to enable us to keep in touch as regularly and as efficiently as possible with our colleagues in other departments concerned with foreign policy .
+4
+#0 means NOUN means%1:06:00::
+#5 enable VERB enable%2:30:00::,enabling%3:00:00::
+#8 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#22 other ADJ other%3:00:00::
+I think we need to concern ourselves also with the timeliness of action .
+3
+#1 think VERB think%2:31:01::,think%2:31:03::
+#5 concern VERB concern%2:42:00::,concern%2:42:01::
+#12 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+Every policy officer cannot help but be a planning officer .
+5
+#1 policy NOUN policy%1:09:00::,policy%1:10:00::
+#2 officer NOUN officer%1:18:02::,officer%1:18:03::
+#4 help VERB help%2:42:08::
+#8 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#9 officer NOUN officer%1:18:02::,officer%1:18:03::
+Unless we keep our eyes on the horizon ahead , we shall fail to bring ourselves on target with the present .
+5
+#2 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#4 eye NOUN eye%1:08:00::,eye%1:09:01::
+#12 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#17 target NOUN target%1:06:00::
+#20 present NOUN present%1:10:00::,present%1:28:00::
+The movement of events is so fast , the pace so severe , that an attempt to peer into the future is essential if we are to think accurately about the present .
+11
+#1 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 fast ADJ fast%3:00:01::
+#9 pace NOUN pace%1:28:00::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 severe ADJ severe%5:00:01:bad:00
+#17 peer VERB peer%2:39:00::
+#20 future NOUN future%1:10:00::,future%1:28:00::
+#22 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#27 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#31 present NOUN present%1:10:00::,present%1:28:00::
+If there is anything which we can do in the executive branch of the Government to speed up the processes by which we come to decisions on matters on which we must act promptly , that in itself would be a major contribution to the conduct of our affairs .
+8
+#14 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#19 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#27 matter NOUN matter%1:09:00::,matter%1:09:01::
+#32 act VERB act%2:33:00::,act%2:41:00::
+#33 promptly ADV promptly%4:02:02::
+#41 major ADJ major%3:00:05::,major%3:00:06::
+#45 conduct NOUN conduct%1:04:00::
+#48 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+Action taken today is often far more valuable than action taken several months later in response to a situation then out of control .
+8
+#0 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#1 take VERB take%2:31:02::,take%2:34:00::
+#5 far ADV far%4:02:02::
+#9 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#10 take VERB take%2:31:02::,take%2:34:00::
+#13 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#18 situation NOUN situation%1:26:01::
+#19 then ADV then%4:02:01::
+There will of course be times for delay and inaction .
+1
+#5 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+What I am suggesting is that when we delay , or when we fail to act , we do so intentionally and not through inadvertence or through bureaucratic or procedural difficulties .
+4
+#13 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#15 act VERB act%2:33:00::,act%2:41:00::
+#19 so ADV so%4:02:04::
+#22 not ADV not%4:02:00::
+I also hope that we can do something about reducing the infant mortality rate of ideas - an affliction of all bureaucracies .
+2
+#9 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#15 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+We want to stimulate ideas from the bottom to the top of the Department .
+4
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#7 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#10 top NOUN top%1:07:02::,top%1:26:00::
+We want to make sure that our junior colleagues realize that ideas are welcome , that initiative goes right down to the bottom and goes all the way to the top .
+9
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 realize VERB realize%2:31:01::
+#11 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#13 welcome ADJ welcome%3:00:00::
+#18 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#22 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#24 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#30 top NOUN top%1:07:02::,top%1:26:00::
+I hope no one expects that only Presidential appointees are looked upon as sources of ideas .
+2
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+The responsibility for taking the initiative in generating ideas is that of every officer in the Department who has a policy function , regardless of rank .
+7
+#3 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#8 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#13 officer NOUN officer%1:18:02::,officer%1:18:03::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 policy NOUN policy%1:09:00::,policy%1:10:00::
+#21 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#25 rank NOUN rank%1:26:00::,rank%1:26:01::
+Further , I would hope that we could pay attention to little things .
+2
+#0 further ADV further%4:02:02::,further%4:02:03::
+#12 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+While observing the operations of our Government in various parts of the world , I have felt that in many situations where our policies were good we have tended to ignore minor problems which spoiled our main effort .
+12
+#1 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#3 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#6 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#12 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#16 feel VERB feel%2:31:00::,feel%2:39:00::
+#20 situation NOUN situation%1:26:01::
+#23 policy NOUN policy%1:09:00::,policy%1:10:00::
+#25 good ADJ best%3:00:00::,good%3:00:01::
+#28 tend VERB tend%2:42:01::
+#31 minor ADJ minor%3:00:07::
+#32 problem NOUN problem%1:09:00::,problem%1:26:00::
+#34 spoil VERB spoil%2:35:00::
+To cite only a few examples :
+3
+#1 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+The wrong man in the wrong position , perhaps even in a junior position abroad , can be a source of great harm to our policy ; the attitudes of a U.N. delegate who experiences difficulty in finding adequate housing in New York City , or of a foreign diplomat in similar circumstances in our Capital , can be easily be directed against the United States and all that it stands for .
+14
+#1 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#6 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#13 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#21 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#25 policy NOUN policy%1:09:00::,policy%1:10:00::
+#37 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#39 housing NOUN housing%1:06:00::
+#48 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#52 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#55 capital NOUN capital%1:15:00::,capital%1:15:01::
+#59 easily ADV easily%4:02:01::,easily%4:02:06::
+#61 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+Dozens of seemingly small matters go wrong all over the world .
+3
+#0 dozen NOUN dozen%1:23:00::
+#4 matter NOUN matter%1:09:00::,matter%1:09:01::
+#10 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Sometimes those who know about them are too far down the line to be able to do anything about them .
+4
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 down ADV down%4:02:00::,down%4:02:06::
+#11 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#14 able ADJ able%3:00:00::
+I would hope that we could create the recognition in the Department and overseas that those who come across little things going wrong have the responsibility for bringing these to the attention of those who can do something about them .
+3
+#20 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#31 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+If the Department of State is to take primary responsibility for foreign policy in Washington , it follows that the ambassador is expected to take charge overseas .
+2
+#14 Washington NOUN washington%1:15:01::
+#17 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+This does not mean in a purely bureaucratic sense but in an active , operational , interested , responsible fashion .
+5
+#2 not ADV not%4:02:00::
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#8 sense NOUN sense%1:10:00::
+#16 interested ADJ interested%5:00:00:involved:00
+#19 fashion NOUN fashion%1:07:00::
+He is expected to know about what is going on among the representatives of other agencies who are stationed in his country .
+3
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 other ADJ other%3:00:00::
+#21 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+If any official operation abroad begins to go wrong , we shall look to the ambassador to find out why and to get suggestions for remedial action .
+4
+#3 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#4 abroad ADV abroad%4:02:00::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#26 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+It occurred to me that you might be interested in some thoughts which I expressed privately in recent years , in the hope of clearing up a certain confusion in the public mind about what foreign policy is all about and what it means , and of developing a certain compassion for those who are carrying such responsibilities inside Government .
+12
+#8 interested ADJ interested%3:00:00::
+#11 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#14 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#17 recent ADJ recent%5:00:00:past:00
+#18 year NOUN year%1:28:00::,year%1:28:01::
+#22 hope NOUN hope%1:09:00::,hope%1:18:00::
+#27 certain ADJ certain%5:00:00:definite:00
+#28 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#31 public ADJ public%3:00:00::,public%5:00:00:common:02
+#49 certain ADJ certain%5:00:00:definite:00
+#55 carry VERB carry%2:29:00::,carry%2:33:12::,carry%2:35:01::,carry%2:35:09::
+#59 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+I tried to do so by calling to their attention some of the problems that a senior departmental policy officer faces .
+9
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 so ADV so%4:02:04::
+#6 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#9 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#13 problem NOUN problem%1:09:00::,problem%1:26:00::
+#16 senior ADJ senior%3:00:00::
+#18 policy NOUN policy%1:09:00::,policy%1:10:00::
+#19 officer NOUN officer%1:18:02::,officer%1:18:03::
+#20 face VERB face%2:32:00::,face%2:32:03::
+This means practically everybody in this room .
+3
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#2 practically ADV practically%4:02:00::
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+Whether it will strike home for you or not will be for you to determine .
+1
+#14 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+The senior policy officer may be moved to think hard about a problem by any of an infinite variety of stimuli : an idea in his own head , the suggestions of a colleague , a question from the Secretary or the President , a proposal by another department , a communication from a foreign government or an American ambassador abroad , the filing of an item for the agenda of the United Nations or of any other of dozens of international bodies , a news item read at the breakfast table , a question to the President or the Secretary at a news conference , a speech by a Senator or Congressman , an article in a periodical , a resolution from a national organization , a request for assistance from some private American interests abroad , et cetera , ad infinitum .
+27
+#1 senior ADJ senior%3:00:00::
+#2 policy NOUN policy%1:09:00::,policy%1:10:00::
+#3 officer NOUN officer%1:18:02::,officer%1:18:03::
+#6 move VERB move%2:29:06::,move%2:36:00::,move%2:37:00::,move%2:37:01::,move%2:38:01::
+#8 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#9 hard ADV hard%4:02:00::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 infinite ADJ infinite%3:00:00::
+#18 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#23 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#26 own ADJ own%5:00:00:personal:00
+#27 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#42 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#45 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#51 communication NOUN communication%1:03:00::,communication%1:10:01::
+#54 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#55 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#63 file VERB file%2:32:02::,filing%1:10:00::
+#69 agenda NOUN agenda%1:09:00::
+#79 dozen NOUN dozen%1:23:00::
+#82 body NOUN body%1:14:00::
+#87 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#97 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#107 speech NOUN speech%1:10:00::,speech%1:10:02::
+#115 article NOUN article%1:10:00::
+#121 resolution NOUN resolution%1:07:00::,resolution%1:10:01::
+#125 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+The policy officer lives with his antennae alerted for the questions which fall within his range of responsibility .
+6
+#1 policy NOUN policy%1:09:00::,policy%1:10:00::
+#2 officer NOUN officer%1:18:02::,officer%1:18:03::
+#3 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#6 antenna NOUN antenna%1:05:00::
+#12 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#15 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+His first thought is about the question itself :
+2
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+Is there a question here for American foreign policy , and , if so , what is it ?
+1
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+For he knows that the first and sometimes most difficult job is to know what the question is - that when it is accurately identified it sometimes answers itself , and that the way in which it is posed frequently shapes the answer .
+9
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 first ADJ first%3:00:00::,first%4:02:00::
+#8 most ADV most%4:02:00::
+#10 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#13 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 identify VERB identify%2:31:00::,identify%2:32:00::
+#27 answer VERB answer%2:31:00::,answer%2:32:00::
+#33 way NOUN way%1:04:00::,way%1:09:00::
+#38 pose VERB pose%2:42:00::
+Chewing it over with his colleagues and in his own mind , he reaches a tentative identification of the question - tentative because it may change as he explores it further and because , if no tolerable answer can be found , it may have to be changed into one which can be answered .
+7
+#9 own ADJ own%5:00:00:personal:00
+#13 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#25 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#30 further ADV further%4:02:02::,further%4:02:03::
+#40 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#44 have VERB have%2:42:08::
+#47 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Meanwhile he has been thinking about the facts surrounding the problem , facts which he knows can never be complete , and the general background , much of which has already been lost to history .
+8
+#10 problem NOUN problem%1:10:00::,problem%1:26:00::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#23 general ADJ general%5:00:00:imprecise:00
+#24 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+#30 already ADV already%4:02:00::
+#32 lost ADJ lost%3:00:01::
+#34 history NOUN history%1:28:00::
+He is appreciative of the expert help available to him and draws these resources into play , taking care to examine at least some of the raw material which underlies their frequently policy oriented conclusions .
+5
+#6 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#11 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#20 examine VERB examine%2:31:00::,examine%2:32:01::
+#32 policy NOUN policy%1:09:00::,policy%1:10:00::
+#34 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+He knows that he must give the expert his place , but he knows that he must also keep him in it .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#13 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+He is already beginning to box the compass of alternative lines of action , including doing nothing .
+7
+#2 already ADV already%4:02:00::
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 box VERB box%2:35:02::
+#7 compass NOUN compass%1:07:00::
+#10 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#12 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#14 include VERB include%2:42:00::
+He knows that he is thinking about action in relation to a future which can be perceived but dimly through a merciful fog .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#12 future NOUN future%1:10:00::,future%1:28:00::
+#22 fog NOUN fog%1:26:01::
+But he takes his bearings from the great guidelines of policy , well established precedents , the commitments of the United States under international charters and treaties , basic statutes , and well understood notions of the American people about how we are to conduct ourselves , in policy literature such as country papers and National Security Council papers accumulated in the Department .
+12
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#4 bearing NOUN bearing%1:15:00::
+#10 policy NOUN policy%1:09:00::,policy%1:10:00::
+#13 established ADJ established%3:00:00::
+#17 commitment NOUN commitment%1:04:00::
+#24 charter NOUN charter%1:10:00::
+#28 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#34 notion NOUN notion%1:09:02::
+#48 policy NOUN policy%1:09:00::,policy%1:10:00::
+#52 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#53 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#58 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+He will not be surprised to find that general principles produce conflicting results in the factual situation with which he is confronted .
+5
+#2 not ADV not%4:02:00::
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#10 produce VERB produce%2:39:00::
+#16 situation NOUN situation%1:26:01::
+He must think about which of these principles must take precedence .
+1
+#9 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+He will know that general policy papers written months before may not fit his problem because of crucial changes in circumstance .
+10
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#5 policy NOUN policy%1:09:00::,policy%1:10:00::
+#6 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#7 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#11 not ADV not%4:02:00::
+#12 fit VERB fit%2:42:01::
+#14 problem NOUN problem%1:10:00::,problem%1:26:00::
+#18 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#20 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+He is aware that every moderately important problem merges imperceptibly into every other problem .
+3
+#7 problem NOUN problem%1:10:00::,problem%1:26:00::
+#12 other ADJ other%5:00:02:past:00
+#13 problem NOUN problem%1:09:00::,problem%1:26:00::
+He must deal with the question of how to manage a part when it cannot be handled without relation to the whole - when the whole is too large to grasp .
+5
+#2 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#9 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#16 handle VERB handle%2:41:00::,handle%2:41:03::
+#21 whole NOUN whole%1:03:00::
+#25 whole NOUN whole%1:03:00::
+He must think of others who have a stake in the question and in its answer .
+2
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 stake NOUN stake%1:21:00::
+Who should be consulted among his colleagues in the Department or other departments and agencies of the Government ?
+2
+#11 other ADJ other%3:00:00::
+#17 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+Which American ambassadors could provide helpful advice ?
+1
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+What is the probable attitude of other governments , including those less directly involved ?
+5
+#6 other ADJ other%3:00:00::
+#7 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#9 include VERB include%2:42:00::
+#11 less ADV less%4:02:00::,less%4:02:01::
+#12 directly ADV directly%4:02:05::
+How and at what stage and in what sequence are other governments to be consulted ?
+4
+#4 stage NOUN stage%1:04:00::,stage%1:26:00::
+#8 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#10 other ADJ other%3:00:00::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+If action is indicated , what kind of action is relevant to the problem ?
+3
+#1 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#3 indicate VERB indicate%2:32:00::
+#8 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+The selection of the wrong tools can mean waste , at best , and at worst an unwanted inflammation of the problem itself .
+4
+#1 selection NOUN selection%1:22:00::
+#4 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#5 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#8 waste NOUN waste%1:04:00::
+Can the President or the Secretary act under existing authority , or will new legislation and new money be required ?
+5
+#2 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#6 act VERB act%2:33:00::,act%2:41:00::
+#9 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+#13 new ADJ new%3:00:00::
+#16 new ADJ new%3:00:00::
+Should the action be unilateral or multilateral ?
+2
+#2 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#4 unilateral ADJ unilateral%3:00:00::
+Is the matter one for the United Nations or some other international body ?
+2
+#2 matter NOUN matter%1:09:00::,matter%1:09:01::
+#12 body NOUN body%1:14:00::
+For , if so , the path leads through a complex process of parliamentary diplomacy which adds still another dimension to the problem .
+5
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#10 complex ADJ complex%3:00:00::
+#11 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#19 dimension NOUN dimension%1:09:00::
+#22 problem NOUN problem%1:10:00::,problem%1:26:00::
+What type of action can hope to win public support , first in this country and then abroad ?
+7
+#1 type NOUN type%1:18:00::
+#3 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#7 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+#8 public ADJ public%3:00:00::,public%5:00:00:common:02
+#9 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#14 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#16 then ADV then%4:02:00::
+For the policy officer will know that action can almost never be secret and that in general the effectiveness of policy will be conditioned by the readiness of the country to sustain it .
+9
+#2 policy NOUN policy%1:09:00::,policy%1:10:00::
+#3 officer NOUN officer%1:18:02::,officer%1:18:03::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#20 policy NOUN policy%1:09:00::,policy%1:10:00::
+#23 condition VERB condition%2:41:00::
+#26 readiness NOUN readiness%1:07:01::
+#29 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#31 sustain VERB sustain%2:34:00::,sustain%2:35:00::,sustain%2:42:01::
+He is interested in public opinion for two reasons :
+3
+#2 interested ADJ interested%3:00:00::
+#4 public ADJ public%3:00:00::,public%5:00:00:common:02
+#8 reason NOUN reason%1:09:01::,reason%1:16:00::
+first , because it is important in itself , and , second , because he knows that the American public cares about a decent respect for the opinions of mankind .
+6
+#0 first ADJ first%3:00:00::,first%4:02:00::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 care VERB care%2:37:00::,care%2:37:12::
+#23 decent ADJ decent%3:00:00::
+#24 respect NOUN respect%1:04:03::,respect%1:07:00::,respect%1:09:01::,respect%1:26:00::
+#29 mankind NOUN mankind%1:05:00::
+And , given probable public attitudes - about which reasonably good estimates can be made - what action is called for to insure necessary support ?
+7
+#2 given ADP given%1:09:00::
+#4 public ADJ public%3:00:00::,public%5:00:00:common:02
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#22 insure VERB insure%2:32:04::,insure%2:40:00::
+#23 necessary ADJ necessary%3:00:00::
+#24 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+May I add a caution on this particular point ?
+3
+#4 caution NOUN caution%1:09:00::
+#7 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#8 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+We do not want policy officers below the level of Presidential appointees to concern themselves too much with problems of domestic politics in recommending foreign policy action .
+10
+#2 not ADV not%4:02:00::
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 policy NOUN policy%1:09:00::,policy%1:10:00::
+#5 officer NOUN officer%1:18:02::,officer%1:18:03::
+#8 level NOUN level%1:26:00::,level%1:26:01::
+#13 concern VERB concern%2:42:00::,concern%2:42:01::
+#18 problem NOUN problem%1:09:00::,problem%1:26:00::
+#20 domestic ADJ domestic%3:00:00::
+#23 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#26 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+In the first place our business is foreign policy , and it is the business of the Presidential leadership and his appointees in the Department to consider the domestic political aspects of a problem .
+5
+#5 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#14 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#28 domestic ADJ domestic%3:00:00::
+#30 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#33 problem NOUN problem%1:09:00::,problem%1:26:00::
+Mr. Truman emphasized this point by saying , " You fellows in the Department of State do n't know much about domestic politics " .
+4
+#4 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#21 domestic ADJ domestic%3:00:00::
+This is an important consideration .
+1
+#4 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+If we sit here reading editorials and looking at public opinion polls and other reports that cross our desks , we should realize that this is raw , undigested opinion expressed in the absence of leadership .
+9
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#4 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#7 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#13 other ADJ other%3:00:00::
+#14 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#22 realize VERB realize%2:31:01::
+#26 raw ADJ raw%5:00:00:unanalyzed:00
+#30 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+What the American people will do turns in large degree on their leadership .
+2
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#9 degree NOUN degree%1:26:01::
+We cannot test public opinion until the President and the leaders of the country have gone to the public to explain what is required and have asked them for support for the necessary action .
+8
+#7 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#10 leader NOUN leader%1:18:00::
+#13 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#15 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+#26 ask VERB ask%2:32:01::,ask%2:32:05::
+#29 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#32 necessary ADJ necessary%3:00:00::
+#33 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+I doubt , for example , that , 3 months before the leadership began to talk about what came to be the Marshall plan , any public-opinion expert would have said that the country would have accepted such proposals .
+7
+#1 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#30 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#33 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#36 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#38 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+The problem in the policy officer 's mind thus begins to take shape as a galaxy of utterly complicated factors - political , military , economic , financial , legal , legislative , procedural , administrative - to be sorted out and handled within a political system which moves by consent in relation to an external environment which cannot be under control .
+12
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#4 policy NOUN policy%1:09:00::,policy%1:10:00::
+#5 officer NOUN officer%1:18:02::,officer%1:18:03::
+#8 thus ADV thus%4:02:01::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 complicated ADJ complicated%5:00:00:complex:00
+#19 factor NOUN factor%1:08:00::,factor%1:18:00::
+#25 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#29 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#42 handle VERB handle%2:41:00::,handle%2:41:03::
+#55 external ADJ external%5:00:00:extrinsic:00
+#56 environment NOUN environment%1:15:00::,environment%1:26:00::
+And the policy officer has the hounds of time snapping at his heels .
+4
+#2 policy NOUN policy%1:09:00::,policy%1:10:00::
+#3 officer NOUN officer%1:18:02::,officer%1:18:03::
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#8 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::

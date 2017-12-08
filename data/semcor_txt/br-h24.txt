@@ -1,0 +1,641 @@
+ If you elect to use the Standard Deduction or the Tax Table , and later find you should have itemized your deductions , you may do so by filing an amended return within the time prescribed for filing a claim for refund .
+11
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#7 deduction NOUN deduction%1:04:00::
+#10 tax NOUN tax%1:21:00::
+#11 table NOUN table%1:14:00::
+#14 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#15 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#21 deduction NOUN deduction%1:04:00::
+#28 file VERB file%2:32:02::,filing%1:10:00::
+#37 file VERB file%2:32:02::,filing%1:10:00::
+#39 claim NOUN claim%1:04:00::,claim%1:07:01::,claim%1:07:02::,claim%1:10:00::
+The same is true if you have itemized your deductions and later decide you should have used the Standard Deduction or Tax Table .
+9
+#1 same ADJ same%3:00:00::,same%3:00:02::
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#9 deduction NOUN deduction%1:04:00::
+#11 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#19 deduction NOUN deduction%1:04:00::
+#21 tax NOUN tax%1:21:00::
+#22 table NOUN table%1:14:00::
+The words amended return should be plainly written across the top of such return .
+4
+#6 plainly ADV plainly%4:02:01::
+#7 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#10 top NOUN top%1:06:00::,top%1:06:01::,top%1:06:04::,top%1:15:00::
+#13 return NOUN return%1:10:01::
+April 15 is usually the final date for filing income tax returns for most people because they use the calendar year ending on December 31 .
+4
+#6 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#8 file VERB file%2:32:02::,filing%1:10:00::
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+If you use a fiscal year , a year ending on the last day of any month other than December , your return is due on or before the 15 th day of the 4 th month after the close of your tax year .
+7
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 last ADJ last%5:00:00:unlikely:00
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#22 return NOUN return%1:10:01::
+#31 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#39 close NOUN close%1:28:00::
+#42 tax NOUN tax%1:21:00::
+If the last day ( due date ) for performing any act for tax purposes , such as filing a return or making a tax payment , etc. , falls on Saturday , Sunday , or a legal holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal holiday .
+15
+#2 last ADJ last%5:00:00:unlikely:00
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 perform VERB perform%2:36:00::,perform%2:41:00::
+#11 act NOUN act%1:03:00::
+#13 tax NOUN tax%1:21:00::
+#18 file VERB file%2:32:02::,filing%1:10:00::
+#20 return NOUN return%1:10:01::
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#24 tax NOUN tax%1:21:00::
+#29 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#42 perform VERB perform%2:36:00::,perform%2:41:00::
+#44 act NOUN act%1:03:00::
+#47 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#49 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#52 not ADV not%4:02:00::
+Since April 15 , 1962 , is on Sunday your return for the calendar year 1961 will be timely filed if it is filed on or before Monday , April 16 , 1962 .
+3
+#10 return NOUN return%1:10:01::
+#19 file VERB file%2:32:02::,filing%1:10:00::
+#23 file VERB file%2:32:02::,filing%1:10:00::
+If you mail a return or tax payment , you must place it in the mails in ample time to reach the district director on or before the due date .
+6
+#2 mail VERB mail%2:35:00::
+#4 return NOUN return%1:10:01::
+#6 tax NOUN tax%1:21:00::
+#11 place VERB place%2:31:13::
+#15 mail NOUN mail%1:06:01::
+#20 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+If you were required to file a declaration of estimated tax for the calendar year 1961 , it is not necessary to pay the fourth installment otherwise due on January 15 , 1962 , if you file your income tax return Form 1040 , and pay your tax in full for the calendar year 1961 by January 31 , 1962 .
+9
+#5 file VERB file%2:32:02::,filing%1:10:00::
+#19 not ADV not%4:02:00::
+#20 necessary ADJ necessary%3:00:00::
+#22 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#25 installment NOUN installment%1:21:00::
+#27 due ADJ due%3:00:00::
+#36 file VERB file%2:32:02::,filing%1:10:00::
+#45 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#47 tax NOUN tax%1:21:00::
+The filing of an original or amended declaration , otherwise due on January 15 , 1962 , is also waived , if you file your Form 1040 for 1961 and pay the full tax by January 31 , 1962 .
+7
+#1 file VERB file%2:32:02::,filing%1:10:00::
+#4 original ADJ original%5:00:00:underived:00
+#10 due ADJ due%3:00:00::
+#23 file VERB file%2:32:02::,filing%1:10:00::
+#30 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#32 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#33 tax NOUN tax%1:21:00::
+Farmers , for these purposes , have until February 15 , 1962 , to file Form 1040 and pay the tax in full for the calendar year 1961 .
+5
+#0 farmer NOUN farmer%1:18:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 file VERB file%2:32:02::,filing%1:10:00::
+#18 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#20 tax NOUN tax%1:21:00::
+Fiscal year taxpayers have until the last day of the first month following the close of the fiscal year ( farmers until the 15 th day of the 2 d month ) .
+8
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 last ADJ last%5:00:00:unlikely:00
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 first ADJ first%3:00:00::,first%4:02:00::
+#12 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#14 close NOUN close%1:28:00::
+#20 farmer NOUN farmer%1:18:00::
+#25 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+See Chapter 38 .
+1
+#1 chapter NOUN chapter%1:10:00::
+Nonresident aliens living in Canada or Mexico who earn wages in the United States may be subject to withholding of tax on their wages , the same as if they were citizens of the United States .
+3
+#2 live VERB live%2:42:08::
+#16 subject ADJ subject%5:00:00:subordinate:02
+#20 tax NOUN tax%1:21:00::
+However , if their United States income is not subject to the withholding of tax on wages , their returns are due June 15 , 1962 , if they use a calendar year , or the 15 th day of the 6 th month after the close of their fiscal year .
+8
+#0 however ADV however%4:02:04::
+#8 not ADV not%4:02:00::
+#9 subject ADJ subject%5:00:00:subordinate:02
+#14 tax NOUN tax%1:21:00::
+#19 return NOUN return%1:10:01::
+#29 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#38 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#46 close NOUN close%1:28:00::
+If you are a nonresident alien and a resident of Puerto Rico , your return is also due June 15 , 1962 , or the 15 th day of the 6 th month after the close of your fiscal year .
+4
+#8 resident NOUN resident%1:18:01::
+#14 return NOUN return%1:10:01::
+#27 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#35 close NOUN close%1:28:00::
+If a taxpayer dies , the executor , administrator , or legal representative must file the final return for the decedent on or before the 15 th day of the 4 th month following the close of the deceased taxpayer 's normal tax year .
+11
+#3 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#6 executor NOUN executor%1:18:00::
+#11 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#12 representative NOUN representative%1:18:00::
+#14 file VERB file%2:32:02::,filing%1:10:00::
+#17 return NOUN return%1:10:01::
+#27 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#33 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#35 close NOUN close%1:28:00::
+#41 normal ADJ normal%3:00:01::,normal%3:00:03::
+#42 tax NOUN tax%1:21:00::
+Suppose John Jones , who , for 1960 , filed on the basis of a calendar year , died June 20 , 1961 .
+3
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#9 file VERB file%2:32:02::,filing%1:10:00::
+#18 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+His return for the period January 1 to June 20 , 1961 , is due April 16 , 1962 .
+2
+#1 return NOUN return%1:10:01::
+#4 period NOUN period%1:28:00::,period%1:28:03::
+The return for a decedent may also serve as a claim for refund of an overpayment of tax .
+4
+#1 return NOUN return%1:10:01::
+#7 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#10 claim NOUN claim%1:04:00::,claim%1:07:01::,claim%1:07:02::,claim%1:10:00::
+#17 tax NOUN tax%1:21:00::
+In such a case , Form 1310 should be completed and attached to the return .
+4
+#3 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#9 complete VERB complete%2:30:00::,complete%2:32:00::
+#11 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#14 return NOUN return%1:10:01::
+This form may be obtained from the local office of your district director .
+3
+#1 form NOUN form%1:10:01::
+#4 obtain VERB obtain%2:40:00::
+#8 office NOUN office%1:06:00::
+Returns of estates or trusts are due on or before the 15 th day of the 4 th month after the close of the tax year .
+6
+#0 return NOUN return%1:10:01::
+#2 estate NOUN estate%1:21:02::
+#4 trust NOUN trust%1:21:03::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#21 close NOUN close%1:28:00::
+#24 tax NOUN tax%1:21:00::
+Under unusual circumstances a resident individual may be granted an extension of time to file a return .
+5
+#2 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#8 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#10 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#14 file VERB file%2:32:02::,filing%1:10:00::
+#16 return NOUN return%1:10:01::
+You may apply for such an extension by filing Form 2688 , Application For Extension Of Time To File , with the District Director of Internal Revenue for your district , or you may make your application in a letter .
+5
+#2 apply VERB apply%2:32:00::
+#6 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#8 file VERB file%2:32:02::,filing%1:10:00::
+#36 application NOUN application%1:10:00::
+#39 letter NOUN letter%1:10:00::
+Your application must include the following information :
+4
+#1 application NOUN application%1:10:00::
+#3 include VERB include%2:42:00::
+#5 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#6 information NOUN information%1:09:00::,information%1:10:02::
+( 1 ) your reasons for requesting an extension , ( 2 ) whether you filed timely income tax returns for the 3 preceding years , and ( 3 ) whether you were required to file an estimated return for the year , and if so whether you did file and have paid the estimated tax payments on or before the due dates .
+10
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+#8 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#15 file VERB file%2:32:02::,filing%1:10:00::
+#24 year NOUN year%1:28:00::,year%1:28:01::
+#35 file VERB file%2:32:02::,filing%1:10:00::
+#38 return NOUN return%1:10:01::
+#41 year NOUN year%1:28:00::,year%1:28:01::
+#49 file VERB file%2:32:02::,filing%1:10:00::
+#52 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#55 tax NOUN tax%1:21:00::
+Any failure to file timely returns or make estimated tax payments when due must be fully explained .
+7
+#3 file VERB file%2:32:02::,filing%1:10:00::
+#5 return NOUN return%1:10:01::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 tax NOUN tax%1:21:00::
+#10 payment NOUN payment%1:04:00::,payment%1:21:00::
+#12 due ADJ due%3:00:00::
+#15 fully ADV fully%4:02:04::
+Extensions are not granted as a matter of course , and the reasons for your request must be substantial .
+5
+#0 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#2 not ADV not%4:02:00::
+#3 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#12 reason NOUN reason%1:09:01::,reason%1:16:00::
+#18 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+If you are unable to sign the request , because of illness or other good cause , another person who stands in close personal or business relationship to you may sign the request on your behalf , stating the reason why you are unable to sign .
+12
+#5 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#13 other ADJ other%5:00:02:past:00
+#14 good ADJ best%3:00:00::,good%3:00:01::
+#15 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#18 person NOUN person%1:03:00::,person%1:08:00::
+#20 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#22 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#23 personal ADJ personal%3:00:00::
+#30 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#37 state VERB state%2:32:01::,state%2:32:02::
+#39 reason NOUN reason%1:09:01::,reason%1:16:00::
+#45 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+You should make any request for an extension early so that if it is refused , your return may still be on time .
+6
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#8 early ADV earlier%4:02:00::
+#9 so CONJ so%4:02:10::
+#17 return NOUN return%1:10:01::
+#19 still ADV still%4:02:04::
+Citizens of the United States who , on April 15 , are not in the United States or Puerto Rico , are allowed an extension of time until June 15 for filing the return for the preceding calendar year .
+5
+#12 not ADV not%4:02:00::
+#22 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#24 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#31 file VERB file%2:32:02::,filing%1:10:00::
+#33 return NOUN return%1:10:01::
+An extension of 2 months beyond the regular due date for filing is also available to taxpayers making returns for a fiscal year .
+4
+#1 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#7 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#11 file VERB file%2:32:02::,filing%1:10:00::
+#18 return NOUN return%1:10:01::
+Taxpayers residing or traveling in Alaska are also allowed this extension of time for filing , but those residing or traveling in Hawaii are not allowed this automatic extension .
+9
+#3 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#10 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#14 file VERB file%2:32:02::,filing%1:10:00::
+#20 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#24 not ADV not%4:02:00::
+#25 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#27 automatic ADJ automatic%5:00:00:involuntary:02
+#28 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+Military or Naval Personnel on duty in Alaska or outside the United States and Puerto Rico are also allowed this automatic extension of time for filing their returns .
+6
+#18 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#20 automatic ADJ automatic%5:00:00:involuntary:02
+#21 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#23 time NOUN time%1:28:01::,time%1:28:05::
+#25 file VERB file%2:32:02::,filing%1:10:00::
+#27 return NOUN return%1:10:01::
+You must attach a statement to your return , if you take advantage of this automatic extension , showing that you were in Alaska or were outside the United States or Puerto Rico on April 15 or other due date .
+6
+#2 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#7 return NOUN return%1:10:01::
+#15 automatic ADJ automatic%5:00:00:involuntary:02
+#16 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#18 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#37 other ADJ other%3:00:00::
+Interest at the rate of 6 % a year must be paid on taxes that are not paid on or before their due date .
+7
+#0 interest NOUN interest%1:21:00::
+#3 rate NOUN rate%1:21:00::
+#8 year NOUN year%1:28:00::,year%1:28:01::
+#11 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#13 tax NOUN tax%1:21:00::
+#16 not ADV not%4:02:00::
+#17 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Such interest must be paid even though an extension of time for filing is granted .
+5
+#1 interest NOUN interest%1:21:00::
+#4 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#8 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#12 file VERB file%2:32:02::,filing%1:10:00::
+#14 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+If your computation on Form 1040 or Form 1040 A shows you owe additional tax , it should be remitted with your return unless you owe less than $ 1 , in which case it is forgiven .
+4
+#14 tax NOUN tax%1:21:00::
+#19 remit VERB remit%2:40:00::
+#22 return NOUN return%1:10:01::
+#33 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+If payment is by cash , you should ask for a receipt .
+3
+#4 cash NOUN cash%1:21:00::
+#8 ask VERB ask%2:32:01::,ask%2:32:05::
+#11 receipt NOUN receipt%1:04:00::
+If you file Form 1040 A and the District Director computes your tax , you will be sent a bill if additional tax is due .
+5
+#2 file VERB file%2:32:02::,filing%1:10:00::
+#12 tax NOUN tax%1:21:00::
+#17 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#19 bill NOUN bill%1:10:01::
+#22 tax NOUN tax%1:21:00::
+This bill should be paid within 30 days .
+3
+#1 bill NOUN bill%1:10:01::
+#4 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Whether the check is certified or uncertified , the tax is not paid until the check is paid .
+6
+#2 check NOUN check%1:21:00::
+#9 tax NOUN tax%1:21:00::
+#11 not ADV not%4:02:00::
+#12 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#15 check NOUN check%1:21:00::
+#17 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+If the check is not good and the April 15 or other due date deadline elapses , additions to the tax may be incurred .
+7
+#2 check NOUN check%1:21:00::
+#4 not ADV not%4:02:00::
+#5 good ADJ best%3:00:00::,good%3:00:01::
+#11 other ADJ other%3:00:00::
+#14 deadline NOUN deadline%1:28:00::
+#17 addition NOUN addition%1:23:00::
+#20 tax NOUN tax%1:21:00::
+Furthermore , a bad check may subject the maker to certain penalties .
+6
+#3 bad ADJ bad%5:00:00:inferior:02
+#4 check NOUN check%1:21:00::
+#6 subject VERB subject%2:33:00::
+#8 maker NOUN maker%1:18:00::
+#10 certain ADJ certain%5:00:00:definite:00
+#11 penalty NOUN penalty%1:07:01::
+All checks and money orders should be made payable to Internal Revenue Service .
+2
+#1 check NOUN check%1:21:00::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+An overpayment of income and social security taxes entitles you to a refund unless you indicate on the return that the overpayment should be applied to your succeeding year 's estimated tax .
+6
+#7 tax NOUN tax%1:21:00::
+#8 entitle VERB entitled%5:00:00:eligible:00
+#15 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#18 return NOUN return%1:10:01::
+#28 year NOUN year%1:28:00::,year%1:28:01::
+#31 tax NOUN tax%1:21:00::
+If you file Form 1040 A and the District Director computes your tax , any refund to which you are entitled will be mailed to you .
+3
+#2 file VERB file%2:32:02::,filing%1:10:00::
+#12 tax NOUN tax%1:21:00::
+#23 mail VERB mail%2:35:00::
+If you file a Form 1040 , you should indicate in the place provided that there is an overpayment of tax and the amount you want refunded and the amount you want credited against your estimated tax .
+9
+#2 file VERB file%2:32:02::,filing%1:10:00::
+#9 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+#20 tax NOUN tax%1:21:00::
+#25 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#26 refund VERB refund%2:40:00::
+#31 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#32 credit VERB credit%2:40:00::
+#36 tax NOUN tax%1:21:00::
+Refunds of less than $ 1 will not be made unless you attach a separate application to your return requesting such a refund .
+4
+#7 not ADV not%4:02:00::
+#12 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#15 application NOUN application%1:10:00::
+#18 return NOUN return%1:10:01::
+Send your return to the Director of Internal Revenue for the district in which you have your legal residence or principal place of business .
+5
+#0 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#2 return NOUN return%1:10:01::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#20 principal ADJ principal%5:00:00:important:00
+If you have neither a legal residence nor a principal place of business in any internal revenue district , your return should be filed with the District Director of Internal Revenue , Baltimore 2 , Md. .
+5
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#9 principal ADJ principal%5:00:00:important:00
+#20 return NOUN return%1:10:01::
+#23 file VERB file%2:32:02::,filing%1:10:00::
+If your principal place of abode for the tax year is outside the United States ( including Alaska and Hawaii ) , Puerto Rico , or the Virgin Islands and you have no legal residence or principal place of business in any internal revenue district in the United States , you should file your return with the Office of International Operations , Internal Revenue Service , Washington 25 , D. C. .
+10
+#2 principal ADJ principal%5:00:00:important:00
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#8 tax NOUN tax%1:21:00::
+#16 include VERB include%2:31:00::,include%2:41:03::
+#31 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#33 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#36 principal ADJ principal%5:00:00:important:00
+#52 file VERB file%2:32:02::,filing%1:10:00::
+#54 return NOUN return%1:10:01::
+#66 Washington NOUN washington%1:15:01::
+The deductions allowed in determining Adjusted Gross Income put all taxpayers on a comparable basis .
+4
+#1 deduction NOUN deduction%1:04:00::
+#2 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#4 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#8 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+It is the amount you enter on line 9 , page 1 of Form 1040 .
+2
+#5 enter VERB enter%2:32:04::,enter%2:41:06::
+#10 page NOUN page%1:10:00::
+Some deductions are subtracted from Gross Income to determine Adjusted Gross Income .
+3
+#1 deduction NOUN deduction%1:04:00::
+#5 gross ADJ gross%3:00:00::
+#8 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+Other deductions are subtracted only from Adjusted Gross Income in arriving at Taxable Income .
+3
+#0 other ADJ other%5:00:02:past:00
+#1 deduction NOUN deduction%1:04:00::
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+To compute your adjusted gross income you total all items of income .
+2
+#4 gross ADJ gross%3:00:00::
+#7 total VERB total%2:32:00::,total%2:42:00::
+( See Chapter 6 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+From this amount deduct the items indicated below .
+1
+#6 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+Businessmen deduct all ordinary and necessary expenses attributable to a trade or business .
+4
+#0 businessman NOUN businessman%1:18:00::
+#3 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#5 necessary ADJ necessary%3:00:00::
+#12 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+If you hold property for the production of rents or royalties you subtract , in computing Adjusted Gross Income , ordinary and necessary expenses and certain other deductions attributable to the property .
+10
+#2 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#3 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#6 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#8 rent NOUN rent%1:21:00::
+#20 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#22 necessary ADJ necessary%3:00:00::
+#25 certain ADJ certain%5:00:00:definite:00
+#26 other ADJ other%3:00:00::
+#27 deduction NOUN deduction%1:04:00::
+#31 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+( See Chapter 15 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+Outside salesmen deduct all expenses attributable to earning a salary , commission , or other compensation .
+2
+#11 commission NOUN commission%1:21:00::
+#14 other ADJ other%5:00:02:past:00
+( See Chapter 10 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+Employees deduct expenses of travel , meals and lodging while away from home in connection with the performance of their services as employees .
+5
+#6 meal NOUN meal%1:28:00::
+#8 lodging NOUN lodging%1:07:00::
+#12 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#17 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#20 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+They also deduct transportation expenses incurred in connection with the performance of services as employees even though they are not away from home .
+6
+#3 transportation NOUN transportation%1:04:00::
+#10 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#12 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#19 not ADV not%4:02:00::
+#20 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#22 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+( See Chapter 12 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+If your employer reimburses you for expenses incurred , you deduct such expenses if they otherwise qualify .
+2
+#15 otherwise ADV otherwise%4:02:03::
+#16 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+( See Chapter 10 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+Sick pay , if included in your Gross Income , is deducted in arriving at Adjusted Gross Income .
+2
+#4 include VERB include%2:42:00::
+#7 gross ADJ gross%3:00:00::
+If your sick pay is not included in your Gross Income , you may not deduct it .
+3
+#5 not ADV not%4:02:00::
+#6 include VERB include%2:42:00::
+#9 gross ADJ gross%3:00:00::
+( See Chapter 9 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+If you are a life tenant , you deduct allowable depreciation and depletion .
+1
+#9 allowable ADJ allowable%5:00:00:admissible:00
+If you are an income beneficiary of property held in trust or an heir , legatee , or devisee , you may deduct allowable depreciation and depletion , if not deductible by the estate or trust .
+6
+#7 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#10 trust NOUN trust%1:21:03::
+#23 allowable ADJ allowable%5:00:00:admissible:00
+#29 not ADV not%4:02:00::
+#33 estate NOUN estate%1:21:02::
+#35 trust NOUN trust%1:21:03::
+Deductible losses on sales or exchanges of property are allowable in determining your Adjusted Gross Income .
+4
+#3 sale NOUN sale%1:04:00::,sale%1:04:02::
+#7 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#9 allowable ADJ allowable%5:00:00:admissible:00
+#11 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+( See Chapter 20 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+You also deduct 50 % of the excess of net long-term capital gains over net short-term capital losses in determining Adjusted Gross Income .
+4
+#7 excess NOUN excess%1:07:02::
+#9 net ADJ net%3:00:00::
+#14 net ADJ net%3:00:00::
+#19 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+( See Chapter 24 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+Certain other deductions are not allowed in determining Adjusted Gross Income .
+6
+#0 certain ADJ certain%5:00:00:definite:00
+#1 other ADJ other%5:00:02:past:00
+#2 deduction NOUN deduction%1:04:00::
+#4 not ADV not%4:02:00::
+#5 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#7 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+They may be claimed only by itemizing them on page 2 of Form 1040 .
+2
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 page NOUN page%1:10:00::
+These deductions may not be claimed if you elect to use the Standard Deduction or tax Table .
+6
+#1 deduction NOUN deduction%1:04:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#13 deduction NOUN deduction%1:04:00::
+#15 tax NOUN tax%1:21:00::
+#16 table NOUN table%1:14:00::
+( See Chapters 30 through 37 . )
+1
+#2 chapter NOUN chapter%1:10:00::
+A minor is subject to tax on his own earnings even though his parent may , under local law , have the right to them and might actually have received the money .
+8
+#1 minor NOUN minor%1:18:00::
+#3 subject ADJ subject%5:00:00:subordinate:02
+#5 tax NOUN tax%1:21:00::
+#8 own ADJ own%5:00:00:personal:00
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 right NOUN right%1:07:00::,right%1:21:00::
+#27 actually ADV actually%4:02:01::
+His income is not required to be included in the return of his parent .
+2
+#3 not ADV not%4:02:00::
+#10 return NOUN return%1:10:01::
+A minor child is allowed a personal exemption of $ 600 on his own return regardless of how much money he may earn .
+4
+#4 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#6 personal ADJ personal%5:00:00:subjective:00
+#13 own ADJ own%5:00:00:personal:00
+#14 return NOUN return%1:10:01::
+If your child is under 19 or is a student you may also claim an exemption for him if he qualifies as your dependent , even though he earns $ 600 or more .
+1
+#20 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+See Chapter 5 .
+1
+#1 chapter NOUN chapter%1:10:00::
+Your 16 year old son earned $ 720 in 1961 .
+2
+#2 year NOUN years%1:28:00::
+#3 old PRT old%3:00:02::
+You spent $ 800 for his support .
+1
+#6 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+Since he had gross income of $ 600 or more , he must file a return in which he may claim an exemption deduction of $ 600 .
+4
+#3 gross ADJ gross%3:00:00::
+#13 file VERB file%2:32:02::,filing%1:10:00::
+#15 return NOUN return%1:10:01::
+#23 deduction NOUN deduction%1:04:00::
+Since you contributed more than half of his support , you may also claim an exemption for him on your return .
+2
+#8 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#20 return NOUN return%1:10:01::
+A minor who has gross income of less than $ 600 is entitled to a refund if income tax was withheld from his wages .
+2
+#1 minor NOUN minor%1:18:00::
+#4 gross ADJ gross%3:00:00::
+Generally , the refund may be obtained by filing Form 1040 A accompanied by the withholding statement ( Form W-2 ) .
+4
+#0 generally ADV generally%4:02:01::
+#6 obtain VERB obtain%2:40:00::
+#8 file VERB file%2:32:02::,filing%1:10:00::
+#12 accompany VERB accompany%2:42:00::
+If he had income other than wages subject to withholding , he may be required to file Form 1040 .
+2
+#7 subject ADJ subject%5:00:00:subordinate:02
+#16 file VERB file%2:32:02::,filing%1:10:00::
+See Chapter 1 .
+1
+#1 chapter NOUN chapter%1:10:00::
+If your child works for you , you may deduct reasonable wages you paid to him for services he rendered in your business .
+6
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#10 reasonable ADJ reasonable%5:00:00:moderate:00
+#13 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#17 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#19 render VERB render%2:32:01::,render%2:36:00::,render%2:40:01::,render%2:40:02::,render%2:40:03::
+#22 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+You may deduct these payments even though your child uses the money to purchase his own clothing or other necessities which you are normally obligated to furnish him , and even though you may be entitled to his services .
+7
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 purchase VERB purchase%2:40:00::
+#15 own ADJ own%5:00:00:personal:00
+#18 other ADJ other%3:00:00::
+#19 necessity NOUN necessity%1:26:00::
+#23 normally ADV normally%4:02:00::
+#38 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::

@@ -1,0 +1,643 @@
+ Nick Skorich , the line coach for the football champion Philadelphia Eagles , was elevated today to head coach .
+3
+#8 football NOUN football%1:04:00::
+#9 champion NOUN champion%1:18:01::
+#18 coach NOUN coach%1:18:00::,coach%1:18:01::
+Skorich received a three year contract at a salary believed to be between $ 20000 and $ 25000 a year .
+1
+#1 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+He succeeds Buck Shaw , who retired at the end of last season .
+3
+#1 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+#6 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+#11 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+The appointment was announced at a news conference at which Skorich said he would retain two members of Shaw 's staff - Jerry Williams and Charlie Gauer .
+3
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 member NOUN member%1:18:00::,member%1:24:00::
+#20 staff NOUN staff%1:14:00::,staff%1:14:01::
+Williams is a defensive coach .
+2
+#3 defensive ADJ defensive%3:00:00::
+#4 coach NOUN coach%1:18:00::,coach%1:18:01::
+Gauer works with the ends .
+1
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+The selection had been expected .
+1
+#1 selection NOUN selection%1:22:00::
+Skorich was considered the logical choice after the club gave Norm Van Brocklin permission to seek the head coaching job with the Minnesota Vikings , the newest National Football League entry .
+4
+#8 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#9 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#26 new ADJ new%3:00:00::
+#30 entry NOUN entry%1:10:00::
+Van Brocklin , the quarterback who led the Eagles to the title , was signed by the Vikings last Wednesday .
+4
+#6 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#11 title NOUN title%1:26:00::
+#14 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#18 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Philadelphia permitted him to seek a better connection after he had refused to reconsider his decision to end his career as a player .
+2
+#6 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#7 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+With Skorich at the helm , the Eagles are expected to put more emphasis on running , rather than passing .
+5
+#4 helm NOUN helm%1:06:00::
+#11 put VERB put%2:31:13::,put%2:34:00::
+#15 running NOUN running%1:04:01::
+#17 rather ADV rather%4:02:02::
+#19 pass NOUN pass%1:04:00::
+In the past the club depended largely on Van Brocklin 's aerials .
+2
+#2 past NOUN past%1:28:01::
+#4 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+Skorich , however , is a strong advocate of a balanced attack - split between running and passing .
+3
+#2 however ADV however%4:02:04::
+#6 strong ADJ strong%3:00:00::,strong%5:00:00:forceful:00,strong%5:00:00:intense:00
+#17 passing NOUN passing%1:04:02::
+Skorich , who is 39 years old , played football at Cincinnati University and then had a three year professional career as a lineman under Jock Sutherland with the Pittsburgh Steelers .
+6
+#5 year NOUN years%1:28:00::
+#8 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#9 football NOUN football%1:04:00::
+#18 year NOUN year%1:28:00::,year%1:28:01::
+#19 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#23 lineman NOUN lineman%1:18:00::
+An injury forced Skorich to quit after the 1948 season .
+2
+#2 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#5 quit VERB quit%2:38:00::
+He began his coaching career at Pittsburgh Central Catholic High School in 1949 .
+1
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+He remained there for four years before moving to Rensselaer Polytechnic Institute in Troy , N. Y. .
+3
+#2 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#7 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+He was there one season before rejoining the Steelers as an assistant coach .
+2
+#6 rejoin VERB rejoin%2:41:00::
+#12 coach NOUN coach%1:18:00::,coach%1:18:01::
+Four years later he resigned to take a similar job with the Green Bay Packers .
+5
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#4 resign VERB resign%2:41:00::
+#6 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#9 job NOUN job%1:04:00::,job%1:06:00::
+The Eagles signed him for Shaw 's staff in 1959 .
+2
+#2 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#7 staff NOUN staff%1:14:00::,staff%1:14:01::
+Skorich began his new job auspiciously today .
+2
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 job NOUN job%1:04:00::,job%1:06:00::
+At a ceremony in the reception room of Mayor Richardson Dilworth , the Eagles were honored for winning the championship .
+4
+#2 ceremony NOUN ceremony%1:11:00::
+#15 honor VERB honor%2:41:01::
+#17 win VERB win%2:33:00::
+#19 championship NOUN championship%1:11:00::
+Shaw and Skorich headed a group of players , coaches and team officials who received an engrossed copy of an official city citation and a pair of silver cufflinks shaped like a football .
+7
+#7 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#9 coach NOUN coach%1:18:00::,coach%1:18:01::
+#14 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#17 copy NOUN copy%1:10:00::
+#21 city NOUN city%1:15:00::,city%1:15:01::
+#22 citation NOUN citation%1:10:00::
+#32 football NOUN football%1:06:00::
+With the announcement of a " special achievement award " to William A. Bill Shea , the awards list was completed yesterday for Sunday night 's thirty-eighth annual dinner and show of the New York Chapter , Baseball Writers Association of America , at the Waldorf-Astoria Hotel .
+6
+#7 achievement NOUN achievement%1:04:00::
+#18 list NOUN list%1:10:00::
+#20 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#24 night NOUN night%1:28:00::
+#30 show NOUN show%1:04:00::,show%1:10:00::
+#35 chapter NOUN chapter%1:14:00::
+Shea , the chairman of Mayor Wagner 's Baseball Committee , will be joined on the dais by Warren Spahn , the southpaw pitching ace of the Milwaukee Braves ; Frank Graham , the Journal-American sports columnist ; Bill Mazeroski , the World Series hero of the Pittsburgh Pirates , and Casey Stengel , the former manager of the Yankees .
+6
+#3 chairman NOUN chairman%1:18:01::
+#23 pitch NOUN pitch%1:04:03::
+#24 ace NOUN ace%1:18:00::
+#35 sport NOUN sport%1:04:00::
+#44 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#55 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+Stengel will receive the Ben Epstein Good Guy Award .
+1
+#2 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+Mazeroski , whose homer beat the Yankees in the final series game , will receive the Babe Ruth Award as the outstanding player in the 1960 world series .
+6
+#3 homer NOUN homer%1:04:00::
+#4 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#11 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#14 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#21 outstanding ADJ outstanding%5:00:00:superior:02
+#22 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+Graham will be recognized for his meritorious service to baseball and will get the William J. Slocum Memorial Award .
+3
+#3 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#7 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#12 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+To Spahn will go the Sid Mercer Memorial Award as the chapter 's player of the year .
+4
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#11 chapter NOUN chapter%1:14:00::
+#13 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#16 year NOUN year%1:28:00::,year%1:28:01::
+A crowd of 1400 is expected for the ceremonies , which will be followed by the show in which the writers will lampoon baseball personalities in skit , dance and song .
+4
+#8 ceremony NOUN ceremony%1:11:00::
+#13 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#16 show NOUN show%1:04:00::,show%1:10:00::
+#24 personality NOUN personality%1:18:00::
+The 53 - year old Shea , a prominent corporation lawyer with a sports background , is generally recognized as the man most responsible for the imminent return of a National League club to New York .
+9
+#3 year NOUN years%1:28:00::
+#13 sport NOUN sport%1:04:00::
+#14 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+#17 generally ADV generally%4:02:02::
+#18 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#21 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#26 imminent ADJ imminent%5:00:00:close:01
+#27 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#32 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+Named by Mayor Wagner three years ago to head a committee that included James A. Farley , Bernard Gimbel and Clint Blume , Shea worked relentlessly .
+6
+#0 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#8 head VERB head%2:38:02::,head%2:41:00::
+#10 committee NOUN committee%1:14:00::
+#12 include VERB include%2:42:00::
+#24 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+His goal was to obtain a National League team for this city .
+2
+#1 goal NOUN goal%1:09:00::,goal%1:15:00::
+#11 city NOUN city%1:15:00::,city%1:15:01::
+The departure of the Giants and the Dodgers to California left New York with only the Yankees .
+2
+#10 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Despite countless barriers and disappointments , Shea moved forward .
+2
+#7 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#8 forward ADV forward%4:02:00::,forward%4:02:04::
+When he was unable to bring about immediate expansion , he sought to convince another National League club to move here .
+3
+#17 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#20 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+When that failed , he enlisted Branch Rickey 's aid in the formation of a third major league , the Continental , with New York as the key franchise .
+3
+#2 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#12 formation NOUN formation%1:04:01::
+#28 franchise NOUN franchise%1:07:00::
+The Continental League never got off the ground , but after two years it forced the existing majors to expand .
+4
+#3 never ADV never%4:02:00::
+#12 year NOUN year%1:28:00::,year%1:28:01::
+#14 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#17 major NOUN majors%1:14:00::
+The New York franchise is headed by Mrs. Charles Shipman Payson .
+1
+#3 franchise NOUN franchise%1:07:00::
+A big-league municipal stadium at Flushing Meadow Park is in the works , and once the lease is signed the local club will be formally recognized by Commissioner Ford C. Frick .
+6
+#3 stadium NOUN stadium%1:06:00::
+#14 once CONJ once%4:02:02::
+#18 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#21 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#24 formally ADV formally%4:02:01::
+#25 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+Shea 's efforts figure prominently in the new stadium .
+3
+#3 figure VERB figure%2:42:00::
+#7 new ADJ new%3:00:00::
+#8 stadium NOUN stadium%1:06:00::
+Shea and his wife , Nori , make their home at Sands Point , L. I. .
+1
+#9 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Bill Jr. , 20 ; Kathy , 15 , and Patricia , 9 , round out the Shea family .
+1
+#18 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+He attended New York University before switching to Georgetown University in Washington .
+2
+#1 attend VERB attend%2:42:00::
+#6 switch VERB switch%2:30:03::
+He played basketball there while working toward a law degree .
+3
+#1 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#3 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#5 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Later , Shea owned and operated the Long Island Indians , a minor league professional football team .
+4
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#3 own VERB owned%3:00:00::
+#5 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#14 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+He was the lawyer for Ted Collins ' old Boston Yankees in the National Football League .
+1
+#8 old ADJ old%3:00:01::
+All was quiet in the office of the Yankees and the local National Leaguers yesterday .
+2
+#2 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#5 office NOUN office%1:06:00::
+On Friday , Roger Maris , the Yankee outfielder and winner of the American League 's most-valuable-player award , will meet with Roy Hamey , the general manager .
+1
+#20 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Maris is in line for a big raise .
+2
+#6 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#7 raise NOUN raise%1:07:00::
+Arnold Palmer and Sam Snead will be among those honored at the national awards dinner of the Metropolitan Golf Writers Association tonight .
+1
+#9 honor VERB honor%2:41:01::
+The dinner will be held at the Hotel Pierre .
+1
+#4 hold VERB hold%2:36:00::,holding%1:04:00::
+Palmer , golf 's leading money winner in 1960 , and Snead will be saluted as the winning team in the Canada Cup matches last June in Dublin .
+4
+#2 golf NOUN golf%1:04:00::
+#17 winning ADJ winning%5:00:01:successful:00
+#23 match NOUN match%1:11:00::
+#24 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Deane Beman , the National Amateur champion , and all the metropolitan district champions , including Bob Gardner , the amateur title-holder , also will receive awards .
+5
+#6 champion NOUN champion%1:18:01::
+#11 metropolitan ADJ metropolitan%3:01:00::
+#13 champion NOUN champion%1:18:01::
+#15 include VERB include%2:42:00::
+#25 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+The writers ' Gold Tee Award will go to John McAuliffe of Plainfield , N. J. , and Palm Beach , Fla. , for his sponsorship of charity tournaments .
+3
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#27 charity NOUN charity%1:14:01::
+#28 tournament NOUN tournament%1:11:00::
+Horton Smith of Detroit , a former president of the Professional Golfers Association , will receive the Ben Hogan Trophy for his comeback following a recent illness .
+5
+#6 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#7 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#15 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#22 comeback NOUN comeback%1:04:00::
+#25 recent ADJ recent%5:00:00:past:00
+The principal speaker will be Senator Stuart Symington , Democrat of Missouri .
+4
+#1 principal ADJ principal%5:00:00:important:00
+#2 speaker NOUN speaker%1:18:00::
+#9 democrat NOUN democrat%1:18:01::
+#11 Missouri NOUN missouri%1:15:00::
+Arnold Palmer has been a blazing figure in golf over the past twelve months .
+2
+#6 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#8 golf NOUN golf%1:04:00::
+He won the Masters , the United States Open and a record $ 80738 in prize money .
+1
+#1 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+He was heralded as " Sportsman of the Year " by Sports Illustrated , and last night was acclaimed in Rochester as the " Professional Athlete of the Year " , a distinction that earned for him the $ 10000 diamond - studded Hickok Belt .
+5
+#8 year NOUN year%1:28:00::,year%1:28:01::
+#15 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#16 night NOUN night%1:28:00::
+#32 distinction NOUN distinction%1:26:00::
+#40 diamond NOUN diamond%1:27:00::
+But he also achieved something that endeared him to every duffer who ever flubbed a shot .
+2
+#12 ever ADV ever%4:02:05::
+#15 shot NOUN shot%1:04:06::,shot%1:04:08::,shot%1:26:00::
+A couple of weeks ago , he scored a monstrous 12 on a par 5 hole .
+3
+#7 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#13 par NOUN par%1:23:00::
+#15 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+It made him human .
+1
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+And it also stayed the hands of thousands of brooding incompetents who were meditating the abandonment of a sport whose frustrations were driving them to despair .
+3
+#9 brooding ADJ brooding%5:00:00:thoughtful:00
+#18 sport NOUN sport%1:04:00::
+#22 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+If such a paragon of perfection as Palmer could commit such a scoring sacrilege , there was hope left for all .
+2
+#9 commit VERB commit%2:41:00::
+#17 hope NOUN hope%1:09:00::,hope%1:18:00::
+It was neither a spirit of self-sacrifice nor a yen to encourage the downtrodden that motivated Arnold .
+3
+#2 neither ADV neither%5:00:00:incomplete:00
+#4 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#9 yen NOUN yen%1:12:00::
+He merely became victimized by a form of athletics that respects no one and aggravates all .
+3
+#2 become VERB become%2:30:00::,become%2:42:01::
+#6 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#14 aggravate VERB aggravate%2:37:00::
+The world 's best golfer , shooting below par , came to the last hole of the opening round of the Los Angeles open with every intention of delivering a final crusher .
+11
+#1 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#3 good ADJ best%3:00:00::,good%3:00:01::
+#6 shoot VERB shoot%2:33:06::,shoot%2:35:01::,shoot%2:35:03::
+#8 par NOUN par%1:23:00::
+#10 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#13 last ADJ last%5:00:00:unlikely:00
+#14 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#17 opening ADJ opening%3:00:00::
+#18 round NOUN round%1:28:01::
+#26 intention NOUN intention%1:09:00::
+#28 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+He boomed a 280 - yard drive .
+2
+#5 yard NOUN yard%1:23:00::,yard%1:23:01::
+#6 drive NOUN drive%1:04:03::
+Then the pixies and the zombies took over while the banshees wailed in the distance .
+3
+#0 then ADV then%4:02:00::
+#5 zombie NOUN zombie%1:18:02::
+#14 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+On the narrow fairway of a 508 - yard hole , Arnold whipped into his second shot .
+6
+#2 narrow ADJ narrow%3:00:00::
+#3 fairway NOUN fairway%1:15:00::
+#8 yard NOUN yard%1:23:00::,yard%1:23:01::
+#9 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#15 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#16 shot NOUN shot%1:04:06::,shot%1:04:08::,shot%1:26:00::
+The ball went off in a majestic arc , an out-of-bounds slice .
+4
+#1 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 arc NOUN arc%1:25:00::,arc%1:25:01::
+#11 slice NOUN slice%1:04:00::
+He tried again and once more sliced out of bounds .
+2
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 slice VERB slice%2:33:00::
+He hooked the next two out of bounds on the opposite side .
+2
+#1 hook VERB hook%2:35:03::
+#3 next ADJ next%5:00:00:close:01
+" It is possible that I over corrected " , he said ruefully .
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Each of the four wayward shots cost him two strokes .
+2
+#6 cost VERB cost%2:42:00::,cost%2:42:01::
+#9 stroke NOUN stroke%1:23:00::
+So he wound up with a dozen .
+1
+#6 dozen NOUN dozen%1:23:00::
+" It was a nice round figure , that 12 " , he said as he headed for the clubhouse , not too much perturbed .
+6
+#4 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#5 round ADJ round%5:00:00:inexact:00
+#6 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 head VERB head%2:38:00::,head%2:38:01::
+#24 perturb VERB perturb%2:37:00::
+From the standpoint of the army of duffers , however , this was easily the most heartening exhibition they had had since Ben Hogan fell upon evil ways during his heyday and scored an 11 in the Texas open .
+7
+#9 however ADV however%4:02:04::
+#13 easily ADV easily%4:02:01::,easily%4:02:06::
+#15 most ADV most%4:02:00::
+#20 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#24 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#27 way NOUN way%1:04:00::,way%1:09:00::
+#32 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+Their secondary hero is another pro , Willie Chisholm , who drank his lunch during another Open and tried to blast his way out of a rock strewn gully .
+9
+#1 secondary ADJ secondary%5:00:00:incidental:00
+#2 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#5 pro NOUN pro%1:18:00::
+#11 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#18 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#20 blast VERB blast%2:35:00::
+#22 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#23 out ADV out%4:02:04::
+#26 rock NOUN rock%1:13:00::,rock%1:17:01::
+Willie 's partner was Long Jim Barnes , who tried to keep count .
+4
+#2 partner NOUN partner%1:18:02::
+#9 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#12 count NOUN count%1:23:00::
+" How many is that , Jim " ? asked Willie at one stage of his excavation project .
+3
+#9 ask VERB ask%2:32:00::,ask%2:32:04::
+#13 stage NOUN stage%1:04:00::,stage%1:26:00::
+#17 project NOUN project%1:04:00::,project%1:09:00::
+" Thirteen " , said Long Jim .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Nae , man " , said Willie , " ye must be countin ' the echoes " .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 echo NOUN echo%1:07:00::
+He had a 16 .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Palmer 's dozen were honestly earned .
+2
+#2 dozen NOUN dozen%1:23:00::
+#4 honestly ADV honestly%4:02:01::
+Nor were there any rules to save him .
+2
+#4 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#6 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+If there had been , he would have found a loophole , because Arnold is one golfer who knows the code as thoroughly as the man who wrote the book .
+6
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 loophole NOUN loophole%1:10:00::
+#20 code NOUN code%1:10:01::
+#22 thoroughly ADV thoroughly%4:02:00::
+#25 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#27 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+This knowledge has come in handy , too .
+2
+#1 knowledge NOUN knowledge%1:03:00::
+#7 too ADV too%4:02:01::
+His first shot in the Open last year landed in a brook that flowed along the right side of the fairway .
+8
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 shot NOUN shot%1:04:06::,shot%1:04:08::,shot%1:26:00::
+#6 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#7 year NOUN year%1:28:00::,year%1:28:01::
+#8 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#13 flow VERB flow%2:30:00::,flow%2:38:00::
+#16 right ADJ right%3:00:00::
+#20 fairway NOUN fairway%1:15:00::
+The ball floated downstream .
+2
+#1 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#2 float VERB float%2:38:01::
+A spectator picked up the ball and handed it to a small boy , who dropped this suddenly hot potato in a very playable lie .
+5
+#5 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#7 hand VERB hand%2:40:00::
+#12 boy NOUN boy%1:18:03::
+#15 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#24 lie NOUN lie%1:15:00::
+Arnold sent for Joe Dey , the executive secretary of the golf association .
+1
+#11 golf NOUN golf%1:04:00::
+Joe naturally ruled that a ball be dropped from alongside the spot where it had originally entered the stream .
+8
+#1 naturally ADV naturally%4:02:00::
+#2 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+#5 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#7 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#11 spot NOUN spot%1:10:01::,spot%1:15:01::
+#15 originally ADV originally%4:02:01::
+#16 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#18 stream NOUN stream%1:17:00::
+" I knew it all along " , confessed Arnold with a grin , " but I just happened to think how much nicer it would be to drop one way up there " .
+6
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 just ADV just%4:02:00::,just%4:02:03::
+#18 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#20 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#23 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#32 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+For a serious young man who plays golf with a serious intensity , Palmer has such an inherent sense of humor that it relieves the strain and keeps his nerves from jangling like banjo strings .
+10
+#2 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#6 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#7 golf NOUN golf%1:04:00::
+#10 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#11 intensity NOUN intensity%1:07:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 relieve VERB relieve%2:40:01::
+#25 strain NOUN strain%1:26:02::
+#27 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#34 string NOUN string%1:06:03::
+He 'll even bull head-on into the rules when he is sure he 's right .
+4
+#3 bull VERB bull%2:40:00::
+#4 head-on ADV head-on%4:02:01::
+#7 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#14 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+That 's how he first won the Masters in 1958 .
+1
+#5 win VERB win%2:33:00::
+It happened on the twelfth hole , a 155 - yarder .
+2
+#1 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#5 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+Arnold 's iron shot from the tee burrowed into the bunker guarding the green , an embankment that had become soft and spongy from the rains , thereby bringing local rules into force .
+8
+#2 iron NOUN iron%1:06:01::
+#3 shot NOUN shot%1:04:06::,shot%1:04:08::,shot%1:26:00::
+#6 tee NOUN tee%1:06:00::
+#13 green NOUN green%1:15:01::
+#19 become VERB become%2:30:00::,become%2:42:01::
+#20 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#30 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#32 force NOUN force%1:07:01::,force%1:07:02::,force%1:18:00::
+" I can remove the ball , can't I " ? asked Palmer of an official .
+3
+#3 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#5 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#11 ask VERB ask%2:32:00::,ask%2:32:04::
+" No " , said the official .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You must play it where it lies " .
+1
+#3 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+" You 're wrong " , said Arnold , a man who knows the rules .
+4
+#3 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+" I 'll do as you say , but I 'll also play a provisional ball and get a ruling " .
+5
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#14 provisional ADJ provisional%5:00:00:conditional:00
+#15 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#19 ruling NOUN ruling%1:04:00::
+He scored a 4 for the embedded ball , a 3 with the provisional one .
+3
+#1 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#7 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#13 provisional ADJ provisional%5:00:00:conditional:00
+The golfing fathers ruled in his favor .
+3
+#1 golf NOUN golf%1:04:00::
+#2 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#6 favor NOUN favor%1:06:00::,favor%1:07:00::,favor%1:09:00::
+So he picked up a stroke with the provisional ball and won the tournament by the margin of that stroke .
+7
+#5 stroke NOUN stroke%1:23:00::
+#8 provisional ADJ provisional%5:00:00:conditional:00
+#9 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#11 win VERB win%2:33:00::
+#13 tournament NOUN tournament%1:11:00::
+#16 margin NOUN margin%1:07:00::
+#19 stroke NOUN stroke%1:23:00::
+Until a few weeks ago , however , Arnold Palmer was some god-like creature who had nothing in common with the duffers .
+2
+#6 however ADV however%4:02:04::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But after that 12 at Los Angeles he became one of the boys , a bigger hero than he ever had been before .
+4
+#8 become VERB become%2:30:00::,become%2:42:01::
+#16 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#19 ever ADV ever%4:02:05::
+#22 before ADV before%4:02:03::
+A formula to supply players for the new Minneapolis Vikings and the problem of increasing the 1961 schedule to fourteen games will be discussed by National Football League owners at a meeting at the Hotel Warwick today .
+6
+#1 formula NOUN formula%1:09:00::,formula%1:10:01::
+#4 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 schedule NOUN schedule%1:09:00::
+#20 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#31 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+Other items on the agenda during the meetings , which are expected to continue through Saturday , concern television , rules changes , professional football 's hall of fame , players ' benefits and constitutional amendments .
+12
+#0 other ADJ other%5:00:02:past:00
+#4 agenda NOUN agenda%1:09:00::
+#7 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#17 concern VERB concern%2:42:00::,concern%2:42:01::
+#18 television NOUN television%1:06:00::
+#20 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#21 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#24 football NOUN football%1:04:00::
+#30 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#32 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#34 constitutional ADJ constitutional%3:00:00::
+The owners would like each club in the fourteen team league to play a home and home series with teams in its division , plus two games against teams in the other division .
+8
+#5 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#10 league NOUN league%1:14:01::
+#12 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#17 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#22 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+#26 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#31 other ADJ other%3:00:00::
+#32 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+However , this would require a lengthening of the season from thirteen to fourteen weeks .
+1
+#0 however ADV however%4:02:04::
+Pete Rozelle , the league commissioner , pointed out :
+1
+#4 league NOUN league%1:14:01::
+" We 'll have the problem of baseball at one end and weather at the other " .
+4
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#10 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#15 other ADJ other%3:00:00::
+Nine of the league 's teams play in baseball parks and therefore face an early season conflict in dates .
+6
+#3 league NOUN league%1:14:01::
+#6 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#9 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#12 face VERB face%2:32:00::,face%2:32:03::
+#14 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#18 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::

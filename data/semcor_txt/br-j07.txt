@@ -1,0 +1,677 @@
+ The Poynting-Robertson effect ( Robertson , 1937 ; Wyatt and Whipple , 1950 ) , which is a retardation of the orbital motion of particles by the relativistic aberration of the repulsive force of the impinging solar radiation , causes the dust to spiral into the sun in times much shorter than the age of the Earth .
+11
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#22 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#24 particle NOUN particle%1:17:00::,particle%1:27:01::
+#27 relativistic ADJ relativistic%3:01:00::
+#41 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#43 spiral VERB spiral%2:38:00::
+#46 sun NOUN sun%1:17:00::,sun%1:17:01::
+#48 time NOUN time%1:28:01::,time%1:28:05::
+#50 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#53 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#56 earth NOUN earth%1:15:00::,earth%1:17:01::
+The radial velocity varies inversely as the particle size - a 1000 - | m diameter particle near the orbit of Mars would reach the sun in about 60 million years .
+11
+#1 radial ADJ radial%3:01:01::
+#7 particle NOUN particle%1:17:00::,particle%1:27:01::
+#8 size NOUN size%1:07:00::,size%1:07:02::
+#14 meter NOUN m%1:23:00::
+#15 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#16 particle NOUN particle%1:17:00::,particle%1:27:01::
+#19 orbit NOUN orbit%1:15:00::
+#21 Mars NOUN mars%1:17:00::
+#23 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#25 sun NOUN sun%1:17:00::,sun%1:17:01::
+#27 about ADV about%4:02:00::
+Whipple ( 1955 ) extends the effects to include the solar corpuscular radiation pressure , which increases both the minimum particle size and the drag .
+7
+#4 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#6 effect NOUN effect%1:09:00::,effect%1:19:00::
+#8 include VERB include%2:31:00::,include%2:41:03::
+#13 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#20 particle NOUN particle%1:17:00::,particle%1:27:01::
+#21 size NOUN size%1:07:00::,size%1:07:02::
+#24 drag NOUN drag%1:04:00::
+Further , the corpuscular radiation , i.e. , the solar wind protons , must sputter away the surface atoms of the dust and cause a slow diminution in size , with a resultant increase in both the Poynting-Robertson effect and the ratio of the repulsive force to the gravitational force .
+8
+#0 further ADV further%4:02:02::,further%4:02:03::
+#14 sputter VERB sputter%2:30:00::
+#15 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#17 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#21 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#25 slow ADJ slow%3:00:01::
+#28 size NOUN size%1:07:00::,size%1:07:02::
+#38 effect NOUN effect%1:09:00::,effect%1:19:00::
+The Poynting-Robertson effect causes the semi major axis of orbits to diminish more rapidly than the semi-minor axis , with a consequent tendency toward circular orbits as the particles move toward the sun .
+8
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#9 orbit NOUN orbit%1:15:00::
+#12 more ADV more%4:02:00::
+#24 circular ADJ circular%3:00:00::
+#25 orbit NOUN orbit%1:15:00::
+#28 particle NOUN particle%1:17:00::,particle%1:27:01::
+#29 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#32 sun NOUN sun%1:17:00::,sun%1:17:01::
+Also , planetary gravitational attraction increases the dust concentration near the plane of the ecliptic as the sun is approached .
+5
+#7 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#8 concentration NOUN concentration%1:04:01::
+#11 plane NOUN plane%1:06:00::
+#17 sun NOUN sun%1:17:00::,sun%1:17:01::
+#19 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+At one astronomical unit from the sun ( the Earth 's distance ) the dust orbits are probably nearly circular .
+7
+#6 sun NOUN sun%1:17:00::,sun%1:17:01::
+#9 earth NOUN earth%1:15:00::,earth%1:17:01::
+#11 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#14 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#15 orbit NOUN orbit%1:15:00::
+#18 nearly ADV nearly%4:02:00::
+#19 circular ADJ circular%3:00:00::
+If such is the case , the particles within a distance of about * * f km of the Earth will have , relative to the Earth , a kinetic energy less than their potential energy and they will be captured into orbits about the Earth .
+9
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#7 particle NOUN particle%1:17:00::,particle%1:27:01::
+#10 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#19 earth NOUN earth%1:15:00::,earth%1:17:01::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#26 earth NOUN earth%1:15:00::,earth%1:17:01::
+#42 orbit NOUN orbit%1:15:00::
+#45 earth NOUN earth%1:15:00::,earth%1:17:01::
+De Jager ( 1955 ) has calculated the times required for these particles to reach the atmosphere under the influence of the Poynting-Robertson effect , which in this case causes the orbits to become more and more eccentric without changing the semi major axis .
+11
+#6 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#8 time NOUN time%1:28:01::,time%1:28:05::
+#12 particle NOUN particle%1:17:00::,particle%1:27:01::
+#14 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#16 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#23 effect NOUN effect%1:09:00::,effect%1:19:00::
+#28 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#31 orbit NOUN orbit%1:15:00::
+#33 become VERB become%2:30:00::,become%2:42:01::
+#37 eccentric ADJ eccentric%3:00:00::
+#39 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+This effect can give rise to a blanket of micrometeorites around the Earth .
+3
+#1 effect NOUN effect%1:09:00::,effect%1:19:00::
+#7 blanket NOUN blanket%1:17:00::
+#12 earth NOUN earth%1:15:00::,earth%1:17:01::
+Since there is a continual loss of micrometeoritic material in space because of the radiation effects , there must be a continual replenishment : otherwise , micrometeorites would have disappeared from interplanetary space .
+6
+#8 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#10 space NOUN space%1:03:00::,space%1:15:01::
+#14 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#15 effect NOUN effect%1:09:00::,effect%1:19:00::
+#24 otherwise ADV otherwise%4:02:01::
+#29 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+According to Whipple ( 1955 ) , cometary debris is sufficient to replenish the material spiraling into the sun , maintaining a fairly steady state .
+6
+#14 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#15 spiral VERB spiral%2:38:00::
+#18 sun NOUN sun%1:17:00::,sun%1:17:01::
+#20 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#22 fairly ADV fairly%4:02:02::
+#23 steady ADJ steady%3:00:00::
+Asteroidal collisions are also thought to contribute material .
+2
+#1 collision NOUN collision%1:11:00::
+#7 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+It is also possible that some of the dust in the vicinity of the Earth originated from meteoritic impacts upon the moon .
+2
+#8 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#14 earth NOUN earth%1:15:00::,earth%1:17:01::
+One cannot make a very satisfactory guess about the micrometeorite flux in space .
+2
+#10 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#12 space NOUN space%1:03:00::,space%1:15:01::
+Even in the neighborhood of the Earth , where information has been obtained both directly and indirectly , the derived flux values vary by at least four orders of magnitude .
+5
+#6 earth NOUN earth%1:15:00::,earth%1:17:01::
+#12 obtain VERB obtain%2:40:00::
+#14 directly ADV directly%4:02:05::
+#20 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#21 value NOUN value%1:09:00::
+This large discrepancy demonstrates the inadequacies of the experimental methods and the lack of understanding of the various phenomena involved .
+3
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#3 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#18 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+Beyond a few million kilometers from the Earth , but still in the region of the Earth 's orbit , a prediction of the flux of dust is even more unreliable .
+7
+#7 earth NOUN earth%1:15:00::,earth%1:17:01::
+#10 still ADV still%4:02:04::
+#16 earth NOUN earth%1:15:00::,earth%1:17:01::
+#18 orbit NOUN orbit%1:15:00::
+#24 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#26 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#29 more ADV more%4:02:00::
+At greater distances from the sun , the situation is still less certain .
+7
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#2 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#5 sun NOUN sun%1:17:00::,sun%1:17:01::
+#8 situation NOUN situation%1:26:01::
+#10 still ADV still%4:02:04::
+#11 less ADV less%4:02:00::,less%4:02:01::
+#12 certain ADJ certain%3:00:01::
+There are several sources of evidence on the micrometeorite environment .
+1
+#9 environment NOUN environment%1:15:00::,environment%1:26:00::
+Direct information has been obtained from rockets and satellites equipped with impact sensors .
+3
+#4 obtain VERB obtain%2:40:00::
+#6 rocket NOUN rocket%1:06:01::
+#8 satellite NOUN satellite%1:06:00::
+In addition , the size distribution obtained from visual and radar observations of meteors may be extrapolated to the micrometeorite domain .
+3
+#4 size NOUN size%1:07:00::,size%1:07:02::
+#6 obtain VERB obtain%2:40:00::
+#11 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+From the brightness of the F component of the solar corona and the brightness of the zodiacal light , an estimate of the particle sizes , concentrations , and spatial distribution can be derived for regions of space near the ecliptic plane .
+6
+#10 corona NOUN corona%1:19:02::
+#23 particle NOUN particle%1:17:00::,particle%1:27:01::
+#24 size NOUN size%1:07:00::,size%1:07:02::
+#26 concentration NOUN concentration%1:04:01::
+#37 space NOUN space%1:03:00::,space%1:15:01::
+#41 plane NOUN plane%1:06:00::
+Another important source of evidence only recently receiving much attention is the analysis of atmospheric dust for a meteoritic component .
+5
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#9 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#14 atmospheric ADJ atmospheric%3:01:00::
+#15 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+The cores of deep sea sediments and content of collectors in remote regions are valuable in this category .
+6
+#1 core NOUN core%1:17:00::
+#3 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#7 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#9 collector NOUN collector%1:18:01::
+#11 remote ADJ remote%5:00:00:unlikely:00
+#17 category NOUN category%1:14:00::
+The data provide a measure of the total mass of cosmic material incident upon the Earth .
+6
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#4 measure NOUN measure%1:03:00::,measure%1:10:03::
+#11 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#12 incident ADJ incident%3:00:00::
+#15 earth NOUN earth%1:15:00::,earth%1:17:01::
+The direct evidence on the micrometeorite environment near the Earth is obtained from piezoelectric sensors ( essentially microphones ) and from wire gages ; these instruments are installed on rockets , satellites , and space probes .
+8
+#6 environment NOUN environment%1:15:00::,environment%1:26:00::
+#9 earth NOUN earth%1:15:00::,earth%1:17:01::
+#11 obtain VERB obtain%2:40:00::
+#22 gauge NOUN gage%1:06:00::
+#25 instrument NOUN instrument%1:04:00::,instrument%1:06:00::
+#27 install VERB install%2:35:00::
+#29 rocket NOUN rocket%1:06:01::
+#31 satellite NOUN satellite%1:06:00::
+Statistically , the most significant data have been collected from the sensors on 1958 Alpha ( Explorer 1 , ) , 1958 Delta 2 ( Sputnik 3 , ) , and 1959 Eta ( Vanguard 3 , ) .
+3
+#3 most ADV most%4:02:00::
+#5 data NOUN data%1:14:00::,datum%1:09:00::
+#8 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+These vehicles , with large sensitive areas , have collected data for long enough times to give reliable impact rates for the periods of exposure .
+10
+#1 vehicle NOUN vehicle%1:06:00::
+#4 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#5 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#9 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#10 data NOUN data%1:14:00::,datum%1:09:00::
+#14 time NOUN time%1:28:01::,time%1:28:05::
+#19 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#22 period NOUN period%1:28:00::,period%1:28:03::
+#24 exposure NOUN exposure%1:26:01::
+Many other vehicles with smaller sensitive area exposure time products contribute some information .
+6
+#1 other ADJ other%3:00:00::
+#2 vehicle NOUN vehicle%1:06:00::
+#5 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#7 exposure NOUN exposure%1:26:01::
+#9 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+The impact rate on 1958 Alpha for 153 events was * * f for particles of mass greater than * * f ( Dubin , 1960 ) ; this mass threshold was derived from the detector calibration and an assumed impact velocity of * * f .
+6
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#14 particle NOUN particle%1:17:00::,particle%1:27:01::
+#16 mass NOUN mass%1:07:00::,mass%1:07:01::
+#17 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#29 mass NOUN mass%1:07:00::,mass%1:07:01::
+#30 threshold NOUN threshold%1:06:01::
+The data show daily and diurnal variations .
+2
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+Ninety per cent of the 153 recorded impacts occurred between midnight and noon , and from day to day the variation of the rate was as much as an order of magnitude .
+5
+#6 record VERB record%2:32:00::,record%2:32:03::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#23 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+One may conclude that most of the detected micrometeoritic material is concentrated in orbital streams which intersect the Earth 's orbit .
+6
+#2 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#9 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#11 concentrated ADJ concentrated%3:00:02::
+#14 stream NOUN stream%1:04:00::,stream%1:11:00::,stream%1:14:00::,stream%1:26:00::
+#18 earth NOUN earth%1:15:00::,earth%1:17:01::
+#20 orbit NOUN orbit%1:15:00::
+There have been contradictory reports from 1958 Delta 2 , and the data quoted here are believed to be the more reliable .
+5
+#4 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#12 data NOUN data%1:14:00::,datum%1:09:00::
+#13 quote VERB quote%2:32:00::,quote%2:32:02::
+#16 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#20 more ADV more%4:02:00::
+On May 15 , a very large increase occurred with * * f of mass between * * f and * * f ; for the next two days , the impact rate was * * f ; and for the next nine days , the impact rate was less than * * f ( Nazarova , 1960 ) .
+6
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 mass NOUN mass%1:07:00::,mass%1:07:01::
+#28 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#32 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#43 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#47 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+The data for the first day indicate a meteor stream with a very high concentration of particles and may have led to the high estimates of micrometeorite flux .
+10
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#13 high ADJ high%3:00:02::
+#14 concentration NOUN concentration%1:04:01::
+#16 particle NOUN particle%1:17:00::,particle%1:27:01::
+#20 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#23 high ADJ high%3:00:02::
+#27 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+Preliminary data from 1959 Eta give an average impact rate of * * f for masses larger than * * f for about 1000 events in a 22 - day period ( LaGow and Alexander , 1960 ) .
+7
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#5 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#9 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#15 mass NOUN mass%1:07:00::,mass%1:07:01::
+#16 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#29 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#30 period NOUN period%1:28:00::,period%1:28:03::
+The day-to-day rate varied by less than a factor of 4.5 .
+2
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#8 factor NOUN factor%1:23:00::
+The data have not yet been analyzed for diurnal variations .
+1
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+Note that the mass threshold is four times that of 1958 Alpha and that the flux is one fifth as large .
+5
+#0 note VERB note%2:32:00::,note%2:39:00::
+#3 mass NOUN mass%1:07:00::,mass%1:07:01::
+#4 threshold NOUN threshold%1:06:01::
+#15 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#20 large ADJ large%3:00:00::,large%5:00:00:significant:00
+If one assumes that the average flux did not change between measurements , a mass distribution curve is obtained which relates the flux of particles larger than a given radius to the inverse 7 2 power of the radius .
+11
+#2 assume VERB assume%2:31:00::
+#6 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#9 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#14 mass NOUN mass%1:07:00::,mass%1:07:01::
+#18 obtain VERB obtain%2:40:00::
+#20 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#22 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#24 particle NOUN particle%1:17:00::,particle%1:27:01::
+#25 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#28 given ADJ give%2:32:03::
+#35 power NOUN power%1:10:00::
+Space probes have yielded little information .
+1
+#3 yield VERB yield%2:36:00::,yield%2:40:00::,yield%2:40:02::
+Pioneer 1 , recorded a decrease in flux with distance from the Earth on the basis of 11 counts in 9 hours .
+6
+#3 record VERB record%2:32:00::,record%2:32:03::
+#7 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#9 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#12 earth NOUN earth%1:15:00::,earth%1:17:01::
+#18 count NOUN count%1:23:00::
+#21 hour NOUN hour%1:07:00::,hours%1:28:01::
+With detectors sensitive to three mass intervals and based on a few counts , the second and third Russian space probes indicate that the flux of the smallest particles detected is less than that of larger ones .
+9
+#2 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#5 mass NOUN mass%1:07:00::,mass%1:07:01::
+#6 interval NOUN interval%1:09:00::
+#8 base VERB base%2:31:00::
+#15 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#21 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#24 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#28 particle NOUN particle%1:17:00::,particle%1:27:01::
+#35 large ADJ large%3:00:00::,large%5:00:00:significant:00
+Being based on so few events , these results are of dubious validity .
+2
+#3 so ADV so%4:02:03::,so%4:02:07::
+#11 dubious ADJ dubious%5:00:00:unconvinced:00
+The calibration of piezoelectric sensors in terms of the particle parameters is very uncertain .
+1
+#9 particle NOUN particle%1:17:00::,particle%1:27:01::
+Many workers believe that the response is proportional to the incident momentum of the particles , a relation deduced from laboratory results linearly extrapolated to meteoritic velocities .
+5
+#1 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#10 incident ADJ incident%3:01:00::
+#11 momentum NOUN momentum%1:07:01::
+#14 particle NOUN particle%1:17:00::,particle%1:27:01::
+#17 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+However , one must expect that vaporization and ejection of material by hypervelocity impacts would cause a deviation from a linear relationship .
+5
+#0 however ADV however%4:02:04::
+#8 ejection NOUN ejection%1:04:00::
+#10 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#17 deviation NOUN deviation%1:11:00::
+#20 linear ADJ linear%3:00:01::
+In the United States , most of the sensors are calibrated by dropping small spheres on their sensitive surfaces .
+4
+#12 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#14 sphere NOUN sphere%1:15:01::
+#17 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#18 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor .
+8
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#11 impulse NOUN impulse%1:07:00::
+#19 incident ADJ incident%3:01:00::
+#20 momentum NOUN momentum%1:07:01::
+#23 remainder NOUN remainder%1:24:00::
+#25 momentum NOUN momentum%1:07:01::
+#28 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+This " ejection " momentum is linearly related to the particle energy .
+4
+#2 ejection NOUN ejection%1:04:00::
+#4 momentum NOUN momentum%1:07:01::
+#10 particle NOUN particle%1:17:00::,particle%1:27:01::
+#11 energy NOUN energy%1:19:00::
+They quote about the same mass threshold as that of the U.S. apparatus , but a momentum threshold about 40 times greater .
+8
+#1 quote VERB quote%2:32:00::,quote%2:32:02::
+#2 about ADV about%4:02:00::
+#5 mass NOUN mass%1:07:00::,mass%1:07:01::
+#6 threshold NOUN threshold%1:06:01::
+#16 momentum NOUN momentum%1:07:01::
+#17 threshold NOUN threshold%1:06:01::
+#18 about ADV about%4:02:00::
+#21 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+There is a difference in the experimental arrangement , in that the U.S. microphones are attached directly to the vehicle skin while the Russian instruments are isolated from the skin .
+7
+#7 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#15 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#16 directly ADV directly%4:02:05::
+#19 vehicle NOUN vehicle%1:06:00::
+#20 skin NOUN skin%1:05:01::,skin%1:06:01::,skin%1:13:00::
+#24 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#29 skin NOUN skin%1:05:01::,skin%1:06:01::,skin%1:13:00::
+The threshold mass is derived from the momentum threshold with the assumption of a mean impact velocity of * * f in the U.S. work and * * f in the U.S.S.R. work .
+6
+#1 threshold NOUN threshold%1:06:01::
+#2 mass NOUN mass%1:07:00::,mass%1:07:01::
+#7 momentum NOUN momentum%1:07:01::
+#8 threshold NOUN threshold%1:06:01::
+#11 assumption NOUN assumption%1:09:00::
+#14 mean NOUN mean%1:09:00::
+The threshold mass of about * * f corresponds to a 10 - | m diameter sphere of density * * f .
+7
+#1 threshold NOUN threshold%1:06:01::
+#2 mass NOUN mass%1:07:00::,mass%1:07:01::
+#4 about ADV about%4:02:00::
+#8 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#14 meter NOUN m%1:23:00::
+#15 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#16 sphere NOUN sphere%1:15:01::
+However , the conversion from mass to size is unreliable , since many photographic meteors give evidence of a fluffy , loosely bound meteorite structure with densities as low as * * f .
+4
+#0 however ADV however%4:02:04::
+#5 mass NOUN mass%1:07:00::,mass%1:07:01::
+#7 size NOUN size%1:07:00::,size%1:07:02::
+#28 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+To what extent such low density applies to micrometeorites is unknown .
+1
+#6 apply VERB apply%2:42:00::
+The velocity value used is also open to some question ; if a substantial fraction of the dust is orbiting about the Earth , only about one third the above mentioned average velocity should be used in deriving the mass .
+9
+#2 value NOUN value%1:09:00::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#14 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#17 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#22 earth NOUN earth%1:15:00::,earth%1:17:01::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#35 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#39 mass NOUN mass%1:07:00::,mass%1:07:01::
+Zodiacal light and the gegenschein give some evidence for such a dust blanket , a phenomenon also to be expected if the dust before capture is in circular orbits about the sun , as indicated by the trend of the smaller visible meteors .
+9
+#11 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#12 blanket NOUN blanket%1:17:00::
+#15 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#22 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#27 circular ADJ circular%3:00:00::
+#28 orbit NOUN orbit%1:15:00::
+#31 sun NOUN sun%1:17:00::,sun%1:17:01::
+#34 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#41 visible ADJ visible%3:00:00::
+The diurnal variation in the observed flux may be partly due to the dependence of the detector sensitivity on the incident velocity .
+2
+#6 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#20 incident ADJ incident%3:01:00::
+The flux of micrometeorites in the neighborhood of the Earth can be estimated by extrapolation from radar and visual meteor data .
+3
+#1 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#9 earth NOUN earth%1:15:00::,earth%1:17:01::
+#20 data NOUN data%1:14:00::,datum%1:09:00::
+A summary of meteorite data , prepared by Whipple ( 1958 ) on the basis of photographic , visual , and radar evidence , is given in Table 5 - 1 .
+4
+#4 data NOUN data%1:14:00::,datum%1:09:00::
+#6 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#25 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#27 table NOUN table%1:14:00::
+From an estimated mass of 25 g for a zero magnitude meteorite , the other masses are derived with the assumption of a mass decrease by a factor of 2.512 for each unit increase in magnitude .
+7
+#3 mass NOUN mass%1:07:00::,mass%1:07:01::
+#6 gram NOUN g%1:23:00::
+#14 other ADJ other%3:00:00::
+#15 mass NOUN mass%1:07:00::,mass%1:07:01::
+#20 assumption NOUN assumption%1:09:00::
+#23 mass NOUN mass%1:07:00::,mass%1:07:01::
+#27 factor NOUN factor%1:23:00::
+The radius is calculated from the mass by assuming spheres of density * * f except for the smallest particles , which must have a higher mass density to remain in the solar system in the presence of solar radiation pressure .
+8
+#3 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#6 mass NOUN mass%1:07:00::,mass%1:07:01::
+#9 sphere NOUN sphere%1:15:01::
+#19 particle NOUN particle%1:17:00::,particle%1:27:01::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 high ADJ high%3:00:02::
+#26 mass NOUN mass%1:07:00::,mass%1:07:01::
+#40 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+The flux values are for all particles with masses greater than the given mass and are based on an estimate of the numbers of visual meteors .
+8
+#1 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#2 value NOUN value%1:09:00::
+#6 particle NOUN particle%1:17:00::,particle%1:27:01::
+#8 mass NOUN mass%1:07:00::,mass%1:07:01::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 given ADJ give%2:32:03::
+#13 mass NOUN mass%1:07:00::,mass%1:07:01::
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+It is assumed that the flux values increase by a factor of 2.512 per magnitude , in accordance with the opinion that the total mass flux in each unit range in magnitude is constant .
+7
+#2 assume VERB assume%2:31:00::
+#5 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#6 value NOUN value%1:09:00::
+#10 factor NOUN factor%1:23:00::
+#24 mass NOUN mass%1:07:00::,mass%1:07:01::
+#25 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#29 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The values agree with the data from 1958 Alpha and 1959 Eta .
+3
+#1 value NOUN value%1:09:00::
+#2 agree VERB agree%2:40:02::,agree%2:42:01::,agree%2:42:03::
+#5 data NOUN data%1:14:00::,datum%1:09:00::
+The figures in the next-to-last column are derived with the assumption of 50 per cent shielding by the Earth ; hence , these figures apply immediately above the Earth 's atmosphere .
+10
+#1 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#5 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#10 assumption NOUN assumption%1:09:00::
+#18 earth NOUN earth%1:15:00::,earth%1:17:01::
+#20 hence ADV hence%4:02:00::
+#23 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#24 apply VERB apply%2:42:00::
+#25 immediately ADV immediately%4:02:00::,immediately%4:02:05::
+#28 earth NOUN earth%1:15:00::,earth%1:17:01::
+#30 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+The unshielded flux is given in the last column ; these figures constitute the best estimate for the flux in interplanetary space near the Earth .
+9
+#2 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#4 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#7 last ADJ last%5:00:00:unlikely:00
+#8 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#11 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#12 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#14 good ADJ best%3:00:00::,good%3:00:01::
+#18 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#24 earth NOUN earth%1:15:00::,earth%1:17:01::
+Of course , if there is a dust blanket around the Earth , the fluxes in interplanetary space should be less than the figures given here .
+6
+#7 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#8 blanket NOUN blanket%1:17:00::
+#11 earth NOUN earth%1:15:00::,earth%1:17:01::
+#14 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#23 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#24 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+Note that the mass scale is one to two orders of magnitude greater than some previously used ; for example , Jacchia ( 1948 ) derived a scale of 0.15 g for a * * f , zero magnitude meteorite .
+7
+#0 note VERB note%2:32:00::,note%2:39:00::
+#3 mass NOUN mass%1:07:00::,mass%1:07:01::
+#4 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#12 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#27 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#30 gram NOUN g%1:23:00::
+The older scales were based on theoretical estimates of the conversion efficiency of kinetic energy into light .
+4
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#2 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#10 conversion NOUN conversion%1:04:00::
+#16 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+The mass scale used in Table 5 - 1 was derived on the assumption that the motion of the glowing trail is related to the momentum transfer to the trail by the meteorite , permitting the calculation of the mass if the velocity is known ( Cook and Whipple , 1958 ) .
+12
+#1 mass NOUN mass%1:07:00::,mass%1:07:01::
+#2 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 table NOUN table%1:14:00::
+#13 assumption NOUN assumption%1:09:00::
+#16 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#20 trail NOUN trail%1:17:01::
+#25 momentum NOUN momentum%1:07:01::
+#26 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#29 trail NOUN trail%1:17:01::
+#39 mass NOUN mass%1:07:00::,mass%1:07:01::
+#44 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+A concentration distribution has been derived from radar observations sensitive to the fifteenth magnitude ( Manning and Eshleman , 1959 ) .
+3
+#1 concentration NOUN concentration%1:04:01::
+#8 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#9 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+Extrapolation of this relationship through the thirtieth magnitude covers the range of micrometeorites .
+2
+#8 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#10 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The approximate equation is * * f , where n is the number of * * f with electron line density greater than or equal to * * f , and q is proportional to the mass of the meteorite .
+5
+#2 equation NOUN equation%1:10:00::
+#12 number NOUN number%1:10:01::,number%1:23:00::
+#21 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#24 equal ADJ equal%3:00:00::
+#36 mass NOUN mass%1:07:00::,mass%1:07:01::
+Therefore , n is inversely proportional to the radius cubed and in fair agreement with the inverse 7 2 power derived from 1958 Alpha and 1959 Eta data .
+3
+#9 cube VERB cube%2:31:00::
+#19 power NOUN power%1:10:00::
+#27 data NOUN data%1:14:00::,datum%1:09:00::
+These extrapolated fluxes are about an order of magnitude less than the values from the satellite data and the figures in Whipple 's table .
+7
+#2 flux NOUN flux%1:07:00::,flux%1:19:00::,flux%1:28:00::
+#4 about ADV about%4:02:00::
+#12 value NOUN value%1:09:00::
+#15 satellite NOUN satellite%1:06:00::
+#16 data NOUN data%1:14:00::,datum%1:09:00::
+#19 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#23 table NOUN table%1:14:00::
+The extrapolation may be in error for several reasons .
+1
+#8 reason NOUN reason%1:09:01::,reason%1:16:00::
+The observational data determining the concentration distribution have a range of error which is magnified in the extension into the micrometeorite region .
+7
+#2 data NOUN data%1:14:00::,datum%1:09:00::
+#3 determine VERB determine%2:31:02::,determine%2:32:03::
+#5 concentration NOUN concentration%1:04:01::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#14 magnify VERB magnify%2:30:01::
+#17 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+The solar electromagnetic - and corpuscular-radiation pressure and the associated Poynting-Robertson effect increase in effectiveness as the particle size decreases and modify the distribution and limit sizes to larger than a few microns .
+6
+#9 associated ADJ associate%5:00:00:subordinate:01
+#11 effect NOUN effect%1:09:00::,effect%1:19:00::
+#17 particle NOUN particle%1:17:00::,particle%1:27:01::
+#18 size NOUN size%1:07:00::,size%1:07:02::
+#26 size NOUN size%1:07:00::,size%1:07:02::
+#28 large ADJ large%3:00:00::,large%5:00:00:significant:00
+Also , it has been suggested that the source of all or part of the dust may not be the same as that for visual or radar meteorites ( Best , 1960 ) , and the same distribution would not be expected .
+6
+#12 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#15 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#17 not ADV not%4:02:00::
+#20 same ADJ same%3:00:00::,same%3:00:02::
+#36 same ADJ same%3:00:00::,same%3:00:02::
+#39 not ADV not%4:02:00::
+A measure of the total mass accretion of meteoritic material by the Earth is obtained from analyses of deep sea sediments and dust collected in remote regions ( Pettersson , 1960 ) .
+9
+#1 measure NOUN measure%1:03:00::,measure%1:10:03::
+#5 mass NOUN mass%1:07:00::,mass%1:07:01::
+#9 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#12 earth NOUN earth%1:15:00::,earth%1:17:01::
+#14 obtain VERB obtain%2:40:00::
+#18 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#22 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#23 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#25 remote ADJ remote%5:00:00:unlikely:00
+Most meteoritic material , by the time it reaches the Earth's surface , has been reduced to dust or to spherules of ablated material in its passage through the atmosphere .
+7
+#2 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#8 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#15 reduce VERB reduce%2:30:06::
+#17 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#23 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#26 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#29 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+For all meteorites , the average nickel content is about 2.5 per cent .
+3
+#6 nickel NOUN ni%1:27:00::
+#7 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#9 about ADV about%4:02:00::
+This is much higher than the nickel content of terrestrial dusts and sediments and provides a basis for the determination of the meteoritic mass influx .
+8
+#3 high ADJ high%3:00:02::
+#6 nickel NOUN ni%1:27:00::
+#7 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#10 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#14 provide VERB provide%2:34:00::,provide%2:40:00::
+#19 determination NOUN determination%1:04:01::
+#23 mass NOUN mass%1:07:00::,mass%1:07:01::
+#24 influx NOUN influx%1:22:00::
+Present data indicate an accretion of about * * f tons per year over the entire globe , or about * * f .
+5
+#0 present ADJ present%3:00:01::
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#10 ton NOUN ton%1:23:01::
+#16 globe NOUN globe%1:06:00::

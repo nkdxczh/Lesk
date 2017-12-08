@@ -1,0 +1,552 @@
+ " And I 'll take you with me " .
+1
+#4 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+That had been how she imagined it .
+1
+#5 imagine VERB imagine%2:31:01::
+For when he began to talk and dream all at the same time , making his plans as he went , she had begun dreaming too .
+8
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 dream VERB dream%2:36:00::
+#14 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#16 plan NOUN plan%1:09:00::
+#19 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#23 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#24 dream VERB dream%2:36:00::
+#25 too ADV too%4:02:01::
+But now the dream was over .
+1
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The big waking up had happened .
+2
+#1 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#5 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+" What did I imagine " ? she thought .
+2
+#4 imagine VERB imagine%2:31:01::
+#8 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+" Did I see him about to swing low in a chariot ?
+3
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#8 low ADV low%4:02:00::
+Or maybe poling up the south fork of the Forked Deer River braving the wastes dumped in it ?
+4
+#5 south ADJ south%3:00:00::
+#6 fork NOUN fork%1:04:00::
+#14 waste NOUN waste%1:27:00::
+#15 dump VERB dump%2:38:01::
+Maybe I saw him on a barge with a gang of Ethiopians poling it " .
+2
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 gang NOUN gang%1:14:00::
+And I 'll take you with me .
+1
+#3 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Wednesday nights after youth fellowship .
+1
+#4 fellowship NOUN fellowship%1:14:00::
+Out of the church and into his big car , it tooling over the road with him driving and the headlights sweeping the pike ahead and after he hit college , his expansiveness , the quaint little pine board tourist courts , cabins really , with a cute naked light bulb in the ceiling ( unfrosted and naked as a streetlight , like the one on the corner where you used to play when you were a kid , where you watched the bats swooping in after the bugs , watching in between your bouts at hopscotch ) , a room complete with moths pinging the light and the few casual cockroaches cruising the walls , an insect Highway Patrol with feelers waving .
+30
+#7 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#11 tool VERB tool%2:38:00::
+#14 road NOUN road%1:04:00::,road%1:06:00::
+#17 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#23 pike NOUN pike%1:06:01::
+#28 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#29 college NOUN college%1:14:00::,college%1:14:01::
+#37 pine NOUN pine%1:20:00::
+#38 board NOUN board%1:06:00::,board%1:27:00::
+#42 cabin NOUN cabin%1:06:02::
+#43 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#47 cute ADJ cute%5:00:00:attractive:01
+#48 naked ADJ naked%5:00:00:unclothed:00
+#53 ceiling NOUN ceiling%1:06:00::
+#57 naked ADJ naked%5:00:00:unclothed:00
+#67 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#72 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#77 kid NOUN kid%1:18:00::
+#81 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#83 bat NOUN bat%1:05:00::
+#84 swoop VERB swoop%2:38:00::
+#88 bug NOUN bug%1:05:03::
+#90 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#94 bout NOUN bout%1:28:01::
+#100 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#104 ping VERB ping%2:39:00::
+#106 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#110 casual ADJ casual%5:00:00:unconcerned:00
+#112 cruise VERB cruise%2:38:01::
+#122 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+And the bed that sagged in a certain place where all the weight had been put too many times before and the walls fine and thin for overhearing talk in the next room when Gratt went out for ice , the sound coming through the walls like something on the other side of the curtain , so you knew they heard you when they were quiet and while you lay wondering what they had heard you listened .
+19
+#2 bed NOUN bed%1:06:00::
+#4 sag VERB sag%2:38:01::
+#7 certain ADJ certain%5:00:00:definite:00
+#8 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#12 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#15 put VERB put%2:31:13::,put%2:34:00::
+#16 too ADV too%4:02:00::
+#18 time NOUN time%1:11:00::
+#19 before ADV before%4:02:03::
+#23 fine ADJ fine%3:00:00::,fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:thin:01
+#25 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#31 next ADJ next%5:00:00:close:01
+#32 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#38 ice NOUN ice%1:27:00::
+#41 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#50 other ADJ other%3:00:00::
+#56 so CONJ so%4:02:10::
+#65 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#70 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+And Gratt Shafer would be in Memphis today for the wedding rehearsal and then tomorrow he would marry just like everybody knew he would , just like everybody knew all along .
+7
+#6 Memphis NOUN memphis%1:15:00::
+#13 then ADV then%4:02:01::
+#17 marry VERB marry%2:41:00::,marry%2:41:01::
+#18 just ADV just%4:02:05::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#25 just ADV just%4:02:05::
+#28 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Like Mattie and the mayor up there gripping the microphone and Toonker Burkette back in his office yanking out teeth , like they all knew he would .
+5
+#7 grip VERB grip%2:35:00::
+#13 back ADV back%4:02:05::
+#16 office NOUN office%1:06:00::
+#19 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#24 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Just like the balloon would go up and you could sit all day and wish it would spring a leak or blow to hell up and burn and nothing like that would happen .
+7
+#0 just ADV just%4:02:05::
+#10 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#17 spring VERB spring%2:29:00::
+#19 leak NOUN leak%1:11:00::
+#26 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#32 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Or you could hope the parachute would n't open just so you could say you saw it not open , not because you meant any harm to Starkey Poe in his suit of red underwear , but mainly because you were tired of being an old maid - a thing which cannot admit when it thinks it might be pregnant , but must stand the dizzy feeling all alone and go on like everything is all right instead of being able to say to somebody in a normal voice : " I think I 'm pregnant " .
+17
+#9 just ADV just%4:02:00::,just%4:02:03::
+#10 so CONJ so%4:02:10::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#31 suit NOUN suit%1:06:00::
+#33 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#52 admit VERB admit%2:32:00::
+#55 think VERB think%2:31:01::,think%2:31:03::
+#59 pregnant ADJ pregnant%3:00:00::
+#63 stand VERB stand%2:42:00::,stand%2:42:02::
+#68 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#80 able ADJ able%3:00:00::
+#82 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#87 normal ADJ normal%3:00:01::,normal%3:00:03::
+#88 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#92 think VERB think%2:31:01::,think%2:31:03::
+#95 pregnant ADJ pregnant%3:00:00::
+Or you could wish your daddy would really do it - kill Gratt Shafer like he said when you all the time , all along , could feel the nerve draining out of him like air out of a punctured tire when you are on a muddy road alone and it is raining and at night .
+8
+#7 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#11 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 nerve NOUN nerve%1:07:00::
+#30 drain VERB drain%2:30:01::
+#35 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#47 road NOUN road%1:04:00::,road%1:06:00::
+#48 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+So you sit in the car and listen to the air run out and listen to the rain and see the mud in front of the headlights , waiting for you , for your new spectator pumps , waiting for you to squat by yourself out there in your tight skirt , crying and afraid and trying to get that damned son-of-a-bitch tire off , because that is being an old maid too , if you happen to drive a car , it is changing the tire yourself in the night , and in the mud and the rain , hating to get out in it but afraid to stay and afraid to try to walk out for help .
+22
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#10 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#19 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#21 mud NOUN mud%1:27:00::
+#28 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#34 new ADJ new%3:00:00::
+#38 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#42 squat VERB squat%2:35:00::
+#46 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#49 tight ADJ tight%5:00:00:invulnerable:00
+#56 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#58 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#60 damn ADJ damn%5:00:00:cursed:00
+#72 too ADV too%4:02:01::
+#76 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#78 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#84 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+#95 mud NOUN mud%1:27:00::
+#109 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#113 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#115 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#118 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+And every sound that might be the rain also might be the man who thinks after he has raped you he has to beat your brains out with a tire tool so you won n't tell , a combination like ham and eggs , rape her and kill her , and that is being an old maid too .
+13
+#2 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#12 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 think VERB think%2:31:01::,think%2:31:03::
+#18 rape VERB rape%2:41:00::
+#21 have VERB have%2:42:08::
+#23 beat VERB beat%2:35:00::,beat%2:35:01::,beat%2:35:10::,beat%2:35:12::,beat%2:36:00::,beat%2:38:04::,beat%2:39:00::
+#25 brain NOUN brain%1:08:00::,brain%1:13:00::
+#31 so CONJ so%4:02:06::
+#35 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#38 combination NOUN combination%1:04:00::,combination%1:14:00::
+#44 rape VERB rape%2:41:00::
+#47 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#57 too ADV too%4:02:01::
+It is not having his baby nestled warm and fat against your breast and it is not having somebody that really gives a damn whether some tramp cracks your skull .
+6
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 baby NOUN baby%1:05:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#26 tramp NOUN tramp%1:18:00::
+#27 crack VERB crack%2:30:02::
+And most of all it is not having the only man you could love , whether he drives a bread truck or delivers the mail or checks the berry crates down at the sheds , or owns seventeen oil wells and six diamond mines , for if you are anybody what he is or does makes no difference if he is the one .
+12
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#17 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#19 bread NOUN bread%1:13:00::
+#20 truck NOUN truck%1:06:00::,truck%1:06:01::
+#22 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#24 mail NOUN mail%1:06:01::
+#29 crate NOUN crate%1:06:00::
+#36 own VERB owned%3:00:00::
+#42 diamond NOUN diamond%1:27:00::
+#43 mine NOUN mine%1:06:01::
+#55 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He can even be a mild voiced little town guy with big town ideas and level gray eyes and a heart even Houdini could n't figure out , how it is unlocked .
+6
+#9 guy NOUN guy%1:18:00::
+#13 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#15 level ADJ level%5:00:00:steady:00
+#16 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#17 eye NOUN eye%1:08:00::,eye%1:09:01::
+#20 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+And he can be on the way to Memphis , your Gratt Shafer can , and you discover you can stay alive and hate him and love him and want him even if it means you want him - really want him - dead .
+9
+#8 Memphis NOUN memphis%1:15:00::
+#17 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#20 stay VERB stay%2:42:02::
+#21 alive ADJ alive%3:00:01::
+#29 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#36 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#39 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#40 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#43 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+Because if you can n't then nobody else can either , nobody else can have him .
+1
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+For you do n't share him , not even with God .
+1
+#10 God NOUN god%1:18:00::
+If it is love , you do n't .
+1
+#3 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+And I 'll take you with me .
+1
+#3 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Even if that 's all the promise he ever gave or ever will give , the giving of it once was enough and you believed it then and you will always believe it , even when it is finally the only thing in the world you have left to believe , and the whole world is telling you that one was a lie .
+17
+#8 ever ADV ever%4:02:05::
+#9 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#11 ever ADV ever%4:02:05::
+#13 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#19 once ADV once%4:02:00::
+#24 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#26 then ADV then%4:02:01::
+#30 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#31 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#41 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#44 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#46 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#49 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#53 whole ADJ whole%3:00:00::
+#54 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#56 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#62 lie NOUN lie%1:10:00::
+Even when he is on the way to Memphis you will still have the promise resting inside you like a gift , and it is he inside of you .
+4
+#8 Memphis NOUN memphis%1:15:00::
+#11 still ADV still%4:02:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 gift NOUN gift%1:04:00::
+And in a way the promise works out true , for whether he wants you or not , you go with him in your heart .
+4
+#8 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#13 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#24 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+You feel him every mile further away .
+1
+#6 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+You feel where he is and what he sees , and at night you feel when he is asleep or with the other woman , the one that never could love him the way you do , the one who got him because she did n't particularly give a damn whether she got him or did n't .
+4
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#22 other ADJ other%3:00:00::
+#28 never ADV never%4:02:00::
+#33 way NOUN way%1:04:00::,way%1:09:00::
+And you know you will always wonder all of your life whether it was because you wanted him so bad that you did n't get him , and you can feel nearly sorry enough to cry when you think of that other guy , the chump who begged you to marry him , the one with the plastered hair and the car he could n't afford and the too shiny shoes .
+15
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#6 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#16 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#18 so ADV so%4:02:03::,so%4:02:07::
+#31 nearly ADV nearly%4:02:00::
+#32 sorry ADJ sorry%3:00:02::
+#41 other ADJ other%3:00:00::
+#42 guy NOUN guy%1:18:00::
+#47 beg VERB beg%2:40:00::
+#50 marry VERB marry%2:41:00::,marry%2:41:01::
+#58 hair NOUN hair%1:08:00::
+#65 afford VERB afford%2:34:00::,afford%2:42:00::
+#68 too ADV too%4:02:00::
+#70 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+You think : " Did he feel that way about me " ?
+1
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+It comes to you that probably he did feel that way to let you use him like you did when you could n't have Gratt Shafer ; that he must have since he was there like the radio for you to turn on or snap off when you got tired of him , that other guy .
+7
+#12 let VERB let%2:30:01::,let%2:41:00::
+#14 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#44 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+#48 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#54 other ADJ other%3:00:00::
+#55 guy NOUN guy%1:18:00::
+It dawns on you that instead of a lump to fill the seat across the bridge table from you , he was a man , and that because Gratt Shafer was making you miserable , you were passing it down to him , to Gratt Shafer 's substitute , that other guy .
+10
+#1 dawn VERB dawn%2:30:00::
+#12 seat NOUN seat%1:06:00::,seat%1:06:01::,seat%1:06:03::,seat%1:07:00::,seat%1:15:00::,seat%1:15:01::
+#15 bridge NOUN bridge%1:04:00::
+#16 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#33 miserable ADJ miserable%5:00:00:unhappy:00
+#37 pass VERB pass%2:32:01::,pass%2:40:00::,pass%2:40:01::,pass%2:40:02::,pass%2:40:13::
+#39 down ADV down%4:02:00::,down%4:02:02::
+#50 other ADJ other%3:00:00::
+#51 guy NOUN guy%1:18:00::
+And you wonder if that is why the little man lost his job and his car and stayed drunk about a year before he straightened out and moved to St. Louis , where he got to be a big unhappy success .
+7
+#2 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#10 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#12 job NOUN job%1:04:00::,job%1:06:00::
+#17 stay VERB stay%2:42:02::
+#21 year NOUN year%1:28:00::,year%1:28:01::
+#27 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#38 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+You wonder if he looks at his wife now and thinks of you .
+3
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#4 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+You wonder about the Christmas card with no name on it , and it comes to you that maybe it would have been better to have made somebody else happy if you could n't be happy yourself , to give somebody else the one they wanted - to give them you .
+9
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#8 name NOUN name%1:14:00::
+#23 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#29 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#35 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#39 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#45 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#48 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+" Damn the world " , she thought .
+3
+#1 damn VERB damn%2:32:00::
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+She looked out at the corn field , the great green deep acres of it rolled out like the sea in the field beyond the whitewashed fence bordering the grounds .
+8
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 corn NOUN corn%1:20:02::
+#6 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#11 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#22 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#26 fence NOUN fence%1:06:00::
+#29 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+The mayor envisioned factories there .
+2
+#3 factory NOUN factory%1:06:00::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Homes and factories and schools and a big wide federal highway , instead of peaceful corn to rest your eyes on while you tried to rest your heart , while you tried not to look at the balloon and the bandstand and the uniforms and the flash of the instruments .
+14
+#0 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#2 factory NOUN factory%1:06:00::
+#4 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#7 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#8 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#14 peaceful ADJ peaceful%3:00:00::
+#15 corn NOUN corn%1:20:02::
+#19 eye NOUN eye%1:08:00::,eye%1:09:01::
+#23 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#27 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#31 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#34 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#43 uniform NOUN uniform%1:06:00::
+#49 instrument NOUN musical_instrument%1:06:00::
+The bands were impatient , but they were the only ones .
+2
+#1 band NOUN band%1:14:00::,band%1:14:01::,band%1:14:02::
+#3 impatient ADJ impatient%5:00:00:eager:00
+The others , the ones in the stands , were spellbound , for hearing the mayor was for them like listening to a symphony was for sophisticated folks in New York City .
+3
+#7 stand NOUN stand%1:15:00::
+#26 sophisticated ADJ sophisticated%5:00:00:high-tech:00
+#27 folk NOUN folk%1:14:00::
+It was like being in the concert hall in the afternoon and hearing the piano virtuoso rehearsing .
+1
+#14 piano NOUN piano%1:06:00::
+He was good and they knew that what he was doing for them he would do all over the United States some day .
+2
+#2 good ADJ good%3:00:01::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+So they stayed quiet and hung not on what he said but on how he said it , not listening exactly , but rather , feeling .
+7
+#2 stay VERB stay%2:42:02::
+#3 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 exactly ADV exactly%4:02:02::
+#23 rather ADV rather%4:02:02::
+#25 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+If a man was good , if he was going to be governor , you felt it and you wanted him to go on forever .
+4
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#19 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#24 forever ADV forever%4:02:00::
+You were sorry when he finished talking because while he was up there you were someone else and the world was something else too .
+5
+#2 sorry ADJ sorry%3:00:02::
+#5 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#12 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#19 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#23 too ADV too%4:02:01::
+It was a place full of courage and hope and you were part of it .
+4
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#4 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#8 hope NOUN hope%1:09:00::,hope%1:18:00::
+#12 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+You laughed and then your chest swelled and you felt you could cry for a little bit , and then a feeling hit you like a chill in your stomach and the goose bumps rippled along your arm .
+7
+#3 then ADV then%4:02:00::
+#5 chest NOUN chest%1:08:00::,chest%1:08:01::
+#19 then ADV then%4:02:00::
+#21 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#26 chill NOUN chill%1:07:00::
+#29 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+#37 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+He hit the theme about dying to defend your country , and you were ready to do it right then , without a second thought .
+6
+#3 theme NOUN theme%1:10:02::
+#5 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#9 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#14 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#18 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#19 then ADV then%4:02:01::
+While he talked you would n't trade being a West Tennessee farmer for being anything else in the whole damned world , no matter if it had n't , in six weeks , rained enough to wet a rat 's ass .
+6
+#6 trade VERB trade%2:40:02::
+#11 farmer NOUN farmer%1:18:00::
+#18 whole ADJ whole%3:00:00::
+#19 damn ADJ damn%5:00:00:cursed:00
+#20 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#34 enough ADV enough%4:02:00::
+She glanced at the man nodding beside her , a man with weather cracks furrowed into his lean cheeks , with powdery pale eyes reflecting all the droughts he had seen , reflecting the sky and the drought which must follow now in August - yes , with eyes predicting the drought and here it was only June , only festival time again and thoughts of Gratt Shafer would not leave her .
+19
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#5 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#13 crack NOUN crack%1:25:00::
+#17 lean ADJ lean%3:00:04::
+#18 cheek NOUN cheek%1:08:00::
+#22 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#23 eye NOUN eye%1:08:00::,eye%1:09:01::
+#24 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#30 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#32 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#40 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#41 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#48 eye NOUN eye%1:08:00::,eye%1:09:01::
+#53 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#56 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#59 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#61 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#64 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#70 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+" I should have stayed at the store " , she thought .
+3
+#4 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#7 store NOUN store%1:06:00::
+#11 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Back at the Factory-to-You with the other old maids , back there she was the youngest clerk and she was thirty-four , which made her young enough to resent the usual ideal working conditions , like the unventilated toilet with the door you had to hold shut while you sat down .
+12
+#0 back ADV back%4:02:01::,back%4:02:04::
+#6 other ADJ other%3:00:00::
+#10 back ADV back%4:02:01::,back%4:02:04::
+#11 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#16 clerk NOUN clerk%1:18:00::
+#23 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#31 ideal ADJ ideal%5:00:00:abstract:00
+#32 working ADJ working%5:00:00:employed:00
+#33 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#38 toilet NOUN toilet%1:06:01::
+#43 have VERB have%2:42:08::
+#45 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+There was no lock because Herman did n't allow a lock .
+3
+#3 lock NOUN lock%1:06:01::
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#10 lock NOUN lock%1:06:01::
+A lock on the toilet would encourage malingering and primping .
+2
+#1 lock NOUN lock%1:06:01::
+#4 toilet NOUN toilet%1:06:01::
+The toilet had n't had a sincere scrubbing in years and there were things written on the walls of the little boxed in place because you could n't keep the public out - entirely .
+7
+#1 toilet NOUN toilet%1:06:01::
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 scrub NOUN scrub%1:04:00::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#23 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#28 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#31 out ADV out%4:02:04::
+She could not count the times Herman had rapped on the door , just a couple of bangs that shook the whole damned closet and might , someday , break away the pipe connections from the wall .
+10
+#3 count VERB count%2:32:00::,count%2:32:01::
+#5 time NOUN time%1:11:00::
+#8 rap VERB rap%2:35:00::
+#13 just ADV just%4:02:00::,just%4:02:03::
+#17 bang NOUN bang%1:11:00::
+#19 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#21 whole ADJ whole%3:00:00::
+#22 damn ADJ damn%5:00:00:cursed:00
+#32 pipe NOUN pipe%1:06:00::
+#33 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+The two little bangs meant that he was getting impatient to have a crowd of customers waited on and that if he had to he would jerk open the door and drag out , by the opposite door handle which she would be clutching , whichever-the-hell clerk it was who thought she could waste so much store time on the pot .
+14
+#3 bang NOUN bang%1:11:00::
+#8 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#9 impatient ADJ impatient%5:00:00:eager:00
+#15 customer NOUN customer%1:18:00::
+#16 wait VERB wait%2:41:00::
+#22 have VERB have%2:42:08::
+#26 jerk VERB jerk%2:35:01::
+#27 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#31 drag VERB drag%2:32:00::,drag%2:35:00::,drag%2:35:01::,drag%2:35:02::,drag%2:38:06::,drag%2:38:10::
+#32 out ADP out%5:00:00:outer:00
+#46 clerk NOUN desk_clerk%1:18:00::
+#53 waste VERB waste%2:34:05::,waste%2:40:00::
+#56 store NOUN store%1:06:00::
+#60 pot NOUN pot%1:06:01::
+And the hours were six-thirty in the morning until eleven at night on Saturdays and during sales , and there were no chairs and you could n't smoke and the cooling was overhead fans and there was no porter or janitor .
+7
+#2 hour NOUN hour%1:28:00::
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+#22 chair NOUN chair%1:06:00::,chair%1:06:01::
+#27 smoke VERB smoke%2:34:00::
+#32 overhead ADJ overhead%3:00:00::
+#33 fan NOUN fan%1:06:00::
+#38 porter NOUN porter%1:18:00::

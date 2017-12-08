@@ -1,0 +1,806 @@
+ Most recreation work calls for a good deal of pre planning .
+2
+#1 recreation NOUN recreation%1:04:00::
+#10 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+This is particularly true in site selection .
+3
+#2 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#5 site NOUN site%1:15:00::,site%1:15:02::
+#6 selection NOUN selection%1:22:00::
+You must know before you start what the needs and objectives of your organization are ; you must have a list of requirements on where , how many , and what type sites are needed .
+11
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#3 before ADV before%4:02:03::
+#5 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#8 need NOUN need%1:17:00::
+#10 objective NOUN objective%1:09:00::
+#13 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 list NOUN list%1:10:00::
+#31 type NOUN type%1:18:00::
+#32 site NOUN site%1:15:00::,site%1:15:02::
+#34 need VERB need%2:42:00::
+With such a program you can make constructive selections of the best sites available .
+5
+#3 program NOUN program%1:09:00::,program%1:09:01::
+#7 constructive ADJ constructive%3:00:00::
+#8 selection NOUN selection%1:22:00::
+#11 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#12 site NOUN site%1:15:00::,site%1:15:02::
+Begin the examination of a site with a good map and aerial photos if possible .
+4
+#2 examination NOUN examination%1:09:03::
+#5 site NOUN site%1:15:00::,site%1:15:02::
+#8 good ADJ good%5:00:00:complete:00
+#9 map NOUN map%1:06:00::
+These are becoming more and more available through the work of counties and other government agencies .
+4
+#2 become VERB become%2:30:00::,become%2:42:01::
+#13 other ADJ other%3:00:00::
+#14 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#15 agency NOUN agency%1:14:00::,agency%1:14:01::
+The new editions of topographic maps being made by the federal government are excellent for orienting yourself to the natural features of the site .
+7
+#5 map NOUN map%1:06:00::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#13 excellent ADJ excellent%5:00:00:superior:02
+#15 orient VERB orient%2:32:01::
+#19 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#20 feature NOUN feature%1:08:00::,feature%1:09:01::
+#23 site NOUN site%1:15:00::,site%1:15:02::
+In recent years many counties and the U. S. Forest Service have taken aerial photos which show features in detail and are very good for planning use .
+6
+#1 recent ADJ recent%5:00:00:past:00
+#12 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#16 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#17 feature NOUN feature%1:08:00::,feature%1:09:01::
+#23 good ADJ good%3:00:01::
+#25 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+Most counties also have maps available from the county engineer showing roads and other features and from the assessor 's office showing ownerships of land .
+8
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 map NOUN map%1:06:00::
+#10 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#11 road NOUN road%1:04:00::,road%1:06:00::
+#13 other ADJ other%5:00:02:past:00
+#14 feature NOUN feature%1:08:00::,feature%1:09:01::
+#21 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#24 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+Inspect the site in the field during the time of the year when the area will be most heavily used for recreation .
+8
+#2 site NOUN site%1:15:00::,site%1:15:02::
+#5 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#8 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#17 most ADV most%4:02:00::
+#18 heavily ADV heavily%4:02:00::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#21 recreation NOUN recreation%1:04:00::
+This gives you a better opportunity to get the feel of the climate conditions , the exposure to the sun and wind , the water interests , etcetera , which vary greatly with the seasons .
+7
+#4 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#9 feel NOUN feel%1:04:00::
+#13 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#16 exposure NOUN exposure%1:26:01::
+#19 sun NOUN sun%1:18:00::,sun%1:19:00::
+#21 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#25 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+It is usually helpful to make a sketch map in the field , showing the size and location of the features of interest and to take photographs at the site .
+7
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#11 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#15 size NOUN size%1:07:00::,size%1:07:02::
+#20 feature NOUN feature%1:08:00::,feature%1:09:01::
+#22 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#25 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#29 site NOUN site%1:15:00::,site%1:15:02::
+These are a great aid for planning use back at the office .
+4
+#3 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#6 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#8 back ADV back%4:02:05::
+#11 office NOUN office%1:06:00::
+For site planning work , it is best to have a qualified and experienced park planner to carry through the study .
+9
+#1 site NOUN site%1:15:00::,site%1:15:02::
+#2 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#3 work NOUN work%1:04:00::
+#7 good ADJ best%3:00:00::,good%3:00:01::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 qualified ADJ qualified%5:00:00:registered:00
+#14 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#15 planner NOUN planner%1:18:00::
+#20 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+However , there is also much to be gained by making use of the abilities of the local people who are available and interested in recreation .
+5
+#0 however ADV however%4:02:04::
+#8 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#18 people NOUN people%1:14:01::
+#25 recreation NOUN recreation%1:04:00::
+County judges , commissioners , engineers , assessors , and others who have lived in the area for a long time may have valuable knowledge regarding the site or opinions to offer from their varied professional experiences .
+5
+#16 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 knowledge NOUN knowledge%1:03:00::
+#27 site NOUN site%1:15:00::,site%1:15:02::
+#35 professional ADJ professional%3:01:01::
+A visit to the site by a group of several persons can usually bring out new ideas or verify opinions most helpful to the planning study of any recreation area .
+8
+#4 site NOUN site%1:15:00::,site%1:15:02::
+#10 person NOUN person%1:03:00::,person%1:08:00::
+#16 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#20 most ADV most%4:02:00::
+#24 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#25 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#28 recreation NOUN recreation%1:04:00::
+#29 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+How much study is required ?
+1
+#2 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+This , of course , depends on the character of the site itself , the previous experience of the investigator , and the number of factors needed to arrive at a good decision .
+5
+#8 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#11 site NOUN site%1:15:00::,site%1:15:02::
+#15 previous ADJ previous%5:00:00:preceding:00
+#23 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#25 factor NOUN factor%1:08:00::,factor%1:18:00::
+It is too easy for the inexperienced person to make a quick judgment of a few values of the area and base a decision on these alone .
+7
+#2 too ADV too%4:02:00::
+#3 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#11 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#12 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#19 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#21 base VERB base%2:31:00::
+#26 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+Usually there are more factors to good site planning than first impressions .
+5
+#4 factor NOUN factor%1:08:00::,factor%1:18:00::
+#7 site NOUN site%1:15:00::,site%1:15:02::
+#8 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#10 first ADJ first%3:00:00::,first%4:02:00::
+#11 impression NOUN impression%1:07:00::
+A site may be a rundown slum or a desolate piece of desert in appearance today but have excellent potentials for the future with a little development or water .
+9
+#1 site NOUN site%1:15:00::,site%1:15:02::
+#12 desert NOUN desert%1:15:00::
+#14 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 excellent ADJ excellent%5:00:00:superior:02
+#19 potential NOUN potential%1:26:00::
+#22 future NOUN future%1:10:00::,future%1:28:00::
+#26 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#28 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+The same is true of areas which at first look good because of a few existing recreation features but may actually be poor areas to develop for general public use .
+13
+#1 same PRON same%3:00:02::
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#5 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#9 look VERB look%2:39:01::,look%2:42:02::
+#10 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#16 recreation NOUN recreation%1:04:00::
+#17 feature NOUN feature%1:08:00::,feature%1:09:01::
+#20 actually ADV actually%4:02:01::
+#22 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#23 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#25 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#27 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#28 public ADJ public%3:00:00::,public%5:00:00:common:02
+In looking for the best sites available that meet the requirements , you need information to compare the site with others .
+6
+#4 good ADJ best%3:00:00::,good%3:00:01::
+#5 site NOUN site%1:15:00::,site%1:15:02::
+#8 meet VERB meet%2:41:02::,meet%2:42:01::
+#14 information NOUN information%1:09:00::,information%1:10:02::
+#16 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#18 site NOUN site%1:15:00::,site%1:15:02::
+You need answers to four important questions .
+1
+#1 need VERB need%2:42:00::
+What are the existing recreation features ?
+2
+#4 recreation NOUN recreation%1:04:00::
+#5 feature NOUN feature%1:08:00::,feature%1:09:01::
+How well can the site be developed ?
+3
+#1 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#4 site NOUN site%1:15:00::,site%1:15:02::
+#6 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Is this site available ?
+1
+#2 site NOUN site%1:15:00::,site%1:15:02::
+Check the quantity and quality of all of the recreation interests already existing at the site .
+7
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#2 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#4 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#9 recreation NOUN recreation%1:04:00::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#11 already ADV already%4:02:00::
+#15 site NOUN site%1:15:00::,site%1:15:02::
+Naturally , a park site with scenic views , a good lake , trees , and sand dunes , will attract more people than a nearby area with only trees and dunes .
+10
+#0 naturally ADV naturally%4:02:00::
+#3 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#4 site NOUN site%1:15:00::,site%1:15:02::
+#7 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#11 lake NOUN lake%1:17:00::
+#13 tree NOUN tree%1:20:00::
+#22 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#26 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#28 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#29 tree NOUN tree%1:20:00::
+Quality is vitally important .
+1
+#0 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+Frontage on a body of clear , clean water will be vastly different from the same amount of frontage on polluted water .
+6
+#3 body NOUN body%1:06:00::,body%1:07:01::,body%1:08:01::,body%1:10:00::,body%1:14:02::
+#5 clear ADJ clear%3:00:02::,clear%3:00:03::,clear%5:00:00:perfect:00,clear%5:00:01:pure:02,clear%5:00:02:free:00
+#7 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#12 different ADJ different%5:00:00:unusual:00
+#15 same ADJ same%3:00:00::,same%3:00:02::
+#21 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Some recreation features , such as scenic values and water interest , also have greater overall value than other interests .
+9
+#1 recreation NOUN recreation%1:04:00::
+#2 feature NOUN feature%1:08:00::,feature%1:09:01::
+#7 value NOUN value%1:21:00::,values%1:09:00::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 value NOUN value%1:21:00::,values%1:09:00::
+#18 other ADJ other%3:00:00::
+#19 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+One of the most desirable features for a park are beautiful views or scenery .
+4
+#3 most ADV most%4:02:00::
+#5 feature NOUN feature%1:08:00::,feature%1:09:01::
+#8 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#11 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+It may be distant views of a valley or the mountains or natural features such as a small lake , colorful rock formations , or unusual trees .
+9
+#3 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#4 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#12 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#13 feature NOUN feature%1:08:00::,feature%1:09:01::
+#18 lake NOUN lake%1:17:00::
+#20 colorful ADJ colorful%3:00:00::
+#21 rock NOUN rock%1:13:00::,rock%1:17:01::
+#22 formation NOUN formation%1:14:00::,formation%1:17:00::
+#26 tree NOUN tree%1:20:00::
+A site which overlooks a harbor or river may offer interest in the activities of boating traffic .
+6
+#1 site NOUN site%1:15:00::,site%1:15:02::
+#3 overlook VERB overlook%2:42:00::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#13 activity NOUN activity%1:04:00::,activity%1:26:00::
+#15 boat NOUN boat%1:06:00::
+#16 traffic NOUN traffic%1:14:00::
+An area on the coast may have relaxing views of the surf rolling in on a beach .
+5
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#4 coast NOUN coast%1:17:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#12 roll VERB roll%2:35:01::,roll%2:38:01::,roll%2:38:10::,roll%2:38:11::,roll%2:42:00::
+A site may also be attractive just through the beauty of its trees and shrubs .
+5
+#1 site NOUN site%1:15:00::,site%1:15:02::
+#6 just ADV just%4:02:00::,just%4:02:03::
+#9 beauty NOUN beauty%1:07:00::
+#12 tree NOUN tree%1:20:00::
+#14 shrub NOUN shrub%1:20:00::
+Note extent of these interests and how available they will be for the public to enjoy .
+3
+#0 note VERB note%2:32:00::,note%2:39:00::
+#4 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#15 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+Water interest is one of the most valuable factors you can find for a recreation site .
+6
+#1 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#6 most ADV most%4:02:00::
+#8 factor NOUN factor%1:08:00::,factor%1:18:00::
+#11 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 recreation NOUN recreation%1:04:00::
+#15 site NOUN site%1:15:00::,site%1:15:02::
+Most park planners look to water frontage for basic park areas .
+5
+#1 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#2 planner NOUN planner%1:18:00::
+#8 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#9 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+This follows naturally since frontage on an ocean , stream , or lake provides scenic values and opportunities for the very popular recreation activities of bathing , fishing , boating , and other water sports .
+11
+#1 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#9 stream NOUN stream%1:17:00::
+#12 lake NOUN lake%1:17:00::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+#15 value NOUN value%1:21:00::,values%1:09:00::
+#21 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#22 recreation NOUN recreation%1:04:00::
+#23 activity NOUN activity%1:04:00::,activity%1:26:00::
+#27 fish VERB fish%2:33:00::
+#29 boat NOUN boat%1:06:00::
+#32 other ADJ other%5:00:02:past:00
+A body of water is usually the center of interest at parks which attract the greatest picnic and camping use .
+3
+#9 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#11 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#18 camp NOUN camp%1:06:01::,camp%1:14:00::
+It also cools the air in summer and nourishes the trees and wildlife .
+4
+#4 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#6 summer NOUN summer%1:28:00::
+#8 nourish VERB nourish%2:34:00::
+#10 tree NOUN tree%1:20:00::
+The amount of water frontage , the quantity and quality of the water , and the recreation afforded by it are important .
+5
+#7 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#9 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#12 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#16 recreation NOUN recreation%1:04:00::
+#17 afford VERB afford%2:40:00::
+A restricted frontage may be too crowded an area for public use .
+2
+#5 too ADV too%4:02:00::
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The quantity of water flow may be critical ; a stream or pond which is attractive in the springtime may become stagnant or dry in late summer .
+8
+#1 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#4 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#7 critical ADJ critical%3:00:03::,critical%5:00:00:crucial:00,critical%5:00:00:indispensable:00
+#10 stream NOUN stream%1:17:00::
+#20 become VERB become%2:30:00::,become%2:42:01::
+#23 dry ADJ dry%3:00:01::
+#25 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#26 summer NOUN summer%1:28:00::
+If the site is on a reservoir , the level of the water at various seasons as it affects recreation should be studied .
+5
+#2 site NOUN site%1:15:00::,site%1:15:02::
+#9 level NOUN level%1:07:00::
+#18 affect VERB affect%2:30:00::,affect%2:42:00::
+#19 recreation NOUN recreation%1:04:00::
+#22 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+Check the quality of the water .
+2
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#2 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+A stream which has all of its watershed within a national forest or other lands under good conservation practices is less likely to be affected by pollution than one passing through unrestricted logging or past an industrial area .
+10
+#1 stream NOUN stream%1:17:00::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 watershed NOUN watershed%1:15:00::
+#13 other ADJ other%3:00:00::
+#14 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#18 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#20 less ADV less%4:02:00::,less%4:02:01::
+#24 affect VERB affect%2:30:00::,affect%2:42:00::
+#32 log VERB log%2:35:00::
+#37 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Other factors , such as water temperature , depth of water , the fish life it supports , wave action , flooding , etcetera , will affect its recreation value .
+13
+#0 other ADJ other%5:00:02:past:00
+#1 factor NOUN factor%1:08:00::,factor%1:18:00::
+#5 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#8 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#13 fish NOUN fish%1:13:00::
+#14 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#16 support VERB support%2:31:04::,support%2:40:00::
+#18 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#19 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#21 flood NOUN flood%1:19:00::
+#26 affect VERB affect%2:30:00::,affect%2:42:00::
+#28 recreation NOUN recreation%1:04:00::
+#29 value NOUN value%1:21:00::,values%1:09:00::
+Other natural features which can be of high interest are the forests , canyons , mountains , deserts , seacoast , beaches , sand dunes , waterfalls , springs , etcetera with which the area is blessed .
+8
+#0 other ADJ other%5:00:02:past:00
+#1 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#2 feature NOUN feature%1:08:00::,feature%1:09:01::
+#7 high ADJ high%3:00:02::
+#8 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#17 desert NOUN desert%1:15:00::
+#28 spring NOUN spring%1:17:00::
+#34 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Just as the national and state parks place emphasis on features which are of national or state significance , counties should seek out these features which are distinctive of their area .
+6
+#6 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#7 place VERB place%2:31:13::
+#10 feature NOUN feature%1:08:00::,feature%1:09:01::
+#17 significance NOUN significance%1:07:00::
+#24 feature NOUN feature%1:08:00::,feature%1:09:01::
+#30 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Although the site may not contain the features themselves , there are often opportunities to include them as additional interest to the site .
+7
+#2 site NOUN site%1:15:00::,site%1:15:02::
+#4 not ADV not%4:02:00::
+#5 contain VERB contain%2:42:00::,contain%2:42:06::
+#7 feature NOUN feature%1:08:00::,feature%1:09:01::
+#15 include VERB include%2:31:00::,include%2:41:03::
+#19 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#22 site NOUN site%1:15:00::,site%1:15:02::
+The route to the park may lead people past them or display views of them .
+4
+#4 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#6 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#12 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+A group of native trees or plants which are outstanding in a particular county can be featured at the site .
+5
+#4 tree NOUN tree%1:20:00::
+#6 plant NOUN plant%1:03:00::
+#9 outstanding ADJ outstanding%5:00:00:superior:02
+#12 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#19 site NOUN site%1:15:00::,site%1:15:02::
+The fish , animals , and birds which may be found at the site are another interest .
+5
+#1 fish NOUN fish%1:13:00::
+#6 bird NOUN bird%1:05:00::
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#13 site NOUN site%1:15:00::,site%1:15:02::
+#16 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+Fishing interest calls for a check of the species found , quantity and size , the season they are available , and the stocking program of the fish commission .
+8
+#0 fish VERB fish%2:33:00::
+#1 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#5 check NOUN check%1:09:00::
+#8 species NOUN species%1:09:00::,species%1:14:00::
+#11 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#13 size NOUN size%1:07:00::,size%1:07:02::
+#24 program NOUN program%1:09:00::,program%1:09:01::
+#27 fish NOUN fish%1:13:00::
+Animals may be present at the site or provide hunting in nearby areas .
+5
+#3 present ADJ present%3:00:02::
+#6 site NOUN site%1:15:00::,site%1:15:02::
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#9 hunt NOUN hunt%1:04:01::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The site may be on one of the major flyways of migratory birds or have its own resident bird life .
+7
+#1 site NOUN site%1:15:00::,site%1:15:02::
+#8 major ADJ major%3:00:05::,major%3:00:06::
+#12 bird NOUN bird%1:05:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 own ADJ own%5:00:00:personal:00
+#18 bird NOUN bird%1:05:00::
+#19 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+Clams , crabs , and other marine life may add interest at coastal areas .
+7
+#0 clam NOUN clam%1:05:00::
+#2 crab NOUN crab%1:05:00::
+#5 other ADJ other%3:00:00::
+#7 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#9 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#13 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Each area has its own historical interests with which much can be done .
+4
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 own ADJ own%5:00:00:personal:00
+#6 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+Park visitors are always eager to learn more about the area they are in .
+4
+#3 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#6 learn VERB learn%2:31:01::,learn%2:31:03::
+#7 more ADV more%4:02:00::,more%4:02:01::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The historical sign tells its story , but nothing gets interest across as well as some of the original historical items or places themselves which still have the character of the period covered .
+12
+#2 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#5 story NOUN story%1:10:04::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#13 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#18 original ADJ original%5:00:01:first:00
+#22 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#25 still ADV still%4:02:00::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#28 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#31 period NOUN period%1:28:00::,period%1:28:03::
+#32 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+Notice should be taken of unusual rock formations , deposits , or shapes of the earth 's crust in your region .
+5
+#6 rock NOUN rock%1:17:01::,rock%1:27:00::
+#7 formation NOUN formation%1:14:00::,formation%1:17:00::
+#9 deposit NOUN deposit%1:19:00::
+#12 shape NOUN shape%1:07:00::,shape%1:07:01::
+#15 earth NOUN earth%1:15:00::,earth%1:17:01::
+Those which tell a story of the earth 's formation in each area can add geological interest to the recreation sites .
+9
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#4 story NOUN story%1:10:04::
+#7 earth NOUN earth%1:15:00::,earth%1:17:01::
+#9 formation NOUN formation%1:04:01::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#14 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#16 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#19 recreation NOUN recreation%1:04:00::
+#20 site NOUN site%1:15:00::,site%1:15:02::
+An old shipwreck , a high dam , an old covered bridge , a place to find agates or other semi-precious stones or a place to pan gold , etcetera may be of interest .
+13
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#5 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#6 dam NOUN dam%1:06:00::
+#9 old ADJ old%3:00:01::,old%3:00:02::
+#11 bridge NOUN bridge%1:08:00::
+#14 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#16 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#19 other ADJ other%5:00:02:past:00
+#21 stone NOUN stone%1:06:00::,stone%1:17:00::,stone%1:27:01::
+#24 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#26 pan VERB pan%2:35:00::
+#27 gold NOUN au%1:27:00::
+#33 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+Some areas may provide archeological values such as ancient Indian village sites or hunting areas , caves , artifacts , etcetera .
+7
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 value NOUN value%1:21:00::,values%1:09:00::
+#11 site NOUN site%1:15:00::,site%1:15:02::
+#13 hunt NOUN hunt%1:04:01::
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#18 artifact NOUN artefact%1:03:00::
+How well can the site be developed ?
+3
+#1 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#4 site NOUN site%1:15:00::,site%1:15:02::
+#6 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Look at the physical features of the land to determine how desirable it is for use , what can be done to correct the faults , and what it will cost to make the area meet your needs in comparison to other sites .
+10
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#3 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#4 feature NOUN feature%1:08:00::,feature%1:09:01::
+#7 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#9 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#24 fault NOUN fault%1:04:00::
+#30 cost VERB cost%2:42:00::,cost%2:42:01::
+#34 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#35 meet VERB meet%2:41:02::,meet%2:42:01::
+#42 site NOUN site%1:15:00::,site%1:15:02::
+Many things need to be checked .
+1
+#5 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+The size of the area alone can be a determining factor .
+3
+#1 size NOUN size%1:07:00::,size%1:07:02::
+#4 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#5 alone ADJ alone%4:02:00::,alone%5:00:00:exclusive:00
+An area may be too small for the needs of the project .
+3
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#4 too ADV too%4:02:00::
+#11 project NOUN project%1:04:00::,project%1:09:00::
+Areas should be large enough to include the attractions , have ample space for the use of facilities needed , and have room around the edges to protect the values of the area from encroachment by private developments .
+15
+#0 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#3 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 enough ADV enough%4:02:00::
+#6 include VERB include%2:42:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#17 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 room NOUN room%1:26:00::
+#25 edge NOUN edge%1:06:01::
+#29 value NOUN value%1:21:00::,values%1:09:00::
+#32 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#34 encroachment NOUN encroachment%1:04:00::
+#36 private ADJ private%5:00:00:personal:00
+#37 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+Acreage in excess of the minimum is good practice as recreation areas are never too large for the future and it is often more economical to operate one large area than several small ones .
+10
+#8 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#10 recreation NOUN recreation%1:04:00::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#14 too ADV too%4:02:00::
+#15 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#18 future NOUN future%1:10:00::,future%1:28:00::
+#23 more ADV more%4:02:00::
+#26 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#28 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#29 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Shape of the area is also related to the use attractions and needs of the development .
+3
+#0 shape NOUN shape%1:07:00::,shape%1:07:01::
+#3 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#15 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+A large picnic area or camping development is most efficient in shape as a square or rectangle several hundred feet in width in preference to a long narrow area less than one hundred feet wide .
+11
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#5 camp NOUN camp%1:06:01::,camp%1:14:00::
+#6 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#11 shape NOUN shape%1:07:00::,shape%1:07:01::
+#14 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#19 foot NOUN foot%1:23:00::
+#26 long ADJ long%3:00:01::
+#27 narrow ADJ narrow%3:00:00::
+#28 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#33 foot NOUN foot%1:23:00::
+#34 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+This is true because of savings in utility lines and the fact that your buildings have a useful radius equal in all directions .
+8
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#5 saving NOUN saving%1:04:00::
+#8 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#14 building NOUN building%1:06:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 radius NOUN radius%1:25:00::
+#19 equal ADJ equal%3:00:00::
+#22 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+However , a narrow strip may be very practical for small developments , or to provide additional stream frontage for a fisherman 's trail , or include scenic strips within the park unit .
+10
+#0 however ADV however%4:02:04::
+#3 narrow ADJ narrow%3:00:00::
+#8 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#11 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#15 provide VERB provide%2:34:00::,provide%2:40:00::
+#17 stream NOUN stream%1:17:00::
+#23 trail NOUN trail%1:06:00::
+#26 include VERB include%2:31:00::,include%2:41:03::
+#31 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#32 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+The values of the site may be affected by the appearance of the adjoining lands , ownership and use of the land , and the utilities available there .
+8
+#1 value NOUN value%1:21:00::,values%1:09:00::
+#4 site NOUN site%1:15:00::,site%1:15:02::
+#7 affect VERB affect%2:30:00::,affect%2:42:00::
+#10 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+#14 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#21 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#25 utility NOUN utility%1:04:00::
+#27 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+For instance , a site adjoining other publicly owned lands , such as a national forest or a public road , may be desirable , whereas a site next to an industrial plant might not .
+6
+#4 site NOUN site%1:15:00::,site%1:15:02::
+#6 other ADJ other%5:00:02:past:00
+#9 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#19 road NOUN road%1:04:00::,road%1:06:00::
+#27 site NOUN site%1:15:00::,site%1:15:02::
+#32 plant NOUN plant%1:06:01::
+The utilities available nearby may provide a savings in the cost of extending electricity or water to the site .
+6
+#1 utility NOUN utility%1:04:00::
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 saving NOUN saving%1:04:00::
+#13 electricity NOUN electricity%1:19:01::
+#15 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#18 site NOUN site%1:15:00::,site%1:15:02::
+Check the elevation of the ground , degree and direction of slopes , drainage , rock outcrops , topsoil types and quality , as well as subsoil .
+8
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#2 elevation NOUN elevation%1:07:00::
+#5 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#7 degree NOUN degree%1:23:00::
+#9 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#11 slope NOUN slope%1:07:00::
+#19 type NOUN type%1:18:00::
+#21 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+Nearly level areas are required for parking areas , beaches , camp areas , ball fields , etcetera .
+5
+#0 nearly ADV nearly%4:02:00::
+#1 level ADJ level%5:00:00:steady:00
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 camp NOUN camp%1:06:01::,camp%1:14:00::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Determine how much topography limits useful area or what the costs of earth moving or grading might be .
+4
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#13 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+- In addition to its recreation interests , water is needed for drinking , sanitation , and irrigation .
+3
+#5 recreation NOUN recreation%1:04:00::
+#6 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#8 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+The quantity and quality of water sources is often a big factor in site selection .
+7
+#1 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#3 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#5 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#10 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#11 factor NOUN factor%1:08:00::,factor%1:18:00::
+#13 site NOUN site%1:15:00::,site%1:15:02::
+#14 selection NOUN selection%1:22:00::
+The area may provide good springs or opportunities for a well or be near to municipal water lines .
+5
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 spring NOUN spring%1:17:00::
+#10 well NOUN well%1:10:00::
+#13 near ADJ near%3:00:00::
+Figure the cost of providing water to the use areas .
+4
+#0 figure VERB figure%2:31:01::
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+- The existing plant growth calls for thorough checking .
+3
+#3 plant NOUN plant%1:03:00::
+#4 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#8 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+Look at the trees as to size and interest , the amount of shade they provide , how healthy they are , the problems of maintenance , fire hazards , wind throw , etcetera .
+11
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#3 tree NOUN tree%1:20:00::
+#6 size NOUN size%1:07:00::,size%1:07:02::
+#8 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#13 shade NOUN shade%1:06:01::
+#15 provide VERB provide%2:34:00::,provide%2:40:00::
+#23 problem NOUN problem%1:09:00::,problem%1:26:00::
+#25 maintenance NOUN maintenance%1:04:00::
+#27 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#28 hazard NOUN hazard%1:26:00::
+#30 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+An area may have been partially logged and requires removal of stumps or clean up .
+3
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#6 log VERB log%2:35:00::
+#11 stump NOUN stump%1:20:00::
+Some shrubs may be of good landscaping value , other areas of brush may need to be cleared .
+7
+#1 shrub NOUN shrub%1:20:00::
+#5 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#6 landscape VERB landscape%2:36:01::
+#7 value NOUN value%1:21:00::,values%1:09:00::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 brush NOUN brush%1:14:00::
+#17 clear VERB clear%2:30:01::,clear%2:30:02::,clear%2:30:10::,clear%2:31:00::,clear%2:38:00::
+The extent and location of open areas is noted .
+2
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#8 note VERB note%2:32:00::,note%2:39:00::
+- How much will wind , rain , sun , and temperature affect the use ?
+3
+#4 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#8 sun NOUN sun%1:18:00::,sun%1:19:00::
+#12 affect VERB affect%2:30:00::,affect%2:42:00::
+An area sheltered from strong winds may be highly desirable for recreation use .
+4
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#4 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#5 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#11 recreation NOUN recreation%1:04:00::
+The direction , velocity , and season of these winds should be noted as to just how they will affect the recreation use and your maintenance and operation of the area .
+8
+#1 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#9 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#15 just ADV just%4:02:05::
+#19 affect VERB affect%2:30:00::,affect%2:42:00::
+#21 recreation NOUN recreation%1:04:00::
+#25 maintenance NOUN maintenance%1:04:00::
+#27 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#30 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Lack of rainfall and extreme temperatures may call for the development of shade and irrigation of a site to make it useable .
+4
+#4 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#10 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#12 shade NOUN shade%1:06:01::
+#17 site NOUN site%1:15:00::,site%1:15:02::
+Sometimes , you have a choice of exposure for sites where the topography or trees of the area will provide afternoon shade , morning sun , or whatever may be most desirable for the use intended .
+7
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 site NOUN site%1:15:00::,site%1:15:02::
+#14 tree NOUN tree%1:20:00::
+#17 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#19 provide VERB provide%2:34:00::,provide%2:40:00::
+#21 shade NOUN shade%1:06:01::
+#23 morning NOUN morning%1:28:00::,morning%1:28:01::
+- Some areas may already have been improved and contain buildings , roads , utilities , cleared land , etcetera which may raise the cost of the site .
+10
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#4 already ADV already%4:02:00::
+#9 contain VERB contain%2:42:00::,contain%2:42:06::
+#10 building NOUN building%1:06:00::
+#12 road NOUN road%1:04:00::,road%1:06:00::
+#14 utility NOUN utility%1:04:00::
+#16 clear ADJ clear%3:00:00::,clear%5:00:00:discerning:00,clear%5:00:00:unobstructed:00,clear%5:00:00:unqualified:02,clear%5:00:00:untroubled:00
+#17 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#22 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#27 site NOUN site%1:15:00::,site%1:15:02::

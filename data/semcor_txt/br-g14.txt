@@ -1,0 +1,662 @@
+ There were fences in the old days when we were children .
+3
+#2 fence NOUN fence%1:06:00::
+#5 old ADJ old%3:00:01::
+#6 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Across the front of a yard and down the side , they were iron , either spiked along the top or arched in half circles .
+7
+#2 front NOUN front%1:06:00::,front%1:15:00::,front%1:15:02::
+#5 yard NOUN yard%1:06:02::,yard%1:15:00::
+#9 side NOUN side%1:15:01::,side%1:15:02::
+#13 iron NOUN fe%1:27:00::
+#19 top NOUN top%1:15:00::,top%1:15:01::
+#21 arch ADJ arched%3:01:00::
+#24 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+Alley fences were made of solid boards higher than one 's head , but not so high as the golden glow in a corner or the hollyhocks that grew in a line against them .
+10
+#0 alley NOUN alley%1:06:00::
+#1 fence NOUN fence%1:06:00::
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#6 board NOUN board%1:06:00::,board%1:27:00::
+#7 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#16 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#23 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#28 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#31 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+Side fences were hidden beneath lilacs and hundred leaf roses ; front fences were covered with Virginia creeper or trumpet vines or honeysuckle .
+5
+#1 fence NOUN fence%1:06:00::
+#9 rose NOUN rose%1:20:00::
+#11 front ADJ front%3:00:00::
+#12 fence NOUN fence%1:06:00::
+#14 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Square corner - and gate posts were an open-work pattern of cast-iron foliage ; they were topped by steeples complete in every detail : high pitched roof , pinnacle , and narrow gable .
+6
+#0 square ADJ square%3:00:00::
+#9 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#16 top VERB top%2:40:00::
+#19 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#22 detail NOUN detail%1:10:00::,detail%1:24:00::
+#31 narrow ADJ narrow%3:00:00::
+On these posts the gates swung open with a squeak and shut with a metallic clang .
+4
+#2 post NOUN post%1:06:00::
+#4 gate NOUN gate%1:06:00::
+#5 swing VERB swing%2:38:00::,swing%2:38:03::
+#6 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+The only extended view possible to anyone less tall than the fences was that obtained from an upper bough of the apple tree .
+5
+#3 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#8 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#11 fence NOUN fence%1:06:00::
+#14 obtain VERB obtain%2:40:00::
+#17 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+The primary quality of that view seems , now , to have been its quietness , but that cannot at the time have impressed us .
+4
+#2 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#21 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#23 impress VERB impress%2:37:01::
+What one actually remembers is its greenness .
+1
+#2 actually ADV actually%4:02:01::
+From high in the tree , the whole block lay within range of the eye , but the ground was almost nowhere visible .
+9
+#1 high ADV high%4:02:02::
+#4 tree NOUN tree%1:20:00::
+#7 whole ADJ whole%3:00:00::
+#8 block NOUN block%1:15:00::
+#9 lie VERB lie%2:42:00::,lie%2:42:01::
+#11 range NOUN range%1:07:00::,range%1:15:01::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+#18 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#22 visible ADJ visible%3:00:00::
+One looked down on a sea of leaves , a breaking wave of flower .
+4
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#2 down ADV down%4:02:00::,down%4:02:02::
+#7 leaf NOUN leaf%1:20:00::
+#13 flower NOUN flower%1:20:00::,flower%1:28:00::
+Every path from back door to barn was covered by a grape-arbor , and every yard had its fruit trees .
+4
+#3 back ADJ back%5:00:00:posterior:00
+#6 barn NOUN barn%1:06:00::
+#8 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In the center of any open space remaining our grandfathers had planted syringa and sweet shrub , snowball , rose-of-Sharon and balm-of-Gilead .
+6
+#2 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#5 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#6 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#7 remaining ADJ remaining%5:00:00:unexhausted:00
+#11 plant VERB plant%2:35:00::
+#12 syringa NOUN syringa%1:20:02::
+From above one could only occasionally catch a glimpse of life on the floor of this green sea : a neighbor 's gingham skirt flashing into sight for an instant on the path beneath her grape-arbor , or the movement of hands above a clothesline and the flutter of garments hung there , half-way down the block .
+11
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#13 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#16 green ADJ green%5:00:00:chromatic:00
+#26 sight NOUN sight%1:04:00::,sight%1:10:00::
+#29 instant NOUN instant%1:28:01::
+#39 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#41 hand NOUN hand%1:08:00::,hand%1:10:01::
+#47 flutter NOUN flutter%1:04:00::
+#50 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#56 block NOUN block%1:15:00::
+Another had ended before it began .
+1
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Time is a queer thing and memory a queerer ; the tricks that time plays with memory and memory with time are queerest of all .
+10
+#0 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#3 queer ADJ queer%5:00:00:strange:00
+#6 memory NOUN memory%1:09:00::,memory%1:09:01::
+#8 queer ADJ queer%5:00:00:strange:00
+#11 trick NOUN trick%1:04:05::
+#13 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#16 memory NOUN memory%1:09:00::,memory%1:09:01::
+#18 memory NOUN memory%1:09:00::,memory%1:09:01::
+#20 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#22 queer ADJ queer%5:00:00:strange:00
+From maturity one looks back at the succession of years , counts them and makes them many , yet cannot feel length in the number , however large .
+7
+#7 succession NOUN succession%1:14:00::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+#11 count VERB count%2:32:00::,count%2:32:01::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#26 however ADV however%4:02:00::,however%4:02:02::
+#27 large ADJ large%3:00:00::,large%5:00:00:significant:00
+In a stream that turns a mill-wheel there is a lot of water ; the mill-pond is quiet , its surface dark and shadowed , and there does not seem to be much water in it .
+7
+#2 stream NOUN stream%1:17:00::
+#4 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#12 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#17 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#20 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#21 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#28 not ADV not%4:02:00::
+Time in the sum is nothing .
+2
+#0 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#3 sum NOUN sum%1:06:00::,sum%1:21:00::
+And yet - a year to a child is an eternity , and in the memory that phase of one 's being - a certain mental landscape - will seem to have endured without beginning and without end .
+9
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#15 memory NOUN memory%1:09:00::,memory%1:09:01::
+#17 phase NOUN phase%1:07:00::,phase%1:28:00::
+#21 being NOUN being%1:03:00::
+#24 certain ADJ certain%5:00:00:definite:00
+#25 mental ADJ mental%3:01:00::
+#26 landscape NOUN landscape%1:15:00::
+#32 endure VERB endure%2:42:00::
+#37 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+The part of the mind that preserves dates and events may remonstrate , " It could have been like that for only a little while " ; but true memory does not count nor add : it holds fast to things that were and they are outside of time .
+11
+#1 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#7 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#24 while NOUN while%1:28:00::
+#28 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#29 memory NOUN memory%1:09:00::,memory%1:09:01::
+#31 not ADV not%4:02:00::
+#32 count VERB count%2:32:00::,count%2:32:01::
+#38 fast ADV fast%4:02:02::
+#40 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#48 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+Once , then - for how many years or how few does not matter - my world was bound round by fences , when I was too small to reach the apple tree bough , to twist my knee over it and pull myself up .
+8
+#7 year NOUN year%1:28:01::
+#12 not ADV not%4:02:00::
+#13 matter VERB matter%2:42:00::
+#16 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#21 fence NOUN fence%1:06:00::
+#26 too ADV too%4:02:00::
+#29 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#36 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+That world was in scale with my own smallness .
+3
+#1 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#4 scale NOUN scale%1:24:01::,scale%1:24:03::
+#7 own ADJ own%5:00:00:personal:00
+I have no picture in my mind of the garden as a whole - that I could not see - but certain aspects of certain corners linger in the memory : wind-blown , frost-bitten , white chrysanthemums beneath a window , with their brittle brown leaves and their sharp scent of November ; ripe pears lying in long grass , to be turned over by a dusty slippered foot , cautiously , lest bees still worked in the ragged , brown edged holes ; hot colored verbenas in the corner between the dining-room wall and the side porch , where we passed on our way to the pump with the half gourd tied to it as a cup by my grandmother for our childish pleasure in drinking from it .
+30
+#9 garden NOUN garden%1:06:00::
+#17 not ADV not%4:02:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#21 certain ADJ certain%5:00:00:definite:00
+#22 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#24 certain ADJ certain%5:00:00:definite:00
+#29 memory NOUN memory%1:09:00::,memory%1:09:01::
+#35 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#39 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#45 leaf NOUN leaf%1:20:00::
+#48 sharp ADJ sharp%3:00:00::,sharp%3:00:04::,sharp%5:00:00:high:03,sharp%5:00:00:unpleasant:00
+#49 scent NOUN scent%1:09:01::
+#51 November NOUN november%1:28:00::
+#54 pear NOUN pear%1:13:00::
+#55 lie VERB lie%2:35:00::,lie%2:38:00::
+#57 long ADJ long%3:00:01::
+#58 grass NOUN grass%1:20:00::
+#68 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#73 bee NOUN bee%1:05:00::
+#74 still ADV still%4:02:00::
+#75 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#78 ragged ADJ ragged%5:00:00:uneven:00
+#82 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#85 colored ADJ colored%5:00:00:black:02
+#89 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#107 pump NOUN pump%1:06:00::
+#111 gourd NOUN gourd%1:20:02::
+#112 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+#117 cup NOUN cup%1:06:02::,cup%1:25:00::
+#126 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+It was mother who planted the verbenas .
+2
+#2 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#4 plant VERB plant%2:35:00::
+I think that my grandmother was not an impassioned gardener :
+2
+#1 think VERB think%2:31:01::,think%2:31:03::
+#6 not ADV not%4:02:00::
+she was too indulgent a lover of dogs and grandchildren .
+2
+#2 too ADV too%4:02:00::
+#7 dog NOUN dog%1:05:00::
+My great grandmother , I have been told , made her garden her great pride ; she cherished rare and delicate plants like oleanders in tubs and wall-flowers and lemon verbenas in pots that had to be wintered in the cellar ; she filled the waste spots of the yard with common things like the garden heliotrope in a corner by the woodshed , and the plantain lilies along the west side of the house .
+14
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 garden NOUN garden%1:06:00::
+#13 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#14 pride NOUN pride%1:12:01::
+#18 rare ADJ rare%5:00:00:scarce:00
+#20 delicate ADJ delicate%5:00:00:breakable:00
+#21 plant NOUN plant%1:03:00::
+#25 tub NOUN tub%1:06:01::
+#29 lemon NOUN lemon%1:20:00::
+#34 have VERB have%2:42:08::
+#46 spot NOUN spot%1:10:01::,spot%1:15:01::
+#51 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#59 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#74 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+These my grandmother left in their places ( they are still there , more persistent and longer-lived than the generations of man ) and planted others like them , that flourished without careful tending .
+9
+#3 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#6 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#10 still ADV still%4:02:00::
+#13 more ADV more%4:02:00::
+#19 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+#21 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#24 plant VERB plant%2:35:00::
+#30 flourish VERB flourish%2:30:01::
+#32 careful ADJ careful%3:00:00::,careful%5:00:00:unhurried:00
+Three of these only were protected from us by stern commandment : the roses , whose petals might not be collected until they had fallen , to be made into perfume or rose tea to drink ; the peonies , whose tight sticky buds would be blighted by the laying on of a finger , although they were not apparently harmed by the ants that crawled over them ; and the poppies .
+13
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 rose NOUN rose%1:20:00::
+#20 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#24 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#28 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#32 rose NOUN rose%1:20:00::
+#33 tea NOUN tea%1:13:02::
+#35 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#41 tight ADJ tight%5:00:00:invulnerable:00
+#42 sticky ADJ sticky%5:00:00:adhesive:00
+#43 bud NOUN bud%1:20:00::
+#58 not ADV not%4:02:00::
+#65 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+I have more than once sat cross-legged in the grass through a long summer morning and watched without touching while a poppy bud higher than my head slowly but visibly pushed off its cap , unfolded , and shook out like a banner in the sun its flaming vermilion petals .
+16
+#4 once ADV once%4:02:00::
+#5 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 grass NOUN grass%1:20:00::
+#12 long ADJ long%3:00:02::
+#13 summer NOUN summer%1:28:00::
+#14 morning NOUN morning%1:28:00::,morning%1:28:01::
+#16 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#18 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#22 bud NOUN bud%1:20:00::
+#23 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#26 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#30 push VERB push%2:32:01::,push%2:38:00::
+#38 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#42 banner NOUN banner%1:06:00::
+#45 sun NOUN sun%1:18:00::,sun%1:19:00::
+#47 flaming ADJ flaming%5:00:00:hot:02
+Other flowers we might gather as we pleased : myrtle and white violets from beneath the lilacs ; the lilacs themselves , that bloomed so prodigally but for the most part beyond our reach ; snowballs ; hollyhock blossoms that , turned upside down , make pink petticoated ladies ; and the little , dark blue larkspur that scattered its seed everywhere .
+10
+#0 other ADJ other%3:00:00::
+#1 flower NOUN flower%1:20:00::,flower%1:28:00::
+#4 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#7 please VERB please%2:37:01::
+#23 bloom VERB bloom%2:30:00::
+#24 so ADV so%4:02:03::,so%4:02:07::
+#41 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#46 pink NOUN pink%1:07:00::
+#48 lady NOUN lady%1:18:01::,lady%1:18:02::
+#60 seed NOUN seed%1:20:00::
+More potent a charm to bring back that time of life than this record of a few pictures and a few remembered facts would be a catalogue of the minutiae which are of the very stuff of the mind , intrinsic , because they were known in the beginning not by the eye alone but by the hand that held them .
+7
+#1 potent ADJ potent%5:00:00:influential:00
+#6 back ADV back%4:02:05::
+#13 record NOUN record%1:10:03::,record%1:21:00::
+#52 eye NOUN eye%1:08:00::,eye%1:09:01::
+#53 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#57 hand NOUN hand%1:08:00::,hand%1:10:01::
+#59 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+Flowers , stones , and small creatures , living and dead .
+4
+#0 flower NOUN flower%1:20:00::,flower%1:28:00::
+#2 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#8 live ADJ live%3:00:01::
+#10 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+Pale yellow snapdragons that by pinching could be made to bite ; seed-pods of the balsams that snapped like fire-crackers at a touch ; red and yellow columbines whose round tipped spurs were picked off and eaten for the honey in them ; morning-glory buds which could be so grasped and squeezed that they burst like a blown-up paper bag ; bright flowers from the trumpet vine that made " gloves " on the ends of ten waggling fingers .
+16
+#1 yellow ADJ yellow%5:00:00:chromatic:00
+#5 pinch VERB pinch%2:35:00::
+#10 bite VERB bite%2:35:00::
+#17 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+#22 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#24 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#26 yellow ADJ yellow%5:00:00:chromatic:00
+#29 round ADJ round%3:00:00::
+#31 spur NOUN spur%1:25:00::
+#39 honey NOUN honey%1:13:00::
+#44 bud NOUN bud%1:20:00::
+#48 so ADV so%4:02:04::
+#51 squeeze VERB squeeze%2:35:00::,squeeze%2:35:05::,squeeze%2:40:03::,squeeze%2:41:01::
+#61 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#62 flower NOUN flower%1:20:00::,flower%1:28:00::
+#74 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+Fuzzy caterpillars , snails with their sensitive horns , struggling grasshoppers held by their long hind legs and commanded to " spit tobacco , spit " .
+10
+#0 fuzzy ADJ fuzzy%5:00:00:hairy:00
+#1 caterpillar NOUN caterpillar%1:05:00::
+#6 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#7 horn NOUN horn%1:05:01::
+#11 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#14 long ADJ long%3:00:01::
+#18 command VERB command%2:32:00::,command%2:32:01::,command%2:41:00::,command%2:42:00::
+#21 spit VERB spit%2:32:00::
+#22 tobacco NOUN tobacco%1:06:00::
+#24 spit VERB spit%2:32:00::
+Dead fledgling birds , their squashed looking nakedness and the odor of decay that clung to the hand when they had been buried in our graveyard in front of the purple flags .
+5
+#2 bird NOUN bird%1:05:00::
+#10 odor NOUN odor%1:07:00::
+#17 hand NOUN hand%1:08:00::,hand%1:10:01::
+#22 bury VERB bury%2:39:00::
+#31 flag NOUN flag%1:06:00::
+And the cast shell of a locust , straw colored and transparent , weighing nothing , fragile but entire , with eyes like bubbles and a gaping slit down its back .
+7
+#3 shell NOUN shell%1:05:02::
+#6 locust NOUN migratory_locust%1:05:00::
+#9 colored ADJ colored%5:00:00:black:02
+#13 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#21 eye NOUN eye%1:08:00::,eye%1:09:01::
+#23 bubble NOUN bubble%1:17:00::
+#30 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+Every morning early , in the summer , we searched the trunks of the trees as high as we could reach for the locust shells , carefully detached their hooked claws from the bark where they hung , and stabled them , a weird faery herd , in an angle between the high roots of the tulip tree , where no grass grew in the dense shade .
+19
+#1 morning NOUN morning%1:28:00::,morning%1:28:01::
+#2 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#6 summer NOUN summer%1:28:00::
+#11 trunk NOUN trunk%1:20:00::
+#14 tree NOUN tree%1:20:00::
+#16 high ADV high%4:02:02::
+#20 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#23 locust NOUN migratory_locust%1:05:00::
+#24 shell NOUN shell%1:05:02::
+#27 detach VERB detach%2:38:00::
+#29 hooked ADJ hooked%5:00:00:curved:00
+#33 bark NOUN bark%1:20:00::
+#36 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#49 angle NOUN angle%1:25:00::
+#52 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#53 root NOUN root%1:20:00::
+#62 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#65 dense ADJ dense%5:00:00:thick:02
+#66 shade NOUN shade%1:06:01::
+We collected " lucky stones " - all the creamy translucent pebbles , worn smooth and round , that we could find in the driveway .
+6
+#1 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#4 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#13 wear VERB wear%2:29:03::,wear%2:30:00::
+#14 smooth ADJ smooth%3:00:00::
+#16 round ADJ round%3:00:00::
+#21 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+When these had been pocketed , we could still spend a morning cracking open other pebbles for our delight in seeing how much prettier they were inside than their dull exteriors indicated .
+7
+#8 still ADV still%4:02:00::
+#11 morning NOUN morning%1:28:00::,morning%1:28:01::
+#12 crack VERB crack%2:30:02::
+#13 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#20 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#29 dull ADJ dull%5:00:00:unsaturated:03
+#31 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+We showed them to each other and said " Would you have guessed " ?
+2
+#1 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Squatting on our haunches beside the flat stone we broke them on , we were safe behind the high closed gates at the end of the drive : safe from interruption and the observation and possible amusement of the passers-by .
+13
+#0 squat VERB squat%2:35:00::
+#3 haunch NOUN haunch%1:08:01::
+#6 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#7 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#9 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#15 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#18 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#19 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#20 gate NOUN gate%1:06:00::
+#23 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#26 drive NOUN drive%1:06:00::,drive%1:06:01::
+#28 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#33 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+Thus shielded , we played many foolish games in comfortable unselfconsciousness ; even when the fences became a part of the game - when a vine embowered gate-post was the Sleeping Beauty 's enchanted castle , or when Rapunzel let down her golden hair from beneath the crocketed spire , even then we paid little heed to those who went by on the path outside .
+15
+#0 thus ADV thus%4:02:01::
+#4 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#7 game NOUN game%1:04:00::,game%1:09:00::
+#9 comfortable ADJ comfortable%3:00:01::
+#15 fence NOUN fence%1:06:00::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#18 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#21 game NOUN game%1:04:00::,game%1:09:00::
+#25 vine NOUN vine%1:20:00::
+#42 golden ADJ golden%5:00:00:metallic:00
+#43 hair NOUN hair%1:08:00::
+#48 spire NOUN spire%1:06:00::
+#51 then ADV then%4:02:01::
+#53 pay VERB pay%2:41:00::
+#64 outside ADV outside%4:02:01::
+We enjoyed a paradoxical freedom when we were still too young for school .
+3
+#8 still ADV still%4:02:00::
+#9 too ADV too%4:02:00::
+#12 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+In the heat of the summer , the garden solitudes were ours alone ; our elders stayed in the dark house or sat fanning on the front porch .
+10
+#2 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#5 summer NOUN summer%1:28:00::
+#8 garden NOUN garden%1:06:00::
+#12 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#15 elder NOUN elder%1:18:00::
+#16 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#19 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#20 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#22 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#23 fan VERB fan%2:35:01::
+They never troubled themselves about us while we were playing , because the fence formed such a definite boundary and " Do n't go outside the gate " was a command so impossible of misinterpretation .
+6
+#1 never ADV never%4:02:00::
+#9 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#13 fence NOUN fence%1:06:00::
+#14 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#26 gate NOUN gate%1:06:00::
+#31 so ADV so%4:02:03::,so%4:02:07::
+We were not , however , entirely unacquainted with the varying aspects of the street .
+3
+#2 not ADV not%4:02:00::
+#4 however ADV however%4:02:04::
+#11 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+We were forbidden to swing on the gates , lest they sag on their hinges in a poor-white-trash way , but we could stand on them , when they were latched , rest our chins on the top , and stare and stare , committing to memory , quite unintentionally , all the details that lay before our eyes .
+9
+#4 swing VERB swing%2:38:00::,swing%2:38:03::
+#7 gate NOUN gate%1:06:00::
+#11 sag VERB sag%2:38:01::
+#32 rest VERB rest%2:30:00::,rest%2:35:04::,rest%2:42:00::,rest%2:42:12::
+#37 top NOUN top%1:15:00::,top%1:15:01::
+#44 commit VERB commit%2:32:01::,commit%2:40:00::,commit%2:40:02::
+#48 quite ADV quite%4:02:02::
+#53 detail NOUN detail%1:10:00::,detail%1:24:00::
+#58 eye NOUN eye%1:08:00::,eye%1:09:01::
+The street that is full now of traffic and parked cars then and for many years drowsed on an August afternoon in the shade of the curbside trees , and silence was a weight , almost palpable , in the air .
+9
+#4 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 traffic NOUN traffic%1:14:00::
+#11 then ADV then%4:02:01::
+#15 year NOUN year%1:28:01::
+#23 shade NOUN shade%1:06:01::
+#27 tree NOUN tree%1:20:00::
+#33 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#40 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+Every slight sound that rose against that pressure fell away again , crushed beneath it .
+4
+#1 slight ADJ slight%5:00:00:insignificant:00
+#2 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#4 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#7 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+A hay wagon moved slowly along the gutter , the top of it swept by the low boughs of the maple trees , and loose straws were left hanging tangled among the leaves .
+11
+#1 hay NOUN hay%1:13:00::
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#7 gutter NOUN gutter%1:06:00::
+#10 top NOUN top%1:15:00::,top%1:15:01::
+#13 sweep VERB sweep%2:35:01::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#16 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#21 tree NOUN tree%1:20:00::
+#24 loose ADJ loose%5:00:00:unofficial:00
+#27 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#28 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#32 leaf NOUN leaf%1:20:00::
+A wheel squeaked on a hub , was still , and squeaked again .
+4
+#1 wheel NOUN wheel%1:06:00::,wheel%1:06:02::,wheel%1:07:00::
+#2 squeak VERB squeak%2:39:00::
+#5 hub NOUN hub%1:06:00::
+#11 squeak VERB squeak%2:39:00::
+If a child watched its progress he whispered , " Hay , hay , load of hay - make a wish and turn away " , and then stared rigidly in the opposite direction until the sound of the horses ' feet returned no more .
+12
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#12 hay NOUN hay%1:13:00::
+#14 load NOUN load%1:06:02::
+#16 hay NOUN hay%1:13:00::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#27 then ADV then%4:02:00::
+#32 opposite ADJ opposite%5:00:00:other:00
+#33 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#36 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#39 horse NOUN horse%1:05:00::,horse%1:14:00::
+#41 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#42 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+When the hay wagon had gone , and an interval passed , a huckster 's cart might turn the corner .
+5
+#2 hay NOUN hay%1:13:00::
+#5 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#9 interval NOUN interval%1:09:00::
+#10 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#19 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+The horse walked , the reins were slack , the huckster rode with bowed shoulders , his forearms across his knees .
+5
+#1 horse NOUN horse%1:05:00::,horse%1:14:00::
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#7 slack ADJ slack%5:00:00:lax:01
+#11 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#14 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+Sleepily , as if half reluctant to break the silence , he lifted his voice : " Rhu-beb ni ice fresh rhu-beb today " !
+4
+#7 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#12 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#20 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+The lazy sing-song was spaced in time like the drone of a bumble-bee .
+4
+#1 lazy ADJ lazy%5:00:00:idle:00
+#2 singsong NOUN singsong%1:10:00::
+#6 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#9 drone NOUN drone%1:06:00::
+The horse plodded on , and he repeated his call .
+4
+#1 horse NOUN horse%1:05:00::,horse%1:14:00::
+#3 on ADV on%4:02:00::
+#7 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#9 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+It became so monotonous as to seem a part of the quietness .
+2
+#1 become VERB become%2:30:00::,become%2:42:01::
+#8 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+After his passage , the street was empty again .
+2
+#2 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#7 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+The sun moved slant-wise across the sky and down ; the trees ' shadows circled from street to sidewalk , from sidewalk to lawn .
+5
+#1 sun NOUN sun%1:17:00::,sun%1:17:01::
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#11 tree NOUN tree%1:20:00::
+#13 shadow NOUN shadow%1:15:00::
+#23 lawn NOUN lawn%1:15:00::
+At four o ' clock , or four thirty , the coming of the newsboy marked the end of the day ; he tossed a paper toward every front door , and housewives came down to their steps to pick them up and read what their neighbors had been doing .
+10
+#11 coming NOUN coming%1:04:02::
+#15 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#17 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#20 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#25 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#32 housewife NOUN housewife%1:18:00::
+#33 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#37 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#43 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+The streets of any county town were like this on any sunshiny afternoon in summer ; they were like this fifty odd years ago , and yesterday .
+3
+#14 summer NOUN summer%1:28:00::
+#21 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#22 year NOUN year%1:28:00::,year%1:28:01::
+But the fences were still in place fifty odd years ago , and when we stood on the gate to look over , the sidewalk under our eyes was not cement but two rows of paving stones with grass between and on both sides .
+9
+#2 fence NOUN fence%1:06:00::
+#8 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#9 year NOUN year%1:28:00::,year%1:28:01::
+#18 gate NOUN gate%1:06:00::
+#20 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#27 eye NOUN eye%1:08:00::,eye%1:09:01::
+#29 not ADV not%4:02:00::
+#33 row NOUN row%1:14:00::
+#39 between ADV between%4:02:00::
+The curb was a line of stone laid edgewise in the dirt and tilted this way and that by frost in the ground or the roots of trees .
+9
+#1 curb NOUN curb%1:06:00::
+#4 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#6 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#7 lay VERB lay%2:35:00::,lay%2:36:00::
+#13 tilt VERB tilt%2:38:00::
+#15 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#22 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#25 root NOUN root%1:20:00::
+#27 tree NOUN tree%1:20:00::
+Opposite every gate was a hitching post or a stone carriage step , set with a rusty iron ring for tying a horse .
+8
+#2 gate NOUN gate%1:06:00::
+#9 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#10 carriage NOUN carriage%1:06:03::
+#11 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#16 rusty ADJ rusty%5:00:00:rusted:00
+#18 ring NOUN ring%1:06:00::
+#20 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+#22 horse NOUN horse%1:05:00::,horse%1:14:00::
+The street was unpaved and rose steeply toward the center ; it was mud in wet weather and dust , ankle-deep , in dry , and could be crossed only at the corner where there were stepping stones .
+9
+#5 rise VERB rise%2:30:03::,rise%2:38:00::,rise%2:38:02::,rise%2:42:00::,rise%2:42:01::
+#9 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#13 mud NOUN mud%1:27:00::
+#15 wet ADJ wet%3:00:01::,wet%3:00:05::
+#18 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#23 dry ADJ dry%3:00:01::
+#28 cross VERB cross%2:38:00::
+#29 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#32 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+It had a bucolic atmosphere that it has lost long since .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+The hoofmarks of cattle and the prints of bare feet in the mud or in the dust were as numerous as the traces of shod horses .
+7
+#3 cattle NOUN cattle%1:05:00::
+#8 bare ADJ bare%3:00:04::
+#9 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#12 mud NOUN mud%1:27:00::
+#16 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#22 trace NOUN trace%1:10:00::
+#25 horse NOUN horse%1:05:00::,horse%1:14:00::
+Cows were kept in backyard barns , boys were hired to drive them to and from the pasture on the edge of town , and familiar to the ear , morning and evening , were the boys ' coaxing voices , the thud of hooves , and the thwack of a stick on cowhide .
+15
+#2 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+#4 backyard NOUN backyard%1:06:00::
+#5 barn NOUN barn%1:06:00::
+#7 boy NOUN boy%1:18:03::
+#9 hire VERB hire%2:41:00::
+#11 drive VERB drive%2:35:11::,drive%2:38:01::
+#17 pasture NOUN pasture%1:15:00::
+#20 edge NOUN edge%1:06:01::
+#25 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#28 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#30 morning NOUN morning%1:28:00::,morning%1:28:01::
+#32 evening NOUN evening%1:28:00::,evening%1:28:02::
+#36 boy NOUN boy%1:18:03::
+#39 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#51 stick NOUN stick%1:06:04::

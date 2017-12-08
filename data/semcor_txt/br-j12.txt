@@ -1,0 +1,556 @@
+ The bronchus and pulmonary artery in this lung type maintain a close relationship throughout .
+3
+#8 type NOUN type%1:18:00::
+#9 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#11 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+The pulmonary vein , however , without the limiting supportive tissue septa as in type 1 , , follows a more direct path to the hilum and does not maintain this close relationship ( figs. 8 , 22 ) .
+8
+#4 however ADV however%4:02:04::
+#10 tissue NOUN tissue%1:08:00::
+#14 type NOUN type%1:18:00::
+#18 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#20 more ADV more%4:02:00::
+#21 direct ADJ direct%3:00:05::
+#29 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#31 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+Another marked difference is noted here .
+2
+#1 marked ADJ marked%5:00:00:noticeable:00
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+The pulmonary artery , in addition to supplying the distal portion of the respiratory bronchiole , the alveolar duct , and the alveoli , continues on and directly supplies the thin pleura ( fig. 8 ) .
+5
+#24 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#25 on ADV on%4:02:00::
+#27 directly ADV directly%4:02:05::
+#30 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#31 pleura NOUN pleura%1:08:00::
+The bronchial artery , except for a small number of short branches in the hilum , contributes none of the pleural blood supply .
+3
+#8 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#10 short ADJ short%3:00:01::
+#21 blood NOUN blood%1:04:00::,blood%1:08:00::
+It does , as in type 1 , , supply the hilar lymph nodes , the pulmonary artery , the pulmonary vein , the bronchi , and the bronchioles - terminating in a common capillary bed with the pulmonary artery at the level of the respiratory bronchiole .
+2
+#5 type NOUN type%1:18:00::
+#42 level NOUN level%1:26:00::,level%1:26:01::
+No bronchial artery pulmonary artery anastomoses were noted in this group .
+1
+#7 note VERB note%2:32:00::,note%2:39:00::
+Lung type 3 , ( fig. 3 ) is to some degree a composite of types 1 , and 2 , .
+4
+#1 type NOUN type%1:18:00::
+#11 degree NOUN degree%1:26:01::
+#13 composite NOUN composite%1:09:00::
+#15 type NOUN type%1:18:00::
+It is characterized by the presence of incompletely developed secondary lobules ; well defined , but haphazardly arranged , interlobular septa and a thick , remarkably vascular pleura ( fig. 9 ) .
+4
+#9 secondary ADJ secondary%5:00:00:subordinate:01
+#12 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#23 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#27 pleura NOUN pleura%1:08:00::
+The most distal airways are similar to those found in type 1 , , being composed of numerous , apparently true terminal bronchioles and occasional , poorly developed respiratory bronchioles ( figs. 14 , 15 ) .
+6
+#1 most ADV most%4:02:00::
+#3 airway NOUN airway%1:08:00::
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 type NOUN type%1:18:00::
+#20 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#21 terminal ADJ terminal%3:00:00::
+In this instance , because of incomplete septation , the secondary lobule does not constitute in itself what appears to be a small individual lung as in type 1 , .
+6
+#2 instance NOUN instance%1:09:00::
+#10 secondary ADJ secondary%5:00:00:subordinate:01
+#14 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#18 appear VERB appear%2:30:00::
+#23 individual ADJ individual%5:00:00:independent:00
+#27 type NOUN type%1:18:00::
+Air drifts from one area to another are , therefore , conceivable .
+3
+#0 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#1 drift NOUN drift%1:22:02::
+#4 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Distally the bronchus is situated between a pulmonary artery on one side and a pulmonary vein on the other , as in type 1 , ( fig. 24 ) .
+3
+#11 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#18 other ADJ other%3:00:00::
+#22 type NOUN type%1:18:00::
+This relationship , however , is not maintained centrally .
+2
+#3 however ADV however%4:02:04::
+#7 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+Here the pulmonary vein , as in type 2 , , is noted to draw away from the bronchus , and to follow a more direct , independent course to the hilum ( figs. 23 , 24 ) .
+10
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 type NOUN type%1:18:00::
+#12 note VERB note%2:32:00::,note%2:39:00::
+#14 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#15 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#22 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#24 more ADV more%4:02:00::
+#25 direct ADJ direct%3:00:05::
+#27 independent ADJ independent%3:00:00::
+#28 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+The bronchial artery in its course and distribution differs somewhat from that found in other mammals .
+3
+#5 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#14 other ADJ other%3:00:00::
+As seen in types 1 , and 2 , , it supplies the hilar lymph nodes , vasa vasorum to the pulmonary artery and vein , the bronchi and the terminal bronchioles .
+3
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 type NOUN type%1:18:00::
+#30 terminal ADJ terminal%3:00:00::
+As in type 1 , , it provides arterial blood to the interlobular septa , and an extremely rich anastomotic pleural supply is seen ( figs. 9 , 10 ) .
+5
+#2 type NOUN type%1:18:00::
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+#9 blood NOUN blood%1:04:00::,blood%1:08:00::
+#18 rich ADJ rich%3:00:02::,rich%3:00:04::,rich%5:00:00:fruitful:00,rich%5:00:00:tasty:00,rich%5:00:00:unwholesome:00,rich%5:00:02:productive:00
+#23 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Such a dual derivation was strikingly demonstrated during the injection process where initial filling would be noted to occur in several isolated pleural vessels at once .
+8
+#2 dual ADJ dual%5:00:00:multiple:00
+#3 derivation NOUN derivation%1:04:00::
+#6 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#9 injection NOUN injection%1:27:00::
+#10 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#13 fill VERB fill%2:30:00::,fill%2:30:01::,fill%2:30:02::,fill%2:34:02::,fill%2:41:00::,fill%2:41:01::,fill%2:42:00::,filling%1:22:00::
+#16 note VERB note%2:32:00::,note%2:39:00::
+#23 vessel NOUN vessel%1:08:00::
+Some of these were obviously filling from interlobular branches of the bronchial arteries while others were filling from direct hilar branches following along the pleural surface .
+3
+#18 direct ADJ direct%3:00:05::
+#21 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#25 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+With completion of filling , net-like anastomoses were noted to be present between these separately derived branches .
+3
+#3 fill VERB fill%2:30:00::,fill%2:30:01::,fill%2:30:02::,fill%2:34:02::,fill%2:41:00::,fill%2:41:01::,fill%2:42:00::,filling%1:22:00::
+#8 note VERB note%2:32:00::,note%2:39:00::
+#11 present ADJ present%3:00:02::
+An unusual increase in the number of bronchial arteries present within the substance of the lung was noted .
+4
+#5 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#9 present ADJ present%3:00:02::
+#12 substance NOUN substance%1:03:00::
+#17 note VERB note%2:32:00::,note%2:39:00::
+This was accounted for primarily by the presence of a bronchial artery closely following the pulmonary artery .
+1
+#13 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+The diameter of this bronchial artery was much too large for it to be a mere vasa vasorum ( figs. 16 , 23 , 24 ) .
+3
+#1 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#8 too ADV too%4:02:00::
+#9 large ADJ large%3:00:00::,large%5:00:00:significant:00
+In distal regions its diameter would be one-fourth to one-fifth that of the pulmonary artery .
+1
+#4 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+This vessel could be followed to the parenchyma where it directly provided bronchial arterial blood to the alveolar capillary bed ( figs. 17 , 18 ) .
+3
+#1 vessel NOUN vessel%1:08:00::
+#11 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 blood NOUN blood%1:04:00::,blood%1:08:00::
+Also three other direct pathways of alveolar bronchial arterial supply were noted : via the pleura ; through the interlobular septa ; and along the terminal bronchiole ( figs. 14 , 17 , 18 , 19 ) .
+4
+#3 direct ADJ direct%3:00:05::
+#11 note VERB note%2:32:00::,note%2:39:00::
+#15 pleura NOUN pleura%1:08:00::
+#25 terminal ADJ terminal%3:00:00::
+One bronchial arteriolar pulmonary arteriolar anastomosis was noted at the terminal bronchiolar level ( fig. 26 ) .
+3
+#7 note VERB note%2:32:00::,note%2:39:00::
+#10 terminal ADJ terminal%3:00:00::
+#12 level NOUN level%1:26:00::,level%1:26:01::
+It is evident that many marked and striking differences exist between lungs when an inter-species comparison is made .
+5
+#5 marked ADJ marked%5:00:00:noticeable:00
+#7 striking ADJ striking%5:00:00:conspicuous:00
+#9 exist VERB exist%2:42:00::
+#15 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The significance of these differences has not been studied nor has the existence of corresponding physiologic differences been determined .
+5
+#1 significance NOUN significance%1:09:01::
+#6 not ADV not%4:02:00::
+#8 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#14 corresponding ADJ corresponding%5:00:00:similar:00
+#18 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+However , the dynamics of airflow , from morphologic considerations alone , may conceivably be different in the monkey than in the horse .
+6
+#0 however ADV however%4:02:04::
+#9 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#10 alone ADJ alone%4:02:00::,alone%5:00:00:exclusive:00
+#15 different ADJ different%3:00:00::,different%5:00:00:other:00
+#18 monkey NOUN monkey%1:05:00::
+#22 horse NOUN horse%1:05:00::,horse%1:14:00::
+The volume and , perhaps , even the characteristics of bronchial arterial blood flow might be different in the dog than in the horse .
+7
+#1 volume NOUN volume%1:07:03::,volume%1:23:00::
+#8 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#12 blood NOUN blood%1:04:00::,blood%1:08:00::
+#13 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#16 different ADJ different%3:00:00::,different%5:00:00:other:00
+#19 dog NOUN dog%1:05:00::
+#23 horse NOUN horse%1:05:00::,horse%1:14:00::
+Also , interlobular air drifts may be all but nonexistent in the cow ; probably occur in the horse much as in the human being ; and , in contrast are present to a relatively immense degree on a segmental basis in the dog where lobules are absent ( Van Allen and Lindskog , ' 31 ) .
+8
+#3 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#4 drift NOUN drift%1:22:02::
+#18 horse NOUN horse%1:05:00::,horse%1:14:00::
+#31 present ADJ present%3:00:02::
+#36 degree NOUN degree%1:26:01::
+#39 segmental ADJ segmental%5:00:00:divided:00
+#43 dog NOUN dog%1:05:00::
+#47 absent ADJ absent%3:00:00::
+A reason for such wide variation in the pulmonary morphology is entirely lacking at present .
+2
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#5 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+Within certain wide limits anatomy dictates function and , if one is permitted to speculate , potential pathology should be included in this statement as well .
+7
+#2 wide ADJ wide%5:00:00:large:00
+#3 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#4 anatomy NOUN anatomy%1:09:00::
+#5 dictate VERB dictate%2:32:00::
+#6 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#14 speculate VERB speculate%2:31:00::
+#20 include VERB include%2:31:00::,include%2:41:03::
+For example , the marked susceptibility of the monkey to respiratory infection might be related to its delicate , long alveolar ducts and short , large bronchioles situated within a parenchyma entirely lacking in protective supportive tissue barriers such as those found in types 1 , and 3 , .
+10
+#4 marked ADJ marked%5:00:00:noticeable:00
+#5 susceptibility NOUN susceptibility%1:26:00::
+#8 monkey NOUN monkey%1:05:00::
+#17 delicate ADJ delicate%5:00:00:breakable:00
+#19 long ADJ long%3:00:01::
+#23 short ADJ short%3:00:01::
+#25 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#36 tissue NOUN tissue%1:08:00::
+#41 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#43 type NOUN type%1:18:00::
+One might also wonder if monkeys are capable of developing bronchiolitis as we know it in man or the horse .
+6
+#3 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#5 monkey NOUN monkey%1:05:00::
+#7 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#9 develop VERB develop%2:32:00::,develop%2:36:01::
+#16 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#19 horse NOUN horse%1:05:00::,horse%1:14:00::
+In addition , it would be difficult to imagine chronic generalized emphysema occurring in a cow , considering its marked lobular development but , conversely , not difficult to imagine this occurring in the horse or the dog .
+7
+#8 imagine VERB imagine%2:31:01::
+#11 emphysema NOUN emphysema%1:26:00::
+#19 marked ADJ marked%5:00:00:noticeable:00
+#21 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#29 imagine VERB imagine%2:31:01::
+#34 horse NOUN horse%1:05:00::,horse%1:14:00::
+#37 dog NOUN dog%1:05:00::
+Anatomically , the horse lung appears to be remarkably like that of man , insofar as this can be ascertained from comparison of our findings in the horse with those of others ( Birnbaum , ' 54 ) in the human being .
+6
+#3 horse NOUN horse%1:05:00::,horse%1:14:00::
+#5 appear VERB appear%2:30:00::
+#12 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#21 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#24 finding NOUN finding%1:04:00::,finding%1:04:01::
+#27 horse NOUN horse%1:05:00::,horse%1:14:00::
+The only area in which one might find major disagreement in this matter is in regard to the alveolar distribution of the bronchial arteries .
+4
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#7 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 major ADJ major%3:00:05::,major%3:00:06::
+#12 matter NOUN matter%1:09:00::,matter%1:09:01::
+As early as 1858 , Le Fort claimed an alveolar distribution of the bronchial arteries in human beings .
+1
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+The opposition to this point of view has its staunchest support in the work of Miller ( ' 50 ) .
+3
+#9 staunch ADJ staunch%5:00:00:constant:00
+#10 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#13 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+Apparently , however , Miller has relied heavily on the anatomy in dogs and cats , and he has been criticized for using pathologic human material in his normal study ( Loosli , ' 38 ) .
+9
+#2 however ADV however%4:02:04::
+#7 heavily ADV heavily%4:02:00::
+#10 anatomy NOUN anatomy%1:09:00::
+#12 dog NOUN dog%1:05:00::
+#14 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#20 criticize VERB criticise%2:32:00::
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#25 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#28 normal ADJ normal%3:00:01::,normal%3:00:03::
+Although Miller noted in 1907 that a difference in the pleural blood supply existed between animals , nowhere in his published works is it found that he did a comparative study of the intrapulmonary features of various mammalian lungs other than in the dog and cat ( Miller , ' 13 ; ' 25 ) .
+10
+#2 note VERB note%2:32:00::,note%2:39:00::
+#11 blood NOUN blood%1:04:00::,blood%1:08:00::
+#13 exist VERB exist%2:42:00::
+#21 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#24 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#29 comparative ADJ comparative%3:01:00::
+#30 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#34 feature NOUN feature%1:08:00::,feature%1:09:01::
+#43 dog NOUN dog%1:05:00::
+#45 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+The meaning of this variation in distribution of the bronchial artery as found in the horse is not clear .
+5
+#1 meaning NOUN meaning%1:09:00::
+#4 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#15 horse NOUN horse%1:05:00::,horse%1:14:00::
+#18 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+However , this artery is known to be a nutrient vessel with a distribution primarily to the proximal airways and supportive tissues of the lung .
+4
+#0 however ADV however%4:02:04::
+#10 vessel NOUN vessel%1:08:00::
+#18 airway NOUN airway%1:08:00::
+#21 tissue NOUN tissue%1:08:00::
+The alveoli and respiratory bronchioles are primarily diffusing tissues .
+1
+#8 tissue NOUN tissue%1:08:00::
+Theoretically , they are capable of extracting their required oxygen either from the surrounding air ( Ghoreyeb and Karsner , ' 13 ) or from pulmonary arterial blood ( Comroe , ' 58 ) .
+3
+#4 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#14 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#27 blood NOUN blood%1:04:00::,blood%1:08:00::
+Therefore , an explanation of this alveolar bronchial artery supply might be the nutritive requirement of an increased amount of supportive tissue , not primarily diffusing in nature , in the region of the alveolus .
+3
+#21 tissue NOUN tissue%1:08:00::
+#23 not ADV not%4:02:00::
+#27 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+If this be true , the possibility exists that an occlusive lesion of the bronchial arteries might cause widespread degeneration of supportive tissue similar to that seen in generalized emphysema .
+4
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#7 exist VERB exist%2:42:00::
+#22 tissue NOUN tissue%1:08:00::
+#29 emphysema NOUN emphysema%1:26:00::
+One would not expect such an event to occur in animals possessing lungs of types 1 , or 2 , .
+3
+#2 not ADV not%4:02:00::
+#11 possess VERB possess%2:40:00::,possess%2:42:00::
+#14 type NOUN type%1:18:00::
+Nakamura ( ' 58 ) , Verloop ( ' 48 ) , Marchand , Gilroy and Watson ( ' 50 ) , von Hayek ( ' 53 ) , and Tobin ( ' 52 ) have all claimed their normal but relatively nonfunctional existence in the human being .
+1
+#39 normal ADJ normal%3:00:01::,normal%3:00:03::
+Miller ( ' 50 ) is the principal antagonist of this viewpoint .
+1
+#7 principal ADJ principal%5:00:00:important:00
+In criticism of the latter 's views , his conclusions were based upon dog lung injection studies in which all of the vascular channels were first filled with a solution under pressure and then were injected with various sized colored particles designed to stop at the arteriolar level .
+15
+#4 latter ADJ latter%3:00:00::
+#6 view NOUN view%1:09:04::
+#9 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#11 base VERB base%2:31:00::
+#13 dog NOUN dog%1:05:00::
+#15 injection NOUN injection%1:27:00::
+#16 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#23 channel NOUN channel%1:06:00::
+#29 solution NOUN solution%1:27:00::
+#31 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#35 inject VERB inject%2:35:00::
+#39 colored ADJ colored%5:00:00:black:02
+#40 particle NOUN particle%1:17:00::,particle%1:27:01::
+#43 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#47 level NOUN level%1:26:00::,level%1:26:01::
+As early as 1913 Ghoreyeb and Karsner demonstrated with perfusion studies in dogs that bronchial artery flow would remain constant at a certain low level when pressure was maintained in the pulmonary artery and vein , but that increases in bronchial artery flow would occur in response to a relative drop in pulmonary artery pressure .
+13
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#7 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#10 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#12 dog NOUN dog%1:05:00::
+#16 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#23 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#24 level NOUN level%1:26:00::,level%1:26:01::
+#26 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#28 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#42 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#49 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#50 drop NOUN drop%1:04:00::,drop%1:07:00::,drop%1:11:00::,drop%1:17:00::
+#54 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+Our own studies in which bronchial artery pulmonary artery anastomoses were demonstrated , were accomplished by injecting the bronchial artery first with no pressure on the pulmonary artery or vein , and then by injecting the pulmonary artery and vein afterwards .
+8
+#1 own ADJ own%5:00:00:personal:00
+#2 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#11 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#16 inject VERB inject%2:35:00::
+#23 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#32 then ADV then%4:02:00::
+#34 inject VERB inject%2:35:00::
+#39 vein NOUN vein%1:08:00::
+It is distinctly possible , therefore , that simultaneous pressures in all three vessels would have rendered the shunts inoperable and hence , uninjectable .
+5
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#13 vessel NOUN vessel%1:08:00::
+#16 render VERB render%2:30:00::
+#18 shunt NOUN shunt%1:06:01::
+#21 hence ADV hence%4:02:00::
+This viewpoint is further supported by Verloop 's ( ' 48 ) demonstration of thickened bronchial artery and arteriolar muscular coats which are capable of acting as valves .
+5
+#3 further ADV further%4:02:02::,further%4:02:03::
+#4 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#12 demonstration NOUN demonstration%1:10:03::
+#20 coat NOUN coat%1:06:01::
+#23 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+In other words , the anastomoses between the bronchial artery and pulmonary artery should be considered as functional or demand shunts .
+2
+#17 functional ADJ functional%3:00:02::
+#20 shunt NOUN shunt%1:06:01::
+In addition , little work has been done on a comparative basis in regard to the normal existence of bronchial artery pulmonary artery anastomoses .
+3
+#4 work NOUN work%1:04:00::
+#10 comparative ADJ comparative%3:01:00::
+#16 normal ADJ normal%3:00:01::,normal%3:00:03::
+Verloop ( ' 48 ; ' 49 ) found these shunts in the human being but was unable to find them in rats .
+3
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 shunt NOUN shunt%1:06:01::
+#22 rat NOUN rat%1:05:00::
+Ellis , Grindlay and Edwards ( ' 52 ) also were unable to find them in rats .
+1
+#16 rat NOUN rat%1:05:00::
+Nakamura ( ' 58 ) was unable to demonstrate their existence , either by anatomic or physiologic methods , in dogs .
+2
+#8 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#20 dog NOUN dog%1:05:00::
+The possibility that the absence or presence of these shunts is species dependent is therefore inferred .
+3
+#9 shunt NOUN shunt%1:06:01::
+#11 species NOUN species%1:09:00::,species%1:14:00::
+#12 dependent ADJ dependent%5:00:00:conditional:00
+Certainly , the mere fact of failing to demonstrate them in one or another species does not conclusively deny their existence in that species .
+5
+#8 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#14 species NOUN species%1:09:00::,species%1:14:00::
+#16 not ADV not%4:02:00::
+#18 deny VERB deny%2:32:00::,deny%2:32:01::
+#23 species NOUN species%1:09:00::,species%1:14:00::
+It is , however , highly suggestive and agrees well with our own findings in which we also failed to demonstrate normally occurring bronchial artery pulmonary artery shunts in certain species , especially the dog .
+10
+#3 however ADV however%4:02:04::
+#8 agree VERB agree%2:40:02::,agree%2:42:01::,agree%2:42:03::
+#12 own ADJ own%5:00:00:personal:00
+#13 finding NOUN finding%1:04:00::,finding%1:04:01::
+#18 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#20 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#27 shunt NOUN shunt%1:06:01::
+#30 species NOUN species%1:09:00::,species%1:14:00::
+#32 especially ADV especially%4:02:00::
+#34 dog NOUN dog%1:05:00::
+In conclusion , these findings suggest the need for a comparative physiology , pathology , and histology of mammalian lungs .
+2
+#4 finding NOUN finding%1:04:00::,finding%1:04:01::
+#10 comparative ADJ comparative%3:01:00::
+In addition , a detailed interspecies survey of the incidence of generalized pulmonary emphysema in mammals would be interesting and pertinent .
+2
+#6 survey NOUN survey%1:04:01::
+#9 incidence NOUN incidence%1:24:00::
+Also , for the present , great caution should be exercised in the choice of an experimental animal for pulmonary studies if they are to be applied to man .
+5
+#4 present NOUN present%1:10:00::,present%1:28:00::
+#7 caution NOUN caution%1:09:00::
+#10 exercise VERB exercise%2:34:00::
+#20 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#28 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+This is especially so if the dog , cat or monkey are to be used , in view of their marked anatomical differences from man .
+6
+#6 dog NOUN dog%1:05:00::
+#8 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#10 monkey NOUN monkey%1:05:00::
+#14 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#20 marked ADJ marked%5:00:00:noticeable:00
+#24 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+Finally , it is suggested that in many respects the horse lung may be anatomically more comparable to that of the human than any other presently known species .
+6
+#8 respect NOUN respect%1:09:00::
+#10 horse NOUN horse%1:05:00::,horse%1:14:00::
+#15 more ADV more%4:02:00::
+#24 other ADJ other%3:00:00::
+#25 presently ADV presently%4:02:00::
+#27 species NOUN species%1:09:00::,species%1:14:00::
+The main subgross anatomical features of the lungs of various mammals are presented .
+2
+#4 feature NOUN feature%1:08:00::,feature%1:09:01::
+#12 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+A tabulation of these features permits the lungs to be grouped into three distinctive subgross types .
+2
+#4 feature NOUN feature%1:08:00::,feature%1:09:01::
+#15 type NOUN type%1:18:00::
+Type 1 , is represented by the cow , sheep , and pig ; type 2 , , by the dog , cat , and monkey ; type 3 , , by the horse .
+10
+#0 type NOUN type%1:18:00::
+#4 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#9 sheep NOUN sheep%1:05:00::
+#12 pig NOUN pig%1:18:00::
+#14 type NOUN type%1:18:00::
+#20 dog NOUN dog%1:05:00::
+#22 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#25 monkey NOUN monkey%1:05:00::
+#27 type NOUN type%1:18:00::
+#33 horse NOUN horse%1:05:00::,horse%1:14:00::
+Lobularity is extremely well developed in type 1 , ; absent in type 2 , ; imperfectly developed in type 3 , .
+5
+#3 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#6 type NOUN type%1:18:00::
+#10 absent ADJ absent%3:00:00::
+#12 type NOUN type%1:18:00::
+#19 type NOUN type%1:18:00::
+The pleura and interlobular septa are thick in types 1 , and 3 , .
+3
+#1 pleura NOUN pleura%1:08:00::
+#6 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#8 type NOUN type%1:18:00::
+The pleura is extremely thin in type 2 , and septa are absent .
+4
+#1 pleura NOUN pleura%1:08:00::
+#4 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#6 type NOUN type%1:18:00::
+#12 absent ADJ absent%3:00:00::
+Arterial supply to the pleura in types 1 , and 3 , is provided by the bronchial artery , and in type 2 , , by the pulmonary artery .
+4
+#4 pleura NOUN pleura%1:08:00::
+#6 type NOUN type%1:18:00::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+#21 type NOUN type%1:18:00::
+In types 1 , , 2 , and 3 , the bronchial artery terminates in a capillary bed shared in common with the pulmonary artery at the level of the distal bronchiole .
+3
+#1 type NOUN type%1:18:00::
+#20 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#27 level NOUN level%1:26:00::,level%1:26:01::
+In type 3 , the bronchial artery also provides blood directly to the alveolar capillary bed .
+3
+#1 type NOUN type%1:18:00::
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#9 blood NOUN blood%1:04:00::,blood%1:08:00::
+True terminal bronchioles comprise the most frequent form taken by the distal airways in types 1 , and 3 , , although small numbers of poorly developed respiratory bronchioles are present .
+8
+#0 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#1 terminal ADJ terminal%3:00:00::
+#5 most ADV most%4:02:00::
+#7 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#12 airway NOUN airway%1:08:00::
+#14 type NOUN type%1:18:00::
+#23 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#30 present ADJ present%3:00:02::
+Well developed respiratory bronchioles , on the other hand , appear to be the only form taken by the distal airways in type 2 , .
+5
+#0 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#10 appear VERB appear%2:30:00::
+#15 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#20 airway NOUN airway%1:08:00::
+#22 type NOUN type%1:18:00::
+In type 1 , the pulmonary vein closely follows the course of the bronchus and the pulmonary artery from the periphery to the hilum .
+3
+#1 type NOUN type%1:18:00::
+#8 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#10 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+This maybe due to the heavy interlobular connective tissue barriers present .
+2
+#5 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#10 present ADJ present%3:00:02::
+In type 3 , this general relationship is maintained peripherally but not centrally where the pulmonary vein follows a more independent path to the hilum as is the case throughout the lung in type 2 , .
+9
+#1 type NOUN type%1:18:00::
+#5 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#8 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#11 not ADV not%4:02:00::
+#17 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#19 more ADV more%4:02:00::
+#20 independent ADJ independent%3:00:00::
+#28 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#33 type NOUN type%1:18:00::

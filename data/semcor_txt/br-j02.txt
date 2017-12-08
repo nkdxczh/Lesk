@@ -1,0 +1,653 @@
+ Experiments were made on an electric arc applying a porous graphite anode cooled by a transpiring gas ( Argon ) .
+3
+#5 electric ADJ electric%3:01:00::
+#7 apply VERB apply%2:40:00::
+#16 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+Thus , the energy transferred from the arc to the anode was partly fed back into the arc .
+7
+#0 thus ADV thus%4:02:01::
+#3 energy NOUN energy%1:19:00::
+#4 transfer VERB transfer%2:40:00::,transfer%2:40:01::
+#7 arc NOUN arc%1:19:00::
+#13 feed VERB feed%2:30:01::,feed%2:34:03::,feed%2:38:04::
+#14 back ADV back%4:02:01::,back%4:02:04::
+#17 arc NOUN arc%1:19:00::
+It was shown that by proper anode design the net energy loss of the arc to the anode could be reduced to approximately 15 % of the total arc energy A detailed energy balance of the anode was established .
+12
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#5 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#7 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#9 net ADJ net%3:00:00::
+#10 energy NOUN energy%1:19:00::
+#14 arc NOUN arc%1:19:00::
+#20 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#28 arc NOUN arc%1:19:00::
+#29 energy NOUN energy%1:19:00::
+#32 energy NOUN energy%1:19:00::
+#33 balance NOUN balance%1:07:00::,balance%1:26:00::
+#38 establish VERB establish%2:36:01::,establish%2:41:00::
+The anode ablation could be reduced to a negligible amount .
+1
+#5 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+The dependence of the arc voltage upon the mass flow velocity of the transpirating gas was investigated for various arc lengths and currents between 100 Amp and 200 Amp .
+8
+#4 arc NOUN arc%1:19:00::
+#8 mass NOUN mass%1:07:00::,mass%1:07:01::
+#9 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#14 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#19 arc NOUN arc%1:19:00::
+#20 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#25 amp NOUN amp%1:23:00::
+#28 amp NOUN amp%1:23:00::
+Qualitative observations were made and high-speed motion pictures were taken to study flow phenomena in the arc at various mass flow velocities .
+8
+#1 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#9 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#11 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#12 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#13 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#16 arc NOUN arc%1:19:00::
+#19 mass NOUN mass%1:07:00::,mass%1:07:01::
+#20 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+The high heat fluxes existing at the electrode surfaces of electric arcs necessitate extensive cooling to prevent electrode ablation .
+7
+#1 high ADJ high%3:00:02::
+#2 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#4 exist VERB exist%2:42:00::
+#8 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#10 electric ADJ electric%3:01:00::
+#13 extensive ADJ extensive%5:00:00:large:00
+#16 prevent VERB prevent%2:41:00::
+The cooling requirements are particularly severe at the anode .
+2
+#4 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#5 severe ADJ severe%5:00:01:bad:00
+In free burning electric arcs , for instance , approximately 90 % of the total arc power is transferred to the anode giving rise to local heat fluxes in excess of **f as measured by the authors - the exact value depending on the arc atmosphere .
+8
+#3 electric ADJ electric%3:01:00::
+#15 arc NOUN arc%1:19:00::
+#18 transfer VERB transfer%2:40:00::,transfer%2:40:01::
+#26 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#29 excess NOUN excess%1:07:02::
+#40 value NOUN value%1:09:00::
+#44 arc NOUN arc%1:19:00::
+#45 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+In plasma generators as currently commercially available for industrial use or as high temperature research tools often more than 50 % of the total energy input is being transferred to the cooling medium of the anode .
+4
+#15 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#25 input NOUN input%1:10:00::
+#28 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#32 medium NOUN medium%1:10:01::
+The higher heat transfer rates at the anode compared with those at the cathode can be explained by the physical phenomena occurring in free burning arcs .
+6
+#1 high ADJ high%3:00:02::
+#2 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#3 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#4 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#8 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#25 arc NOUN arc%1:19:00::
+The heat transfer to the anode is due to the following effects : 1 .
+4
+#1 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#2 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#10 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#11 effect NOUN effect%1:09:00::,effect%1:19:00::
+Heat of condensation ( work function ) plus kinetic energy of the electrons impinging on the anode .
+1
+#5 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+This energy transfer depends on the current , the temperature in the arc column , the anode material , and the conditions in the anode sheath .
+6
+#1 energy NOUN energy%1:19:00::
+#2 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#12 arc NOUN arc%1:19:00::
+#13 column NOUN column%1:06:01::,column%1:25:02::
+#17 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#21 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+Heat transfer by molecular conduction as well as by radiation from the arc column .
+5
+#0 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#1 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#9 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#12 arc NOUN arc%1:19:00::
+#13 column NOUN column%1:06:01::,column%1:25:02::
+The heat transfer to the anode in free burning arcs is enhanced by a hot gas jet flowing from the cathode towards the anode with velocities up **f .
+5
+#1 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#2 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#9 arc NOUN arc%1:19:00::
+#14 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#17 flow VERB flow%2:30:00::,flow%2:38:00::
+This phenomenon has been experimentally investigated in detail by Maecker ( Ref. 1 ) .
+1
+#1 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+The pressure gradient producing the jet is due to the nature of the magnetic field in the arc ( rapid decrease of current density from cathode to the anode ) .
+4
+#1 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#2 gradient NOUN gradient%1:07:01::
+#10 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#17 arc NOUN arc%1:19:00::
+Hence , the flow conditions at the anode of free burning arcs resemble those near a stagnation point .
+5
+#0 hence ADV hence%4:02:00::
+#3 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#4 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#11 arc NOUN arc%1:19:00::
+#17 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+it is apparent from the above and from experimental evidence that the cooling requirements for the anode of free burning arcs are large compared with those for the cathode .
+3
+#20 arc NOUN arc%1:19:00::
+#22 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#23 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+The gas flow through a plasma generator will modify these conditions ; however , the anode is still the part receiving the largest heat flux .
+7
+#1 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#2 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#10 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#12 however ADV however%4:02:04::
+#17 still ADV still%4:02:04::
+#22 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#23 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+An attempt to improve the life of the anodes or the efficiency of the plasma generators must , therefore , aim at a reduction of the anode loss .
+3
+#5 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#20 aim VERB aim%2:31:00::
+#23 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+The following possibilities exist for achieving this : 1 .
+2
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#3 exist VERB exist%2:42:00::
+The use of high voltages and low currents by proper design to reduce electron heat transfer to the anode for a given power output .
+8
+#3 high ADJ high%3:00:02::
+#6 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#9 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#10 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#14 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#15 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#21 given ADJ give%2:32:03::
+#23 output NOUN output%1:06:00::
+Continuous motion of the arc contact area at the anode by flow or magnetic forces .
+6
+#0 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#1 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#4 arc NOUN arc%1:19:00::
+#5 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+Feed back of the energy transferred to the anode by applying gas transpiration through the anode .
+4
+#4 energy NOUN energy%1:19:00::
+#5 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#10 apply VERB apply%2:40:00::
+#11 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+The third method was , to our knowledge , successfully applied for the first time by C. Sheer and co-workers ( Ref. 2 ) .
+1
+#10 apply VERB apply%2:34:00::
+The purpose of the present study is to study the thermal conditions and to establish an energy balance for a transpiration cooled anode as well as the effect of blowing on the arc voltage .
+10
+#4 present ADJ present%3:00:01::
+#5 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#8 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#11 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#14 establish VERB establish%2:31:00::
+#16 energy NOUN energy%1:19:00::
+#17 balance NOUN balance%1:07:00::,balance%1:26:00::
+#21 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#27 effect NOUN effect%1:09:00::,effect%1:19:00::
+#32 arc NOUN arc%1:19:00::
+Gas injection through a porous anode ( transpiration cooling ) not only feeds back the energy transferred to the anode by the above mentioned processes , but also modifies the conditions in the arc itself .
+6
+#0 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#1 injection NOUN injection%1:27:00::
+#16 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#24 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#30 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#33 arc NOUN arc%1:19:00::
+A detailed study of this latter phenomenon was not attempted in this paper .
+5
+#2 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#5 latter ADJ latter%3:00:00::
+#6 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#8 not ADV not%4:02:00::
+#12 paper NOUN paper%1:10:00::
+Argon was used as a blowing gas to exclude any effects of dissociation or chemical reaction .
+2
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 effect NOUN effect%1:09:00::,effect%1:19:00::
+The anode material was porous graphite .
+1
+#2 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+Sintered porous metals should be usable in principle .
+1
+#2 metal NOUN metal%1:27:00::
+However , technical difficulties arise by melting at local hot spots .
+5
+#0 however ADV however%4:02:04::
+#2 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#4 arise VERB arise%2:30:00::,arise%2:42:01::
+#9 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#10 spot NOUN spot%1:10:01::,spot%1:15:01::
+The experimental arrangement as described below is based on the geometry of free burning arcs .
+2
+#4 describe VERB describe%2:32:01::
+#14 arc NOUN arc%1:19:00::
+Thus , direct comparisons can be drawn with free burning arcs which have been studied in detail during the past years and decades by numerous investigators ( Ref. 3 ) .
+6
+#0 thus ADV thus%4:02:00::
+#2 direct ADJ direct%3:00:05::
+#3 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#6 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#10 arc NOUN arc%1:19:00::
+#14 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+Figures 1 to 3 show photographic and schematic views of the test stand and of two different models of the anode holder .
+5
+#0 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#8 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#16 different ADJ different%3:00:00::,different%5:00:00:other:00
+#17 model NOUN model%1:09:03::
+#21 holder NOUN holder%1:06:00::
+The cathode consisted of a 1/4 " diameter thoriated tungsten rod attached to a water cooled copper tube .
+5
+#7 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#10 rod NOUN rod%1:06:00::
+#11 attached ADJ attached%5:00:00:related:02
+#16 copper NOUN cu%1:27:00::
+#17 tube NOUN tube%1:06:00::,tube%1:06:02::
+This tube could be adjusted in its axial direction by an electric drive to establish the required electrode spacing .
+5
+#1 tube NOUN tube%1:06:00::,tube%1:06:02::
+#4 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#8 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#11 electric ADJ electric%3:01:00::
+#14 establish VERB establish%2:36:01::,establish%2:41:00::
+The anode in figure 2 was mounted by means of the anode holder which was attached to a steel plug and disk .
+7
+#3 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#6 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#8 means NOUN means%1:06:00::
+#12 holder NOUN holder%1:06:00::
+#15 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#19 plug NOUN plug%1:06:03::
+#21 disk NOUN disk%1:06:02::
+The transpiring gas ejected from the anode formed a jet directed axially towards the cathode below .
+4
+#2 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#7 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+#9 jet NOUN jet%1:11:00::
+#10 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+Inflow of air from the surrounding atmosphere was prevented by the two disks shown in figure 2 .
+5
+#2 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#6 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#8 prevent VERB prevent%2:41:00::
+#12 disk NOUN disk%1:06:02::
+#15 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+Argon was also blown at low velocities ( mass flow rate **f ) through a tube coaxial with the cathode as an additional precaution against contamination of the arc by air .
+5
+#5 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#8 mass NOUN mass%1:07:00::,mass%1:07:01::
+#15 tube NOUN tube%1:06:00::,tube%1:06:02::
+#28 arc NOUN arc%1:19:00::
+#30 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+The anode consisted of a 1/2 inch diameter porous graphite plug , 1/4 inch long .
+5
+#6 inch NOUN inch%1:23:02::
+#7 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#10 plug NOUN plug%1:06:03::
+#13 inch NOUN inch%1:23:02::
+#14 long ADJ long%3:00:01::
+The graphite was National Carbon NC 60 , which has a porosity of 50 % and an average pore size of 30 This small pore size was required to ensure uniformity of the flow leaving the anode .
+3
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 size NOUN size%1:07:00::,size%1:07:02::
+#25 size NOUN size%1:07:00::,size%1:07:02::
+The anode plug ( Figure 2 ) was inserted into a carbon anode holder .
+5
+#2 plug NOUN plug%1:06:03::
+#4 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#8 insert VERB insert%2:35:00::,insert%2:35:01::
+#11 carbon NOUN carbon%1:06:00::
+#13 holder NOUN holder%1:06:00::
+A shielded thermocouple was used to measure the upstream temperature of the transpiring gas .
+3
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#13 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+It was exposed to a high velocity gas jet .
+1
+#5 high ADJ high%3:00:02::
+A plug and a tube with holes in its cylindrical walls divided the chamber above the porous plug into two parts .
+7
+#1 plug NOUN plug%1:06:03::
+#4 tube NOUN tube%1:06:00::,tube%1:06:02::
+#6 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#11 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#13 chamber NOUN chamber%1:08:00::
+#17 plug NOUN plug%1:06:03::
+#20 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+This arrangement had the purpose to prevent heated gas to reach the thermocouple by natural convection .
+7
+#1 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 prevent VERB prevent%2:41:00::
+#7 heated ADJ heated%5:00:00:hot:01
+#8 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#10 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#14 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+Two pyrometers shown in figure 1 and 2 ( Pyrometer Instrument Co. Model 95 ) served for simultaneous measurement of the anode surface temperature and the temperature distribution along the anode holder .
+5
+#4 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#12 model NOUN model%1:09:03::
+#15 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#22 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#31 holder NOUN holder%1:06:00::
+Three thermocouples were placed at different locations in the aluminum disk surrounding the anode holder to determine its temperature .
+5
+#3 place VERB place%2:31:13::
+#5 different ADJ different%3:00:00::,different%5:00:00:other:00
+#10 disk NOUN disk%1:06:02::
+#14 holder NOUN holder%1:06:00::
+#16 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+Another anode holder used in the experiments is shown in figure 3 .
+3
+#2 holder NOUN holder%1:06:00::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+In this design the anode holder is water cooled and the heat losses by conduction from the anode were determined by measuring the temperature rise of the coolant .
+6
+#2 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#5 holder NOUN holder%1:06:00::
+#11 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#19 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#21 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#24 rise NOUN rise%1:07:02::
+To reduce heat transfer from the hot gas to this anode holder outside the region of the arc , a carbon shield was attached to the surface providing an air gap of 1/16 inch between the plate and the surface of the anode holder .
+18
+#1 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#2 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#3 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#6 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#7 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#11 holder NOUN holder%1:06:00::
+#12 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#17 arc NOUN arc%1:19:00::
+#20 carbon NOUN carbon%1:06:00::
+#21 shield NOUN shield%1:05:00::
+#23 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#26 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#27 provide VERB provide%2:34:00::,provide%2:40:00::
+#29 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#30 gap NOUN gap%1:04:00::
+#33 inch NOUN inch%1:23:02::
+#39 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#43 holder NOUN holder%1:06:00::
+In addition , the inner surface of the carbon shield was covered with aluminum foil to reduce radiation .
+7
+#4 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+#5 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 carbon NOUN carbon%1:06:00::
+#9 shield NOUN shield%1:05:00::
+#11 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#16 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#17 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+Temperatures of the shield and of the surface of the water cooled anode holder were measured by thermocouples to account for heat received by the coolant but not originating from the anode plug .
+7
+#3 shield NOUN shield%1:05:00::
+#7 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#13 holder NOUN holder%1:06:00::
+#15 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#21 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#27 not ADV not%4:02:00::
+#32 plug NOUN plug%1:06:03::
+The argon flow from commercial bottles was regulated by a pressure regulator and measured with a gas flow rator .
+4
+#4 commercial ADJ commercial%3:01:00::
+#10 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#13 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#16 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+The power source was a commercial D.C. rectifier .
+2
+#1 power NOUN power%1:19:00::
+#5 commercial ADJ commercial%3:01:00::
+At 100 Amp the 360 cycle ripple was less than 0.5 V ( peak to peak ) with a resistive load .
+5
+#2 amp NOUN amp%1:23:00::
+#5 cycle NOUN cycle%1:28:00::
+#6 ripple NOUN ripple%1:11:00::
+#11 volt NOUN v%1:23:00::
+#20 load NOUN load%1:19:01::
+The current was regulated by means of a variable resistor and measured with a 50 mV shunt and millivoltmeter .
+2
+#11 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#16 shunt NOUN shunt%1:06:01::
+The arc voltage was measured with a voltmeter whose terminals were connected to the anode and cathode holders .
+4
+#1 arc NOUN arc%1:19:00::
+#4 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#9 terminal NOUN terminal%1:06:01::
+#17 holder NOUN holder%1:06:00::
+Because of the falling characteristic of the rectifier , no ballast resistor was required for stability of operation .
+2
+#4 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#17 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+A high frequency starter was used to start the arc .
+4
+#3 starter NOUN starter%1:06:02::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+#9 arc NOUN arc%1:19:00::
+The anode holder shown in figure 2 was designed with two goals in mind .
+3
+#2 holder NOUN holder%1:06:00::
+#5 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#11 goal NOUN goal%1:09:00::,goal%1:15:00::
+The heat losses of the holder were to be reduced as far as possible and they should be such that an accurate heat balance can be made .
+6
+#1 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#5 holder NOUN holder%1:06:00::
+#9 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#21 accurate ADJ accurate%5:00:00:correct:00
+#22 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#23 balance NOUN balance%1:07:00::,balance%1:26:00::
+In order to reduce the number of variable parameters , all experiments were made with a constant arc length of 0.5 " and a current of 100 Amp .
+6
+#3 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#5 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 arc NOUN arc%1:19:00::
+#18 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#27 amp NOUN amp%1:23:00::
+The lower limit was determined by the fact that for smaller flow rates the arc started to strike to the anode holder instead of to the porous graphite plug and that it became highly unstable .
+7
+#4 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#14 arc NOUN arc%1:19:00::
+#15 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#17 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#21 holder NOUN holder%1:06:00::
+#28 plug NOUN plug%1:06:03::
+#32 become VERB become%2:30:00::,become%2:42:01::
+The upper limit was determined by the difficulty of measuring the characteristic anode surface temperature ( see below ) since only a small region of the anode was struck by the arc .
+6
+#4 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#9 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#13 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#20 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#31 arc NOUN arc%1:19:00::
+This region which had a higher temperature than the rest of the anode surface changed size and location continuously .
+6
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 high ADJ high%3:00:02::
+#9 rest NOUN rest%1:24:00::
+#13 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#14 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#15 size NOUN size%1:07:00::,size%1:07:02::
+For each mass flow rate the arc voltage was measured .
+3
+#2 mass NOUN mass%1:07:00::,mass%1:07:01::
+#6 arc NOUN arc%1:19:00::
+#9 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+To measure the surface temperature of the anode plug , the surface was scanned with a pyrometer .
+5
+#1 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#3 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 plug NOUN plug%1:06:03::
+#11 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#13 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+As it turned out , a very hot region occurred on the plug .
+2
+#7 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#12 plug NOUN plug%1:06:03::
+The size of this hot region was estimated by eye .
+2
+#1 size NOUN size%1:07:00::,size%1:07:02::
+#4 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+The rest of the surface had a temperature which decreased towards the outer diameter of the plug .
+5
+#1 rest NOUN rest%1:24:00::
+#4 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#16 plug NOUN plug%1:06:03::
+The mean temperature of this region was approximated by the temperature measured halfways between the edge of the hot spot and the rim of the plug .
+5
+#11 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#15 edge NOUN edge%1:06:00::,edge%1:07:00::,edge%1:25:00::
+#18 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#19 spot NOUN spot%1:10:01::,spot%1:15:01::
+#25 plug NOUN plug%1:06:03::
+The mean temperature of the surface was then computed according to the following relation : **f where x is the fraction of the plug area covered by the hot spot .
+9
+#5 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#12 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#13 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#20 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#23 plug NOUN plug%1:06:03::
+#24 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#25 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#28 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#29 spot NOUN spot%1:10:01::,spot%1:15:01::
+Assuming thermal equilibrium between the anode surface and the transpiring argon , the gas enthalpy rise through the anode was calculated according to the relation **f whereby the specific heat of argon was taken as **f .
+6
+#6 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#13 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#15 rise NOUN rise%1:17:00::
+#20 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#24 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#33 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+This calculation results in an enthalpy rise which is somewhat high because it assumes a mass flow equally distributed over the plug cross section whereas in reality the mass velocity is expected to be smaller in the regions of higher temperatures .
+9
+#6 rise NOUN rise%1:17:00::
+#10 high ADJ high%3:00:02::
+#13 assume VERB assume%2:31:00::
+#15 mass NOUN mass%1:07:00::,mass%1:07:01::
+#17 equally ADV equally%4:02:02::
+#18 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+#21 plug NOUN plug%1:06:03::
+#28 mass NOUN mass%1:07:00::,mass%1:07:01::
+#39 high ADJ high%3:00:02::
+The upstream gas temperature measured with the thermocouple shown in figure 2 was **f .
+3
+#2 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#4 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#10 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+The **f values are listed in Table 1 together with the measured surface temperatures and arc voltages .
+6
+#2 value NOUN value%1:09:00::
+#4 list VERB list%2:32:00::,list%2:41:00::
+#6 table NOUN table%1:14:00::
+#8 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#12 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#15 arc NOUN arc%1:19:00::
+Simultaneously with the anode surface temperature and voltage measurements pyrometer readings were taken along the cylindrical surface of the carbon anode holder as indicated on figure 2 .
+8
+#4 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#10 reading NOUN reading%1:09:02::
+#12 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#16 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#19 carbon NOUN carbon%1:06:00::
+#21 holder NOUN holder%1:06:00::
+#23 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#25 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+Some of these temperatures are plotted in figure 4 .
+1
+#7 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+They showed no marked dependence on the flow rate within the accuracy of these measurements .
+1
+#3 marked ADJ marked%5:00:00:noticeable:00
+Thus , the dotted line shown in figure 4 was taken as typical for the temperature distribution for all blowing rates .
+5
+#0 thus ADV thus%4:02:00::
+#4 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#7 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#10 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#20 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+The thermocouples in the aluminum disk shown in figure 2 indicated an equilibrium temperature of the surface of **f .
+4
+#5 disk NOUN disk%1:06:02::
+#8 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#10 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#16 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+This temperature was taken as environmental temperature to which the anode holder was exposed as far as radiation is concerned .
+4
+#3 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#5 environmental ADJ environmental%3:01:01::
+#11 holder NOUN holder%1:06:00::
+#19 concern VERB concern%2:42:00::,concern%2:42:01::
+It is sufficiently small compared with the surface temperature of the anode holder , to make the energy flux radiated from the environment toward the anode holder negligible within the accuracy of the present measurements .
+8
+#4 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#7 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#12 holder NOUN holder%1:06:00::
+#17 energy NOUN energy%1:19:00::
+#19 radiate VERB radiate%2:43:00::
+#22 environment NOUN environment%1:15:00::,environment%1:26:00::
+#26 holder NOUN holder%1:06:00::
+#33 present ADJ present%3:00:01::
+The reflection of radiation originating from the anode holder and reflected back to it by the surrounding metal surfaces should also be small because of the specular characteristic of the metal surfaces and of the specific geometry .
+10
+#1 reflection NOUN reflection%1:19:00::
+#3 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#8 holder NOUN holder%1:06:00::
+#10 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#17 metal NOUN metal%1:27:00::
+#18 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#27 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#30 metal NOUN metal%1:27:00::
+#31 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#35 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+The total heat loss through the anode holder included also the heat conducted through the base of the cylindrical piece into the adjacent metal parts .
+7
+#2 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#7 holder NOUN holder%1:06:00::
+#8 include VERB include%2:42:00::
+#11 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#12 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#15 base NOUN base%1:06:00::,base%1:06:01::,base%1:15:00::,base%1:17:00::,base%1:25:00::
+#23 metal NOUN metal%1:27:00::
+It was calculated from the temperature gradient **f at **f inch as **f .
+2
+#2 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#10 inch NOUN inch%1:23:02::
+The total heat flux from the porous plug into the plug holder is thereby **f The temperature distribution of figure 4 gives **f for all blowing rates , assuming **f .
+7
+#2 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#7 plug NOUN plug%1:06:03::
+#10 plug NOUN plug%1:06:03::
+#11 holder NOUN holder%1:06:00::
+#19 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#21 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#26 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+The temperature dependent value of |e was taken from Ref. 7 .
+3
+#2 dependent ADJ dependent%5:00:00:conditional:00
+#3 value NOUN value%1:09:00::
+#7 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+The radiation loss from the anode surface was computed according to **f where **f is the mean of the fourth powers of the temperatures **f and **f calculated analogously to equation ( 1 ) .
+6
+#1 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#6 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#16 mean NOUN mean%1:09:00::
+#20 power NOUN power%1:10:00::
+#27 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#30 equation NOUN equation%1:10:00::

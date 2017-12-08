@@ -1,0 +1,588 @@
+ Mr. Speaker , for several years now the commuter railroads serving our large metropolitan areas have found it increasingly difficult to render the kind of service our expanding population wants and is entitled to have .
+11
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 railroad NOUN railroad%1:06:00::
+#10 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#12 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#13 metropolitan ADJ metropolitan%3:01:00::
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#16 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#21 render VERB render%2:32:01::,render%2:36:00::,render%2:40:01::,render%2:40:02::,render%2:40:03::
+#29 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#34 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The causes of the decline of the commuter railroads are many and complex - high taxes , losses of revenue to Government subsidized highway and air carriers , to name but two .
+8
+#1 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#8 railroad NOUN railroad%1:06:00::
+#12 complex ADJ complex%3:00:00::
+#14 high ADJ high%3:00:02::
+#15 tax NOUN tax%1:21:00::
+#21 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#26 carrier NOUN carrier%1:14:00::
+#29 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+And the solutions to the problems of the commuter lines have been equally varied , ranging all the way from Government ownership to complete discontinuance of this important service .
+6
+#2 solution NOUN solution%1:09:00::,solution%1:10:00::
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#9 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#15 range VERB range%2:42:00::
+#20 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#23 complete ADJ complete%5:00:00:skilled:00
+There have been a number of sound plans proposed .
+4
+#4 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 sound ADJ sound%3:00:01::
+#7 plan NOUN plan%1:09:00::
+#8 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+Instead we have stood idly by , watched our commuter railroad service decline , and have failed to offer a helping hand .
+3
+#7 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#12 decline VERB decline%2:30:00::
+#16 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+Though the number of people flowing in and out of our metropolitan areas each day has increased tremendously since World War 2 , , total annual rail commutation dropped 124 million from 1947 to 1957 .
+6
+#2 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#4 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#5 flow VERB flow%2:35:04::,flow%2:38:01::,flow%2:42:00::
+#11 metropolitan ADJ metropolitan%3:01:00::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#26 rail NOUN rail%1:06:01::
+Nowhere has this decline been more painfully evident than in the New York City area .
+1
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Here the New York Central Railroad , one of the Nation 's most important carriers , has alone lost 47.6 percent of its passengers since 1949 .
+5
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#12 most ADV most%4:02:00::
+#14 carrier NOUN carrier%1:14:00::
+#17 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#18 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+At this time of crisis in our Nation 's commuter railroads , a new threat to the continued operations of the New York Central has appeared in the form of the Chesapeake + Ohio Railroad 's proposal for control of the Baltimore + Ohio railroads .
+8
+#2 time NOUN time%1:11:00::
+#13 new ADJ new%3:00:00::
+#14 threat NOUN threat%1:10:00::,threat%1:26:00::
+#18 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#25 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#28 form NOUN form%1:09:01::,form%1:10:00::
+#36 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#38 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+The New York Central has pointed out that this control , if approved by the Interstate Commerce Commission , would give the combined C.+O. - B.+O. Railroad a total of 185 points served in common with the New York Central .
+5
+#9 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#12 approve VERB approve%2:31:00::,approve%2:32:00::
+#20 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#31 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#32 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+Not only is this kind of duplication wasteful , but it gives the combined system the ability to take freight traffic away from the New York Central and other railroads serving the area .
+8
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#14 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#16 ability NOUN ability%1:09:00::
+#19 freight NOUN freight%1:04:00::
+#20 traffic NOUN traffic%1:14:00::
+#21 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#30 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#32 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The New York Central notes : " The freight traffic most susceptible to raiding by the C. + O. - B. + O. provides the backbone of Central 's revenues .
+7
+#4 note VERB note%2:32:00::,note%2:39:00::
+#8 freight NOUN freight%1:04:00::
+#9 traffic NOUN traffic%1:14:00::
+#10 most ADV most%4:02:00::
+#11 susceptible ADJ susceptible%5:00:00:impressionable:00
+#23 provide VERB provide%2:34:00::,provide%2:40:00::
+#25 backbone NOUN backbone%1:09:00::
+These revenues make it possible to provide essential freight and passenger service over the entire New York Central system as well as the New York area commuter and terminal freight services .
+6
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#18 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#25 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#28 terminal NOUN terminal%1:06:00::
+#30 service NOUN service%1:14:05::
+If these services are to be maintained , the New York Central must have the revenues to make them possible " .
+3
+#2 service NOUN service%1:14:05::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The New York Central today handles 60 percent of all southbound commuter traffic coming into New York City .
+2
+#5 handle VERB handle%2:41:00::,handle%2:41:03::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+This is a $ 14 million operation involving 3500 employees who work on commuter traffic exclusively .
+1
+#6 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+A blow to this phase of the Central 's operations would have serious economic consequences not only to the railroad itself , but to the 40000 people per day who are provided with efficient , reasonably priced transportation in and out of the city .
+11
+#1 blow NOUN blow%1:04:01::
+#4 phase NOUN phase%1:07:00::,phase%1:28:00::
+#9 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#14 consequence NOUN consequence%1:19:00::
+#26 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#28 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#31 provide VERB provide%2:34:00::,provide%2:40:00::
+#37 transportation NOUN transportation%1:04:00::
+#43 city NOUN city%1:15:00::,city%1:15:01::
+" There is a workable alternative to this potentially dangerous and harmful C. + O. - B. + O. merger scheme " -
+1
+#4 workable ADJ workable%5:00:00:possible:00
+" The logic of creating a strong , balanced , competitive two system railroad service in the East is so obvious that B. + O. was publicly committed to the approach outlined here .
+10
+#2 logic NOUN logic%1:09:00::
+#6 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#10 competitive ADJ competitive%3:00:00::
+#12 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#17 east NOUN east%1:15:02::
+#19 so ADV so%4:02:03::,so%4:02:07::
+#27 commit VERB commit%2:32:01::
+#30 approach NOUN approach%1:04:02::,approach%1:06:00::
+#31 outline VERB outline%2:32:00::
+#32 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Detailed studies of the plan were well underway .
+2
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#4 plan NOUN plan%1:06:00::,plan%1:09:01::
+Though far from completion , these studies indicated beyond a doubt that savings would result which would be of unprecedented benefit to the railroads concerned , their investors , their customers , their users , and to the public at large .
+7
+#6 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#7 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 saving NOUN saving%1:04:00::
+#20 benefit NOUN benefit%1:07:00::
+#23 railroad NOUN railroad%1:06:00::
+#30 customer NOUN customer%1:18:00::
+#33 user NOUN user%1:18:01::
+Then , abandoning the studies in the face of their promising outlook for all concerned , B. + O. entered on-again-off-again negotiations with C. + O. which resulted in the present situation .
+7
+#2 abandon VERB abandon%2:40:01::
+#4 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#11 outlook NOUN outlook%1:04:00::
+#19 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#30 present ADJ present%3:00:01::
+#31 situation NOUN situation%1:26:01::
+In the light of the facts at hand , however , New York Central intends to pursue the objective of helping to create a healthy two system eastern railroad structure in the public interest " .
+8
+#9 however ADV however%4:02:00::,however%4:02:02::
+#14 intend VERB intend%2:31:01::,intend%2:32:00::
+#16 pursue VERB pursue%2:38:00::
+#18 objective NOUN objective%1:09:00::
+#20 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#26 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#32 public ADJ public%3:00:00::,public%5:00:00:common:02
+#33 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+The Interstate Commerce Commission will commence its deliberations on the proposed C. + O. - B. + O. merger on June 18 .
+1
+#7 deliberation NOUN deliberation%1:09:01::
+Obviously , the Interstate Commerce Commission will not force the New York Central to further curtail its commuter operations by giving undue competitive advantages to the lines that wish to merge .
+5
+#7 not ADV not%4:02:00::
+#8 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+#14 further ADJ further%5:00:00:far:00
+#18 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#26 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+However , there is a more profound consideration to this proposed merger than profit and loss .
+3
+#0 however ADV however%4:02:04::
+#6 profound ADJ profound%3:00:00::
+#7 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+That is , will it serve the long-range public interest ?
+3
+#7 long-range ADJ long-range%5:00:00:long:02
+#8 public ADJ public%3:00:00::,public%5:00:00:common:02
+#9 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+For the past 40 years Congress has advocated a carefully planned , balanced and competitive railway system .
+3
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#5 congress NOUN congress%1:14:00::,congress%1:14:01::
+#14 competitive ADJ competitive%3:00:00::
+We must ask ourselves which of the two alternatives will help the commuter - the two-way B. + O. - C. + O. merger , or the three way New York Central B. + O. - C. + O. merger .
+2
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#10 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Which will serve not only the best interest of the stockholders , but the interests of all the traveling public ?
+3
+#2 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#6 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#14 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+Mr. Speaker , I rise today to pay tribute to a great newspaper , the New York Times , on the occasion of a major change in its top executive command .
+7
+#4 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#7 pay VERB pay%2:41:00::
+#8 tribute NOUN tribute%1:10:01::
+#11 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#21 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#24 major ADJ major%3:00:05::,major%3:00:06::
+#25 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+Arthur Hays Sulzberger has been a distinguished publisher of this distinguished newspaper and it is fitting that we take due notice of his major contribution to American journalism on the occasion of his retirement .
+5
+#15 fitting ADJ fitting%5:00:00:just:00
+#19 due ADJ due%3:00:02::
+#23 major ADJ major%3:00:05::,major%3:00:06::
+#30 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#33 retirement NOUN retirement%1:04:00::
+I am pleased to note that Mr. Sulzberger will continue to serve as chairman of the board of the New York Times .
+3
+#4 note VERB note%2:32:00::,note%2:39:00::
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#11 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+Mr. Sulzberger 's successor as publisher is Mr. Orvil E. Dryfoos , who is president of the New York Times Co. , and who has been with the Times since 1942 .
+1
+#14 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Mr. Dryfoos ' outstanding career as a journalist guarantees that the high standards which have made the Times one of the world 's great newspapers will be maintained .
+5
+#3 outstanding ADJ outstanding%5:00:00:superior:02
+#12 standard NOUN standard%1:09:00::,standard%1:21:00::
+#21 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#23 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#27 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+I am also pleased to note that Mr. John B. Oakes , a member of the Times staff since 1946 , has been appointed as editorial page editor .
+6
+#5 note VERB note%2:32:00::,note%2:39:00::
+#13 member NOUN member%1:18:00::,member%1:24:00::
+#17 staff NOUN staff%1:14:00::,staff%1:14:01::
+#23 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#26 page NOUN page%1:10:00::
+#27 editor NOUN editor%1:18:00::
+Mr. Oakes succeeds Charles Merz , editor since 1938 , who now becomes editor emeritus .
+5
+#2 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+#6 editor NOUN editor%1:18:00::
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 become VERB become%2:30:00::,become%2:42:01::
+#13 editor NOUN editor%1:18:00::
+I should like at this time , Mr. Speaker , to pay warm tribute to Arthur Hays Sulzberger and Charles Merz on the occasion of their retirement from distinguished careers in American journalism .
+6
+#5 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#11 pay VERB pay%2:41:00::
+#12 warm ADJ warm%3:00:02::,warm%5:00:00:excitable:00,warm%5:00:00:lively:00,warm%5:00:00:loving:00
+#13 tribute NOUN tribute%1:10:01::
+#23 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#26 retirement NOUN retirement%1:04:00::
+My heartiest congratulations go to their successors , Orvil E. Dryfoos and John B. Oakes , who can be counted upon to sustain the illustrious tradition of the New York Times .
+4
+#1 hearty ADJ hearty%5:00:00:warm:02
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#22 sustain VERB sustain%2:34:00::,sustain%2:35:00::,sustain%2:42:01::
+#25 tradition NOUN tradition%1:09:01::
+The people of the 17 th District of New York , and I as their Representative in Congress , take great pride in the New York Times as one of the great and authoritative newspapers of the world .
+7
+#1 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#15 representative NOUN representative%1:18:00::
+#17 congress NOUN congress%1:14:00::,congress%1:14:01::
+#20 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#31 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#33 authoritative ADJ authoritative%5:00:00:influential:00
+#37 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Mr. Speaker , in my latest newsletter to my constituents I urged the imposition of a naval blockade of Cuba as the only effective method of preventing continued Soviet armaments from coming into the Western Hemisphere in violation of the Monroe Doctrine .
+5
+#5 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+#9 constituent NOUN constituent%1:18:00::
+#23 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#26 prevent VERB prevent%2:41:00::
+#31 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Yesterday , I had the privilege of reading a thoughtful article in the U. S. News + World Report of May 8 which discussed this type of action in more detail , including both its advantages and its disadvantages .
+6
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#10 article NOUN article%1:10:00::
+#25 type NOUN type%1:18:00::
+#30 detail NOUN detail%1:10:00::,detail%1:24:00::
+#32 include VERB include%2:42:00::
+Under leave to extend my remarks , I include the relevant portion of my newsletter , together with the text of the article from the U. S. News + World Report :
+5
+#1 leave NOUN leave%1:10:00::
+#3 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#8 include VERB include%2:31:00::,include%2:41:03::
+#16 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#22 article NOUN article%1:10:00::
+Cuban S. S. R. : Whatever may have been the setbacks resulting from the unsuccessful attempt of the Cuban rebels to establish a beachhead on the Castro held mainland last week , there was at least one positive benefit , and that was the clear-cut revelation to the whole world of the complete conversion of Cuba into a Russian dominated military base .
+12
+#10 setback NOUN setback%1:11:01::
+#21 establish VERB establish%2:36:01::,establish%2:41:00::
+#29 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#37 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+#38 benefit NOUN benefit%1:07:00::
+#44 clear-cut ADJ clear-cut%5:00:00:clear:00
+#45 revelation NOUN revelation%1:10:02::
+#48 whole ADJ whole%3:00:00::
+#49 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#52 complete ADJ complete%5:00:00:skilled:00
+#53 conversion NOUN conversion%1:04:00::
+#61 base NOUN base%1:06:04::,base%1:09:00::
+In fact , one of the major reasons for the failure of the ill-starred expedition appears to have been a lack of full information on the extent to which Cuba has been getting this Russian military equipment .
+6
+#6 major ADJ major%3:00:05::,major%3:00:06::
+#7 reason NOUN reason%1:09:01::,reason%1:16:00::
+#10 failure NOUN failure%1:04:00::,failure%1:18:00::
+#14 expedition NOUN expedition%1:14:00::
+#15 appear VERB appear%2:30:00::
+#22 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+Somehow , the pictures and stories of Soviet T-34 tanks on Cuban beaches and Russian Mig jet fighters strafing rebel troops has brought home to all of us the stark , blunt truth of what it means to have a Russian military base 90 miles away from home .
+11
+#5 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#9 tank NOUN tank%1:06:01::
+#16 jet NOUN jet%1:06:00::
+#20 troop NOUN troop%1:14:00::
+#29 stark ADJ stark%5:00:00:inhospitable:00
+#31 blunt ADJ blunt%5:00:00:direct:02
+#36 mean VERB mean%2:31:05::,mean%2:42:00::
+#38 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#42 base NOUN base%1:06:04::,base%1:09:00::
+#45 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#47 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Russian tanks and planes in Cuba jeopardize the security of the United States , violate the Monroe Doctrine , and threaten the security of every other Latin American republic .
+5
+#1 tank NOUN tank%1:06:01::
+#3 plane NOUN plane%1:06:01::
+#8 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#22 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#25 other ADJ other%3:00:00::
+Once the full extent of this Russian military penetration of Cuba was clear , President Kennedy announced we would take whatever action was appropriate to prevent this , even if we had to go it alone .
+9
+#0 once CONJ once%4:02:02::
+#2 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#8 penetration NOUN penetration%1:04:03::
+#12 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#19 take VERB take%2:31:02::,take%2:34:00::
+#25 prevent VERB prevent%2:41:00::
+#31 have VERB have%2:42:08::
+#33 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#35 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+But the Latin American republics who have been rather inclined to drag their feet on taking action against Castro also reacted swiftly last week by finally throwing Cuba off the Inter-American Defense Board .
+5
+#8 rather ADV rather%4:02:00::,rather%4:02:04::
+#15 take VERB take%2:31:02::,take%2:34:00::
+#16 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#22 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#26 throw VERB throw%2:31:00::,throw%2:35:02::
+For years the United States had been trying to get these countries to exclude Castro 's representative from secret military talks .
+4
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#9 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#11 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#16 representative NOUN representative%1:18:00::
+But it took the pictures of the Migs and the T-34 tanks to do the job .
+3
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#11 tank NOUN tank%1:06:01::
+#15 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+There is a new atmosphere of urgency in Washington this week .
+2
+#3 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#8 Washington NOUN washington%1:15:01::
+You can see it , for example , in the extensive efforts President Kennedy has made to enlist solid bipartisan support for his actions toward both Cuba and Laos ; efforts , as I see it , which are being directed , by the way , toward support for future actions , not for those already past .
+11
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 extensive ADJ extensive%5:00:00:large:00
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#23 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#28 Lao NOUN lao%1:18:00::
+#34 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#40 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+#47 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#50 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#55 already ADV already%4:02:00::
+What the next move will be only time , of course , will tell .
+3
+#2 next ADJ next%5:00:00:close:01
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+Personally , I think we ought to set up an immediate naval blockade of Cuba .
+2
+#0 personally ADV personally%4:02:03::
+#3 think VERB think%2:31:01::,think%2:31:03::
+We simply can n't tolerate further Russian weapons , including the possibility of long-range nuclear missiles , being located in Cuba .
+5
+#1 simply ADV simply%4:02:00::,simply%4:02:02::
+#5 further ADJ further%5:00:00:far:00
+#9 include VERB include%2:42:00::
+#13 long-range ADJ long-range%5:00:00:long:01
+#14 nuclear ADJ nuclear%3:00:00::
+Obviously , we can n't stop them from coming in , however , just by talk .
+2
+#11 however ADV however%4:02:00::,however%4:02:02::
+#13 just ADV just%4:02:00::,just%4:02:03::
+A naval blockade would be thoroughly in line with the Monroe Doctrine , would be a relatively simple operation to carry out , and would bring an abrupt end to Soviet penetration of our hemisphere " .
+6
+#5 thoroughly ADV thoroughly%4:02:01::
+#17 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#18 operation NOUN operation%1:04:03::
+#27 abrupt ADJ abrupt%5:00:00:sudden:00
+#28 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#31 penetration NOUN penetration%1:04:03::
+Look at Castro now - cockier than ever with arms and agents to threaten the Americas .
+4
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 ever ADV ever%4:02:05::
+#9 arms NOUN arms%1:06:00::
+#11 agent NOUN agent%1:18:02::,agent%1:18:03::
+How can the United States act ?
+1
+#5 act VERB act%2:33:00::,act%2:41:00::
+In it they see a way to isolate Cuba , stop infiltration , maybe finish Castro , too .
+2
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#17 too ADV too%4:02:01::
+This is the question now facing President Kennedy :
+2
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 face VERB face%2:32:00::,face%2:32:03::
+How to put a stop to the Soviet buildup in Cuba and to Communist infiltration of this hemisphere ?
+2
+#2 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#4 stop NOUN stop%1:10:01::
+On April 25 , the White House reported that a total embargo of remaining U. S. trade with Cuba was being considered .
+3
+#7 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#10 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#13 remaining ADJ remaining%5:00:00:unexhausted:00
+Its aim : To undermine further Cuba 's economy .
+4
+#1 aim NOUN aim%1:09:00::
+#4 undermine VERB undermine%2:41:00::
+#5 further ADV further%4:02:02::,further%4:02:03::
+#8 economy NOUN economy%1:14:00::
+Another strategy - bolder and tougher - was also attracting notice in Washington : a naval and air blockade to cut Cuba off from the world , destroy Castro .
+4
+#3 bold ADJ bold%3:00:00::
+#10 notice NOUN notice%1:09:00::
+#12 Washington NOUN washington%1:15:01::
+#25 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Blockade , in the view of military and civilian experts , could restore teeth to the Monroe Doctrine .
+2
+#4 view NOUN view%1:09:04::
+#13 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+It could halt a flood of Communist arms and strategic supplies now reaching Castro .
+5
+#2 halt VERB halt%2:38:01::
+#4 flood NOUN flood%1:04:01::
+#7 arms NOUN arms%1:06:00::
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+It could stop Cuban re export of guns and propaganda materials to South America .
+3
+#2 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+#9 propaganda NOUN propaganda%1:10:00::
+#10 material NOUN material%1:06:01::,material%1:10:00::
+It would be the most severe reprisal , short of declared war , that the United States could invoke against Castro .
+2
+#4 most ADV most%4:02:00::
+#5 severe ADJ severe%5:00:01:bad:00
+It is the strategy of blockade , therefore , that is suddenly at the center of attention of administration officials , Members of Congress , officers in the Pentagon .
+6
+#16 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#18 administration NOUN administration%1:04:04::
+#21 member NOUN member%1:18:00::,member%1:24:00::
+#23 congress NOUN congress%1:14:00::,congress%1:14:01::
+#25 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#28 pentagon NOUN pentagon%1:06:00::
+As a possible course of action , it also is the center of debate and is raising many questions .
+3
+#3 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#16 raise VERB raise%2:32:01::,raise%2:37:08::
+Military experts say a tight naval blockade off Cuban ports and at the approaches to Cuban waters would require two naval task forces , each built around an aircraft carrier with a complement of about 100 planes and several destroyers .
+6
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 tight ADJ tight%5:00:00:invulnerable:00
+#9 port NOUN port%1:06:00::
+#16 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#32 complement NOUN complement%1:14:00::,complement%1:23:00::
+#36 plane NOUN plane%1:06:01::
+The Navy , on April 25 , announced it is bringing back the carrier Shangri-La from the Mediterranean , increasing to four the number of attack carriers in the vicinity of Cuba .
+3
+#13 carrier NOUN carrier%1:14:00::
+#17 Mediterranean NOUN mediterranean%1:17:00::
+#23 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+More than 36 other big Navy ships are no less than a day 's sailing time away .
+7
+#3 other ADJ other%5:00:02:past:00
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#5 navy NOUN navy%1:14:00::
+#8 no ADV no%4:02:01::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#15 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#16 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+To round out the blockading force , submarines would be needed - to locate , identify and track approaching vessels .
+5
+#5 force NOUN force%1:14:01::,force%1:14:02::
+#10 need VERB need%2:42:00::
+#15 identify VERB identify%2:31:00::,identify%2:32:00::
+#17 track VERB track%2:38:00::
+#19 vessel NOUN vessel%1:06:00::
+Land based radar would help with this task .
+1
+#4 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+A squadron of Navy jets and another of long-range patrol planes would add support to the carrier task forces .
+6
+#4 jet NOUN jet%1:06:00::
+#8 long-range ADJ long-range%5:00:00:long:01
+#10 plane NOUN plane%1:06:01::
+#12 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#13 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#16 carrier NOUN carrier%1:14:00::
+Three requirements go with a blockade : It must be proclaimed ; the blockading force must be powerful enough to enforce it ; and it must be enforced without discrimination .
+2
+#14 force NOUN force%1:14:01::,force%1:14:02::
+#29 discrimination NOUN discrimination%1:04:00::
+Once these conditions of international law are met , countries that try to run to blockade do so at their own risk .
+7
+#0 once CONJ once%4:02:02::
+#2 condition NOUN condition%1:10:01::,condition%1:26:00::
+#7 meet VERB meet%2:41:02::,meet%2:42:01::
+#9 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#17 so ADV so%4:02:04::
+#20 own ADJ own%5:00:00:personal:00
+Blockade runners can be stopped - by gunfire , if necessary - searched and held , at least temporarily .
+3
+#4 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+#10 necessary ADJ necessary%3:00:00::
+#14 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+They could be sent to U. S. ports for rulings whether cargo should be confiscated .
+2
+#3 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#7 port NOUN port%1:06:00::
+Plenty , say the experts .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In a broad sense , it would reaffirm the Monroe Doctrine by opposing Communist interference in the Western Hemisphere .
+3
+#2 broad ADJ broad%5:00:00:broad-minded:00,broad%5:00:00:clear:00,broad%5:00:00:high:02,broad%5:00:00:noticeable:00
+#3 sense NOUN sense%1:10:00::
+#14 interference NOUN interference%1:06:00::
+It could , by avoiding direct intervention , provide a short-of war strategy to meet short-of war infiltration .
+4
+#4 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#5 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 meet VERB meet%2:41:02::,meet%2:42:01::
+Primary target would be shipments of tanks , guns , aviation gasoline and ammunition coming from Russia and Czechoslovakia .
+4
+#1 target NOUN target%1:06:00::
+#6 tank NOUN tank%1:06:01::
+#13 ammunition NOUN ammunition%1:06:00::
+#14 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Shipments of arms from Western countries could similarly be seized as contraband .
+4
+#2 arms NOUN arms%1:06:00::
+#4 western ADJ western%3:00:01::
+#5 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#9 seize VERB seize%2:31:00::,seize%2:31:04::,seize%2:40:01::,seize%2:40:02::
+In a total blockade , action could also be taken against ships bringing in chemicals , oils , textiles , and even foodstuffs .
+5
+#2 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#9 take VERB take%2:31:02::,take%2:34:00::
+#16 oil NOUN oil%1:27:00::
+#18 textile NOUN textile%1:06:00::
+At times , three ships a day from the Soviet bloc are unloading in Cuban ports .
+3
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 unload VERB unload%2:35:00::
+#15 port NOUN port%1:06:00::

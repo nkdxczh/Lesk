@@ -1,0 +1,828 @@
+ She was carrying a quirt , and she started to raise it , then let it fall again and dangle from her wrist .
+6
+#2 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#10 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#13 then ADV then%4:02:00::
+#14 let VERB let%2:30:01::,let%2:41:00::
+#16 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#22 wrist NOUN wrist%1:08:00::
+" I saw your fire " , she said , speaking slowly , making an effort to control her anger .
+6
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+" You could burn down this whole mountainside with a fire that size .
+3
+#6 whole ADJ whole%3:00:00::
+#10 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#12 size NOUN size%1:07:00::,size%1:07:02::
+It would n't matter to a fool like you .
+1
+#6 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+" All right " , Wilson said quickly .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" The fire 's too big .
+3
+#2 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#4 too ADV too%4:02:00::
+#5 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+And I appreciate the advice " .
+1
+#2 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+He was losing patience again .
+2
+#2 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#3 patience NOUN patience%1:07:00::
+An hour before , with the children asleep and nothing but the strange darkness , he would have appreciated company .
+6
+#1 hour NOUN hour%1:07:00::,hours%1:28:01::
+#2 before ADV before%4:02:03::
+#12 strange ADJ strange%3:00:00::
+#13 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#18 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+#19 company NOUN company%1:14:00::,company%1:18:00::,company%1:26:00::
+She had helped him change his mind .
+2
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#4 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+" I'm not advising you " , she said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I'm telling you .
+1
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+That fire 's too big .
+3
+#1 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#3 too ADV too%4:02:00::
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+Let it burn down .
+1
+#0 let VERB let%2:32:00::
+And make sure it 's out when you leave in the morning " .
+2
+#8 leave VERB leave%2:38:00::,leave%2:41:00::
+#11 morning NOUN morning%1:28:00::,morning%1:28:01::
+It took him a long time to compose himself .
+2
+#1 take VERB take%2:40:06::,take%2:42:03::
+#7 compose VERB compose%2:31:00::,compose%2:37:00::
+" There 's some mistake " , he said finally .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You 're right about the fire .
+2
+#3 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+#6 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+It 's bigger than it has to be , though I do n't see where it 's doing any harm .
+2
+#2 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#13 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+But you 're wrong about the rest of it .
+2
+#3 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#6 rest NOUN rest%1:24:00::
+I'm not leaving in the morning .
+2
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 morning NOUN morning%1:28:00::,morning%1:28:01::
+I own the place " .
+2
+#1 own VERB owned%3:00:00::
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+She showed her surprise by tightening the reins and moving the gelding around so that she could get a better look at his face .
+5
+#1 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#3 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#19 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#20 look NOUN look%1:04:00::,look%1:07:01::
+#23 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+It did n't seem to tell her anything .
+1
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+She glanced around the clearing , taking in the wagon and the load of supplies and trappings scattered over the ground , the two kids , the whiteface bull that was chewing its cud just within the far reaches of the firelight .
+6
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#12 load NOUN load%1:06:02::
+#20 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#24 kid NOUN kid%1:18:00::
+#27 whiteface NOUN whiteface%1:05:00::
+#28 bull NOUN bull%1:05:01::
+She studied it for a long time .
+1
+#1 study VERB study%2:31:00::
+Then she turned back to Wilson and smiled , and he was n't quite sure what she meant by it .
+3
+#0 then ADV then%4:02:00::
+#13 quite ADV quite%4:02:02::
+#17 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+" You own this place " ? she said , and her tone had softened until it was almost friendly .
+4
+#2 own VERB owned%3:00:00::
+#4 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+" You bought it " ?
+1
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+" From a man in St. Louis " , Wilson said .
+2
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Maybe you know him " .
+1
+#2 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+The girl laughed .
+1
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+" I know him .
+1
+#2 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+My father ran him off here six years ago " .
+3
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 year NOUN year%1:28:00::,year%1:28:01::
+Wilson did n't say anything .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He stood watching the girl , wondering what was coming next .
+3
+#2 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#4 girl NOUN girl%1:18:01::,girl%1:18:03::
+#6 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+She had picked up the quirt and was twirling it around her wrist and smiling at him .
+1
+#12 wrist NOUN wrist%1:08:00::
+" Carwood did n't tell you that " , she said .
+2
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" No " , Wilson said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It 's not the kind of thing that a man would be proud of .
+2
+#2 not ADV not%4:02:00::
+#12 proud ADJ proud%3:00:00::
+He sold me a clear title .
+2
+#1 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#4 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+I have it with me , right here .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+If you want to see " -
+2
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" Never mind " , she said sternly .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" It would n't matter to my father , and not to me .
+2
+#7 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#10 not ADV not%4:02:00::
+I meant what I said about that fire .
+3
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+Be sure it 's out when you leave .
+1
+#7 leave VERB leave%2:38:00::,leave%2:41:00::
+I 'll let you go back to doing the dishes now " .
+3
+#2 let VERB let%2:30:01::,let%2:41:00::
+#9 dish NOUN dish%1:06:00::
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+It was meant to insult him , and did n't quite succeed .
+3
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#10 quite ADV quite%4:02:02::
+#11 succeed VERB succeed%2:41:00::
+He took the reins just below the bit and held them firmly , and it was his turn to smile now .
+6
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#4 just ADV just%4:02:04::
+#7 bit NOUN bit%1:06:01::
+#9 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#17 turn NOUN turn%1:04:06::,turn%1:10:00::
+#20 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+" I do n't mind washing dishes now and then " , he said pleasantly .
+3
+#5 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#6 dish NOUN dish%1:06:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He meant to say more , but he never got the chance .
+4
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 never ADV never%4:02:00::
+#9 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+She was quick .
+1
+#2 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+She brought the quirt down , slashing it across his cheek , and he tried to step back .
+4
+#10 cheek NOUN cheek%1:08:00::
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#17 back VERB back%2:30:03::,back%2:38:00::,back%2:38:01::
+She swung the quirt again , and this time he caught her wrist and pulled her out of the saddle .
+5
+#1 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#8 time NOUN time%1:11:00::
+#10 catch VERB catch%2:35:00::
+#12 wrist NOUN wrist%1:08:00::
+#19 saddle NOUN saddle%1:06:00::
+She came down against him , and he tried to break her fall .
+3
+#8 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#12 fall NOUN fall%1:04:01::,fall%1:11:00::,fall%1:11:02::,fall%1:17:00::
+He grabbed her by the shoulders and went down on one knee , taking her weight so that some of the wind was driven out of him .
+4
+#1 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#5 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#15 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#23 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+It made him a little sick , and he let go of her .
+1
+#5 sick ADJ sick%5:00:02:ill:01
+He got up slowly , and she was already on her feet , and he stood facing her .
+2
+#8 already ADV already%4:02:00::
+#16 face VERB face%2:38:00::,face%2:42:00::
+He wiped the blood from his cheek .
+3
+#1 wipe VERB wipe%2:35:00::
+#3 blood NOUN blood%1:04:00::,blood%1:08:00::
+#6 cheek NOUN cheek%1:08:00::
+" I ought to " - he said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He was shaking with anger , his breath coming in long , painful gasps .
+2
+#2 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#8 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+" That quirt - I ought to use it on you , where it would do the most good .
+2
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 good NOUN good%1:07:00::
+If you were a man " -
+1
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+" She is n't , mister " .
+1
+#5 mister NOUN mister%1:18:00::
+The voice came from behind him , and Wilson turned .
+2
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#9 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+The fire had gone down , and the man was only a shadow against the trees .
+5
+#1 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#12 shadow NOUN shadow%1:15:00::
+#15 tree NOUN tree%1:20:00::
+But a moment later he brought his horse forward into the light , and Wilson had a good look at him .
+8
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#7 horse NOUN horse%1:05:00::,horse%1:14:00::
+#8 forward ADV forward%4:02:00::,forward%4:02:04::
+#11 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#15 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#17 good ADJ good%5:00:00:complete:00
+#18 look NOUN look%1:04:00::,look%1:07:01::
+He was tall and dark-skinned , a half-breed , Wilson thought .
+1
+#2 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+And he was handsome , despite the long thin scar that slanted across his cheek .
+5
+#3 handsome ADJ handsome%5:00:00:beautiful:00
+#7 long ADJ long%3:00:01::
+#8 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#9 scar NOUN scar%1:26:00::
+#14 cheek NOUN cheek%1:08:00::
+" She 's not a man , mister " , he said .
+3
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 mister NOUN mister%1:18:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+If you 've got any ideas " .
+1
+#5 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+He raised the Winchester and pointed it at Wilson 's chest .
+3
+#1 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#5 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#10 chest NOUN chest%1:08:00::,chest%1:08:01::
+" Put the rifle down , Joseph " , the girl said .
+2
+#10 girl NOUN girl%1:18:01::,girl%1:18:03::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I thought I told you to stay home " .
+2
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+The half-breed eased the Winchester down and rested it across his lap .
+4
+#2 ease VERB ease%2:38:00::
+#5 down ADV down%4:02:00::,down%4:02:02::
+#7 rest VERB rest%2:30:00::,rest%2:35:04::,rest%2:42:00::,rest%2:42:12::
+#11 lap NOUN lap%1:26:00::
+The scar looked pure white in the half darkness ; his eyes were black and deep-set , and expressionless .
+6
+#1 scar NOUN scar%1:26:00::
+#2 look VERB look%2:39:01::,look%2:42:02::
+#4 white NOUN white%1:06:03::
+#8 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#11 eye NOUN eye%1:08:00::,eye%1:09:01::
+#13 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+" You should n't be riding up here after dark , Judith " , he said quietly .
+3
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#9 dark NOUN dark%1:26:00::,dark%1:28:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It 's no job for you " .
+1
+#3 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+The girl tapped the quirt impatiently against her knee and glared at him .
+3
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#2 tap VERB tap%2:39:01::
+#10 glare VERB glare%2:29:00::
+He took it without flinching .
+1
+#1 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+" I said go home , Joseph .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You 've got no business up here " .
+1
+#4 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+The half-breed did n't answer this time .
+2
+#4 answer VERB answer%2:31:00::,answer%2:32:00::
+#6 time NOUN time%1:11:00::
+But the scar seemed to pull hard at the corner of his mouth , and his eyes were hurt and angry .
+6
+#2 scar NOUN scar%1:26:00::
+#5 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#6 hard ADV hard%4:02:00::
+#9 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#12 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#16 eye NOUN eye%1:08:00::,eye%1:09:01::
+It made Wilson wonder .
+1
+#3 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+He watched the half-breed as he turned silently .
+2
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#6 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+They could hear the pony 's feet on the dry leaves for a while , then the sound faded out .
+6
+#4 pony NOUN pony%1:05:01::
+#6 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#9 dry ADJ dry%3:00:01::
+#10 leaf NOUN leaf%1:20:00::
+#15 then ADV then%4:02:00::
+#17 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+Wilson brushed the dust from his coat .
+3
+#1 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#3 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#6 coat NOUN coat%1:06:00::
+" Who was that " ? he asked .
+1
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+" Your personal guard ?
+2
+#2 personal ADJ personal%5:00:00:subjective:00
+#3 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+You 're pretty hard on him " .
+1
+#3 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+" He works for my father " , the girl said , and then seemed to change her mind .
+5
+#2 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#5 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#9 girl NOUN girl%1:18:01::,girl%1:18:03::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+" He 's a friend .
+1
+#4 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+Is there anything else you want to know " ?
+2
+#5 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Not now " , Wilson said .
+3
+#1 not ADV not%4:02:00::
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You 've got blood on your cheek .
+2
+#3 blood NOUN blood%1:04:00::,blood%1:08:00::
+#6 cheek NOUN cheek%1:08:00::
+Not yours .
+1
+#0 not ADV not%4:02:00::
+It must have got there when you fell against me " .
+2
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#7 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+She wiped it off with the sleeve of her coat .
+1
+#9 coat NOUN coat%1:06:00::
+" I 'll bet that 's as close as you 've been to a man since you were a baby " , Wilson said .
+4
+#3 bet VERB bet%2:31:00::
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 baby NOUN baby%1:05:00::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He saw her hand start to work down the leather thong toward the handle of the quirt , and he grabbed her wrist .
+9
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+#4 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#6 work VERB work%2:38:00::
+#7 down ADV down%4:02:00::,down%4:02:02::
+#10 thong NOUN thong%1:06:00::
+#13 handle NOUN handle%1:06:00::
+#20 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#22 wrist NOUN wrist%1:08:00::
+" Oh , no " , he said , and he was without humor now .
+3
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 humor NOUN humor%1:07:01::
+#14 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+" I 've had enough of that .
+1
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+I 've had enough of you .
+1
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+I do n't know what goes on around here , and I do n't care .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#14 care VERB care%2:37:00::,care%2:37:12::
+I do n't know what makes you think you can get away with this kind of business , and I do n't care about that , either .
+4
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 think VERB think%2:31:01::,think%2:31:03::
+#22 care VERB care%2:37:00::,care%2:37:12::
+#26 either ADV either%4:02:00::
+You took me by surprise .
+2
+#1 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#4 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+But I 'll know how to handle you next time " .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 handle VERB handle%2:41:00::,handle%2:41:03::
+#9 time NOUN time%1:11:00::
+She brought up her free hand to hit him , but this time he was quicker .
+4
+#4 free ADJ free%3:00:00::,free%3:00:02::
+#5 hand NOUN hand%1:08:00::,hand%1:10:01::
+#7 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#12 time NOUN time%1:11:00::
+He side-stepped her blow and she fell , stumbling against the gelding .
+2
+#3 blow NOUN blow%1:04:01::
+#6 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+She finally regained her balance and got up in the saddle .
+2
+#4 balance NOUN balance%1:26:00::
+#10 saddle NOUN saddle%1:06:00::
+Her hat had come off and fallen behind her shoulders , held by the string , and he could see her face more clearly than he had at any time before .
+9
+#6 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#7 behind ADV behind%4:02:00::
+#9 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#14 string NOUN string%1:06:03::
+#19 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#21 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#22 more ADV more%4:02:00::
+#29 time NOUN time%1:11:00::
+#30 before ADV before%4:02:03::
+He had forgotten that she was so pretty .
+1
+#6 so ADV so%4:02:03::,so%4:02:07::
+But her prettiness was what he had noticed first , and all the other things had come afterward :
+2
+#14 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#16 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+cruelty , meanness , self-will .
+1
+#2 meanness NOUN meanness%1:07:00::
+He had known women like that , one woman in particular .
+1
+#2 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+And one had been too many .
+1
+#4 too ADV too%4:02:00::
+He watched the girl until she had gone into the trees , and waited until he could n't hear the sound of her horse any longer , then went up to where the children were sleeping .
+8
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 girl NOUN girl%1:18:01::,girl%1:18:03::
+#10 tree NOUN tree%1:20:00::
+#13 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#20 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#23 horse NOUN horse%1:05:00::,horse%1:14:00::
+#27 then ADV then%4:02:00::
+#35 sleep VERB sleep%2:29:00::
+They were n't sleeping , of course , but they thought they were doing him a favor by pretending .
+3
+#3 sleep VERB sleep%2:29:00::
+#16 favor NOUN favor%1:04:00::
+#18 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+He had n't shown up too well in their eyes , letting himself be browbeaten by a woman .
+4
+#5 too ADV too%4:02:00::
+#6 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#9 eye NOUN eye%1:08:00::,eye%1:09:01::
+#11 let VERB let%2:30:01::,let%2:41:00::
+They expected greater things from him , regardless of how trying the circumstances , and they were disappointed .
+2
+#3 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#12 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+And determined not to show it .
+2
+#2 not ADV not%4:02:00::
+#4 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+They lay a little too stiffly , with their eyes straining to stay closed .
+3
+#4 too ADV too%4:02:00::
+#9 eye NOUN eye%1:08:00::,eye%1:09:01::
+#13 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+" Go to sleep " , he said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+There 's better things to do than listen to something like that .
+2
+#2 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#3 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+I 'll be down at the creek finishing the dishes , if you want me " .
+4
+#3 down ADV down%4:02:00::,down%4:02:02::
+#7 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#9 dish NOUN dish%1:06:00::
+#13 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+He found the pan where he had dropped it and carried it back down to the stream .
+6
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#7 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#10 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#12 back ADV back%4:02:01::,back%4:02:04::
+#13 down ADV down%4:02:00::,down%4:02:02::
+#16 stream NOUN stream%1:17:00::
+The coyote was calling again , and he hoped that this time there would be no other sounds to interrupt it .
+5
+#1 coyote NOUN coyote%1:05:00::
+#3 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#11 time NOUN time%1:11:00::
+#17 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#19 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+He had a feeling that the girl meant trouble .
+4
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 feeling NOUN feeling%1:09:03::
+#6 girl NOUN girl%1:18:01::,girl%1:18:03::
+#8 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+If she did , he could stand it better in the light .
+3
+#6 stand VERB stand%2:42:00::,stand%2:42:02::
+#8 better ADV better%4:02:00::
+#11 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+He scrubbed absent-mindedly at the pans and reflected on how things had turned out .
+2
+#7 reflect VERB reflect%2:31:00::
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+That afternoon when they had pulled up in front of the broken-down ranch house , his hopes had been high .
+1
+#16 hope NOUN hope%1:09:00::,hope%1:18:00::
+Already some of the pain had gone from Amelia 's death .
+3
+#0 already ADV already%4:02:00::
+#4 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#6 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+There would still be plenty of moments of regret and sadness and guilty relief .
+3
+#2 still ADV still%4:02:00::
+#6 moment NOUN moment%1:28:00::,moment%1:28:01::
+#13 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+But they were starting a new life .
+2
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#5 new ADJ new%3:00:00::,new%5:00:00:original:00
+And they had almost everything they needed : land , a house , two whiteface bulls , three horses .
+6
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#14 whiteface NOUN whiteface%1:05:00::
+#15 bull NOUN bull%1:05:01::
+#18 horse NOUN horse%1:05:00::,horse%1:14:00::
+The land was n't all Wilson had expected of it .
+1
+#1 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+Six hundred and forty acres , the old man back in St. Louis had said ; good grass , good water .
+6
+#9 back ADV back%4:02:01::,back%4:02:04::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 good ADJ best%3:00:00::,good%3:00:01::
+#17 grass NOUN grass%1:20:00::
+#19 good ADJ best%3:00:00::,good%3:00:01::
+#20 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Well , the grass was there , though in some places the ground was too steep for a cow to get to it .
+6
+#3 grass NOUN grass%1:20:00::
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#10 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#12 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#14 too ADV too%4:02:00::
+#15 steep ADJ steep%5:00:00:high:01
+The water was there , so much of it that it spread all through the dead orchard .
+5
+#1 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#3 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#11 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#15 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+And there was a house ; livable perhaps , but badly in need of repairs .
+3
+#4 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#10 badly ADV badly%4:02:02::
+#14 repair NOUN repair%1:04:00::
+In the last analysis , though , Wilson had little cause to complain .
+2
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+The place had been cheap - just the little he had left after Amelia 's burial - and it would serve its purpose .
+4
+#1 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#6 just ADV just%4:02:00::,just%4:02:03::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+There was only one place where Jake Carwood 's description had gone badly awry : the peace and quiet .
+4
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 description NOUN description%1:10:00::,description%1:10:01::
+#12 badly ADV badly%4:02:02::
+#16 peace NOUN peace%1:12:00::,peace%1:26:00::
+And he had a feeling - thanks to the girl - that things would get worse before they got better .
+8
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 feeling NOUN feeling%1:09:03::
+#9 girl NOUN girl%1:18:01::,girl%1:18:03::
+#12 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#15 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#18 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#19 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+They had the house cleaned up by noon , and Wilson sent the boy out to the meadow to bring in the horses .
+5
+#3 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#11 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#13 boy NOUN boy%1:18:03::
+#14 out ADV out%4:02:04::
+#22 horse NOUN horse%1:05:00::,horse%1:14:00::
+He stood on the porch and watched him struggling with the heavy harness , and finally went over to help him .
+4
+#6 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#19 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Kathy was already in the wagon .
+1
+#2 already ADV already%4:02:00::
+They were going to town , and they were both excited .
+1
+#10 excited ADJ excited%5:00:00:reactive:00
+Wilson backed the team into the traces , and wished they were n't going to town at all .
+2
+#1 back VERB back%2:30:03::,back%2:38:00::,back%2:38:01::
+#6 trace NOUN trace%1:06:01::
+He had an uneasy feeling about it .
+2
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 feeling NOUN feeling%1:09:03::
+That girl last night , what was her name ?
+3
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#2 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#8 name NOUN name%1:14:00::
+It was the only thing about her that was the least bit hard to remember .
+2
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#12 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+He finished with the team and filled his pipe and stood looking about him .
+3
+#1 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#8 pipe NOUN pipe%1:06:01::
+#11 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+He had spent two hours riding around the ranch that morning , and in broad daylight it was even less inviting than Judith Pierce had made it seem .
+7
+#4 hour NOUN hour%1:07:00::,hours%1:28:01::
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#8 ranch NOUN ranch%1:06:00::
+#10 morning NOUN morning%1:28:00::,morning%1:28:01::
+#15 daylight NOUN daylight%1:19:00::
+#19 less ADV less%4:02:00::,less%4:02:01::
+#25 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+There was brush , and stands of pine that no grass could grow under , and places so steep that cattle would n't stop to graze .
+11
+#2 brush NOUN brush%1:14:00::
+#5 stand NOUN stand%1:14:00::
+#7 pine NOUN pine%1:20:00::
+#10 grass NOUN grass%1:20:00::
+#12 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#16 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#17 so ADV so%4:02:03::,so%4:02:07::
+#18 steep ADJ steep%5:00:00:high:01
+#20 cattle NOUN cattle%1:05:00::
+#23 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#25 graze VERB graze%2:35:10::
+But there was water .
+1
+#3 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+There was an artificial lake just out of sight in the first stand of trees , fed by a half dozen springs that popped out of the ground above the hillside orchard .
+7
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#12 stand NOUN stand%1:14:00::
+#14 tree NOUN tree%1:20:00::
+#16 feed VERB feed%2:30:01::,feed%2:34:03::,feed%2:38:04::
+#20 dozen NOUN dozen%1:23:00::
+#21 spring NOUN spring%1:17:00::
+#27 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+Yes , there was plenty of water , too much , and that was probably the trouble .
+2
+#6 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#16 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+There were tracks of cattle all over his six hundred and forty acres .
+2
+#2 track NOUN track%1:17:00::
+#4 cattle NOUN cattle%1:05:00::
+The first part of the road was steep , but it leveled off after the second bend and curled gradually into the valley .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#5 road NOUN road%1:04:00::,road%1:06:00::
+#7 steep ADJ steep%5:00:00:high:01
+#16 bend NOUN bend%1:25:02::
+#18 curl VERB curl%2:35:01::
+It was hotter once they reached the flat , and drier , but the grass was better .
+7
+#2 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#3 once CONJ once%4:02:02::
+#5 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#7 flat NOUN flats%1:06:00::
+#10 dry ADJ dry%3:00:01::
+#14 grass NOUN grass%1:20:00::
+#16 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+A warm breeze played across it , moving it like waves .
+5
+#1 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#2 breeze NOUN breeze%1:19:00::
+#3 play VERB play%2:35:07::,play%2:38:00::
+#7 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#10 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+A red-tailed hawk flew in behind them and stayed there , watching for any snakes or rabbits that they might stir up from the side of the road .
+7
+#3 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#8 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#11 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#14 snake NOUN snake%1:05:00::
+#16 rabbit NOUN rabbit%1:13:00::
+#24 side NOUN side%1:15:01::,side%1:15:02::
+#27 road NOUN road%1:04:00::,road%1:06:00::
+It took them an hour before they came to the first houses of Kelseyville .
+5
+#1 take VERB take%2:40:06::,take%2:42:03::
+#4 hour NOUN hour%1:07:00::,hours%1:28:01::
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#10 first ADJ first%3:00:00::,first%4:02:00::
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+The town was about what Wilson expected : one main street with its rows of false-fronted buildings , a water tower , a few warehouses , a single hotel ; all dusty and sunbaked .
+5
+#3 about ADV about%4:02:00::
+#13 row NOUN row%1:14:00::
+#16 building NOUN building%1:06:00::
+#27 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#28 hotel NOUN hotel%1:06:00::
+The place was quiet .
+2
+#1 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#3 quiet ADJ quiet%3:00:01::,quiet%3:00:02::

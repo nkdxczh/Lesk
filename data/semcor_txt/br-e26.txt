@@ -1,0 +1,592 @@
+ Oersted 's boyhood represented a minimal chance of either attaining greatness or serving his people so well and over so long a span of life .
+8
+#5 minimal ADJ minimal%3:00:00::
+#12 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#15 so ADV so%4:02:03::,so%4:02:07::
+#16 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#19 so ADV so%4:02:03::,so%4:02:07::
+#20 long ADJ long%3:00:02::
+#22 span NOUN span%1:07:00::
+He was born in the small Danish town of Rudkoebing on the island of Langeland in the south central part of Denmark on August 14 , 1777 .
+2
+#12 island NOUN island%1:06:00::
+#19 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+His father Soeren was the village apothecary whose slender income made it difficult to feed his family , let alone educate them in a town without even a school .
+6
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#8 slender ADJ slender%5:00:00:small:00
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#16 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#28 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The two older boys , Hans and Anders , his junior by a year , therefore went daily to the home of a warm and friendly wigmaker nearby for instruction in German ; his wife taught the two boys to read and write Danish .
+10
+#3 boy NOUN boy%1:18:03::
+#10 junior NOUN junior%1:18:00::
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#20 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#23 warm ADJ warm%3:00:02::,warm%5:00:00:excitable:00,warm%5:00:00:lively:00,warm%5:00:00:loving:00
+#29 instruction NOUN instruction%1:04:01::
+#31 German NOUN german%1:10:00::
+#38 boy NOUN boy%1:18:03::
+#42 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#43 Danish NOUN danish%1:10:00::
+Other brothers later joined them for instruction with Oldenburg , the wigmaker , and also arithmetic was added to Bible reading , German , and Danish in the informal curriculum .
+8
+#0 other ADJ other%3:00:00::
+#1 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#6 instruction NOUN instruction%1:04:01::
+#17 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#20 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#22 German NOUN german%1:10:00::
+#25 Danish NOUN danish%1:10:00::
+Oldenburg 's contributions were soon exhausted and the boys had to turn to a wider circle of the town 's learned , such as the pastor , to supplement the simple teaching .
+5
+#4 soon ADV soon%4:02:00::
+#5 exhaust VERB exhaust%2:34:00::
+#8 boy NOUN boy%1:18:03::
+#15 circle NOUN circle%1:14:00::
+#30 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+From the town surveyor , Hans learned drawing and mathematics and , from a university student , some academic subjects .
+4
+#6 learn VERB learn%2:31:01::,learn%2:31:03::
+#7 drawing NOUN drawing%1:04:01::
+#18 academic ADJ academic%3:01:00::
+#19 subject NOUN subject%1:09:00::
+The mayor of the town taught them English and French .
+2
+#7 English NOUN english%1:09:00::
+#9 French NOUN french%1:10:00::
+Whatever Hans or Anders learned separately they passed on to each other ; they read every book that they could borrow in the village .
+3
+#4 learn VERB learn%2:31:01::,learn%2:31:03::
+#14 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#16 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science .
+7
+#6 mature ADJ mature%5:00:00:developed:00
+#8 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#10 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#14 shop NOUN shop%1:06:00::
+#17 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#20 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#22 medicine NOUN medicine%1:04:00::
+His earlier love for literature and history remained with him for his entire life .
+3
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#2 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#6 history NOUN history%1:28:00::
+In 1793 the brothers decided to enter the University of Copenhagen ( founded in 1479 ) and the following spring found them at the university preparing to matriculate for the autumn session .
+8
+#3 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#6 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#12 found VERB found%2:41:00::
+#18 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#19 spring NOUN spring%1:28:00::
+#25 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#27 matriculate VERB matriculate%2:41:00::
+#31 session NOUN session%1:04:00::,session%1:28:00::
+While Hans devoted himself to the sciences of medicine , physics , and astronomy , his brother studied law .
+6
+#2 devote VERB devote%2:31:00::
+#8 medicine NOUN medicine%1:04:00::
+#10 physics NOUN physics%1:09:00::
+#16 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#17 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+The brothers continued to help each other during their studies , sharing a joint purse , lodging together in the dormitory and dining together at the home of their aunt .
+8
+#1 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#4 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#9 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+#16 lodge VERB lodge%2:42:02::
+#17 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#23 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#26 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+They supplemented their income by small government assistance , by tutoring and economizing wherever they could .
+1
+#6 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+So impressive were those serious years of study at the university that Hans later wrote , " to be perfectly free , the young man must revel in the great kingdom of thought and imagination ; there is a struggle there , in which , if he falls , it is easy for him to rise again , there is freedom of utterance there , which draws after it no irreparable consequences on society .
+13
+#0 so ADV so%4:02:03::,so%4:02:07::
+#7 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+#13 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#20 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#24 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#30 kingdom NOUN kingdom%1:15:00::
+#32 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#47 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#51 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#55 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#66 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#71 consequence NOUN consequence%1:19:00::
+#73 society NOUN society%1:14:00::,society%1:14:02::
+I lived in this onward driving contest where each day overcame a new difficulty , gained a new truth , or banished a previous error " .
+4
+#1 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#15 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#23 previous ADJ previous%5:00:00:preceding:00
+In this third year at the university , Hans , in 1797 , was awarded the first important token of recognition , a gold medal for his essay on " Limits of Poetry and Prose " .
+3
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#23 gold NOUN gold%1:21:00::
+#27 essay NOUN essay%1:10:00::
+He completed his training in pharmacy also , taking his degree with high honors in 1797 , and in 1799 was awarded the degree of Doctor of Philosophy along with a prize for an essay in medicine .
+8
+#1 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#3 training NOUN training%1:04:00::
+#8 take VERB take%2:31:02::,take%2:34:00::
+#10 degree NOUN degree%1:10:00::
+#13 honor NOUN honor%1:07:00::
+#23 degree NOUN degree%1:10:00::
+#34 essay NOUN essay%1:10:00::
+#36 medicine NOUN medicine%1:04:00::
+He proposed a fresh theory of alkalis which later was accepted in chemical practices .
+5
+#1 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#3 fresh ADJ fresh%5:00:00:original:00
+#8 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#10 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#13 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+Han 's student days were at a time when Europe was in a new intellectual ferment following the revolutions in America and in France , Germany and Italy were rising from divisive nationalisms and a strong wave of intellectual awareness was sweeping the Continent .
+8
+#3 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#7 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#15 ferment NOUN ferment%1:26:00::
+#16 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#18 revolution NOUN revolution%1:04:00::
+#35 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#36 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#41 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+The new century opened with Oersted beginning his professional career in charge of an apothecary shop in Copenhagen and as lecturer at the university .
+4
+#2 century NOUN century%1:28:00::
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#15 shop NOUN shop%1:06:00::
+He was stirred by the announcement of Volta 's discovery of chemical electricity and he immediately applied the voltaic pile to experiments with acids and alkalis .
+4
+#2 stir VERB stir%2:37:00::,stir%2:37:01::,stir%2:39:00::
+#9 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#12 electricity NOUN electricity%1:19:01::
+#23 acid NOUN acid%1:27:00::
+The following year he devoted to the customary " Wanderjahr " , traveling in Germany , France , and the Netherlands , meeting the philosophers Schelling , Fichte , and Tieck .
+4
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#4 devote VERB devote%2:31:00::
+#12 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#22 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+He also met Count Rumford ( born Benjamin Thompson in Woburn, Mass . ) who was then serving the Elector of Bavaria , and the physicist Ritter ; these were Oersted 's main contacts in science .
+4
+#2 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#16 then ADV then%4:02:01::
+#17 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#33 contact NOUN contact%1:10:00::,contact%1:10:01::,contact%1:18:00::
+From Go ^ ttingen ( 1801 ) where he stayed for 10 days , he wrote , " The first question asked everywhere is about galvanism .
+5
+#9 stay VERB stay%2:42:01::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#19 first ADJ first%3:00:00::,first%4:02:00::
+#21 ask VERB ask%2:32:00::,ask%2:32:04::
+#25 galvanism NOUN galvanism%1:19:00::
+As everybody is curious to see the battery of glass tubes I have invented , I have had quite a small one made here of four glass tubes ( in Copenhagen I used 30 ) and intend to carry it with me " .
+8
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 battery NOUN battery%1:14:01::
+#18 quite ADV quite%4:02:02::
+#22 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#23 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#32 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#36 intend VERB intend%2:31:01::,intend%2:32:00::
+#38 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Oersted joined Ritter at Jena and stayed with him for 3 weeks , continuing their correspondence after he left .
+4
+#6 stay VERB stay%2:42:01::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#15 correspondence NOUN correspondence%1:10:00::
+#18 leave VERB leave%2:38:00::,leave%2:41:00::
+With Ritter he was exposed to the fantastic profusion of ideas that stormed through his host 's fertile but disorganized mind .
+3
+#7 fantastic ADJ fantastic%5:00:00:unrealistic:00
+#10 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#15 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+Oersted remodeled Ritter 's notes into an essay in French which was submitted to the Institut de France for its annual prize of 3000 francs .
+4
+#4 note NOUN note%1:10:00::,note%1:10:02::
+#7 essay NOUN essay%1:10:00::
+#9 French NOUN french%1:10:00::
+#12 submit VERB submit%2:32:00::,submit%2:32:01::
+The sound discoveries of this quixotic genius were so diluted by those of fantasy that the prize was never awarded to him .
+6
+#1 sound ADJ sound%3:00:01::
+#2 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#6 genius NOUN genius%1:18:00::
+#8 so ADV so%4:02:03::,so%4:02:07::
+#13 fantasy NOUN fantasy%1:09:01::
+#18 never ADV never%4:02:00::
+In May , 1803 , Ritter , in another flight of fancy , wrote to Oersted a letter that contained a remarkable prophecy .
+5
+#9 flight NOUN flight%1:09:00::
+#11 fancy NOUN fancy%1:09:01::
+#13 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#17 letter NOUN letter%1:10:00::
+#19 contain VERB contain%2:42:00::,contain%2:42:06::
+He related events on earth to periodic celestial phenomena and indicated that the years of maximum inclination of the ecliptic coincided with the years of important electrical discoveries .
+6
+#4 earth NOUN earth%1:15:00::,earth%1:17:01::
+#6 periodic ADJ periodic%3:00:00::
+#8 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#10 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#16 inclination NOUN inclination%1:25:00::
+#27 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+Thus , 1745 corresponded to the invention of the " Leiden " jar by Kleist , 1764 that of the electrophorus by Wilcke , 1782 produced the condenser of Volta , and 1801 the voltaic pile .
+3
+#3 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#25 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#27 condenser NOUN condenser%1:06:01::
+Ritter proceeded , " You now emerge into a new epoch in which late in the year 1819 or 1820 , you will have to reckon .
+3
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#16 year NOUN year%1:28:00::,year%1:28:01::
+This we might well witness " .
+1
+#4 witness VERB witness%2:39:00::,witness%2:39:01::
+Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it .
+3
+#1 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#8 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+In 1803 Oersted returned to Copenhagen and applied for the university 's chair in physics but was rejected because he was probably considered more a philosopher than a physicist .
+5
+#3 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#7 apply VERB apply%2:32:00::
+#12 chair NOUN chair%1:04:00::
+#14 physics NOUN physics%1:09:00::
+#23 more ADV more%4:02:00::,more%4:02:01::
+However , he continued experimenting and lecturing , publishing the results of his experiments in German and Danish periodicals .
+2
+#0 however ADV however%4:02:04::
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+In 1806 his ambition was realized and he became professor of physics at the Copenhagen University , though not realizing full professorship ( ordinarius ) until 1817 .
+7
+#5 realize VERB realize%2:36:00::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#9 professor NOUN full_professor%1:18:00::
+#11 physics NOUN physics%1:09:00::
+#18 not ADV not%4:02:00::
+#19 realize VERB realize%2:36:00::
+#20 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+During Oersted 's attendance at the university , it was poorly equipped with physical apparatus for experimenting in the sciences .
+2
+#13 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#14 apparatus NOUN apparatus%1:06:00::
+He was , however , fortunate in his contact with Prof. J. G. L. Manthey ( 1769 - 1842 ) , teacher of chemistry , who , in addition to his academic chair , was also proprietor of the " Lion Pharmacy " in Copenhagen where Oersted assisted him .
+5
+#3 however ADV however%4:02:04::
+#8 contact NOUN contact%1:10:00::,contact%1:10:01::,contact%1:18:00::
+#23 chemistry NOUN chemistry%1:09:00::
+#31 academic ADJ academic%3:01:00::
+#32 chair NOUN chair%1:04:00::
+Manthey maintained a valuable collection of physical and chemical apparatus which was at Oersted 's disposal during and after his graduation .
+5
+#1 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#4 collection NOUN collection%1:14:00::
+#6 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#9 apparatus NOUN apparatus%1:06:00::
+#20 graduation NOUN graduation%1:11:01::
+In 1800 , Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy .
+3
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#5 abroad ADV abroad%4:02:00::
+#9 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+In February 1801 , Oersted did manage to experiment with physical apparatus and reported experiments made with a voltaic battery of 600 plates of zinc and silver and of later experiments with a battery of 60 plates of zinc and lead .
+7
+#6 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#10 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#11 apparatus NOUN apparatus%1:06:00::
+#13 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#26 silver NOUN ag%1:27:00::
+#40 lead NOUN lead%1:27:00::
+In the following year , 1803 , Oersted , simultaneously with Davy , discovered that acids increased the strength of a voltaic battery more than did salts .
+5
+#2 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#13 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#15 acid NOUN acid%1:27:00::
+#18 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#26 salt NOUN salt%1:27:00::
+Eager as he was to pursue this promising line , he was so loaded down with the management of the pharmacy and lectures in the medical and pharmaceutical faculties at the university that he could devote only Sunday afternoons to " galvanizing " .
+7
+#5 pursue VERB pursue%2:35:00::,pursue%2:41:00::,pursue%2:41:01::
+#8 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#12 so ADV so%4:02:03::,so%4:02:07::
+#17 management NOUN management%1:04:00::,management%1:14:00::
+#28 faculty NOUN faculty%1:14:00::
+#35 devote VERB devote%2:31:00::
+#36 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+He assumed his academic career with the same intensity and thoroughness that had marked every step in his rise from boyhood .
+6
+#3 academic ADJ academic%3:01:00::
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#8 intensity NOUN intensity%1:07:00::
+#13 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#15 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#18 rise NOUN rise%1:07:02::
+The university was the only one in Denmark and the status of professor represented the upper social level .
+5
+#10 status NOUN status%1:26:00::,status%1:26:01::
+#12 professor NOUN full_professor%1:18:00::
+#15 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#16 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#17 level NOUN level%1:26:00::,level%1:26:01::
+His broad interest in literary , political , and philosophical movements opened many doors to him .
+5
+#1 broad ADJ broad%5:00:00:comprehensive:00,broad%5:00:00:general:00
+#2 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#4 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#9 philosophical ADJ philosophical%3:01:00::
+#10 movement NOUN movement%1:04:03::
+His friends were numerous and their ties to him were strong .
+2
+#1 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#6 tie NOUN tie%1:06:04::
+The years 1812 and 1813 saw him in Germany and France again , but on this visit to Berlin he did not seek out the philosophers as he had on his first journey .
+2
+#21 not ADV not%4:02:00::
+#31 first ADJ first%3:00:00::,first%4:02:00::
+In Berlin he published his views of the chemical laws of nature in German and this was issued in French translation ( Paris , 1813 ) under the title Recherches sur l ' identite des forces chimiques et electriques , a work held in very high esteem by the new generation of research chemists .
+11
+#3 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#5 view NOUN view%1:09:04::
+#13 German NOUN german%1:10:00::
+#17 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#19 French NOUN french%1:10:00::
+#20 translation NOUN translation%1:10:00::
+#22 Paris NOUN paris%1:15:00::
+#28 title NOUN title%1:10:00::,title%1:10:06::
+#42 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#50 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+#53 chemist NOUN chemist%1:18:00::
+His interest in finding a relationship between voltaic electricity and magnetism is here first indicated .
+6
+#1 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 electricity NOUN electricity%1:19:01::
+#10 magnetism NOUN magnetism%1:19:00::
+#12 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#14 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+Chapter 8 , is entitled " On Magnetism " and in it are included such remarks as , " One has always been tempted to compare the magnetic forces with the electrical forces .
+6
+#0 chapter NOUN chapter%1:10:00::
+#4 entitle VERB entitle%2:32:00::,entitle%2:41:01::
+#13 include VERB include%2:31:00::,include%2:41:03::
+#21 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#25 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#32 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+The great resemblance between electrical and magnetic attractions and repulsions and the similarity of their laws necessarily would bring about this comparison .
+3
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#15 law NOUN law%1:09:00::,law%1:09:01::
+#21 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+It is true , that nothing has been found comparable with electricity by communication ; but the phenomena observed had such a degree of analogy to those depending on electrical distribution that one could not find the slightest difference .
+10
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 electricity NOUN electricity%1:19:01::
+#17 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#18 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 degree NOUN degree%1:26:01::
+#34 not ADV not%4:02:00::
+#35 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#37 slight ADJ slight%5:00:00:insignificant:00
+The form of galvanic activity is halfway between the magnetic form and the electrical form .
+2
+#3 galvanic ADJ galvanic%3:01:00::
+#9 magnetic ADJ magnetic%3:00:00::
+There , forces are more latent than in electricity , and less than in magnetism .
+6
+#0 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#2 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#4 more ADV more%4:02:00::
+#8 electricity NOUN electricity%1:19:01::
+#11 less ADV less%4:02:00::,less%4:02:01::
+#14 magnetism NOUN magnetism%1:19:00::
+But in such an important question , we would be satisfied if the judgment were that the principal objection to the identity of forces which produce electricity and magnetism were only a difficulty , and not a thing which is contrary to it .
+11
+#13 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#17 principal ADJ principal%5:00:00:important:00
+#21 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+#23 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#25 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#26 electricity NOUN electricity%1:19:01::
+#28 magnetism NOUN magnetism%1:19:00::
+#30 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#35 not ADV not%4:02:00::
+#37 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#40 contrary ADJ contrary%5:00:00:different:00
+One could also add to these analogies that steel loses its magnetism by heat , which proves that steel becomes a better conductor through a rise in temperature , just as electrical bodies do .
+9
+#9 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#11 magnetism NOUN magnetism%1:19:00::
+#13 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#16 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#19 become VERB become%2:30:00::,become%2:42:01::
+#21 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#22 conductor NOUN conductor%1:06:00::
+#25 rise NOUN rise%1:07:02::
+#29 just ADV just%4:02:05::
+It is also found that magnetism exists in all bodies of nature , as proven by Bruckmann and Coulomb .
+5
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#5 magnetism NOUN magnetism%1:19:00::
+#6 exist VERB exist%2:42:00::
+#11 nature NOUN nature%1:18:00::,nature%1:26:00::
+#14 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+By that , one feels that magnetic forces are as general as electrical forces .
+3
+#4 feel VERB feel%2:31:00::,feel%2:39:00::
+#10 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#13 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+An attempt should be made to see if electricity , in its most latent stage , has any action on the magnet as such " .
+7
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#8 electricity NOUN electricity%1:19:01::
+#12 most ADV most%4:02:00::
+#14 stage NOUN stage%1:04:00::,stage%1:26:00::
+#16 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#18 action NOUN action%1:04:02::,action%1:06:00::
+His plan and intent were clearly charted .
+2
+#1 plan NOUN plan%1:09:01::
+#6 chart VERB chart%2:31:13::
+Oersted returned in 1814 and resumed an active part in university and political discussions .
+2
+#1 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#8 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+In one debate he supported the freedom of judgment as opposed to dogma , in another he held that the practice of science was in fact an act of religious worship .
+5
+#4 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#8 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#17 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#20 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#27 act NOUN act%1:03:00::
+He continued as a popular lecturer .
+2
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#4 popular ADJ popular%5:00:01:common:01
+He devised a detonating fuse in which a short wire was caused to glow by an electric current .
+3
+#1 devise VERB devise%2:36:00::
+#8 short ADJ short%3:00:01::
+#9 wire NOUN wire%1:06:00::,wire%1:06:01::,wire%1:15:00::
+In 1819 under royal command he undertook a very successful geological expedition to Bornholm , one of the Danish islands , being one of three scientists in the expedition .
+3
+#11 expedition NOUN expedition%1:14:00::
+#19 island NOUN island%1:06:00::
+#28 expedition NOUN expedition%1:14:00::
+It was with the assistance of one of the members of this expedition , Lauritz Esmarch , that Oersted succeeded in producing light by creating an electric discharge in mercury vapor through which an electric current was made to flow .
+6
+#9 member NOUN member%1:18:00::,member%1:24:00::
+#12 expedition NOUN expedition%1:14:00::
+#19 succeed VERB succeed%2:41:00::
+#21 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#22 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#29 mercury NOUN mercury%1:07:00::
+Together they also developed a new form of voltaic cell in which the wooden trough was replaced by one of copper , thereby producing stronger currents .
+9
+#0 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#5 new ADJ new%3:00:00::,new%5:00:00:original:00
+#6 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#13 wooden ADJ wooden%5:00:00:woody:00
+#16 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#20 copper NOUN cu%1:27:00::
+#23 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#24 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+Esmarch was among those who witnessed Oersted 's first demonstration of his discovery .
+4
+#5 witness VERB witness%2:39:00::,witness%2:39:01::
+#8 first ADJ first%3:00:00::,first%4:02:00::
+#9 demonstration NOUN demonstration%1:10:03::
+#12 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+The association between electric ( both electrostatic and voltaic ) forces and magnetic forces had been recognized by investigators for many decades .
+4
+#1 association NOUN association%1:09:00::,association%1:24:00::,association%1:26:02::
+#3 electric ADJ electric%3:01:00::
+#10 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#16 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+Electrical literature contained numerous references to lightning that had magnetized iron and had altered the polarity of compass needles .
+5
+#2 contain VERB contain%2:42:00::,contain%2:42:06::
+#4 reference NOUN reference%1:10:02::,reference%1:10:03::,reference%1:10:07::
+#10 iron NOUN fe%1:27:00::
+#17 compass NOUN magnetic_compass%1:06:00::
+#18 needle NOUN needle%1:06:00::
+In the late 1700 's Beccaria and van Marum , among others , had magnetized iron by sending an electrostatic charge through it .
+4
+#2 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#15 iron NOUN fe%1:27:00::
+#17 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#20 charge NOUN charge%1:12:00::,charge%1:19:00::
+Beccaria had almost stumbled on a lead to the relationship between electricity and magnetism when a discharge from a Leyden jar was sent transversally through a piece of watch spring steel making its ends magnetic .
+10
+#6 lead NOUN lead%1:04:00::,lead%1:04:01::,lead%1:09:00::
+#11 electricity NOUN electricity%1:19:01::
+#13 magnetism NOUN magnetism%1:19:00::
+#16 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#22 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#28 watch NOUN watch%1:06:00::
+#29 spring NOUN spring%1:06:00::,spring%1:07:00::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#33 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#34 magnetic ADJ magnetic%3:00:00::
+The resulting magnetic effect proved stronger than when the discharge was made lengthwise .
+4
+#2 magnetic ADJ magnetic%3:00:00::
+#3 effect NOUN effect%1:09:00::,effect%1:19:00::
+#4 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#9 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+The experiments of Romagnosi and others have already been noted but no one had determined the cause and effect relationship between these two primary forces .
+6
+#7 already ADV already%4:02:00::
+#9 note VERB note%2:32:00::,note%2:39:00::
+#14 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#16 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#18 effect NOUN effect%1:09:00::,effect%1:19:00::
+#24 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+Oersted 's own earlier experiments were unimpressive , possibly because he had , like other experimenters , laid the conducting wire across the compass needle instead of parallel with it .
+6
+#2 own ADJ own%5:00:00:personal:00
+#3 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#14 other ADJ other%3:00:00::
+#17 lay VERB lay%2:35:00::,lay%2:36:00::
+#23 compass NOUN magnetic_compass%1:06:00::
+#24 needle NOUN needle%1:06:00::
+The sequence of events leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted 's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820 .
+15
+#1 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#4 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#8 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#9 still ADV still%4:02:00::
+#19 advanced ADJ advanced%5:00:00:precocious:00
+#24 relate VERB relate%2:32:00::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+#28 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#31 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#38 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#42 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#44 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#49 other ADJ other%3:00:00::
+#50 advanced ADJ advanced%5:00:00:precocious:00
+#54 spring NOUN spring%1:28:00::
+At this lecture Oersted happened to place the conducting wire over and parallel to a magnetic needle .
+2
+#4 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#6 place VERB place%2:31:13::

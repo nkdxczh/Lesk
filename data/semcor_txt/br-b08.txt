@@ -1,0 +1,360 @@
+ Old , tired , trembling the woman came to the cannery .
+1
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+She had , she said , heard that the plant was closing .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+It could n't close , she said .
+2
+#3 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She had raised a calf , grown it beef-fat .
+2
+#2 raise VERB raise%2:36:03::
+#6 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+She had , with her own work-weary hands , put seeds in the ground , watched them sprout , bud , blossom , and get ready to bear .
+4
+#9 put VERB put%2:35:00::,put%2:35:05::
+#15 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#24 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#27 bear VERB bear%2:29:01::,bear%2:36:00::
+She was ready to kill the beef , dress it out , and with vegetables from her garden was going to can soup , broth , hash , and stew against the winter .
+3
+#4 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#8 dress VERB dress%2:29:02::,dress%2:29:04::,dress%2:30:00::,dress%2:30:08::,dress%2:35:00::,dress%2:35:02::,dress%2:35:03::
+#21 can VERB can%2:30:00::
+This did not happen in counties of North Georgia , where the rivers run and make rich the bottom land .
+3
+#3 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#13 run VERB run%2:30:01::,run%2:38:01::,run%2:38:08::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Nor in South Georgia , where the summer sun shines warmly and gives early life to the things growing in the flat fields .
+3
+#9 shine VERB shine%2:43:00::
+#12 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#18 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+This happened in Decatur , DeKalb County , not 10 miles from the heart of metropolitian Atlanta .
+1
+#1 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+And now , the woman , tired and trembling , came here to the DeKalb County cannery .
+1
+#10 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+" Is it so the cannery is going to close " ?
+1
+#9 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+O. N. Moss , 61 , tall , grey as a possum , canning plant chief since 1946 , did n't know what to say .
+2
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He did say she could get her beef and vegetables in cans this summer .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He did say he was out of cans , the No .3 's , but " I requisitioned 22000 " .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He said he had No .2 's enough to last two weeks more .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Threat of closing the cannery is a recent one .
+1
+#2 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+A three-man committee has recommended to Commission Chairman Charles O. Emmerich that the DeKalb County cannery be closed .
+2
+#4 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#17 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+Reason : the cannery loses $ 3000 yearly .
+1
+#4 lose VERB lose%2:40:06::
+But DeKalb citizens , those who use the facilities of the cannery , say the cannery is not supposed to make any money .
+3
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 make VERB make%2:40:01::
+" The cannery " , said Mrs. Lewellyn Lundeen , an active booster of the cannery since its opening during the war and rationing years of 1941 , to handle the " victory garden " produce , " is a service to the taxpayer .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 handle VERB handle%2:41:00::,handle%2:41:03::
+And one of the best services available to the people who try to raise and can meat , to plant , grow vegetables and put them up .
+5
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 raise VERB raise%2:36:03::
+#15 can VERB can%2:30:00::
+#19 plant VERB plant%2:35:00::
+#21 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+It helps those people who help themselves .
+2
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#5 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+" The county , though , seems more interested in those people who do n't even try , those who sit and draw welfare checks and line up for surplus food " .
+3
+#16 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#20 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#22 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+A driver of a dairy truck , who begins work at 1 a. m. finishes before breakfast , then goes out and grows a garden , and who has used the cannery to save and feed a family of five , asked , " What in the world will we do " ?
+6
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#14 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#22 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#29 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#33 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#35 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+" What in the world " , echoed others , those come with the beans , potatoes , the tomatoes , " will any of us do " ?
+2
+#7 echo VERB echo%2:39:00::
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Moss , a man who knows how much the cannery helps the county , does n't believe it will close .
+3
+#10 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#16 believe VERB believe%2:31:03::
+#19 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+" Do n't ask me if I think the cannery helps " , he said .
+4
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#7 think VERB think%2:31:01::,think%2:31:03::
+#10 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Sir , I know the cannery helps " .
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Most of us would be willing to admit that forgiveness comes hard .
+2
+#7 admit VERB admit%2:32:00::
+#10 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+When a person has thoughtlessly or deliberately caused us pain or hardship it is not always easy to say , " Just forget it " .
+1
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+There is one thing I know ; a person will never have spiritual poise and inner peace as long as the heart holds a grudge .
+3
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+I know a man who held resentment against a neighbor for more than three decades .
+2
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#5 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+One night , at the close of the evening service , he came forward , left his resentment at the altar and gave his heart to God .
+1
+#22 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+After almost everyone had gone he told me the simple story of how one of his neighbors had moved a fence a few feet over on his land .
+3
+#4 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#18 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+" We tried to settle this dispute " , he said , " but could never come to an agreement .
+3
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I settled it tonight " , he continued .
+2
+#1 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#7 continue VERB continue%2:32:00::,continue%2:42:01::
+" I leave this church with a feeling that a great weight has been lifted off my heart , I have left my grudge at the altar and forgiven my neighbor " .
+2
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#14 lift VERB lift%2:35:00::
+Forgiveness is the door through which a person must pass to enter the Kingdom of God .
+2
+#9 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#11 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+You cannot wear the banner of God and at the same time harbor envy , jealousy and grudges in your heart .
+2
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#12 harbor VERB harbor%2:39:00::
+Henry van Dyke said , " Forgive and forget if you can ; but forgive anyway " .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Jesus made three things clear about forgiveness .
+1
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Then , Jesus indicated that God 's forgiveness is unlimited .
+1
+#3 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+In the prayer Jesus taught his disciples to pray we find these words , " Forgive us our debts " .
+1
+#10 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+When a person meets God 's requirements for the experience of forgiveness he is forgiven .
+1
+#3 meet VERB meet%2:41:02::,meet%2:42:01::
+Forgiveness implies more than a person wanting his past sins covered by God 's love .
+2
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#10 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+It also implies that a man wants his future to be free from the mistakes of the past .
+1
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+We want the past forgiven , but at the same time we must be willing for God to direct the future .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#18 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+Finally , we must be willing to forgive others as many times as they sin against us .
+1
+#14 sin VERB sin%2:41:00::
+Once Peter asked , " How oft shall my brother sin against me , and I forgive him ?
+2
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#10 sin VERB sin%2:41:00::
+Jesus not only taught forgiveness , He gave us an example of it on the cross .
+1
+#7 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Her mother , now dead , was my good friend and when she came to tell us about her plans and to show off her ring I had a sobering wish to say something meaningful to her , something her mother would wish said .
+5
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#15 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#27 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#43 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+For a while there was such shrill girlish commotion I could n't have made myself heard if I 'd had the equivalent of the message to Garcia .
+2
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But when some of the squeals had subsided and she had been through one of those sessions that are so indispensable to the young female - six girls sprawled on one bed , drinking Cokes and giggling - she came back to the kitchen to talk with me a minute .
+2
+#7 subside VERB subside%2:30:00::
+#33 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+" How do you know you love somebody enough to get married " ? she asked .
+1
+#15 ask VERB ask%2:32:00::,ask%2:32:04::
+It was the oldest and toughest question young lovers have ever asked : How can you be sure ?
+1
+#11 ask VERB ask%2:32:00::,ask%2:32:04::
+I asked , looking at her searchingly .
+2
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+I wanted to grab her by the arm and beg her to wait , to consider , to know for certain because life is so long and marriage is so important .
+5
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#9 beg VERB beg%2:40:00::
+#12 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+But if she were just having a normal case of pre-nuptial jitters such a question might frighten her out of a really good marriage .
+1
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Besides , in all honesty , I do n't know how you can be sure .
+1
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I do n't know any secret recipe for certainty .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I knew of but one test and I threw it out to her for what it was worth .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" I mean " , I went on ruthlessly , " when he 's not talking about you or himself or the wonders of love , is he interesting ?
+1
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Does he care about things that matter to you ?
+1
+#2 care VERB care%2:37:00::,care%2:37:12::
+Can you visualize being stranded with him on a desert island for years and years and still find him fascinating ?
+1
+#17 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+Because , honey , I thought silently , there are plenty of desert islands in every marriage - long periods when you 're hopelessly stranded , together .
+1
+#5 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+And if you bore each other then , heaven help you .
+1
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+She has studied and observed and she is convinced that her young man is going to be endlessly enchanting .
+1
+#4 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+She asked if I had other advice and , heady with success , I rushed it in , I hope not too late .
+3
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+Jokes , cartoons and cynics to the contrary , mothers-in-law make good friends .
+1
+#10 make VERB make%2:31:10::,make%2:42:05::
+I do not know Dr. Wilson Sneed well .
+1
+#3 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+It was the cry of not just one heart ; it spoke for many in the clergy , I suspect .
+1
+#19 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+Who stops to think of that ?
+1
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Imagine the searching and the prayer that lay behind the letter the rector wrote after almost a decade of service to this majestic church .
+3
+#0 imagine VERB imagine%2:31:01::
+#7 lie VERB lie%2:42:03::
+#13 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+" Such a church needs vigor and vitality in its rector and one man has only so much of these endowments " , he told his members .
+3
+#4 need VERB need%2:42:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+A minister should not stay " beyond the time that his leadership should benefit " his church , he wrote , " for he becomes ordinary " .
+2
+#19 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#24 become VERB become%2:30:00::,become%2:42:01::
+And so the young minister resigned , to go and study and pray , having never passed a day , he told his parishioners , when " I did not gain from you far more than I ever gave to you " .
+7
+#5 resign VERB resign%2:41:00::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#16 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#21 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#30 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#38 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+His very honest act called up the recent talk I had with another minister , a modest Methodist , who said : " I feel so deeply blessed by God when I can give a message of love and comfort to other men , and I would have it no other way : and it is unworthy to think of self .
+3
+#10 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#33 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+But oh , how I do sometimes need just a moment of rest , and peace , in myself " .
+1
+#7 need VERB need%2:42:00::
+A man who gives himself to God and to the believers of his church takes upon himself a life of giving .
+2
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#14 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+He does not expect to get great riches or he would not have chosen to answer the call to preach .
+2
+#5 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#15 answer VERB answer%2:31:00::,answer%2:32:00::
+The good ones are not motivated to seek vainly , nor are they disposed to covet comfort , or they would have been led to fields that offer comfort and feed vanity .
+2
+#23 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#30 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+Yet we who lean upon such a man and draw strength from him and expect interpretation of the infinite through him - we who readily accept his sacrifice as our due , we of the congregations are the first to tell him what is in our minds instead of listening to what is in his soul .
+2
+#9 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#40 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+We press him to conform to our comfortable conceptions and not to bruise our satisfactions with his word , and God 's .
+1
+#1 press VERB press%2:32:00::,press%2:32:01::,press%2:41:12::,press%2:42:00::
+We do not defeat the good ones with this cruelty , but we add to their burden , while expecting them to bestow saintliness upon us in return for ostentatious church attendance and a few bucks a week , American cash .
+1
+#13 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+If we break the minister to our bit , we are buying back our own sins .
+2
+#2 break VERB break%2:30:11::,break%2:35:01::,break%2:41:09::
+#11 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+If he won n't break , we add to the stress he bears .
+3
+#4 break VERB break%2:30:11::,break%2:35:01::,break%2:41:09::
+#7 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#12 bear VERB bear%2:31:00::
+We expect him to be noble , and to make us so - yet he knows , and tries to tell us , how very humble man must be .
+4
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#20 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+But how little love we give him .
+1
+#5 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Yet every Sunday we sinners go to that emergency room to receive first aid , and we leave unmindful that the man who ministered to us is a human being who suffers , too .
+3
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#23 minister VERB minister%2:41:00::
+#31 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::

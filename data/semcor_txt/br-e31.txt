@@ -1,0 +1,699 @@
+ The long and ever increasing column of sportsmen is now moving into a new era .
+3
+#1 long ADJ long%3:00:01::
+#5 column NOUN column%1:08:00::,column%1:14:00::,column%1:25:02::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Modern times have changed the world beyond recognition .
+2
+#3 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#5 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+The early years of the twentieth century seem very far away .
+2
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#6 century NOUN century%1:28:00::
+But with all the changes in philosophy , dress and terrain - a few things remain constant , including the devotion of Americans to the great field sports , hunting and fishing .
+7
+#4 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#8 dress NOUN dress%1:06:01::,dress%1:06:02::
+#10 terrain NOUN terrain%1:15:00::
+#18 include VERB include%2:42:00::
+#22 American NOUN american%1:18:00::,american%1:18:01::
+#29 hunt NOUN hunt%1:04:01::
+#31 fish VERB fish%2:33:00::
+As the generations move on , clothes become more suitable for the enjoyment of outdoor sports .
+6
+#2 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+#6 clothes NOUN clothes%1:06:00::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#8 more ADV more%4:02:00::
+#12 enjoyment NOUN enjoyment%1:04:00::
+#15 sport NOUN sport%1:04:00::
+Sporting firearms change , markedly for the better .
+3
+#0 sporting ADJ sporting%3:01:00::
+#2 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#7 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Just as modern transportation has outmoded the early Studebaker covered wagon , the demand of today 's sportsmen and women has necessitated changes in their equipment .
+4
+#0 just ADV just%4:02:05::
+#3 transportation NOUN transportation%1:04:00::
+#7 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#22 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+The American firearms and ammunition manufacturers through diligent research and technical development have replaced the muzzle loader and slow firing single shot arms with modern fast firing autoloaders , extremely accurate bolt , lever , and slide action firearms .
+12
+#4 ammunition NOUN ammunition%1:06:00::
+#10 technical ADJ technical%3:00:00::,technical%3:01:03::
+#11 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#13 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#18 slow ADJ slow%3:00:01::
+#19 fire VERB fire%2:33:00::,fire%2:33:02::
+#20 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#22 arms NOUN arms%1:06:00::
+#25 fast ADJ fast%3:00:01::
+#26 fire VERB fire%2:33:00::,fire%2:33:02::
+#30 accurate ADJ accurate%5:00:00:correct:00
+#31 bolt NOUN bolt%1:06:00::
+And millions of rounds of entirely new and modern small-arms ammunition , designed for today 's hunting and target shooting .
+4
+#3 round NOUN round%1:06:01::
+#10 ammunition NOUN ammunition%1:06:00::
+#16 hunt NOUN hunt%1:04:01::
+#18 target NOUN target%1:06:00::
+And due to modern resource use and game management practices , there is still game to shoot , even with the ever expanding encroachment on land and water .
+8
+#7 game NOUN game%1:05:00::,game%1:13:00::
+#8 management NOUN management%1:04:00::,management%1:14:00::
+#9 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#13 still ADV still%4:02:00::
+#14 game NOUN game%1:05:00::,game%1:13:00::
+#16 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#23 encroachment NOUN encroachment%1:04:00::
+#25 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+Present conservation practices regard wildlife , not as an expendable natural resource , but as an annual harvest to be sown and also reaped .
+3
+#0 present ADJ present%3:00:01::
+#2 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#6 not ADV not%4:02:00::
+Unlimited game bags are possible and legal in more than 40 states , on shooting preserves ( one of the newer phases of modern game management ) for five and six months each year .
+6
+#1 game NOUN game%1:05:00::,game%1:13:00::
+#6 legal ADJ legal%3:00:00::,legal%5:00:00:eligible:00
+#11 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#21 phase NOUN phase%1:07:00::,phase%1:28:00::
+#24 game NOUN game%1:05:00::,game%1:13:00::
+#25 management NOUN management%1:04:00::,management%1:14:00::
+Close to two million game birds were harvested on 1500 commercial and private shooting preserves , and on State Game Commission controlled upland game areas during the 1960 - 61 season .
+3
+#10 commercial ADJ commercial%3:01:00::
+#23 game NOUN game%1:05:00::,game%1:13:00::
+#24 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The shooting development program of the Sporting Arms and Ammunition Manufacturers ' Institute has successfully published these facts in all major outdoor magazines , many national weeklies and the trade papers .
+6
+#2 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#3 program NOUN program%1:09:00::,program%1:09:01::
+#15 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#20 major ADJ major%3:00:05::,major%3:00:06::
+#22 magazine NOUN magazine%1:10:00::
+#30 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+The most effective way to develop more places for more sportsmen to shoot is to encourage properly managed shooting preserves .
+8
+#1 most ADV most%4:02:00::
+#2 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#3 way NOUN way%1:04:00::,way%1:09:00::
+#5 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#7 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#12 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#16 properly ADV properly%4:02:00::
+#17 manage VERB manage%2:41:00::,manage%2:41:01::,manage%2:41:03::
+This has been the aim of the director of the shooting development program , the New York staff of the Sportsmen's Service Bureau , and the SAAMI shooting preserve field consultants since the start of the program in 1954 .
+8
+#4 aim NOUN aim%1:09:00::
+#11 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#12 program NOUN program%1:09:00::,program%1:09:01::
+#17 staff NOUN staff%1:14:00::,staff%1:14:01::
+#29 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#30 consultant NOUN consultant%1:18:00::
+#33 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#36 program NOUN program%1:09:00::,program%1:09:01::
+Following the kick-off of SAAMI 's shooting development program in 1954 , a most interesting meeting took place in Washington , D. C. .
+6
+#0 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#7 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#13 most ADV most%4:02:01::
+#15 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#19 Washington NOUN washington%1:15:01::
+The group known as the American Association for Health , Physical Education , and Recreation ( a division of the National Education Association ) initiated a conference which brought together representatives of the National Rifle Association , SAAMI and the American Fishing Tackle Manufacturers .
+4
+#17 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+#24 initiate VERB initiate%2:30:00::
+#26 conference NOUN conference%1:14:00::
+#30 representative NOUN representative%1:18:00::
+This meeting was called to determine how these groups might cooperate to launch what is known as the Outdoor Education Project .
+4
+#1 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#3 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#5 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#12 launch VERB launch%2:35:00::,launch%2:35:04::
+The Outdoor Education Project took cognizance of the fact , so often overlooked , that athletic activities stressed in most school programs have little or no relationship to the physical and mental needs and interests of later life .
+13
+#5 cognizance NOUN cognisance%1:09:00::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#15 athletic ADJ athletic%3:01:00::
+#16 activity NOUN activity%1:04:00::,activity%1:26:00::
+#17 stress VERB stress%2:32:00::,stress%2:32:01::
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#21 program NOUN program%1:09:00::,program%1:09:01::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 little ADV little%4:02:00::
+#29 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#31 mental ADJ mental%3:01:00::
+#34 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#37 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+The various team sports assuredly have their place in every school , and they are important to proper physical development .
+7
+#3 sport NOUN sport%1:04:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#17 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#18 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#19 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+But with the exception of professional athletes , few contact sports and physical education activities in our schools have any carryover in the adult life of the average American man or woman .
+6
+#5 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#14 activity NOUN activity%1:04:00::,activity%1:26:00::
+#17 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#29 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Following a vigorous campaign of interpretation and leadership development by OEP director Dr. Julian Smith , today thousands of secondary schools , colleges and universities have shooting and hunting education in their physical education and recreation programs .
+7
+#0 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#8 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#22 college NOUN college%1:14:00::,college%1:14:01::
+#28 hunt NOUN hunt%1:04:01::
+#29 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#35 recreation NOUN recreation%1:04:00::
+#36 program NOUN program%1:09:00::,program%1:09:01::
+SAAMI 's financial support since 1955 has contributed to the success of this project in education .
+3
+#3 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#13 project NOUN project%1:04:00::,project%1:09:00::
+#15 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+Personnel assigned through the shooting development program have proudly participated in over 53 state and regional workshops , at which hundreds of school administrators , teachers , professors , and recreational leaders have been introduced to Outdoor Education .
+10
+#1 assign VERB assign%2:31:00::,assign%2:41:00::
+#5 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#6 program NOUN program%1:09:00::,program%1:09:01::
+#9 participate VERB participate%2:33:00::
+#16 workshop NOUN workshop%1:04:00::
+#22 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#27 professor NOUN full_professor%1:18:00::
+#31 leader NOUN leader%1:18:00::
+#34 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#37 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+Considering that the current school age potential is 23 million youths , the project and its message on hunting and shooting education have many more to reach .
+10
+#4 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#5 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#6 potential NOUN potential%1:26:00::
+#10 youth NOUN youth%1:18:00::
+#13 project NOUN project%1:04:00::,project%1:09:00::
+#16 message NOUN message%1:10:00::,message%1:10:01::
+#18 hunt NOUN hunt%1:04:01::
+#21 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#26 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+In 1959 SAAMI 's shooting development program announced a new activity designed to expose thousands of teen-age boys and girls to the healthy fun enjoyed through the participation in the shooting sports .
+8
+#5 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#6 program NOUN program%1:09:00::,program%1:09:01::
+#9 new ADJ new%3:00:00::
+#10 activity NOUN activity%1:04:00::,activity%1:26:00::
+#17 boy NOUN boy%1:18:03::
+#19 girl NOUN girl%1:18:01::,girl%1:18:03::
+#24 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#31 sport NOUN sport%1:04:00::
+This program is now nationally known as " Teen Hunter Clubs " .
+3
+#1 program NOUN program%1:09:00::,program%1:09:01::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+Teen Hunter Clubs were initially sponsored by affiliated members of the Allied Merchandising Corporation .
+3
+#2 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#5 sponsor VERB sponsor%2:40:00::
+#8 member NOUN member%1:18:00::,member%1:24:00::
+The first program was sponsored by Abraham + Strauss , Hempstead , New York , under the direction of Special Events director Jennings Dennis .
+4
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 program NOUN program%1:09:00::,program%1:09:01::
+#4 sponsor VERB sponsor%2:40:00::
+#17 direction NOUN direction%1:04:00::,direction%1:10:01::,direction%1:10:02::
+Other pilot programs were conducted by A + S , Babylon , New York ; J. L. Hudson , Detroit ; Joseph Horne , Pittsburgh .
+2
+#0 other ADJ other%3:00:00::
+#4 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+Other THC activities followed , conducted by shopping centers , department stores , recreation equipment dealers , radio - TV stations , newspapers , and other organizations interested in the need existing to acquaint youngsters with the proper use of sporting firearms and the development of correct attitudes and appreciations related to hunting and wise use of our natural resources .
+14
+#0 other ADJ other%3:00:00::
+#2 activity NOUN activity%1:04:00::,activity%1:26:00::
+#3 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#5 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#13 recreation NOUN recreation%1:04:00::
+#15 dealer NOUN dealer%1:18:02::
+#25 other ADJ other%3:00:00::
+#26 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#27 interested ADJ interested%3:00:00::
+#30 need NOUN need%1:26:00::
+#37 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#40 sporting ADJ sporting%3:01:00::
+#44 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#49 appreciation NOUN appreciation%1:04:01::
+SAAMI 's field men have served as consultants and / or have participated in 75 Teen Hunter Club activities which have reached over 40000 enthusiastic young Americans .
+9
+#2 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#7 consultant NOUN consultant%1:18:00::
+#12 participate VERB participate%2:33:00::
+#17 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#18 activity NOUN activity%1:04:00::,activity%1:26:00::
+#21 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#26 American NOUN american%1:18:00::,american%1:18:01::
+Through the efforts of SAAMI 's shooting development program these shooting activities , and many others , including assists in the development of public and privately financed shooting parks , trap and skeet leagues , rifle and pistol marksmanship programs have been promoted , to mention only a few .
+12
+#7 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#11 activity NOUN activity%1:04:00::,activity%1:26:00::
+#17 include VERB include%2:42:00::
+#21 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#23 public ADJ public%3:00:00::,public%5:00:00:common:02
+#27 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#28 park NOUN park%1:15:00::,park%1:15:02::
+#33 league NOUN league%1:14:01::
+#37 pistol NOUN pistol%1:06:00::
+#39 program NOUN program%1:09:00::,program%1:09:01::
+#46 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+The continuation and expansion of the shooting development program will assure to some degree that national and community leaders will be made aware of the ever growing need for shooting facilities and activities for hunting and shooting in answer to public demand .
+10
+#7 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#10 assure VERB assure%2:31:00::,assure%2:32:03::
+#13 degree NOUN degree%1:26:01::
+#18 leader NOUN leader%1:18:00::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#27 need NOUN need%1:26:00::
+#30 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#32 activity NOUN activity%1:04:00::,activity%1:26:00::
+#40 public ADJ public%3:00:00::,public%5:00:00:common:02
+While individual sportsmen are aware of this situation , too many of our political , social , educational and even religious leaders too often forget it .
+6
+#1 individual ADJ individual%5:00:00:independent:00
+#7 situation NOUN situation%1:26:01::
+#9 too ADV too%4:02:00::
+#15 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#21 leader NOUN leader%1:18:00::
+#22 too ADV too%4:02:00::
+Help is needed from dealers , at the grass-roots level .
+3
+#0 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#4 dealer NOUN dealer%1:18:02::
+#9 level NOUN level%1:26:00::,level%1:26:01::
+The American gun and ammunition producers sponsor a successful promotional program through their industry trade association .
+5
+#4 ammunition NOUN ammunition%1:06:00::
+#5 producer NOUN producer%1:11:00::
+#6 sponsor VERB sponsor%2:40:00::
+#10 program NOUN program%1:09:00::,program%1:09:01::
+#13 industry NOUN industry%1:04:00::,industry%1:14:00::
+Since SAAMI 's conception in 1926 , and more specifically since the adoption of the Shooting Development Program in 1954 , millions of dollars and promotional man-hours have gone into the development of more places to shoot for more youths and adults .
+7
+#3 conception NOUN conception%1:09:03::
+#8 more ADV more%4:02:00::
+#16 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#17 program NOUN program%1:09:00::,program%1:09:01::
+#31 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#34 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#39 youth NOUN youth%1:18:00::
+We trust that you , as a gun and ammunition dealer , have benefited through additional sales of equipment .
+4
+#1 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+#9 ammunition NOUN ammunition%1:06:00::
+#10 dealer NOUN dealer%1:18:02::
+#16 sale NOUN sale%1:04:00::,sale%1:04:02::
+Are you getting top dollar from the shooting sports ?
+2
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#8 sport NOUN sport%1:04:00::
+Are you looking ahead to the exploding market of millions of American boys and girls , who will grow up to enjoy a traditional American way of life - ranging the fields with a fine American gun and uniformly excellent ammunition ?
+7
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#12 boy NOUN boy%1:18:03::
+#21 enjoy VERB enjoy%2:39:00::
+#31 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#34 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#40 ammunition NOUN ammunition%1:06:00::
+Is your sporting firearms and ammunition department primed for the expanding horizons ?
+4
+#2 sporting ADJ sporting%3:01:00::
+#5 ammunition NOUN ammunition%1:06:00::
+#7 prime VERB prime%2:30:00::
+#11 horizon NOUN horizon%1:07:00::
+Would you like to organize Teen Hunters Clubs , shooting programs , and have information on seasons including six months of hunting with unlimited game bags on shooting preserves ?
+9
+#4 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#6 hunter NOUN hunter%1:18:00::
+#7 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#10 program NOUN program%1:09:00::,program%1:09:01::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 information NOUN information%1:09:00::,information%1:10:02::
+#17 include VERB include%2:31:00::,include%2:41:03::
+#21 hunt NOUN hunt%1:04:01::
+#24 game NOUN game%1:05:00::,game%1:13:00::
+Ask Sammy Shooter .
+1
+#0 ask VERB ask%2:32:00::,ask%2:32:04::
+We were camping a few weeks ago on Cape Hatteras Campground in that land of pirates , seagulls and bluefish on North Carolina 's famed Outer Banks .
+2
+#2 camp VERB camp%2:42:00::
+#13 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+This beach campground with no trees or hills presents a constant camping show with all manner of equipment in actual use .
+6
+#5 tree NOUN tree%1:20:00::
+#7 hill NOUN hill%1:06:01::,hill%1:17:00::
+#8 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#11 camp NOUN camp%1:06:01::,camp%1:14:00::
+#12 show NOUN show%1:04:00::,show%1:10:00::
+#15 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+With the whole camp exposed to view we could see the variety of canvas shelters in which Americans are camping now .
+8
+#2 whole ADJ whole%3:00:00::
+#3 camp NOUN camp%1:06:01::,camp%1:14:00::
+#6 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#17 American NOUN american%1:18:00::,american%1:18:01::
+#19 camp VERB camp%2:42:00::
+#20 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+There were umbrella tents , wall tents , cottage tents , station wagon tents , pup tents , Pop tents , Baker tents , tents with exterior frames , camper trailers , travel trailers , and even a few surplus parachutes serving as sunshades over entire family camps .
+4
+#27 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+#41 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#46 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#47 camp NOUN camp%1:06:01::,camp%1:14:00::
+Moving around camp we saw all kinds of camp stoves , lanterns , coolers , bedding , games , fishing tackle , windbreaks and sunshades .
+8
+#0 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#1 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+#2 camp NOUN camp%1:06:01::,camp%1:14:00::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 camp NOUN camp%1:06:01::,camp%1:14:00::
+#11 lantern NOUN lantern%1:06:00::
+#13 cooler NOUN cooler%1:06:00::
+#17 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+We saw similar displays in the other three campgrounds in this 70 mile long National Seashore Recreation Area .
+4
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 display NOUN display%1:10:00::
+#6 other ADJ other%3:00:00::
+#13 long ADJ long%3:00:01::
+Dealers would do well to visit such a campground often , look at the equipment and talk with the campers .
+4
+#0 dealer NOUN dealer%1:18:02::
+#5 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#11 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#19 camper NOUN camper%1:18:00::
+Here you begin to appreciate the scope of the challenges and possibilities facing the industry .
+6
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 appreciate VERB appreciate%2:31:00::
+#6 scope NOUN scope%1:07:00::
+#9 challenge NOUN challenge%1:10:00::
+#12 face VERB face%2:32:00::,face%2:32:03::
+#14 industry NOUN industry%1:04:00::,industry%1:14:00::
+Camping is big and getting bigger .
+4
+#0 camp NOUN camp%1:06:01::,camp%1:14:00::
+#2 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#4 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#5 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+No one knows where it will stop .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Almost every official who reflects on it thinks this movement of Americans to canvas dwellings opens one of the most promising of all outdoor markets .
+6
+#4 reflect VERB reflect%2:31:00::
+#7 think VERB think%2:31:01::,think%2:31:03::
+#9 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#11 American NOUN american%1:18:00::,american%1:18:01::
+#15 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#19 most ADV most%4:02:00::
+You read various guesses on how many Americans are camping .
+3
+#1 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#7 American NOUN american%1:18:00::,american%1:18:01::
+#9 camp VERB camp%2:42:00::
+The number depends on who is talking at the moment .
+2
+#1 number NOUN number%1:10:01::,number%1:23:00::
+#9 moment NOUN moment%1:28:00::,moment%1:28:01::
+The figures range as high as 15 million families .
+4
+#1 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#2 range VERB range%2:42:00::
+#4 high ADJ high%3:00:02::
+#8 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+I 've heard 10 million mentioned often , but I 'm more inclined to think there may be a total of some five to seven million families camping .
+4
+#11 more ADV more%4:02:00::
+#14 think VERB think%2:31:01::,think%2:31:03::
+#26 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#27 camp NOUN camp%1:06:01::,camp%1:14:00::
+Seven million families would total 30 million Americans or more .
+4
+#2 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#4 total VERB total%2:32:00::,total%2:42:00::
+#7 American NOUN american%1:18:00::,american%1:18:01::
+#9 more ADV more%4:02:01::
+Consider the equipment needed to protect this many from the weather , to make their cooking easy and their sleeping comfortable .
+5
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 cooking NOUN cooking%1:04:00::
+#16 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#19 sleep NOUN sleep%1:26:00::
+#20 comfortable ADJ comfortable%3:00:01::
+Harassed state park officials often have more campers than they know what to do with .
+4
+#2 park NOUN park%1:06:00::,park%1:15:00::,park%1:15:01::
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 camper NOUN camper%1:18:00::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+They are struggling to meet the demand for camping space , but families are being turned away , especially on holiday weekends .
+5
+#4 meet VERB meet%2:41:02::,meet%2:42:01::
+#8 camp NOUN camp%1:06:01::,camp%1:14:00::
+#9 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#12 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#18 especially ADV especially%4:02:00::
+The National Parks , always popular camping places , are facing the same pressure .
+6
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#6 camp NOUN camp%1:06:01::,camp%1:14:00::
+#7 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#10 face VERB face%2:32:00::,face%2:32:03::
+#12 same ADJ same%3:00:00::,same%3:00:02::
+#13 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+The National Park Service hopes by 1966 to have 30000 campsites available for 100000 campers a day - almost twice what there are at present .
+3
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 camper NOUN camper%1:18:00::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The U. S. Forest Service cares for hundreds of thousands of campers in its 149 National Forests and is increasing its facilities steadily .
+3
+#5 care VERB care%2:41:13::
+#11 camper NOUN camper%1:18:00::
+#21 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+But the campers still come .
+3
+#2 camper NOUN camper%1:18:00::
+#3 still ADV still%4:02:00::
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+They bring their families and tents and camp kitchens and bedding .
+3
+#3 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#7 camp NOUN camp%1:06:01::,camp%1:14:00::
+#8 kitchen NOUN kitchen%1:06:00::
+They come prepared for family fun because Americans in ever growing numbers are learning that here is the way to a fine economical vacation that becomes a family experience of lasting importance .
+9
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 American NOUN american%1:18:00::,american%1:18:01::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 learn VERB learn%2:31:01::,learn%2:31:03::
+#18 way NOUN way%1:04:00::,way%1:09:00::
+#21 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#23 vacation NOUN vacation%1:28:00::
+#25 become VERB become%2:30:00::,become%2:42:01::
+#27 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+There are a half dozen reasons helping to account for the migration to the campgrounds .
+3
+#5 reason NOUN reason%1:09:01::,reason%1:16:00::
+#6 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#11 migration NOUN migration%1:04:00::
+Among them , according to the U. S. Department of Commerce , are : ( 1 ) shorter work weeks , ( 2 ) higher pay , ( 3 ) longer paid vacations , ( 4 ) better transportation , ( 5 ) earlier retirement , and ( 6 ) more education .
+6
+#24 high ADJ high%3:00:02::
+#30 long ADJ long%3:00:02::
+#37 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#38 transportation NOUN transportation%1:04:00::
+#44 retirement NOUN retirement%1:04:00::
+#51 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+The more people learn about their country , the more they want to learn .
+5
+#2 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#3 learn VERB learn%2:31:01::,learn%2:31:03::
+#6 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#11 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#13 learn VERB learn%2:31:01::,learn%2:31:03::
+Camping is family fun , and it is helping more Americans see more of the country than they ever saw before .
+6
+#0 camp NOUN camp%1:06:01::,camp%1:14:00::
+#8 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#10 American NOUN american%1:18:00::,american%1:18:01::
+#11 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#18 ever ADV ever%4:02:05::
+#20 before ADV before%4:02:03::
+But make no mistake about it , the first reason people turn to camping is one of economy .
+5
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 reason NOUN reason%1:09:01::,reason%1:16:00::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 camp NOUN camp%1:06:01::,camp%1:14:00::
+#17 economy NOUN economy%1:04:00::,economy%1:07:00::,economy%1:09:01::,economy%1:14:00::
+Here is the promise of a vacation trip they can afford .
+3
+#6 vacation NOUN vacation%1:28:00::
+#7 trip NOUN trip%1:04:00::
+#10 afford VERB afford%2:34:00::,afford%2:42:00::
+The American Automobile Association , computing the cost for two people to vacation by automobile , comes up with an average daily expenditure figure of $ 29 .
+2
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#23 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+The AAA then splits it down this way : $ 10.50 for meals , $ 9.50 for lodging , $ 7 for gas and oil , and $ 2 for tips and miscellaneous .
+7
+#3 split VERB split%2:41:03::
+#7 way NOUN way%1:04:00::,way%1:09:00::
+#12 meal NOUN meal%1:28:00::
+#17 lodging NOUN lodging%1:07:00::
+#22 gas NOUN gas%1:06:00::,gas%1:27:02::
+#24 oil NOUN oil%1:27:00::
+#30 tip NOUN tip%1:21:00::
+What does the camping couple do to this set of figures ?
+4
+#3 camp NOUN camp%1:06:01::,camp%1:14:00::
+#4 couple NOUN couple%1:14:00::,couple%1:17:00::
+#8 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#10 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+The $ 9.50 for lodging they save .
+2
+#4 lodging NOUN lodging%1:07:00::
+#6 save VERB save%2:30:00::,save%2:40:02::,save%2:40:04::
+Because they prepare their own meals they also keep in their pockets a good portion of that $ 10.50 food bill along with most of the tip money .
+7
+#2 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#4 own ADJ own%5:00:00:personal:00
+#5 meal NOUN meal%1:28:00::
+#11 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#13 good ADJ good%5:00:00:complete:00
+#20 bill NOUN bill%1:10:01::
+#26 tip NOUN tip%1:21:00::
+The automobile expenses are about the only vacationing cost they can n't either eliminate or pare down drastically by camping along the way .
+2
+#19 camp VERB camp%2:42:00::
+#22 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+Where Americans used to think of a single vacation each summer , they now think about how many vacations they can have .
+6
+#1 American NOUN american%1:18:00::,american%1:18:01::
+#7 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#8 vacation NOUN vacation%1:28:00::
+#10 summer NOUN summer%1:28:00::
+#13 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#18 vacation NOUN vacation%1:28:00::
+Long weekends enable many to get away from home for three or four days several times a year .
+3
+#2 enable VERB enable%2:30:00::,enabling%3:00:00::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#15 time NOUN time%1:11:00::
+And even if they stay in resorts part of the time , they might , if the right salesman gets them in tow , develop a yearning to spice the usual vacation fare with a camping trip into the wide open spaces .
+12
+#4 stay VERB stay%2:42:01::
+#6 resort NOUN resort%1:04:00::
+#7 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#10 time NOUN time%1:28:01::,time%1:28:05::
+#19 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#31 vacation NOUN vacation%1:28:00::
+#32 fare NOUN fare%1:13:00::
+#35 camp NOUN camp%1:06:01::,camp%1:14:00::
+#36 trip NOUN trip%1:04:00::
+#39 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#40 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#41 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+It would be a mistake to sell those thousands of beginning campers on the idea they 're buying the comforts of home .
+6
+#6 sell VERB sell%2:40:02::,sell%2:42:13::,sell%2:42:14::
+#11 camper NOUN camper%1:18:00::
+#14 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#17 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#19 comfort NOUN comfort%1:26:01::
+#21 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+They 're not .
+1
+#2 not ADV not%4:02:00::
+Home is the place to find the comforts of home .
+5
+#0 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#7 comfort NOUN comfort%1:26:01::
+#9 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+They 're buying fun and adventure and family experiences .
+2
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#7 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+But it would also be a mistake for them not to realize how comfortable camping has become .
+5
+#9 not ADV not%4:02:00::
+#11 realize VERB realize%2:31:01::
+#13 comfortable ADJ comfortable%3:00:01::
+#14 camp NOUN camp%1:06:01::,camp%1:14:00::
+#16 become VERB become%2:30:00::,become%2:42:01::
+This is no longer a way of life for the bearded logger and the wandering cowboy .
+2
+#11 logger NOUN logger%1:18:00::
+#15 cowboy NOUN cowboy%1:18:00::
+Today 's campers want comforts , and they have them .
+4
+#2 camper NOUN camper%1:18:00::
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 comfort NOUN comfort%1:26:01::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+And this helps explain why so many people are now going camping .
+5
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 camp VERB camp%2:42:00::
+It 's fun , and it 's easy - so easy that there is time left after cooking , and tent keeping , for the women to get out and enjoy outdoor fun with their families .
+7
+#7 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#9 so ADV so%4:02:03::,so%4:02:07::
+#10 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#14 time NOUN time%1:28:01::,time%1:28:05::
+#17 cooking NOUN cooking%1:04:00::
+#30 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#35 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+Camp meals are no great problem .
+3
+#1 meal NOUN meal%1:28:00::
+#4 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+Neither are beds , thanks to air mattresses and sleeping bags .
+1
+#2 bed NOUN bed%1:06:00::
+Neither are shelters , because there is one to meet the needs of every camper or prospective camper .
+3
+#9 meet VERB meet%2:41:02::,meet%2:42:01::
+#14 camper NOUN camper%1:18:00::
+#17 camper NOUN camper%1:18:00::
+But there is still the sometimes complex problem of helping campers choose the best equipment for their individual needs .
+6
+#6 complex ADJ complex%3:00:00::
+#7 problem NOUN problem%1:09:00::,problem%1:26:00::
+#9 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#10 camper NOUN camper%1:18:00::
+#13 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#17 individual ADJ individual%5:00:00:independent:00

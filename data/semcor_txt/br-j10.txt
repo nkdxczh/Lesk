@@ -1,0 +1,650 @@
+ Apart from the honeybee , practically all bees and bumblebees hibernate in a state of torpor .
+5
+#0 apart ADV apart%4:02:01::,apart%4:02:06::
+#3 bee NOUN honeybee%1:05:00::
+#5 practically ADV practically%4:02:00::
+#7 bee NOUN bee%1:05:00::
+#13 state NOUN state%1:03:00::,state%1:26:01::,state%1:26:02::
+Occasionally , you may come across one or two bumblebees in the cold season , when you are turning over sods in your garden , but you have to be a really keen observer to see them at all .
+4
+#12 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#20 sod NOUN sod%1:17:00::
+#32 keen ADJ keen%5:00:00:perceptive:00
+#35 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+They keep their wings and feet pressed tightly against their bodies , and in spite of their often colorful attire you may very well mistake them for lumps of dirt .
+6
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#5 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#6 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#10 body NOUN body%1:08:00::,body%1:08:02::
+#18 colorful ADJ colorful%3:00:00::
+#23 well ADV well%4:02:03::,well%4:02:12::
+I must add at once that these animals are what we call " queens " , young females that have mated in the previous summer or autumn .
+6
+#2 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#11 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#13 queen NOUN queen%1:05:01::
+#20 mate VERB mate%2:35:00::
+#23 previous ADJ previous%5:00:00:preceding:00
+#24 summer NOUN summer%1:28:00::
+It is on them alone that the future of their race depends , for all their relatives ( mothers , husbands , brothers , and unmated sisters ) have perished with the arrival of the cold weather .
+6
+#4 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#7 future NOUN future%1:10:00::,future%1:28:00::
+#16 relative NOUN relative%1:18:00::
+#18 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#22 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#26 sister NOUN sister%1:18:00::,sister%1:18:01::,sister%1:18:02::
+Even some of the queens will die before the winter is over , falling prey to enemies or disease .
+4
+#4 queen NOUN queen%1:05:01::
+#6 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#7 before ADV before%4:02:03::
+#13 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+The survivors emerge on some nice , sunny day in March or April , when the temperature is close to 50 ` F and there is not too much wind .
+4
+#5 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#29 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+Now the thing for us to do is to find ourselves a couple of those wonderful flowering currants such as the red Ribes sanguineum of our Pacific Northwest , or otherwise a good sloe tree , or perhaps some nice pussy willow in bloom , preferably one with male or staminate catkins .
+7
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#16 flower NOUN flower%1:20:00::,flower%1:28:00::
+#21 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#30 otherwise ADV otherwise%4:02:03::
+#34 tree NOUN tree%1:20:00::
+#39 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#43 bloom VERB bloom%2:30:00::
+The blooms of Ribes and of the willow and sloe are the places where large numbers of our early insects will assemble : honeybees , bumblebees , and other wild bees , and also various kinds of flies .
+9
+#1 bloom NOUN bloom%1:28:01::
+#7 willow NOUN willow%1:20:00::
+#12 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#18 early ADJ early%5:00:00:past:00
+#21 assemble VERB assemble%2:41:03::
+#23 bee NOUN honeybee%1:05:00::
+#29 wild ADJ wild%3:00:01::,wild%5:00:00:inhospitable:00,wild%5:00:00:noncivilized:00
+#30 bee NOUN bee%1:05:00::
+#37 fly NOUN fly%1:04:00::
+It is a happy , buzzing crowd .
+1
+#3 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+Each male willow catkin is composed of a large number of small flowers .
+2
+#2 willow NOUN willow%1:20:00::
+#12 flower NOUN flower%1:20:00::,flower%1:28:00::
+It is not difficult to see that the stamens of the catkin are always arranged in pairs , and that each individual flower is nothing but one such pair standing on a green , black tipped little scale .
+10
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#13 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#14 arrange VERB arrange%2:35:00::
+#21 individual ADJ individual%5:00:00:independent:00
+#22 flower NOUN flower%1:20:00::,flower%1:28:00::
+#29 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#32 green ADJ green%5:00:00:chromatic:00
+#34 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#35 tip VERB tip%2:32:04::
+#37 scale NOUN scale%1:05:00::,scale%1:17:00::,scale%1:20:00::
+By scrutinizing the flowers , one can also notice that the scale bears one or two tiny warts .
+3
+#3 flower NOUN flower%1:20:00::,flower%1:28:00::
+#11 scale NOUN scale%1:05:00::,scale%1:17:00::,scale%1:20:00::
+#12 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+Those are the nectaries or honey glands ( Fig. 26 , page 74 ) .
+3
+#5 honey NOUN honey%1:13:00::
+#6 gland NOUN gland%1:08:00::
+#11 page NOUN page%1:10:00::
+The staminate willow catkins , then , provide their visitors with both nectar and pollen ; a marvelous arrangement , for it provides exactly what the bee queens need to make their beebread , a combination of honey and pollen with which the young of all species are fed .
+12
+#2 willow NOUN willow%1:20:00::
+#5 then ADV then%4:02:02::
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+#12 nectar NOUN nectar%1:27:00::
+#18 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#22 provide VERB provide%2:34:00::,provide%2:40:00::
+#23 exactly ADV exactly%4:02:02::
+#27 queen NOUN queen%1:05:01::
+#35 combination NOUN combination%1:04:00::,combination%1:14:00::
+#37 honey NOUN honey%1:13:00::
+#46 species NOUN species%1:09:00::,species%1:14:00::
+#48 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+The only exception to this is certain bees that have become parasites .
+2
+#7 bee NOUN bee%1:05:00::
+#10 become VERB become%2:30:00::,become%2:42:01::
+I will deal with these later on .
+1
+#2 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+Quite often , honeybees form a majority on the willow catkins .
+5
+#0 quite ADV quite%4:02:03::
+#3 bee NOUN honeybee%1:05:00::
+#4 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#6 majority NOUN majority%1:07:00::,majority%1:23:00::
+#9 willow NOUN willow%1:20:00::
+As we have already seen in the first chapter , bumblebees are bigger , hairier , and much more colorful than honeybees , exhibiting various combinations of black , yellow , white and orange .
+14
+#3 already ADV already%4:02:00::
+#7 first ADJ first%3:00:00::,first%4:02:00::
+#8 chapter NOUN chapter%1:10:00::
+#12 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#14 hairy ADJ hairy%3:00:00::
+#18 more ADV more%4:02:00::
+#19 colorful ADJ colorful%3:00:00::
+#21 bee NOUN honeybee%1:05:00::
+#23 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#25 combination NOUN combination%1:04:00::,combination%1:14:00::
+#27 black NOUN black%1:07:00::
+#29 yellow NOUN yellow%1:07:00::
+#31 white NOUN white%1:06:03::
+#33 orange NOUN orange%1:07:00::
+Let us not try to key them out at this stage of the game , and let us just call them Bombus ; there must be several dozen species in the United States alone .
+8
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 stage NOUN stage%1:04:00::,stage%1:26:00::
+#13 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#18 just ADV just%4:02:00::,just%4:02:03::
+#19 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#27 dozen NOUN dozen%1:23:00::
+#28 species NOUN species%1:09:00::,species%1:14:00::
+#33 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+If you really insist on knowing their names , an excellent book on the North American species is Bumblebees and Their Ways by O. E. Plath .
+6
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#7 name NOUN name%1:14:00::
+#10 excellent ADJ excellent%5:00:00:superior:02
+#11 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#16 species NOUN species%1:09:00::,species%1:14:00::
+#21 way NOUN way%1:04:00::,way%1:09:00::
+If we manage to keep track of a Bombus queen after she has left her feeding place , we may discover the snug little hideout which she has fixed up for herself when she woke up from her winter sleep .
+8
+#2 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#9 queen NOUN queen%1:05:01::
+#13 leave VERB leave%2:38:00::,leave%2:41:00::
+#16 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#20 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#22 snug ADJ snug%5:00:00:protected:00
+#39 sleep NOUN sleep%1:26:00::
+As befits a queen , a bumblebee female is rather choosy and may spend considerable time searching for a suitable nesting place .
+3
+#3 queen NOUN queen%1:05:01::
+#9 rather ADV rather%4:02:00::,rather%4:02:04::
+#15 time NOUN time%1:28:01::,time%1:28:05::
+Most species seem to prefer a ready-made hollow such as a deserted mouse nest , a bird house , or the hole made by a woodpecker ; some show a definite liking for making their nest in moss .
+8
+#1 species NOUN species%1:09:00::,species%1:14:00::
+#4 prefer VERB prefer%2:31:00::
+#21 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#28 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#31 like NOUN like%1:09:00::
+#33 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#35 nest NOUN nest%1:17:00::
+#37 moss NOUN moss%1:20:00::
+Once she has made up her mind , the queen starts out by constructing , in her chosen abode , a small " floor " of dried grass or some woolly material .
+6
+#0 once CONJ once%4:02:02::
+#9 queen NOUN queen%1:05:01::
+#23 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#26 dry ADJ dry%3:00:01::
+#30 woolly ADJ woolly%5:00:00:soft:01
+#31 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+On this , she builds an " egg compartment " or " egg cell " which is filled with that famous pollen and nectar mixture called beebread .
+5
+#7 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#8 compartment NOUN compartment%1:06:00::
+#12 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#13 cell NOUN cell%1:03:00::,cell%1:06:03::
+#23 nectar NOUN nectar%1:27:00::
+She also builds one or two waxen cups which she fills with honey .
+2
+#7 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#12 honey NOUN honey%1:13:00::
+Then , a group of eggs is deposited in a cavity in the beebread loaf and the egg compartment is closed .
+6
+#0 then ADV then%4:02:00::
+#5 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#7 deposit VERB deposit%2:35:01::
+#17 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#18 compartment NOUN compartment%1:06:00::
+#20 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+The queen afterward keeps incubating and guarding her eggs like a mother hen , taking a sip from time to time from the rather liquid honey in her honey pots .
+9
+#1 queen NOUN queen%1:05:01::
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#8 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#11 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#14 take VERB take%2:31:02::,take%2:34:00::
+#23 rather ADV rather%4:02:00::,rather%4:02:04::
+#24 liquid ADJ liquid%3:00:00::
+#25 honey NOUN honey%1:13:00::
+#28 honey NOUN honey%1:13:00::
+When the larvae hatch , they feed on the beebread , although they also receive extra honey meals from their mother .
+4
+#3 hatch VERB hatch%2:29:01::
+#16 honey NOUN honey%1:13:00::
+#17 meal NOUN meal%1:28:00::
+#20 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+She continues to add to the pollen supply as needed .
+2
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#3 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+The larvae , kept warm by the queen , are full grown in about ten days .
+4
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#4 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#7 queen NOUN queen%1:05:01::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Each now makes a tough , papery cocoon and pupates .
+2
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 tough ADJ tough%3:00:01::,tough%3:00:02::,tough%3:00:03::,tough%5:00:00:rugged:00,tough%5:00:00:violent:00,tough%5:00:01:difficult:00
+After another two weeks , the first young emerge , four to eight small daughters that begin to play the role of worker bees , collecting pollen and nectar in the field and caring for the new young generation while the queen retires to a life of egg laying .
+10
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#16 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#25 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#28 nectar NOUN nectar%1:27:00::
+#31 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#33 care VERB care%2:41:13::
+#36 new ADJ new%3:00:00::
+#41 queen NOUN queen%1:05:01::
+#42 retire VERB retire%2:29:00::,retire%2:38:00::,retire%2:41:00::,retire%2:41:02::
+The first worker bees do not mate or lay eggs ; males and mating females do not emerge until later in the season .
+4
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#6 mate VERB mate%2:35:00::
+#8 lay VERB lay%2:35:02::
+#9 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+The broods of workers that appear later tend to be bigger than the first ones , probably because they are better fed .
+6
+#3 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#5 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#7 tend VERB tend%2:42:01::
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#13 first ADJ first%3:00:00::,first%4:02:00::
+#21 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+By the middle of the summer , many of the larvae apparently receive such a good diet that it is " optimal " , and it is then that young queens begin to appear .
+6
+#5 summer NOUN summer%1:28:00::
+#16 diet NOUN diet%1:13:01::
+#27 then ADV then%4:02:01::
+#30 queen NOUN queen%1:05:01::
+#31 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#33 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Simultaneously , males or drones are produced , mostly from the unfertilized eggs of workers , although a few may be produced by the queen .
+6
+#4 drone NOUN drone%1:05:00::
+#6 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#12 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#14 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#21 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#24 queen NOUN queen%1:05:01::
+The young queens and drones leave the nest and mate , and after a short period of freedom , the fertilized young queens will begin to dig in for the winter .
+10
+#2 queen NOUN queen%1:05:01::
+#4 drone NOUN drone%1:05:00::
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+#7 nest NOUN nest%1:17:00::
+#9 mate VERB mate%2:35:00::
+#14 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#15 period NOUN period%1:28:00::,period%1:28:03::
+#22 queen NOUN queen%1:05:01::
+#24 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#26 dig VERB dig%2:35:01::
+It is an amazing fact that in some species this will happen while the summer is still in full swing , for instance , in August .
+3
+#8 species NOUN species%1:09:00::,species%1:14:00::
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#14 summer NOUN summer%1:28:00::
+The temperature then is still very high .
+2
+#2 then ADV then%4:02:01::
+#6 high ADJ high%3:00:02::
+At the old nest , the queen will in the early fall cease to lay the fertilized eggs that will produce females .
+8
+#2 old ADJ old%3:00:01::
+#3 nest NOUN nest%1:17:00::
+#6 queen NOUN queen%1:05:01::
+#10 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#11 fall NOUN fall%1:11:03::
+#14 lay VERB lay%2:35:02::
+#17 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#20 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+As a result , the proportion of males ( which leave the nest ) increases , and eventually the old colony will die out completely .
+4
+#10 leave VERB leave%2:38:00::,leave%2:41:00::
+#12 nest NOUN nest%1:17:00::
+#19 old ADJ old%3:00:01::
+#20 colony NOUN colony%1:14:01::
+The nest itself , the structure that in some cases housed about 2000 individuals when the season was at its peak , is now rapidly destroyed by the scavenging larvae of certain beetles and moths .
+5
+#1 nest NOUN nest%1:17:00::
+#9 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#10 house VERB house%2:41:00::
+#23 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#32 beetle NOUN beetle%1:05:00::
+Not always , though , does the development of a bumblebee colony take place in the smooth fashion we have just described .
+6
+#1 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#7 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#11 colony NOUN colony%1:14:01::
+#16 smooth ADJ smooth%3:00:00::
+#17 fashion NOUN fashion%1:07:00::
+#21 describe VERB describe%2:32:01::
+Some members of the bee family have become idlers , social parasites that live at the expense of their hardworking relatives .
+7
+#1 member NOUN member%1:18:00::,member%1:24:00::
+#4 bee NOUN bee%1:05:00::
+#5 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#8 idler NOUN idler%1:18:00::
+#13 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#20 relative NOUN relative%1:18:00::
+Bumblebees can thus suffer severely from the onslaughts of Psithyrus , the " cuckoo bumblebee " as it is called in some European countries .
+3
+#2 thus ADV thus%4:02:00::
+#3 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#4 severely ADV severely%4:02:01::
+Female individuals of Psithyrus look deceptively like the workers and queens of the bumblebees they victimize .
+3
+#4 look VERB look%2:39:01::,look%2:42:02::
+#8 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#10 queen NOUN queen%1:05:01::
+The one sure way to tell victim and villain apart is to examine the hind legs which in the case of the idler , Psithyrus , lack the pollen baskets - naturally !
+7
+#3 way NOUN way%1:04:00::,way%1:09:00::
+#8 villain NOUN villain%1:18:01::
+#12 examine VERB examine%2:31:00::,examine%2:32:01::
+#19 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#22 idler NOUN idler%1:18:00::
+#29 basket NOUN basket%1:06:00::
+#31 naturally ADV naturally%4:02:00::
+The female parasite spends much time in her efforts to find a nest of her host .
+4
+#5 time NOUN time%1:28:01::,time%1:28:05::
+#10 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#12 nest NOUN nest%1:17:00::
+#15 host NOUN host%1:05:00::,host%1:18:03::
+When she succeeds , she usually manages to slip in unobtrusively , to deposit an egg on a completed loaf of beebread before the bumblebees seal the egg compartment .
+8
+#2 succeed VERB succeed%2:41:00::
+#6 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#13 deposit VERB deposit%2:35:01::
+#15 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#18 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#25 seal VERB seal%2:35:00::
+#27 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#28 compartment NOUN compartment%1:06:00::
+The hosts never seem to recognize that something is amiss , so that the compartment afterward is sealed normally .
+5
+#1 host NOUN host%1:05:00::,host%1:18:03::
+#2 never ADV never%4:02:00::
+#14 compartment NOUN compartment%1:06:00::
+#17 seal VERB seal%2:35:00::
+#18 normally ADV normally%4:02:00::
+Thus , the larvae of the intruder can develop at the expense of the rightful inhabitants and the store of beebread .
+3
+#0 thus ADV thus%4:02:00::
+#8 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#18 store NOUN store%1:06:01::,store%1:06:03::,store%1:21:00::
+Later on , they and the mother Psithyrus are fed by the Bombus workers .
+3
+#6 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#9 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#13 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+Worse still , in a number of cases it has been claimed that the Psithyrus female kills off the Bombus queen .
+4
+#1 still ADV still%4:02:00::
+#5 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#7 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#20 queen NOUN queen%1:05:01::
+But let us return , after this gruesome interlude , to our willow catkins in the spring ; there are other wild bees that command our attention .
+9
+#3 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#8 interlude NOUN interlude%1:28:00::
+#12 willow NOUN willow%1:20:00::
+#16 spring NOUN spring%1:28:00::
+#20 other ADJ other%3:00:00::
+#21 wild ADJ wild%3:00:01::,wild%5:00:00:inhospitable:00,wild%5:00:00:noncivilized:00
+#22 bee NOUN bee%1:05:00::
+#24 command VERB command%2:32:02::
+#26 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+It is almost certain that some of these , usually a trifle smaller than the honeybees , are andrenas or mining bees .
+2
+#3 certain ADJ certain%3:00:01::
+#15 bee NOUN honeybee%1:05:00::
+There are about 200 different kinds of Andrena in Europe alone .
+3
+#2 about ADV about%4:02:00::
+#4 different ADJ different%3:00:00::,different%5:00:00:other:00
+#10 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+One of my favorites is A. armata , a species very common in England , where it is sometimes referred to as the lawn bee .
+5
+#9 species NOUN species%1:09:00::,species%1:14:00::
+#11 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#19 refer VERB refer%2:32:00::,refer%2:42:00::
+#23 lawn NOUN lawn%1:15:00::
+#24 bee NOUN bee%1:05:00::
+The females like to burrow in the short turf of well-kept lawns , where their little mounds of earth often appear by the hundreds .
+6
+#7 short ADJ short%3:00:01::
+#8 turf NOUN turf%1:17:00::
+#11 lawn NOUN lawn%1:15:00::
+#16 mound NOUN mound%1:06:00::
+#18 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#20 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Almost equal in size to a honeybee .
+3
+#1 equal ADJ equal%3:00:00::
+#3 size NOUN size%1:07:00::,size%1:07:02::
+#6 bee NOUN honeybee%1:05:00::
+A. armata is much more beautiful in color , at least in the female of the species : a rich , velvety , rusty red .
+6
+#4 more ADV more%4:02:00::
+#7 color NOUN color%1:07:00::,color%1:27:00::
+#16 species NOUN species%1:09:00::,species%1:14:00::
+#19 rich ADJ rich%5:00:00:colorful:00,rich%5:00:00:full:01
+#23 rusty ADJ rusty%5:00:00:rusted:00
+#24 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+The males are much duller .
+1
+#4 dull ADJ dull%5:00:00:unsaturated:03
+After having mated , an Andrena female digs a hole straight down into the ground , forming a burrow about the size of a lead pencil .
+8
+#2 mate VERB mate%2:35:00::
+#7 dig VERB dig%2:35:01::
+#9 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#10 straight ADV straight%4:02:05::
+#11 down ADV down%4:02:00::,down%4:02:02::
+#14 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#16 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+#21 size NOUN size%1:07:00::,size%1:07:02::
+The bottom part of a burrow has a number of side tunnels or " cells " , each of which is provided with an egg plus a store of beebread .
+8
+#1 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#2 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#14 cell NOUN cell%1:03:00::,cell%1:06:03::
+#21 provide VERB provide%2:34:00::,provide%2:40:00::
+#24 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#27 store NOUN store%1:06:01::,store%1:06:03::,store%1:21:00::
+The development of the Andrena larvae is very rapid , so that by the end of spring they have already pupated and become adults .
+5
+#1 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#14 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#16 spring NOUN spring%1:28:00::
+#19 already ADV already%4:02:00::
+#22 become VERB become%2:30:00::,become%2:42:01::
+But they are still enclosed in their larval cells and remain there throughout the summer , fall , and winter .
+5
+#4 enclose VERB enclose%2:42:00::
+#8 cell NOUN cell%1:03:00::,cell%1:06:03::
+#11 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#14 summer NOUN summer%1:28:00::
+#16 fall NOUN fall%1:11:03::
+Their appearance , next spring , coincides in an almost uncanny way with the flowering of their host plants .
+6
+#1 appearance NOUN appearance%1:11:00::
+#4 spring NOUN spring%1:28:00::
+#11 way NOUN way%1:04:00::,way%1:09:00::
+#14 flower NOUN flower%1:20:00::,flower%1:28:00::
+#17 host NOUN host%1:05:00::,host%1:18:03::
+#18 plant NOUN plant%1:03:00::
+In the Sacramento valley in California , for instance , it has been observed that there was not one day 's difference between the emergence of the andrenas and the opening of the willow catkins .
+4
+#2 Sacramento NOUN sacramento_river%1:17:00::
+#13 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#19 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#33 willow NOUN willow%1:20:00::
+This must be due to a completely identical response to the weather , in the plant and the animal .
+2
+#7 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#15 plant NOUN plant%1:03:00::
+After the male and female andrenas have mated , the cycle is repeated .
+3
+#7 mate VERB mate%2:35:00::
+#10 cycle NOUN cycle%1:28:00::
+#12 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+Although Andrena is gregarious , so that we may find hundreds and hundreds of burrows together , we must still call it a solitary bee .
+5
+#9 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#15 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#19 still ADV still%4:02:04::
+#20 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#24 bee NOUN bee%1:05:00::
+Its life history is much simpler than that of the truly colonial bumblebees and can serve as an example of the life cycle of many other species .
+5
+#5 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#11 colonial ADJ colonial%3:01:01::
+#15 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#18 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#26 species NOUN species%1:09:00::,species%1:14:00::
+After all , social life in the group of the bees is by no means general , although it certainly is a striking feature .
+5
+#4 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#10 bee NOUN bee%1:05:00::
+#15 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#22 striking ADJ striking%5:00:00:conspicuous:00
+#23 feature NOUN feature%1:08:00::,feature%1:09:01::
+On the basis of its life history , we like to think that Andrena is more primitive than the bumblebees .
+4
+#9 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#11 think VERB think%2:31:01::,think%2:31:03::
+#15 more ADV more%4:02:00::
+#16 primitive ADJ primitive%5:00:00:noncivilized:00,primitive%5:00:00:untrained:00,primitive%5:00:02:early:02
+The way in which it transports its pollen is not so perfect , either .
+5
+#1 way NOUN way%1:04:00::,way%1:09:00::
+#5 transport VERB transport%2:35:01::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 perfect ADJ perfect%3:00:00::
+#13 either ADV either%4:02:00::
+It lacks pollen baskets and possesses only a large number of long , branched hairs on its legs , on which the pollen grains will collect .
+8
+#3 basket NOUN basket%1:06:00::
+#5 possess VERB possess%2:40:00::,possess%2:42:00::
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 long ADJ long%3:00:01::
+#14 hair NOUN hair%1:08:00::,hair%1:20:00::,hair%1:23:00::
+#17 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#23 grain NOUN grain%1:20:00::
+#25 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+Still Andrena will do a reasonably good job , so that an animal with a full pollen load looks like a gay little piece of yellow down floating in the wind .
+9
+#0 still ADV still%4:02:04::
+#7 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#15 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#17 load NOUN load%1:06:02::
+#21 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#25 yellow NOUN yellow%1:07:00::
+#26 down NOUN down%1:05:00::
+#27 float VERB float%2:38:04::
+#30 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+Nomia melanderi can be found in tremendous numbers in certain parts of the United States west of the Great Plains , for example , in Utah and central Washington .
+5
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#7 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#10 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#27 central ADJ central%3:00:01::,central%5:00:00:important:00
+#28 Washington NOUN washington%1:14:00::
+In the United States Department of Agriculture 's Yearbook of Agriculture , 1952 , which is devoted entirely to insects , George E. Bohart mentions a site in Utah which was estimated to contain 200000 nesting females .
+4
+#16 devote VERB devote%2:31:00::
+#26 site NOUN site%1:15:00::,site%1:15:02::
+#33 contain VERB contain%2:42:00::,contain%2:42:06::
+#35 nest VERB nest%2:35:01::
+Often the burrows are only an inch or two apart , and the bee cities cover several acres .
+6
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 inch NOUN inch%1:23:02::
+#9 apart ADV apart%4:02:03::
+#13 bee NOUN bee%1:05:00::
+#14 city NOUN city%1:15:00::
+#15 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+The life history of the alkali bee is similar to that of Andrena , but the first activity of the adults does not take place until summer , and the individuals hibernate in the prepupal stage .
+3
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#26 summer NOUN summer%1:28:00::
+#35 stage NOUN stage%1:04:00::,stage%1:26:00::
+In most places , there are two generations a year , a second brood of adults appearing late in the summer .
+5
+#2 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#12 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#16 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#17 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#20 summer NOUN summer%1:28:00::
+I must plead guilty to a special sympathy for nomias .
+1
+#2 plead VERB plead%2:32:00::,plead%2:32:01::,plead%2:32:02::,plead%2:32:03::
+This may just be pride in my adopted State of Washington , but certainly I love to visit their mound cities near Yakima and Prosser in July or August , when the bees are in their most active period .
+7
+#2 just ADV just%4:02:00::,just%4:02:03::
+#4 pride NOUN pride%1:12:01::
+#17 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#19 mound NOUN mound%1:06:00::
+#20 city NOUN city%1:15:00::
+#32 bee NOUN bee%1:05:00::
+#38 period NOUN period%1:28:00::,period%1:28:03::
+The name " alkali bee " indicates that one has to look for them in rather inhospitable places .
+4
+#1 name NOUN name%1:14:00::
+#6 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#15 rather ADV rather%4:02:00::,rather%4:02:04::
+#17 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+Sometimes , although by no means always , these are indeed alkaline .
+2
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#10 indeed ADV indeed%4:02:03::
+The thing is that these bees love a fine-grained soil that is moist ; yet the water in the ground should not be stagnant either .
+5
+#5 bee NOUN bee%1:05:00::
+#9 soil NOUN soil%1:15:00::,soil%1:26:00::
+#16 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#19 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#24 either ADV either%4:02:00::
+They dislike dense vegetation .
+2
+#2 dense ADJ dense%5:00:00:thick:02
+#3 vegetation NOUN vegetation%1:14:00::
+Where does one find such conditions ?
+1
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The best chance , of course , is offered by gently sloping terrain where the water remains close to the surface and where the air is dry , so that a high evaporation leaves salty deposits which permit only sparse plant growth .
+12
+#1 good ADJ best%3:00:00::,good%3:00:01::
+#12 terrain NOUN terrain%1:15:00::
+#17 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#20 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#24 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#26 dry ADJ dry%3:00:01::
+#31 high ADJ high%3:00:02::
+#33 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#35 deposit NOUN deposit%1:19:00::
+#38 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#40 plant NOUN plant%1:03:00::
+#41 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::

@@ -1,0 +1,615 @@
+ Among us , we three handled quite a few small commissions , from spot drawings for advertising agencies uptown to magazine work and quick lettering jobs .
+7
+#5 handle VERB handle%2:41:00::,handle%2:41:03::
+#6 quite ADV quite%4:02:03::
+#10 commission NOUN commission%1:04:00::,commission%1:04:02::
+#14 drawing NOUN drawing%1:04:01::
+#20 magazine NOUN magazine%1:10:00::
+#23 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#25 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+Each of us had his own specialty besides .
+3
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 own ADJ own%5:00:00:personal:00
+#6 specialty NOUN specialty%1:04:00::
+George did wonderful complicated pen-and-ink drawings like something out of a medieval miniature : hundreds of delicate details crammed into an eight by ten sheet and looking as if they had been done under a jeweler's glass .
+6
+#3 complicated ADJ complicated%5:00:00:complex:00
+#5 drawing NOUN drawing%1:04:01::
+#16 delicate ADJ delicate%3:00:00::
+#17 detail NOUN detail%1:10:00::,detail%1:24:00::
+#18 cram VERB cram%2:35:10::
+#26 look VERB look%2:39:01::,look%2:42:02::
+He also drew precise crisp spots , which he sold to various literary and artistic journals , The New Yorker , for instance , or Esquire .
+4
+#2 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#9 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#12 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#15 journal NOUN journal%1:10:00::
+I did book jackets and covers for paperback reprints : naked girls huddling in corners of dingy furnished rooms while at the doorway , daring the cops to take him , is the guy in shirt sleeves clutching a revolver .
+9
+#5 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#10 naked ADJ naked%5:00:00:unclothed:00
+#11 girl NOUN girl%1:18:01::,girl%1:18:03::
+#14 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#18 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#24 dare VERB dare%2:32:00::
+#26 cop NOUN cop%1:18:00::
+#28 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#33 guy NOUN guy%1:18:00::
+The book could be The Brothers Karamazov , but it would still have the same jacket illustration .
+4
+#1 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#11 still ADV still%4:02:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 same ADJ same%3:00:00::
+I remember once I did a jacket for Magpie Press ; the book was a fine historical novel about Edward 3 , , and I did a week of research to get the details just right : the fifteenth century armor , furnishings , clothes .
+6
+#2 once ADV once%4:02:00::
+#12 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#15 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#39 century NOUN century%1:28:00::
+#42 furnishing NOUN furnishing%1:06:00::
+#44 clothes NOUN clothes%1:06:00::
+I even ferreted out the materials from which shields were made - linden wood covered with leather - so I 'd get the light reflections accurate .
+8
+#5 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#10 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#13 wood NOUN wood%1:06:02::
+#14 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#16 leather NOUN leather%1:27:00::
+#23 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#24 reflection NOUN reflection%1:19:00::
+#25 accurate ADJ accurate%5:00:00:correct:00
+McKenzie , the art editor , took one look at my finished sketch and said , " Nothing doing , Rufus .
+2
+#12 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In the first place , it 's static ; in the second place , it does n't look authentic ; and in the third place , it would cost a fortune to reproduce in the first place - you 've got six colors there including gold " .
+11
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#3 place NOUN place%1:09:00::,place%1:10:02::,place%1:26:02::
+#7 static ADJ static%5:00:00:nonmoving:00
+#11 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#12 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#18 authentic ADJ authentic%5:00:00:genuine:00
+#24 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#28 cost VERB cost%2:42:00::,cost%2:42:01::
+#30 fortune NOUN fortune%1:21:00::
+#42 color NOUN color%1:07:00::,color%1:27:00::
+#45 gold NOUN gold%1:07:00::
+I said , " Mr. McKenzie , it is as authentic as careful research can make it " .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 authentic ADJ authentic%5:00:00:genuine:00
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He said , " That may be , but it is n't authentic the way readers think .
+5
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 authentic ADJ authentic%5:00:00:genuine:00
+#14 way NOUN way%1:04:00::,way%1:09:00::
+#15 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#16 think VERB think%2:31:01::,think%2:31:03::
+They know from their researches into television and the movies that knights in the middle ages had beautiful flowing haircuts like Little Lord Fauntleroy , and only the villains had beards .
+8
+#6 television NOUN television%1:06:00::
+#11 knight NOUN knight%1:18:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 haircut NOUN haircut%1:08:00::
+#26 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 villain NOUN villain%1:18:01::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#30 beard NOUN beard%1:20:00::
+And girls could n't have dressed like that - it is n't transparent enough " .
+3
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#5 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#13 enough ADV enough%4:02:00::
+In the end , I did the same old picture , the naked girl and the guy in the doorway , only I put a Lord Byron shirt on the guy , gave him a sword instead of a pistol , and painted in furniture from the stills of a costume movie .
+11
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#12 naked ADJ naked%5:00:00:unclothed:00
+#13 girl NOUN girl%1:18:01::,girl%1:18:03::
+#16 guy NOUN guy%1:18:00::
+#23 put VERB put%2:35:00::,put%2:35:05::
+#30 guy NOUN guy%1:18:00::
+#32 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#39 pistol NOUN pistol%1:06:00::
+#42 paint VERB paint%2:36:01::
+#44 furniture NOUN furniture%1:06:00::
+#47 still NOUN still%1:06:01::
+" That 's authenticity " , he said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+As for Donald , he actually sold paintings .
+2
+#5 actually ADV actually%4:02:01::
+#6 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+We all painted in our spare time , and we had all started as easel painters with scholarships , but he was the only one of us who made any regular money at it .
+6
+#2 paint VERB paint%2:36:01::
+#12 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#15 painter NOUN painter%1:18:00::
+#17 scholarship NOUN scholarship%1:21:00::
+#28 make VERB make%2:40:01::
+#30 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+Not much ; he sold perhaps three or four a year , and usually all to Joyce Monmouth or her friends .
+3
+#4 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#10 year NOUN year%1:28:00::,year%1:28:01::
+#20 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+He had style , a real inner vision of his very own .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#2 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#6 inner ADJ inner%5:00:00:inward:00
+#11 own ADJ own%5:00:00:personal:00
+It was strange stuff - it reminded me of the pictures of a child , but a child who has never played with other kids and has lived all its life with adults .
+8
+#2 strange ADJ strange%3:00:00::
+#3 stuff NOUN stuff%1:07:00::
+#20 never ADV never%4:02:00::
+#21 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#23 other ADJ other%3:00:00::
+#24 kid NOUN kid%1:18:00::
+#27 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#30 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+There was the freshness of color , the freedom of perception , the lack of self-consciousness , but with a twist that made the forms leap from the page and smack you in the eye .
+5
+#5 color NOUN color%1:07:00::,color%1:27:00::
+#20 twist NOUN twist%1:11:00::
+#24 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#30 smack VERB smack%2:35:02::
+#34 eye NOUN eye%1:08:00::,eye%1:09:01::
+We used to kid him by saying he only painted that way because he was so nearsighted .
+6
+#3 kid VERB kid%2:32:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 only ADJ only%5:00:00:exclusive:00
+#9 paint VERB paint%2:36:01::
+#11 way NOUN way%1:04:00::,way%1:09:00::
+#15 so ADV so%4:02:03::,so%4:02:07::
+It may have been true for all I know , because his glasses were like the bottoms of milk bottles , but it did n't prevent the paintings from being exciting .
+3
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#16 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#25 prevent VERB prevent%2:41:00::
+He also had , at times , an uncanny absent-minded air like a sleepwalker ; he would look right through you while you were talking to him , and if you said , " For Christ's sake , Donald , you 've got Prussian blue all over your shirt " , he would smile , and nod , and an hour later the paint would be all over his pants as well .
+10
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 air NOUN air%1:04:01::,air%1:07:00::
+#17 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#18 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#31 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#56 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#60 hour NOUN hour%1:07:00::,hours%1:28:01::
+#61 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#63 paint NOUN paint%1:06:00::
+#69 pants NOUN panting%1:06:00::
+Mrs. Monmouth thought of him as her discovery , and she paid two to three hundred dollars for a painting .
+3
+#7 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#11 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#19 painting NOUN painting%1:04:01::,painting%1:04:02::,painting%1:06:00::
+It was all gravy , and Donald did n't need much to live on ; none of us did .
+2
+#3 gravy NOUN gravy%1:11:00::
+#9 need VERB need%2:42:00::
+We shared the expenses of the studio , and we all lived within walking distance of it , in cheap lodgings of one kind or another .
+3
+#6 studio NOUN studio%1:06:02::
+#11 live VERB live%2:42:08::
+#14 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+Attending the life class was my idea - or rather , Askington 's idea , but I was ripe for it , and the other two would n't have gone if I had n't talked them into it .
+6
+#0 attend VERB attend%2:42:00::
+#6 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#9 rather ADV rather%4:02:02::
+#13 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#24 other ADJ other%3:00:00::
+#29 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+I wanted to paint again .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 paint VERB paint%2:36:01::
+I had n't done a serious picture in almost a year .
+2
+#5 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#10 year NOUN year%1:28:00::,year%1:28:01::
+It was n't just the pressure of work , although that was the excuse I often used , even to myself .
+4
+#3 just ADV just%4:02:00::,just%4:02:03::
+#5 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#7 work NOUN work%1:06:01::
+#13 excuse NOUN excuse%1:10:00::
+It was the kind of work I was doing , the quality of the ambition it awoke in me , that kept me from painting .
+1
+#11 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+I kept saying , " If I could just build up a reputation for myself , make some real money , get to be well known as an illustrator - like Peter Askington , for instance - then I could take some time off and paint " .
+4
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 just ADV just%4:02:00::,just%4:02:03::
+#16 make VERB make%2:40:01::
+#45 paint VERB paint%2:36:01::
+Askington was a kind of goal I set myself ; I had admired him long before I talked to him .
+2
+#5 goal NOUN goal%1:09:00::,goal%1:15:00::
+#7 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+It looked to me as though he had everything an artist could want , joy in his work , standing in the profession , a large and steady income .
+7
+#1 look VERB look%2:39:01::,look%2:42:02::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 standing NOUN standing%1:26:00::
+#22 profession NOUN profession%1:14:00::
+#25 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#27 steady ADJ steady%3:00:00::
+The night we first met , at one of Mrs. Monmouth 's giant parties , he was wearing a brown cashmere jacket with silver buttons and a soft pink Viyella shirt ; instead of a necktie he wore a leather bolo drawn through a golden ring in which was set a lump of pale pure jade .
+13
+#4 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#13 party NOUN party%1:14:00::
+#17 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#27 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+#28 pink ADJ pink%5:00:00:chromatic:00
+#37 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#40 bolo NOUN bolo%1:06:00::
+#41 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#44 golden ADJ golden%5:00:00:metallic:00
+#45 ring NOUN ring%1:06:00::
+#49 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#53 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#55 jade NOUN jade%1:27:00::
+This set his tone : richness of texture and color , and another kind of richness as well , for his clothing and decorations would have paid the Brush-off 's rent for a year .
+7
+#1 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#3 tone NOUN tone%1:10:01::,tone%1:26:01::
+#9 color NOUN color%1:07:00::,color%1:27:00::
+#23 decoration NOUN decoration%1:06:00::
+#26 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#30 rent NOUN rent%1:21:00::
+#33 year NOUN year%1:28:00::,year%1:28:01::
+He was fifteen years older than I - forty four - but full of spring and sparkle .
+3
+#12 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#14 spring NOUN spring%1:06:00::,spring%1:07:00::
+#16 sparkle NOUN sparkle%1:11:00::
+He did n't look like what I thought of as an old man , and his lively and erudite speech made him seem even younger .
+2
+#19 speech NOUN speech%1:09:00::,speech%1:10:00::,speech%1:10:05::
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He was one of the most prominent magazine illustrators in America ; you saw one of his paintings on the cover of one or another of the slick national magazines every month .
+6
+#5 most ADV most%4:02:00::
+#7 magazine NOUN magazine%1:10:00::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#27 slick ADJ slick%5:00:00:bright:00
+#29 magazine NOUN magazine%1:10:00::
+Life had included him in its " Modern American Artists " series and had photographed him at his studio in the East Sixties ; the corner of it you could see in the photograph looked as though it ought to have Velasquez in it painting the royalty of Spain .
+9
+#2 include VERB include%2:42:00::
+#11 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#18 studio NOUN studio%1:06:02::
+#25 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#30 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#34 look VERB look%2:39:01::,look%2:42:02::
+#40 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#44 paint VERB paint%2:36:01::
+#46 royalty NOUN royalty%1:14:00::
+I had a long talk with him .
+2
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 long ADJ long%3:00:02::
+We went into Mrs. Monmouth 's library , which had low bookshelves all along the walls , and above them a Modigliani portrait , a Jackson Pollock twelve feet long , and a gorgeous Miro with a yellow background , that looked like an inscription from a Martian tomb .
+8
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#12 all ADV all%4:02:00::
+#22 portrait NOUN portrait%1:06:00::
+#28 foot NOUN foot%1:23:00::
+#29 long ADJ long%3:00:01::
+#37 yellow ADJ yellow%5:00:00:chromatic:00
+#38 background NOUN background%1:06:00::,background%1:09:00::,background%1:11:00::,background%1:11:01::
+The fireplace had tiles made for Mrs. Monmouth by Picasso himself .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Like certain expensive restaurants , just sitting there gave you the illusion of being wealthy yourself .
+4
+#1 certain ADJ certain%5:00:00:definite:00
+#5 just ADV just%4:02:00::,just%4:02:03::
+#6 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#8 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+In the course of our talk , Askington mentioned that he spent part of each week studying .
+3
+#2 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#12 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#16 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" No , I take classes with different people " , he said .
+4
+#4 take VERB take%2:31:02::,take%2:34:00::
+#5 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I do n't think I 've reached the point , yet , where I can say I know everything I ought to know about the craft .
+7
+#4 think VERB think%2:31:01::,think%2:31:03::
+#7 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#9 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#11 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#23 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Besides , it 's important to the way a painter thinks that he should move in a certain atmosphere , an atmosphere in which he may absorb the ideas of other masters , as Durer went to Italy to meet Bellini and Mantegna " .
+10
+#7 way NOUN way%1:04:00::,way%1:09:00::
+#9 painter NOUN painter%1:18:00::
+#10 think VERB think%2:31:01::,think%2:31:03::
+#14 move VERB move%2:41:01::,move%2:41:02::
+#17 certain ADJ certain%5:00:00:definite:00
+#26 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#28 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#30 other ADJ other%3:00:00::
+#31 master NOUN master%1:18:00::
+#39 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+He made a circle with his thumb and fingers .
+1
+#3 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+It does n't embrace only the artist , alone before his easel .
+3
+#3 embrace VERB embrace%2:42:00::
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+It is as large as all of art , interdependent , varied , multitudinous " .
+1
+#3 large ADJ large%3:00:00::,large%5:00:00:significant:00
+He threw his arms wide , his face shining .
+5
+#1 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#3 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#4 wide ADV wide%4:02:03::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#8 shining ADJ shining%5:00:01:bright:00
+" The artist is like a fragment of a mosaic - no , he is more than that , a virtuoso performer in some vast philharmonic .
+1
+#9 mosaic NOUN mosaic%1:06:00::
+One of these days , I 'm going to organize a gigantic exhibition that will span everything that 's being painted these days , from extreme abstract expressionism to extreme photorealism , and then you 'll be able to see at a glance how much artists have in common with each other .
+11
+#9 organize VERB organize%2:31:00::,organize%2:36:00::
+#12 exhibition NOUN exhibition%1:14:00::
+#15 span VERB span%2:42:00::
+#20 paint VERB paint%2:36:01::
+#22 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#25 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#29 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#37 able ADJ able%3:00:00::
+#39 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#42 glance NOUN glance%1:04:00::
+#46 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The eye is all , inward or outward .
+2
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+#7 outward ADJ outward%4:02:00::
+Ah , what a title for the exhibition : The Eye is All " !
+3
+#4 title NOUN title%1:10:00::,title%1:10:06::
+#7 exhibition NOUN exhibition%1:14:00::
+#10 eye NOUN eye%1:08:00::,eye%1:09:01::
+" What do you study " ?
+1
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+I was fascinated ; just listening to him made me feel intelligent .
+1
+#4 just ADV just%4:02:00::,just%4:02:03::
+" I 'm studying anatomy with Burns " , he replied .
+2
+#3 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#4 anatomy NOUN anatomy%1:09:00::
+" Maybe you know him .
+1
+#3 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+I nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+I had studied with Burns ten years before , during the scholarship year the Manhattan gave me , along with the five-hundred dollar prize for my paintings of bums on Hudson Street .
+7
+#2 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#6 year NOUN year%1:28:00::,year%1:28:01::
+#7 before ADV before%4:02:03::
+#11 scholarship NOUN scholarship%1:21:00::
+#12 year NOUN year%1:28:00::,year%1:28:01::
+#15 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#28 bum NOUN bum%1:18:01::
+" I 'm also studying enameling with Hajime Iijima " , he went on , " and twice a week I go to a life class taught by Pendleton " .
+1
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+I said .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" My God , is he still alive ?
+2
+#6 still ADV still%4:02:00::
+#7 alive ADJ alive%3:00:01::
+He must be a million years old .
+1
+#6 old PRT old%3:00:02::
+I went to a retrospective of his work when I was eighteen , and I thought he was a contemporary of Cezanne 's " .
+2
+#7 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#15 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+" He 's about sixty , now .
+1
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Still painting , still a kind of modern impressionist , beautiful canvases of mountains and farms .
+3
+#0 still ADV still%4:02:00::
+#1 paint VERB paint%2:36:01::
+#3 still ADV still%4:02:00::
+He even makes the city look like one of Thoreau 's hangouts .
+2
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 city NOUN city%1:15:00::,city%1:15:01::
+I 've always admired him , and when I heard he was taking a few pupils , I went to him and joined his class " .
+5
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#12 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#15 pupil NOUN pupil%1:18:01::
+#18 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#24 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+" Yes , it sounds great " , I said , " but suppose you do n't think of yourself as an impressionist painter " ?
+5
+#4 sound VERB sound%2:39:06::
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#23 painter NOUN painter%1:18:00::
+" You 're missing the point " , he said .
+3
+#3 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#5 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" He has the magical eye .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 magical ADJ magical%5:00:00:supernatural:00
+And he is a great man .
+1
+#4 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+Contact with him is stimulating .
+1
+#0 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+And that 's the trouble with so many artists today .
+2
+#4 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#6 so ADV so%4:02:03::,so%4:02:07::
+They sit alone in their rooms and try to paint , and only succeed in isolating themselves still farther from life .
+8
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#2 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#9 paint VERB paint%2:36:01::
+#12 only ADV only%4:02:00::,only%4:02:04::
+#13 succeed VERB succeed%2:41:00::
+#20 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+That 's one of the reasons art is becoming a useless occupation .
+4
+#5 reason NOUN reason%1:09:01::,reason%1:16:00::
+#6 art NOUN art%1:04:00::,art%1:06:00::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#11 occupation NOUN occupation%1:04:00::
+In the Middle Ages , in the Renaissance , right up to the early nineteenth century , the painter was a giant in the world .
+5
+#9 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#13 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#15 century NOUN century%1:28:00::
+#18 painter NOUN painter%1:18:00::
+#21 giant NOUN giant%1:18:02::
+He was an artisan , a man who studied his trade and developed his craftsmanship the way a goldsmith or a wood carver did .
+3
+#8 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#12 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#16 way NOUN way%1:04:00::,way%1:09:00::
+He filled a real need , showing society what it looked like , turning it inside out , portraying its wars and its leaders , its ugliness and its beauties , reflecting its profound religious impulses .
+7
+#3 real ADJ real%3:00:00::,real%5:00:00:true:00
+#7 society NOUN society%1:14:00::,society%1:14:02::
+#13 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#23 leader NOUN leader%1:18:00::
+#29 beauty NOUN beauty%1:07:00::
+#31 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#33 profound ADJ profound%5:00:00:intense:00
+He was a propagandist - they were n't afraid of the word , then - satirist , nature lover , philosopher , scientist , what you will , a member of every party and of no party .
+6
+#11 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#13 then ADV then%4:02:01::
+#17 nature NOUN nature%1:18:00::,nature%1:26:00::
+#29 member NOUN member%1:18:00::,member%1:24:00::
+#32 party NOUN party%1:14:02::
+#36 party NOUN party%1:14:02::
+We hold safe little jobs illustrating tooth-paste ads or the salacious incidents in trivial novels , and most of our easel painting is nothing but picking the fluff out of the navel so it can be contemplated in greater purity .
+8
+#1 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#2 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#4 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#7 ad NOUN ad%1:10:00::
+#25 pick VERB pick%2:30:01::,pick%2:32:09::,pick%2:34:00::,pick%2:35:05::
+#27 fluff NOUN fluff%1:27:00::
+#32 so CONJ so%4:02:10::
+#38 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+What we need is to get back to the group , to learning and apprenticeship , to the cafe and the school " .
+3
+#2 need VERB need%2:42:00::
+#18 cafe NOUN cafe%1:06:00::
+#21 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The upshot of the evening was that I got the address of Pendleton 's studio - or rather , of the studio in which he gave his classes , for he did n't work there himself - and joined the life class , which met every Tuesday and Thursday from ten to twelve in the morning .
+9
+#4 evening NOUN evening%1:28:00::,evening%1:28:02::
+#10 address NOUN address%1:10:04::,address%1:15:00::
+#14 studio NOUN studio%1:06:02::
+#17 rather ADV rather%4:02:02::
+#21 studio NOUN studio%1:06:02::
+#27 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#33 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#44 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#55 morning NOUN morning%1:28:00::,morning%1:28:01::
+It was an awkward hour , but I did n't have to punch any time clock , and it only meant that sometimes I had to stay a couple of hours later at the drawing board to finish up a job .
+4
+#19 only ADV only%4:02:00::,only%4:02:04::
+#30 hour NOUN hour%1:07:00::,hours%1:28:01::
+#31 late ADV late%4:02:00::
+#40 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+After a short time , both George and Donald joined the class with me so they would n't feel lonely , and we used to hang a sign on the door of the Brush-off reading " out to work " .
+8
+#2 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#3 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#11 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#14 so CONJ so%4:02:06::
+#25 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#27 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+#34 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#36 out ADV out%4:02:02::
+It was mostly for the benefit of the mailman , because hardly anybody else ever visited us .
+4
+#5 benefit NOUN benefit%1:07:00::
+#11 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#14 ever ADV ever%4:02:05::
+#15 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+In a way , Askington was right .
+1
+#6 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+" Stimulating " was the word for it .
+1
+#5 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+I do n't know that it was always as rewarding as I had expected it to be .
+2
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+Partly , it was because Pendleton himself was n't what I anticipated .
+1
+#11 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+I had come prepared to worship at the feet of this classic , and he turned out to be a rather bitter old man who smelled of dead cigars .
+7
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#3 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#8 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#20 rather ADV rather%4:02:00::,rather%4:02:04::
+#21 bitter ADJ bitter%5:00:00:hostile:01,bitter%5:00:00:resentful:00
+#25 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+#27 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+No , that is n't quite fair .
+2
+#5 quite ADV quite%4:02:02::
+#6 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+Actually , there was a lot of force in him , which is why I kept on in that class instead of quitting after a week .
+4
+#0 actually ADV actually%4:02:00::,actually%4:02:02::
+#7 force NOUN force%1:07:01::,force%1:07:02::,force%1:18:00::
+#19 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#22 quit VERB quit%2:38:00::

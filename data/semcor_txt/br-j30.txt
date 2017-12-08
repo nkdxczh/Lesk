@@ -1,0 +1,631 @@
+ Analysis means the evaluation of subparts , the comparative ratings of parts , the comprehension of the meaning of isolated elements .
+6
+#8 comparative ADJ comparative%3:00:00::
+#9 rating NOUN rating%1:04:00::
+#11 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#14 comprehension NOUN comprehension%1:09:00::
+#17 meaning NOUN meaning%1:09:00::
+#20 element NOUN element%1:06:00::,element%1:09:00::
+Analysis in roleplaying is usually done for the purpose of understanding strong and weak points of an individual or as a process to eliminate weak parts and strengthen good parts .
+1
+#10 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Up to this point stress has been placed on roleplaying in terms of individuals .
+4
+#3 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#4 stress NOUN stress%1:10:01::,stress%1:26:03::
+#7 place VERB place%2:31:13::
+#9 role-playing NOUN roleplaying%1:04:00::
+Roleplaying can be done for quite a different purpose : to evaluate procedures , regardless of individuals .
+2
+#0 role-playing NOUN roleplaying%1:04:00::
+#5 quite ADV quite%4:02:02::
+For example : a sales presentation can be analyzed and evaluated through roleplaying .
+3
+#4 sale NOUN sale%1:04:00::,sale%1:04:02::
+#5 presentation NOUN presentation%1:04:01::
+#12 role-playing NOUN roleplaying%1:04:00::
+Let us now put some flesh on the theoretical bones we have assembled by giving illustrations of roleplaying used for evaluation and analysis .
+4
+#3 put VERB put%2:35:00::,put%2:35:05::
+#12 assemble VERB assemble%2:41:03::
+#17 role-playing NOUN roleplaying%1:04:00::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+One should keep in mind that many of the exciting possiblities of roleplaying are largely unexplored and have not been used in industry to the extent that they have been in military and other areas .
+7
+#2 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#12 role-playing NOUN roleplaying%1:04:00::
+#18 not ADV not%4:02:00::
+#20 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#22 industry NOUN industry%1:04:00::,industry%1:14:00::
+#33 other ADJ other%3:00:00::
+#34 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The president of a small firm selling restaurant products , had considerable difficulty in finding suitable salesmen for his business .
+6
+#1 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#6 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#8 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#19 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+Interviewing , checking references , training the salesmen , having them go with more experienced salesmen was expensive - and the rate of attrition due to resignations or unsatisfactory performance was too high .
+7
+#2 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#3 reference NOUN reference%1:10:01::
+#5 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#9 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#26 resignation NOUN resignation%1:10:00::
+#29 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#32 high ADJ high%3:00:02::
+It was his experience that only one good salesman was found out of every seven hired - and only one was hired out of every seven interviewed .
+5
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 good ADJ best%3:00:00::,good%3:00:01::
+#15 hire VERB hire%2:41:00::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#21 hire VERB hire%2:41:00::
+Roleplaying was offered as a solution - and the procedure worked as follows : all candidates were invited to a hotel conference room , where the president explained the difficulty he had , and how unnecessary it seemed to him to hire people who just did not work out .
+10
+#0 role-playing NOUN roleplaying%1:04:00::
+#5 solution NOUN solution%1:09:00::,solution%1:10:00::
+#10 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#20 hotel NOUN hotel%1:06:00::
+#26 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#31 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#41 hire VERB hire%2:41:00::
+#42 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#44 just ADV just%4:02:00::,just%4:02:03::
+#46 not ADV not%4:02:00::
+In place of asking salesmen to fill questionnaires , checking their references , interviewing them , asking them to be tried out , he told them he would prefer to test them .
+5
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+#9 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#11 reference NOUN reference%1:10:01::
+#24 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#28 prefer VERB prefer%2:31:00::
+Each person was to enter the testing room , carrying a suitcase of samples .
+3
+#1 person NOUN person%1:03:00::,person%1:08:00::
+#4 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#9 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Each salesman was to read a sheet containing a description of the product .
+5
+#4 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#6 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+#7 contain VERB contain%2:42:00::,contain%2:42:06::
+#9 description NOUN description%1:10:00::,description%1:10:01::
+#12 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+In the testing room he was to make , successively , three presentations to three different people .
+3
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 presentation NOUN presentation%1:04:01::
+#15 different ADJ different%3:00:00::,different%5:00:00:other:00
+In the testing room , three of the veteran salesmen served as antagonists .
+1
+#10 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+One handled the salesman in a friendly manner , another in a rough manner , and the third in a hesitating manner .
+5
+#1 handle VERB handle%2:41:00::,handle%2:41:03::
+#7 manner NOUN manner%1:07:01::;1:07:02::
+#12 rough ADJ rough%5:00:00:aggressive:00,rough%5:00:00:difficult:00,rough%5:00:00:stormy:00
+#13 manner NOUN manner%1:07:01::;1:07:02::
+#21 manner NOUN manner%1:07:01::;1:07:02::
+Each was told to purchase material if he felt like it .
+3
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#4 purchase VERB purchase%2:40:00::
+#5 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+The antagonists came in , one at a time , and did not see or hear the other presentations .
+3
+#12 not ADV not%4:02:00::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#18 presentation NOUN presentation%1:04:01::
+After each presentation , the antagonist wrote his judgment of the salesmen ; and so did the observers consisting of the president , three of his salesmen and a psychologist .
+5
+#2 presentation NOUN presentation%1:04:01::
+#6 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#8 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#14 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+#21 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Ten salesmen were tested in the morning and ten more in the afternoon .
+1
+#6 morning NOUN morning%1:28:00::,morning%1:28:01::
+This procedure was repeated one day a month for four months .
+2
+#3 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The president of the firm , calculating expenses alone , felt his costs had dropped one-half while success in selection had improved over one hundred per cent .
+6
+#1 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#6 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#8 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#10 feel VERB feel%2:31:00::,feel%2:39:00::
+#14 drop VERB drop%2:29:01::,drop%2:38:01::
+#19 selection NOUN selection%1:22:00::
+The reason for the value of this procedure was simply that the applicants were tested " at work " in different situations by the judgment of a number of experts who could see how the salesmen conducted themselves with different , but typical restaurant owners and managers .
+10
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#4 value NOUN value%1:21:00::,values%1:09:00::
+#9 simply ADV simply%4:02:00::,simply%4:02:02::
+#17 work NOUN work%1:06:01::
+#20 different ADJ different%5:00:00:unusual:00
+#21 situation NOUN situation%1:26:01::
+#24 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#27 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#32 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#39 different ADJ different%5:00:00:unusual:00
+They were , in a sense , " tried out " in realistic situations .
+2
+#12 realistic ADJ realistic%5:00:00:representational:00
+#13 situation NOUN situation%1:26:01::
+From the point of view of the applicants , less time was wasted in being evaluated - and they got a meal out of it as well as some insights into their performances .
+3
+#10 time NOUN time%1:28:01::,time%1:28:05::
+#12 waste VERB waste%2:34:05::,waste%2:40:00::
+#32 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+Another use of roleplaying for evaluation illustrates how this procedure can be used in real life situations without special equipment or special assistants during the daily course of work .
+4
+#3 role-playing NOUN roleplaying%1:04:00::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 situation NOUN situation%1:26:01::
+#26 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+The position of receptionist was opened in a large office and an announcement was made to the other girls already working that they could apply for this job which had higher prestige and slightly higher salary than typing and clerking positions .
+14
+#1 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#9 office NOUN office%1:06:00::
+#17 other ADJ other%3:00:00::
+#18 girl NOUN girl%1:18:01::,girl%1:18:03::
+#19 already ADV already%4:02:00::
+#20 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#24 apply VERB apply%2:32:00::
+#27 job NOUN job%1:04:00::,job%1:06:00::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#33 slightly ADV slightly%4:02:01::
+#34 high ADJ high%3:00:02::
+#37 typing NOUN typing%1:10:00::
+#40 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+All applicants were generally familiar with the work of the receptionist .
+1
+#3 generally ADV generally%4:02:02::
+At the end of work one day , the personnel man took the applicants one at a time , asked them to sit behind the receptionist 's desk and he then played the role of a number of people who might come to the receptionist with a number of queries and for a number of purposes .
+11
+#2 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#4 work NOUN work%1:06:01::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 ask VERB ask%2:32:01::,ask%2:32:05::
+#22 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#31 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#36 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#41 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#47 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#53 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Each girl was independently " tested " by the personnel man , and he served not only as the director , but as the antagonist and the observer .
+4
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#3 independently ADV independently%4:02:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+Somewhat to his surprise he found that one girl , whom he would never have considered for the job since she had appeared somewhat mousy and also had been in the office a relatively short time , did the most outstanding job of playing the role of receptionist , showing wit , sparkle , and aplomb .
+14
+#3 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 girl NOUN girl%1:18:01::,girl%1:18:03::
+#18 job NOUN job%1:04:00::,job%1:06:00::
+#22 appear VERB appear%2:30:00::
+#31 office NOUN office%1:06:00::
+#34 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#39 most ADV most%4:02:00::
+#40 outstanding ADJ outstanding%5:00:00:superior:02
+#41 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#43 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#49 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#50 wit NOUN wit%1:09:00::
+#52 sparkle NOUN sparkle%1:11:00::
+She was hired and was found to be entirely satisfactory when she played the role eight hours a day .
+5
+#2 hire VERB hire%2:41:00::
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#16 hour NOUN hour%1:07:00::,hours%1:28:01::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+In considering roleplaying for analysis we enter a more complex area , since we are now no longer dealing with a simple over-all decision but rather with the examination and evaluation of many elements seen in dynamic functioning .
+13
+#2 role-playing NOUN roleplaying%1:04:00::
+#6 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#9 complex ADJ complex%3:00:00::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#15 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#18 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#21 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#25 rather ADV rather%4:02:02::
+#28 examination NOUN examination%1:09:03::
+#33 element NOUN element%1:06:00::,element%1:09:00::
+#34 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#36 dynamic ADJ dynamic%3:01:02::
+#37 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+Some cases in evidence of the use of roleplaying for analysis may help explain the procedure .
+3
+#1 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#8 role-playing NOUN roleplaying%1:04:00::
+#12 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+An engineer had been made the works manager of a firm , supplanting a retired employee who had been considered outstandingly successful .
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 retired ADJ retired%5:00:00:inactive:08
+The engineer had more than seven years of experience in the firm , was well trained , was considered a hard worker , was respected by his fellow engineers for his technical competence and was regarded as a " comer " .
+5
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 year NOUN year%1:28:00::,year%1:28:01::
+#31 technical ADJ technical%3:00:00::,technical%3:01:03::
+#32 competence NOUN competence%1:07:00::
+#39 comer NOUN comer%1:18:00::
+However , he turned out to be a complete failure in his new position .
+4
+#0 however ADV however%4:02:04::
+#8 complete ADJ complete%5:00:00:skilled:00
+#9 failure NOUN failure%1:04:00::,failure%1:18:00::
+#13 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+Turnover rates of personnel went up , production dropped , and morale was visibly reduced .
+5
+#0 turnover NOUN turnover%1:24:00::
+#1 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#7 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#8 drop VERB drop%2:29:01::,drop%2:38:01::
+#14 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Despite the fact that he was regarded as an outstanding engineer , he seemed to be a very poor administrator , although no one quite knew what was wrong with him .
+5
+#9 outstanding ADJ outstanding%5:00:00:superior:02
+#18 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#24 quite ADV quite%4:02:02::
+#25 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#28 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+At the insistence of his own supervisor - the president of the firm , he enrolled in a course designed to develop leaders .
+5
+#5 own ADJ own%5:00:00:personal:00
+#9 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#18 course NOUN course%1:04:01::,course%1:14:00::
+#21 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#22 leader NOUN leader%1:18:00::
+He played a number of typical situations before observers , other supervisors who kept notes and then explained to him in detail what he did they thought was wrong .
+7
+#3 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 situation NOUN situation%1:26:01::
+#10 other ADJ other%3:00:00::
+#13 keep VERB keep%2:32:00::,keep%2:34:00::
+#14 note NOUN note%1:10:00::,note%1:10:02::
+#16 then ADV then%4:02:00::
+#28 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+Entirely concerned with efficiency , he was merciless in criticizing people who made mistakes , condemning them to too great an extent .
+4
+#9 criticize VERB criticise%2:32:00::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#12 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+He did not really listen to others , had little interest in their ideas , and wanted to have his own way - which was the only right way .
+10
+#2 not ADV not%4:02:00::
+#3 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#13 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#16 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 own ADJ own%5:00:00:personal:00
+#21 way NOUN way%1:04:00::,way%1:09:00::
+#28 way NOUN way%1:04:00::,way%1:09:00::
+The entire group of managers explained , in great detail , a number of human relations errors that he made .
+5
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#9 detail NOUN detail%1:10:00::,detail%1:24:00::
+#12 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+One by one , these errors were discussed and one by one he rejected accepting them as errors .
+1
+#14 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+He admitted his behavior , and defended it .
+1
+#1 admit VERB admit%2:32:00::
+He refused to change his approach , and instead he attacked high and low - the officials for their not backing him , and subordinates for their laxness , stupidity , and stubbornness .
+4
+#3 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#5 approach NOUN approach%1:04:02::,approach%1:06:00::
+#19 not ADV not%4:02:00::
+#20 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+After the diagnosing , he left the course , convinced that it could do him no good .
+2
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+#7 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+We may say that his problem was diagnosed but that he refused treatment .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+The engineer turned works manager had a particular view of life - and refused to change it .
+5
+#2 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#8 view NOUN view%1:09:04::
+#15 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+We may say that his attitude was foolish , since he may have been a success had he learned some human relations skills ; or we may say that his attitude was commendable , showing his independence of mind , in his refusal to adjust to the opinions of others .
+7
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 learn VERB learn%2:31:01::,learn%2:31:03::
+#21 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#34 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#38 mind NOUN mind%1:09:00::,mind%1:09:04::
+#44 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+In any case , he refused to accept the implications of the analysis , that he needed to be made over .
+1
+#9 implication NOUN implication%1:09:00::
+Another case may be given in illustration of a successful use of analysis , and also of the employment of a procedure for intensive analysis .
+3
+#1 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#4 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#23 intensive ADJ intensive%3:00:00::
+In a course for supermarket operators , a district manager who had been recently appointed to his position after being outstandingly successful as a store manager , found that in supervising other managers he was having a difficult time .
+9
+#2 course NOUN course%1:04:01::,course%1:14:00::
+#5 operator NOUN operator%1:18:00::
+#14 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#17 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#24 store NOUN store%1:06:00::
+#27 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#31 other ADJ other%3:00:00::
+#35 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#38 time NOUN time%1:11:00::
+On playing some typical situations before a jury of his peers he showed some characteristics rated as unsatisfactory .
+5
+#4 situation NOUN situation%1:26:01::
+#10 peer NOUN peer%1:18:00::
+#12 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#14 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#15 rate VERB rate%2:31:00::
+He was told he displayed , for example , a sense of superiority - and he answered : " Well , I am supposed to know all the answers , are n't I " ?
+4
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#16 answer VERB answer%2:31:00::,answer%2:32:00::
+#25 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He was criticized for his curtness and abruptness - and he answered : " I am not working to become popular " .
+5
+#2 criticize VERB criticise%2:32:00::
+#16 not ADV not%4:02:00::
+#17 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#19 become VERB become%2:30:00::,become%2:42:01::
+#20 popular ADJ popular%5:00:01:common:01
+On being criticized for his arbitrary behavior - he answered : " I have to make decisions .
+2
+#2 criticize VERB criticise%2:32:00::
+#9 answer VERB answer%2:31:00::,answer%2:32:00::
+That 's my job " .
+1
+#3 job NOUN job%1:04:00::,job%1:06:00::
+In short , as frequently happens in analyses , the individual feels threatened and defends himself .
+1
+#5 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+However , in this case the district manager was led to see the errors of his ways .
+5
+#0 however ADV however%4:02:04::
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#9 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#11 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#16 way NOUN way%1:04:00::,way%1:09:00::
+The necessary step between diagnosis and training is acceptance of the validity of the criticisms .
+5
+#1 necessary ADJ necessary%3:00:00::
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#6 training NOUN training%1:04:00::
+#8 acceptance NOUN acceptance%1:07:00::
+#14 criticism NOUN criticism%1:10:00::
+How this was accomplished may be described , since this sometimes is a crucial problem .
+2
+#6 describe VERB describe%2:32:01::
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+The director helped tailor-make a check list of the district manager 's errors by asking various observers to write out sentences commenting on the mistakes they felt he made .
+5
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#14 ask VERB ask%2:32:01::,ask%2:32:05::
+#20 sentence NOUN sentence%1:10:00::
+#26 feel VERB feel%2:31:00::,feel%2:39:00::
+#28 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+These errors were then collected and written on a blackboard , condensing similar ideas .
+5
+#3 then ADV then%4:02:00::
+#4 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#6 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#11 condense VERB condense%2:30:06::
+#13 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+Eighteen errors were located , and then the director asked each individual to vote whether or not they felt that this manager had made the particular errors .
+5
+#6 then ADV then%4:02:00::
+#9 ask VERB ask%2:32:01::,ask%2:32:05::
+#18 feel VERB feel%2:31:00::,feel%2:39:00::
+#23 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#25 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+They were asked to vote " true " if they thought they had seen him make the error , " false " if they thought he had not ; and " cannot say " if they were not certain .
+9
+#2 ask VERB ask%2:32:01::,ask%2:32:05::
+#6 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#10 think VERB think%2:31:01::,think%2:31:03::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 false ADJ false%3:00:00::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 not ADV not%4:02:00::
+#38 certain ADJ certain%3:00:01::
+The manager sat behind the group so he could see and count the hands that went up , and the director wrote the numbers on the blackboard .
+7
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#6 so CONJ so%4:02:06::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 count VERB count%2:32:00::,count%2:32:01::
+#13 hand NOUN hand%1:08:00::,hand%1:10:01::
+#21 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#23 number NOUN number%1:10:01::,number%1:23:00::
+The results looked as follows :
+1
+#2 look VERB look%2:39:01::,look%2:42:02::
+The first eight of these eighteen statements , which received at least one-half of the votes , were duplicated to form an analysis checklist for the particular manager , and when this particular manager roleplayed in other situations , the members checked any items that appeared .
+9
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#20 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#26 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#32 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#36 other ADJ other%5:00:02:past:00
+#37 situation NOUN situation%1:26:01::
+#40 member NOUN member%1:18:00::,member%1:24:00::
+#41 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#45 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+To prevent the manager from deliberately controlling himself only during the sessions , they were rather lengthy ( about twenty minutes ) , the situations were imperfectly described to the manager so that he would not know what to expect , new antagonists were brought on the scene unexpectedly , and the antagonists were instructed to deliberately behave in such ways as to upset the manager and get him to operate in a manner for which he had been previously criticized .
+23
+#1 prevent VERB prevent%2:41:00::
+#5 deliberately ADV deliberately%4:02:00::
+#6 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 session NOUN session%1:04:00::,session%1:28:00::
+#15 rather ADV rather%4:02:00::,rather%4:02:04::
+#20 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#24 situation NOUN situation%1:26:01::
+#27 describe VERB describe%2:32:01::
+#31 so CONJ so%4:02:10::
+#35 not ADV not%4:02:00::
+#36 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#41 new ADJ new%3:00:00::
+#47 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#54 instruct VERB instruct%2:32:01::
+#56 deliberately ADV deliberately%4:02:00::
+#57 behave VERB behave%2:41:00::,behave%2:41:01::
+#60 way NOUN way%1:04:00::,way%1:09:00::
+#63 upset VERB upset%2:37:01::
+#67 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#70 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#73 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#80 criticize VERB criticise%2:32:00::
+After every session , the check marks were totaled up and graphed , and in this way the supervisor 's progress was charted .
+4
+#2 session NOUN session%1:04:00::,session%1:28:00::
+#8 total VERB total%2:32:00::,total%2:42:00::
+#16 way NOUN way%1:04:00::,way%1:09:00::
+#22 chart VERB chart%2:31:13::
+In life we learn to play our roles and we " freeze " into patterns which become so habitual that we are not really aware of what we do .
+7
+#3 learn VERB learn%2:31:01::,learn%2:31:03::
+#11 freeze VERB freeze%2:38:00::
+#14 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#17 so ADV so%4:02:03::,so%4:02:07::
+#22 not ADV not%4:02:00::
+#23 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+We can see others more clearly than we can see ourselves , and others can see us better than we see ourselves .
+1
+#17 better ADV better%4:02:00::
+To learn what we do is the first step for improvement .
+1
+#1 learn VERB learn%2:31:01::,learn%2:31:03::
+To accept the validity of the judgments of others is the second step .
+2
+#6 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#12 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+To want to change is the third step .
+3
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#7 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+To practice new procedures under guided supervision and with constant feedback is the fourth step .
+4
+#1 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+#2 new ADJ new%3:00:00::
+#10 feedback NOUN feedback%1:10:00::
+#14 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+To use these new ways in daily life is the last step .
+6
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#3 new ADJ new%3:00:00::
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#7 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#10 last ADJ last%5:00:00:unlikely:00
+#11 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+Roleplaying used for analysis follows these general steps leading to training .
+7
+#0 role-playing NOUN roleplaying%1:04:00::
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+#6 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#7 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#8 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#10 training NOUN training%1:04:00::
+When an evaluative situation is set up , and no concern is with the details that lead to an over-all estimate , we say that roleplaying is used for evaluation .
+7
+#3 situation NOUN situation%1:26:01::
+#10 concern NOUN concern%1:09:00::
+#14 detail NOUN detail%1:10:00::,detail%1:24:00::
+#16 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 role-playing NOUN roleplaying%1:04:00::
+#27 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Observers can see a person engaged in spontaneous behavior , and watch him operating in a totalistic fashion .
+6
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 person NOUN person%1:03:00::,person%1:08:00::
+#5 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#11 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#13 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#17 fashion NOUN fashion%1:07:00::
+This behavior is more " veridical " - or true than other testing behavior for some types of evaluation , and so can give quick and accurate estimates of complex functioning .
+9
+#9 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#11 other ADJ other%3:00:00::
+#12 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#16 type NOUN type%1:18:00::
+#23 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#24 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#26 accurate ADJ accurate%5:00:00:correct:00
+#29 complex ADJ complex%3:00:00::
+#30 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+While roleplaying for testing is not too well understood at the present time , it represents one of the major uses of this procedure .
+7
+#1 role-playing NOUN roleplaying%1:04:00::
+#3 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#8 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#11 present ADJ present%3:00:01::
+#12 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#15 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#19 major ADJ major%3:00:05::,major%3:00:06::
+The objective of this chapter is to clarify the distinctions between spontaneity theory and other training concepts .
+6
+#1 objective NOUN objective%1:09:00::
+#4 chapter NOUN chapter%1:10:00::
+#7 clarify VERB clarify%2:32:00::
+#9 distinction NOUN distinction%1:09:00::
+#14 other ADJ other%3:00:00::
+#15 training NOUN training%1:04:00::
+In addition , the basic approach utilized in applying roleplaying will be reviewed .
+5
+#4 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#5 approach NOUN approach%1:04:02::,approach%1:06:00::
+#8 apply VERB apply%2:34:00::
+#9 role-playing NOUN roleplaying%1:04:00::
+#12 review VERB review%2:31:00::,review%2:32:00::
+The goal will be to provide the reader with an integrated rationale to aid him in applying roleplaying techniques in this unique training area .
+7
+#1 goal NOUN goal%1:09:00::,goal%1:15:00::
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#16 apply VERB apply%2:34:00::
+#17 role-playing NOUN roleplaying%1:04:00::
+#22 training NOUN training%1:04:00::
+#23 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The reasons for extracting this particular roleplaying application from the previous discussion of training are twofold :
+5
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#5 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#6 role-playing NOUN roleplaying%1:04:00::
+#10 previous ADJ previous%5:00:00:preceding:00
+#13 training NOUN training%1:04:00::
+Spontaneity training theory is unique and relatively new .
+2
+#1 training NOUN training%1:04:00::
+#7 new ADJ new%3:00:00::

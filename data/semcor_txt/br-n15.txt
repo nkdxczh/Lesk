@@ -1,0 +1,814 @@
+ Early in November the clouds lifted enough to carry out the assigned missions .
+4
+#2 November NOUN november%1:28:00::
+#4 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#5 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#12 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+And Sweeney Squadron put its first marks on the combat record .
+2
+#3 put VERB put%2:35:00::,put%2:35:05::
+#5 first ADJ first%3:00:00::,first%4:02:00::
+Every plane that could fly was sent into the air .
+4
+#1 plane NOUN plane%1:06:01::
+#4 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#6 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#9 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+Cricket took eight ships and went south across the Straits and along the north coast of Mindanao to Cagayan .
+5
+#1 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#6 south ADV south%4:02:00::
+#13 north ADJ north%3:00:00::
+#14 coast NOUN coast%1:17:00::
+Anything the enemy flew or floated was his target .
+2
+#3 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#8 target NOUN target%1:06:00::
+Fleischman with eight was to patrol the Leyte Gulf area , with his main task to get any kamikaze before they got to the ships .
+2
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#16 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+Greg himself took two flights , with Todman leading the second , to patrol and look for targets of opportunities around Ormoc on the east coast of Leyte .
+7
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#4 flight NOUN flight%1:04:00::,flight%1:14:00::,flight%1:19:00::
+#8 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#10 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#17 target NOUN target%1:06:00::
+#24 east ADJ east%3:00:00::
+#25 coast NOUN coast%1:17:00::
+Each plane carried two five-hundred pound bombs .
+4
+#1 plane NOUN plane%1:06:01::
+#2 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#5 pound NOUN pound%1:23:09::,pound%1:23:10::
+#6 bomb NOUN bomb%1:06:00::
+A weapons carrier took Greg , Todman , Belton , Banjo Ferguson , and Walters and the others the two miles from the bivouac area to the strip .
+2
+#3 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#24 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+It was a rough long ride through the mud and pot holes .
+4
+#3 rough ADJ rough%5:00:00:aggressive:00,rough%5:00:00:difficult:00,rough%5:00:00:stormy:00
+#4 long ADJ long%3:00:01::
+#5 ride NOUN ride%1:04:00::
+#8 mud NOUN mud%1:27:00::
+No one had much to say .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The sky glowered down at them .
+1
+#3 down ADV down%4:02:00::,down%4:02:02::
+There was a feeling that this mission would be canceled like all the others and that this muddy wet dark world of combat would go on forever .
+6
+#3 feeling NOUN feeling%1:09:03::
+#6 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#9 cancel VERB cancel%2:41:03::
+#18 wet ADJ wet%3:00:01::,wet%3:00:05::
+#20 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#26 forever ADV forever%4:02:00::
+The truck dropped them off at the various revetments spread through the jungle .
+4
+#1 truck NOUN truck%1:06:00::,truck%1:06:01::
+#2 drop VERB drop%2:32:00::,drop%2:35:00::
+#9 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#12 jungle NOUN jungle%1:14:01::
+Donovan snatched Greg 's chute from him with a belligerent motion and almost ran to the plane with it .
+4
+#4 chute NOUN chute%1:06:01::
+#10 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#13 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#16 plane NOUN plane%1:06:01::
+His face was dark as the sky above it as he stood on the wing and waited for his pilot .
+4
+#1 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#14 wing NOUN wing%1:06:00::
+#16 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#19 pilot NOUN pilot%1:18:00::
+Greg climbed into the cockpit feeling as if he had never been in one before .
+5
+#1 climb VERB climb%2:38:01::
+#4 cockpit NOUN cockpit%1:06:00::
+#5 feel VERB feel%2:31:00::,feel%2:39:00::
+#10 never ADV never%4:02:00::
+#14 before ADV before%4:02:03::
+But his hands and those of Donovan moved automatically adjusting and arranging in the check-out procedure .
+5
+#2 hand NOUN hand%1:08:00::,hand%1:10:01::
+#7 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#11 arrange VERB arrange%2:35:00::
+#14 checkout NOUN checkout%1:28:00::
+" I 've got her as neat as I can " , Donovan said , as he dropped the straps of the Seton harness over Greg 's shoulders .
+4
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#6 neat ADJ neat%5:00:00:tidy:00
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#27 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+It 's for carabao not airplanes " .
+1
+#4 not ADV not%4:02:00::
+Do n't you worry , chief " , Greg replied , wondering if he himself believed it .
+3
+#3 worry VERB worry%2:37:00::,worry%2:37:01::
+#11 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#15 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+See you " , Donovan said as he jumped off the wing .
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+#11 wing NOUN wing%1:06:00::
+The expression was his trade-mark , his open sesame to good luck , and his prayer that pilot and plane would always return .
+5
+#1 expression NOUN expression%1:10:02::,expression%1:10:03::
+#17 pilot NOUN pilot%1:18:00::
+#19 plane NOUN plane%1:06:01::
+#21 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#22 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+At the prearranged time , Greg started the engine and taxied out .
+5
+#3 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#6 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+#8 engine NOUN engine%1:06:00::
+#10 taxi VERB taxi%2:38:01::
+#11 out ADV out%4:02:04::
+From the time the chocks were pulled until the plane was out of sight , he knew Donovan would keep his back to the strip .
+7
+#2 time NOUN time%1:11:00::
+#4 chock NOUN chock%1:06:00::
+#6 pull VERB pull%2:30:11::,pull%2:35:00::,pull%2:35:10::,pull%2:38:04::
+#9 plane NOUN plane%1:06:01::
+#16 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#21 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+He wondered where the superstition had originated that it was bad luck for a crew chief to watch his plane take off on a combat mission .
+5
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#14 crew NOUN crew%1:14:01::
+#15 chief NOUN chief%1:18:02::
+#17 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#19 plane NOUN plane%1:06:01::
+Yet long before the scheduled time for return , Donovan would be watching for every speck in the sky .
+3
+#5 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#7 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#12 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Greg rumbled down the rough metal taxi strip , and one by one the seven members of his flight fell in behind him .
+5
+#1 rumble VERB rumble%2:32:00::
+#2 down ADV down%4:02:00::,down%4:02:02::
+#4 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#15 member NOUN member%1:18:00::,member%1:24:00::
+#18 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+The dark brown bombs hanging under each wing looked large and powerful .
+6
+#1 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#3 bomb NOUN bomb%1:06:00::
+#4 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#7 wing NOUN wing%1:06:00::
+#8 look VERB look%2:39:01::,look%2:42:02::
+#9 large ADJ large%3:00:00::,large%5:00:00:significant:00
+The pilots ' heads looked ridiculously small .
+3
+#1 pilot NOUN pilot%1:18:00::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#4 look VERB look%2:39:01::,look%2:42:02::
+The control tower gave him immediate take-off permission , and the clean roar of the engine that took him off the rough strip spoke well of the skill of Donovan .
+8
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#5 immediate ADJ immediate%5:00:00:present(a):01,immediate%5:00:00:present:01
+#6 takeoff NOUN takeoff%1:11:00::
+#11 clean ADJ clean%5:00:00:adroit:00,clean%5:00:00:pure:02
+#15 engine NOUN engine%1:06:00::
+#21 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#23 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#24 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+Greg 's mission was the last to leave , and as he circled the ships off Tacloban he saw the clouds were dropping down again .
+3
+#2 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#5 last ADJ last%5:00:00:unlikely:00
+#20 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+To the west , the dark green hills of Leyte were lost in the clouds about halfway up their slopes .
+7
+#2 west NOUN west%1:24:00::,west%1:24:02::
+#5 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#6 green ADJ green%5:00:00:chromatic:00
+#7 hill NOUN hill%1:06:01::,hill%1:17:00::
+#11 lose VERB lose%2:33:01::,lose%2:35:00::,lose%2:39:00::,lose%2:39:01::
+#14 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#19 slope NOUN slope%1:07:00::
+Underneath him the sea was a dark and muddied gray .
+2
+#6 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#9 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+Water splashed against his windshield as he led the flight in and out of showers .
+5
+#0 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#9 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+#12 out ADV out%4:02:04::
+#14 shower NOUN shower%1:14:00::
+The metal strip they had taken off from was coal black against the green jungle around it .
+2
+#13 green ADJ green%5:00:00:chromatic:00
+#14 jungle NOUN jungle%1:14:01::
+He possessed the fighter pilot 's horror of bad weather and instrument flying , and he wondered , if the ceiling did drop , whether he and the other flights would be able to find their way back in this unfamiliar territory .
+12
+#1 possess VERB possess%2:40:00::,possess%2:42:00::
+#4 pilot NOUN pilot%1:18:00::
+#6 horror NOUN horror%1:12:01::
+#16 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#20 ceiling NOUN ceiling%1:06:00::
+#22 drop VERB drop%2:29:01::,drop%2:38:01::
+#28 other ADJ other%3:00:00::
+#29 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+#32 able ADJ able%3:00:00::
+#34 find VERB find%2:38:10::,find%2:39:05::,find%2:40:02::
+#36 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#41 territory NOUN territory%1:15:01::
+He shivered in the warm cockpit .
+3
+#1 shiver VERB shiver%2:29:00::
+#4 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#5 cockpit NOUN cockpit%1:06:00::
+As far as he could see there was no hole to climb through it .
+4
+#1 far ADV far%4:02:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#11 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+They would have to go west through the narrow river valley that separated Leyte from Samar and hope that it did n't close in before they returned .
+4
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 narrow ADJ narrow%3:00:00::
+#12 separate VERB separate%2:35:00::,separate%2:35:01::,separate%2:38:00::,separate%2:41:01::,separate%2:41:02::,separated%5:00:00:distributed:00
+#26 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Greg pushed the radio button on his throttle .
+2
+#1 push VERB push%2:32:01::,push%2:38:00::
+#7 throttle NOUN throttle%1:06:00::
+" Todman , let 's try to go under this stuff .
+3
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 stuff NOUN stuff%1:07:00::
+Stay in close and we 'll go up the valley " .
+2
+#0 stay VERB stay%2:42:02::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+" Roger , Sweeney " , Todman called back , and pulled his four in and slightly above Greg .
+4
+#7 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#11 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#14 in ADV in%4:02:01::
+#16 slightly ADV slightly%4:02:01::
+Greg took the formation wide around three A-26 attack bombers that were headed north over the Gulf .
+5
+#1 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#3 formation NOUN formation%1:14:00::,formation%1:17:00::
+#4 wide ADV wide%4:02:02::
+#9 bomber NOUN bomber%1:06:00::
+#13 north ADV north%4:02:00::
+He dropped down to five hundred feet , swinging a little north of the city of Tacloban , and punched into the opening that showed against the mountain .
+6
+#6 foot NOUN foot%1:23:00::
+#11 north ADV north%4:02:00::
+#14 city NOUN city%1:15:00::,city%1:15:01::
+#19 punch VERB punch%2:35:01::
+#22 opening NOUN opening%1:08:00::
+#24 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+The valley was only a few hundred yards wide with just about room enough for a properly performed hundred-and-eighty degree turn .
+8
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 yard NOUN yard%1:23:00::,yard%1:23:01::
+#8 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#12 room NOUN room%1:26:00::
+#16 properly ADV properly%4:02:00::
+#17 perform VERB perform%2:36:00::,perform%2:41:00::
+#19 degree NOUN degree%1:23:00::
+#20 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+It was only a fifteen minute flight , but before it was through Greg felt himself developing a case of claustrophobia .
+7
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#6 flight NOUN flight%1:04:00::,flight%1:14:00::,flight%1:19:00::
+#12 through ADJ through%4:02:01::
+#14 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#16 develop VERB develop%2:32:00::,develop%2:36:01::
+#18 case NOUN case%1:18:03::,case%1:18:04::,case%1:26:02::
+The ceiling stayed solid above them at about eight hundred feet , and at times the sheer cliffs seemed about to close in .
+5
+#1 ceiling NOUN ceiling%1:06:00::
+#2 stay VERB stay%2:42:02::
+#7 about ADV about%4:02:00::
+#10 foot NOUN foot%1:23:00::
+#16 sheer ADJ sheer%5:00:00:steep:00
+If the other pilots were worried , they did not show it .
+4
+#2 other ADJ other%3:00:00::
+#3 pilot NOUN pilot%1:18:00::
+#9 not ADV not%4:02:00::
+#10 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+The formation remained perfect .
+2
+#1 formation NOUN formation%1:14:00::,formation%1:17:00::
+#3 perfect ADJ perfect%3:00:00::
+When the sea was visible ahead of them , the relief was as great as if the sun had come out .
+3
+#4 visible ADJ visible%3:00:00::
+#10 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+#17 sun NOUN sun%1:17:00::,sun%1:17:01::
+He spread the flight out and led them across a point of land and then down the coast .
+6
+#3 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+#6 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#10 point NOUN point%1:17:02::
+#12 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#15 down ADV down%4:02:00::,down%4:02:02::
+#17 coast NOUN coast%1:17:00::
+Although they drew light ground fire they saw no signs of activity .
+7
+#2 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#3 light ADJ light%3:00:05::,light%3:00:08::,light%5:00:00:shallow:02,light%5:00:00:undemanding:01
+#4 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#5 fire NOUN fire%1:04:00::,fire%1:10:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#11 activity NOUN activity%1:04:00::,activity%1:26:00::
+Once Todman thought he had spotted a tank and went down to investigate while Greg covered him .
+5
+#0 once ADV once%4:02:01::
+#2 think VERB think%2:31:01::,think%2:31:03::
+#5 spot VERB spot%2:39:00::,spot%2:39:02::
+#7 tank NOUN tank%1:06:01::
+#15 cover VERB cover%2:33:00::,cover%2:33:01::,cover%2:33:13::
+" Somebody beat us to it " !
+1
+#2 beat VERB beat%2:33:00::,beat%2:33:14::
+Todman said over the radio as he came back up in formation .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 formation NOUN formation%1:14:00::,formation%1:17:00::
+Visibility continued to be limited , and Greg was never able to get above a thousand feet .
+4
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#9 never ADV never%4:02:00::
+#10 able ADJ able%3:00:00::
+#16 foot NOUN foot%1:23:00::
+His earphones were constantly full of the sounds of enemy contacts made by other flights .
+5
+#4 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#10 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 other ADJ other%3:00:00::
+#14 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+He thought once that he identified the somewhat hysterical voice of Fleischman claiming a kill .
+5
+#1 think VERB think%2:31:01::,think%2:31:03::
+#2 once ADV once%4:02:00::
+#5 identify VERB identify%2:31:00::,identify%2:32:00::
+#9 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#14 kill NOUN kill%1:04:01::
+But Greg 's area remained as placid as a Florida dawn .
+1
+#3 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Finally , as time began to run out , he headed into Ormoc and glide-bombed a group of houses that Intelligence had thought might contain Japanese supplies .
+6
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#10 head VERB head%2:38:00::,head%2:38:01::
+#18 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#20 intelligence NOUN intelligence%1:04:00::
+#22 think VERB think%2:31:01::,think%2:31:03::
+#24 contain VERB contain%2:42:00::,contain%2:42:06::
+The low clouds made bombing difficult .
+4
+#1 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#2 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 bomb NOUN bombing%1:04:00::
+There was not enough room to make the usual vertical bomb run .
+5
+#4 room NOUN room%1:26:00::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 vertical ADJ vertical%3:00:00::
+#10 bomb NOUN bomb%1:06:00::
+#11 run NOUN run%1:04:04::,run%1:04:05::
+One of Greg 's bombs hung up , and he was miles from the target before he could get rid of it .
+2
+#4 bomb NOUN bomb%1:06:00::
+#14 target NOUN target%1:06:00::
+Only one of the flight scored a direct hit and the rest blew up jungle .
+7
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+#5 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#7 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#8 hit NOUN hit%1:04:00::,hit%1:04:02::,hit%1:04:03::,hit%1:04:05::
+#11 rest NOUN rest%1:24:00::
+#14 jungle NOUN jungle%1:14:01::
+With their load of bombs gone , the planes moved swiftly and easily .
+6
+#2 load NOUN load%1:06:02::
+#4 bomb NOUN bomb%1:06:00::
+#5 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+#8 plane NOUN plane%1:06:01::
+#9 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 easily ADV easily%4:02:01::,easily%4:02:06::
+Greg went up tight against the ceiling and led them back to their pass to home .
+4
+#6 ceiling NOUN ceiling%1:06:00::
+#8 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#13 pass NOUN pass%1:17:00::
+#15 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Mercifully , it was still open .
+2
+#4 still ADV still%4:02:00::
+#5 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+Like a man making a deep dive , Greg took full breath and plunged back into the valley .
+3
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+#6 dive NOUN dive%1:04:01::
+He was about to make a gas check on his flight when Todman 's voice broke in : " Sweeneys !
+5
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 gas NOUN gas%1:06:00::,gas%1:27:02::
+#7 check NOUN check%1:09:00::
+#10 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+Three bogies .
+1
+#1 bogey NOUN bogey%1:23:00::
+Greg 's eyes flicked up from his instrument panel .
+2
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+#4 up ADV up%4:02:00::,up%4:02:02::
+He saw them , specks against the gray , but closing fast .
+2
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 gray NOUN gray%1:06:00::
+They were headed straight for each other on a collision course .
+2
+#3 straight ADV straight%4:02:05::
+#10 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+Friend or enemy ?
+1
+#0 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+The same old question .
+2
+#1 same ADJ same%3:00:00::,same%3:00:02::
+#2 old ADJ old%3:00:01::
+And only a few seconds to answer it .
+3
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 second NOUN second%1:28:00::,second%1:28:01::
+#6 answer VERB answer%2:31:00::,answer%2:32:00::
+Todman said excitedly , and hopefully .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 hopefully ADV hopefully%4:02:00::
+And then he thought Todman might be right .
+1
+#7 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+His mind flicked through the mental pictures he had from the hours of Aircraft Identification .
+2
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 hour NOUN hour%1:07:00::,hours%1:28:01::
+He narrowed the shape down to two : either a Zero or a U. S. Navy type aircraft .
+2
+#3 shape NOUN shape%1:07:00::,shape%1:07:01::
+#16 type NOUN type%1:18:00::
+If it were the enemy , tactically his position was correct .
+1
+#8 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+Japanese aircraft were strong on maneuverability , American on speed and firepower .
+1
+#3 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+His present maximum altitude , up against the overcast , gave him the opportunity to exploit his advantages .
+2
+#1 present ADJ present%3:00:01::
+#10 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+But it also made him conspicuous to the enemy , if it was the enemy , and he had n't been spotted already .
+3
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 spot VERB spot%2:39:00::,spot%2:39:02::
+#22 already ADV already%4:02:00::
+But the closing aircraft showed no sign of deviating from their original course .
+2
+#11 original ADJ original%5:00:01:first:00
+#12 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+In seconds , Greg made his decision .
+2
+#1 second NOUN second%1:28:00::,second%1:28:01::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He pushed the radio button .
+1
+#1 push VERB push%2:32:01::,push%2:38:00::
+Lots of throttle .
+2
+#0 lot PRON lots%1:23:00::
+#2 throttle NOUN throttle%1:06:00::
+Belton , the one on the right .
+1
+#6 right ADV right%4:02:01::,right%4:02:03::
+Let 's make sure first " .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Greg had the stick forward and the throttle up before he heard the two " Rogers " .
+3
+#3 stick NOUN stick%1:06:01::
+#4 forward ADJ forward%3:00:03::
+#7 throttle NOUN throttle%1:06:00::
+The planes , light with most of the gas burned out , responded beautifully .
+4
+#1 plane NOUN plane%1:06:01::
+#3 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#8 gas NOUN gas%1:06:00::,gas%1:27:02::
+#9 burn VERB burn%2:30:00::,burn%2:34:00::
+Greg 's airspeed indicator was over 350 when he leveled off just above the trees .
+3
+#3 indicator NOUN indicator%1:06:00::
+#11 just ADV just%4:02:04::
+#14 tree NOUN tree%1:20:00::
+The opposing aircraft continued to come on .
+1
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+They appeared to be the enemy .
+1
+#1 appear VERB appear%2:30:00::
+Greg wished the Air Corps had continued to camouflage planes .
+2
+#6 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#9 plane NOUN plane%1:06:01::
+There was , of course , no way for the other planes to get by them .
+3
+#7 way NOUN way%1:04:00::,way%1:09:00::
+#10 other ADJ other%3:00:00::
+#11 plane NOUN plane%1:06:01::
+But they could turn and escape to the east .
+3
+#3 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#5 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#8 east NOUN east%1:15:02::
+Greg pushed the radio button again .
+1
+#1 push VERB push%2:32:01::,push%2:38:00::
+" Todman , drop your second element back .
+1
+#5 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+If any of us miss , they can pick up the pieces .
+1
+#4 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+Now let 's make sure they 're Japs " .
+1
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Even as he said it , Greg knew they had found the enemy .
+3
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+The shapes were unmistakable and the Rising Suns were showing up , slightly brighter pinpoints in the gray gloom .
+6
+#1 shape NOUN shape%1:07:00::,shape%1:07:01::
+#6 rising ADJ rising%5:00:00:ascending:00
+#12 slightly ADV slightly%4:02:01::
+#13 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#17 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#18 gloom NOUN gloom%1:26:01::
+Greg slapped his hand across the switches that turned on the guns and gun camera and gun sight .
+4
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+#6 switch NOUN switch%1:06:01::
+#14 camera NOUN camera%1:06:00::
+#17 sight NOUN sight%1:06:00::
+The circle with the dot in the center showed up yellow on the reflector glass in front of him .
+4
+#1 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+#4 dot NOUN dot%1:25:00::
+#7 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#10 yellow ADJ yellow%5:00:00:chromatic:00
+His hands shook .
+2
+#1 hand NOUN hand%1:08:00::,hand%1:10:01::
+#2 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+They 're Japs " , came a high-pitched voice .
+3
+#5 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 high-pitched ADJ high-pitched%3:00:00::
+#8 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+One pass only .
+2
+#1 pass NOUN pass%1:04:00::
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+That 's an order " .
+1
+#3 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+He moved the flights over against one wall .
+2
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#3 flight NOUN flight%1:14:00::,flight%1:14:01::,flight%1:14:02::
+It gave them all a chance to make a high-speed climbing turn attack and a break-away that would not take them into the overcast or force a tight turn recovery .
+9
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#11 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#18 not ADV not%4:02:00::
+#19 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#27 tight ADJ tight%3:00:02::
+#28 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#29 recovery NOUN recovery%1:04:00::
+If the turn was too tight , a barrel roll would bring them out .
+2
+#2 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#5 tight ADJ tight%3:00:02::
+Greg slammed his throttle to the fire wall and rammed up the RPM , and the engine responded as if it had been waiting .
+4
+#3 throttle NOUN throttle%1:06:00::
+#10 up ADV up%4:02:00::
+#16 engine NOUN engine%1:06:00::
+#23 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+The clearly identifiable enemy continued on as if no one else were around .
+2
+#4 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#12 around ADV around%4:02:01::
+" They have n't seen us " , Greg yelled to himself over the engine noise .
+3
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 engine NOUN engine%1:06:00::
+#15 noise NOUN noise%1:09:00::
+" They have n't seen us " .
+1
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He hit the radio button .
+1
+#1 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+" Now , Sweeneys , now .
+1
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Let 's take ' em home " .
+2
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#5 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+He hauled back on the stick and felt his cheeks sag .
+6
+#1 haul VERB haul%2:35:01::
+#2 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#5 stick NOUN stick%1:06:01::
+#7 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#9 cheek NOUN cheek%1:08:00::
+#10 sag VERB sag%2:38:01::
+Out of the corner of his eye , he watched his wingman move out a bit and shoot up with him .
+5
+#3 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 wingman NOUN wingman%1:18:00::
+#12 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Perfect , he thought .
+2
+#0 perfect ADJ perfect%3:00:00::
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+With the rapid rate of closure , the approach from below , the side , and ahead , there would be only a moment when damage could be done .
+6
+#3 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#5 closure NOUN closure%1:04:01::
+#8 approach NOUN approach%1:04:00::,approach%1:07:01::,approach%1:15:00::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#23 moment NOUN moment%1:28:00::,moment%1:28:01::
+#25 damage NOUN damage%1:04:00::
+Just like shooting at a duck while performing a half-gainer from a diving board .
+3
+#0 just ADV just%4:02:05::
+#2 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#5 duck NOUN duck%1:05:00::
+He tightened his turn .
+1
+#3 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+His nose up .
+2
+#1 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#2 up ADV up%4:02:00::,up%4:02:02::
+Please , dear God , make my pilots good , he prayed .
+5
+#2 dear ADJ dear%5:00:00:close:02
+#3 God NOUN god%1:18:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 pilot NOUN pilot%1:18:00::
+#8 good ADJ best%3:00:00::,good%3:00:01::
+He took a lead on the enemy , using a distance of five of the radii in his circular sight and then added another .
+5
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#18 circular ADJ circular%3:00:00::
+#19 sight NOUN sight%1:06:00::
+#22 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+The enemy did not veer .
+2
+#3 not ADV not%4:02:00::
+#4 veer VERB veer%2:38:00::
+It did not seem possible that they had n't been spotted .
+2
+#2 not ADV not%4:02:00::
+#10 spot VERB spot%2:39:00::,spot%2:39:02::
+Blind fools .
+2
+#0 blind ADJ blind%5:00:00:irrational:00
+#1 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+Now !
+1
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Greg 's fingers closed on the stick trigger .
+2
+#3 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#6 stick NOUN stick%1:06:01::
+The plane rumbled and slowed .
+2
+#1 plane NOUN plane%1:06:01::
+#2 rumble VERB rumble%2:32:00::
+Six red lines etched their way into the gray and vanished .
+6
+#1 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#2 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#3 etch VERB etch%2:35:03::
+#5 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#8 gray NOUN gray%1:06:00::
+#10 vanish VERB vanish%2:30:01::
+As if drawn by a wire the enemy flew into them .
+2
+#2 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#8 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+Greg tightened his turn until the plane shuddered .
+2
+#3 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#6 plane NOUN plane%1:06:01::
+His burst held for a second on the engine section of the plane .
+5
+#2 hold VERB hold%2:31:10::,hold%2:32:13::,hold%2:42:00::,hold%2:42:01::,hold%2:42:02::,hold%2:42:04::
+#5 second NOUN second%1:28:00::,second%1:28:01::
+#8 engine NOUN engine%1:06:00::
+#9 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#12 plane NOUN plane%1:06:01::
+The Jap 's propeller flew off in pieces .
+2
+#4 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+#5 off ADV off%4:02:00::
+A large piece of engine cowling vanished .
+3
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 engine NOUN engine%1:06:00::
+#6 vanish VERB vanish%2:30:01::
+It was all Greg had time to see .
+2
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+His maneuvering for the shot had placed him near the overcast , almost inverted and heading up into the clouds .
+4
+#1 maneuver NOUN maneuver%1:04:01::
+#4 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#6 place VERB place%2:31:13::
+#19 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+His speed was dropping rapidly .
+2
+#1 speed NOUN speed%1:04:00::,speed%1:07:00::
+#3 drop VERB drop%2:29:01::,drop%2:38:01::
+If he spun out now , he would join his opponent on the ground .
+3
+#2 spin VERB spin%2:38:01::
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+Wingman , stay clear , he prayed .
+2
+#0 wingman NOUN wingman%1:18:00::
+#2 stay VERB stay%2:42:02::
+He pushed stick and rudder and entered the overcast on his back .
+3
+#1 push VERB push%2:32:01::,push%2:38:00::
+#2 stick NOUN stick%1:06:01::
+#6 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+He fought the panic of vertigo .
+1
+#3 panic NOUN panic%1:12:00::
+He had no idea which was up and which was down .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#6 up ADV up%4:02:00::,up%4:02:02::
+#10 down ADV down%4:02:00::,down%4:02:02::
+He held the controls where they had been .
+2
+#1 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#3 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+Sweat popped out over him and he felt the slick between his palm and the stick grip .
+5
+#0 sweat NOUN sweat%1:04:00::
+#7 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#12 palm NOUN palm%1:08:00::
+#15 stick NOUN stick%1:06:01::
+#16 grip NOUN grip%1:06:01::
+His air speed dropped until he thought he would spin out .
+2
+#3 drop VERB drop%2:29:01::,drop%2:38:01::
+#9 spin VERB spin%2:38:01::

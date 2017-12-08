@@ -1,0 +1,225 @@
+ A philosopher may point out that the troubles of the Congo began with the old Adam and consequently will never end .
+1
+#11 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+But a historian might put his finger on a specific man and date , and hold out the hope that the troubles will sometime pass away .
+1
+#4 put VERB put%2:35:00::,put%2:35:05::
+The man was King Leopold 2 , of the Belgians , who in 1885 concluded that he had better grab a colony while the grabbing was still good .
+2
+#14 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#19 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+By force , he took under his protection , or stole , 900000 square miles of wilderness in Central Africa .
+2
+#4 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#10 steal VERB steal%2:33:00::,steal%2:40:00::
+Its boundaries had nothing to do with geography or ethnic groupings ; they were determined by the points at which Leopold 's explorers and gunmen got tired of walking .
+4
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#14 determine VERB determine%2:31:02::,determine%2:32:03::
+#25 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#28 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+The population of the Congo is 13.5 million , divided into at least seven major " culture clusters " and innumerable tribes speaking 400 separate dialects .
+2
+#9 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#22 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+The religions of the people include Christianity , Mohammedanism , paganism , ancestor worship and animism .
+1
+#5 include VERB include%2:42:00::
+The climate ranges from the steamily equatorial to the temperate .
+1
+#2 range VERB range%2:42:00::
+The hospitals contain patients trampled by elephants or run over by sports cars .
+1
+#2 contain VERB contain%2:42:00::,contain%2:42:06::
+To make one nation out of these disparities would be a problem large enough in any case ; it has been made far more difficult by what the Belgians have done , or failed to do , in the Congo since 1885 .
+1
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+At first the Belgian royal family administered the Congo as its own private property .
+1
+#6 administer VERB administer%2:41:00::
+But by 1908 its record of brutality had touched the national conscience .
+1
+#8 touch VERB touch%2:30:00::,touch%2:37:00::
+One definition of paternalism is " The principle or practice , on the part of a government , of managing the affairs of a country in the manner of a father dealing with his children " .
+2
+#19 manage VERB manage%2:41:00::,manage%2:41:01::,manage%2:41:03::
+#31 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+Ordinarily a father permits his children to grow up in due time - but when the colony received independence in 1960 the Congolese child , if one imagines him to have been born in 1908 , was 52 and had until then been treated as an infant .
+3
+#17 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#27 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#43 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+The colony was administered from Brussels , with neither the Congolese nor the resident Belgians having any vote .
+2
+#3 administer VERB administer%2:41:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The beneficiaries of this administration were a number of huge cartels in which both individuals and the Belgian government itself held stock .
+1
+#20 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+In Inside Africa , John Gunther describes one of these , the Societe Generale , as " the kind of colossus that might be envisaged if , let us say , the House of Morgan , Anaconda Copper , the Mutual Life Insurance Company of New York , the Pennsylvania Railroad , and various companies producing agricultural products were lumped together , with the United States government as a heavy partner " .
+3
+#6 describe VERB describe%2:32:01::
+#55 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#59 lump VERB lump%2:35:00::
+They provided a social security system which covered all their African employes ; their program of mass medical care was doubtless the best on the continent ; they put much effort into public housing .
+3
+#1 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#28 put VERB put%2:31:13::,put%2:34:00::
+They also instituted a ration system under which all employers in the Congo were required to furnish their employes with clothing and adequate food .
+1
+#2 institute VERB institute%2:36:01::
+But instead of delivering the ration - either in actual commodities or in cash - at intervals of perhaps two weeks or a month , the Belgians felt obliged to dole it out more often .
+2
+#3 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#27 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+Would not the children , if they received all their food on the first day of the month , eat it up immediately , and later go hungry ?
+1
+#7 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+The Belgians also placed great emphasis on education .
+1
+#3 place VERB place%2:31:13::
+The average Congolese can do little more than puzzle out the meaning of " la chatte " and " le chien " and write his name .
+1
+#23 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+Some schools were technical - the Belgians needed carpenters and mechanics to help exploit the land , and trained many .
+3
+#7 need VERB need%2:42:00::
+#12 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#18 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+When the Congo received its independence in 1960 there were , among its 13.5 million people , exactly 14 university graduates .
+1
+#3 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+Why did the Belgians grant independence to a colony so manifestly unprepared to accept it ?
+1
+#4 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+In one large oversimplification , it might be said that the Belgians felt , far too late , the gale of nationalism sweeping Africa .
+3
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#22 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+They lacked time to prepare the Congo , as the British and French had prepared their colonies .
+2
+#4 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#14 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+The Congolese were clamoring for their independence , even though most were unsure what it meant ; and in Brussels , street crowds shouted , " Pas une goutte de sang ! "
+2
+#15 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#23 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+The Belgians would not fight for the privilege of being the detested pedagogue ; rather than teach where teaching was not wanted , they would wash their hands of the mess .
+1
+#21 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Yet there were other motivations and actions which the Belgians took after independence for which history may not find them guiltless .
+2
+#10 take VERB take%2:31:02::,take%2:34:00::
+#18 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+As the time for independence approached there were in the Congo no fewer than 120 political parties , or approximately eight for each university graduate .
+1
+#5 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+First , there were those Congolese ( among them Joseph Kasavubu ) who favored splitting the country into small independent states , Balkanizing it .
+2
+#13 favor VERB favor%2:31:00::,favor%2:41:00::
+#14 split VERB split%2:41:03::
+Second , there were those ( Moise Tshombe ) who favored near-Balkanization , a loose federalism having a central government of limited authority , with much power residing in the states .
+2
+#10 favor VERB favor%2:31:00::,favor%2:41:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Third , there were those ( notably Patrice Lumumba ) who favored a unified Congo with a very strong central government .
+1
+#11 favor VERB favor%2:31:00::,favor%2:41:00::
+And fourth , there were moderates who were in no hurry for independence and wished to wait until the Congo grew up .
+1
+#16 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+A final factor which contributed greatly to the fragmentation of the Congo , immediately after independence , was the provincial structure that had been established by the Belgians for convenience in administration .
+1
+#24 establish VERB establish%2:36:01::,establish%2:41:00::
+They had divided the Congo into six provinces - Leopoldville , Kasai , Kivu , Katanga , Equator and Eastern - unfortunately with little regard for ethnic groupings .
+1
+#2 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+Thus some provinces contained tribes which detested each other , and to them independence meant an opportunity for war .
+2
+#3 contain VERB contain%2:42:00::,contain%2:42:06::
+#14 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+The Belgian Congo was granted its independence with what seemed a workable Western-style form of government :
+1
+#4 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+Well-wishers around the world hoped that the Congo would quickly assume a respectable position in the society of nations .
+1
+#10 assume VERB assume%2:40:00::,assume%2:40:01::
+If internal frictions arose , they could be handled by the 25000 - man Congolese army , the Force Publique , which had been trained and was still officered by white Belgians .
+3
+#3 arise VERB arise%2:30:00::,arise%2:42:01::
+#8 handle VERB handle%2:41:00::,handle%2:41:03::
+#24 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+Presently the well-armed members of the Force Publique - many of them drawn from savage and even cannibalistic tribes , erupted in mutiny , rioting , raping and looting .
+1
+#12 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+The Belgian government decided to act , and on July 10 dispatched paratroops to the Congo .
+2
+#5 act VERB act%2:33:00::,act%2:41:00::
+#11 dispatch VERB despatch%2:38:00::
+Confusion became chaos ; each succeeding day brought new acts of violence .
+1
+#1 become VERB become%2:30:00::,become%2:42:01::
+Lumumba and Kasavubu blamed it all on the military intervention by the Belgians , and appealed to the United Nations to send troops to oust them .
+1
+#21 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+On July 14 the Security Council - with France and Great Britain abstaining - voted the resolution which drew the U. N. into the Congo .
+1
+#18 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+Vague in wording , it called for withdrawal of Belgian troops and authorized the Secretary-General " to take the necessary steps to provide the [ Congolese ] Government with such military assistance as may be necessary , until , through the efforts of the Congolese Government with the technical assistance of the United Nations , the national security forces may be able , in the opinion of the Government , to meet fully their tasks " .
+3
+#17 take VERB take%2:31:02::,take%2:34:00::
+#22 provide VERB provide%2:34:00::,provide%2:40:00::
+#71 meet VERB meet%2:41:02::,meet%2:42:01::
+He quickly called on Ghana , Tunisia , Morocco , Guinea and Mali , which dispatched troops within hours .
+1
+#15 dispatch VERB despatch%2:38:00::
+Ultimately the U. N. army in the Congo reached a top strength of 19000 , including about 5000 from India and a few soldiers from Eire and Sweden , who were the only whites .
+2
+#8 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#15 include VERB include%2:31:00::,include%2:41:03::
+The Belgians were reluctant to withdraw their troops and often obstructed U. N. efforts .
+1
+#5 withdraw VERB withdraw%2:30:00::,withdraw%2:38:00::,withdraw%2:40:01::,withdraw%2:41:00::,withdraw%2:41:01::
+The wildly erratic nature of Patrice Lumumba caused constant problems - he frequently announced that he wanted the U. N. to get out of the Congo along with the Belgians , and appealed to Russia for help .
+1
+#16 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Lumumba further complicated the U. N . 's mission by initiating small " wars " with the secessionist province of Katanga and with South Kasai which , under Albert Kalonji , wanted to secede as well .
+2
+#10 initiate VERB initiate%2:30:00::
+#31 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Meanwhile Russia took every opportunity to meddle in the Congo , sending Lumumba equipment for his " wars " , dispatching " technicians " and even threatening , on occasion , to intervene openly .
+4
+#2 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#11 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#20 dispatch VERB despatch%2:38:00::
+#32 intervene VERB intervene%2:30:00::
+But by the end of the three-month period , in October 1960 , something approaching calm settled on the Congo .
+1
+#14 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+President Kasavubu became exasperated with Lumumba and fired him .
+2
+#2 become VERB become%2:30:00::,become%2:42:01::
+#7 fire VERB fire%2:41:00::
+Lumumba fired Kasavubu .
+1
+#1 fire VERB fire%2:41:00::
+But they left behind them large numbers of officers , variously called " volunteers " or " mercenaries " , who now staff the army of Moise Tshombe in Katanga , the seceded province which , according to Tshombe , holds 65 % of the mineral wealth of the entire country .
+1
+#40 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+From October 1960 to February 1961 , the U. N. forces in the Congo took little action .
+1
+#14 take VERB take%2:31:02::,take%2:34:00::
+In February the murder of Patrice Lumumba , who had been kidnaped into Katanga and executed on order of Tshombe , again stirred the U. N. to action .
+1
+#15 execute VERB execute%2:41:00::
+On Feb. 21 the council passed another resolution urging the taking of " all appropriate measures to prevent the occurrence of civil war in the Congo , including the use of force , if necessary , in the last resort " .
+3
+#5 pass VERB pass%2:41:02::
+#17 prevent VERB prevent%2:41:00::
+#27 include VERB include%2:31:00::,include%2:41:03::
+It also urged that the U. N. eject , and prevent the return of , all Belgian and other foreign military and political advisers ; ordered an investigation of Lumumba 's death ; urged the reconvention of the Congolese Parliament and the reorganization of the army .
+2
+#10 prevent VERB prevent%2:41:00::
+#25 order VERB order%2:32:01::,order%2:32:02::

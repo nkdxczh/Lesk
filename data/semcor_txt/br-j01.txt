@@ -1,0 +1,479 @@
+ It has recently become practical to use the radio emission of the moon and planets as a new source of information about these bodies and their atmospheres .
+6
+#3 become VERB become%2:30:00::,become%2:42:01::
+#4 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#20 information NOUN information%1:09:00::,information%1:10:02::
+#26 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+The results of present observations of the thermal radio emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared emission during eclipses ( e.g. , Garstung , 1958 ) .
+6
+#3 present ADJ present%3:00:01::
+#4 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#18 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#24 layer NOUN layer%1:06:00::
+#30 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#36 eclipse NOUN eclipse%1:11:00::
+When sufficiently accurate and complete measurements are available , it will be possible to set limits on the thermal and electrical characteristics of the surface and subsurface materials of the moon .
+7
+#2 accurate ADJ accurate%5:00:00:correct:00
+#4 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#14 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#15 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#21 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#24 surface ADJ surface%3:00:00::
+#27 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+Observations of the radio emission of a planet which has an extensive atmosphere will probe the atmosphere to a greater extent than those using shorter wave lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface .
+11
+#0 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 extensive ADJ extensive%5:00:00:large:00
+#12 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#16 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#23 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#31 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#32 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#33 otherwise ADV otherwise%4:02:01::
+#38 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#42 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Radio observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these planets .
+5
+#3 Venus NOUN venus%1:17:00::
+#5 Jupiter NOUN jupiter%1:17:00::
+#7 already ADV already%4:02:00::
+#11 data NOUN data%1:14:00::,datum%1:09:00::
+#14 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+The observed intensity of the radio emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave lengths near 3 cm and 10 cm is like that of a black body at about 600 ` K .
+8
+#2 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#8 Venus NOUN venus%1:17:00::
+#11 high ADJ high%3:00:02::
+#16 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#20 spectrum NOUN spectrum%1:19:00::
+#21 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#41 about ADV about%4:02:00::
+#44 K abbreviation k%1:23:01::
+This result suggests a very high temperature at the solid surface of the planet , although there is the possibility that the observed radiation may be a combination of both thermal and non thermal components and that the observed spectrum is that of a black body merely by coincidence .
+5
+#10 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#23 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#27 combination NOUN combination%1:04:00::,combination%1:14:00::
+#39 spectrum NOUN spectrum%1:19:00::
+#48 coincidence NOUN coincidence%1:07:01::
+For the case of Jupiter , the radio emission spectrum is definitely not like the spectrum of a black-body radiator , and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non thermal components .
+11
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#4 Jupiter NOUN jupiter%1:17:00::
+#9 spectrum NOUN spectrum%1:19:00::
+#12 not ADV not%4:02:00::
+#15 spectrum NOUN spectrum%1:19:00::
+#28 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#29 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#31 earth NOUN earth%1:15:00::,earth%1:17:01::
+#34 combination NOUN combination%1:04:00::,combination%1:14:00::
+#37 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#40 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+Of the remaining planets , only Mars and Saturn have been observed as radio sources , and not very much information is available .
+6
+#2 remaining ADJ remaining%5:00:00:unexhausted:00
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 Mars NOUN mars%1:17:00::
+#8 Saturn NOUN saturn%1:17:00::
+#11 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#17 not ADV not%4:02:00::
+Mars has been observed twice at about 3 - cm wave length , and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars .
+8
+#0 Mars NOUN mars%1:17:00::
+#3 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#6 about ADV about%4:02:00::
+#15 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#19 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#22 reasonable ADJ reasonable%5:00:00:moderate:00
+#27 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#40 Mars NOUN mars%1:17:00::
+The low intensity of the radiation from Saturn has limited observations , but again the measured radiation seems to be consistent with a thermal origin .
+7
+#1 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#2 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#5 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#7 Saturn NOUN saturn%1:17:00::
+#10 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#16 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#24 origin NOUN origin%1:15:00::
+No attempts to measure the radio emission of the remaining planets have been reported , and , because of their distances , small diameters , or low temperatures , the thermal radiation at radio wave lengths reaching the earth from these sources is expected to be of very low intensity .
+10
+#3 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#9 remaining ADJ remaining%5:00:00:unexhausted:00
+#13 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#20 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#23 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#31 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#36 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#38 earth NOUN earth%1:15:00::,earth%1:17:01::
+#48 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#49 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+In spite of this , the very large radio reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio emission of most of the planets in a few years .
+5
+#7 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#17 become VERB become%2:30:00::,become%2:42:01::
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#24 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+The study of the radio emission of the moon and planets began with the detection of the thermal radiation of the moon at 1.25 - cm wave length by Dicke and Beringer ( 1946 ) .
+3
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#11 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+This was followed by a comprehensive series of observations of the 1.25 - cm emission of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) .
+5
+#2 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#5 comprehensive ADJ comprehensive%3:00:00::
+#6 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#8 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#21 cycle NOUN cycle%1:28:00::
+They deduced from their measurements that the radio emission from the whole disk of the moon varied during a lunation in a roughly sinusoidal fashion ; that the amplitude of the variation was considerably less than the amplitude of the variation in the infrared emission as measured by Pettit and Nicholson ( 1930 ) and Pettit ( 1935 ) ; and that the maximum of the radio emission came about 3 - 1 2 days after Full Moon , which is again in contrast to the infrared emission , which reaches its maximum at Full Moon .
+12
+#11 whole ADJ whole%3:00:00::
+#22 roughly ADV roughly%4:02:03::
+#24 fashion NOUN fashion%1:07:00::
+#28 amplitude NOUN amplitude%1:07:01::
+#31 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#37 amplitude NOUN amplitude%1:07:01::
+#40 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#46 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#68 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#69 about ADV about%4:02:00::
+#74 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#90 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Piddington and Minnett explained their observations by pointing out that rocklike materials which are likely to make up the surface of the moon would be partially transparent to radio waves , although opaque to infrared radiation .
+2
+#11 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+The infrared emission could then be assumed to originate at the surface of the moon , while the radio emission originates at some depth beneath the surface , where the temperature variation due to solar radiation is reduced in amplitude and shifted in phase .
+9
+#4 then ADV then%4:02:02::
+#6 assume VERB assume%2:31:00::
+#11 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#23 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#26 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#31 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#37 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#39 amplitude NOUN amplitude%1:07:01::
+#43 phase NOUN phase%1:07:00::,phase%1:28:00::
+Since the absorption of radio waves in rocklike material varies with wave length , it should be possible to sample the temperature variation at different depths beneath the surface and possibly detect changes in the structure or composition of the lunar surface material .
+8
+#2 absorption NOUN absorption%1:22:03::
+#8 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#22 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#24 different ADJ different%3:00:00::,different%5:00:00:other:00
+#25 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#28 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#32 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#42 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+The radio emission of a planet was first detected in 1955 , when Burke and Franklin ( 1955 ) identified the origin of interference like radio noise on their records at about 15 meters wave length as emission from Jupiter .
+6
+#19 identify VERB identify%2:31:00::,identify%2:32:00::
+#21 origin NOUN origin%1:15:00::
+#23 interference NOUN interference%1:10:00::
+#31 about ADV about%4:02:00::
+#33 meter NOUN m%1:23:00::
+#39 Jupiter NOUN jupiter%1:17:00::
+This sporadic type of planetary radiation is discussed by Burke ( chap. 13 ) and Gallet ( chap. 14 ) .
+2
+#2 type NOUN type%1:18:00::
+#5 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+Steady radiation which was presumably of thermal origin was observed from Venus at 3.15 and 9.4 cm , and from Mars and Jupiter at 3.15 cm in 1956 ( Mayer , McCullough , and Sloanaker , 1958 a , b , c ) , and from Saturn at 3.75 cm in 1957 ( Drake and Ewen , 1958 ) .
+8
+#0 steady ADJ steady%3:00:00::
+#1 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#7 origin NOUN origin%1:15:00::
+#9 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#11 Venus NOUN venus%1:17:00::
+#20 Mars NOUN mars%1:17:00::
+#22 Jupiter NOUN jupiter%1:17:00::
+#46 Saturn NOUN saturn%1:17:00::
+In the relatively short time since these early observations , Venus has been observed at additional wave lengths in the range from 0.8 to 10.2 cm , and Jupiter has been observed over the wave-length range from 3.03 to 68 cm .
+7
+#3 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#10 Venus NOUN venus%1:17:00::
+#13 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#20 range NOUN range%1:07:00::,range%1:15:01::
+#28 Jupiter NOUN jupiter%1:17:00::
+#31 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#35 range NOUN range%1:07:00::,range%1:15:01::
+The observable characteristics of planetary radio radiation are the intensity , the polarization , and the direction of arrival of the waves .
+3
+#2 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#16 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#21 wave NOUN wave%1:11:00::
+The maximum angular diameter of any planetary disk as observed from the earth is about 1 minute of arc .
+5
+#2 angular ADJ angular%3:01:00::
+#3 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#9 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#12 earth NOUN earth%1:15:00::,earth%1:17:01::
+#14 about ADV about%4:02:00::
+This is much smaller than the highest resolution of even the very large reflectors now under construction , and consequently the radio emission of different regions of the disk cannot be resolved .
+5
+#7 resolution NOUN resolution%1:19:00::,resolution%1:19:01::
+#12 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#24 different ADJ different%3:00:00::,different%5:00:00:other:00
+#31 resolve VERB resolve%2:30:07::,resolve%2:39:00::
+It should be possible , however , to put useful limits on the diameters of the radio sources by observing with large reflectors or with interferometers .
+5
+#5 however ADV however%4:02:04::
+#8 put VERB put%2:31:13::,put%2:34:00::
+#10 limit NOUN limit%1:23:00::,limit%1:28:00::
+#19 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#21 large ADJ large%3:00:00::,large%5:00:00:significant:00
+Measurements of polarization are presently limited by apparatus sensitivity and will remain difficult because of the low intensity of the planetary radiation at the earth .
+5
+#4 presently ADV presently%4:02:00::
+#7 apparatus NOUN apparatus%1:06:00::
+#16 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#21 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#24 earth NOUN earth%1:15:00::,earth%1:17:01::
+There have been few measurements specifically for the determination of the polarization of planetary radiation .
+2
+#8 determination NOUN determination%1:04:01::
+#14 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+The measurements made with the NRL 50 - foot reflector , which is altitude azimuth mounted , would have shown a systematic change with local hour angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized .
+11
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 foot NOUN foot%1:23:00::
+#19 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#22 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#30 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#32 Venus NOUN venus%1:17:00::
+#34 Jupiter NOUN jupiter%1:17:00::
+#37 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#38 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#41 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#45 polarize VERB polarise%2:30:02::
+Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960 - Mc emission of Jupiter to be partially polarized and to originate in a region of larger diameter than the visible disk .
+7
+#0 recent ADJ recent%5:00:00:past:00
+#11 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#18 Jupiter NOUN jupiter%1:17:00::
+#22 polarize VERB polarise%2:30:02::
+#30 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#31 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#34 visible ADJ visible%3:00:00::
+Other than this very significant result , most of the information now available about the radio emission of the planets is restricted to the intensity of the radiation .
+2
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#27 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets .
+3
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 describe VERB describe%2:32:01::
+#11 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+The received radiation is compared with the radiation from a hypothetical black-body which subtends the same solid angle as the visible disk of the planet .
+6
+#2 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#4 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#7 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#13 subtend VERB subtend%2:42:00::
+#15 same ADJ same%3:00:00::,same%3:00:02::
+#20 visible ADJ visible%3:00:00::
+The apparent black-body disk temperature is the temperature which must be assumed for the black body in order that the intensity of its radiation should equal that of the observed radiation .
+4
+#11 assume VERB assume%2:31:00::
+#20 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#23 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#30 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+The use of this concept does not specify the origin of the radiation , and only if the planet really radiates as a black body , will the apparent black-body temperature correspond to the physical temperature of the emitting material .
+9
+#6 not ADV not%4:02:00::
+#9 origin NOUN origin%1:15:00::
+#12 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#20 radiate VERB radiate%2:43:00::
+#31 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#34 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#39 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+The radio radiation of the sun which is reflected from the moon and planets should be negligible compared with their thermal emission at centimeter wave lengths , except possibly at times of exceptional outbursts of solar radio noise .
+4
+#5 sun NOUN sun%1:17:00::,sun%1:17:01::
+#8 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#17 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#28 possibly ADV possibly%4:02:00::
+The quiescent level of centimeter wave-length solar radiation would increase the average disk brightness temperature by less than 1 ` K .
+2
+#2 level NOUN level%1:26:00::,level%1:26:01::
+#20 K abbreviation k%1:23:01::
+At meter wave lengths and increase of the order of 10 ` K in the average disk temperatures of the nearer planets would be expected .
+2
+#1 meter NOUN m%1:23:00::
+#12 K abbreviation k%1:23:01::
+Therefore , neglecting the extreme outbursts , reflected solar radiation is not expected to cause sizable errors in the measurements of planetary radiation in the centimeter - and decimeter wave-length range .
+5
+#4 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#7 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#11 not ADV not%4:02:00::
+#22 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#30 range NOUN range%1:07:00::,range%1:15:01::
+Radio observations of the moon have been made over the range of wave lengths from 4.3 mm to 75 cm , and the results are summarized in Table 1 .
+2
+#10 range NOUN range%1:07:00::,range%1:15:01::
+#27 table NOUN table%1:14:00::
+Observations have also been made at 1.5 mm using optical techniques ( Sinton , 1955 , 1956 , ; see also chap. 11 ) .
+3
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 optical ADJ optical%3:01:01::
+Not all the observers have used the same procedures or made the same assumptions about the lunar brightness distribution when reducing the data , and this , together with differences in the methods of calibrating the antennae and receivers , must account for much of the disagreement in the measured radio brightness temperatures .
+11
+#0 not ADV not%4:02:00::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 same ADJ same%3:00:00::,same%3:00:02::
+#13 assumption NOUN assumption%1:09:00::
+#20 reduce VERB reduce%2:30:06::
+#22 data NOUN data%1:14:00::,datum%1:09:00::
+#27 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#36 antenna NOUN antenna%1:06:00::
+#38 receiver NOUN receiver%1:06:00::
+In the observations at 4.3 mm ( Coates , 1959 a ) , the diameter of the antenna beam , 6 ' .7 , was small enough to allow resolution of some of the larger features of the lunar surface , and contour diagrams have been made of the lunar brightness distribution at three lunar phases .
+9
+#14 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#17 antenna NOUN antenna%1:06:00::
+#18 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#26 enough ADV enough%4:02:00::
+#34 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#35 feature NOUN feature%1:08:00::,feature%1:09:01::
+#39 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#46 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#55 phase NOUN phase%1:07:00::,phase%1:28:00::
+These observations indicate that the lunar maria heat up more rapidly and also cool off more rapidly than do the mountainous regions .
+3
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#6 mare NOUN mare%1:17:00::
+#15 more ADV more%4:02:00::
+Mare Imbrium seems to be an exception and remains cooler than the regions which surround it .
+1
+#9 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+These contour diagrams also suggest a rather rapid falloff in the radio brightness with latitude .
+2
+#6 rather ADV rather%4:02:00::,rather%4:02:04::
+#14 latitude NOUN latitude%1:15:00::
+Very recently , observations have been made at 8 - mm wave length with a reflector 22 meters in diameter with a resultant beam width of only about 2 ' ( Amenitskii , Noskova , and Salomonovich , 1960 ) .
+5
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 meter NOUN m%1:23:00::
+#19 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#23 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#26 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+The constant temperature contours are much smoother than those observed at 4.3 mm by Coates ( 1959 a ) , and apparently the emission at 8 mm is not nearly so sensitive to differences in surface features .
+6
+#9 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#28 not ADV not%4:02:00::
+#29 nearly ADV nearly%4:02:00::
+#30 so ADV so%4:02:03::,so%4:02:07::
+#31 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#36 feature NOUN feature%1:08:00::,feature%1:09:01::
+Such high-resolution observations as these are needed at several wave lengths in order that the radio emission of the moon can be properly interpreted .
+1
+#22 properly ADV properly%4:02:00::
+The observations of Mayer , McCullough , and Sloanaker at 3.15 cm and of Sloanaker at 10.3 cm have not previously been published and will be briefly described .
+3
+#19 not ADV not%4:02:00::
+#22 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#27 describe VERB describe%2:32:01::
+Measurements at 3.15 cm were obtained on 11 days spread over the interval May 3 to June 19 , 1956 , using the 50 - foot reflector at the U.S. Naval Research Laboratory in Washington .
+6
+#5 obtain VERB obtain%2:40:00::
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#12 interval NOUN interval%1:09:00::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#25 foot NOUN foot%1:23:00::
+The half-intensity diameter of the antenna beam was about 9 ' , and the angle subtended by the moon included the entire main beam and part of the first side lobes .
+10
+#2 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#5 antenna NOUN antenna%1:06:00::
+#6 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#8 about ADV about%4:02:00::
+#14 angle NOUN angle%1:25:00::
+#15 subtend VERB subtend%2:42:00::
+#19 include VERB include%2:42:00::
+#23 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#25 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#29 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+The antenna patterns and the power gain at the peak of the beam were both measured ( Mayer , McCullough , and Sloanaker , 1958 b ) , so that the absolute power sensitivity of the antenna beam over the solid angle of the moon was known .
+10
+#1 antenna NOUN antenna%1:06:00::
+#2 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#5 power NOUN power%1:19:00::
+#12 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#15 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#31 absolute ADJ absolute%5:00:00:unequivocal:00
+#32 power NOUN power%1:19:00::
+#36 antenna NOUN antenna%1:06:00::
+#37 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#46 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The ratio of the measured antenna temperature change during a drift scan across the moon to the average brightness temperature of the moon over the antenna beam ( assuming that the brightness temperature of the sky is negligible ) was found , by graphical integration of the antenna directivity diagram , to be 0.85 .
+8
+#5 antenna NOUN antenna%1:06:00::
+#10 drift NOUN drift%1:22:02::
+#25 antenna NOUN antenna%1:06:00::
+#26 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#28 assume VERB assume%2:31:00::
+#43 graphical ADJ graphical%3:01:00::
+#44 integration NOUN integration%1:04:00::,integration%1:04:02::
+#47 antenna NOUN antenna%1:06:00::
+The measured brightness temperature is a good approximation to the brightness temperature at the center of the lunar disk because of the narrow antenna beam and because the temperature distribution over the central portion of the moon 's disk is nearly uniform .
+6
+#14 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#22 narrow ADJ narrow%3:00:00::
+#23 antenna NOUN antenna%1:06:00::
+#24 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#32 central ADJ central%3:00:01::,central%5:00:00:important:00
+#40 nearly ADV nearly%4:02:00::
+The result of the observations is ( in ` K ) **f where the phase angle , |qt , is measured in degrees from new moon and the probable errors include absolute as well as relative errors .
+8
+#9 K abbreviation k%1:23:01::
+#14 phase NOUN phase%1:07:00::,phase%1:28:00::
+#15 angle NOUN angle%1:25:00::
+#20 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#22 degree NOUN degree%1:23:00::
+#30 include VERB include%2:42:00::
+#31 absolute ADJ absolute%5:00:00:unequivocal:00
+#35 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+This result is plotted along with the 8.6 - mm observations of Gibson ( 1958 ) in figure 1 , a .
+1
+#17 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+The variation in the 3 - cm emission of the moon during a lunation is very much less than the variation in the 8.6 - mm emission , as would be expected from the explanation of Piddington and Minnett ( 1949 ) .
+2
+#1 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#20 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+In the discussion which follows , the time average of the radio emission will be referred to as the constant component , and the superimposed periodic variation will be called the variable component .
+6
+#4 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#8 average NOUN average%1:09:01::
+#15 refer VERB refer%2:32:00::,refer%2:42:00::
+#25 periodic ADJ periodic%3:00:00::
+#26 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#31 variable ADJ variable%3:00:00::
+The 10.3 - cm observation of Sloanaker was made on May 20 , 1958 , using the 84 - foot reflector at the Maryland Point Observatory of the U.S. Naval Research Laboratory .
+3
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#19 foot NOUN foot%1:23:00::
+The age of the moon was about 2 days .
+3
+#1 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#6 about ADV about%4:02:00::
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The half-intensity diameter of the main lobe of the antenna was about 18 ' .5 , and the brightness temperature was reduced by assuming a Gaussian shape for the antenna beam and a uniformly bright disk for the moon .
+7
+#2 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#9 antenna NOUN antenna%1:06:00::
+#11 about ADV about%4:02:00::
+#21 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#29 antenna NOUN antenna%1:06:00::
+#30 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#34 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06

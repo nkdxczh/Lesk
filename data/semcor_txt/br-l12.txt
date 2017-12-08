@@ -1,0 +1,760 @@
+ Andy did not see the newspapers the next day .
+4
+#2 not ADV not%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Someone on his staff - he suspected it was Ed Thornburg - intercepted them and for this Andy was grateful .
+2
+#3 staff NOUN staff%1:14:00::,staff%1:14:01::
+#6 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+He finally fell asleep around six in the morning with the aid of a sleeping capsule , a crutch he rarely used , and did n't awaken until early afternoon .
+5
+#8 morning NOUN morning%1:28:00::,morning%1:28:01::
+#18 crutch NOUN crutch%1:06:00::
+#20 rarely ADV rarely%4:02:00::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#28 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+Memory flooded him the instant he opened his eyes and the sick feeling knotted his stomach .
+9
+#0 memory NOUN memory%1:09:00::,memory%1:09:02::
+#1 flood VERB flood%2:35:00::
+#4 instant NOUN instant%1:28:00::
+#6 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#11 sick ADJ sick%5:00:02:ill:01
+#12 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#13 knot VERB knot%2:35:00::
+#15 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+Outside his window bloomed a beautiful summer day .
+4
+#2 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#3 bloom VERB bloom%2:30:00::
+#6 summer NOUN summer%1:28:00::
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Presumably the same sun was shining upon little Drew also , and those who had kidnapped him .
+3
+#2 same ADJ same%3:00:00::,same%3:00:02::
+#3 sun NOUN sun%1:18:00::,sun%1:19:00::
+#5 shine VERB shine%2:43:00::
+It was still a very big world , despite all the modern cant to the contrary .
+4
+#2 still ADV still%4:02:00::
+#5 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#6 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#12 cant NOUN cant%1:10:02::
+Hub was sitting in a chair that blocked the hall door .
+4
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 chair NOUN chair%1:06:00::,chair%1:06:01::
+#7 block VERB block%2:33:00::
+#9 hall NOUN hall%1:06:03::,hall%1:06:05::
+He was dozing , perhaps the only sleep he 'd gotten .
+2
+#7 sleep NOUN sleep%1:26:00::
+#10 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+He snapped to alertness at Andy 's entrance .
+1
+#1 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+Nothing new .
+1
+#1 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+Lot of people waiting to see you , though " .
+3
+#2 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#5 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+" Our own people .
+1
+#2 own ADJ own%5:00:00:personal:00
+Questions about the show tonight " .
+1
+#3 show NOUN show%1:04:00::,show%1:10:00::
+Hub picked up the telephone .
+1
+#4 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+" Shall I let them know you 're awake " ?
+1
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" I suppose .
+1
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+How 's Lissa , do you know " ?
+1
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Some better .
+1
+#2 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+She 's got plenty of guts , Mr. Paxton .
+1
+#5 gut NOUN guts%1:07:00::
+You want me to call her " ?
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Hub shook his head so Andy told him not to bother .
+5
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 not ADV not%4:02:00::
+#10 bother VERB bother%2:41:00::
+The only reason for contacting Lissa was to comfort or to be comforted .
+1
+#2 reason NOUN reason%1:09:01::,reason%1:16:00::
+He could not manage the former or expect the latter ; they had nothing to give to each other .
+5
+#2 not ADV not%4:02:00::
+#3 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#5 former ADJ former%3:00:00::
+#9 latter ADJ latter%3:00:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The omission might look peculiar to outsiders , but Andy could not bring himself to go through the motions simply for the sake of appearances .
+7
+#3 look VERB look%2:39:01::,look%2:42:02::
+#4 peculiar ADJ peculiar%5:00:00:strange:00
+#6 outsider NOUN outsider%1:18:00::
+#11 not ADV not%4:02:00::
+#19 simply ADV simply%4:02:00::,simply%4:02:02::
+#22 sake NOUN sake%1:09:00::
+#24 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+He had little time to himself , anyway .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 time NOUN time%1:28:01::,time%1:28:05::
+#7 anyway ADV anyway%4:02:00::
+As the afternoon sped toward evening , the suite saw a steady procession of Paxton aides pass in and out , each with his own special problem .
+7
+#3 speed VERB speed%2:30:02::
+#5 evening NOUN evening%1:28:00::,evening%1:28:02::
+#8 suite NOUN suite%1:14:01::
+#11 steady ADJ steady%3:00:00::
+#12 procession NOUN procession%1:04:00::
+#24 own ADJ own%5:00:00:personal:00
+#26 problem NOUN problem%1:09:00::,problem%1:26:00::
+They had spent the morning revising the act , eliminating all the gay songs , patter and dancing with a view of the best public relations .
+7
+#4 morning NOUN morning%1:28:00::,morning%1:28:01::
+#5 revise VERB revise%2:32:00::
+#7 act NOUN act%1:10:00::,act%1:10:02::
+#12 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#15 patter NOUN patter%1:10:00::
+#20 view NOUN view%1:09:04::
+#23 good ADJ best%3:00:00::,good%3:00:01::
+What remained lacked the original verve but it was at least dignified , as befitting the tragic circumstances .
+3
+#4 original ADJ original%5:00:01:first:00
+#16 tragic ADJ tragic%5:00:00:sad:00
+#17 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+Raymond Fox reported that the orchestra had hastily rehearsed " Cradle Song " in case it was needed .
+2
+#2 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#5 orchestra NOUN orchestra%1:14:00::
+Charlie Marble was back and forth on several occasions , first to confer with Andy on the advisability of cancelling the Las Vegas engagement - they decided it was wise - and later to announce that a prominent comedian , also an agency client , had agreed to fill the casino 's open date .
+8
+#8 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#19 cancel VERB cancel%2:41:03::
+#23 engagement NOUN engagement%1:14:00::
+#32 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#43 client NOUN client%1:18:00::
+#46 agree VERB agree%2:32:00::,agree%2:32:01::
+#52 open ADJ open%5:00:00:active:06,open%5:00:00:available:00,open%5:00:00:unrestricted:00
+#53 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+And once Bake slipped in , pale and drawn , last night 's liquor still on his breath with some of today 's added to it .
+7
+#3 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#4 in ADV in%4:02:01::
+#6 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#10 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#11 night NOUN night%1:28:00::
+#13 liquor NOUN liquor%1:13:00::
+#14 still ADV still%4:02:00::
+He asked if there was anything he could do .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+Andy invented a job to keep him busy , sending him ahead to El Dorado to supervise last minute arrangements .
+4
+#3 job NOUN job%1:04:00::,job%1:06:00::
+#5 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#9 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#19 arrangement NOUN arrangement%1:09:01::
+At last it was time to depart .
+1
+#4 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+Hub , nosing about , spotted reporters in the lobby , so Andy was hustled away quietly through the hotel 's service entrance in a strange car which Hub had procured somewhere .
+8
+#2 nose VERB nose%2:39:00::
+#5 spot VERB spot%2:39:00::,spot%2:39:02::
+#9 lobby NOUN lobby%1:06:00::
+#14 hustle VERB hustle%2:38:00::
+#15 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#19 hotel NOUN hotel%1:06:00::
+#25 strange ADJ strange%3:00:00::
+#30 procure VERB procure%2:40:00::
+They succeeded in eluding the curious at the hotel , but there was no chance of avoiding them at the nightclub .
+4
+#1 succeed VERB succeed%2:41:00::
+#8 hotel NOUN hotel%1:06:00::
+#14 chance NOUN chance%1:07:00::,chance%1:26:00::
+#16 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+They overflowed the parking lot , making progress by automobile difficult .
+1
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Long before he reached the protection of the stage door , Andy was recognized .
+2
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#13 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+Word of his arrival spread through the crowd like a brush-fire .
+1
+#4 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+They surged around him , fingers pointing , eyes prying .
+3
+#6 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 pry VERB pry%2:39:00::
+It was not a hostile gathering but Andy sensed the difference from last night 's hero-worshippers .
+4
+#2 not ADV not%4:02:00::
+#5 gathering NOUN gathering%1:04:00::
+#12 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#13 night NOUN night%1:28:00::
+They had come not to admire but to observe .
+3
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#3 not ADV not%4:02:00::
+#8 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+" It 's worse inside " , Thornburg informed Andy .
+3
+#3 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#4 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#8 inform VERB inform%2:32:00::,inform%2:32:10::
+" Skolman 's jammed in every table he could find .
+2
+#3 jam VERB jam%2:35:00::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Under the heading of it 's an ill wind , et cetera " .
+3
+#2 heading NOUN heading%1:10:00::
+#7 ill ADJ ill%5:00:00:unpropitious:00
+#8 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+Andy 's co-workers kept their distance , awed by the tragedy .
+2
+#5 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#10 tragedy NOUN tragedy%1:11:00::
+But in his dressing room was a large bouquet and a card that read , " We 're with you all the way " .
+4
+#7 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 bouquet NOUN bouquet%1:06:00::
+#11 card NOUN card%1:10:00::
+#13 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+It was signed by everyone in the troupe .
+1
+#2 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+He instructed Shirl Winter to compose a note of thanks to be posted on the call board .
+3
+#1 instruct VERB instruct%2:32:01::
+#5 compose VERB compose%2:36:01::,compose%2:36:09::,compose%2:42:00::
+#7 note NOUN note%1:10:03::
+Bake was waiting to report that Lou DuVol had been sobered up to the point where he could function efficiently .
+3
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#4 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#14 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+Andy gathered that this had been no small accomplishment .
+2
+#1 gather VERB gather%2:32:00::
+#6 no ADV no%4:02:01::
+Bake himself looked better ; any kind of job was better than brooding .
+4
+#2 look VERB look%2:39:01::,look%2:42:02::
+#3 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#8 job NOUN job%1:04:00::,job%1:06:00::
+#10 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Andy told him , " Bake , I wish you 'd talk to Skolman , see if some kind of p. a. system can be rigged up outside .
+3
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#27 outside ADV outside%4:02:01::
+It 's just barely possible with this crowd that the kidnapper was n't able to get a table .
+4
+#2 just ADV just%4:02:04::
+#3 barely ADV barely%4:02:00::
+#13 able ADJ able%3:00:00::
+#15 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+I would n't want him to miss the message " .
+3
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#8 message NOUN message%1:10:00::,message%1:10:01::
+" I 'll try .
+1
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Skolman is n't going to like it much , though , giving away what he should be selling " .
+1
+#17 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+A short time later , Lieutenant Bonner stomped into the dressing room .
+3
+#1 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#2 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+It 's those damn loudspeakers " .
+1
+#3 damn ADJ damn%5:00:00:cursed:00
+Andy rolled up the revised script he had been studying .
+2
+#5 script NOUN script%1:10:00::
+#9 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+My men have been here all afternoon , setting up for this thing " .
+3
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#12 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Bonner explained that , with the nightclub 's cooperation , the police had occupied El Dorado like a battlefield .
+1
+#13 occupy VERB occupy%2:42:02::
+Motion picture cameras had been installed to film the audience , the reservation list was being checked out name by name , and a special detail was already at work in the parking lot scrutinizing automobiles for a possible lead .
+11
+#2 camera NOUN camera%1:06:00::
+#5 install VERB install%2:35:00::
+#7 film VERB film%2:32:00::
+#9 audience NOUN audience%1:14:01::
+#12 reservation NOUN reservation%1:09:01::
+#13 list NOUN list%1:10:00::
+#18 name NOUN name%1:14:00::
+#20 name NOUN name%1:14:00::
+#25 detail NOUN detail%1:14:01::
+#27 already ADV already%4:02:00::
+#39 lead NOUN lead%1:04:00::,lead%1:04:01::,lead%1:09:00::
+However , it was virtually impossible to screen the mob outside , even if Bonner had manpower available for the purpose .
+5
+#0 however ADV however%4:02:04::
+#4 virtually ADV virtually%4:02:02::
+#7 screen VERB screen%2:41:01::
+#10 outside ADV outside%4:02:01::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" I want you to have the speakers taken out " .
+2
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+" Seems like we 're never going to see eye to eye , Lieutenant .
+1
+#5 never ADV never%4:02:00::
+Did n't they tell you what I wanted the p. a. system for " ?
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+" Sure , I know .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" No longer than yours .
+1
+#2 long ADJ long%3:00:01::
+What do you expect to get tonight , anyway ?
+2
+#5 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#8 anyway ADV anyway%4:02:00::
+You think somebody is going to stand up in the audience and make guilty faces ?
+4
+#1 think VERB think%2:31:01::,think%2:31:03::
+#10 audience NOUN audience%1:14:01::
+#12 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Or have a sign on his car that says , ' Here Comes the Paxton Kidnapper " ' ?
+5
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#12 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Andy crumbled the script in his fist .
+1
+#3 script NOUN script%1:10:00::
+" I can n't stop you from doing what you think is right .
+1
+#10 think VERB think%2:31:01::,think%2:31:03::
+But do n't try to stop me , either " .
+2
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#8 either ADV either%4:02:00::
+" Someday " , Bonner said , " you 're going to ask us for help .
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 ask VERB ask%2:32:01::,ask%2:32:05::
+#15 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+I can hardly wait " .
+2
+#2 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+" What you do n't understand is that I'm asking for it now " .
+3
+#5 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#9 ask VERB ask%2:32:01::,ask%2:32:05::
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+But Bonner departed , still full of ill will .
+2
+#4 still ADV still%4:02:00::
+#5 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+He had gotten stuck with a job too big for his imagination ; he had to cling to routine , tested procedures .
+2
+#6 job NOUN job%1:04:00::,job%1:06:00::
+#7 too ADV too%4:02:00::
+To act otherwise would be to admit his helplessness .
+3
+#1 act VERB act%2:29:00::,act%2:41:00::
+#2 otherwise ADV otherwise%4:02:03::
+#6 admit VERB admit%2:32:00::
+But , admit or not , Bonner was helpless .
+1
+#2 admit VERB admit%2:32:00::
+The crime showed too much planning , the kidnappers appeared too proficient to be caught by a checklist .
+4
+#3 too ADV too%4:02:00::
+#9 appear VERB appear%2:30:00::
+#10 too ADV too%4:02:00::
+#14 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+Andy 's performance was scheduled for eleven o'clock .
+1
+#2 performance NOUN performance%1:04:01::,performance%1:10:00::
+He stalled for a half-hour longer , hoping to hear something from Vecchio about the ransom money .
+2
+#1 stall VERB stall%2:30:00::
+#5 long ADV long%4:02:00::
+Bake and Shirl Winter , on separate telephones , could not reach him at any conceivable location in Los Angeles , nor could they secure any clear-cut information regarding his efforts .
+5
+#7 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#10 not ADV not%4:02:00::
+#11 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#26 clear-cut ADJ clear-cut%5:00:00:clear:00
+#27 information NOUN information%1:09:00::,information%1:10:02::
+Bake cursed .
+1
+#1 curse VERB curse%2:32:00::,curse%2:32:02::
+" The sweaty bastard 's probably halfway to Peru with our money by now " .
+2
+#3 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+#13 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+When no one smiled , he felt constrained to add , " Just kidding , natch " .
+4
+#6 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#9 add VERB add%2:32:01::
+#12 just ADV just%4:02:00::,just%4:02:03::
+#13 kid VERB kid%2:32:00::
+You about ready " ?
+1
+#2 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+Bake asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" They 're drinking , are n't they " ?
+1
+#3 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+We got a bunch of sippers out there tonight .
+1
+#7 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+I guess nobody wants to pass out and miss anything " .
+2
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+Thornburg added in a lower voice but Andy overheard , " They act more like a jury than an audience " .
+5
+#1 add VERB add%2:32:01::
+#5 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#12 act VERB act%2:29:00::,act%2:41:00::
+#13 more ADV more%4:02:00::,more%4:02:01::
+#19 audience NOUN audience%1:14:01::
+Andy said , " Well , I guess we can n't wait any longer .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Hub , you stick by the stage door .
+1
+#3 stick VERB stick%2:35:10::
+If Rock shows up during the number - or you hear anything - give me the signal " .
+3
+#6 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#13 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+#16 signal NOUN signal%1:10:00::
+Shirl Winter said , " I 'll stay on the phone , Mr. Paxton .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 phone NOUN phone%1:06:00::
+" You 're a sweetheart - but leave one line open .
+2
+#9 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#10 open ADJ open%5:00:00:active:06,open%5:00:00:available:00,open%5:00:00:unrestricted:00
+He may try to phone us " .
+1
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Andy passed into the corridor , their " good lucks " ! following him .
+1
+#12 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+It was what they said before every performance but tonight it sounded different , as if he really needed it .
+4
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 performance NOUN performance%1:04:01::,performance%1:10:00::
+#17 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#18 need VERB need%2:42:00::
+They were right .
+1
+#2 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+The act , cut to shreds and hastily patched together during the afternoon , had not been rehearsed sufficiently by anyone .
+4
+#1 act NOUN act%1:10:00::,act%1:10:02::
+#8 patch VERB patch%2:30:01::
+#9 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#15 not ADV not%4:02:00::
+The result had nothing of the polish , pace or cohesion of the previous night .
+4
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 pace NOUN pace%1:28:00::
+#13 previous ADJ previous%5:00:00:preceding:00
+#14 night NOUN night%1:28:00::
+Here 's where luck would normally step in .
+2
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#5 normally ADV normally%4:02:00::
+But this was no ordinary show and Andy knew it .
+4
+#3 no ADV no%4:02:01::
+#4 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#5 show NOUN show%1:04:00::,show%1:10:00::
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Whether he sang well or badly had nothing to do with it .
+4
+#2 sing VERB sing%2:32:08::,sing%2:36:01::
+#3 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#5 badly ADV badly%4:02:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The audience had come not to be entertained but to judge .
+3
+#1 audience NOUN audience%1:14:01::
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 entertain VERB entertain%2:41:00::
+Twenty-four hours had changed him from a performer to a freak .
+2
+#3 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#10 freak NOUN freak%1:18:00::
+Within this framework , what followed was strained , even macabre .
+2
+#5 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#7 strained ADJ strained%5:00:02:affected:01
+Eliminating the patter and the upbeat numbers left little but blues and other songs of equal melancholy .
+5
+#2 patter NOUN patter%1:10:00::
+#6 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#7 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#10 blues NOUN blues%1:10:00::
+#15 equal ADJ equal%3:00:00::
+The effect was as depressing as a gravestone , the applause irresolute and short-lived .
+1
+#1 effect NOUN effect%1:09:00::,effect%1:19:00::
+Yet Andy plowed ahead , mouthing the inconsequential words as if they possessed real meaning , and gradually his listeners warmed to him .
+5
+#5 mouth VERB mouth%2:32:01::
+#8 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#12 possess VERB possess%2:40:00::,possess%2:42:00::
+#13 real ADJ real%3:00:00::,real%5:00:00:true:00
+#14 meaning NOUN meaning%1:09:00::
+Their clapping grew more fervent ; the evening was still not beyond salvaging , not as a show but for him as a person .
+5
+#2 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#3 more ADV more%4:02:00::
+#7 evening NOUN evening%1:28:00::,evening%1:28:02::
+#17 show NOUN show%1:04:00::,show%1:10:00::
+#23 person NOUN person%1:03:00::,person%1:08:00::
+The worst was yet to come .
+2
+#1 worst ADJ worst%3:00:00::
+#5 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+As Andy reached the finale of his act , a subdued commotion backstage drew his attention to the wings .
+6
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#7 act NOUN act%1:10:00::,act%1:10:02::
+#10 subdued ADJ subdued%5:00:00:soft:04
+#13 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#15 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#18 wing NOUN wing%1:06:03::,wing%1:14:01::,wing%1:18:00::
+Rocco Vecchio - a perspiring , haggard Vecchio - was standing there , flanked by two men in the uniforms of armored transport guards .
+7
+#6 haggard ADJ haggard%5:00:00:tired:00
+#10 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#11 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#16 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 uniform NOUN uniform%1:06:00::
+#22 transport NOUN transport%1:06:00::
+#23 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+Vecchio was nodding and pointing at the large suitcase he held .
+4
+#2 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#4 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#7 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+Andy felt his heart thud heavily with relief .
+4
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#3 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#5 heavily ADV heavily%4:02:00::
+#7 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+He waved at Fox to cut off the finale introduction .
+2
+#1 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#9 introduction NOUN introduction%1:10:00::
+The music died away discordantly .
+1
+#1 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+He drew a deep breath .
+2
+#1 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#3 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+" Ladies and gentlemen , in place of my regular closing number tonight , I 'd like to sing something of a different nature for you .
+8
+#1 lady NOUN lady%1:18:01::,lady%1:18:02::
+#3 gentleman NOUN gentleman%1:18:00::
+#9 regular ADJ regular%5:00:00:frequent:00,regular%5:00:00:normal:01
+#11 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#16 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#18 sing VERB sing%2:32:08::,sing%2:36:01::
+#22 different ADJ different%5:00:00:unusual:00
+#23 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+He sensed rather than heard the gasp that swept across the audience .
+2
+#8 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#11 audience NOUN audience%1:14:01::
+This particular song at this particular time could only be interpreted as the ultimate in bad taste , callous exploitation beyond the bounds of decency .
+8
+#1 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#5 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#6 time NOUN time%1:11:00::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 interpret VERB interpret%2:32:00::
+#15 bad ADJ bad%3:00:00::,bad%5:00:00:inferior:02
+#16 taste NOUN taste%1:09:01::,taste%1:12:02::
+#22 bound NOUN bound%1:07:00::
+Having no choice , he plunged into it , anyway , holding onto the microphone for support .
+6
+#0 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#1 no DET no%4:02:01::
+#5 plunge VERB plunge%2:38:00::
+#9 anyway ADV anyway%4:02:00::
+#11 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#16 support NOUN support%1:04:01::,support%1:06:01::,support%1:10:01::
+voice shook .
+2
+#0 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#1 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+For the first time in his life he forgot the lyrics midway through and had to cover up by humming the rest .
+5
+#6 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#10 lyric NOUN lyric%1:10:01::
+#12 through ADV through%4:02:04::
+#19 hum VERB hum%2:32:01::
+#21 rest NOUN rest%1:24:00::
+He wondered if the audience would let him finish .
+4
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#4 audience NOUN audience%1:14:01::
+#6 let VERB let%2:30:01::,let%2:41:00::
+#8 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+They did ; though contemptuous , they were still polite .
+1
+#8 still ADV still%4:02:04::
+But when he was finally through , their scorn was made apparent .
+1
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Someone clapped tentatively then quickly stopped .
+2
+#3 then ADV then%4:02:00::
+#5 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Otherwise , the silence was complete .
+2
+#0 otherwise ADV otherwise%4:02:01::
+#5 complete ADJ complete%5:00:00:skilled:00
+As the lights came up , Andy could see that a number of patrons were already on their way toward the exit .
+7
+#2 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 patron NOUN patron%1:18:00::
+#15 already ADV already%4:02:00::
+#18 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#21 exit NOUN exit%1:04:00::
+Hub was there to support him .
+2
+#2 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#4 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+" It 's okay , Mr. Paxton .
+1
+#3 OK ADJ okay%5:00:00:satisfactory:00
+The money 's here , all of it " .
+1
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+At this moment , all he could think of was what he 'd been forced to undergo .
+1
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+Do you know what they think of me " ?
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Bunch of damn jerks " , Hub growled .
+2
+#3 damn ADJ damn%5:00:00:cursed:00
+#4 jerk NOUN jerk%1:18:00::
+Thornburg patted his arm .
+1
+#3 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+Nothing broken that can n't be mended " .
+1
+#1 broken ADJ broken%5:00:00:incomplete:00
+The words were hollow .
+2
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#3 hollow ADJ hollow%5:00:00:meaningless:00
+Thornburg knew , better than any of them , that a public image was as fragile as Humpty Dumpty .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#3 better ADV better%4:02:00::
+#11 public ADJ public%3:00:00::,public%5:00:00:common:02
+#12 image NOUN image%1:06:01::,image%1:09:00::
+All the king 's horses and all the king 's men .
+4
+#2 king NOUN king%1:18:01::,king%1:26:00::
+#4 horse NOUN horse%1:05:00::,horse%1:14:00::
+#8 king NOUN king%1:18:01::,king%1:26:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+You 'll never believe the places I 've been today .
+3
+#2 never ADV never%4:02:00::
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#5 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+I practically had to sign your life away , you 'll probably fire me for some of the deals I had to go for , but " -
+5
+#1 practically ADV practically%4:02:00::
+#4 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#7 away ADV away%4:02:04::
+#12 fire VERB fire%2:41:00::
+#18 deal NOUN deal%1:10:00::
+Andy nodded dully .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" It does n't matter , Rock .
+1
+#4 matter VERB matter%2:42:00::
+We 've done our part " .
+1
+#4 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+He clutched that knowledge to him as he returned to his dressing room .
+1
+#8 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+The usual congratulatory crowd was conspicuously absent ; the place had the air of a morgue .
+5
+#6 absent ADJ absent%3:00:00::
+#9 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 air NOUN air%1:04:01::,air%1:07:00::
+#15 morgue NOUN morgue%1:06:00::
+Andy had no desire to linger himself but Hub reported that the mob outside was still large despite the efforts of the police to disperse them .
+5
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#9 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#13 outside ADV outside%4:02:01::
+#15 still ADV still%4:02:00::
+#16 large ADJ large%3:00:00::,large%5:00:00:significant:00

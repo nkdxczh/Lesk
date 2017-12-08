@@ -1,0 +1,570 @@
+ There are more stems per item in Athabascan , which expresses the fact that the Athabascan languages have undergone somewhat more change in diverging from proto Athabascan than the Yokuts languages from proto Yokuts .
+4
+#3 stem NOUN stem%1:10:01::
+#10 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#21 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#23 diverge VERB diverge%2:42:00::
+This may be because the Athabascan divergence began earlier ; or again because the Athabascan languages spread over a very much larger territory ( including three wholly separated areas ) ; or both .
+7
+#6 divergence NOUN divergence%1:04:00::
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 early ADV earlier%4:02:00::
+#16 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#21 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#22 territory NOUN territory%1:15:01::
+#28 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The differentiation however is not very much greater , as shown by the fact that Athabascan shows 3.46 stems per meaning slot as against 2.75 for Yokuts , with a slightly greater number of languages represented in our sample : 24 as against 21 .
+12
+#2 however ADV however%4:02:00::,however%4:02:02::
+#4 not ADV not%4:02:00::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#10 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#16 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#18 stem NOUN stem%1:10:01::
+#20 mean NOUN mean%1:09:00::
+#21 slot NOUN slot%1:28:00::
+#30 slightly ADV slightly%4:02:01::
+#31 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#32 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#35 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+( On deduction of one-eighth from 3.46 , the stem / item rate becomes 3.03 against 2.75 in equivalent number of languages . )
+5
+#2 deduction NOUN deduction%1:04:00::
+#9 stem NOUN stem%1:10:01::
+#12 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#13 become VERB become%2:30:00::,become%2:42:01::
+#19 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+These general facts are mentioned to make clear that the total situation in the two families is similar enough to warrant comparison .
+7
+#1 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#10 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#15 family NOUN family%1:14:04::,family%1:14:05::
+#18 enough ADV enough%4:02:00::
+#21 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+The greatest difference in the two sets of figures is due to differences in the two sets of lists used .
+6
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#6 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#8 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#16 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#18 list NOUN list%1:10:00::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+These differences in turn result from the fact that my Yokuts vocabularies were built up of terms selected mainly to insure unambiguity of English meaning between illiterate informants and myself , within a compact and uniform territorial area , but that Hoijer 's vocabulary is based on Swadesh 's second glottochronological list which aims at eliminating all items which might be culturally or geographically determined .
+10
+#16 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#20 insure VERB insure%2:32:04::,insure%2:40:00::
+#23 English NOUN english%1:09:00::
+#24 meaning NOUN meaning%1:09:00::
+#33 compact ADJ compact%5:00:00:short:03
+#36 territorial ADJ territorial%3:01:00::
+#37 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#51 list NOUN list%1:10:00::
+#53 aim VERB aim%2:31:00::
+#64 determine VERB determine%2:31:02::,determine%2:32:03::
+Swadesh in short was trying to develop a basic list that was universal ; I , one that was specifically adapted to the San Joaquin Valley .
+4
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#8 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#9 list NOUN list%1:10:00::
+The result is that I included 70 animal names , but Swadesh only 4 ; and somewhat similarly for plants , 16 as against 4 .
+3
+#8 name NOUN name%1:14:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 plant NOUN plant%1:03:00::
+Swadesh , and therefore Hoijer , felt compelled to omit all terms denoting species or even genera ( fox , vulture , salmon , yellow pine , manzanita ) ; their classes of animal and plant terms are restricted to generalizations or recurrent parts ( fish , bird , tree , grass , horn , tail , bark , root ) .
+17
+#11 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#13 species NOUN species%1:09:00::,species%1:14:00::
+#18 fox NOUN fox%1:05:00::
+#20 vulture NOUN vulture%1:05:00::
+#22 salmon NOUN salmon%1:05:00::
+#31 class NOUN class%1:14:00::,class%1:14:02::
+#35 plant NOUN plant%1:03:00::
+#36 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#42 recurrent ADJ recurrent%5:00:00:continual:00
+#43 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#45 fish NOUN fish%1:13:00::
+#47 bird NOUN bird%1:05:00::
+#49 tree NOUN tree%1:20:00::
+#53 horn NOUN horn%1:05:01::
+#55 tail NOUN tail%1:25:00::
+#57 bark NOUN bark%1:20:00::
+#59 root NOUN root%1:20:00::
+The groups are therefore really non comparable in content as well as in size .
+1
+#4 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+Other classes are included only by myself ( interrogatives , adverbs ) or only by Swadesh and Hoijer ( pronouns , demonstratives ) .
+5
+#0 other ADJ other%5:00:02:past:00
+#1 class NOUN class%1:14:00::,class%1:14:02::
+#3 include VERB include%2:31:00::,include%2:41:03::
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+What we have left as reasonably comparable are four classes : ( 1 ) body parts and products , which with a proportionally nearly even representation ( 51 terms out of 253 , 25 out of 100 ) come out with nearly even ratios ; 2.6 and 2.7 ; ( 2 ) Nature ( 29 terms against 17 ) , ratios 3.3 versus 4.1 ; ( 3 ) adjectives ( 16 , 15 terms ) , ratios 3.9 versus 4.7 ; ( 4 ) verbs ( 9 , 22 terms ) , ratios 4.0 versus 3.4 .
+11
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 reasonably ADV reasonably%4:02:01::
+#9 class NOUN class%1:14:00::,class%1:14:02::
+#17 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#23 nearly ADV nearly%4:02:00::
+#25 representation NOUN representation%1:09:00::
+#28 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#41 nearly ADV nearly%4:02:00::
+#55 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#73 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#89 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+It will be seen that where the scope is similar , the Athabascan ratios come out somewhat higher ( as indeed they ought to with a total ratio of 2.8 as against 3.5 or 4 : 5 ) except for verbs , where alone the Athabascan ratio is lower .
+5
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#7 scope NOUN scope%1:07:00::
+#17 high ADJ high%3:00:02::
+#20 indeed ADV indeed%4:02:03::
+#43 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+This exception may be connected with Hoijer 's use of a much higher percentage of verbs :
+1
+#12 high ADJ high%3:00:02::
+22 % of his total list as against 3.5 % in mine .
+1
+#5 list NOUN list%1:10:00::
+Or the exception may be due to a particular durability peculiar to the Athabascan verb .
+1
+#10 peculiar ADJ peculiar%5:00:00:characteristic:00
+More word class ratios determined in more languages will no doubt ultimately answer the question .
+3
+#4 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#7 language NOUN language%1:10:00::
+#12 answer VERB answer%2:31:00::,answer%2:32:00::
+If word classes differ in their resistance or liability to stem replacement within meaning slot , it is conceivable that individual meanings also differ with fair consistence trans lingually .
+8
+#6 resistance NOUN resistance%1:26:01::
+#8 liability NOUN liability%1:26:01::
+#10 stem NOUN stem%1:10:01::
+#13 mean NOUN mean%1:09:00::
+#14 slot NOUN slot%1:28:00::
+#20 individual ADJ individual%5:00:00:independent:00
+#25 fair ADJ fair%5:00:00:ordinary:00
+#26 consistency NOUN consistence%1:07:02::
+Hoijer 's Athabascan and my Yokuts share 71 identical meanings ( with allowance for several near synonyms like stomach belly , big large , long far , many much , die dead , say speak ) .
+7
+#8 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#15 near ADJ near%3:00:00::,near%5:00:00:artificial:00,near%5:00:00:close:02,near%5:00:02:close:02
+#21 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#22 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#24 long ADJ long%3:00:01::
+#30 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#34 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+For Yokuts , I tabulated these 71 items in five columns , according as they were expressed by 1 , 2 , 3 , 4 , and more than 4 stems .
+3
+#10 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#16 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#30 stem NOUN stem%1:10:01::
+The totals for these five categories are not too uneven , namely 20 , 15 , 11 , 16 , 9 respectively .
+2
+#5 category NOUN category%1:14:00::
+#7 not ADV not%4:02:00::
+For Athabascan , with a greater range of stems , the first two of five corresponding columns were identical , 1 and 2 stems ; the three others had to be spread somewhat , and are headed respectively * * f ; * * f ; and * * f stems .
+10
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#6 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#8 stem NOUN stem%1:10:01::
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#15 corresponding ADJ corresponding%5:00:00:similar:00
+#16 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#18 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#23 stem NOUN stem%1:10:01::
+#31 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#50 stem NOUN stem%1:10:01::
+While the particular limits of these groupings may seem artificially arbitrary ; they do fairly express a corresponding grouping of more variable material , and they eventuate also in five classes , along a similar scale , containing approximately equal numbers of cases , namely 19 , 14 , 15 , 11 , 12 in Athabascan .
+14
+#2 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#3 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#14 fairly ADV fairly%4:02:02::
+#15 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#17 corresponding ADJ corresponding%5:00:00:similar:00
+#18 group NOUN group%1:03:00::,group%1:09:00::,group%1:27:00::,grouping%1:03:00::
+#21 variable ADJ variable%5:00:00:adaptable:00
+#22 material NOUN material%1:06:01::,material%1:10:00::
+#30 class NOUN class%1:14:00::,class%1:14:02::
+#35 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#37 contain VERB contain%2:42:00::,contain%2:42:06::
+#39 equal ADJ equal%3:00:00::
+#40 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#42 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+When now we count the frequency of the 71 items in the two language families appearing in the same column or grade , or one column or grade apart , or two or three or four , we find these differences : * * f This distribution can be summarized by averaging the distance in grades apart : * * f ; which , divided by * * f gives a mean of 1.07 grades apart .
+15
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 count VERB count%2:32:00::,count%2:32:01::
+#5 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+#13 language NOUN language%1:10:00::
+#15 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#18 same ADJ same%3:00:00::,same%3:00:02::
+#19 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#25 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#28 apart ADV apart%4:02:03::
+#38 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#53 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#56 apart ADV apart%4:02:03::
+#64 divide VERB divide%2:31:00::
+#71 mean NOUN mean%1:09:00::
+#75 apart ADV apart%4:02:03::
+If the distribution of the 71 items were wholly concordant in the two families , the distance would of course be 0 .
+1
+#16 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+If it were wholly random and unrelated , it would be 2.0 , assuming the five classes were equal in n , which approximately they are .
+4
+#4 random ADJ random%3:00:00::
+#13 assume VERB assume%2:31:00::
+#16 class NOUN class%1:14:00::,class%1:14:02::
+#18 equal ADJ equal%3:00:00::
+The actual mean of 1.07 being about halfway between 0 of complete correlation and 2.0 of no correlation , it is evident that there is a pretty fair degree of similarity in the behavior even of particular individual items of meaning as regards long-term stem displacement .
+9
+#1 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#2 mean NOUN mean%1:09:00::
+#11 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#27 fair ADJ fair%5:00:00:ordinary:00
+#28 degree NOUN degree%1:26:01::
+#36 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#37 individual ADJ individual%5:00:00:independent:00
+#44 stem NOUN stem%1:10:01::
+#45 displacement NOUN displacement%1:04:00::
+In 1960 , David D. Thomas published Basic Vocabulary in some Mon Khmer Languages AL 2 , no. 3 , pp. 7 - 11 ) , which compares 8 Mon-Khmer languages with the I-E language data on which Swadesh based the revised retention rate ( * * f ) in place of original ( * * f ) , and his revised 100 word basic glottochronological list in Towards Greater Accuracy ( IJAL 21 : 121 - 137 ) .
+11
+#6 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#13 language NOUN language%1:10:00::
+#27 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#30 language NOUN language%1:10:00::
+#34 language NOUN language%1:10:00::
+#35 data NOUN data%1:14:00::,datum%1:09:00::
+#39 base VERB base%2:31:00::
+#43 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#52 original NOUN original%1:06:00::
+#63 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#66 list NOUN list%1:10:00::
+Thomas ' findings are , first , " that the individual items vary greatly and unpredictably in their persistence " ; but , second , " that the semantic groups are surprisingly unvarying in their average persistence " ( as between M-K and I-E .
+2
+#2 finding NOUN finding%1:04:00::,finding%1:04:01::
+#10 individual ADJ individual%5:00:00:independent:00
+His first conclusion , on behavior of individual items , is negative , whereas mine ( on Ath. and Yok . ) was partially positive .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#7 individual ADJ individual%5:00:00:independent:00
+#11 negative ADJ negative%3:00:01::,negative%3:00:02::,negative%3:00:04::
+#24 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+His second conclusion , on semantic word classes , agrees with mine .
+1
+#2 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+This second conclusion , independently arrived at by independent study of material from two pairs of language families as different and remote from one another as these four are , cannot be ignored .
+6
+#2 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#4 independently ADV independently%4:02:01::
+#8 independent ADJ independent%3:00:00::
+#11 material NOUN material%1:06:01::,material%1:10:00::
+#16 language NOUN language%1:10:00::
+#21 remote ADJ remote%5:00:00:unlikely:00
+Thomas also presents a simple equation for deriving an index of persistence , which weights not only the number of stems ( ' roots ' ) per meaning , but their relative frequency .
+8
+#2 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#4 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#5 equation NOUN equation%1:10:00::
+#9 index NOUN index%1:24:00::
+#14 weight VERB weight%1:23:02::
+#18 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#20 stem NOUN stem%1:10:01::
+#27 mean NOUN mean%1:09:00::
+Thus his persistence values for some stem frequencies per meaning is : stem identical in 8 languages , 100 % ; stem frequencies 7 and 1 , 86 % ; stem frequencies 4 and 4 , 64 % ; stem frequencies 4 , 3 , and 1 , 57 % .
+14
+#0 thus ADV thus%4:02:01::
+#3 value NOUN value%1:09:00::
+#6 stem NOUN stem%1:10:01::
+#7 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+#9 mean NOUN mean%1:09:00::
+#12 stem NOUN stem%1:10:01::
+#13 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#16 language NOUN language%1:10:00::
+#21 stem NOUN stem%1:10:01::
+#22 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+#30 stem NOUN stem%1:10:01::
+#31 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+#39 stem NOUN stem%1:10:01::
+#40 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+His formula will have to be weighed , may be altered or improved , and it should be tested on additional bodies of material .
+4
+#1 formula NOUN formula%1:10:03::
+#6 weigh VERB weigh%2:32:00::,weigh%2:42:03::
+#21 body NOUN body%1:06:00::,body%1:07:01::,body%1:08:01::,body%1:10:00::,body%1:14:02::
+#23 material NOUN material%1:06:01::,material%1:10:00::
+But consideration of the frequency of stems per constant meaning seems to be established as having significance in comparative situations with diachronic and classificatory relevance ; and Gleason presumably is on the way with a further contribution in this area .
+11
+#1 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#4 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+#6 stem NOUN stem%1:10:01::
+#9 meaning NOUN meaning%1:09:00::
+#13 establish VERB establish%2:31:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 significance NOUN significance%1:07:00::
+#18 comparative ADJ comparative%3:01:00::
+#19 situation NOUN situation%1:26:01::
+#35 further ADJ further%5:00:00:far:00
+#39 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+As to relative frequencies of competing roots ( 7 - 1 vs. 4 - 4 , etc . ) , Thomas with his ' weighting ' seems to be the first to have considered the significance this might have .
+3
+#24 weight NOUN weight%1:07:01::,weight%1:12:00::,weight%1:23:02::,weighting%1:23:00::
+#35 significance NOUN significance%1:07:00::
+#38 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The problem needs further exploration .
+3
+#1 problem NOUN problem%1:10:00::,problem%1:26:00::
+#2 need VERB need%2:42:00::
+#3 further ADJ further%5:00:00:far:00
+I was at least conscious of the distinction in my full Yokuts presentation that awaits publication , in which , in listing ' Two Stem Meanings ' , I set off by asterisks those forms in which n of stem B was * * f of stem A 3 , the unasterisked ones standing for * * f ; or under ' Four Stems ' , I set off by asterisks cases where the combined n of stems * * f was * * f .
+8
+#10 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#12 presentation NOUN presentation%1:04:01::
+#21 list VERB list%2:32:00::,list%2:41:00::
+#34 form NOUN form%1:09:01::,form%1:10:00::
+#39 stem NOUN stem%1:10:01::
+#46 stem NOUN stem%1:10:01::
+#71 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#77 stem NOUN stem%1:10:01::
+These findings , and others which will in time be developed , will affect the method of glottochronological inquiry .
+3
+#1 finding NOUN finding%1:04:00::,finding%1:04:01::
+#10 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#13 affect VERB affect%2:30:00::,affect%2:42:00::
+If adjectival meanings show relatively low retentiveness of stems , as I am confident will prove to be the case in most languages of the world , why should our basic lists include 15 per cent of these unstable forms , but only 8 per cent of animals and plants which replace much more slowly ?
+14
+#3 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#5 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#8 stem NOUN stem%1:10:01::
+#15 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#19 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#22 language NOUN language%1:10:00::
+#25 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#31 list NOUN list%1:10:00::
+#32 include VERB include%2:42:00::
+#39 form NOUN form%1:09:01::,form%1:10:00::
+#42 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#49 plant NOUN plant%1:03:00::
+#51 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#53 more ADV more%4:02:00::,more%4:02:01::
+Had Hoijer substituted for his 15 adjectival slots 15 good animal and plant items , his rate of stem replacement would have been lower and the age of Athabascan language separation smaller .
+7
+#7 slot NOUN slot%1:28:00::
+#9 good ADJ best%3:00:00::,good%3:00:01::
+#12 plant NOUN plant%1:03:00::
+#16 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#18 stem NOUN stem%1:10:01::
+#26 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#29 language NOUN language%1:10:00::
+And irrespective of the outcome in centuries elapsed since splitting , calculations obviously carry more concordant and comparable meaning if they deal with the most stable units than with variously unstable ones .
+7
+#6 century NOUN century%1:28:00::
+#9 split VERB split%2:41:03::
+#13 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#18 meaning NOUN meaning%1:09:00::
+#21 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#24 most ADV most%4:02:00::
+#26 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+It is evident that Swadesh has not only had much experience with basic vocabulary in many languages but has acquired great tact and feeling for the expectable behavior of lexical items .
+4
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 language NOUN language%1:10:00::
+#20 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#23 feeling NOUN feeling%1:09:03::
+Why then this urge to include unstable items in his basic list ?
+3
+#1 then ADV then%4:02:02::
+#5 include VERB include%2:31:00::,include%2:41:03::
+#11 list NOUN list%1:10:00::
+It is the urge to obtain a list as free of geographical and cultural conditioning as possible .
+2
+#5 obtain VERB obtain%2:40:00::
+#7 list NOUN list%1:10:00::
+It is the hope of attaining a list of items of universal occurrence .
+2
+#3 hope NOUN hope%1:09:00::,hope%1:18:00::
+#7 list NOUN list%1:10:00::
+But it is becoming increasingly evident that such a hope is a snare .
+3
+#3 become VERB become%2:30:00::,become%2:42:01::
+#9 hope NOUN hope%1:09:00::,hope%1:18:00::
+#12 snare NOUN snare%1:06:00::
+Not that such a list cannot be constructed ; but the nearer it comes to attaining universality , the less significant will it be linguistically .
+1
+#4 list NOUN list%1:10:00::
+Its terms will tend to be labile or vague , and they will fit actual languages more and more badly .
+6
+#1 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#3 tend VERB tend%2:42:01::
+#13 fit VERB fit%2:42:01::
+#14 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#15 language NOUN language%1:10:00::
+#19 badly ADV badly%4:02:00::
+The practical operational problem of lexicostatistics is the establishment of a basic list of items of meaning against which the particular forms or terms of languages can be matched as the medium of comparison .
+12
+#1 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#3 problem NOUN problem%1:10:00::,problem%1:26:00::
+#8 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#12 list NOUN list%1:10:00::
+#16 meaning NOUN meaning%1:09:00::
+#20 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#21 form NOUN form%1:09:01::,form%1:10:00::
+#23 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#25 language NOUN language%1:10:00::
+#28 match VERB match%2:30:01::,match%2:35:08::
+#31 medium NOUN medium%1:10:01::
+#33 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+The most important quality of the meanings is that they should be as definable as possible .
+1
+#1 most ADV most%4:02:00::
+In proportion as meanings are concrete , we can better rely on their being insulated and distinctive .
+2
+#9 better ADV better%4:02:00::
+#14 insulate VERB insulate%2:30:01::
+An elephant or a fox or a swan or a cocopalm or a banana possess in unusually high degree this quality of obvious , common-sense , indubitable identity , as do an eye or tooth or nail .
+9
+#1 elephant NOUN elephant%1:05:00::
+#4 fox NOUN fox%1:05:00::
+#14 possess VERB possess%2:40:00::,possess%2:42:00::
+#17 high ADJ high%3:00:02::
+#18 degree NOUN degree%1:26:01::
+#27 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+#32 eye NOUN eye%1:08:00::,eye%1:09:01::
+#34 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#36 nail NOUN nail%1:08:00::
+They isolate out easily , naturally , and unambiguously from the continuum of nature and existence ; and they should be given priority in the basic list as long as they continue to show these qualities .
+8
+#3 easily ADV easily%4:02:01::,easily%4:02:06::
+#5 naturally ADV naturally%4:02:00::,naturally%4:02:01::,naturally%4:02:02::
+#13 nature NOUN nature%1:18:00::,nature%1:26:00::
+#21 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#26 list NOUN list%1:10:00::
+#28 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#31 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#33 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+With the universal list as his weapon , Swadesh has extended his march of conquest farther and farther into the past , eight , ten , twelve millennia back .
+6
+#3 list NOUN list%1:10:00::
+#10 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#12 march NOUN march%1:04:02::,march%1:10:01::,march%1:14:00::
+#20 past NOUN past%1:28:01::
+#27 millennium NOUN millennium%1:28:01::
+#28 back ADV back%4:02:01::,back%4:02:04::
+And he has proclaimed greater or less affiliation between all Western hemisphere languages .
+2
+#4 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 language NOUN language%1:10:00::
+Some of this may prove to be true , or even considerable of it , whether by genetic ramification or by diffusion and coalescence .
+3
+#4 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#7 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#17 genetic ADJ genetic%3:01:00::
+But the farther out he moves , the thinner will be his hold on conclusive evidence , and the larger the speculative component in his inferences .
+3
+#5 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 hold NOUN hold%1:07:00::
+#19 large ADJ large%3:00:00::,large%5:00:00:significant:00
+He has traversed provinces and kingdoms , but he has not consolidated them behind him , nor does he control them .
+6
+#2 traverse VERB traverse%2:38:00::
+#3 province NOUN province%1:15:00::
+#5 kingdom NOUN kingdom%1:15:00::
+#10 not ADV not%4:02:00::
+#11 consolidate VERB consolidate%2:30:01::
+#19 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+He has announced results on Hokan , Penutian , Uto-Aztecan , and almost all other American families and phyla , and has diagrammed their degree of interrelation ; but he has not worked out by lexicostatistics one comprehensively complete classification of even a single family other than Salish .
+6
+#14 other ADJ other%3:00:00::
+#24 degree NOUN degree%1:26:01::
+#31 not ADV not%4:02:00::
+#38 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#43 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#47 Salish NOUN salish%1:18:00::
+The remote , cloudy , possible has values of its own - values of scope , stimulus , potential , and imagination .
+8
+#1 remote ADJ remote%5:00:00:unlikely:00
+#3 cloudy ADJ cloudy%5:00:00:opaque:00
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 value NOUN value%1:21:00::,values%1:09:00::
+#10 own ADJ own%5:00:00:personal:00
+#12 value NOUN value%1:21:00::,values%1:09:00::
+#14 scope NOUN scope%1:06:01::
+#18 potential NOUN potential%1:26:00::
+But there is also a firm aspect to lexicostatistics :
+2
+#5 firm ADJ firm%5:00:00:faithful:00,firm%5:00:00:resolute:00,firm%5:00:00:settled:02,firm%5:00:02:stable:00
+#6 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+the aspect of learning the internal organization of obvious natural genetic groups of languages as well as their more remote and elusive external links ; of classification first , with elapsed age merely a by-product ; of acquiring evidential knowledge of what happened in Athabascan , in Yokuts , in Uto-Aztecan in the last few thousand years as well as forecasting what more anciently may have happened between them .
+18
+#1 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#3 learn VERB learn%2:31:01::,learn%2:31:03::
+#6 organization NOUN organization%1:04:01::,organization%1:07:00::,organization%1:09:00::
+#9 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#10 genetic ADJ genetic%3:01:00::
+#13 language NOUN language%1:10:00::
+#18 more ADV more%4:02:00::,more%4:02:01::
+#19 remote ADJ remote%5:00:00:unlikely:00
+#22 external ADJ external%5:00:00:extrinsic:00
+#23 link NOUN link%1:24:00::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+#31 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#39 knowledge NOUN knowledge%1:03:00::
+#42 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#53 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#56 year NOUN year%1:28:00::,year%1:28:01::
+#62 more ADV more%4:02:00::,more%4:02:01::
+#66 happen VERB happen%2:30:02::,happen%2:41:00::
+This involves step-by-step progress , and such will have to be the day-by-day work of lexicostatistics as a growing body of scientific inquiry .
+1
+#19 body NOUN body%1:06:00::,body%1:07:01::,body%1:08:01::,body%1:10:00::,body%1:14:02::
+If of the founders of glottochronology Swadesh has escaped our steady plodding , and Lees has repudiated his own share in the founding , that is no reason why we should swerve .
+5
+#3 founder NOUN founder%1:18:00::
+#8 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#18 own ADJ own%5:00:00:personal:00
+#19 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#27 reason NOUN reason%1:09:01::,reason%1:16:00::
+There is no apparent reason why we should feel bound by Swadesh 's rules and procedure since his predilections and aims have grown so vast .
+5
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+#13 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#20 aim NOUN aim%1:09:00::
+#22 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#23 so ADV so%4:02:03::,so%4:02:07::
+It seems time to consider a revision of operational procedures for lexicostatistic studies on a more humble , solid , and limited basis .
+3
+#2 time NOUN time%1:28:01::,time%1:28:05::
+#15 more ADV more%4:02:00::,more%4:02:01::
+#16 humble ADJ humble%5:00:00:inferior:01
+I would propose , first , an abandonment of attempts at a universal lexical list , as intrinsically unachievable , and operationally inadequate in proportion as it is achieved .
+2
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#14 list NOUN list%1:10:00::
+I would propose , next , as the prime requirement for constitution of new basic lists , items whose forms show as high an empirical retention rate as possible .
+9
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#8 prime ADJ prime%5:00:02:first:00
+#11 constitution NOUN constitution%1:07:00::
+#13 new ADJ new%3:00:00::
+#15 list NOUN list%1:10:00::
+#19 form NOUN form%1:09:01::,form%1:10:00::
+#20 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#22 high ADJ high%3:00:02::
+#26 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+There would be no conceivable sense in going to the opposite extreme of selecting items whose forms are the most unstable .
+4
+#5 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+#10 opposite ADJ opposite%5:00:00:other:00
+#11 extreme NOUN extreme%1:07:00::
+#16 form NOUN form%1:09:01::,form%1:10:00::
+An attempted middle course might lead to devices like a 5000 - word alphabetized dictionary from which every fiftieth word was selected .
+5
+#2 middle ADJ middle%5:00:01:central:01
+#3 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#5 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#12 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#19 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::

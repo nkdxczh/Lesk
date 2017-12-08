@@ -1,0 +1,723 @@
+ The author of the anonymous notes seemed to be all-knowing .
+1
+#5 note NOUN note%1:10:03::
+For men who had left cattle alone after getting their first notices had received no second .
+6
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 cattle NOUN cattle%1:05:00::
+#10 first ADJ first%3:00:00::,first%4:02:00::
+#11 notice NOUN notice%1:10:03::
+#13 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#15 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+But the day of the deadline came and passed , and the men who had scoffed at the warnings laughed with satisfaction .
+6
+#2 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#5 deadline NOUN deadline%1:28:00::
+#6 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#8 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#12 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#15 scoff VERB scoff%2:32:01::
+For , with a single exception , nothing had happened to them .
+2
+#4 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#9 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+The exception was an Iron Mountain settler named William Lewis .
+1
+#7 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+After walking out to his corral that morning , he 'd been amazed to see the dust puff up in front of his feet .
+6
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#2 out ADV out%4:02:04::
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#23 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+A split second later , the distant crack of a rifle had sounded .
+4
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#6 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#7 crack NOUN crack%1:11:00::
+#12 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+He 'd mounted up immediately and raced with a revolver ready toward the spot from which he 'd estimated the shot had come .
+4
+#6 race VERB race%2:38:00::
+#10 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#13 spot NOUN spot%1:10:01::,spot%1:15:01::
+#20 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+But he had found all of the thickets and points of cover deserted .
+2
+#9 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#11 cover NOUN cover%1:04:01::,cover%1:04:02::,cover%1:06:02::,cover%1:17:00::
+There had been no sign of a rifleman and no track or trace to show that anyone had been near .
+6
+#4 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#7 rifleman NOUN rifleman%1:18:00::
+#10 track NOUN track%1:17:00::
+#12 trace NOUN trace%1:23:00::
+#14 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#19 near ADV nearer%4:02:00::
+Lewis was a man who had made a full-time job of cow stealing .
+3
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 steal NOUN steal%1:04:00::
+He had n't even pretended to be farming his spread .
+3
+#4 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#7 farm VERB farm%2:36:00::
+#9 spread NOUN spread%1:11:00::
+His land had never been plowed .
+3
+#1 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#3 never ADV never%4:02:00::
+#5 plow VERB plough%2:36:00::
+He had done his rustling openly and boasted about it .
+1
+#7 boast VERB boast%2:32:00::
+He had received both first and second anonymous notices , and each time he had accused his neighbors of writing them .
+4
+#2 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#8 notice NOUN notice%1:10:00::
+#12 time NOUN time%1:11:00::
+He had cursed at them and threatened them .
+1
+#2 curse VERB curse%2:32:00::,curse%2:32:02::
+He was a man , those neighbors testified later , who did n't have a friend in the world .
+5
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#18 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+William Lewis made the rounds of all who lived near him again , that August morning after a bullet landed at his feet , and once more he accused and threatened everyone .
+7
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 round NOUN round%1:17:00::
+#8 live VERB live%2:42:08::
+#15 morning NOUN morning%1:28:00::,morning%1:28:01::
+#18 bullet NOUN bullet%1:06:00::
+#19 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#22 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+" I 'll be ready next time " ! he raged .
+3
+#4 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#5 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#6 time NOUN time%1:11:00::
+" I 'll be shootin ' right back " .
+1
+#6 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+He had his chance the very next morning , for exactly the same thing happened again .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+#10 exactly ADV exactly%4:02:02::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+This time Lewis had his own rifle in his hands , and he threw some answering fire back at the mysterious far-off shot , then spent most of the day searching out the area .
+10
+#1 time NOUN time%1:11:00::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 own ADJ own%5:00:00:personal:00
+#9 hand NOUN hand%1:08:00::,hand%1:10:01::
+#16 fire NOUN fire%1:04:00::,fire%1:10:00::
+#20 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#22 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#24 then ADV then%4:02:00::
+#29 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#33 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+He found nothing , but he still refused to give up and move out .
+2
+#6 still ADV still%4:02:00::
+#12 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+" Just let me meet up with that damned bushwhackin ' coward face-to-face " ! he exploded .
+3
+#1 just ADV just%4:02:00::,just%4:02:03::
+#8 damn ADJ damn%5:00:00:cursed:00
+#16 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+" That 's all I ask " !
+1
+#5 ask VERB ask%2:32:01::,ask%2:32:05::
+He never got that chance .
+1
+#1 never ADV never%4:02:00::
+For the unseen , ghostlike rifleman aimed a little higher the third time .
+4
+#5 rifleman NOUN rifleman%1:18:00::
+#6 aim VERB aim%2:31:02::,aim%2:33:00::
+#9 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#12 time NOUN time%1:11:00::
+A .30-30 bullet smashed directly into the center of William Lewis ' chest .
+4
+#2 bullet NOUN bullet%1:06:00::
+#4 directly ADV directly%4:02:05::
+#7 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#12 chest NOUN chest%1:08:00::,chest%1:08:01::
+He slumped against a log fence rail , then tried to lift himself .
+4
+#1 slump VERB slump%2:38:00::
+#4 log NOUN log%1:27:01::
+#8 then ADV then%4:02:00::
+#9 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Two more shots followed in quick succession , dropping him limp and huddled on the ground .
+5
+#2 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#3 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#5 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#6 succession NOUN succession%1:14:00::
+#15 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+An inquest was held , and after a good deal of testimony about the anonymous notes , the county coroner estimated that the shooting had been done from a distance of 300 yards .
+4
+#3 hold VERB hold%2:36:00::,holding%1:04:00::
+#15 note NOUN note%1:10:03::
+#29 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#32 yard NOUN yard%1:23:00::,yard%1:23:01::
+Rumors of the offer Tom Horn had made at the Stockgrowers' Association meeting had leaked out by then , and as a grand jury investigation of the murder got underway , the prosecuting attorney , a Colonel Baird , ordered that the tall stock detective be summoned for questioning .
+5
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#28 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#39 order VERB order%2:32:01::,order%2:32:02::
+#42 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+It took some time to locate Horn .
+1
+#1 take VERB take%2:40:06::,take%2:42:03::
+He was finally found in the Bates Hole region of Natrona County , two counties away .
+2
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#15 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Prosecutor Baird immediately assumed he was hiding out there after the shooting and began preparing an indictment .
+5
+#3 assume VERB assume%2:31:00::
+#8 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#14 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#16 indictment NOUN indictment%1:10:01::
+But that indictment was never made .
+2
+#2 indictment NOUN indictment%1:10:01::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+For Tom Horn , it turned out , had a number of rancher and cowboy witnesses ready and willing to swear with straight faces that he had been in Bates Hole the day of the killing .
+9
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#12 rancher NOUN rancher%1:18:00::
+#14 cowboy NOUN cowboy%1:18:00::
+#15 witness NOUN witness%1:18:00::
+#16 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#20 swear VERB swear%2:32:02::
+#32 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#35 killing NOUN killing%1:04:00::
+The former scout 's alibi could n't be shaken .
+2
+#1 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#8 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+The authorities had to release him .
+1
+#1 authority NOUN authority%1:18:01::
+He immediately rode on to Cheyenne , threw a ten day drinking spree and dropped some very strong hints among friends .
+7
+#2 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#3 on ADV on%4:02:00::
+#5 Cheyenne NOUN cheyenne%1:15:00::
+#7 throw VERB throw%2:36:08::
+#10 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#14 drop VERB drop%2:32:00::,drop%2:35:00::
+#20 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+" Dead center at three hundred yards , that coroner said " ! he 'd grin .
+3
+#2 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#6 yard NOUN yard%1:23:00::,yard%1:23:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Three shots in that fella ' fore he hit the ground !
+2
+#2 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#11 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+You reckon there 's two men in this state can shoot like that " ?
+3
+#1 reckon VERB reckon%2:31:01::
+#8 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+Publicly , he denied everything .
+1
+#3 deny VERB deny%2:32:00::,deny%2:32:01::
+Privately , he created and magnified an image of himself as a hired assassin .
+1
+#7 image NOUN image%1:06:01::,image%1:09:00::
+For a blood chilling ring of terror to the very sound of his name was the tool he needed for the job he 'd promised to do .
+8
+#2 blood NOUN blood%1:04:00::,blood%1:08:00::
+#4 ring NOUN ring%1:11:00::
+#6 terror NOUN terror%1:04:00::
+#13 name NOUN name%1:14:00::
+#16 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#18 need VERB need%2:42:00::
+#21 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#24 promise VERB promise%2:32:00::,promise%2:32:01::
+Tom Horn was soon back at work , giving his secret employers their money 's worth .
+2
+#3 soon ADV soon%4:02:00::
+#8 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+A good many beef hungry settlers were accepting the death of William Lewis as proof that the warning notes were not idle threats .
+7
+#1 good ADJ good%5:00:00:complete:00
+#3 beef NOUN beef%1:13:00::
+#7 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#14 proof NOUN proof%1:09:00::
+#18 note NOUN note%1:10:03::
+#21 idle ADJ idle%5:00:00:unemployed:00
+#22 threat NOUN threat%1:10:00::,threat%1:10:01::
+The company herds were being raided less often , and cabins and soddies all over the range were standing deserted .
+5
+#1 company NOUN company%1:14:03::
+#6 less ADV less%4:02:00::,less%4:02:01::
+#10 cabin NOUN cabin%1:06:02::
+#16 range NOUN range%1:06:00::,range%1:07:00::,range%1:15:02::
+#18 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+But there were other homesteaders who passed the Lewis murder off as a personal grudge killing , the work of one of his neighbors .
+3
+#3 other ADJ other%3:00:00::
+#15 killing NOUN killing%1:04:00::
+#18 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+The rustling problem was by no means solved .
+1
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+Even in the very area where the shooting had been done , cattle were still disappearing .
+4
+#4 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 cattle NOUN cattle%1:05:00::
+#14 still ADV still%4:02:00::
+#15 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+For less than a dozen miles from the unplowed land of the dead man lived another settler who had ignored the warnings that his existence might be foreclosed on - a blatant and defiant rustler named Fred Powell .
+7
+#8 unplowed ADJ unploughed%3:00:00::
+#9 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#12 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 live VERB live%2:42:08::
+#27 foreclose VERB foreclose%2:41:00::
+#35 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+" Fred was mighty crude about the way he took in cattle " his own hired man , Andy Ross , mentioned later .
+5
+#4 crude ADJ crude%5:00:00:indecent:00
+#7 way NOUN way%1:04:00::,way%1:09:00::
+#11 cattle NOUN cattle%1:05:00::
+#14 own ADJ own%5:00:00:personal:00
+#22 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+" Everyone knew it , but he sort of acted like he did n't care who knew it - even after them notes came , even after he 'd heard about Lewis , even after he 'd been shot at a couple o ' times hisself " !
+9
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 act VERB act%2:29:00::,act%2:36:00::
+#14 care VERB care%2:37:00::,care%2:37:12::
+#16 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#22 note NOUN note%1:10:03::
+#23 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#38 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#41 couple NOUN couple%1:23:01::
+#44 time NOUN time%1:11:00::
+On the morning of September 10 , 1895 , Powell and Ross rose at dawn and began their day 's work .
+5
+#2 morning NOUN morning%1:28:00::,morning%1:28:01::
+#12 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#16 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 work NOUN work%1:04:00::,work%1:06:01::
+Haying time was close at hand , and they needed some strong branches to repair a hay rack .
+4
+#9 need VERB need%2:42:00::
+#11 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#16 hay NOUN hay%1:13:00::
+#17 rack NOUN rack%1:06:01::
+Harnessing a team to a buckboard , they drove out to a willow lined creek about a half-mile off , then climbed down and began chopping .
+6
+#0 harness VERB harness%2:35:00::
+#8 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#12 willow NOUN willow%1:20:00::
+#18 off ADV off%4:02:00::
+#20 then ADV then%4:02:00::
+#24 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Andy Ross had just started swinging an ax at his second willow when the distant blast of a rifle sounded .
+6
+#3 just ADV just%4:02:05::
+#7 ax NOUN ax%1:06:00::
+#11 willow NOUN willow%1:20:00::
+#14 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#15 blast NOUN blast%1:11:02::
+#19 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+He looked around in surprise , then noticed that Fred Powell was clutching his chest .
+3
+#4 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#6 then ADV then%4:02:00::
+#14 chest NOUN chest%1:08:00::,chest%1:08:01::
+The hired man ran over to help his boss .
+3
+#3 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#6 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#8 boss NOUN boss%1:18:01::
+" My God , I 'm shot " !
+1
+#6 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+And he collapsed and died instantly .
+3
+#2 collapse VERB collapse%2:29:00::
+#4 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#5 instantly ADV instantly%4:02:00::
+Ross had no intention of searching for the assassin .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 intention NOUN intention%1:09:00::
+He heaved the dead man onto the buckboard , yelled and lashed at the team and got out of there fast .
+5
+#1 heave VERB heave%2:35:01::
+#3 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 lash VERB lash%2:35:01::
+#20 fast ADV fast%4:02:01::
+But he brought back the sheriff and several deputies , and to the lawmen the entire affair seemed a repetition of the Lewis killing .
+2
+#16 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+#23 killing NOUN killing%1:04:00::
+A detailed scouring of the entire area revealed nothing beyond a ledge of rocks that might have been the rifleman 's hiding place .
+4
+#2 scour VERB scour%2:35:03::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 ledge NOUN ledge%1:17:00::
+#19 rifleman NOUN rifleman%1:18:00::
+There were no tracks of either hoofs or boots .
+2
+#3 track NOUN track%1:17:00::
+#8 boot NOUN boot%1:06:00::
+Not even an empty cartridge case could be found .
+3
+#3 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#5 case NOUN case%1:06:00::,case%1:06:06::
+#8 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Once again , Tom Horn was the first and most likely suspect , and he was brought in for questioning immediately .
+2
+#7 first ADJ first%3:00:00::,first%4:02:00::
+#9 most ADV most%4:02:00::
+Once again , he shook his head , kept his face expressionless and his voice very calm , and had a strongly supported alibi ready .
+9
+#4 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#6 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#8 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#10 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#16 calm ADJ calm%5:00:00:composed:00
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#24 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+Later , riding in for some lusty enjoyment of the liquor and professional ladies of Cheyenne , he laid claim to the killing with the vague insinuations he made .
+9
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#2 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#3 in ADV in%4:02:01::
+#7 enjoyment NOUN enjoyment%1:04:00::
+#10 liquor NOUN liquor%1:13:00::
+#12 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#13 lady NOUN lady%1:18:01::,lady%1:18:02::
+#15 Cheyenne NOUN cheyenne%1:15:00::
+#22 killing NOUN killing%1:04:00::
+" Exterminatin ' cow thieves is just a business proposition with me " , he 'd blandly announce .
+2
+#6 just ADV just%4:02:00::,just%4:02:03::
+#9 proposition NOUN proposition%1:04:00::
+" And I sort o ' got a corner on the market " .
+2
+#8 corner NOUN corner%1:15:02::,corner%1:26:00::
+#11 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+" Tom " , a friend asked him once , " how come you bushwhacked them rustlers ?
+4
+#5 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#8 once ADV once%4:02:00::
+#14 bushwhack VERB bushwhack%2:42:00::
+They would n't o ' stood no chance with you in a plain , straight-out shoot-down " .
+3
+#5 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#6 no DET no%4:02:01::
+#12 plain ADJ plain%3:00:01::
+He had lots of friends , then as always .
+5
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#2 lot PRON lots%1:23:00::
+#4 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#6 then ADV then%4:02:01::
+#8 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+Even as he became widely known as a professional killer , nearly every cowboy and rancher in Wyoming seemed proud to call him a friend .
+10
+#3 become VERB become%2:30:00::,become%2:42:01::
+#4 widely ADV widely%4:02:01::
+#8 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#11 nearly ADV nearly%4:02:00::
+#13 cowboy NOUN cowboy%1:18:00::
+#15 rancher NOUN rancher%1:18:00::
+#17 Wyoming NOUN wyoming%1:15:00::
+#19 proud ADJ proud%3:00:00::
+#21 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#24 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+No man 's name brought more cheers when it was announced in a rodeo .
+3
+#3 name NOUN name%1:14:00::
+#6 cheer NOUN cheer%1:10:00::
+#13 rodeo NOUN rodeo%1:04:00::
+" Well " , he explained , " s'posin you was a nester swingin ' the long rope ?
+2
+#16 long ADJ long%3:00:01::
+#17 rope NOUN rope%1:06:00::
+Which would you be most scairt of - a dry-gulchin ' or a shoot-down " ?
+1
+#4 most ADV most%4:02:00::
+" Yeah , I can see that " , the friend was forced to agree .
+3
+#10 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#12 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#14 agree VERB agree%2:32:00::,agree%2:32:01::
+" But , well , it just do n't seem sportin ' somehow " !
+1
+#6 just ADV just%4:02:00::,just%4:02:03::
+The tall sunburnt rustler hunter stared in amazement .
+2
+#1 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#4 hunter NOUN hunter%1:18:00::
+" Sportin " ' ! he echoed again in soft wonder .
+2
+#6 echo VERB echo%2:39:00::
+#9 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+" I seen a lot o ' things in my time .
+4
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 lot PRON lots%1:23:00::
+#7 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#10 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+I found a trooper once the Apache had spread-eagled on an ant hill , and another time we ran across some teamsters they 'd caught , tied upside down on their own wagon wheels over little fires until their brains was exploded right out o ' their skulls .
+11
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#4 once ADV once%4:02:01::
+#6 Apache NOUN apache%1:18:00::
+#16 time NOUN time%1:11:00::
+#21 teamster NOUN teamster%1:18:02::
+#26 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+#31 own ADJ own%5:00:00:personal:00
+#36 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#39 brain NOUN brain%1:08:00::,brain%1:13:00::
+#41 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#42 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+I heard o ' Texas cattlemen wrappin ' a cow thief up in green hides and lettin ' the sun shrink ' em and squeeze him to death .
+4
+#14 hide NOUN hide%1:05:00::
+#19 sun NOUN sun%1:18:00::,sun%1:19:00::
+#20 shrink VERB shrink%2:30:00::
+#24 squeeze VERB squeeze%2:35:00::,squeeze%2:35:05::,squeeze%2:40:03::,squeeze%2:41:01::
+But there 's one thing I never seen or heard of , one thing I just do n't think there is , and that 's a sportin ' way o ' killin ' a man " !
+7
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#6 never ADV never%4:02:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#15 just ADV just%4:02:00::,just%4:02:03::
+#18 think VERB think%2:31:01::,think%2:31:03::
+#28 way NOUN way%1:04:00::,way%1:09:00::
+After the first two murders , the warning notes were rarely ignored .
+3
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#8 note NOUN note%1:10:03::
+#10 rarely ADV rarely%4:02:00::
+The lesson had been learned .
+2
+#1 lesson NOUN lesson%1:04:01::
+#4 learn VERB learn%2:31:01::,learn%2:31:03::
+The examples were plain .
+2
+#1 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#3 plain ADJ plain%5:00:00:obvious:00
+When Fred Powell 's brother-in-law , Charlie Keane , moved into the dead man 's home , the anonymous letter writer took no chances on Charlie taking up where Fred had left off and wasted no time on a first notice :
+5
+#12 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#15 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#34 waste VERB waste%2:34:05::,waste%2:40:00::
+#39 first ADJ first%3:00:00::,first%4:02:00::
+If you do n't leave this country within 3 days , your life will be taken the same as Powell 's was .
+3
+#6 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#15 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+This was the message found tacked to the cabin door .
+4
+#3 message NOUN message%1:10:00::,message%1:10:01::
+#4 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#5 tack VERB tack%2:35:05::
+#8 cabin NOUN cabin%1:06:02::
+Keane left , within three days .
+2
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+All through Albany and Laramie counties , other men were doing the same .
+1
+#7 other ADJ other%3:00:00::
+Houses of settlers who 'd treated the company herds as a natural resource , free for the taking , were sitting empty , with weeds growing high in their yards .
+8
+#0 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#5 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#7 company NOUN company%1:14:03::
+#17 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#20 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#21 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#25 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#26 high ADV high%4:02:02::
+The small half-heartedly tended fields of men who 'd spent more time rustling cattle than farming were lying fallow .
+7
+#3 tend VERB tend%2:41:00::,tend%2:41:01::
+#4 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#12 rustle VERB rustle%2:40:00::
+#13 cattle NOUN cattle%1:05:00::
+#15 farm VERB farm%2:36:00::
+#17 lie VERB lie%2:42:03::
+#18 fallow ADJ fallow%5:00:00:unplowed:00
+No cow thief could count on a jury of his sympathetic peers to free him any longer .
+2
+#10 sympathetic ADJ sympathetic%3:00:00::,sympathetic%5:00:00:kind:00
+#11 peer NOUN peer%1:18:00::
+Jury , judge and executioner were riding the range in the form of a single unknown figure that could materialize anywhere , at any time , to dispense an ancient brand of justice the men of the new West had believed long outdated .
+11
+#6 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#8 range NOUN range%1:06:00::,range%1:07:00::,range%1:15:02::
+#14 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#16 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#24 time NOUN time%1:11:00::
+#27 dispense VERB dispense%2:40:00::
+#30 brand NOUN brand%1:09:00::
+#32 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#34 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#38 west NOUN west%1:15:00::,west%1:15:01::
+#40 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+For three straight years , Tom Horn patrolled the southern Wyoming pastures , and how many men he killed after Lewis and Powell ( if he killed Lewis and Powell ) will never be known .
+6
+#3 year NOUN year%1:28:00::,year%1:28:01::
+#9 southern ADJ southern%5:00:01:south:00,southern%5:00:02:south:00
+#10 Wyoming NOUN wyoming%1:15:00::
+#11 pasture NOUN pasture%1:15:00::
+#18 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#26 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+It is possible , although highly doubtful , that he killed none at all but merely let his reputation work for him by privately claiming every unsolved murder in the state .
+5
+#6 doubtful ADJ doubtful%5:00:00:unsettled:02
+#10 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#16 let VERB let%2:30:01::,let%2:41:00::
+#19 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#30 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+It is also possible , but equally doubtful , that he actually shot down the hundreds of men with which his legend credits him .
+5
+#6 equally ADV equally%4:02:01::
+#7 doubtful ADJ doubtful%5:00:00:unsettled:02
+#11 actually ADV actually%4:02:01::
+#12 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#21 legend NOUN legend%1:10:01::
+For that legend was growing explosively , Rumor was insisting he received a price of $ 600 a man .
+4
+#2 legend NOUN legend%1:10:01::
+#4 grow VERB grow%2:30:04::
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#13 price NOUN price%1:07:01::,price%1:21:00::
+( The best evidence is that he received a monthly wage of about $ 125 , very good money in an era when top hands worked for $ 30 and found . )
+5
+#2 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#7 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#12 about ADV about%4:02:00::
+#17 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#25 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Rumor had it he slipped two small rocks under each victim 's head as a sort of trademark .
+4
+#4 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#7 rock NOUN rock%1:13:00::,rock%1:17:01::
+#12 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#15 sort NOUN sort%1:09:00::,sort%1:18:00::
+( A detailed search of old coroner 's reports fails to substantiate this in the slightest . )
+4
+#5 old ADJ old%3:00:01::,old%3:00:02::
+#8 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#9 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#15 slight ADJ slight%5:00:00:insignificant:00
+One thing was certain - his method was effective , so effective that after a time even the warning notices were often unnecessary .
+6
+#1 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#3 certain ADJ certain%3:00:01::
+#8 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#19 notice NOUN notice%1:10:03::
+The mere fact that the tall figure with the rifle and field glasses had been seen riding that way was enough to frighten three rustling homesteaders out of the Upper Laramie country in a single week .
+8
+#5 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#6 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#15 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#18 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#24 rustle VERB rustle%2:40:00::
+#31 country NOUN country%1:15:02::
+#34 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+" My reputation 's my stock in trade " , Tom mentioned more than once .
+2
+#5 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#14 once ADV once%4:02:00::
+He evidently could n't foresee that it might be his downfall in the end .
+1
+#1 evidently ADV evidently%4:02:00::
+He had made himself the personification of the Devil to the homesteaders .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+But to the cattlemen who had been facing bankruptcy from rustling losses and to the cowboys who had been faced with lay-offs a few years earlier , he was becoming a vastly different type of legendary figure .
+10
+#7 face VERB face%2:32:00::,face%2:32:03::
+#8 bankruptcy NOUN bankruptcy%1:26:01::
+#15 cowboy NOUN cowboy%1:18:00::
+#19 face VERB face%2:32:00::,face%2:32:03::
+#21 layoff NOUN layoff%1:04:00::
+#24 year NOUN year%1:28:00::,year%1:28:01::
+#25 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#29 become VERB become%2:30:00::,become%2:42:01::
+#33 type NOUN type%1:18:00::
+#36 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+Such ranchers as Coble and Clay and the Bosler brothers carried him on their books as a cowhand even while he was receiving a much larger salary from parties unknown .
+6
+#1 rancher NOUN rancher%1:18:00::
+#9 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#10 carry VERB carry%2:42:03::
+#14 book NOUN book%1:06:00::,book%1:10:02::,book%1:21:00::
+#22 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#25 large ADJ large%3:00:00::,large%5:00:00:significant:00
+He made their spreads his headquarters , and he helped out in their roundups .
+2
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 spread NOUN spread%1:11:00::
+In the cow camps , Tom Horn was regarded as a hero , as the same kind of champion he was when he entered and invariably won the local rodeos .
+7
+#3 camp NOUN camp%1:06:01::,camp%1:14:00::
+#11 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#15 same ADJ same%3:00:00::
+#18 champion NOUN champion%1:18:01::
+#23 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#26 win VERB win%2:33:00::
+#29 rodeo NOUN rodeo%1:04:00::
+The hands and their bosses saw him as a lone knight of the range , waging a dedicated crusade against a lawless new society that was threatening a beloved way of life .
+5
+#1 hand NOUN hand%1:18:00::
+#4 boss NOUN boss%1:18:01::
+#10 knight NOUN knight%1:18:00::
+#13 range NOUN range%1:06:00::,range%1:07:00::,range%1:15:02::
+#23 society NOUN society%1:14:00::,society%1:14:02::
+The wailing , guitar strumming minstrels of the cattle kingdom made up songs about him .
+2
+#8 cattle NOUN cattle%1:05:00::
+#9 kingdom NOUN kingdom%1:15:00::
+By 1898 , rustling losses had been driven down to the lowest level ever seen in Wyoming .
+7
+#7 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+#8 down ADV down%4:02:00::,down%4:02:02::
+#11 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#12 level NOUN level%1:26:00::,level%1:26:01::
+#13 ever ADV ever%4:02:05::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 Wyoming NOUN wyoming%1:15:00::

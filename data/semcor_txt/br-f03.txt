@@ -1,0 +1,608 @@
+ There is a pause in the merriment as your friends gaze at you , wondering why you are staring , open-mouthed in amazement .
+2
+#9 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#14 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+You explain , " I have the strangest feeling of having lived through this very same event before .
+6
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 strange ADJ strange%3:00:00::
+#8 feeling NOUN feeling%1:09:03::
+#11 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#15 same ADJ same%3:00:00::,same%3:00:02::
+#17 before ADV before%4:02:03::
+I can n't tell when , but I'm positive I witnessed this same scene of this particular gathering at some time in the past " !
+9
+#3 tell VERB tell%2:31:00::,tell%2:31:01::
+#8 positive ADJ positive%5:00:00:certain(p):02,positive%5:00:00:certain:02,positive%5:00:00:undeniable:00
+#10 witness VERB witness%2:39:00::,witness%2:39:01::
+#12 same ADJ same%3:00:00::,same%3:00:02::
+#13 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#16 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#17 gathering NOUN gathering%1:04:00::
+#20 time NOUN time%1:11:00::
+#23 past NOUN past%1:28:01::
+This experience will have happened to many of you .
+1
+#4 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Emerson , in his lecture , refers to the " startling experience which almost every person confesses in daylight , that particular passages of conversation and action have occurred to him in the same order before , whether dreaming or waking , a suspicion that they have been with precisely these persons in precisely this room , and heard precisely this dialogue , at some former hour , they know not when " .
+17
+#6 refer VERB refer%2:32:00::,refer%2:42:00::
+#15 person NOUN person%1:03:00::,person%1:08:00::
+#18 daylight NOUN daylight%1:19:00::
+#21 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#22 passage NOUN passage%1:10:00::,passage%1:10:01::
+#26 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#33 same ADJ same%3:00:00::,same%3:00:02::
+#34 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#35 before ADV before%4:02:03::
+#38 dream VERB dream%2:36:00::,dream%2:39:00::
+#40 wake VERB wake%2:29:02::
+#51 person NOUN person%1:03:00::,person%1:08:00::
+#55 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#65 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#66 hour NOUN hour%1:07:00::,hours%1:28:01::
+#69 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#70 not ADV not%4:02:00::
+Most psychiatrists dismiss these instances of that weird feeling as the deja vu ( already seen ) illusion , just as they dismiss dream previsions as coincidences .
+7
+#4 instance NOUN instance%1:09:00::
+#8 feeling NOUN feeling%1:09:03::
+#14 already ADV already%4:02:00::
+#15 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 just ADV just%4:02:05::
+#23 dream VERB dream%2:36:00::,dream%2:39:00::
+#26 coincidence NOUN coincidence%1:11:00::
+In this manner they side-step the seemingly hopeless investigation of the greater depths of mystery in which all of us grope continually .
+7
+#2 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#7 hopeless ADJ hopeless%3:00:00::
+#11 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 depth NOUN depth%1:07:01::,depth%1:07:02::
+#14 mystery NOUN mystery%1:09:00::
+#20 grope VERB grope%2:35:01::
+#21 continually ADV continually%4:02:01::
+When a man recognizes a certain experience as the exact pattern of a previous dream , we have an instance of deja vu , except for the fact that he knows just why the experience seems familiar .
+9
+#2 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#3 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#5 certain ADJ certain%5:00:00:definite:00
+#10 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#13 previous ADJ previous%5:00:00:preceding:00
+#17 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 instance NOUN instance%1:09:00::
+#31 just ADV just%4:02:05::
+#36 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+Occasionally there are examples of prevision which cannot be pushed aside without confessing an unscientific attitude .
+2
+#3 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#14 unscientific ADJ unscientific%3:00:00::
+One day Maeterlinck , coming with a friend upon an event which he recognized as the exact pattern of a previous dream , detailed the ensuing occurrences in advance so accurately that his companion was completely mystified .
+7
+#7 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#13 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#17 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#20 previous ADJ previous%5:00:00:preceding:00
+#23 detail VERB detail%2:32:00::
+#29 so ADV so%4:02:03::,so%4:02:07::
+#33 companion NOUN companion%1:18:00::
+Rudyard Kipling 's scorn for the " jargon " of psychical research was altered somewhat when he wondered " how , or why , had I been shown an unreleased roll of my life film " ?
+5
+#7 jargon NOUN jargon%1:10:00::
+#17 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#27 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#33 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#34 film NOUN film%1:10:00::,film%1:10:01::
+The famous author tells us of the strange incident in Something About Myself .
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 strange ADJ strange%3:00:00::
+One day when he attended a war memorial ceremony in Westminster Abbey his view was obstructed by a stout man on his left , his attention turned to the irregular pattern of the rough slab flooring and someone , clasping him by the arm , whispered , " I want a word with you , please " .
+16
+#4 attend VERB attend%2:42:00::
+#7 memorial NOUN memorial%1:06:00::
+#8 ceremony NOUN ceremony%1:11:00::
+#13 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#18 stout ADJ stout%5:00:00:robust:00
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#22 left NOUN left%1:08:00::
+#25 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#29 irregular ADJ irregular%3:00:01::
+#30 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#33 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#35 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#39 clasp VERB clasp%2:35:00::
+#43 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#49 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#51 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+At that moment Kipling was overwhelmed with awed amazement , suddenly recalling that these identical details of scene , action and word had occurred to him in a dream six weeks earlier .
+8
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#11 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#14 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#15 detail NOUN detail%1:10:00::,detail%1:24:00::
+#17 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#19 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#21 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#31 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+Freud probably contributed more than anyone else to the understanding of dreams , enabling us to recognize their equivalents in our wakeful thoughts .
+3
+#13 enable VERB enable%2:30:00::,enabling%3:00:00::
+#16 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#22 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+However , readers who accept Freud 's findings and believe that he has solved completely the mystery of dreams , should ponder over the following words in his Interpretation Of Dreams , Chapter 1 , : " as a matter of fact no such complete solution of the dream has ever been accomplished in any case , and what is more , every one attempting such solution has found that in most cases there have remained a great many components of the dream the source of which he has been unable to explain , nor is the discussion closed on the subject of the mantic or prophetic power of dreams " .
+20
+#0 however ADV however%4:02:04::
+#2 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#7 finding NOUN finding%1:04:00::,finding%1:04:01::
+#9 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#16 mystery NOUN mystery%1:09:00::
+#24 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#25 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#32 chapter NOUN chapter%1:10:00::
+#42 no DET no%4:02:01::
+#44 complete ADJ complete%5:00:00:skilled:00
+#45 solution NOUN solution%1:09:00::,solution%1:10:00::
+#50 ever ADV ever%4:02:05::
+#66 solution NOUN solution%1:09:00::,solution%1:10:00::
+#68 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#72 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#77 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#98 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#101 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#106 prophetic ADJ prophetic%3:00:00::
+#107 power NOUN power%1:07:00::,power%1:07:02::
+Dreams present many mysteries of telepathy , clairvoyance , prevision and retrovision .
+2
+#1 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#3 mystery NOUN mystery%1:09:00::
+The basic mystery of dreams , which embraces all the others and challenges us from even the most common typical dream , is in the fact that they are original , visual continuities .
+8
+#1 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#2 mystery NOUN mystery%1:09:00::
+#7 embrace VERB embrace%2:42:00::
+#12 challenge VERB challenge%2:32:00::,challenge%2:32:01::
+#17 most ADV most%4:02:00::
+#18 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#29 original ADJ original%5:00:00:underived:00
+#32 continuity NOUN continuity%1:07:00::
+I recall the startling , vivid realism of a dream in which I lived through the horror of the bombing of a little Korean town .
+6
+#1 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#5 vivid ADJ vivid%5:00:00:realistic:00
+#6 realism NOUN realism%1:07:00::
+#13 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#16 horror NOUN horror%1:12:01::
+#19 bomb NOUN bombing%1:04:00::
+I am sure that nothing within me is capable of composing that life-like sequence , so complete in detail , from the hodge-podge of news pictures I have seen .
+6
+#10 compose VERB compose%2:36:01::,compose%2:36:09::,compose%2:42:00::
+#13 sequence NOUN sequence%1:04:00::
+#15 so ADV so%4:02:03::,so%4:02:07::
+#16 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#22 hotchpotch NOUN hotchpotch%1:13:00::
+#28 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+And when psychology explains glibly , " but the subconscious mind is able to produce it " it refers to a mental region so vaguely identified that it may embrace the entire universal mind as conceivably as part of the individual mind .
+10
+#12 able ADJ able%3:00:00::
+#18 refer VERB refer%2:32:00::,refer%2:42:00::
+#21 mental ADJ mental%3:01:00::
+#23 so ADV so%4:02:03::,so%4:02:07::
+#24 vaguely ADV vaguely%4:02:00::
+#29 embrace VERB embrace%2:42:00::
+#33 mind NOUN mind%1:09:00::,mind%1:09:04::
+#37 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#40 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+#41 mind NOUN mind%1:09:00::,mind%1:09:04::
+Skeptics may deny the more startling phenomena of dreams as things they have never personally observed , but failure to wonder at their basic mystery is outright avoidance of routine evidence .
+11
+#0 skeptic NOUN sceptic%1:18:00::
+#2 deny VERB deny%2:32:00::,deny%2:32:01::
+#4 more ADV more%4:02:00::
+#6 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#13 never ADV never%4:02:00::
+#14 personally ADV personally%4:02:03::
+#15 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#20 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#23 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#24 mystery NOUN mystery%1:09:00::
+The question becomes , " What is a dream " ?
+1
+#2 become VERB become%2:30:00::,become%2:42:01::
+Is a dream simply a mental or cerebral movie ?
+3
+#3 simply ADV simply%4:02:00::,simply%4:02:02::
+#5 mental ADJ mental%3:01:00::
+#7 cerebral ADJ cerebral%3:01:00::
+Every dream , and this is true of a mental image of any type even though it may be readily interpreted into its equivalent of wakeful thought , is a psychic phenomenon for which no explanation is available .
+2
+#6 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#13 type NOUN type%1:18:00::
+In most cases we recognize certain words , persons , animals or objects .
+5
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#4 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#6 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#8 person NOUN person%1:03:00::,person%1:08:00::
+#12 object NOUN object%1:03:00::
+But these are dreamed in original action , in some particular continuity which we do n't remember having seen in real life .
+6
+#3 dream VERB dream%2:36:00::,dream%2:39:00::
+#5 original ADJ original%3:00:00::
+#6 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#10 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#11 continuity NOUN continuity%1:07:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+For instance , the dreamer sees himself seated behind neighbor Smith and , with photographic realism , sees Smith driving the car ; whereas , it is a matter of fact that Smith cannot drive a car .
+5
+#15 realism NOUN realism%1:07:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#28 matter NOUN matter%1:09:00::,matter%1:09:01::
+#34 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+There is nothing to suggest that the brain can alter past impressions to fit into an original , realistic and unbroken continuity like we experience in dreams .
+6
+#7 brain NOUN brain%1:08:00::,brain%1:13:00::
+#11 impression NOUN impression%1:04:00::,impression%1:09:00::
+#13 fit VERB fit%2:42:01::
+#16 original ADJ original%5:00:00:underived:00
+#18 realistic ADJ realistic%5:00:00:representational:00
+#21 continuity NOUN continuity%1:07:00::
+The entire concept of cerebral imagery as the physical basis of a mental image can find no logical support .
+2
+#4 cerebral ADJ cerebral%3:01:00::
+#15 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+A " mental image " subconsciously impressing us from beneath its language symbols in wakeful thought , or consciously in light sleep , is actually not an image at all but is comprised of realities , viewed not in the concurrent sensory stream , but within the depths of the fourth dimension .
+9
+#6 impress VERB impress%2:31:00::
+#20 light ADJ light%3:00:05::,light%3:00:08::,light%5:00:00:shallow:02,light%5:00:00:undemanding:01
+#21 sleep NOUN sleep%1:26:00::
+#25 not ADV not%4:02:00::
+#27 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#34 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#37 not ADV not%4:02:00::
+#42 stream NOUN stream%1:04:00::,stream%1:11:00::,stream%1:14:00::,stream%1:26:00::
+#47 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+Dreams that display events of the future with photographic detail call for a theory explaining their basic mystery and all its components , including that weird feeling of deja vu , inevitably fantastic though that theory must seem .
+7
+#6 future NOUN future%1:10:00::,future%1:28:00::
+#9 detail NOUN detail%1:10:00::,detail%1:24:00::
+#16 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#17 mystery NOUN mystery%1:09:00::
+#23 include VERB include%2:42:00::
+#26 feeling NOUN feeling%1:09:03::
+#32 fantastic ADJ fantastic%5:00:00:unrealistic:00
+As in the theory of perception , established in psycho-physiology , the eye is recognized as an integral part of the brain .
+5
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+#14 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#17 integral ADJ integral%5:00:00:whole:00
+#18 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#21 brain NOUN brain%1:08:00::,brain%1:13:00::
+But then this theory confesses that it is completely at a loss as to how the image can possibly be received by the brain .
+3
+#18 possibly ADV possibly%4:02:01::
+#20 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#23 brain NOUN brain%1:08:00::,brain%1:13:00::
+The opening paragraph of the chapter titled The Theory Of Representative Perception , in the book Philosophies Of Science by Albert G. Ramsperger says , " passed on to the brain , and there , by some unexplained process , it causes the mind to have a perception " .
+9
+#1 opening ADJ opening%3:00:00::
+#5 chapter NOUN chapter%1:10:00::
+#15 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#30 brain NOUN brain%1:08:00::,brain%1:13:00::
+#33 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#38 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#43 mind NOUN mind%1:09:00::,mind%1:09:04::
+#45 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+But why is it necessary to reproduce the retinal image within the brain ?
+2
+#4 necessary ADJ necessary%3:00:00::
+#12 brain NOUN brain%1:08:00::,brain%1:13:00::
+As retinal images are conceded to be an integral function of the brain it seems logical to suppose that the nerves , between the inner brain and the eyes , carry the direct drive for cooperation from the various brain centers - rather than to theorize on the transmission of an image which is already in required location .
+16
+#4 concede VERB concede%2:32:00::,concede%2:33:00::
+#8 integral ADJ integral%5:00:00:whole:00
+#9 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#12 brain NOUN brain%1:08:00::,brain%1:13:00::
+#17 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#20 nerve NOUN nerve%1:08:00::
+#24 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+#25 brain NOUN brain%1:08:00::,brain%1:13:00::
+#28 eye NOUN eye%1:08:00::,eye%1:09:01::
+#30 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#32 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#33 drive NOUN drive%1:07:00::
+#39 brain NOUN brain%1:08:00::,brain%1:13:00::
+#40 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#48 transmission NOUN transmission%1:04:01::
+#54 already ADV already%4:02:00::
+Hereby , the external object viewed by the eyes remains the thing that is seen , not the retinal image , the purpose of which would be to achieve perceptive cooperation by stirring sympathetic impulses in the other sensory centers , motor tensions , associated word symbols , and consciousness .
+14
+#3 external ADJ external%5:00:00:extrinsic:00
+#4 object NOUN object%1:03:00::
+#5 view VERB view%2:39:00::,view%2:39:02::
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#11 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 not ADV not%4:02:00::
+#32 stir VERB stir%2:37:00::,stir%2:37:01::,stir%2:39:00::
+#33 sympathetic ADJ sympathetic%3:01:00::
+#37 other ADJ other%5:00:02:past:00
+#39 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#42 tension NOUN tension%1:26:01::
+#44 associated ADJ associate%5:00:00:subordinate:01
+#45 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+Modern physics has developed the theory that all matter consists of minute waves of energy .
+5
+#1 physics NOUN physics%1:09:00::
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#8 matter NOUN matter%1:03:00::,matter%1:10:00::
+#12 wave NOUN wave%1:11:00::
+#14 energy NOUN energy%1:19:00::
+We know that the number of radio and television impulses , sound waves , ultra-violet rays , etc. , that may occupy the very same space , each solitary upon its own frequency , is infinite .
+9
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#8 television NOUN television%1:06:00::
+#9 impulse NOUN impulse%1:11:01::
+#15 ray NOUN ray%1:19:01::
+#21 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#31 own ADJ own%5:00:00:personal:00
+#32 frequency NOUN frequency%1:24:00::
+#35 infinite ADJ infinite%3:00:00::
+So we may conceive the coexistence of the infinite number of universal , apparently momentary states of matter , successive one after another in consciousness , but permanent each on its own basic phase of the progressive frequencies .
+8
+#3 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#8 infinite ADJ infinite%3:00:00::
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#31 own ADJ own%5:00:00:personal:00
+#32 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#33 phase NOUN phase%1:07:00::,phase%1:28:00::
+#36 progressive ADJ progressive%5:00:00:increasing:00
+#37 frequency NOUN frequency%1:24:00::
+This theory makes it possible for any event throughout eternity to be continuously available at any moment to consciousness .
+1
+#16 moment NOUN moment%1:28:00::,moment%1:28:01::
+Space in any form is completely measured by the three dimensions .
+2
+#6 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#10 dimension NOUN dimension%1:07:00::
+If the fourth dimension is a physical concept and not purely metaphysical , through what medium does it extend ?
+5
+#6 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#9 not ADV not%4:02:00::
+#11 metaphysical ADJ metaphysical%3:01:00::
+#15 medium NOUN medium%1:27:03::
+#18 extend VERB extend%2:42:01::
+It is not through space nor time that the time machine most approved by science fiction must travel for a visit to the permanent prehistoric past , or the ever existent past fantasy future .
+7
+#2 not ADV not%4:02:00::
+#6 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#12 approve VERB approve%2:31:00::,approve%2:32:00::
+#17 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#29 ever ADV ever%4:02:00::
+#32 fantasy NOUN fantasy%1:09:01::
+#33 future NOUN future%1:10:00::,future%1:28:00::
+Three seconds flat is the usual time , and the space is crossed by moderate mileage , while the overwhelming immensity of such journeys must be conceived as a static pulsation through an enormous number of coexistent frequencies which perpetuate all events .
+8
+#1 second NOUN second%1:28:00::,second%1:28:01::
+#6 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#12 cross VERB cross%2:38:00::
+#15 mileage NOUN mileage%1:24:00::
+#26 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#29 static ADJ static%3:01:00::
+#34 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#37 frequency NOUN frequency%1:24:00::
+The body , senses and brain , in common with all matter , have their counterpart on each of a countless number of frequencies .
+7
+#3 sense NOUN sense%1:09:02::
+#5 brain NOUN brain%1:08:00::,brain%1:13:00::
+#11 matter NOUN matter%1:03:00::,matter%1:10:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 counterpart NOUN counterpart%1:09:00::
+#21 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#23 frequency NOUN frequency%1:24:00::
+The senses in each counterpart bear the impression only of phenomena that share its own frequency , whereas those upon all other frequencies are invisible , inaudible and intactible to them .
+9
+#1 sense NOUN sense%1:09:02::
+#4 counterpart NOUN counterpart%1:09:00::
+#7 impression NOUN impression%1:06:00::,impression%1:07:00::,impression%1:25:00::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#14 own ADJ own%5:00:00:personal:00
+#15 frequency NOUN frequency%1:24:00::
+#21 other ADJ other%5:00:02:past:00
+#22 frequency NOUN frequency%1:24:00::
+Consciousness is the factor that provides the progressive continuity to sensory impressions .
+5
+#3 factor NOUN factor%1:08:00::,factor%1:18:00::
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 progressive ADJ progressive%5:00:00:increasing:00
+#8 continuity NOUN continuity%1:07:00::
+#11 impression NOUN impression%1:07:00::
+When consciousness deserts the sleeping body and the wakeful world , it continues in the myriad progressions of the ever-present past and future , in a life as vibrant and real as the one left when the body tired and required sleep .
+5
+#9 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#12 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#20 past NOUN past%1:28:01::
+#22 future NOUN future%1:10:00::,future%1:28:00::
+#41 sleep NOUN sleep%1:26:00::
+If the photographically realistic continuity of dreams , however bizarre their combinations , denies that it is purely a composition of the brain , it must be compounded from views of diverse realities , although some of them may never be encountered in what we are pleased to call the real life .
+9
+#3 realistic ADJ realistic%5:00:00:representational:00
+#4 continuity NOUN continuity%1:07:00::
+#8 however ADV however%4:02:00::,however%4:02:02::
+#11 combination NOUN combination%1:04:00::,combination%1:14:00::
+#13 deny VERB deny%2:32:00::,deny%2:32:01::
+#22 brain NOUN brain%1:08:00::,brain%1:13:00::
+#27 compound VERB compound%2:35:00::
+#39 never ADV never%4:02:00::
+#48 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Dr. H. V. Hilprecht , Professor of Assyrian at the University of Pennsylvania , dreamed that a Babylonian priest , associated with the king Kurigalzu , ( 1300 B.C. . ) escorted him to the treasure chamber of the temple of Bel , gave him six novel points of information about a certain broken relic , and corrected an error in its identification .
+11
+#5 professor NOUN full_professor%1:18:00::
+#7 Assyrian NOUN assyrian%1:18:00::
+#14 dream VERB dream%2:36:00::,dream%2:39:00::
+#17 Babylonian NOUN babylonian%1:18:00::
+#20 associated ADJ associate%5:00:00:subordinate:01
+#23 king NOUN king%1:18:01::,king%1:26:00::
+#36 chamber NOUN chamber%1:08:00::
+#39 temple NOUN temple%1:06:02::
+#43 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#47 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#53 broken ADJ broken%5:00:00:incomplete:00
+As a matter of fact , the incorrect classification , the result of many weeks of labor by Dr. Hilprecht , was about to be published by him the following day .
+5
+#7 incorrect ADJ incorrect%3:00:00::
+#16 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#25 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#29 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#30 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Some time later the missing part of the relic was found and the complete inscription , together with other new evidence , fully corroborated the ancient priest 's information .
+10
+#1 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#5 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#10 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#13 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#16 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#18 other ADJ other%5:00:02:past:00
+#19 new ADJ new%3:00:00::
+#22 fully ADV fully%4:02:04::
+#28 information NOUN information%1:09:00::,information%1:10:02::
+Dr. Hilprecht was uncertain as to the language used by the ancient priest in his dream .
+2
+#7 language NOUN language%1:10:00::
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+He was almost positive it was not Assyrian nor Cassite , and imagined it must have been German or English .
+6
+#3 positive ADJ positive%5:00:00:certain(p):02,positive%5:00:00:certain:02,positive%5:00:00:undeniable:00
+#6 not ADV not%4:02:00::
+#7 Assyrian NOUN assyrian%1:18:00::
+#12 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#17 German NOUN german%1:10:00::
+#19 English NOUN english%1:18:00::
+We may conclude that all six points of information , ostensibly given by the dream priest , could have been furnished by Dr. Hilprecht 's subconscious reasoning .
+5
+#2 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#6 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#8 information NOUN information%1:09:00::,information%1:10:02::
+#11 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#26 reason NOUN reason%1:09:00::,reason%1:26:00::,reasoning%1:09:00::
+But , in denying any physical reality for this dream , how could the brain possibly compose that realistic , vividly visual continuity uninterrupted by misty fadeout , violent break or sudden substitution ?
+4
+#3 deny VERB deny%2:32:00::,deny%2:32:01::
+#14 brain NOUN brain%1:08:00::,brain%1:13:00::
+#16 compose VERB compose%2:36:01::,compose%2:36:09::,compose%2:42:00::
+#22 continuity NOUN continuity%1:07:00::
+Which theory is more fantastic : 1 .
+2
+#3 more ADV more%4:02:00::
+#4 fantastic ADJ fantastic%5:00:00:unrealistic:00
+that the perfect continuity was composed from the job lot of memory impressions in the professor 's brain , or 2 .
+6
+#2 perfect ADJ perfect%3:00:00::
+#3 continuity NOUN continuity%1:07:00::
+#11 memory NOUN memory%1:09:00::,memory%1:09:02::
+#12 impression NOUN impression%1:04:00::,impression%1:09:00::
+#15 professor NOUN full_professor%1:18:00::
+#17 brain NOUN brain%1:08:00::,brain%1:13:00::
+that the dream was a reality on the infinite progressions of universal , gradient frequencies , across which the modern professor and the priest of ancient Nippur met ?
+5
+#5 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#8 infinite ADJ infinite%3:00:00::
+#13 gradient NOUN gradient%1:07:01::
+#14 frequency NOUN frequency%1:24:00::
+#27 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The degree of circumstance , the ratio of memory to forgetfulness , determines whether a dream will be a recognized , fulfilled prevision , or the vaguely , effective source of the weird deja vu feeling .
+8
+#1 degree NOUN degree%1:26:01::
+#3 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#8 memory NOUN memory%1:09:00::,memory%1:09:01::
+#12 determine VERB determine%2:31:02::,determine%2:32:03::
+#21 fulfill VERB fulfil%2:34:00::
+#26 vaguely ADV vaguely%4:02:00::
+#28 effective ADJ effective%3:00:00::,effective%5:00:00:competent:00,effective%5:00:00:efficacious:00
+#35 feeling NOUN feeling%1:09:03::
+No doubt some experiences vanish so completely as to leave no trace on the sleeper 's mind .
+4
+#4 vanish VERB vanish%2:30:01::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#11 trace NOUN trace%1:10:00::
+#14 sleeper NOUN sleeper%1:18:00::
+Probably less than one percent of our previsions escape final obliteration before we wake .
+2
+#8 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#13 wake VERB wake%2:29:02::
+When we arrive at the events concerned in the vanished majority , they , of course , cannot impress us as anything familiar .
+4
+#6 concern VERB concern%2:42:00::,concern%2:42:01::
+#10 majority NOUN majority%1:07:00::,majority%1:23:00::
+#18 impress VERB impress%2:31:00::
+#22 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+Nevertheless , there are notably frequent instances of deja vu , in which our recognition of an entirely novel event is a feeling of having lived through it before , a feeling which , though vague , withstands the verbal barrage from the most impressive corps of psychologists .
+7
+#6 instance NOUN instance%1:09:00::
+#22 feeling NOUN feeling%1:09:03::
+#25 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#28 before ADV before%4:02:03::
+#31 feeling NOUN feeling%1:09:03::
+#39 verbal ADJ verbal%5:00:00:spoken:00
+#43 most ADV most%4:02:00::
+If deja vu is an illusion , then peculiarly , it is a most prevalent mental disturbance affecting even the most level-headed people .
+4
+#8 peculiarly ADV peculiarly%4:02:00::
+#17 affect VERB affect%2:30:00::,affect%2:42:00::
+#20 most ADV most%4:02:00::
+#22 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Chauncey Depew , one-time runner-up for the Republican Presidential nomination , was attending a convention at Saratoga , where he was scheduled to nominate Colonel Theodore Roosevelt for Governor of New York when he noticed that the temporary chairman was a man he had never met .
+9
+#3 one-time ADJ one-time%5:00:00:past:00
+#12 attend VERB attend%2:42:00::
+#14 convention NOUN convention%1:14:00::
+#23 nominate VERB nominate%2:32:00::
+#28 governor NOUN governor%1:18:00::
+#38 chairman NOUN chairman%1:18:01::
+#41 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#44 never ADV never%4:02:00::
+#45 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+After the preliminary business affair was finished Depew arose and delivered the convincing speech that clinched the nomination for Roosevelt .
+7
+#3 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#4 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+#6 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#8 arise VERB arise%2:38:00::
+#10 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+#13 speech NOUN speech%1:10:00::,speech%1:10:02::
+#15 clinch VERB clinch%2:32:00::
+If Depew had told any academic psychologist that he had a weird feeling of having lived through that identical convention session at some time in the past , he would have been informed that he was a victim of deja vu .
+9
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#9 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#12 feeling NOUN feeling%1:09:03::
+#15 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#18 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#19 convention NOUN convention%1:14:00::
+#23 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#26 past NOUN past%1:28:01::
+#32 inform VERB inform%2:32:00::,inform%2:32:10::
+But the famous orator felt more than vague recognition for the scene .
+3
+#4 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#5 more ADV more%4:02:00::
+#11 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+He remembered exactly when he had lived through it before , and he had something to prove he had .
+5
+#2 exactly ADV exactly%4:02:02::
+#6 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#9 before ADV before%4:02:03::
+#16 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#18 have VERB have%2:40:00::
+One week before the convention , Depew was seated on the porch of a country home on the Hudson , gazing at the opposite shore .
+5
+#4 convention NOUN convention%1:14:00::
+#14 country NOUN country%1:15:02::
+#15 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#23 opposite ADJ opposite%3:00:00::,opposite%5:00:00:different:00,opposite%5:00:01:other:00
+#24 shore NOUN shore%1:17:00::

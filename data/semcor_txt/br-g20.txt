@@ -1,0 +1,616 @@
+ It will be shown that the objectives of the cooperative people in an organization determine the type of network required , because the type of network functions according to the characteristics of the messages enumerated in Table 1 .
+12
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 objective NOUN objective%1:09:00::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#14 determine VERB determine%2:31:02::,determine%2:32:03::
+#16 type NOUN type%1:18:00::
+#18 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#23 type NOUN type%1:18:00::
+#25 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#30 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#33 message NOUN message%1:10:00::,message%1:10:01::
+#36 table NOUN table%1:14:00::
+Great stress is placed on the role that the monitoring of information sending plays in maintaining the effectiveness of the network .
+6
+#0 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#1 stress NOUN stress%1:10:01::,stress%1:26:03::
+#3 place VERB place%2:31:13::
+#12 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#15 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#20 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+By monitoring , we mean some system of control over the types of information sent from the various centers .
+5
+#4 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#6 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#8 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#11 type NOUN type%1:18:00::
+#18 center NOUN center%1:06:00::,center%1:15:02::
+As a word of caution , we should be aware that in actual practice no message is purely one of the four types , question , command , statement , or exclamation .
+5
+#2 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#4 caution NOUN caution%1:09:00::
+#13 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#15 message NOUN message%1:10:00::,message%1:10:01::
+#22 type NOUN type%1:18:00::
+For example , suppose a man wearing a $ 200 watch , driving a 1959 Rolls Royce , stops to ask a man on the sidewalk , " What time is it " ?
+8
+#3 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#12 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#18 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#20 ask VERB ask%2:32:00::,ask%2:32:04::
+#22 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#29 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+This sentence would have most of the characteristics of a question , but it has some of the characteristics of a statement because the questioner has conveyed the fact that he has no faith in his own timepiece or the one attached to his car .
+8
+#1 sentence NOUN sentence%1:10:00::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#33 faith NOUN faith%1:09:01::
+#36 own ADJ own%5:00:00:personal:00
+#41 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+If the man on the sidewalk is surprised at this question , it has served as an exclamation .
+2
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+Also , since the man questioned feels a strong compulsion to answer ( and thereby avoid the consequences of being thought queer ) the question has assumed some measurable properties of a command .
+9
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#8 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#9 compulsion NOUN compulsion%1:16:01::
+#11 answer VERB answer%2:31:00::,answer%2:32:00::
+#15 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#17 consequence NOUN consequence%1:19:00::
+#26 assume VERB assume%2:36:00::,assume%2:41:00::
+#29 property NOUN property%1:07:00::,property%1:09:00::
+However , for convenience we will stick to the idea that information can be classified according to Table 1 .
+5
+#0 however ADV however%4:02:04::
+#3 convenience NOUN convenience%1:26:00::
+#9 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#11 information NOUN information%1:09:00::,information%1:10:02::
+#17 table NOUN table%1:14:00::
+On this basis , certain extreme kinds of networks will be discussed for illustrative purposes .
+2
+#4 certain ADJ certain%5:00:00:definite:00
+#5 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+Presumably a cocktail party is expected to fulfill the host 's desire to get together a number of people who are inadequately acquainted and thereby arrange for bringing the level of acquaintance up to adequacy for future cooperative endeavors .
+6
+#7 fulfill VERB fulfil%2:34:00::
+#9 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#16 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#18 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#25 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#29 level NOUN level%1:26:00::,level%1:26:01::
+The party is usually in a room small enough so that all guests are within sight and hearing of one another .
+5
+#1 party NOUN party%1:14:00::
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 so CONJ so%4:02:10::
+#15 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#17 hearing NOUN hearing%1:09:00::
+The information is furnished by each of the guests , is sent by oral broadcasting over the air waves , and is received by the ears .
+5
+#1 information NOUN information%1:09:00::,information%1:10:02::
+#11 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#13 oral ADJ oral%5:00:00:spoken:00
+#14 broadcast VERB broadcast%2:32:01::
+#25 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+Since the air is a continuum , the network of communication remains intact regardless of the positions or motions of the points ( the people ) in the net .
+5
+#2 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#8 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#18 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#24 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#28 net NOUN net%1:06:00::
+As shown in Figure 1 , there is a connection for communication between every pair of points .
+2
+#3 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#9 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+This , and other qualifications , make the cocktail party the most complete and most chaotic communication system ever dreamed up .
+6
+#4 qualification NOUN qualification%1:07:00::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 most ADV most%4:02:00::
+#12 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#14 most ADV most%4:02:00::
+#18 ever ADV ever%4:02:05::
+All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more than customarily encouraged .
+8
+#2 type NOUN type%1:18:00::
+#4 message NOUN message%1:10:00::,message%1:10:01::
+#5 list VERB list%2:32:00::,list%2:41:00::
+#7 table NOUN table%1:14:00::
+#16 tradition NOUN tradition%1:09:01::
+#18 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+#27 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#28 complimentary ADJ complimentary%3:00:00::
+The completeness of the connections provide that , for N people , there are * * f lines of communication between the pairs , which can become a large number ( 1225 ) for a party of fifty guests .
+5
+#4 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#19 communication NOUN communication%1:03:00::,communication%1:10:01::
+#26 become VERB become%2:30:00::,become%2:42:01::
+#35 party NOUN party%1:14:00::
+Looking at the diagram , we see that * * f connection lines come in to each member .
+5
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#17 member NOUN member%1:18:00::,member%1:24:00::
+Thus the cocktail party would appear to be the ideal system , but there is one weakness .
+3
+#0 thus ADV thus%4:02:00::
+#5 appear VERB appear%2:30:00::
+#9 ideal ADJ ideal%5:00:00:abstract:00
+In spite of the dreams of the host for oneness in the group , the * * f incoming messages for each guest overload his receiving system beyond comprehension if N exceeds about six .
+4
+#7 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#9 oneness NOUN oneness%1:07:00::
+#19 message NOUN message%1:10:00::,message%1:10:01::
+#28 comprehension NOUN comprehension%1:09:00::
+The crowd consequently breaks up into temporary groups ranging in size from two to six , with a half-life for the cluster ranging from three to twenty minutes .
+4
+#8 range VERB range%2:42:00::
+#10 size NOUN size%1:07:00::,size%1:07:02::
+#22 range VERB range%2:42:00::
+#27 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+For the occasion on which everyone already knows everyone else and the host wishes them to meet one or a few honored newcomers , then the " open house " system is advantageous because the honored guests are fixed connective points and the drifting guests make and break connections at the door .
+9
+#2 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#6 already ADV already%4:02:00::
+#7 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#12 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#16 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#24 then ADV then%4:02:02::
+#38 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#45 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#48 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+We consider a rural community as an assemblage of inhabited dwellings whose configuration is determined by the location and size of the arable land sites necessary for family subsistence .
+6
+#4 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#14 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#19 size NOUN size%1:07:00::,size%1:07:02::
+#25 necessary ADJ necessary%3:00:00::
+#27 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#28 subsistence NOUN subsistence%1:21:00::
+We assume for this illustration that the size of the land plots is so great that the distance between dwellings is greater than the voice can carry and that most of the communication is between nearest neighbors only , as shown in Figure 2 .
+12
+#1 assume VERB assume%2:31:00::
+#7 size NOUN size%1:07:00::,size%1:07:02::
+#10 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#11 plot NOUN plot%1:15:00::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#14 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#17 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#21 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#24 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#32 communication NOUN communication%1:03:00::,communication%1:10:01::
+#37 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#42 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+Information beyond nearest neighbor is carried second - , third - , and fourth hand as a distortable rumor .
+1
+#0 information NOUN information%1:09:00::,information%1:10:02::
+In Figure 2 , the points in the network are designated by a letter accompanied by a number .
+6
+#1 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#5 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#8 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#13 letter NOUN letter%1:10:01::,letter%1:10:02::
+#14 accompany VERB accompany%2:42:00::
+#17 number NOUN number%1:10:01::,number%1:23:00::
+The numbers indicate the number of nearest neighbors .
+2
+#1 number NOUN number%1:10:01::,number%1:23:00::
+#4 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+It will be noted that point f has seven nearest neighbors , h and e have six , and p has only one , while the remaining points have intermediate numbers .
+10
+#3 note VERB note%2:32:00::,note%2:39:00::
+#5 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#26 remaining ADJ remaining%5:00:00:unexhausted:00
+#27 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#30 number NOUN number%1:10:01::,number%1:23:00::
+In any social system in which communications have an importance comparable with that of production and other human factors , a point like f in Figure 2 would ( other things being equal ) be the dwelling place for the community leader , while e and h would house the next most important citizens .
+15
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#16 other ADJ other%5:00:02:past:00
+#18 factor NOUN factor%1:08:00::,factor%1:18:00::
+#21 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#25 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#29 other ADJ other%3:00:00::
+#30 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#32 equal ADJ equal%3:00:00::
+#37 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#40 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#41 leader NOUN leader%1:18:00::
+#48 house VERB house%2:41:00::
+#50 next ADJ next%5:00:00:close:01
+#51 most ADV most%4:02:00::
+A point like p gets information directly from n , but all information beyond n is indirectly relayed through n .
+7
+#1 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#5 information NOUN information%1:10:00::,information%1:14:00::
+#6 directly ADV directly%4:02:05::
+#12 information NOUN information%1:10:00::,information%1:14:00::
+#16 indirectly ADV indirectly%4:02:00::
+#17 relay VERB relay%2:32:00::
+The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort .
+10
+#5 last ADJ last%5:00:00:unlikely:00
+#10 new ADJ new%3:00:00::
+#11 cure NOUN cure%1:06:00::
+#14 slow ADJ slow%3:00:01::
+#22 distress NOUN distress%1:26:00::
+#27 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#31 trade VERB trade%2:40:02::
+#38 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#46 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#49 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such as is made available by a waterfall for milling purposes , a mine , or a sugar maple camp .
+11
+#2 hazard NOUN hazard%1:26:00::
+#4 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#5 communication NOUN communication%1:03:00::,communication%1:10:01::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#13 justify VERB justify%2:32:00::,justify%2:32:01::
+#17 site NOUN site%1:15:00::,site%1:15:02::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#38 mine NOUN mine%1:06:01::
+#44 camp NOUN camp%1:06:01::,camp%1:14:00::
+Location theorists have given these matters much consideration .
+3
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#5 matter NOUN matter%1:09:00::,matter%1:09:01::
+#7 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+The networks for military communications are one of the best examples of networks which not only must be changed with the changes in objectives but also must be changed with the addition of new machines of war .
+9
+#1 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#9 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#10 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#12 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#18 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#21 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#23 objective NOUN objective%1:09:00::
+#28 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#33 new ADJ new%3:00:00::
+They also furnish proof that , in modern war , message sending must be monitored .
+3
+#3 proof NOUN proof%1:09:00::
+#10 message NOUN message%1:10:00::,message%1:10:01::
+#11 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Without monitoring , a military hookup becomes a noisy party .
+2
+#6 become VERB become%2:30:00::,become%2:42:01::
+#9 party NOUN party%1:14:00::
+The need for monitoring became greater when radio was adopted for military signaling .
+4
+#1 need NOUN need%1:26:00::
+#4 become VERB become%2:30:00::,become%2:42:01::
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 signal NOUN signal%1:19:00::
+Alexander the Great , who used runners as message carriers , did not have to worry about having every officer in his command hear what he said and having hundreds of them comment at once .
+9
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 message NOUN message%1:10:00::,message%1:10:01::
+#9 carrier NOUN carrier%1:14:00::
+#12 not ADV not%4:02:00::
+#15 worry VERB worry%2:37:00::,worry%2:37:01::
+#17 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#26 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+As time has passed and science has progressed , the speed of military vehicles has increased , the range of missiles has been extended , the use of target-hunting noses on the projectiles has been adopted , and the range and breadth of message sending has increased .
+7
+#1 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#3 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#18 range NOUN range%1:07:00::,range%1:15:01::
+#23 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#29 nose NOUN nose%1:06:00::
+#43 message NOUN message%1:10:00::,message%1:10:01::
+#44 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Next to the old problem of the slowness of decision making , network structure seems to be paramount , and without monitoring no network has value .
+7
+#0 next ADJ next%5:00:00:close:01
+#3 old ADJ old%3:00:01::
+#4 problem NOUN problem%1:09:00::,problem%1:26:00::
+#12 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#23 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 value NOUN value%1:21:00::,values%1:09:00::
+On the parade ground the net may be similar to that shown in Figure 3 .
+1
+#13 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+The monitoring is the highest and most restrictive of any organization in existence .
+4
+#4 high ADJ high%3:00:02::
+#6 most ADV most%4:02:00::
+#7 restrictive ADJ restrictive%3:00:00::
+#10 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+No questions , statements , or explanations are permitted - only commands .
+1
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Commands go only from an officer to the man of nearest lower rank .
+4
+#1 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The same command is repeated as many times as there are levels in rank from general to corporal .
+7
+#1 same ADJ same%3:00:00::,same%3:00:02::
+#4 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#7 time NOUN time%1:11:00::
+#11 level NOUN level%1:26:00::,level%1:26:01::
+#13 rank NOUN rank%1:26:00::,rank%1:26:01::
+#15 general NOUN general%1:18:00::
+#17 corporal NOUN corporal%1:18:00::
+All orders originate with the officer of highest rank and terminate with action of the men in the ranks .
+5
+#1 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#5 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#8 rank NOUN rank%1:26:00::,rank%1:26:01::
+#12 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#15 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Even the officer in charge , be it a captain ( for small display ) or a general , is restrained by monitoring .
+3
+#2 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#13 display NOUN display%1:10:00::
+#17 general NOUN general%1:18:00::
+This is done for simplicity of commands and to bring the hidden redundancy up to where misunderstanding has almost zero possibility .
+1
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The commands are specified by the military regulations ; are few in number , briefly worded , all different in sound ; and are combinable into sequences which permit any marching maneuver that could be desired on a parade ground .
+6
+#7 regulation NOUN regulation%1:10:00::
+#12 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 word VERB word%2:32:00::
+#18 different ADJ different%3:00:00::,different%5:00:00:other:00
+#26 sequence NOUN sequence%1:07:00::,sequence%1:14:00::
+#31 maneuver NOUN maneuver%1:04:02::
+This monitoring is necessary because , on a parade ground , everyone can hear too much , and without monitoring a confused social event would develop .
+2
+#3 necessary ADJ necessary%3:00:00::
+#25 develop VERB develop%2:32:00::,develop%2:36:01::
+With troops dispersed on fields of battle rather than on the parade ground , it may seem that a certain amount of monitoring is automatically enforced by the lines of communication .
+4
+#1 troop NOUN troop%1:14:00::
+#7 rather ADV rather%4:02:02::
+#19 certain ADJ certain%5:00:00:definite:00
+#28 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+Years ago this was true , but with the replacement of wires or runners by radio and radar ( and perhaps television ) , these restrictions have disappeared and now again too much is heard .
+3
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#27 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#29 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+In contrast to cocktail parties , military organizations , even in the field , are more formal .
+2
+#7 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#16 formal ADJ formal%3:00:01::,formal%3:00:02::,formal%5:00:00:dignified:00,formal%5:00:00:official:00
+In the extreme and oversimplified example suggested in Figure 3 , the organization is more easily understood and more predictable in behavior .
+4
+#2 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#8 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#15 easily ADV easily%4:02:01::,easily%4:02:06::
+A military organization has an objective chosen by the higher command .
+3
+#2 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 objective NOUN objective%1:09:00::
+This objective is adhered to throughout the duration of the action .
+2
+#1 objective NOUN objective%1:09:00::
+#10 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+The connective system , or network , is tailored to meet the requirements of the objective , and it is therefore not surprising that a military body acting as a single coordinated unit has a different communication network than a factory , a college , or a rural village .
+14
+#2 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#5 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#10 meet VERB meet%2:41:02::,meet%2:42:01::
+#15 objective NOUN objective%1:09:00::
+#21 not ADV not%4:02:00::
+#26 body NOUN body%1:14:00::
+#30 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#31 coordinate ADJ coordinate%5:00:00:equal:00
+#32 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#33 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#35 different ADJ different%5:00:00:unusual:00
+#37 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#40 factory NOUN factory%1:06:00::
+#43 college NOUN college%1:14:00::,college%1:14:01::
+The assumptions upon which the example shown in Figure 3 is based are : ( a ) One man can direct about six subordinates if the subordinates are chosen carefully so that they do not need too much personal coaching , indoctrinating , etc. .
+12
+#1 assumption NOUN assumption%1:09:00::
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#6 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#8 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#11 base VERB base%2:31:00::
+#18 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#20 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#30 so CONJ so%4:02:10::
+#34 not ADV not%4:02:00::
+#35 need VERB need%2:42:00::
+#38 personal ADJ personal%5:00:00:subjective:00
+#39 coach VERB coach%2:32:00::
+( b ) A message runs too great a risk of being distorted if it is to be relayed more than about six consecutive times .
+4
+#4 message NOUN message%1:10:00::,message%1:10:01::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#18 relay VERB relay%2:32:00::
+#24 time NOUN time%1:11:00::
+( c ) Decisions of a general kind are made by the central command .
+2
+#6 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+And ( d ) all action of a physical kind pertinent to the mission is relegated to the line of men on the lower rank .
+3
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#13 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#20 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+These assumptions lead to an organization with one man at the top , six directly under him , six under each of these , and so on until there are six levels of personnel .
+7
+#1 assumption NOUN assumption%1:09:00::
+#2 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#5 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 top NOUN top%1:07:02::,top%1:26:00::
+#14 directly ADV directly%4:02:05::
+#31 level NOUN level%1:26:00::,level%1:26:01::
+The number of people acting as one body by this scheme gives a surprisingly large army of * * f 55987 men .
+6
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#3 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 body NOUN body%1:14:00::
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#14 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#21 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+This organizational network would be of no avail if there were no regulations pertaining to the types of message sent .
+5
+#2 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#12 regulation NOUN regulation%1:10:00::
+#16 type NOUN type%1:18:00::
+#18 message NOUN message%1:10:00::,message%1:10:01::
+#19 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Of types of message listed in Table 1 , commands and statements are the only ones sent through the vertical network shown in Figure 3 .
+7
+#1 type NOUN type%1:18:00::
+#3 message NOUN message%1:10:00::,message%1:10:01::
+#4 list VERB list%2:32:00::,list%2:41:00::
+#6 table NOUN table%1:14:00::
+#16 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#21 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#23 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+A further regulation is that commands always go down , unaccompanied by statements , and statements always go up , unaccompanied by commands .
+4
+#1 further ADJ further%5:00:00:far:00
+#2 regulation NOUN regulation%1:10:00::
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+Questions and , particularly , exclamations are usually channeled along informal , horizontal lines not indicated in Figure 3 and seldom are carried beyond the nearest neighbor .
+7
+#3 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#8 channel VERB channel%2:38:01::
+#12 horizontal ADJ horizontal%3:00:00::
+#14 not ADV not%4:02:00::
+#15 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#17 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#22 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+It will readily be seen that in this suggested network ( not materially different from some of the networks in vogue today ) greater emphasis on monitoring is implied than is usually put into practice .
+9
+#4 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#9 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#11 not ADV not%4:02:00::
+#12 materially ADV materially%4:02:01::
+#13 different ADJ different%5:00:00:unusual:00
+#18 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#23 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#32 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#34 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+Furthermore , the network in Figure 3 is only the basic net through which other networks pertaining to logistics and the like are interlaced .
+7
+#3 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#5 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#11 net NOUN net%1:06:00::
+#14 other ADJ other%3:00:00::
+#15 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+Not discussed here are some military problems of modern times such as undersea warfare , where the surveillance , sending , transmitting , and receiving are all so inadequate that networks and decision making are not the bottlenecks .
+8
+#0 not ADV not%4:02:00::
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+#19 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#27 so ADV so%4:02:03::,so%4:02:07::
+#30 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#35 not ADV not%4:02:00::
+#37 bottleneck NOUN bottleneck%1:25:00::
+Such problems are of extreme interest as well as importance and are so much like fighting in a rain forest or guerrilla warfare at night in tall grass that we might have to re-examine primitive conflicts for what they could teach .
+4
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#4 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#26 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#34 primitive ADJ primitive%5:00:00:noncivilized:00,primitive%5:00:00:untrained:00,primitive%5:00:02:early:02
+This is an unsolved problem which probably has never been seriously investigated , although one frequently hears the comment that we have insufficient specialists of the kind who can compete with the Germans or Swiss , for example , in precision machinery and mathematics , or the Finns in geochemistry .
+2
+#4 problem NOUN problem%1:09:00::,problem%1:26:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We hear equally fervent concern over the belief that we have not enough generalists who can see the over-all picture and combine our national skills and knowledge for useful purposes .
+8
+#2 equally ADV equally%4:02:01::
+#4 concern NOUN concern%1:09:01::,concern%1:12:01::
+#7 belief NOUN belief%1:09:00::,belief%1:09:01::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 not ADV not%4:02:00::
+#16 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#21 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#26 knowledge NOUN knowledge%1:03:00::
+This problem of the optimum balance in the relative numbers of generalists and specialists can be investigated on a communicative network basis .
+5
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#5 balance NOUN balance%1:07:00::,balance%1:26:00::
+#8 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#20 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+Since the difficulty of drawing the net is great , we will merely discuss it .
+2
+#6 net NOUN net%1:06:00::
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+First , we realize that a pure specialist does not exist .
+3
+#3 realize VERB realize%2:31:01::
+#9 not ADV not%4:02:00::
+#10 exist VERB exist%2:42:00::
+But , for practical purposes , we have people who can be considered as such .
+3
+#3 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+For example , there are persons who are in physical science , in the field of mineralogy , trained in crystallography , who use only X-rays , applying only the powder technique of X-ray diffraction , to clay minerals only , and who have spent the last fifteen years concentrating on the montmorillonites ; or persons in the social sciences in the field of anthropology , studying the lung capacity of seven Andean Indians .
+16
+#5 person NOUN person%1:03:00::,person%1:08:00::
+#14 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#18 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#23 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#25 X-ray NOUN x_ray%1:19:00::
+#27 apply VERB apply%2:34:00::
+#28 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#38 mineral NOUN mineral%1:27:00::
+#39 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#46 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#48 year NOUN year%1:28:00::,year%1:28:01::
+#55 person NOUN person%1:03:00::,person%1:08:00::
+#62 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#66 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#69 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+So we see that a specialist is a man who knows more and more about less and less as he develops , as contrasted to the generalist , who knows less and less about more and more .
+13
+#2 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 more ADV more%4:02:01::
+#13 more ADV more%4:02:01::
+#15 little ADV little%4:02:00::
+#17 little ADV little%4:02:00::
+#20 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#29 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#30 little ADV little%4:02:00::
+#32 little ADV little%4:02:00::
+#34 more ADV more%4:02:01::
+#36 more ADV more%4:02:01::

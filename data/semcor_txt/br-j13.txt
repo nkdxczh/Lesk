@@ -1,0 +1,675 @@
+ Some of the features of the top portions of Figure 1 and Figure 2 were mentioned in discussing Table 1 .
+4
+#3 feature NOUN feature%1:08:00::,feature%1:09:01::
+#9 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#12 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#18 table NOUN table%1:14:00::
+First , the Onset Profile spreads across approximately 12 years for boys and 10 years for girls .
+6
+#4 profile NOUN profile%1:10:01::
+#5 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#9 year NOUN years%1:28:00::
+#11 boy NOUN boy%1:18:03::
+#14 year NOUN years%1:28:00::
+#16 girl NOUN girl%1:18:00::,girl%1:18:04::
+In contrast , 20 of the 21 lines in the Completion Profile ( excluding center 5 for boys and 4 for girls ) are bunched and extend over a much shorter period , approximately 30 months for boys and 40 months for girls .
+10
+#7 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#11 profile NOUN profile%1:10:01::
+#14 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#17 boy NOUN boy%1:18:03::
+#21 girl NOUN girl%1:18:00::,girl%1:18:04::
+#26 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#30 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#31 period NOUN period%1:28:00::,period%1:28:03::
+#37 boy NOUN boy%1:18:03::
+#42 girl NOUN girl%1:18:00::,girl%1:18:04::
+The Maturity Chart for each sex demonstrates clearly that Onset is a phenomenon of infancy and early childhood whereas Completion is a phenomenon of the later portion of adolescence .
+4
+#5 sex NOUN sex%1:14:00::
+#6 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#12 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#22 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+Second , for both sexes , the 21 transverse lines in the Onset Profile vary more in individual spread than those in the Completion Profile .
+7
+#4 sex NOUN sex%1:14:00::
+#9 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#13 profile NOUN profile%1:10:01::
+#15 more ADV more%4:02:00::,more%4:02:01::
+#17 individual ADJ individual%5:00:00:independent:00
+#18 spread NOUN spread%1:07:01::
+#24 profile NOUN profile%1:10:01::
+Although the standard deviation values on which spread of the lines are based are relatively larger for those centers which begin to ossify early ( Table 1 ) , there are considerable differences in this value between centers having the closely timed Onsets .
+12
+#4 value NOUN value%1:09:00::
+#7 spread NOUN spread%1:07:01::
+#10 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#12 base VERB base%2:31:00::
+#15 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#18 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#20 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#23 early ADV earlier%4:02:00::
+#25 table NOUN table%1:14:00::
+#35 value NOUN value%1:09:00::
+#37 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#38 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Third , the process of calcification is seen to begin later and to continue much longer for these boys than for the girls , a fact which confirms data for other groups of children .
+10
+#3 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#10 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#15 long ADV long%4:02:00::
+#18 boy NOUN boy%1:18:03::
+#22 girl NOUN girl%1:18:00::,girl%1:18:04::
+#27 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#28 data NOUN data%1:14:00::,datum%1:09:00::
+#30 other ADJ other%3:00:00::
+The Onset Profile and Completion Profile are constructed to serve as norms for children .
+4
+#2 profile NOUN profile%1:10:01::
+#5 profile NOUN profile%1:10:01::
+#9 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#11 norm NOUN norm%1:24:00::
+It is convenient to classify a child 's onset ages and completion ages as " advanced " , " moderate " ( modal ) , or " delayed " according to whether the child 's age equivalent " dots " appeared to the left of , upon , or to the right of the appropriate short transverse line .
+10
+#9 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#12 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#15 advanced ADJ advanced%5:00:00:precocious:00
+#35 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#38 dot NOUN dot%1:25:00::
+#40 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#43 left NOUN left%1:08:00::
+#51 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#55 short ADJ short%3:00:01::
+#57 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+When a dot appears close to the end of the transverse line , the " moderate " rating may be further classified according to the position of the dot with respect to the vertical marking denoting the mean age .
+11
+#2 dot NOUN dot%1:25:00::
+#3 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#4 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#7 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#11 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#20 further ADV further%4:02:02::,further%4:02:03::
+#28 dot NOUN dot%1:25:00::
+#33 vertical ADJ vertical%3:00:00::
+#34 mark NOUN mark%1:10:03::
+#37 mean ADJ mean%5:00:00:normal:01
+#38 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+Such classifications may be called " somewhat advanced " or " somewhat delayed " , as the case may be , reserving " moderate " for dots upon or close to the mean .
+6
+#4 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#7 advanced ADJ advanced%5:00:00:precocious:00
+#17 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#26 dot NOUN dot%1:25:00::
+#29 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#32 mean NOUN mean%1:09:00::
+In the lower portion of each Chart , the Skeletal Age ( Hand ) of boy 34 and girl 2 may be similarly classified .
+3
+#10 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#15 boy NOUN boy%1:18:03::
+#18 girl NOUN girl%1:18:00::,girl%1:18:04::
+There the middle one of the three curves denotes " mean Skeletal Age " for the Maturity Series boys and girls .
+7
+#0 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#2 middle ADJ middle%5:00:01:central:01
+#10 mean ADJ mean%5:00:00:normal:01
+#12 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#17 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#18 boy NOUN boy%1:18:03::
+#20 girl NOUN girl%1:18:00::,girl%1:18:04::
+The upper curve denotes the mean plus one standard deviation , and the lower curve represents the mean minus one standard deviation .
+3
+#1 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#5 mean NOUN mean%1:09:00::
+#17 mean NOUN mean%1:09:00::
+Thus , a child 's Skeletal Age " dots " may be classified as " advanced " when they appear above the middle curve , " moderate " when they appear immediately above or below the middle curve , and " delayed " when they appear below the lower curve .
+10
+#0 thus ADV thus%4:02:00::
+#6 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#8 dot NOUN dot%1:25:00::
+#15 advanced ADJ advanced%5:00:00:precocious:00
+#19 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#22 middle ADJ middle%5:00:01:central:01
+#30 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#31 immediately ADV immediately%4:02:00::,immediately%4:02:05::
+#36 middle ADJ middle%5:00:01:central:01
+#45 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+To summarize the purpose of the Skeletal Maturity Chart : each contains two kinds of skeletal maturity norms which show two quite different methods of depicting developmental level of growth centers .
+8
+#11 contain VERB contain%2:42:00::,contain%2:42:06::
+#17 norm NOUN norm%1:24:00::
+#19 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#21 quite ADV quite%4:02:02::
+#22 different ADJ different%3:00:00::,different%5:00:00:other:00
+#27 level NOUN level%1:26:00::,level%1:26:01::
+#29 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#30 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+First , the upper portion requires series of films for every child , consisting of those from Hand , Elbow , Shoulder , Knee , and Foot .
+5
+#3 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#6 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#8 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+#21 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#26 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+The lower portion necessitates only films of Hand .
+2
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+Second , the upper portion permits comparison of maturity levels of an equal number of growth centers from the long , short , and round bones of the five regions .
+7
+#3 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#6 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#9 level NOUN level%1:26:00::,level%1:26:01::
+#12 equal ADJ equal%3:00:00::
+#13 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#16 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+The lower portion permits comparison of maturity levels of short and round bones predominantly , since only two long bones are included in Hand and Wrist as a region .
+4
+#4 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#7 level NOUN level%1:26:00::,level%1:26:01::
+#16 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#25 wrist NOUN wrist%1:08:00::
+Third , the upper portion deals with only two indicators of developmental level , Onset and Completion .
+5
+#3 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#5 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 indicator NOUN indicator%1:10:00::
+#12 level NOUN level%1:26:00::,level%1:26:01::
+The lower portion utilizes the full complement of intermediate maturity indicators of each Hand center as well as their Onset and Completion .
+2
+#10 indicator NOUN indicator%1:10:00::
+#14 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+Fourth , the two indicators are for the most part widely separated chronologically , with the extensive age gap occurring during childhood for all but one growth center .
+7
+#4 indicator NOUN indicator%1:10:00::
+#10 widely ADV widely%4:02:00::,widely%4:02:02::
+#16 extensive ADJ extensive%5:00:00:large:00
+#17 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#18 gap NOUN gap%1:04:00::
+#26 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#27 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+The lower portion provides a rating at any stage between infancy and adulthood .
+2
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#8 stage NOUN stage%1:04:00::,stage%1:26:00::
+Onsets , Completions , and Skeletal Ages ( Hand ) of boy 34 and girl 2 may be directly compared and classified , using only those Skeletal Ages which appear immediately below the Onset Profile and the Completion Profile .
+11
+#6 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#11 boy NOUN boy%1:18:03::
+#14 girl NOUN girl%1:18:00::,girl%1:18:04::
+#18 directly ADV directly%4:02:05::
+#19 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#27 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#29 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#30 immediately ADV immediately%4:02:00::,immediately%4:02:05::
+#34 profile NOUN profile%1:10:01::
+#38 profile NOUN profile%1:10:01::
+It may be assumed that differences in ratings due to selection of growth centers from specific regions of the body will be small , according to existing tables of onset age and completion age for centers throughout the body .
+12
+#3 assume VERB assume%2:31:00::
+#7 rating NOUN rating%1:04:00::
+#10 selection NOUN selection%1:22:00::
+#12 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#13 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#15 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#19 body NOUN body%1:08:00::,body%1:08:02::
+#27 table NOUN table%1:14:00::
+#30 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#33 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#35 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#38 body NOUN body%1:08:00::,body%1:08:02::
+Accordingly , maturity level ratings by means of the upper portion and lower portion of the Chart , respectively , should be somewhat similar since Skeletal Age assessments are dependent upon Onsets during infancy and upon Completions during adolescence .
+7
+#0 accordingly ADV accordingly%4:02:00::
+#3 level NOUN level%1:26:00::,level%1:26:01::
+#4 rating NOUN rating%1:04:00::
+#6 means NOUN means%1:06:00::
+#9 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#26 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#29 dependent ADJ dependent%5:00:00:conditional:00
+It is clear that there are some differences in the ratings , but there is substantial agreement .
+3
+#2 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#10 rating NOUN rating%1:04:00::
+#15 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+Since a Skeletal Age rating can be made at any age during growth , from Elbow , Shoulder , Knee , or Foot as well as Hand , it seems to be the method of choice when one wishes to study most aspects of skeletal developmental progress during childhood .
+8
+#3 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#12 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#17 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#22 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#40 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#42 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+As stated earlier in the paper , Onsets and Completions - particularly the former - provide a different tool or indicator of expectancy in osseous development , each within a limited age period .
+12
+#1 state VERB state%2:32:01::,state%2:32:02::
+#2 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#5 paper NOUN paper%1:10:00::
+#11 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#13 former ADJ former%3:00:00::
+#15 provide VERB provide%2:34:00::,provide%2:40:00::
+#17 different ADJ different%5:00:00:unusual:00
+#18 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#20 indicator NOUN indicator%1:10:00::
+#25 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#31 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#32 period NOUN period%1:28:00::,period%1:28:03::
+Such an indicator , or indicators , are needed as means of recognizing specific periods of delay in skeletal developmental progress .
+6
+#2 indicator NOUN indicator%1:10:00::
+#5 indicator NOUN indicator%1:10:00::
+#10 means NOUN means%1:06:00::
+#12 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#13 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#14 period NOUN period%1:28:00::,period%1:28:03::
+It was stated earlier that one purpose of this study was to extend the analysis of variability of Onset and Completion in each of the 21 growth centers somewhat beyond that provided by the data in Tables 1 and 2 .
+9
+#2 state VERB state%2:32:01::,state%2:32:02::
+#3 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#9 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#12 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#26 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#27 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#31 provide VERB provide%2:34:00::,provide%2:40:00::
+#34 data NOUN data%1:14:00::,datum%1:09:00::
+#36 table NOUN table%1:14:00::
+As one approach to doing this , Figures 3 and 4 have been constructed from the mean ages and the individual onset and completion ages for boy 34 and girl 2 .
+8
+#2 approach NOUN approach%1:04:02::,approach%1:06:00::
+#7 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#16 mean ADJ mean%5:00:00:normal:01
+#17 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#20 individual ADJ individual%5:00:00:independent:00
+#24 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#26 boy NOUN boy%1:18:03::
+#29 girl NOUN girl%1:18:00::,girl%1:18:04::
+The differences between onset age and completion age with respect to the corresponding mean age have been brought into juxtaposition by means of a series of arrows .
+7
+#4 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#7 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#12 corresponding ADJ corresponding%5:00:00:similar:00
+#13 mean ADJ mean%5:00:00:normal:01
+#14 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#21 means NOUN means%1:06:00::
+#24 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+The data for boy 34 appear in Figure 3 , and for girl 2 in Figure 4 .
+6
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#3 boy NOUN boy%1:18:03::
+#5 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#7 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#12 girl NOUN girl%1:18:00::,girl%1:18:04::
+#15 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+The numbering system used in Tables 1 and 2 and Figures 1 and 2 was continued for the 21 growth centers .
+8
+#1 number VERB number%2:30:00::
+#2 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 table NOUN table%1:14:00::
+#10 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#15 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#19 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#20 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+The " dot " on one end of each arrow indicates extent of difference in months between the child 's onset age and the corresponding mean age for the growth center .
+9
+#2 dot NOUN dot%1:25:00::
+#6 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#10 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#21 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#24 corresponding ADJ corresponding%5:00:00:similar:00
+#25 mean ADJ mean%5:00:00:normal:01
+#26 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#29 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#30 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+The " tip " of the arrow represents extent of difference between the child 's completion age and the corresponding mean age for the growth center .
+7
+#2 tip NOUN tip%1:15:00::
+#16 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#19 corresponding ADJ corresponding%5:00:00:similar:00
+#20 mean ADJ mean%5:00:00:normal:01
+#21 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#24 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#25 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+Thus , the alignment of the " dots " and " tips " , respectively , indicate individual variability of the 21 growth centers of each child with respect to the mean values for these boys and girls .
+12
+#0 thus ADV thus%4:02:00::
+#3 alignment NOUN alignment%1:04:00::
+#7 dot NOUN dot%1:25:00::
+#11 tip NOUN tip%1:15:00::
+#16 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#17 individual ADJ individual%5:00:00:independent:00
+#22 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#23 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#31 mean ADJ mean%5:00:00:normal:01
+#32 value NOUN value%1:09:00::
+#35 boy NOUN boy%1:18:03::
+#37 girl NOUN girl%1:18:00::,girl%1:18:04::
+The direction in which the arrow points shows how the maturity level of the growth center was changed at Completion from the level at Onset .
+7
+#1 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#6 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#11 level NOUN level%1:26:00::,level%1:26:01::
+#14 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#15 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#17 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#22 level NOUN level%1:26:00::,level%1:26:01::
+When the " dot " and " tip " coincide , the classification used in this paper is " same schedule " .
+5
+#3 dot NOUN dot%1:25:00::
+#7 tip NOUN tip%1:15:00::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 paper NOUN paper%1:10:00::
+#19 same ADJ same%3:00:00::,same%3:00:02::
+The length of the arrow indicates amount of slowing or acceleration at Completion over that at Onset , and the difference in months can be read roughly by referring the arrow to the age scale along the base of each figure , or more precisely by referring to the original data in the appropriate tables .
+11
+#1 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#5 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#25 read VERB read%2:31:09::,read%2:32:02::
+#26 roughly ADV roughly%4:02:03::
+#33 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#37 base NOUN base%1:06:00::,base%1:06:01::,base%1:15:00::,base%1:17:00::,base%1:25:00::
+#40 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#43 more ADV more%4:02:00::
+#46 refer VERB refer%2:32:12::,refer%2:38:00::
+#49 original ADJ original%5:00:01:first:00
+#54 table NOUN table%1:14:00::
+The difference between the sequence of Onset of ossification for the sexes governs the numbering sequence in Figures 3 and 4 .
+6
+#4 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#11 sex NOUN sex%1:14:00::
+#12 govern VERB govern%2:41:01::,govern%2:41:02::
+#14 number VERB number%2:30:00::
+#15 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#17 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+This difference is readily clarified by referring to Table 1 .
+3
+#4 clarify VERB clarify%2:32:00::
+#6 refer VERB refer%2:32:12::,refer%2:38:00::
+#8 table NOUN table%1:14:00::
+For example , arrow 17 in Figure 3 portrays the proximal radial epiphysis for boy 34 , whereas the same epiphysis for girl 2 is portrayed by arrow 18 in Figure 4 .
+8
+#6 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#11 radial ADJ radial%3:01:01::
+#12 epiphysis NOUN epiphysis%1:08:00::
+#14 boy NOUN boy%1:18:03::
+#19 same ADJ same%3:00:00::,same%3:00:02::
+#20 epiphysis NOUN epiphysis%1:08:00::
+#22 girl NOUN girl%1:18:00::,girl%1:18:04::
+#30 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+For the boy , this epiphysis was markedly delayed at Onset but near the mean at Completion .
+4
+#2 boy NOUN boy%1:18:03::
+#5 epiphysis NOUN epiphysis%1:08:00::
+#12 near ADJ near%3:00:00::
+#14 mean NOUN mean%1:09:00::
+Thus , the Span of its ossification was shortened and the center 's ability to " catch up " in ossification is demonstrated .
+5
+#0 thus ADV thus%4:02:00::
+#3 span NOUN span%1:07:00::
+#11 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#13 ability NOUN ability%1:09:00::
+#22 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+In contrast , for the girl the epiphysis was slightly advanced at Onset and delayed at Completion .
+4
+#5 girl NOUN girl%1:18:00::,girl%1:18:04::
+#7 epiphysis NOUN epiphysis%1:08:00::
+#9 slightly ADV slightly%4:02:01::
+#10 advanced ADJ advanced%5:00:00:precocious:00
+Obviously , the slowing for her may have occurred at any point between Onset and Completion .
+1
+#11 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+The Skeletal Age curve in the lower portion of Figure 2 shows that slowing may have occurred for her during the prepubescent period .
+3
+#2 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#9 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#22 period NOUN period%1:28:00::,period%1:28:03::
+Length of the shaft of these arrows may be evaluated according to the standard deviation values for each center in Table 1 .
+5
+#0 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#3 shaft NOUN shaft%1:06:00::
+#15 value NOUN value%1:09:00::
+#18 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#20 table NOUN table%1:14:00::
+We have attempted to simplify the extensive task of analyzing onset ages and completion ages of each child - more than 1700 values for the entire group - by constructing figures for each of the 21 centers so that the data for all 34 boys and 34 of the girls will appear together for each growth center .
+12
+#6 extensive ADJ extensive%5:00:00:large:00
+#11 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#14 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#22 value NOUN value%1:09:00::
+#30 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#36 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#40 data NOUN data%1:14:00::,datum%1:09:00::
+#44 boy NOUN boy%1:18:03::
+#49 girl NOUN girl%1:18:00::,girl%1:18:04::
+#51 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#55 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#56 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+Figures 5 and 6 are examples of our method of analyzing the results for each growth center .
+4
+#0 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#15 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#16 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+Forty other figures similar to 5 and 6 and the original data used in the construction of all figures and tables in this monograph have been included in the Appendix .
+8
+#2 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#10 original ADJ original%5:00:01:first:00
+#11 data NOUN data%1:14:00::,datum%1:09:00::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#20 table NOUN table%1:14:00::
+#26 include VERB include%2:31:00::,include%2:41:03::
+#29 appendix NOUN appendix%1:10:00::
+The principles used in making each arrow for Figures 3 and 4 were applied to the construction of Figures 5 and 6 as well as all figures in the Appendix .
+7
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#13 apply VERB apply%2:34:00::
+#18 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#26 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#29 appendix NOUN appendix%1:10:00::
+One growth center in a short bone - distal phalanx of the second finger - was chosen as an example for discussion here , primarily because epiphyseal diaphyseal fusion , the maturity indicator for Completion in long and short bones , occurs in this center for girls near the menarche and for boys near their comparable pubescent stage .
+15
+#1 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#2 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#9 phalanx NOUN phalanx%1:08:00::
+#12 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#19 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#22 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#28 fusion NOUN fusion%1:04:00::
+#32 indicator NOUN indicator%1:10:00::
+#44 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#46 girl NOUN girl%1:18:00::,girl%1:18:04::
+#47 near ADJ near%3:00:00::
+#52 boy NOUN boy%1:18:03::
+#53 near ADJ near%3:00:00::
+#56 pubescent ADJ pubescent%5:00:00:immature:01
+#57 stage NOUN stage%1:04:00::,stage%1:26:00::
+Its Completion thus becomes one of the convenient maturity indicators to include in studies of growth , dietary patterns , and health during adolescence .
+7
+#2 thus ADV thus%4:02:00::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#9 indicator NOUN indicator%1:10:00::
+#11 include VERB include%2:31:00::,include%2:41:03::
+#13 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#15 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#18 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+The following summary , based on Figures 5 and 6 , is an example of one way of interpreting the 42 figures constructed from onset ages and completion ages of individual children with respect to the appropriate mean age for each growth center .
+13
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#4 base VERB base%2:31:00::
+#6 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#13 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#16 way NOUN way%1:04:00::,way%1:09:00::
+#18 interpret VERB interpret%2:31:00::,interpret%2:32:00::,interpret%2:32:01::,interpret%2:36:00::
+#25 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#28 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#30 individual ADJ individual%5:00:00:independent:00
+#37 mean ADJ mean%5:00:00:normal:01
+#38 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#41 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#42 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+At the top of Figure 5 , for example , the Onset range and Completion range lines for the chosen growth center have been drawn for girls according to their mean and standard deviation values in Table 1 .
+11
+#2 top NOUN top%1:15:00::,top%1:15:01::
+#4 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#12 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#15 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#16 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#20 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#21 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#24 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#30 mean NOUN mean%1:09:00::
+#34 value NOUN value%1:09:00::
+#36 table NOUN table%1:14:00::
+The 34 arrows , denoting onset age plus completion age deviations , have been arrayed in an Onset sequence which begins with girl 18 who had the earliest Onset of the 34 girls .
+8
+#6 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#9 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#10 deviation NOUN deviation%1:09:00::
+#14 array VERB array%2:31:00::
+#18 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#20 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#25 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#27 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+The growth center depicted here , in the distal phalanx of the second finger , is listed as the fifth of those in the seven short bones .
+6
+#1 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#2 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 phalanx NOUN phalanx%1:08:00::
+#12 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#16 list VERB list%2:32:00::,list%2:41:00::
+The mean onset age was 25.3 months ( Table 1 ) , and the average Span of the osseous stage was 133 months .
+5
+#1 mean ADJ mean%5:00:00:normal:01
+#3 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#8 table NOUN table%1:14:00::
+#15 span NOUN span%1:07:00::
+#19 stage NOUN stage%1:04:00::,stage%1:26:00::
+The correlation ( Table 2 ) between onset age and completion age was + .50 , and that between onset age and Span was - .10 .
+5
+#3 table NOUN table%1:14:00::
+#8 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#11 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#20 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#22 span NOUN span%1:07:00::
+With due consideration for the limits of precision in assessing , expected rate of change in ossification of girls age 2 years , and the known variations in rate of ossification of these children as described in our preceding paper in the Supplement , each arrow with a " shaft length " of four months or less was selected as indicating " same schedule " at Onset and Completion , for this particular epiphysis .
+19
+#1 due ADJ due%3:00:02::
+#2 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#5 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#12 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#14 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#18 girl NOUN girl%1:18:00::,girl%1:18:04::
+#19 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#21 year NOUN years%1:28:00::
+#26 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#28 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#35 describe VERB describe%2:32:01::
+#39 paper NOUN paper%1:10:00::
+#42 supplement NOUN supplement%1:07:00::
+#49 shaft NOUN shaft%1:06:00::
+#50 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#60 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#62 same ADJ same%3:00:00::,same%3:00:02::
+#72 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#73 epiphysis NOUN epiphysis%1:08:00::
+Accordingly , girls 31 , 29 , 33 , 21 , 26 , 13 , 3 , 4 , 14 , 32 , 24 , 25 , 34 , 23 , 6 , 15 , 22 , and 16 may be said to have the " same schedule " at Onset and Completion .
+5
+#0 accordingly ADV accordingly%4:02:00::
+#2 girl NOUN girl%1:18:00::,girl%1:18:04::
+#41 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#43 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#46 same ADJ same%3:00:00::,same%3:00:02::
+It seems clear , from the counter-balanced shape of the series of arrows in Figure 5 that there was about an equal number of early and late Onsets and Completions for the 34 girls .
+10
+#2 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#7 shape NOUN shape%1:07:00::,shape%1:07:01::
+#10 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#14 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#19 about ADV about%4:02:00::
+#21 equal ADJ equal%3:00:00::
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#24 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#26 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#33 girl NOUN girl%1:18:00::,girl%1:18:04::
+Accordingly , if epiphyseal diaphyseal fusion occurs in this phalanx near menarche , early and late menarches might have been forecast rather precisely at the time of Onset of ossification for the 18 girls with " same schedule " .
+8
+#0 accordingly ADV accordingly%4:02:00::
+#5 fusion NOUN fusion%1:04:00::
+#9 phalanx NOUN phalanx%1:08:00::
+#15 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#21 rather ADV rather%4:02:00::,rather%4:02:04::
+#25 time NOUN time%1:11:00::
+#33 girl NOUN girl%1:18:00::,girl%1:18:04::
+#36 same ADJ same%3:00:00::,same%3:00:02::
+As an example of the interpretation of an arrow in the figure which exceeds four months in shaft length in conjunction with its position in the figure : girl 2 had a delayed Onset and further delayed Completion .
+9
+#2 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#11 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#17 shaft NOUN shaft%1:06:00::
+#18 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#20 conjunction NOUN conjunction%1:07:00::
+#26 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#28 girl NOUN girl%1:18:01::,girl%1:18:03::
+#30 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#35 further ADV further%4:02:02::,further%4:02:03::
+It is of interest that her menarche was somewhat later than the average for the girls in this group .
+3
+#3 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#9 late ADJ late%3:00:00::
+#15 girl NOUN girl%1:18:01::,girl%1:18:03::
+A similar analysis of Figure 6 for the 34 boys would necessitate quite a different conclusion about the predictive value of onset age in forecasting their attainment of the pubescent stage .
+8
+#4 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#9 boy NOUN boy%1:18:03::
+#12 quite ADV quite%4:02:02::
+#14 different ADJ different%3:00:00::,different%5:00:00:other:00
+#15 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#22 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#29 pubescent ADJ pubescent%5:00:00:immature:01
+#30 stage NOUN stage%1:04:00::,stage%1:26:00::
+Boys 32 , 23 , 31 , 17 , 30 , 19 , and 24 had " same schedule " at Onset and Completion ; thus early forecasting of the pubescent stage would appear possible for only seven boys .
+10
+#0 boy NOUN boy%1:18:03::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 same ADJ same%3:00:00::,same%3:00:02::
+#25 thus ADV thus%4:02:00::
+#26 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#30 pubescent ADJ pubescent%5:00:00:immature:01
+#31 stage NOUN stage%1:04:00::,stage%1:26:00::
+#33 appear VERB appear%2:30:00::
+#36 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#38 boy NOUN boy%1:18:03::
+Boy 34 , like girl 2 , did not have " same schedule " ; his arrow crosses the line denoting the mean .
+7
+#0 boy NOUN boy%1:18:03::
+#4 girl NOUN girl%1:18:01::,girl%1:18:03::
+#8 not ADV not%4:02:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 same ADJ same%3:00:00::,same%3:00:02::
+#19 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#22 mean NOUN mean%1:09:00::
+The " dot " on his arrow indicates early Onset and the " tip " indicates relatively later Completion .
+6
+#2 dot NOUN dot%1:25:00::
+#7 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#8 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#13 tip NOUN tip%1:15:00::
+#15 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#17 late ADJ late%3:00:00::
+After the 42 figures had been drawn like Figures 5 and 6 , classifications of the onset ages and completion ages were summarized from them .
+5
+#3 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#6 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#8 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#17 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#20 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::

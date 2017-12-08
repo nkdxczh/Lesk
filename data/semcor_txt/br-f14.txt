@@ -1,0 +1,532 @@
+ Everyone with a personal or group tragedy to relate had to be given his day in court as in some vast collective dirge .
+5
+#3 personal ADJ personal%5:00:00:subjective:00
+#6 tragedy NOUN tragedy%1:11:00::
+#8 relate VERB relate%2:32:00::
+#14 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#16 court NOUN court%1:06:02::,court%1:06:05::
+For almost two months , the defendant and the world heard from individuals escaped from the grave about fathers and mothers , graybeards , adolescents , babies , starved , beaten to death , strangled , machine-gunned , gassed , burned .
+10
+#9 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#13 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#16 grave NOUN grave%1:06:00::
+#18 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#20 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#22 graybeard NOUN graybeard%1:18:00::
+#28 starve VERB starve%2:34:00::
+#30 beat VERB beat%2:35:00::,beat%2:35:01::,beat%2:35:10::,beat%2:35:12::,beat%2:36:00::,beat%2:38:04::,beat%2:39:00::
+#38 gas VERB gas%2:33:00::
+#40 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+One who had been a boy in Auschwitz had to tell how children had been selected by height for the gas chambers .
+3
+#5 boy NOUN boy%1:18:03::
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#17 height NOUN height%1:07:00::,height%1:07:02::
+The gruesome humor of the Nazis was not forgotten - the gas chamber with a sign on it with the name of a Jewish foundation and bearing a copper Star of David - nor the gratuitous sadism of SS officers .
+8
+#2 humor NOUN humor%1:07:01::
+#7 not ADV not%4:02:00::
+#15 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+#24 foundation NOUN foundation%1:14:00::
+#26 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#28 copper NOUN cu%1:27:00::
+#35 gratuitous ADJ gratuitous%5:00:00:unnecessary:00
+#39 officer NOUN officer%1:18:02::,officer%1:18:03::
+Public relations strategists everywhere , watching the reaction of the German press , the liberal press , the lunatic fringe press , listening to their neighbors , studying interviews with men and women on the street , cried out : Too much , too much - the mind of the audience is becoming dulled , the horrors are losing their effect .
+14
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 press NOUN press%1:10:00::
+#14 liberal ADJ liberal%3:00:00::
+#15 press NOUN press%1:10:00::
+#20 press NOUN press%1:10:00::
+#27 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#30 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#47 mind NOUN mind%1:09:00::,mind%1:09:06::
+#50 audience NOUN audience%1:14:01::
+#52 become VERB become%2:30:00::,become%2:42:01::
+#53 dull ADJ dull%5:00:00:stupid:00
+#56 horror NOUN horror%1:12:01::
+#58 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#60 effect NOUN effect%1:09:00::,effect%1:19:00::
+And still another witness , one who had crawled out from under a heap of corpses , had to tell how the victims had been forced to lay themselves head to foot one on top of the other before being shot .
+8
+#3 witness NOUN witness%1:18:00::
+#8 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#19 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#25 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+#27 lie VERB lie%2:35:00::,lie%2:38:00::
+#29 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#31 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#40 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+Most of this testimony may have been legally admissible as bearing on the corpus delicti of the total Nazi crime but seemed subject to question when not tied to the part in it of the defendant 's Department of Jewish Affairs .
+5
+#8 admissible ADJ admissible%3:00:00::
+#17 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#26 not ADV not%4:02:00::
+#27 tie VERB tie%2:35:01::,tie%2:35:02::
+#30 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+Counsel for the defense , however , shrewdly allowing himself to be swept by the current of dreadful recollections , rarely raised an objection .
+6
+#0 counsel NOUN counsel%1:18:00::
+#5 however ADV however%4:02:04::
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#12 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#20 rarely ADV rarely%4:02:00::
+#21 raise VERB raise%2:32:01::,raise%2:37:08::
+Would not the emotional catharsis eventually brought on by this awfulness have a calming , if not exhausting , effect likely to improve his client 's chances ?
+8
+#1 not ADV not%4:02:00::
+#4 catharsis NOUN catharsis%1:04:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 calm ADJ calm%5:00:00:composed:00
+#16 not ADV not%4:02:00::
+#19 effect NOUN effect%1:09:00::,effect%1:19:00::
+#24 client NOUN client%1:18:00::
+#26 chance NOUN chance%1:07:00::,chance%1:26:00::
+Those who feared " emotionalism " at the Trial showed less understanding than Dr. Servatius of the route by which man achieves the distance necessary for fairness toward enemies .
+4
+#8 trial NOUN trial%1:04:02::
+#20 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#23 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#24 necessary ADJ necessary%3:00:00::
+Interruptions came largely from the bench , which numerous times rebuked the Attorney General for letting his witnesses run on , though it , too , made no serious effort to choke off the flow .
+9
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#5 bench NOUN bench%1:06:03::,bench%1:14:00::,bench%1:14:01::
+#9 time NOUN time%1:11:00::
+#15 let VERB let%2:30:01::,let%2:41:00::
+#17 witness NOUN witness%1:18:00::
+#24 too ADV too%4:02:01::
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#28 serious ADJ serious%3:00:00::,serious%3:00:02::
+#34 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+But there was a contrast even more decisive than a hunger for fact between the Trial in Jerusalem and those in Moscow and New York .
+3
+#6 more ADV more%4:02:00::
+#15 trial NOUN trial%1:04:02::
+#21 Moscow NOUN moscow%1:15:00::
+In each of the last , the trial marked the beginning of a new course : in Moscow the liquidation of the Old Bolsheviks and the tightening of Stalin 's dictatorship ; in the United States the initiation of militant anti Communism , with the repentant ex Communist in the vanguard .
+8
+#4 last ADJ last%5:00:00:unlikely:00
+#7 trial NOUN trial%1:04:02::
+#8 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#14 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#17 Moscow NOUN moscow%1:15:00::
+#22 old ADJ old%3:00:01::
+#37 initiation NOUN initiation%1:04:01::
+#47 communist NOUN communist%1:18:00::
+These trials were properly termed " political cases " in that the trial itself was a political act producing political consequences .
+7
+#1 trial NOUN trial%1:04:02::
+#3 properly ADV properly%4:02:00::
+#7 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#12 trial NOUN trial%1:04:02::
+#17 act NOUN act%1:03:00::
+#18 produce VERB produce%2:39:00::
+#20 consequence NOUN consequence%1:19:00::
+But what could the Eichmann Trial initiate ?
+2
+#5 trial NOUN trial%1:04:02::
+#6 initiate VERB initiate%2:30:00::
+Of what new course could it mark the beginning ?
+2
+#3 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#6 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+The Eichmann case looked to the past , not to the future .
+3
+#2 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#8 not ADV not%4:02:00::
+#11 future NOUN future%1:10:00::,future%1:28:00::
+It was the conclusion of the first phase of a process of tragic recollection , and of refining the recollection , that will last as long as there are Jews .
+6
+#3 conclusion NOUN conclusion%1:10:02::,conclusion%1:11:00::,conclusion%1:28:00::
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#7 phase NOUN phase%1:07:00::,phase%1:28:00::
+#10 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#12 tragic ADJ tragic%5:00:00:sad:00
+#23 last VERB last%2:42:00::
+As such , it was beyond politics and had no need of justification by a " message " .
+4
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 need NOUN need%1:26:00::
+#12 justification NOUN justification%1:10:00::
+#16 message NOUN message%1:10:00::,message%1:10:01::
+" It is not an individual that is in the dock at this historical trial " - said Ben Gurion , " and not the Nazi regime alone - but anti-Semitism throughout history " .
+8
+#3 not ADV not%4:02:00::
+#10 dock NOUN dock%1:06:02::
+#14 trial NOUN trial%1:04:02::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 not ADV not%4:02:00::
+#26 regime NOUN regime%1:14:00::
+#27 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#32 history NOUN history%1:28:00::
+How could supplying Eichmann with a platform on which to maintain that one could collaborate in the murder of millions of Jews without being an anti-Semite contribute to a verdict against anti-Semitism ?
+1
+#6 platform NOUN platform%1:10:00::
+And if it was not an individual who was in the dock , why was the Trial , as we shall observe later , all but scuttled in the attempt to prove Eichmann a " fiend " ?
+7
+#4 not ADV not%4:02:00::
+#11 dock NOUN dock%1:06:02::
+#16 trial NOUN trial%1:04:02::
+#21 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#22 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#26 scuttle VERB scuttle%2:38:00::
+#31 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+These questions touch the root of confusion in the prosecution 's case .
+5
+#2 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#4 root NOUN root%1:10:00::,root%1:15:00::,root%1:18:00::
+#6 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#9 prosecution NOUN prosecution%1:04:00::
+#11 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+It might be contended , of course , that Eichmann in stubbornly denying anti-Semitic feelings was lying or insisting on a private definition of anti-Semitism .
+5
+#3 contend VERB contend%2:32:01::
+#12 deny VERB deny%2:32:00::,deny%2:32:01::
+#14 feeling NOUN feeling%1:09:03::
+#16 lie VERB lie%2:32:00::
+#22 definition NOUN definition%1:10:00::
+But in either event he was the wrong man for the kind of case outlined by Ben Gurion and set forth in the indictment .
+5
+#7 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#14 outline VERB outline%2:32:00::
+#23 indictment NOUN indictment%1:10:01::
+In such a case the defendant should serve as a clear example and not have to be tied to the issue by argument .
+7
+#3 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#7 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#10 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#11 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#13 not ADV not%4:02:00::
+#17 tie VERB tie%2:35:01::,tie%2:35:02::
+#20 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+One who could be linked to anti-Semitism only by overcoming his objections is scarcely a good specimen of the Jew-baiter throughout the ages .
+3
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 good ADJ best%3:00:00::,good%3:00:01::
+#22 age NOUN age%1:28:02::,age%1:28:03::
+Shout at Eichmann though he might , the Prosecutor could not establish that the defendant was falsifying the way he felt about Jews or that what he did feel fell into the generally recognized category of anti-Semitism .
+7
+#0 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#10 not ADV not%4:02:00::
+#11 establish VERB establish%2:31:00::,establish%2:36:00::,establish%2:36:10::
+#16 falsify VERB falsify%2:30:00::
+#18 way NOUN way%1:04:00::,way%1:09:00::
+#32 generally ADV generally%4:02:02::
+#34 category NOUN category%1:14:00::
+Yes , he believed that the Jews were " enemies of the Reich " , and such a belief is , of course , typical of " patriotic " anti-Semites ; but he believed in the Jew as enemy in a kind of abstract , theological way , like a member of a cult speculating on the nature of things .
+6
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#18 belief NOUN belief%1:09:00::,belief%1:09:01::
+#33 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#50 member NOUN member%1:18:00::,member%1:24:00::
+#54 speculate VERB speculate%2:31:00::
+#57 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+The real question was how one passed from anti-Semitism of this sort to murder , and the answer to this question is not to be found in anti-Semitism itself .
+4
+#1 real ADJ real%3:00:00::,real%5:00:00:true:00
+#6 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#11 sort NOUN sort%1:09:00::,sort%1:18:00::
+#22 not ADV not%4:02:00::
+In regard to Eichmann , it was to be found in the Nazi outlook , which contained a principle separate from and far worse than anti-Semitism , a principle by which the poison of anti-Semitism itself was made more virulent .
+10
+#9 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#13 outlook NOUN outlook%1:09:01::
+#16 contain VERB contain%2:42:00::,contain%2:42:06::
+#18 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+#22 far ADV far%4:02:02::
+#23 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#28 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+#37 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#38 more ADV more%4:02:00::
+#39 virulent ADJ virulent%5:00:00:unpleasant:00
+Perhaps under the guidance of this Nazi principle one could , as Eichmann declared , feel personally friendly toward the Jews and still be their murderer .
+4
+#3 guidance NOUN guidance%1:10:00::
+#7 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+#13 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#16 personally ADV personally%4:02:03::
+Not through fear of disobeying orders , as Eichmann kept trying to explain , but through a peculiar giddiness that began in a half acceptance of the vicious absurdities contained in the Nazi interpretation of history and grew with each of Hitler 's victories into a permanent light mindedness and sense of magical rightness that was able to respond to any proposal , and the more outrageous the better , " Well , let 's try it " .
+18
+#5 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#9 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#10 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#17 peculiar ADJ peculiar%5:00:00:strange:00
+#18 giddiness NOUN giddiness%1:07:00::
+#20 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#24 acceptance NOUN acceptance%1:07:00::
+#27 vicious ADJ vicious%5:00:00:wrong:01
+#29 contain VERB contain%2:42:00::,contain%2:42:06::
+#35 history NOUN history%1:28:00::
+#37 grow VERB grow%2:30:04::
+#50 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#56 able ADJ able%3:00:00::
+#61 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#65 more ADV more%4:02:00::
+#68 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#73 let VERB let%2:32:00::
+#75 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+At any rate , the substance of Eichmann 's testimony was that all his actions flowed from his membership in the party and the SS , and though the Prosecutor did his utmost to prove actual personal hatred of Jews , his success on this score was doubtful and the anti-Semitic lesson weakened to that extent .
+7
+#5 substance NOUN substance%1:09:00::,substance%1:09:01::,substance%1:10:00::,substance%1:21:00::
+#14 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#21 party NOUN party%1:14:02::
+#34 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#36 personal ADJ personal%5:00:00:subjective:00
+#45 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#47 doubtful ADJ doubtful%5:00:00:unsettled:02
+But if the Trial did not expose the special Nazi mania so deadly to Jews as well as to anyone upon whom it happened to light , neither did it warn very effectively against the ordinary anti-Semitism of which the Nazis made such effective use in Germany and wherever else they could find it .
+8
+#3 trial NOUN trial%1:04:02::
+#5 not ADV not%4:02:00::
+#11 so ADV so%4:02:03::,so%4:02:07::
+#23 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#35 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#41 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#43 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#52 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+If anti-Semitism was on trial in Jerusalem , why was it not identified , and with enough emphasis to capture the notice of the world press , in its connection with the activities of Eichmann 's Department of Jewish Affairs , as exemplified by the betrayal and murder of Jews by non police and non-party anti-Semites in Germany , as well as in Poland , Czechoslovakia , Hungary ?
+6
+#11 not ADV not%4:02:00::
+#12 identify VERB identify%2:31:00::,identify%2:32:00::
+#21 notice NOUN notice%1:09:00::
+#25 press NOUN press%1:10:00::
+#29 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#32 activity NOUN activity%1:04:00::,activity%1:26:00::
+The infamous Wansee Conference called by Heydrich in January 1942 , to organize the material and technical means to put to death the eleven million Jews spread throughout the nations of Europe , was attended by representatives of major organs of the German state , including the Reich Minister of the Interior , the State Secretary in charge of the Four Year Plan , the Reich Minister of Justice , the Under Secretary of Foreign Affairs .
+10
+#4 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#12 organize VERB organize%2:31:00::,organize%2:36:00::
+#14 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#16 technical ADJ technical%3:00:00::,technical%3:01:03::
+#17 means NOUN means%1:06:00::
+#34 attend VERB attend%2:42:00::
+#36 representative NOUN representative%1:18:00::
+#38 major ADJ major%3:00:05::,major%3:00:06::
+#39 organ NOUN organ%1:14:00::
+#45 include VERB include%2:42:00::
+The measures for annihilation proposed and accepted at the Conference affected industry , transportation , civilian agencies of government .
+8
+#1 measure NOUN measure%1:04:01::,measure%1:10:02::
+#4 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#6 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#9 conference NOUN conference%1:14:00::
+#10 affect VERB affect%2:30:00::,affect%2:42:00::
+#11 industry NOUN industry%1:04:00::,industry%1:14:00::
+#13 transportation NOUN transportation%1:04:00::
+#18 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+Heydrich , in opening the Conference , followed the reasoning and even the phraseology of the order issued earlier by Goering which authorized the Final Solution as " a complement to " previous " solutions " for eliminating the Jews from German living space through violence , economic strangulation , forced emigration , and evacuation .
+11
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#5 conference NOUN conference%1:14:00::
+#7 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+#9 reason NOUN reason%1:09:01::,reason%1:16:00::
+#16 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#17 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#18 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#29 complement NOUN complement%1:07:00::
+#32 previous ADJ previous%5:00:00:preceding:00
+#34 solution NOUN solution%1:09:00::,solution%1:10:00::
+#54 evacuation NOUN evacuation%1:04:01::
+In other words , the promulgators of the murder plan made clear that physically exterminating the Jews was but an extension of the anti-Semitic measures already operating in every phase of German life , and that the new conspiracy counted on the general anti-Semitism that had made those measures effective , as a readiness for murder .
+13
+#9 plan NOUN plan%1:09:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#20 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#24 measure NOUN measure%1:04:01::,measure%1:10:02::
+#25 already ADV already%4:02:00::
+#26 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#29 phase NOUN phase%1:07:00::,phase%1:28:00::
+#32 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#42 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#46 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#49 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#53 readiness NOUN readiness%1:07:01::
+Since the magnitude of the plan made secrecy impossible , once the wheels had began to turn , persons controlling German industries , social institutions , and armed forces became , through their anti-Semitism or their tolerance of it , conscious accomplices of Hitler 's crimes ; whether in the last degree or a lesser one was a matter to be determined individually .
+17
+#5 plan NOUN plan%1:09:01::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 once CONJ once%4:02:02::
+#12 wheel NOUN wheel%1:06:00::,wheel%1:06:01::,wheel%1:06:03::,wheel%1:06:05::,wheel%1:07:00::
+#14 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#18 person NOUN person%1:03:00::,person%1:08:00::
+#19 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#21 industry NOUN industry%1:04:00::,industry%1:14:00::
+#23 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#24 institution NOUN institution%1:14:00::
+#29 become VERB become%2:30:00::,become%2:42:01::
+#36 tolerance NOUN tolerance%1:07:03::
+#50 last ADJ last%5:00:00:unlikely:00
+#51 degree NOUN degree%1:07:01::,degree%1:09:00::,degree%1:23:03::,degree%1:26:01::
+#58 matter NOUN matter%1:09:00::,matter%1:09:01::
+#61 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+What more could be asked for a Trial intended to warn the world against anti-Semitism than this opportunity to expose the exact link between the respectable anti-Semite and the concentration-camp brute ?
+6
+#4 ask VERB ask%2:32:01::,ask%2:32:05::
+#7 trial NOUN trial%1:04:02::
+#8 intend VERB intend%2:31:01::
+#12 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#22 link NOUN link%1:24:00::
+#25 respectable ADJ respectable%5:00:00:reputable:00
+Not in Eichmann 's anti-Semitism but in the anti-Semitism of the sober German man of affairs lay the potential warning of the Trial .
+2
+#16 lie VERB lie%2:42:03::
+#22 trial NOUN trial%1:04:02::
+No doubt many of the citizens of the Third Reich had conceived their anti-Semitism as an " innocent " dislike of Jews , as do others like them today .
+2
+#11 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#17 innocent ADJ innocent%5:00:00:uninformed:00
+The Final Solution proved that the Jew-baiter of any variety exposes himself as being implicated in the criminality and madness of others .
+2
+#3 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#9 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+Ought not an edifying Trial have made every effort to demonstrate this once and for all by showing how representative types of " mere " anti-Semites were drawn step by step into the program of skull bashings and gassings ?
+7
+#4 trial NOUN trial%1:04:02::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#19 representative ADJ representative%5:00:00:democratic:00
+#20 type NOUN type%1:18:00::
+#27 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#33 program NOUN program%1:09:00::,program%1:09:01::
+The Prosecutor in his opening remarks did refer to " the germ of anti-Semitism " among the Germans which Hitler " stimulated and transformed " .
+4
+#4 opening ADJ opening%3:00:00::
+#7 refer VERB refer%2:32:00::,refer%2:42:00::
+#11 germ NOUN germ%1:08:00::
+#17 German NOUN german%1:18:00::
+But if there was evidence at the Trial that aimed over Eichmann 's head at his collaborators in the societies where he functioned , the press seems to have missed it .
+6
+#7 trial NOUN trial%1:04:02::
+#9 aim VERB aim%2:31:02::,aim%2:33:00::
+#16 collaborator NOUN collaborator%1:18:00::
+#19 society NOUN society%1:14:00::,society%1:14:02::
+#25 press NOUN press%1:10:00::
+#29 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+Nor did the Trial devote much attention to exposing the usefulness of anti-Semitism to the Nazis , both in building their own power and in destroying that of rival organizations and states .
+6
+#3 trial NOUN trial%1:04:02::
+#4 devote VERB devote%2:31:00::
+#6 attention NOUN attention%1:04:01::,attention%1:04:02::,attention%1:09:02::
+#21 own ADJ own%5:00:00:personal:00
+#22 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#29 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+Certainly , one of the best ways of warning the world against anti-Semitism is to demonstrate its workings as a dangerous weapon .
+5
+#5 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#6 way NOUN way%1:04:00::,way%1:09:00::
+#10 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#15 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#17 working NOUN workings%1:06:01::
+Eichmann himself is a model of how the myth of the enemy Jew can be used to transform the ordinary man of present-day society into a menace to all his neighbors .
+6
+#4 model NOUN model%1:09:00::,model%1:18:01::
+#8 myth NOUN myth%1:10:00::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#19 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#20 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#23 society NOUN society%1:14:00::,society%1:14:02::
+Do patriots everywhere know enough about how the persecution of the Jews in Germany and later in the occupied countries contributed to terrorizing the populations , splitting apart individuals and groups , arousing the meanest and most dishonest impulses , pulverizing trust and personal dignity , and finally forcing people to follow their masters into the abyss by making them partners in unspeakable crimes ?
+14
+#1 patriot NOUN patriot%1:18:00::
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#18 occupied ADJ occupied%3:00:02::
+#19 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#27 apart ADV apart%4:02:03::
+#32 arouse VERB arouse%2:37:00::
+#34 mean ADJ mean%5:00:00:ignoble:01,mean%5:00:00:nasty:00
+#36 most ADV most%4:02:00::
+#41 trust NOUN trust%1:07:00::
+#48 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+#49 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#58 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#60 partner NOUN partner%1:18:02::
+The career of Eichmann made the Trial a potential showcase for anti-Semitic demoralization :
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 trial NOUN trial%1:04:02::
+fearful of being mistaken for a Jew , he seeks protection in his Nazi uniform ; clinging to the enemy Jew idea , he is forced to overcome habits of politeness and neighborliness ; once in power he begins to give vent to a criminal opportunism that causes him to alternate between megalomania and envy of those above him .
+8
+#0 fearful ADJ fearful%5:00:00:afraid:00
+#14 uniform NOUN uniform%1:06:00::
+#21 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#25 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#28 habit NOUN habit%1:04:02::
+#34 once CONJ once%4:02:02::
+#36 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#38 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+" Is this the type of citizen you desire " ? the Trial should have asked the nations .
+3
+#4 type NOUN type%1:18:00::
+#12 trial NOUN trial%1:04:02::
+#15 ask VERB ask%2:32:00::,ask%2:32:04::
+But though this characterization in no way diminished Eichmann 's guilt , the Prosecutor , more deeply involved in the tactics of a criminal case than a political one , would have none of it .
+3
+#15 more ADV more%4:02:00::
+#17 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#24 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+Finally , if the mission of the Trial was to convict anti-Semitism , how could it have failed to post before the world the contrasting fates of the countries in which the Final Solution was aided by native Jew haters - i.e. , Germany , Poland , Hungary , Czechoslovakia - and those in which it met the obstacle of human solidarity - Denmark , Holland , Italy , Bulgaria , France ?
+9
+#4 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#7 trial NOUN trial%1:04:02::
+#22 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#25 fate NOUN fate%1:18:00::
+#28 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#37 native ADJ native%3:00:02::
+#56 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#61 solidarity NOUN solidarity%1:07:00::
+#65 Holland NOUN holland%1:15:00::
+Should not everyone have been awakened to it as an outstanding fact of our time that the nations poisoned by anti-Semitism proved less fortunate in regard to their own freedom than those whose citizens saved their Jewish compatriots from the transports ?
+7
+#10 outstanding ADJ outstanding%5:00:00:unpaid:00
+#14 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#21 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#22 less ADV less%4:02:00::,less%4:02:01::
+#28 own ADJ own%5:00:00:personal:00
+#34 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#40 transport NOUN transport%1:06:00::
+Was n't this meaning of Eichmann 's experience in various countries worth highlighting ?
+3
+#3 meaning NOUN meaning%1:09:00::
+#10 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#12 highlight VERB highlight%2:30:00::
+As the first collective confrontation of the Nazi outrage , the Trial of Eichmann represents a recovery of the Jews from the shock of the death camps , a recovery that took fifteen years and which is still by no means complete ( though let no one believe that it could be hastened by silence ) .
+10
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#11 trial NOUN trial%1:04:02::
+#14 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#16 recovery NOUN recovery%1:11:00::
+#22 shock NOUN shock%1:26:00::
+#26 camp NOUN camp%1:06:01::,camp%1:14:00::
+#29 recovery NOUN recovery%1:11:00::
+#31 take VERB take%2:40:06::,take%2:42:03::
+#41 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#47 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+Only across a distance of time could the epic accounting begin .
+4
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#9 account NOUN account%1:10:03::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+It is already difficult to recall how little we knew before the Trial of what had been done to the Jews of Europe .
+5
+#2 already ADV already%4:02:00::
+#5 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#7 little ADV little%4:02:00::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 trial NOUN trial%1:04:02::
+It is not that the facts of the persecution were unavailable ; most of the information elicited in Jerusalem had been brought to the surface by the numerous War Crimes tribunals and investigating commissions , and by reports , memoirs , and survivors ' accounts .
+7
+#2 not ADV not%4:02:00::
+#10 unavailable ADJ unavailable%3:00:00::
+#15 information NOUN information%1:09:00::,information%1:10:02::
+#33 commission NOUN commission%1:14:00::
+#37 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#39 memoir NOUN memoir%1:10:00::
+#44 account NOUN account%1:10:03::

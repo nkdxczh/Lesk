@@ -1,0 +1,726 @@
+ Payne dismounted in Madison Place and handed the reins to Herold .
+2
+#1 dismount VERB dismount%2:38:00::
+#6 hand VERB hand%2:40:00::
+There was a fog , which increased the darkness of the night .
+3
+#3 fog NOUN fog%1:26:01::
+#8 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#11 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+Two gas lamps were no more than a misleading glow .
+1
+#4 no ADV no%4:02:01::
+The pretence was that he was delivering a prescription from Dr. Verdi .
+3
+#1 pretense NOUN pretence%1:04:00::
+#6 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#8 prescription NOUN prescription%1:10:00::
+Secretary of State Seward was a sick man .
+1
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The idea had come from Herold , who had once been a chemist 's clerk .
+3
+#1 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#12 chemist NOUN chemist%1:18:01::
+The sick were always receiving medicines .
+3
+#1 sick ADJ sick%3:00:01::
+#3 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#5 medicine NOUN medicine%1:04:00::
+Before Payne loomed the Old Clubhouse , Seward 's home , where Key had once been killed .
+2
+#9 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#16 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Now it would have another death .
+1
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+From the outside it was an ordinary enough house of the gentry .
+2
+#6 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+He clomped heavily up the stoop and rang the bell .
+4
+#2 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+#5 stoop NOUN stoop%1:06:01::
+#7 ring VERB ring%2:39:00::,ring%2:39:01::
+#9 bell NOUN bell%1:28:00::
+Like the bell at Mass , the doorbell was pitched too high .
+3
+#2 bell NOUN bell%1:28:00::
+#10 too ADV too%4:02:00::
+#11 high ADJ high%3:00:01::,high%3:00:02::
+It was still Good Friday , after all .
+1
+#2 still ADV still%4:02:00::
+A nigger boy opened the door .
+1
+#2 boy NOUN boy%1:18:03::
+Payne did not notice him .
+1
+#2 not ADV not%4:02:00::
+He was thinking chiefly of Cap .
+1
+#2 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+If their schedules were to synchronize , there was no point in wasting time .
+2
+#2 schedule NOUN schedule%1:09:00::
+#10 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+He pushed his way inside .
+1
+#3 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+For a moment the hall confused him .
+2
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#4 hall NOUN hall%1:06:03::,hall%1:06:05::
+This was the largest house he had ever been in , almost the largest building , except for a hotel .
+6
+#3 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#7 ever ADV ever%4:02:05::
+#13 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 building NOUN building%1:06:00::
+#19 hotel NOUN hotel%1:06:00::
+He had no idea where Seward 's room would be .
+2
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#7 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+In the half darkness the banisters gleamed , and the hall seemed enormous .
+2
+#3 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#10 hall NOUN hall%1:06:03::,hall%1:06:05::
+Seward would be up there .
+1
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He explained his errand , but without bothering much to make it plausible , for he felt something well up in him which was the reason why he had fled the army .
+4
+#7 bother VERB bother%2:41:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#25 reason NOUN reason%1:09:01::,reason%1:16:00::
+He did not really want to kill , but as in the sexual act , there was a moment when the impulse took over and could not be downed , even while you watched yourself giving way to it .
+6
+#3 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#18 moment NOUN moment%1:28:00::,moment%1:28:01::
+#21 impulse NOUN impulse%1:12:01::
+#26 not ADV not%4:02:00::
+#33 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+He knew that in this mood he could not be stopped .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 mood NOUN mood%1:12:00::
+#8 not ADV not%4:02:00::
+Still , the sensation always surprised him .
+3
+#0 still ADV still%4:02:04::
+#3 sensation NOUN sensation%1:09:00::
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+It was a thrill he felt no part in .
+2
+#5 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#7 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+He could only watch with a sort of gentle dismay while his body did these quick , appalling , and efficient things .
+7
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#6 sort NOUN sort%1:09:00::,sort%1:18:00::
+#8 gentle ADJ gentle%5:00:00:mild:00
+#12 body NOUN body%1:08:00::,body%1:08:02::
+#15 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#21 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+He brushed by the idiotic boy and lumbered heavily up the stairs .
+4
+#1 brush VERB brush%2:30:00::,brush%2:35:00::
+#5 boy NOUN boy%1:18:03::
+#7 lumber VERB lumber%2:38:00::
+#8 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+They were carpeted , but made for pumps and congress gaiters , not the great clodhoppers he wore .
+4
+#7 pump NOUN pump%1:06:01::
+#14 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#15 clodhopper NOUN clodhopper%1:06:00::
+#17 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+The sound of his footsteps was like a muffled drum .
+2
+#1 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#9 drum NOUN drum%1:11:00::
+At the top of the stairs he ran into somebody standing there angrily in a dressing gown .
+3
+#2 top NOUN top%1:15:00::,top%1:15:01::
+#10 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#11 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He stopped and whispered his errand .
+1
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Young Frederick Seward held out his hand .
+1
+#6 hand NOUN hand%1:08:00::,hand%1:10:01::
+Panting a little , Payne shook his head .
+2
+#5 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#7 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Dr. Verdi had told him to deliver his package in person .
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+Frederick Seward said his father was sleeping , and then went through a pantomime at his father 's door , to prove the statement .
+7
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#6 sleep VERB sleep%2:29:00::
+#9 then ADV then%4:02:00::
+#13 pantomime NOUN pantomime%1:04:00::
+#16 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#21 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+" Very well " , Payne said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He smiled , but now that he knew where the elder Seward was , he did not intend to go .
+3
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 intend VERB intend%2:31:01::,intend%2:32:00::
+He pulled out his pistol and fired it .
+2
+#4 pistol NOUN pistol%1:06:00::
+#6 fire VERB fire%2:33:00::,fire%2:33:02::
+It made no sound .
+2
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+Reversing it , he smashed the butt down on Frederick Seward 's head , over and over again .
+4
+#4 smash VERB smash%2:30:10::
+#6 butt NOUN butt%1:06:00::
+#7 down ADV down%4:02:00::,down%4:02:02::
+#12 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+It was the first blow that was always difficult .
+3
+#3 first ADJ first%3:00:00::,first%4:02:00::
+#4 blow NOUN blow%1:04:01::
+#7 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+After that , violence was exultantly easy .
+1
+#6 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+He got caught up into it and became a different person .
+4
+#1 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#9 different ADJ different%5:00:00:unusual:00
+#10 person NOUN person%1:03:00::,person%1:08:00::
+Only afterwards did an act like that become meaningless , so that he would puzzle over it for days , whereas at the time it had seemed quite real .
+7
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 act NOUN act%1:03:00::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 time NOUN time%1:11:00::
+#27 quite ADV quite%4:02:02::
+#28 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+The nigger boy fled down the stairs , screaming , " Murder " .
+1
+#2 boy NOUN boy%1:18:03::
+He was merely clearing a way to what he had to do .
+1
+#3 clear VERB clear%2:30:01::,clear%2:32:09::
+He ran for the sick room , found his pistol was broken , and threw it away .
+3
+#1 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#9 pistol NOUN pistol%1:06:00::
+#11 broken ADJ broken%5:00:00:incomplete:00
+Someone blocked the door from inside .
+1
+#1 block VERB block%2:33:00::
+He smashed it in and tumbled into darkness .
+3
+#1 smash VERB smash%2:30:10::
+#5 tumble VERB tumble%2:30:00::
+#7 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+He saw only dimly moving figures , but when he slashed them they yelled and fled .
+3
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 moving ADJ moving%3:00:02::
+#5 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+He went for the bed , jumped on it , and struck where he could , repeatedly .
+2
+#4 bed NOUN bed%1:06:00::
+#11 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+It was like finally getting into one 's own nightmares to punish one 's dreams .
+1
+#8 own ADJ own%5:00:00:personal:00
+Two men pulled him off .
+2
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+Nobody said anything .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Payne hacked at their arms .
+2
+#1 hack VERB hack%2:35:02::
+#4 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+There was a lady there , in a nightdress .
+2
+#3 lady NOUN lady%1:18:01::,lady%1:18:02::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He would not have wanted to hurt a lady .
+3
+#2 not ADV not%4:02:00::
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 lady NOUN lady%1:18:01::,lady%1:18:02::
+Another man approached , this one fully dressed .
+3
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#6 fully ADV fully%4:02:04::
+When the knife went into his chest , he went down at once .
+1
+#6 chest NOUN chest%1:08:00::,chest%1:08:01::
+" I'm mad " , shouted Payne , as he ran out into the hall .
+1
+#5 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+That would have made things so much easier .
+4
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#7 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+He was only dreaming .
+2
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 dream VERB dream%2:36:00::,dream%2:39:00::
+Somewhere in the fog , the nigger boy was still yelling murder .
+3
+#3 fog NOUN fog%1:26:01::
+#7 boy NOUN boy%1:18:03::
+#9 still ADV still%4:02:00::
+One always wakes up , even from one 's own dreams .
+2
+#1 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#9 own ADJ own%5:00:00:personal:00
+The clammy air revived him .
+1
+#2 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+Well , one did not expect much of people like Herold .
+1
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+He unhitched his horse , walked it away , mounted , and spurred it on .
+5
+#3 horse NOUN horse%1:05:00::,horse%1:14:00::
+#5 walk VERB walk%2:38:00::,walk%2:38:01::,walk%2:38:05::
+#7 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#9 mount VERB mount%2:35:07::,mount%2:38:00::,mount%2:38:01::
+#14 on ADV on%4:02:00::
+The nigger boy was close behind him .
+2
+#2 boy NOUN boy%1:18:03::
+#4 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+Then the nigger boy turned back and he was alone .
+3
+#0 then ADV then%4:02:00::
+#3 boy NOUN boy%1:18:03::
+#9 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+He rode on and on .
+3
+#1 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#2 on ADV on%4:02:00::
+#4 on ADV on%4:02:00::
+He had no idea where he was .
+1
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+After some time he came to an open field .
+3
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#8 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+An open field was better than a building , that was for sure , so he dismounted , turned off the horse , and plunged through the grass .
+7
+#1 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#2 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#7 building NOUN building%1:06:00::
+#16 dismount VERB dismount%2:38:00::
+#18 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#21 horse NOUN horse%1:05:00::,horse%1:14:00::
+#27 grass NOUN grass%1:20:00::
+He felt curiously sleepy , the world seemed far away ; he knew he should get to Cap , but he did n't know how .
+5
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#8 far ADV far%4:02:00::
+#9 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#23 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He was sure , for he had done as he was told , had n't he ?
+1
+#11 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Cap would find him and take care of him .
+2
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#6 care NOUN care%1:04:02::
+So choosing a good tree , he clambered up into it , found a comfortable notch , and curled up in it to sleep , like the tousled bear he was , with his hands across his chest , as though surfeited with honey .
+10
+#4 tree NOUN tree%1:20:00::
+#8 up ADV up%4:02:00::,up%4:02:02::
+#12 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 comfortable ADJ comfortable%3:00:01::
+#15 notch NOUN notch%1:06:00::
+#23 sleep VERB sleep%2:29:00::
+#28 bear NOUN bear%1:05:00::
+#34 hand NOUN hand%1:08:00::,hand%1:10:01::
+#37 chest NOUN chest%1:08:00::,chest%1:08:01::
+#43 honey NOUN honey%1:13:00::
+Violence always made him tired , but he was not frightened .
+2
+#1 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+In Boston , Edwin Booth was winding up a performance of A New Way to Pay Old Debts .
+2
+#1 Boston NOUN boston%1:15:00::
+#9 performance NOUN performance%1:04:01::,performance%1:10:00::
+It was a part so familiar to him that he did not bother to think about it any more .
+5
+#3 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#5 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#11 not ADV not%4:02:00::
+#12 bother VERB bother%2:41:00::
+Acting soothed him .
+1
+#0 acting NOUN acting%1:04:00::
+On a stage he always knew what to do , and tonight , to judge by the applause , he must be doing it better than usual .
+4
+#2 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 better ADV better%4:02:00::
+As Sir Giles Overreach ( how often had he had to play that part , who did not believe a word of it ) , he raised his arm and declaimed : " Where is my honour now " ?
+9
+#11 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#13 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#17 not ADV not%4:02:00::
+#18 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#20 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#26 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#28 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#36 honor NOUN honor%1:07:00::
+#37 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+That was one of the high spots of the play .
+2
+#6 spot NOUN spot%1:10:01::,spot%1:15:01::
+#9 play NOUN play%1:10:01::,play%1:10:03::
+The audience , as usual , loved it .
+1
+#1 audience NOUN audience%1:14:01::
+He was delighted to see them so happy .
+3
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#7 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+If he had any worries , it was only the small ones , about Mother in New York , and his daughter Edwina and what she might be doing at this hour , with her Aunt Asia , in Philadelphia .
+3
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#31 hour NOUN hour%1:28:01::,hour%1:28:02::
+Everyone is ambivalent about his profession , if he has practised it long enough , but there were still moments when he loved the stage and all those unseen people out there , who might cheer you or boo you , but that was largely , though not entirely , up to you .
+9
+#5 profession NOUN profession%1:14:00::
+#13 enough ADV enough%4:02:00::
+#19 moment NOUN moment%1:28:00::,moment%1:28:01::
+#24 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#29 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#31 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#35 cheer VERB cheer%2:32:01::
+#38 boo VERB boo%2:32:00::
+#47 not ADV not%4:02:00::
+They made the world seem friendly somehow , though he knew it was not .
+3
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Wilkes was quite right about one thing .
+2
+#2 quite ADV quite%4:02:02::
+#3 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+The commotion had brought her into the wings .
+1
+#7 wing NOUN wing%1:06:03::,wing%1:14:01::,wing%1:18:00::
+Since she could not act , one part suited her as well as any other , and so she was the first person to offer Mr. Lincoln a glass of water , holding it up to the box , high above her head , to Miss Harris , who had asked for it .
+13
+#4 act VERB act%2:29:00::,act%2:36:00::
+#8 suit VERB suit%2:42:00::
+#11 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#14 other ADJ other%3:00:00::
+#21 first ADJ first%3:00:00::,first%4:02:00::
+#22 person NOUN person%1:03:00::,person%1:08:00::
+#30 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#32 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#34 up ADV up%4:02:00::,up%4:02:02::
+#37 box NOUN box%1:06:02::
+#39 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#42 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#50 ask VERB ask%2:32:01::,ask%2:32:05::
+She had been one of the first to collect her wits .
+3
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#8 collect VERB collect%2:35:00::
+#10 wit NOUN wit%1:09:00::
+It was not so much that the shot had stunned the audience , as that they had been stunned already .
+3
+#3 so ADV so%4:02:03::,so%4:02:07::
+#11 audience NOUN audience%1:14:01::
+#19 already ADV already%4:02:00::
+Most of them had seen Our American Cousin before , and unless Miss Keene was on stage , there was not much to it .
+3
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 before ADV before%4:02:03::
+#16 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+The theatre was hot and they were drugged with boredom .
+1
+#3 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+The stage had been empty , except for Harry Hawk , doing his star monologue .
+3
+#1 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#4 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#13 star NOUN star%1:18:02::
+The audience was fond of Harry Hawk , he was a dear , in or out of character , but he was not particularly funny .
+5
+#1 audience NOUN audience%1:14:01::
+#11 dear NOUN dear%1:18:00::
+#17 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#23 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#24 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+At the end of the monologue the audience would applaud .
+2
+#2 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#7 audience NOUN audience%1:14:01::
+Meanwhile it looked at the scenery .
+1
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+" Well , I guess I know enough to turn you inside out , you sockdologizing old mantrap " ! said Trenchard , otherwise Hawk .
+4
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 enough ADV enough%4:02:00::
+#16 old ADJ old%3:00:01::,old%3:00:02::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+There was always a pause here , before the next line .
+4
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 next ADJ next%5:00:00:close:01
+#10 line NOUN line%1:10:02::,line%1:25:00::
+Guns were going off all over Washington City these days , because of the celebrations , and the theatre was not soundproof .
+1
+#9 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Then the audience saw a small , dim figure appear at the edge of the Presidential box .
+7
+#0 then ADV then%4:02:00::
+#2 audience NOUN audience%1:14:01::
+#7 dim ADJ dim%5:00:00:dark:01
+#8 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#9 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#12 edge NOUN edge%1:06:01::
+#16 box NOUN box%1:06:02::
+" Sic semper tyrannis " , it said mildly .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Booth had delivered his line .
+2
+#2 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+#4 line NOUN line%1:10:02::,line%1:25:00::
+Behind him billowed a small pungent cloud of smoke .
+1
+#6 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+They strained forward .
+2
+#1 strain VERB strain%2:33:00::
+#2 forward ADV forward%4:02:00::,forward%4:02:04::
+They had not heard what had been said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+They had been sitting too long to be able to stand up easily .
+4
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#4 too ADV too%4:02:00::
+#8 able ADJ able%3:00:00::
+#12 easily ADV easily%4:02:01::,easily%4:02:06::
+The figure leapt from the box , almost lost its balance , the flag draped there tore in the air , the figure landed on its left leg , fell on its hands , and pressed itself up .
+15
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#5 box NOUN box%1:06:02::
+#8 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#10 balance NOUN balance%1:26:00::
+#13 flag NOUN flag%1:06:00::
+#15 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#19 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#22 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#23 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#26 left ADJ left%5:00:00:unexhausted:00
+#27 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#29 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#32 hand NOUN hand%1:08:00::,hand%1:10:01::
+#35 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#37 up ADV up%4:02:00::,up%4:02:02::
+Harry Hawk still had his arm raised towards the wings .
+4
+#2 still ADV still%4:02:00::
+#5 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#6 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#9 wing NOUN wing%1:06:03::,wing%1:14:01::,wing%1:18:00::
+His speech faltered .
+1
+#1 speech NOUN speech%1:09:00::,speech%1:10:00::,speech%1:10:05::
+He did not lower his arm .
+2
+#3 lower VERB lower%2:30:01::
+#5 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+The figure was so theatrically dressed , that it was as though a character from some other play had blundered into this one .
+5
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#3 so ADV so%4:02:03::,so%4:02:07::
+#13 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#16 other ADJ other%3:00:00::
+#17 play NOUN play%1:10:01::,play%1:10:03::
+The play for Saturday night was to be a benefit performance of The Octoroon .
+4
+#1 play NOUN play%1:10:01::,play%1:10:03::
+#4 night NOUN night%1:28:00::
+#9 benefit NOUN benefit%1:07:00::
+#10 performance NOUN performance%1:04:01::,performance%1:10:00::
+This figure looked like the slave dealer from that .
+1
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+But it also looked like a toad , hopping away from the light .
+4
+#6 toad NOUN toad%1:05:00::
+#8 hop VERB hop%2:38:04::
+#9 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#12 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+There was something maimed and crazy about its motion that disturbed them .
+2
+#5 crazy ADJ crazy%5:00:00:insane:00
+#8 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+Then it disappeared into the wings .
+3
+#0 then ADV then%4:02:00::
+#2 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#5 wing NOUN wing%1:06:03::,wing%1:14:01::,wing%1:18:00::
+Harry Hawk had not shifted position , but he at last lowered his arm .
+4
+#3 not ADV not%4:02:00::
+#5 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#11 lower VERB lower%2:30:01::
+#13 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+It was what anyone who had ever seen her had always expected her to do .
+2
+#6 ever ADV ever%4:02:05::
+#10 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+Yet this scream had a different note in it .
+3
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 different ADJ different%5:00:00:unusual:00
+#6 note NOUN note%1:07:00::,note%1:10:02::
+That absence of an urgent self-indulgence dashed them awake like a pail of water .
+2
+#6 dash VERB dash%2:35:02::
+#13 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Clara Harris , one of the guests in the box , stood up and demanded water .
+2
+#9 box NOUN box%1:06:02::
+#15 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Her action was involuntary .
+2
+#1 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#3 involuntary ADJ involuntary%3:00:02::
+When something unexpected happened , one always asked for water if one were a woman , brandy if one were a man .
+4
+#3 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#9 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#21 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+In the Presidential box someone leaned over the balustrade and yelled : " He has shot the President " !
+2
+#3 box NOUN box%1:06:02::
+#15 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+That got everybody up .
+1
+#3 up ADV up%4:02:00::,up%4:02:02::
+On the stage , Harry Hawk began to weep .
+3
+#2 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 weep VERB weep%2:29:00::
+Laura Keene brushed by him with the glass of water .
+2
+#2 brush VERB brush%2:30:00::,brush%2:35:00::
+#9 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+The crowd began to move .
+2
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+It was not exactly panic they gave way to , but they could not just sit there .
+5
+#3 exactly ADV exactly%4:02:02::
+#13 not ADV not%4:02:00::
+#14 just ADV just%4:02:00::,just%4:02:03::
+#15 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#16 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+The beehive voices , for no one could bear silence , drowned out the sound of Mrs. Lincoln 's weeping .
+2
+#2 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#14 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+At the rear of the auditorium , upstairs , some men tried to push open the door to the box corridor .
+4
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 push VERB push%2:32:01::,push%2:38:00::
+#19 box NOUN box%1:06:02::
+A Dr. Charles Taft clambered up on the stage and got the actors to hoist him up to the box .
+5
+#5 up ADV up%4:02:00::,up%4:02:02::
+#8 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#10 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#16 up ADV up%4:02:00::,up%4:02:02::
+#19 box NOUN box%1:06:02::
+In the audience a man named Ferguson lost his head and tried to rescue a little girl from the mob , on the same principle which had led Miss Harris to demand water .
+10
+#2 audience NOUN audience%1:14:01::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#7 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#23 same ADJ same%3:00:00::,same%3:00:02::
+#24 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+#27 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#32 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Someone opened the corridor door from the inside , and called for a doctor .
+2
+#1 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#13 doctor NOUN doctor%1:18:00::
+Somehow Dr. Charles Leale was forced through the mob and squeezed out into the dingy corridor .
+1
+#5 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+He went straight to the Presidential box .
+3
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#2 straight ADV straight%4:02:05::
+#6 box NOUN box%1:06:02::
+As usual , Mrs. Lincoln had lost her head , but nobody blamed her for doing so now .
+4
+#6 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#8 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#16 so ADV so%4:02:04::
+#17 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+There was a little blood on the hem of her dress , for the assassin had slashed Miss Harris 's companion , Major Rathbone , with a knife .
+4
+#4 blood NOUN blood%1:04:00::,blood%1:08:00::
+#7 hem NOUN hem%1:06:00::
+#10 dress NOUN dress%1:06:00::
+#20 companion NOUN companion%1:18:00::
+Rathbone said he was bleeding to death .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 bleed VERB bleed%2:38:00::
+By the look of him he was n't that far gone .
+1
+#2 look NOUN look%1:07:00::

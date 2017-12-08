@@ -1,0 +1,682 @@
+ A tsunami may be started by a sea bottom slide , an earthquake or a volcanic eruption .
+1
+#9 slide NOUN slide%1:06:03::
+The most infamous of all was launched by the explosion of the island of Krakatoa in 1883 ; it raced across the Pacific at 300 miles an hour , devastated the coasts of Java and Sumatra with waves 100 to 130 feet high , and pounded the shore as far away as San Francisco .
+12
+#1 most ADV most%4:02:00::
+#6 launch VERB launch%2:35:00::,launch%2:35:04::
+#12 island NOUN island%1:06:00::
+#19 race VERB race%2:38:00::
+#22 pacific NOUN pacific%1:17:00::
+#27 hour NOUN hour%1:07:00::,hours%1:28:01::
+#31 coast NOUN coast%1:17:00::
+#33 Java NOUN java%1:15:00::
+#41 foot NOUN foot%1:23:00::
+#42 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#45 pound VERB pound%2:35:00::
+#47 shore NOUN shore%1:17:00::
+The ancient Greeks recorded several catastrophic inundations by huge waves .
+5
+#2 Greek NOUN greek%1:18:00::
+#3 record VERB record%2:32:00::,record%2:32:03::
+#5 catastrophic ADJ catastrophic%5:00:02:harmful:00
+#6 inundation NOUN inundation%1:19:00::
+#9 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+Whether or not Plato 's tale of the lost continent of Atlantis is true , skeptics concede that the myth may have some foundation in a great tsunami of ancient times .
+10
+#5 tale NOUN tale%1:10:00::
+#8 lost ADJ lost%3:00:01::
+#13 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#15 skeptic NOUN sceptic%1:18:00::
+#16 concede VERB concede%2:32:00::,concede%2:33:00::
+#19 myth NOUN myth%1:10:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 foundation NOUN foundation%1:24:00::
+#26 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#30 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+Indeed , a tremendously destructive tsunami that arose in the Arabian Sea in 1945 has even revived the interest of geologists and archaeologists in the Biblical story of the Flood .
+3
+#7 arise VERB arise%2:30:00::,arise%2:42:01::
+#18 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#26 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+One of the most damaging tsunami on record followed the famous Lisbon earthquake of November 1 , 1755 ; its waves persisted for a week and were felt as far away as the English coast .
+7
+#3 most ADV most%4:02:00::
+#7 record NOUN record%1:10:03::,record%1:21:00::
+#8 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#14 November NOUN november%1:28:00::
+#20 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#27 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#34 coast NOUN coast%1:17:00::
+Tsunami are rare , however , in the Atlantic Ocean ; they are far more common in the Pacific .
+6
+#2 rare ADJ rare%5:00:00:scarce:00
+#4 however ADV however%4:02:04::
+#13 far ADV far%4:02:02::
+#14 more ADV more%4:02:00::
+#15 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#18 pacific NOUN pacific%1:17:00::
+Japan has had 15 destructive ones ( eight of them disastrous ) since 1596 .
+1
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The Hawaiian Islands are struck severely an average of once every 25 years .
+4
+#4 strike VERB strike%2:33:00::,strike%2:35:00::,strike%2:35:03::,strike%2:37:00::,strike%2:39:00::
+#5 severely ADV severely%4:02:01::
+#7 average NOUN average%1:09:01::
+#9 once ADV once%4:02:00::
+In 1707 an earthquake in Japan generated waves so huge that they piled into the Inland Sea ; one wave swamped more than 1000 ships and boats in Osaka Bay .
+3
+#7 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#19 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#26 boat NOUN boat%1:06:00::
+A tsunami in the Hawaiian Islands in 1869 washed away an entire town ( Ponoluu ) , leaving only two forlorn trees standing where the community had been .
+8
+#8 wash VERB wash%2:30:08::,wash%2:35:01::,wash%2:38:01::
+#9 away ADV away%4:02:04::
+#17 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#20 forlorn ADJ forlorn%5:00:00:hopeless:00
+#21 tree NOUN tree%1:20:00::
+#22 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#25 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+In 1896 a Japanese tsunami killed 27000 people and swept away 10000 homes .
+3
+#5 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#12 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The dimensions of these waves dwarf all our usual standards of measurement .
+2
+#1 dimension NOUN dimension%1:07:00::
+#4 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+An ordinary sea wave is rarely more than a few hundred feet long from crest to crest - no longer than 320 feet in the Atlantic or 1000 feet in the Pacific .
+12
+#1 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#3 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#5 rarely ADV rarely%4:02:00::
+#11 foot NOUN foot%1:23:00::
+#12 long ADJ long%3:00:01::
+#14 crest NOUN crest%1:15:01::
+#16 crest NOUN crest%1:15:01::
+#18 no ADV no%4:02:01::
+#19 long ADJ long%3:00:01::
+#22 foot NOUN foot%1:23:00::
+#28 foot NOUN foot%1:23:00::
+#31 pacific NOUN pacific%1:17:00::
+But a tsunami often extends more than 100 miles and sometimes as much as 600 miles from crest to crest .
+3
+#4 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#17 crest NOUN crest%1:15:01::
+#19 crest NOUN crest%1:15:01::
+While a wind wave never travels at more than 60 miles per hour , the velocity of a tsunami in the open sea must be reckoned in hundreds of miles per hour .
+5
+#2 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#4 never ADV never%4:02:00::
+#5 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#21 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#25 reckon VERB reckon%2:31:01::
+The greater the depth of the water , the greater is the speed of the wave ; Lagrange 's law says that its velocity is equal to the square root of the product of the depth times the acceleration due to gravity .
+11
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#3 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 speed NOUN speed%1:04:00::,speed%1:07:00::
+#15 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#19 law NOUN law%1:09:00::,law%1:09:01::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 equal ADJ equal%3:00:00::
+#32 product NOUN product%1:09:00::
+#35 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#41 gravity NOUN gravity%1:19:00::
+In the deep waters of the Pacific these waves reach a speed of 500 miles per hour .
+5
+#2 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#3 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#6 pacific NOUN pacific%1:17:00::
+#8 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#9 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Tsunami are so shallow in comparison with their length that in the open ocean they are hardly detectable .
+5
+#2 so ADV so%4:02:03::,so%4:02:07::
+#5 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#8 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#12 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#16 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+Their amplitude sometimes is as little as two feet from trough to crest .
+3
+#1 amplitude NOUN amplitude%1:07:01::
+#8 foot NOUN foot%1:23:00::
+#12 crest NOUN crest%1:15:01::
+Usually it is only when they approach shallow water on the shore that they build up to their terrifying heights .
+3
+#6 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#8 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#11 shore NOUN shore%1:17:00::
+On the fateful day in 1896 when the great waves approached Japan , fishermen at sea noticed no unusual swells .
+5
+#3 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#9 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#10 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#19 swell NOUN swell%1:11:00::
+Not until they sailed home at the end of the day , through a sea strewn with bodies and the wreckage of houses , were they aware of what had happened .
+7
+#0 not ADV not%4:02:00::
+#3 sail VERB sail%2:38:00::
+#7 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#10 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#17 body NOUN body%1:08:00::,body%1:08:02::
+#22 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#30 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+The seemingly quiet ocean had crashed a wall of water from 10 to 100 feet high upon beaches crowded with bathers , drowning thousands of them and flattening villages along the shore .
+7
+#2 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#5 crash VERB crash%2:38:04::
+#9 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#14 foot NOUN foot%1:23:00::
+#15 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#27 flatten VERB flatten%2:30:01::
+#31 shore NOUN shore%1:17:00::
+The giant waves are more dangerous on flat shores than on steep ones .
+5
+#2 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#4 more ADV more%4:02:00::
+#7 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#8 shore NOUN shore%1:17:00::
+#11 steep ADJ steep%5:00:00:high:01
+They usually range from 20 to 60 feet in height , but when they pour into a V shaped inlet or harbor they may rise to mountainous proportions .
+4
+#2 range VERB range%2:42:00::
+#7 foot NOUN foot%1:23:00::
+#19 inlet NOUN inlet%1:17:00::
+#24 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+Generally the first salvo of a tsunami is a rather sharp swell , not different enough from an ordinary wave to alarm casual observers .
+9
+#0 generally ADV generally%4:02:01::
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#9 rather ADV rather%4:02:00::,rather%4:02:04::
+#11 swell NOUN swell%1:11:00::
+#13 not ADV not%4:02:00::
+#18 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#19 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#21 alarm VERB alarm%2:32:00::
+#22 casual ADJ casual%5:00:00:unconcerned:00
+This is followed by a tremendous suck of water away from the shore as the first great trough arrives .
+6
+#2 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#8 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#9 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#12 shore NOUN shore%1:17:00::
+#15 first ADJ first%3:00:00::,first%4:02:00::
+#16 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+Reefs are left high and dry , and the beaches are covered with stranded fish .
+5
+#0 reef NOUN reef%1:17:00::
+#2 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#11 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#13 stranded ADJ stranded%5:00:00:unaccompanied:00
+#14 fish NOUN fish%1:13:00::
+At Hilo large numbers of people ran out to inspect the amazing spectacle of the denuded beach .
+3
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#6 run VERB run%2:38:04::,run%2:38:11::
+#7 out ADV out%4:02:04::
+Many of them paid for their curiosity with their lives , for some minutes later the first giant wave roared over the shore .
+6
+#6 curiosity NOUN curiosity%1:09:00::
+#13 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#14 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#18 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#22 shore NOUN shore%1:17:00::
+After an earthquake in Japan in 1793 people on the coast at Tugaru were so terrified by the extraordinary ebbing of the sea that they scurried to higher ground .
+5
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#10 coast NOUN coast%1:17:00::
+#14 so ADV so%4:02:03::,so%4:02:07::
+#27 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#28 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+When a second quake came , they dashed back to the beach , fearing that they might be buried under landslides .
+6
+#2 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#4 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#7 dash VERB dash%2:38:00::
+#8 back ADV back%4:02:01::,back%4:02:04::
+#18 bury VERB bury%2:39:00::
+#20 landslide NOUN landslide%1:11:00::
+Just as they reached the shore , the first huge wave crashed upon them .
+6
+#0 just ADV just%4:02:05::
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#5 shore NOUN shore%1:17:00::
+#8 first ADJ first%3:00:00::,first%4:02:00::
+#10 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#11 crash VERB crash%2:38:04::
+A tsunami is not a single wave but a series .
+4
+#3 not ADV not%4:02:00::
+#5 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#6 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#9 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+The waves are separated by intervals of 15 minutes to an hour or more ( because of their great length ) , and this has often lulled people into thinking after the first great wave has crashed that it is all over .
+12
+#1 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#3 separate VERB separate%2:35:00::,separate%2:35:01::,separate%2:38:00::,separate%2:41:01::,separate%2:41:02::,separated%5:00:00:distributed:00
+#5 interval NOUN interval%1:09:00::
+#11 hour NOUN hour%1:07:00::,hours%1:28:01::
+#18 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#19 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#27 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#29 think VERB think%2:31:01::,think%2:31:03::
+#32 first ADJ first%3:00:00::,first%4:02:00::
+#33 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#34 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#36 crash VERB crash%2:38:04::
+The waves may keep coming for many hours .
+3
+#1 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#7 hour NOUN hour%1:07:00::,hours%1:28:01::
+Usually the third to the eighth waves in the series are the biggest .
+3
+#6 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#9 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#12 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+Among the observers of the 1946 tsunami at Hilo was Francis P. Shepard of the Scripps Institution of Oceanography , one of the world 's foremost marine geologists .
+1
+#23 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+He was able to make a detailed inspection of the waves .
+2
+#2 able ADJ able%3:00:00::
+#10 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+Their onrush and retreat , he reported , was accompanied by a great hissing , roaring and rattling .
+5
+#3 retreat NOUN retreat%1:04:02::
+#6 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#9 accompany VERB accompany%2:42:00::
+#12 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#17 rattle NOUN rattle%1:11:00::
+The third and fourth waves seemed to be the highest .
+2
+#4 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#9 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+On some of the islands ' beaches the waves came in gently ; they were steepest on the shores facing the direction of the seaquake from which the waves had come .
+8
+#4 island NOUN island%1:06:00::
+#8 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#15 steep ADJ steep%5:00:00:high:01
+#18 shore NOUN shore%1:17:00::
+#19 face VERB face%2:38:00::,face%2:42:00::
+#21 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#28 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#30 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+In Hilo Bay they were from 21 to 26 feet high .
+2
+#9 foot NOUN foot%1:23:00::
+#10 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+The highest waves , 55 feet , occurred at Pololu Valley .
+3
+#1 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#2 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#5 foot NOUN foot%1:23:00::
+Scientists and fishermen have occasionally seen strange by-products of the phenomenon .
+3
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#6 strange ADJ strange%3:00:01::,strange%5:00:01:unfamiliar:00
+#10 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+The luminosity of the water is now believed to have been caused by the stimulation of vast numbers of the luminescent organism Noctiluca miliaris by the turbulence of the sea .
+3
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 believe VERB believe%2:31:03::
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Japanese fishermen have sometimes observed that sardines hauled up in their nets during a tsunami have enormously swollen stomachs ; the fish have swallowed vast numbers of bottom living diatoms , raised to the surface by the disturbance .
+11
+#4 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#6 sardine NOUN sardine%1:13:00::
+#7 haul VERB haul%2:35:01::
+#11 net NOUN net%1:06:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+#21 fish NOUN fish%1:13:00::
+#25 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#27 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#31 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#34 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+The waves of a 1923 tsunami in Sagami Bay brought to the surface and battered to death huge numbers of fishes that normally live at a depth of 3000 feet .
+7
+#1 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#12 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#14 batter VERB batter%1:13:00::
+#18 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#20 fish NOUN fish%1:13:00::
+#22 normally ADV normally%4:02:00::
+#29 foot NOUN foot%1:23:00::
+Gratified fishermen hauled them in by the thousands .
+1
+#2 haul VERB haul%2:35:01::
+The tsunami warning system developed since the 1946 disaster in Hawaii relies mainly on a simple and ingenious instrument devised by Commander C. K. Green of the Coast and Geodetic Survey staff .
+6
+#3 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#4 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#15 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#18 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#19 devise VERB devise%2:36:00::
+#31 staff NOUN staff%1:14:00::,staff%1:14:01::
+It consists of a series of pipes and a pressure measuring chamber which record the rise and fall of the water surface .
+9
+#4 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#6 pipe NOUN pipe%1:06:00::
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#11 chamber NOUN chamber%1:08:00::
+#13 record VERB record%2:32:00::,record%2:32:03::
+#15 rise NOUN rise%1:17:00::
+#17 fall NOUN fall%1:11:01::
+#20 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#21 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Ordinary water tides are disregarded .
+2
+#0 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#1 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+But when waves with a period of between 10 and 40 minutes begin to roll over the ocean , they set in motion a corresponding oscillation in a column of mercury which closes an electric circuit .
+8
+#2 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#11 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#12 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#24 corresponding ADJ corresponding%5:00:00:similar:00
+#25 oscillation NOUN oscillation%1:11:00::
+#28 column NOUN column%1:06:01::,column%1:25:02::
+#30 mercury NOUN mercury%1:07:00::
+#32 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+This in turn sets off an alarm , notifying the observers at the station that a tsunami is in progress .
+1
+#13 station NOUN station%1:06:00::
+Such equipment has been installed at Hilo , Midway , Attu and Dutch Harbor .
+1
+#4 install VERB install%2:35:00::
+The moment the alarm goes off , information is immediately forwarded to Honolulu , which is the center of the warning system .
+4
+#1 moment NOUN moment%1:28:00::,moment%1:28:01::
+#7 information NOUN information%1:09:00::,information%1:10:02::
+#10 forward VERB forward%2:38:00::
+#21 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+This center also receives prompt reports on earthquakes from four Coast Survey stations in the Pacific which are equipped with seismographs .
+3
+#5 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#12 station NOUN station%1:06:00::
+#15 pacific NOUN pacific%1:17:00::
+Its staff makes a preliminary determination of the epicenter of the quake and alerts tide stations near the epicenter for a tsunami .
+3
+#1 staff NOUN staff%1:14:00::,staff%1:14:01::
+#5 determination NOUN determination%1:04:01::
+#15 station NOUN station%1:06:00::
+By means of charts showing wave travel times and depths in the ocean at various locations , it is possible to estimate the rate of approach and probable time of arrival at Hawaii of a tsunami getting under way at any spot in the Pacific .
+10
+#1 means NOUN means%1:06:00::
+#4 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#5 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#7 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#9 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#23 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#25 approach NOUN approach%1:04:00::,approach%1:07:01::,approach%1:15:00::
+#36 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#41 spot NOUN spot%1:10:01::,spot%1:15:01::
+#44 pacific NOUN pacific%1:17:00::
+The civil and military authorities are then advised of the danger , and they issue warnings and take all necessary protective steps .
+6
+#1 civil ADJ civil%5:00:00:civilian:00
+#4 authority NOUN authority%1:18:01::
+#14 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#17 take VERB take%2:31:02::,take%2:34:00::
+#19 necessary ADJ necessary%3:00:00::
+#21 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+All of these activities are geared to a top priority communication system , and practice tests have been held to assure that everything will work smoothly .
+7
+#3 activity NOUN activity%1:04:00::,activity%1:26:00::
+#14 practice NOUN practice%1:04:02::
+#15 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#18 hold VERB hold%2:36:00::,holding%1:04:00::
+#20 assure VERB assure%2:31:00::,assure%2:32:03::
+#24 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#25 smoothly ADV smoothly%4:02:00::
+Since the 1946 disaster there have been 15 tsunami in the Pacific , but only one was of any consequence .
+2
+#11 pacific NOUN pacific%1:17:00::
+#19 consequence NOUN consequence%1:07:00::
+On November 4 , 1952 , an earthquake occurred under the sea off the Kamchatka Peninsula .
+1
+#1 November NOUN november%1:28:00::
+At 17 : 07 that afternoon ( Greenwich time ) the shock was recorded by the seismograph alarm in Honolulu .
+2
+#11 shock NOUN shock%1:04:01::
+#13 record VERB record%2:32:00::,record%2:32:03::
+The warning system immediately went into action .
+2
+#2 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#6 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+Within about an hour with the help of reports from seismic stations in Alaska , Arizona and California , the quake 's epicenter was placed at 51 degrees North latitude and 158 degrees East longitude .
+7
+#3 hour NOUN hour%1:07:00::,hours%1:28:01::
+#6 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#8 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#11 station NOUN station%1:06:00::
+#28 north NOUN north%1:24:00::,north%1:24:02::
+#29 latitude NOUN latitude%1:15:00::
+#33 east NOUN east%1:15:02::
+While accounts of the progress of the tsunami came in from various points in the Pacific ( Midway reported it was covered with nine feet of water ) , the Hawaiian station made its calculations and notified the military services and the police that the first big wave would arrive at Honolulu at 23 : 30 Greenwich time .
+12
+#1 account NOUN account%1:10:03::
+#12 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#15 pacific NOUN pacific%1:17:00::
+#18 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#21 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#24 foot NOUN foot%1:23:00::
+#26 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#30 Hawaiian ADJ hawaiian%3:01:00::
+#31 station NOUN station%1:06:00::
+#45 first ADJ first%3:00:00::,first%4:02:00::
+#46 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#47 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+It turned out that the waves were not so high as in 1946 .
+3
+#5 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#7 not ADV not%4:02:00::
+#9 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+They hurled a cement barge against a freighter in Honolulu Harbor , knocked down telephone lines , marooned automobiles , flooded lawns , killed six cows .
+3
+#20 flood VERB flood%2:30:00::
+#21 lawn NOUN lawn%1:15:00::
+#23 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+But not a single human life was lost , and property damage in the Hawaiian Islands did not exceed $ 800000 .
+6
+#1 not ADV not%4:02:00::
+#3 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#7 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#10 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#11 damage NOUN damage%1:04:00::
+#17 not ADV not%4:02:00::
+There is little doubt that the warning system saved lives and reduced the damage .
+5
+#7 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#8 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#9 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#11 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#13 damage NOUN damage%1:04:00::
+But it is plain that a warning system , however efficient , is not enough .
+3
+#3 plain ADJ plain%5:00:00:obvious:00
+#9 however ADV however%4:02:00::,however%4:02:02::
+#13 not ADV not%4:02:00::
+In the vulnerable areas of the Pacific there should be restrictions against building homes on exposed coasts , or at least a requirement that they be either raised off the ground or anchored strongly against waves .
+6
+#3 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#6 pacific NOUN pacific%1:17:00::
+#13 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#30 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#32 anchor VERB anchor%2:35:00::
+#35 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+The key to the world of geology is change ; nothing remains the same .
+4
+#1 key NOUN key%1:09:00::,key%1:10:01::,key%1:10:02::,key%1:10:03::
+#4 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#8 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#13 same ADJ same%3:00:00::,same%3:00:02::
+Life has evolved from simple combinations of molecules in the sea to complex combinations in man .
+7
+#0 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#2 evolve VERB evolve%2:30:00::
+#4 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#5 combination NOUN combination%1:04:00::,combination%1:14:00::
+#12 complex ADJ complex%3:00:00::
+#13 combination NOUN combination%1:04:00::,combination%1:14:00::
+#15 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+The land , too , is changing , and earthquakes are daily reminders of this .
+3
+#1 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#3 too ADV too%4:02:01::
+#6 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Earthquakes result when movements in the earth twist rocks until they break .
+5
+#3 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#6 earth NOUN earth%1:15:00::,earth%1:17:01::
+#7 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#8 rock NOUN rock%1:17:01::,rock%1:27:00::
+#11 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+Sometimes this is accompanied by visible shifts of the ground surface ; often the shifts cannot be seen , but they are there ; and everywhere can be found scars of earlier breaks once deeply buried .
+11
+#3 accompany VERB accompany%2:42:00::
+#5 visible ADJ visible%3:00:00::
+#6 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#9 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#10 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#14 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#28 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#29 scar NOUN scar%1:26:00::
+#31 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#33 once ADV once%4:02:01::
+Today 's earthquakes are most numerous in belts where the earth 's restlessness is presently concentrated , but scars of the past show that there is no part of the earth that has not had them .
+10
+#4 most ADV most%4:02:00::
+#7 belt NOUN belt%1:06:00::
+#10 earth NOUN earth%1:15:00::,earth%1:17:01::
+#14 presently ADV presently%4:02:00::
+#18 scar NOUN scar%1:26:00::
+#21 past NOUN past%1:28:01::
+#27 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#30 earth NOUN earth%1:15:00::,earth%1:17:01::
+#33 not ADV not%4:02:00::
+#34 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The effects of earthquakes on civilization have been widely publicized , even overemphasized .
+2
+#1 effect NOUN effect%1:09:00::,effect%1:19:00::
+#8 widely ADV widely%4:02:01::
+The role of an earthquake in starting the destruction of whole cities is tremendously frightening , but fire may actually be the principal agent in a particular disaster .
+7
+#10 whole ADJ whole%3:00:00::
+#11 city NOUN city%1:15:00::,city%1:15:01::
+#17 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#19 actually ADV actually%4:02:01::
+#22 principal ADJ principal%5:00:00:important:00
+#23 agent NOUN agent%1:10:00::,agent%1:17:00::
+#26 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+Superstition has often blended with fact to color reports .
+2
+#7 color VERB color%2:41:00::
+#8 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+We have learned from earthquakes much of what we now know about the earth 's interior , for they send waves through the earth which emerge with information about the materials through which they have traveled .
+11
+#2 learn VERB learn%2:31:01::,learn%2:31:03::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 earth NOUN earth%1:15:00::,earth%1:17:01::
+#15 interior NOUN interior%1:15:00::
+#19 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#20 wave NOUN wave%1:11:00::
+#23 earth NOUN earth%1:15:00::,earth%1:17:01::
+#27 information NOUN information%1:10:00::,information%1:14:00::
+#30 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#35 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+These waves have shown that 1800 miles below the surface a liquid core begins , and that it , in turn , has a solid inner core .
+9
+#1 wave NOUN wave%1:11:00::
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#9 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#11 liquid ADJ liquid%3:00:00::
+#12 core NOUN core%1:17:00::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+#26 core NOUN core%1:17:00::
+Earthquakes originate as far as 400 miles below the surface , but they do not occur at greater depths .
+5
+#3 far ADV far%4:02:00::
+#9 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#14 not ADV not%4:02:00::
+#17 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#18 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+Two unsolved mysteries are based on these facts .
+2
+#2 mystery NOUN mystery%1:09:00::
+#4 base VERB base%2:31:00::
+( 1 ) As far down as 400 miles below the surface the material should be hot enough to be plastic and adjust itself to twisting forces by sluggish flow rather than by breaking , as rigid surface rocks do .
+14
+#4 far ADV far%4:02:00::
+#5 down ADV down%4:02:00::,down%4:02:02::
+#11 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#13 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#16 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#17 enough ADV enough%4:02:00::
+#20 plastic ADJ plastic%5:00:00:constructive:00
+#22 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#26 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#29 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#30 rather ADV rather%4:02:02::
+#33 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#36 rigid ADJ rigid%3:00:00::
+#38 rock NOUN rock%1:17:01::,rock%1:27:00::
+( 2 ) If earthquakes do occur at such depths , why not deeper ?
+2
+#9 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+#12 not ADV not%4:02:00::
+Knowledge gained from studying earthquake waves has been applied in various fields .
+6
+#0 knowledge NOUN knowledge%1:03:00::
+#1 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#3 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#5 wave NOUN wave%1:11:00::
+#8 apply VERB apply%2:34:00::
+#11 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+In the search for oil and gas , we make similar waves under controlled conditions with dynamite and learn from them where there are buried rock structures favorable to the accumulation of these resources .
+9
+#4 oil NOUN oil%1:27:00::
+#6 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 wave NOUN wave%1:11:00::
+#14 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#18 learn VERB learn%2:31:01::,learn%2:31:03::
+#25 rock NOUN rock%1:13:00::,rock%1:17:01::
+#27 favorable ADJ favorable%5:00:00:propitious:00
+#33 resource NOUN resource%1:07:00::,resource%1:21:00::
+We have also developed techniques for recognizing and locating underground nuclear tests through the waves in the ground which they generate .
+6
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#6 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#10 nuclear ADJ nuclear%3:00:00::
+#11 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#14 wave NOUN wave%1:11:00::
+#17 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+The following discussion of this subject has been adapted from the book Causes of Catastrophe by L. Don Leet .
+3
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#5 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#11 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+At twelve minutes after five on the morning of Wednesday , April 18 , 1906 , San Francisco was shaken by a severe earthquake .
+4
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+#19 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#22 severe ADJ severe%5:00:01:bad:00
+A sharp tremor was followed by a jerky roll .
+2
+#4 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#7 jerky ADJ jerky%5:00:00:sudden:00

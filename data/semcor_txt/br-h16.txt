@@ -1,0 +1,535 @@
+ A former du Pont official became a General Motors vice president and set about maximizing du Pont 's share of the General Motors market .
+4
+#1 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#5 become VERB become%2:30:00::,become%2:42:01::
+#18 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#23 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+Lines of communications were established between the two companies and several du Pont products were actively promoted .
+3
+#2 communication NOUN communication%1:10:01::,communication%1:24:00::
+#4 establish VERB establish%2:36:01::,establish%2:41:00::
+#13 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+Within a few years various du Pont manufactured items were filling the entire requirements of from four to seven of General Motors ' eight operating divisions .
+2
+#3 year NOUN year%1:28:00::,year%1:28:01::
+#25 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+The Fisher Body division , long controlled by the Fisher brothers under a voting trust even though General Motors owned a majority of its stock , followed an independent course for many years , but by 1947 and 1948 " resistance had collapsed " and its purchases from du Pont " compared favorably " with purchases by other General Motors divisions .
+17
+#3 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+#5 long ADV long%4:02:00::
+#6 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#10 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#19 own VERB owned%3:00:00::
+#21 majority NOUN majority%1:07:00::,majority%1:23:00::
+#24 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#26 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#28 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#29 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#32 year NOUN year%1:28:00::,year%1:28:01::
+#40 resistance NOUN resistance%1:04:00::
+#46 purchase NOUN purchase%1:04:00::
+#51 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#55 purchase NOUN purchase%1:04:00::
+#57 other ADJ other%3:00:00::
+#60 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+Competitors came to receive higher percentage of General Motors business in later years , but it is " likely " that this trend stemmed " at least in part " from the needs of General Motors outstripping du Pont 's capacity .
+7
+#3 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#4 high ADJ high%3:00:02::
+#12 year NOUN year%1:28:00::,year%1:28:01::
+#18 likely ADJ likely%3:00:00::
+#23 stem VERB stem%2:42:00::
+#32 need NOUN need%1:17:00::
+#40 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+" The fact that sticks out in this voluminous record is that the bulk of du Pont 's production has always supplied the largest part of the requirements of the one customer in the automobile industry connected to du Pont by a stock interest .
+8
+#9 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+#18 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#20 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#23 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#24 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#31 customer NOUN customer%1:18:00::
+#42 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#43 interest NOUN interest%1:21:03::
+The inference is overwhelming that du Pont 's commanding position was promoted by its stock interest and was not gained solely on competitive merit " .
+6
+#9 position NOUN position%1:26:00::
+#14 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#15 interest NOUN interest%1:21:03::
+#18 not ADV not%4:02:00::
+#19 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#22 competitive ADJ competitive%3:00:00::
+This Court agreed with the trial court " that considerations of price , quality and service were not overlooked by either du Pont or General Motors " .
+7
+#2 agree VERB agree%2:32:00::,agree%2:32:01::
+#9 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#11 price NOUN price%1:07:01::,price%1:21:00::
+#13 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#15 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#17 not ADV not%4:02:00::
+#18 overlook VERB overlook%2:39:01::
+However , it determined that neither this factor , nor " the fact that all concerned in high executive posts in both companies acted honorably and fairly , each in the honest conviction that his actions were in the best interests of his own company and without any design to overreach anyone , including du Pont 's competitors " , 353 U. S. , at 607 , outweighed the Government 's claim for relief .
+13
+#0 however ADV however%4:02:04::
+#7 factor NOUN factor%1:08:00::,factor%1:18:00::
+#19 post NOUN post%1:04:00::
+#23 act VERB act%2:29:00::,act%2:41:00::
+#26 fairly ADV fairly%4:02:03::
+#32 conviction NOUN conviction%1:09:00::
+#35 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#40 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#43 own ADJ own%5:00:00:personal:00
+#50 overreach VERB overreach%2:41:00::
+#53 include VERB include%2:31:00::,include%2:41:03::
+#69 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#71 claim NOUN claim%1:04:00::,claim%1:07:01::,claim%1:07:02::,claim%1:10:00::
+This claim , as submitted to the District Court and dismissed by it , 126 F. Supp .235 , alleged violation not only of 7 of the Clayton Act , but also of 1 and 2 of the Sherman Act .
+2
+#1 claim NOUN claim%1:04:00::,claim%1:07:01::,claim%1:07:02::,claim%1:10:00::
+#4 submit VERB submit%2:32:00::,submit%2:32:01::
+The latter provisions proscribe any contract , combination , or conspiracy in restraint of interstate or foreign trade , and monopolization of , or attempts , combinations , or conspiracies to monopolize , such trade .
+4
+#1 latter ADJ latter%3:00:00::
+#2 provision NOUN provision%1:10:00::
+#16 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#26 combination NOUN combination%1:04:00::,combination%1:14:00::
+However , this Court put to one side without consideration the Government 's appeal from the dismissal of its Sherman Act allegations .
+5
+#0 however ADV however%4:02:04::
+#7 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#9 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#16 dismissal NOUN dismissal%1:10:00::
+It rested its decision solely on 7 , which reads in pertinent part : " [ N ] o corporation engaged in commerce shall acquire , directly or indirectly , the whole or any part of the stock or other share capital of another corporation engaged also in commerce , where the effect of such acquisition may be to substantially lessen competition between the corporation whose stock is so acquired and the corporation making the acquisition , or to restrain such commerce in any section or community , or tend to create a monopoly of any line of commerce .
+25
+#20 engaged ADJ engaged%5:00:00:occupied:00
+#22 commerce NOUN commerce%1:04:00::
+#26 directly ADV directly%4:02:05::
+#28 indirectly ADV indirectly%4:02:00::
+#31 whole NOUN whole%4:02:00::
+#37 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#39 other ADJ other%5:00:02:past:00
+#40 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#41 capital NOUN capital%1:21:00::,capital%1:21:01::
+#45 engage VERB engage%2:40:00::,engage%2:40:01::,engage%2:41:06::
+#48 commerce NOUN commerce%1:04:00::
+#52 effect NOUN effect%1:09:00::,effect%1:19:00::
+#55 acquisition NOUN acquisition%1:04:00::
+#59 substantially ADV substantially%4:02:01::
+#66 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#68 so ADV so%4:02:04::
+#73 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#75 acquisition NOUN acquisition%1:04:00::
+#81 commerce NOUN commerce%1:04:00::
+#84 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#86 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#89 tend VERB tend%2:42:01::
+#93 monopoly NOUN monopoly%1:26:02::
+#96 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#98 commerce NOUN commerce%1:04:00::
+This section shall not apply to corporations purchasing such stock solely for investment and not using the same by voting or otherwise to bring about , or in attempting to bring about , the substantial lessening of competition " .
+9
+#1 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#3 not ADV not%4:02:00::
+#4 apply VERB apply%2:42:00::
+#7 purchase VERB purchase%2:40:00::
+#9 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#12 investment NOUN investment%1:21:00::
+#14 not ADV not%4:02:00::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#34 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+The purpose of this provision was thus explained in the Court 's opinion : " Section 7 is designed to arrest in its incipiency not only the substantial lessening of competition from the acquisition by one corporation of the whole or any part of the stock of a competing corporation , but also to arrest in their incipiency restraints or monopolies in a relevant market which , as a reasonable probability , appear at the time of suit likely to result from the acquisition by one corporation of all or any part of the stock of any other corporation .
+19
+#4 provision NOUN provision%1:10:00::
+#6 thus ADV thus%4:02:01::
+#15 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#20 arrest VERB arrest%2:35:01::,arrest%2:38:00::
+#27 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#33 acquisition NOUN acquisition%1:04:00::
+#39 whole NOUN whole%4:02:00::
+#45 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#54 arrest VERB arrest%2:35:01::,arrest%2:38:00::
+#58 restraint NOUN restraint%1:09:00::
+#60 monopoly NOUN monopoly%1:26:02::
+#64 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#69 reasonable ADJ reasonable%5:00:00:moderate:00
+#72 appear VERB appear%2:30:00::
+#75 time NOUN time%1:11:00::
+#77 suit NOUN suit%1:18:00::
+#91 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#94 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#97 other ADJ other%5:00:02:past:00
+The section is violated whether or not actual restraints or monopolies , or the substantial lessening of competition , have occurred or are intended " .
+6
+#1 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#7 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#8 restraint NOUN restraint%1:09:00::
+#10 monopoly NOUN monopoly%1:26:02::
+#14 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#23 intend VERB intend%2:31:01::,intend%2:32:00::
+Thus , a finding of conspiracy to restrain trade or attempt to monopolize was excluded from the Court 's decision .
+2
+#0 thus ADV thus%4:02:00::
+#3 finding NOUN finding%1:04:00::,finding%1:04:01::
+Indeed , as already noted , the Court proceeded on the assumption that the executives involved in the dealings between du Pont and General Motors acted " honorably and fairly " and exercised their business judgment only to serve what they deemed the best interests of their own companies .
+15
+#0 indeed ADV indeed%4:02:03::
+#3 already ADV already%4:02:00::
+#4 note VERB note%2:32:00::,note%2:39:00::
+#11 assumption NOUN assumption%1:09:00::
+#14 executive NOUN executive%1:18:00::
+#18 dealing NOUN dealing%1:04:02::
+#29 fairly ADV fairly%4:02:03::
+#32 exercise VERB exercise%2:34:00::
+#35 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#36 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#38 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#43 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#44 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#47 own ADJ own%5:00:00:personal:00
+#48 company NOUN company%1:14:03::
+This , however , did not bar finding that du Pont had become pre-eminent as a supplier of automotive fabrics and finishes to General Motors ; that these products constituted a " line of commerce " within the meaning of the Clayton Act ; that General Motors ' share of the market for these products was substantial ; and that competition for this share of the market was endangered by the financial relationship between the two concerns :
+18
+#2 however ADV however%4:02:04::
+#5 not ADV not%4:02:00::
+#6 bar VERB bar%2:32:00::
+#7 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 become VERB become%2:30:00::,become%2:42:01::
+#19 fabric NOUN fabric%1:07:00::
+#21 finish NOUN finish%1:26:00::
+#28 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#29 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#34 commerce NOUN commerce%1:04:00::
+#38 meaning NOUN meaning%1:09:00::
+#48 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#51 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#54 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#56 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#63 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#66 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#76 concern NOUN concern%1:09:00::
+" The statutory policy of fostering free competition is obviously furthered when no supplier has an advantage over his competitors from an acquisition of his customer 's stock likely to have the effects condemned by the statute .
+7
+#3 policy NOUN policy%1:09:00::,policy%1:10:00::
+#5 foster VERB foster%2:41:00::
+#6 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 customer NOUN customer%1:18:00::
+#27 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#32 effect NOUN effect%1:09:00::,effect%1:19:00::
+We repeat , that the test of a violation of 7 is whether , at the time of suit , there is a reasonable probability that the acquisition is likely to result in the condemned restraints .
+6
+#1 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#5 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#16 time NOUN time%1:11:00::
+#18 suit NOUN suit%1:18:00::
+#23 reasonable ADJ reasonable%5:00:00:moderate:00
+#35 restraint NOUN restraint%1:09:00::
+The conclusion upon this record is inescapable that such likelihood was proved as to this acquisition " .
+3
+#1 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#4 record NOUN record%1:10:03::,record%1:21:00::
+#11 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+On the basis of the findings which led to this conclusion , the Court remanded the case to the District Court to determine the appropriate relief .
+4
+#5 finding NOUN finding%1:04:00::,finding%1:04:01::
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#16 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#22 determine VERB determine%2:31:01::,determine%2:32:03::
+The sole guidance given the Court for discharging the task committed to it was this : " The judgment must therefore be reversed and the cause remanded to the District Court for a determination , after further hearing , of the equitable relief necessary and appropriate in the public interest to eliminate the effects of the acquisition offensive to the statute .
+11
+#2 guidance NOUN guidance%1:10:00::
+#10 commit VERB commit%2:32:01::,commit%2:40:00::,commit%2:40:02::
+#18 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#33 determination NOUN determination%1:04:01::
+#36 further ADJ further%5:00:00:far:00
+#37 hearing NOUN hearing%1:26:00::
+#43 necessary ADJ necessary%3:00:00::
+#48 public ADJ public%3:00:00::,public%5:00:00:common:02
+#49 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#53 effect NOUN effect%1:09:00::,effect%1:19:00::
+#57 offensive ADJ offensive%5:00:00:unwholesome:00
+The District Courts , in the framing of equitable decrees , are clothed ' with large discretion to model their judgments to fit the exigencies of the particular case ' .
+7
+#8 equitable ADJ equitable%3:00:00::
+#15 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#18 model VERB model%2:36:02::
+#20 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#22 fit VERB fit%2:42:01::
+#27 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#28 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+This brings us to the course of the proceedings in the District Court .
+1
+#5 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+This Court 's judgment was filed in the District Court on July 18 , 1957 .
+2
+#3 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#5 file VERB file%2:32:02::,filing%1:10:00::
+The first pretrial conference - held to appoint amici curiae to represent the interest of the stockholders of du Pont and General Motors and to consider the procedure to be followed in the subsequent hearings - took place on September 25 , 1957 .
+8
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#3 conference NOUN conference%1:14:00::
+#5 hold VERB hold%2:36:00::,holding%1:04:00::
+#7 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#11 represent VERB represent%2:41:00::
+#13 interest NOUN interest%1:21:03::
+#30 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+#34 hearing NOUN hearing%1:26:00::
+At the outset , the Government 's spokesman explained that counsel for the Government and for du Pont had already held preliminary discussions with a view to arriving at a relief plan that both sides could recommend to the court .
+10
+#5 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#10 counsel NOUN counsel%1:18:00::
+#13 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#19 already ADV already%4:02:00::
+#20 hold VERB hold%2:36:00::,holding%1:04:00::
+#25 view NOUN view%1:09:04::
+#31 plan NOUN plan%1:09:00::
+#34 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#36 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#39 court NOUN court%1:06:02::,court%1:06:05::
+Du Pont , he said , had proposed disenfranchisement of its General Motors stock along with other restrictions on the du Pont-General Motors relationship .
+4
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#13 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#16 other ADJ other%5:00:02:past:00
+The Government , deeming these suggestions inadequate , had urged that any judgment include divestiture of du Pont 's shares of General Motors .
+4
+#1 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#12 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#13 include VERB include%2:42:00::
+#19 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+Counsel for the Government invited du Pont 's views on this proposal before recommending a specific program , but stated that if the court desired , or if counsel for du Pont thought further discussion would not be profitable , the Government was prepared to submit a plan within thirty days .
+17
+#0 counsel NOUN counsel%1:18:00::
+#3 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#8 view NOUN view%1:09:04::
+#11 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#13 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#15 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#16 program NOUN program%1:09:00::,program%1:09:01::
+#19 state VERB state%2:32:01::,state%2:32:02::
+#23 court NOUN court%1:06:02::,court%1:06:05::
+#28 counsel NOUN counsel%1:18:00::
+#33 further ADJ further%5:00:00:far:00
+#36 not ADV not%4:02:00::
+#38 profitable ADJ profitable%3:00:00::
+#41 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#45 submit VERB submit%2:32:00::,submit%2:32:01::
+#47 plan NOUN plan%1:09:00::
+#50 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Counsel for du Pont indicated a preference for the submission of detailed plans by both sides at an early date .
+8
+#0 counsel NOUN counsel%1:18:00::
+#4 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#6 preference NOUN preference%1:12:00::
+#9 submission NOUN submission%1:10:02::
+#12 plan NOUN plan%1:09:00::
+#15 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#18 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#19 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+No previous antitrust case , he said , had involved interests of such magnitude or presented such complex problems of relief .
+8
+#1 previous ADJ previous%5:00:00:preceding:00
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#10 interest NOUN interest%1:21:03::
+#13 magnitude NOUN magnitude%1:07:00::,magnitude%1:07:01::
+#15 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#17 complex ADJ complex%3:00:00::
+#18 problem NOUN problem%1:09:00::,problem%1:26:00::
+The submission of detailed plans would place the issues before the court more readily than would discussion of divestiture or disenfranchisement in the abstract .
+6
+#1 submission NOUN submission%1:10:02::
+#4 plan NOUN plan%1:09:00::
+#6 place VERB place%2:31:13::
+#8 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#11 court NOUN court%1:06:02::,court%1:06:05::
+#23 abstract NOUN abstract%1:10:00::
+The Court adopted this procedure with an appropriate time schedule for carrying it out .
+2
+#8 time NOUN time%1:28:01::,time%1:28:05::
+#9 schedule NOUN schedule%1:09:00::
+The Government submitted its proposed decree on October 25 , 1957 .
+2
+#1 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#2 submit VERB submit%2:32:00::,submit%2:32:01::
+The plan called for divestiture by du Pont of its 63000000 shares of General Motors stock by equal annual distributions to its stockholders , as a dividend , over a period of ten years .
+7
+#1 plan NOUN plan%1:09:00::
+#11 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#15 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#17 equal ADJ equal%3:00:00::
+#26 dividend NOUN dividend%1:21:00::
+#30 period NOUN period%1:28:00::,period%1:28:03::
+#33 year NOUN year%1:28:00::,year%1:28:01::
+Christiana Securities Company and Delaware Realty + Investment Company , major stockholders in du Pont , and the stockholders of Delaware were dealt with specially by provisions requiring the annual sale by a trustee , again over a ten year period , of du Pont 's General Motors stock allocable to them , as well as any General Motors stock which Christiana and Delaware owned outright .
+10
+#10 major ADJ major%3:00:05::,major%3:00:06::
+#22 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#26 provision NOUN provision%1:10:00::
+#30 sale NOUN sale%1:04:00::,sale%1:04:02::
+#39 year NOUN year%1:28:00::,year%1:28:01::
+#40 period NOUN period%1:28:00::,period%1:28:03::
+#48 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#59 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#64 own VERB owned%3:00:00::
+#65 outright ADV outright%4:02:01::
+If , in the trustee 's judgment , " reasonable market conditions " did not prevail during any given year , he was to be allowed to petition the court for an extension of time within the ten year period .
+12
+#6 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#9 reasonable ADJ reasonable%5:00:00:moderate:00
+#10 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#11 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#14 not ADV not%4:02:00::
+#18 given ADJ give%2:32:03::
+#19 year NOUN year%1:28:00::,year%1:28:01::
+#25 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#29 court NOUN court%1:06:02::,court%1:06:05::
+#32 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#38 year NOUN year%1:28:00::,year%1:28:01::
+#39 period NOUN period%1:28:00::,period%1:28:03::
+In addition , the right to vote the General Motors stock held by du Pont was to be vested in du Pont 's stockholders , other than Christiana and Delaware and the stockholders of Delaware ; du Pont , Christiana , and Delaware were to be enjoined from acquiring stock in or exercising control over General Motors ; du Pont , Christiana , and Delaware were to be prohibited to have any director or officer in common with General Motors , and vice versa ; and General Motors and du Pont were to be ordered to terminate any agreement that provided for the purchase by General Motors of any specified percentage of its requirements of any du Pont manufactured product , or for the grant of exclusive patent rights , or for a grant by General Motors to du Pont of a preferential right to make or sell any chemical discovery of General Motors , or for the maintenance of any joint commercial enterprise by the two companies .
+19
+#10 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#11 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#18 vest VERB vest%2:40:02::
+#49 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#52 exercise VERB exercise%2:34:00::
+#53 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#70 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#74 officer NOUN officer%1:18:02::,officer%1:18:03::
+#94 order VERB order%2:32:01::,order%2:32:02::
+#103 purchase NOUN purchase%1:04:00::
+#119 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#124 grant NOUN grant%1:04:00::
+#126 exclusive ADJ exclusive%5:00:00:unshared:00
+#133 grant NOUN grant%1:04:00::
+#143 right NOUN right%1:07:00::,right%1:21:00::
+#147 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#150 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#158 maintenance NOUN maintenance%1:04:00::
+#167 company NOUN company%1:14:03::
+On motion of the amici curiae , the court directed that a ruling be obtained from the Commissioner of Internal Revenue as to the federal income tax consequences of the Government 's plan .
+7
+#1 motion NOUN motion%1:10:01::
+#8 court NOUN court%1:06:02::,court%1:06:05::
+#12 ruling NOUN ruling%1:04:00::
+#14 obtain VERB obtain%2:40:00::
+#27 consequence NOUN consequence%1:19:00::
+#30 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#32 plan NOUN plan%1:09:00::
+The annual dividends paid to du Pont stockholders in shares of General Motors stock would be taxable as ordinary income to the extent of du Pont 's earnings and profits .
+5
+#2 dividend NOUN dividend%1:21:00::
+#3 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#9 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#13 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#18 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+The measure , for federal income tax purposes , of the dividend to individual stockholders would be the fair market value of the shares at the time of each annual distribution .
+5
+#11 dividend NOUN dividend%1:21:00::
+#13 individual ADJ individual%5:00:00:independent:00
+#18 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#23 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#26 time NOUN time%1:11:00::
+In the case of taxpaying corporate stockholders , the measure would be the lesser of the fair market value of the shares or du Pont 's tax basis for them , which is approximately $ 2.09 per share .
+5
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#16 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#21 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#26 tax NOUN tax%1:21:00::
+#37 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+The forced sale of the General Motors stock owned by or allocable to Christiana , Delaware , and the stockholders of Delaware , and deposited with the trustee , would result in a tax to those parties at the capital gains rate .
+6
+#7 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#8 own VERB owned%3:00:00::
+#24 deposit VERB deposit%2:40:00::
+#33 tax NOUN tax%1:21:00::
+#36 party NOUN party%1:14:02::,party%1:18:00::
+#41 rate NOUN rate%1:21:00::
+Du Pont 's counterproposal was filed on May 14 , 1958 .
+1
+#5 file VERB file%2:32:02::,filing%1:10:00::
+Under its plan du Pont would retain its General Motors shares but be required to pass on to its stockholders the right to vote those shares .
+3
+#2 plan NOUN plan%1:09:00::
+#10 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#25 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+Christiana and Delaware would , in turn , be required to pass on the voting rights to the General Motors shares allocable to them to their own stockholders .
+2
+#20 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#26 own ADJ own%5:00:00:personal:00
+Du Pont would be enjoined from having as a director , officer , or employee anyone who was simultaneously an officer or employee of General Motors , and no director , officer , or employee of du Pont could serve as a director of General Motors without court approval .
+7
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 officer NOUN officer%1:18:02::,officer%1:18:03::
+#20 officer NOUN officer%1:18:02::,officer%1:18:03::
+#31 officer NOUN officer%1:18:02::,officer%1:18:03::
+#39 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#47 court NOUN court%1:06:02::,court%1:06:05::
+#48 approval NOUN approval%1:26:00::
+Du Pont would be denied the right to acquire any additional General Motors stock except through General Motors ' distributions of stock or subscription rights to its stockholders .
+3
+#6 right NOUN right%1:07:00::,right%1:21:00::
+#13 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#21 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+On June 6 , 1958 , General Motors submitted its objections to the Government 's proposal .
+3
+#8 submit VERB submit%2:32:00::,submit%2:32:01::
+#13 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#15 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+It argued , inter alia , that a divestiture order would severely depress the market value of the stock of both General Motors and du Pont , with consequent serious loss and hardship to hundreds of thousands of innocent investors , among them thousands of small trusts and charitable institutions ; that there would be a similar decline in the market values of other automotive and chemical stocks , with similar losses to the stockholders of those companies ; that the tremendous volume of General Motors stock hanging over the market for ten years would hamper the efforts of General Motors and other automobile manufacturers to raise equity capital ; and that all this would have a serious adverse effect on the entire stock market and on general business activity .
+22
+#1 argue VERB argue%2:32:02::
+#9 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#11 severely ADV severely%4:02:01::
+#12 depress VERB depress%2:37:00::
+#18 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#38 innocent ADJ innocent%3:00:00::
+#46 trust NOUN trust%1:21:03::
+#48 charitable ADJ charitable%5:00:00:kind:00
+#49 institution NOUN institution%1:14:00::
+#63 other ADJ other%3:00:00::
+#67 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#77 company NOUN company%1:14:03::
+#82 volume NOUN volume%1:07:03::,volume%1:23:00::
+#86 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#87 hang VERB hang%2:35:06::,hang%2:42:00::
+#90 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#93 year NOUN year%1:28:00::,year%1:28:01::
+#106 raise VERB raise%2:40:00::
+#107 equity NOUN equity%1:21:01::
+#108 capital NOUN capital%1:21:00::,capital%1:21:01::
+#119 effect NOUN effect%1:09:00::,effect%1:19:00::
+#127 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+General Motors comprehensively contended that the Government plan would not be " in the public interest " as required by the mandate of this Court .
+7
+#3 contend VERB contend%2:32:01::
+#6 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#7 plan NOUN plan%1:09:00::
+#9 not ADV not%4:02:00::
+#14 public ADJ public%3:00:00::,public%5:00:00:common:02
+#15 interest NOUN interest%1:21:03::
+#21 mandate NOUN mandate%1:04:00::
+The decrees proposed by the amici curiae were filed in August of 1958 .
+2
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#8 file VERB file%2:32:02::,filing%1:10:00::
+These plans , like du Pont 's contained provisions for passing the vote on du Pont 's General Motors shares on to the ultimate stockholders of du Pont , Christiana , and Delaware , except that officers and directors of the three companies , their spouses , and other people living in their households , as well as other specified persons , were to be totally disenfranchised .
+10
+#1 plan NOUN plan%1:09:00::
+#7 contain VERB contain%2:42:00::,contain%2:42:06::
+#8 provision NOUN provision%1:10:00::
+#10 pass VERB pass%2:32:01::,pass%2:40:00::,pass%2:40:01::,pass%2:40:02::,pass%2:40:13::
+#19 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#36 officer NOUN officer%1:18:02::,officer%1:18:03::
+#42 company NOUN company%1:14:03::
+#49 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#50 live VERB live%2:42:08::
+#60 person NOUN person%1:03:00::,person%1:08:00::
+Both plans also prohibited common directors , officers , or employees between du Pont , Christiana , and Delaware , on the one hand , and General Motors on the other .
+3
+#1 plan NOUN plan%1:09:00::
+#4 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#7 officer NOUN officer%1:18:02::,officer%1:18:03::

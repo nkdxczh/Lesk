@@ -1,0 +1,279 @@
+ Farm machinery dealer Bob Houtz tilts back in a battered chair and tells of a sharp pickup in sales :
+2
+#5 tilt VERB tilt%2:38:00::
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" We 've sold four corn pickers since Labor Day and have good prospects for 10 more .
+2
+#3 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We sold only four pickers all last year " .
+1
+#1 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+Gus Ehlers , competitor of Mr. Houtz in this farm community , says his business since August 1 is running 50 % above a year earlier .
+2
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 run VERB run%2:42:07::
+" Before then , my sales during much of the year had lagged behind 1960 by 20 % " , he says .
+2
+#12 lag VERB lag%2:38:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Though the sales gains these two dealers are experiencing are above average for their business , farm equipment sales are climbing in most rural areas .
+1
+#20 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+Although the Administration 's program cut crop acreage to the lowest point since 1934 , farmers , with the help of extra fertilizer and good weather , are getting such high yields per acre that many are being forced to buy new harvesting machines .
+4
+#5 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#28 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#38 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#40 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+Fields of corn and some other crops in many cases are so dense that older equipment cannot handle them efficiently .
+1
+#17 handle VERB handle%2:41:00::,handle%2:41:03::
+The higher price supports provided by the new legislation , together with rising prices for farm products , are pushing up farm income , making it possible for farmers to afford the new machinery .
+3
+#4 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#30 afford VERB afford%2:34:00::,afford%2:42:00::
+Seven of the eight companies that turn out full lines of farm machinery say sales by their dealers since the start of August have shown gains averaging nearly 10 % above last year .
+2
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+" In August our dealers sold 13 % more farm machinery than a year earlier and in September retail sales were 14 % higher than last year " , says Mark V. Keeler , farm equipment vice president of International Harvester Co. .
+2
+#5 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#29 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+For the year to date , sales of the company 's farm equipment dealers still lag about 5 % behind 1960 .
+1
+#15 lag VERB lag%2:38:00::
+Among individual dealers questioned in nearly a score of states , two out of three report their sales since August 1 show sizable gains from a year earlier , with the increases ranging from 5 % to 50 % .
+3
+#15 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#21 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#32 range VERB range%2:42:00::
+Not all sections are showing an upswing , however ; the drought-seared North Central states are the most notable exceptions to the uptrend .
+1
+#4 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+The significance of the pickup in farm machinery sales extends beyond the farm equipment industry .
+1
+#9 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+More than 20 million people live on farms and they own a fourth of the nation 's trucks , buy more gasoline than any other industry and provide a major market for home appliances , chemicals and other products .
+4
+#5 live VERB live%2:42:08::
+#10 own VERB owned%3:00:00::
+#19 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#27 provide VERB provide%2:34:00::,provide%2:40:00::
+Farmers are so eager for new machinery that they 're haggling less over prices than they did a year ago , dealers report .
+1
+#22 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+" Farmers are n't as price conscious as last year so we can get more money on a sale " , says Jack Martin , who sells J. I. Case tractors and implements in Sioux City , Iowa .
+3
+#13 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+" This morning , we allowed a farmer $ 600 on the old picker he traded in on a new $ 2700 model .
+1
+#5 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+Last year , we probably would have given him $ 700 for a comparable machine " .
+1
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Mr. Martin sold 21 tractors in August ; in August of 1960 , he sold seven .
+2
+#2 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#14 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+With dealer stocks of new equipment averaging about 25 % below a year ago , the affects of the rural recovery are being felt almost immediately by the country 's farm equipment manufacturers .
+1
+#23 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+For example , farm equipment shipments of International Harvester in August climbed about 5 % above a year earlier , Mr. Keeler reports .
+2
+#11 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#22 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Tractor production at Massey-Ferguson , Ltd. , of Toronto in July and August rose to 2418 units from 869 in the like period a year earlier , says John Staiger , vice president .
+1
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+With the lower dealer inventories and the stepped-up demand some manufacturers believe there could be shortages of some implements .
+1
+#11 believe VERB believe%2:31:03::
+Merritt D. Hill , Ford Motor Co. vice president , says his company is starting to get calls daily from dealers demanding immediate delivery or wanting earlier shipping dates on orders for corn pickers .
+4
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#25 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#27 ship VERB ship%2:38:03::
+Except for a few months in late 1960 and early 1961 , retail farm equipment sales have trailed year-earlier levels since the latter part of 1959 .
+1
+#17 trail VERB trail%2:38:00::
+The rise in sales last winter was checked when the Government 's new feed grain program was adopted ; the program resulted in a cutback of around 20 % in planted acreage and , as a result , reduced the immediate need for machines .
+2
+#7 check VERB check%2:33:06::,check%2:38:12::,check%2:38:14::,check%2:41:08::,check%2:41:14::
+#38 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Nearly all of the farm equipment manufacturers and dealers say the upturn in sales has resulted chiefly from the recent improvement in crop prospects .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Price support loans may total another $ 1 billion this year .
+1
+#4 total VERB total%2:32:00::,total%2:42:00::
+Net income may reach $ 12.7 billion , up $ 1 billion from 1960 and the highest since 1953 .
+1
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+The Government reported last week that the index of prices received by farmers rose in the month ended at mid-September for the third consecutive month , reaching 242 % of the 1910 - 14 average compared with 237 % at mid-July .
+3
+#2 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#26 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#35 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+The Supreme Court decision in mid-1960 was in the case of a company making sewer pipe from clay which it mined .
+2
+#13 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#20 mine VERB mine%2:34:00::
+The company , in figuring its taxable earnings , deducted a percentage of the revenue it received for its finished products .
+1
+#4 figure VERB figure%2:31:01::
+The High Court held that the company must apply its percentage allowance to the value of the raw materials removed from the ground , not to the revenue from finished products .
+2
+#3 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#19 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+A measure passed by Congress just before adjourning softened the ruling 's impact , on prior-year returns still under review , for clay-mining companies that make brick and tile products .
+2
+#2 pass VERB pass%2:41:02::
+#25 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The measure allows such companies in those years to apply their mineral depletion allowances to 50 % of the value of the finished products rather than the lower value of raw clay alone .
+1
+#2 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+President Kennedy , in signing the relief measure into law , stressed he regarded it as an exception .
+2
+#4 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#11 stress VERB stress%2:32:00::,stress%2:32:01::
+" My approval of this bill should not be viewed as establishing a precedent for the enactment of similar legislation for other mineral industries " , the President said .
+2
+#11 establish VERB establish%2:36:01::,establish%2:41:00::
+#28 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Service announced that taxpayers making such claims may be called on to furnish a statement from the recipient organization showing the date , purpose , amount and other particulars of the contribution .
+2
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+Requests for substantiation , the Service indicated , can be especially expected in cases where it suspects the donor received some material benefit in return , such as tickets to a show .
+3
+#6 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#16 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#19 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+In such instance , revenuers stressed , the deduction must be reduced by the value of the benefit received .
+3
+#5 stress VERB stress%2:32:00::,stress%2:32:01::
+#11 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#18 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+A rule on the Federal deductibility of state taxes is contested .
+1
+#10 contest VERB contest%2:32:00::
+A realty corporation in Louisiana owed no tax under Federal law , on its gain from the sale of property disposed of in line with a plan of liquidation .
+1
+#20 dispose VERB dispose%2:40:11::
+Louisiana , however , collected an income tax on the profits from the sale .
+1
+#4 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+The corporation , in filing its final Federal income return , claimed the state tax payment as a deductible expense , as permitted under U. S. tax law .
+1
+#4 file VERB file%2:32:02::,filing%1:10:00::
+The Revenue Service disallowed the claim , invoking a law provision that generally bars deductions for expenses incurred in connection with what it said was tax-exempt income .
+2
+#13 bar VERB bar%2:32:00::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It said the tax-freedom of the gain in this case stemmed not from the exempt status of the income but from a special rule on corporate liquidations .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 stem VERB stem%2:42:00::
+The Tax Court decision and a similar earlier finding by the Ninth Circuit Court of Appeals challenges a year-old I. R. S. ruling on the subject .
+1
+#16 challenge VERB challenge%2:32:02::,challenge%2:32:03::
+The Service has not said what its next step will be .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Peace Corps volunteers are assured a tax benefit under the law creating the agency .
+1
+#4 assure VERB assure%2:31:00::,assure%2:32:03::
+It provides that the $ 1800 termination payment each cadet is to get , after serving a two-year hitch without pay , will be spread over both years , not taxed in its entirety at a possibly higher rate in the year received .
+5
+#1 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#12 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#15 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#24 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#30 tax VERB tax%2:40:00::
+The owner of a public relations firm owed no income tax on payments he received from a client company and " kicked back " to the company 's advertising manager , the Tax Court ruled .
+2
+#14 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#34 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+The taxpayer testified that in order to retain the account he had to pad his invoices and pay the excess to the manager .
+2
+#13 pad VERB pad%2:35:00::
+#17 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The Court limited its decision to the tax issue involved , commenting : " It is not our province to pass judgment on the morality of the transaction " .
+1
+#9 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+A portable kerosene range designed for use aboard boats is sold with a special railing to keep it from moving with the motion of the vessel .
+2
+#10 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+The Revenue Service said the addition of the attachment does not keep the range from coming under the Federal manufacturers ' excise tax on household-type appliances .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Hiring the wife for one 's company may win her tax-aided retirement income .
+2
+#0 hire VERB hire%2:41:00::
+#8 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+A spouse employed by a corporation her husband controls , for example , may be entitled to distributions under the company 's pension plan as well as to her own Social Security coverage .
+3
+#2 employ VERB employ%2:34:00::,employ%2:41:00::
+#8 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#15 entitle VERB entitled%5:00:00:eligible:00
+She would be taxed on the pensions when received , of course , but the company 's contributions would be tax-free .
+1
+#3 tax VERB tax%2:40:00::
+A frequent pitfall in this sort of arrangement , experts warn , is a tendency to pay the wife more than her job is worth and to set aside an excessive amount for her as retirement income .
+1
+#16 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+In that event , they note , the Revenue Service might declare the pension plan is discriminatory and deny it tax privileges under the law .
+3
+#5 note VERB note%2:32:00::,note%2:39:00::
+#11 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#18 deny VERB deny%2:40:00::,deny%2:40:04::
+Possible upshots : The company could be denied a deduction for its pension payments , or those payments for the wife and other employes could be ruled taxable to them in the year made .
+3
+#7 deny VERB deny%2:40:00::,deny%2:40:04::
+#26 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+#33 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+State Briefs : Voters in four counties containing and bordering Denver authorized the imposition of an additional 2 % sales tax within that area .
+1
+#7 contain VERB contain%2:42:00::,contain%2:42:06::
+Colorado has a 2 % sales tax .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Denver itself collects a 1 % sales tax which is to be absorbed in the higher area tax .
+2
+#2 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#12 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+The Washington state supreme court ruled that the state 's occupation tax applied to sales , made at cost to an oil company , by a wholly-owned subsidiary set up to purchase certain supplies without divulging the identity of the parent .
+4
+#5 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+#12 apply VERB apply%2:42:00::
+#16 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#31 purchase VERB purchase%2:40:00::
+The court held that the tax applied to non-profit sales because the corporations realized economic benefits by doing business as two separate entities .
+3
+#2 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#6 apply VERB apply%2:42:00::
+#13 realize VERB realize%2:40:00::,realize%2:40:01::
+Consumer spending edged down in April after rising for two consecutive months , the Government reported .
+3
+#2 edge VERB edge%2:35:01::
+#7 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#15 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+The Commerce Department said seasonally adjusted sales of retail stores dropped to slightly under $ 18 billion in April , down 1 % from the March level of more than $ 18.2 billion .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 drop VERB drop%2:29:01::,drop%2:38:01::
+April sales also were 5 % below those of April last year , when volume reached a record for any month , $ 18.9 billion ( see chart on Page One ) .
+2
+#15 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#26 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Commerce Department officials were inclined to explain the April sales decline as a reaction from a surge of consumer buying in March .
+1
+#19 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::

@@ -1,0 +1,617 @@
+ Strategy and tactics of the U. S. military forces are now undergoing one of the greatest transitions in history .
+3
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#15 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#18 history NOUN history%1:28:00::
+The change of emphasis from conventional type to missile type warfare must be made with care , mindful that the one type of warfare cannot be safely neglected in favor of the other .
+8
+#1 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#6 type NOUN type%1:18:00::
+#9 type NOUN type%1:18:00::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 care NOUN care%1:09:00::
+#21 type NOUN type%1:18:00::
+#29 favor NOUN favor%1:06:00::,favor%1:07:00::,favor%1:09:00::
+#32 other ADJ other%3:00:00::
+Our military forces must be capable of contending successfully with any contingency which may be forced upon us , from limited emergencies to all-out nuclear general war .
+4
+#7 contend VERB contend%2:33:01::
+#15 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#24 nuclear ADJ nuclear%3:00:00::
+#25 general ADJ general%5:00:00:imprecise:00
+- This budget will provide in the fiscal year 1961 for the continued support of our forces at approximately the present level - a year-end strength of 2489000 men and women in the active forces .
+8
+#2 budget NOUN budget%1:21:02::
+#13 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#16 force NOUN force%1:14:01::,force%1:14:02::
+#20 present ADJ present%3:00:01::
+#21 level NOUN level%1:26:00::,level%1:26:01::
+#25 strength NOUN strength%1:07:01::,strength%1:07:05::
+#28 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#34 force NOUN force%1:14:01::,force%1:14:02::
+The forces to be supported include an Army of 14 divisions and 870000 men ; a Navy of 817 active ships and 619000 men ; a Marine Corps of 3 divisions and 3 air wings with 175000 men ; and an Air Force of 91 combat wings and 825000 men .
+11
+#1 force NOUN force%1:14:01::,force%1:14:02::
+#4 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#5 include VERB include%2:42:00::
+#10 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 navy NOUN navy%1:14:00::
+#30 division NOUN division%1:09:00::,division%1:14:00::,division%1:14:03::,division%1:14:05::,division%1:14:06::
+#34 wing NOUN wing%1:06:00::
+#37 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#46 wing NOUN wing%1:06:00::
+#49 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+If the reserve components are to serve effectively in time of war , their basic organization and objectives must conform to the changing character and missions of the active forces .
+7
+#9 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#14 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#15 organization NOUN organization%1:04:01::,organization%1:07:00::,organization%1:09:00::
+#17 objective NOUN objective%1:09:00::
+#23 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#25 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#29 force NOUN force%1:14:01::,force%1:14:02::
+Quality and combat readiness must take precedence over mere numbers .
+4
+#0 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#3 readiness NOUN readiness%1:26:00::
+#5 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Under modern conditions , this is especially true of the ready reserve .
+3
+#2 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#6 especially ADV especially%4:02:00::
+#7 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+I have requested the Secretary of Defense to reexamine the roles and missions of the reserve components in relation to those of the active forces and in the light of the changing requirements of modern warfare .
+3
+#6 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#12 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#24 force NOUN force%1:14:01::,force%1:14:02::
+Last year the Congress discontinued its previously imposed minimum personnel strength limitations on the Army Reserve .
+6
+#0 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#3 congress NOUN congress%1:14:00::,congress%1:14:01::
+#7 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#10 strength NOUN strength%1:07:01::,strength%1:07:05::
+#11 limitation NOUN limitation%1:04:00::
+Similar restrictions on the strength of the Army National Guard contained in the 1960 Department of Defense Appropriation Act should likewise be dropped .
+4
+#4 strength NOUN strength%1:07:01::,strength%1:07:05::
+#10 contain VERB contain%2:42:00::,contain%2:42:06::
+#20 likewise ADV likewise%4:02:01::
+#22 drop VERB drop%2:31:06::,drop%2:32:00::,drop%2:35:01::,drop%2:41:01::
+I strongly recommend to the Congress the avoidance of mandatory floors on the size of the reserve components so that we may have the flexibility to make adjustments in keeping with military necessity .
+7
+#2 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#5 congress NOUN congress%1:14:00::,congress%1:14:01::
+#10 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#18 so CONJ so%4:02:10::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 necessity NOUN necessity%1:26:00::
+I again proposed a reduction in the Army National Guard and Army Reserve - from their present strengths of 400000 and 300000 , respectively , to 360000 and 270000 by the end of the fiscal year 1961 .
+5
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#4 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#16 present ADJ present%3:00:01::
+#17 strength NOUN strength%1:07:01::,strength%1:07:05::
+#31 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+These strengths are considered adequate to meet the essential roles and missions of the reserves in support of our national security objectives .
+8
+#1 strength NOUN strength%1:07:01::,strength%1:07:05::
+#6 meet VERB meet%2:41:02::,meet%2:42:01::
+#8 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#11 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#14 reserve NOUN reserve%1:21:00::
+#16 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#20 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#21 objective NOUN objective%1:09:00::
+- About 30 % of the expenditures for the Department of Defense in 1961 are for military personnel costs , including pay for active , reserve , and retired military personnel .
+2
+#20 include VERB include%2:42:00::
+#28 retired ADJ retired%5:00:00:inactive:08
+These expenditures are estimated to be $ 12.1 billion , an increase of $ 187 million over 1960 , reflecting additional longevity pay of career personnel , more dependents , an increased number of men drawing proficiency pay , and social security tax increases ( effective for the full year in 1961 compared with only 6 months in 1960 ) .
+9
+#19 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#32 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#34 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#42 tax NOUN tax%1:21:00::
+#45 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#48 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#49 year NOUN year%1:28:00::,year%1:28:01::
+#52 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#54 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Retired pay costs are increased by $ 94 million in 1961 over 1960 , partly because of a substantial increase in the number of retired personnel .
+4
+#0 retired ADJ retired%5:00:00:inactive:08
+#18 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#24 retired ADJ retired%5:00:00:inactive:08
+These increased costs are partially offset by a decrease of $ 56 million in expenditures for the reserve forces , largely because of the planned reduction in strength of the Army Reserve components during 1961 .
+4
+#5 offset VERB offset%2:40:01::
+#18 force NOUN force%1:14:01::,force%1:14:02::
+#25 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#27 strength NOUN strength%1:07:01::,strength%1:07:05::
+Traditionally , rates of pay for retired military personnel have been proportionate to current rates of pay for active personnel .
+1
+#6 retired ADJ retired%5:00:00:inactive:08
+The 1958 military pay act departed from this established formula by providing for a 6 % increase rather than a proportionate increase for everyone retired prior to its effective date of June 1 , 1958 .
+7
+#4 act NOUN act%1:10:01::
+#8 established ADJ established%3:00:00::
+#9 formula NOUN formula%1:09:00::,formula%1:10:01::
+#17 rather ADV rather%4:02:02::
+#24 retired ADJ retired%5:00:00:inactive:08
+#28 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#29 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+I endorse pending legislation that will restore the traditional relationship between retired and active duty pay rates .
+2
+#11 retired ADJ retired%5:00:00:inactive:08
+#14 duty NOUN duty%1:04:00::,duty%1:04:02::
+- Expenditures for operating and maintaining the stations and equipment of the Armed Forces are estimated to be $ 10.3 billion in 1961 , which is $ 184 million more than in 1960 .
+2
+#3 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#7 station NOUN station%1:06:00::
+The increase stems largely from the growing complexity of and higher degree of maintenance required for newer weapons and equipment .
+5
+#2 stem VERB stem%2:42:00::
+#10 high ADJ high%3:00:02::
+#11 degree NOUN degree%1:26:01::
+#13 maintenance NOUN maintenance%1:04:00::
+#16 new ADJ new%3:00:00::
+A substantial increase is estimated in the cost of operating additional communications systems in the air defense program , as well as in all programs where speed and security of communications are essential .
+6
+#1 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#9 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#24 program NOUN program%1:09:00::,program%1:09:01::
+#28 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#30 communication NOUN communication%1:03:00::,communication%1:10:01::
+#32 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+Also , the program for fleet modernization will be stepped up in 1961 causing an increase in expenditures .
+2
+#3 program NOUN program%1:09:00::,program%1:09:01::
+#5 fleet NOUN fleet%1:14:00::
+Further increases arise from the civilian employee health program enacted by the Congress last year .
+7
+#0 further ADJ further%5:00:00:far:00
+#2 arise VERB arise%2:30:00::,arise%2:42:01::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#9 enact VERB enact%2:41:00::
+#12 congress NOUN congress%1:14:00::,congress%1:14:01::
+#13 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#14 year NOUN year%1:28:00::,year%1:28:01::
+Other factors increasing operating costs include the higher unit cost of each flying hour , up 11 % in two years , and of each steaming hour , up 15 % .
+9
+#0 other ADJ other%5:00:02:past:00
+#1 factor NOUN factor%1:08:00::,factor%1:18:00::
+#5 include VERB include%2:42:00::
+#7 high ADJ high%3:00:02::
+#12 flying ADJ flying%5:00:00:moving:02
+#13 hour NOUN hour%1:07:00::,hours%1:28:01::
+#20 year NOUN year%1:28:00::,year%1:28:01::
+#25 steam VERB steam%2:30:00::
+#26 hour NOUN hour%1:07:00::,hours%1:28:01::
+In total , these increases in operating costs outweigh the savings that result from declining programs and from economy measures , such as reduced numbers of units and installations , smaller inventories of major equipment , and improvements in the supply and distribution systems of the Armed Forces .
+8
+#10 saving NOUN saving%1:04:00::
+#15 program NOUN program%1:09:00::,program%1:09:01::
+#18 economy NOUN economy%1:04:00::,economy%1:07:00::,economy%1:09:01::,economy%1:14:00::
+#19 measure NOUN measure%1:04:01::,measure%1:10:02::
+#24 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#26 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#28 installation NOUN installation%1:06:00::
+#33 major ADJ major%3:00:05::,major%3:00:06::
+In the budget message for 1959 , and again for 1960 , I recommended immediate repeal of section 601 of the Act of September 28 , 1951 ( 65 Stat. 365 ) .
+6
+#2 budget NOUN budget%1:21:02::
+#3 message NOUN message%1:10:00::,message%1:10:01::
+#13 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#14 immediate ADJ immediate%5:00:00:present(a):01,immediate%5:00:00:present:01
+#17 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#21 act NOUN act%1:10:01::
+This section prevents the military departments and the Office of Civil and Defense Mobilization from carrying out certain transactions involving real property unless they come into agreement with the Committees on Armed Services of the Senate and the House of Representatives .
+7
+#1 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#2 prevent VERB prevent%2:41:00::
+#8 office NOUN office%1:06:00::
+#10 civil ADJ civil%5:00:00:civilian:00
+#12 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#17 certain ADJ certain%5:00:00:definite:00
+#24 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+As I have stated previously , the Attorney General has advised me that this section violates fundamental constitutional principles .
+3
+#3 state VERB state%2:32:01::,state%2:32:02::
+#14 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#17 constitutional ADJ constitutional%3:00:00::
+Accordingly , if it is not repealed by the Congress at its present session , I shall have no alternative thereafter but to direct the Secretary of Defense to disregard the section unless a court of competent jurisdiction determines otherwise .
+10
+#0 accordingly ADV accordingly%4:02:00::
+#5 not ADV not%4:02:00::
+#9 congress NOUN congress%1:14:00::,congress%1:14:01::
+#12 present ADJ present%3:00:01::
+#13 session NOUN session%1:10:00::
+#27 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#31 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#34 court NOUN court%1:06:02::,court%1:06:05::
+#38 determine VERB determine%2:31:01::,determine%2:32:03::
+#39 otherwise ADV otherwise%4:02:01::
+Basic long line communications in Alaska are now provided through Federal facilities operated by the Army , Air Force , and Federal Aviation Agency .
+7
+#0 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#1 long ADJ long%3:00:01::
+#2 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#11 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#12 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+The growing communications needs of this new State can best be met , as they have in other States , through the operation and development of such facilities by private enterprise .
+9
+#7 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#11 meet VERB meet%2:41:02::,meet%2:42:01::
+#17 other ADJ other%3:00:00::
+#18 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#22 operation NOUN operation%1:04:03::
+#24 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#27 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#29 private ADJ private%5:00:00:personal:00
+#30 enterprise NOUN enterprise%1:14:00::
+Legislation has already been proposed to authorize the sale of these Government owned systems in Alaska , and its early enactment is desirable .
+7
+#2 already ADV already%4:02:00::
+#4 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#8 sale NOUN sale%1:04:00::,sale%1:04:02::
+#11 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#13 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#19 early ADJ early%5:00:00:past:00
+#20 enactment NOUN enactment%1:04:01::
+- Approximately 45 % of the expenditures for the Department of Defense are for procurement , research , development , and construction programs .
+2
+#18 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#22 program NOUN program%1:09:00::,program%1:09:01::
+In 1961 , these expenditures are estimated at $ 18.9 billion , compared to $ 19.3 billion in 1960 .
+1
+#12 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+The decreases , which are largely in construction and in aircraft procurement , are offset in part by increases for research and development and for procurement of other military equipment such as tanks , vehicles , guns , and electronic devices .
+5
+#14 offset VERB offset%2:40:01::
+#22 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#27 other ADJ other%5:00:02:past:00
+#32 tank NOUN tank%1:06:01::
+#34 vehicle NOUN vehicle%1:06:00::
+Expenditures for shipbuilding are estimated at about the same level as in 1960 .
+3
+#6 about ADV about%4:02:00::
+#8 same ADJ same%3:00:00::
+#9 level NOUN level%1:26:00::,level%1:26:01::
+New obligational authority for 1961 recommended in this budget for aircraft procurement ( excluding amounts for related research and construction ) totals $ 4753 million , which is $ 1390 million below that enacted for 1960 .
+5
+#2 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+#5 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#8 budget NOUN budget%1:21:02::
+#21 total VERB total%2:32:00::,total%2:42:00::
+#33 enact VERB enact%2:41:00::
+On the other hand , the new authority of $ 3825 million proposed for missile procurement ( excluding research and construction ) in 1961 is $ 581 million higher than for 1960 .
+3
+#7 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+#12 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#28 high ADJ high%3:00:02::
+These contrasting trends in procurement reflect the anticipated changes in the composition and missions of our Armed Forces in the years ahead .
+5
+#5 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#8 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#11 composition NOUN composition%1:27:00::
+#13 mission NOUN mission%1:04:00::,mission%1:04:01::,mission%1:14:00::,mission%1:14:01::
+#20 year NOUN year%1:28:00::,year%1:28:01::
+The Department of Defense appropriation acts for the past several years have contained a rider which limits competitive bidding by firms in other countries on certain military supply items .
+10
+#4 appropriation NOUN appropriation%1:21:00::
+#5 act NOUN act%1:10:01::
+#10 year NOUN year%1:28:00::,year%1:28:01::
+#12 contain VERB contain%2:42:00::,contain%2:42:06::
+#14 rider NOUN rider%1:10:00::
+#17 competitive ADJ competitive%3:00:00::
+#18 bid VERB bid%2:40:00::
+#22 other ADJ other%3:00:00::
+#23 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#25 certain ADJ certain%5:00:00:definite:00
+As I have repeatedly stated , this provision is much more restrictive than the general law , popularly known as the Buy American Act .
+7
+#4 state VERB state%2:32:01::,state%2:32:02::
+#7 provision NOUN provision%1:10:00::
+#11 restrictive ADJ restrictive%3:00:00::
+#14 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#15 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#21 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#23 act NOUN act%1:10:01::
+I urge once again that the Congress not reenact this rider .
+4
+#6 congress NOUN congress%1:14:00::,congress%1:14:01::
+#7 not ADV not%4:02:00::
+#8 re-enact VERB reenact%2:41:00::
+#10 rider NOUN rider%1:10:00::
+The task of providing a reasonable level of military strength , without endangering other vital aspects of our security , is greatly complicated by the swift pace of scientific progress .
+9
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 reasonable ADJ reasonable%5:00:00:moderate:00
+#6 level NOUN level%1:26:00::,level%1:26:01::
+#9 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#13 other ADJ other%3:00:00::
+#14 vital ADJ vital%5:00:00:indispensable:00
+#15 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#18 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#26 pace NOUN pace%1:28:00::
+The last few years have witnessed what have been perhaps the most rapid advances in military technology in history .
+6
+#1 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#3 year NOUN year%1:28:00::,year%1:28:01::
+#5 witness VERB witness%2:39:00::,witness%2:39:01::
+#11 most ADV most%4:02:00::
+#13 advance NOUN advance%1:11:00::
+#18 history NOUN history%1:28:00::
+Some weapons systems have become obsolescent while still in production , and some while still under development .
+5
+#4 become VERB become%2:30:00::,become%2:42:01::
+#7 still ADV still%4:02:00::
+#9 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#14 still ADV still%4:02:00::
+#16 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+Furthermore , unexpectedly rapid progress or a technological break-through on any one weapon system , in itself , often diminishes the relative importance of other competitive systems .
+4
+#21 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#24 other ADJ other%3:00:00::
+#25 competitive ADJ competitive%3:00:00::
+#26 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+This has necessitated a continuous review and reevaluation of the defense program in order to redirect resources to the newer and more important weapons systems and to eliminate or reduce effort on weapons systems which have been overtaken by events .
+5
+#4 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#16 resource NOUN resource%1:07:00::,resource%1:21:00::
+#19 new ADJ new%3:00:00::
+#29 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#37 overtake VERB overtake%2:38:00::
+Thus , in the last few years , a number of programs which looked very promising at the time their development was commenced have since been completely eliminated .
+8
+#0 thus ADV thus%4:02:00::
+#4 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#6 year NOUN year%1:28:00::,year%1:28:01::
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#11 program NOUN program%1:09:00::,program%1:09:01::
+#13 look VERB look%2:39:01::,look%2:42:02::
+#18 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#20 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+For example , the importance of the Regulus 2 , , a very promising aerodynamic ship to surface missile designed to be launched by surfaced submarines , was greatly diminished by the successful acceleration of the much more advanced Polaris ballistic missile launched by submerged submarines .
+5
+#17 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#22 launch VERB launch%2:30:10::,launch%2:35:00::,launch%2:35:02::
+#24 surface VERB surface%2:30:00::
+#38 advanced ADJ advanced%5:00:00:precocious:00
+#42 launch VERB launch%2:30:10::,launch%2:35:00::,launch%2:35:02::
+Another example is the recent cancellation of the F-108 , a long range interceptor with a speed three times as great as the speed of sound , which was designed for use against manned bombers in the period of the mid 1960 's .
+9
+#1 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#4 recent ADJ recent%5:00:00:past:00
+#11 long ADJ long%3:00:01::
+#12 range NOUN range%1:07:00::,range%1:15:01::
+#16 speed NOUN speed%1:28:00::
+#20 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#25 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#34 bomber NOUN bomber%1:06:00::
+#37 period NOUN period%1:28:00::,period%1:28:03::
+The substantial progress being made in ballistic missile technology is rapidly shifting the main threat from manned bombers to missiles .
+4
+#1 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 threat NOUN threat%1:10:00::,threat%1:26:00::
+#17 bomber NOUN bomber%1:06:00::
+Considering the high cost of the F-108 system - over $ 4 billion for the force that had been planned - and the time period in which it would become operational , it was decided to stop further work on the project .
+8
+#2 high ADJ high%3:00:02::
+#7 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#15 force NOUN force%1:14:01::,force%1:14:02::
+#19 plan VERB plan%2:31:00::,plan%2:31:01::
+#29 become VERB become%2:30:00::,become%2:42:01::
+#36 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#37 further ADJ further%5:00:00:far:00
+#41 project NOUN project%1:04:00::,project%1:09:00::
+Meanwhile , other air defense forces are being made effective , as described later in this message .
+7
+#2 other ADJ other%5:00:02:past:00
+#5 force NOUN force%1:14:01::,force%1:14:02::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#12 describe VERB describe%2:32:01::
+#13 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#16 message NOUN message%1:10:00::,message%1:10:01::
+The size and scope of other important programs have been reduced from earlier plans .
+6
+#3 scope NOUN scope%1:07:00::
+#5 other ADJ other%3:00:00::
+#7 program NOUN program%1:09:00::,program%1:09:01::
+#10 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#12 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#13 plan NOUN plan%1:09:00::
+Notable in this category are the Jupiter and Thor intermediate range ballistic missiles , which have been successfully developed , produced , and deployed , but the relative importance of which has diminished with the increasing availability of the Atlas intercontinental ballistic missile .
+5
+#3 category NOUN category%1:14:00::
+#10 range NOUN range%1:07:00::,range%1:15:01::
+#18 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#20 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#27 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+The impact of technological factors is also illustrated by the history of the high energy fuel program .
+4
+#4 factor NOUN factor%1:08:00::,factor%1:18:00::
+#10 history NOUN history%1:28:02::
+#13 high ADJ high%3:00:02::
+#16 program NOUN program%1:09:00::,program%1:09:01::
+This project was started at a time when there was a critical need for a high energy fuel to provide an extra margin of range for high performance aircraft , particularly our heavy bombers .
+12
+#1 project NOUN project%1:04:00::,project%1:09:00::
+#6 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#11 critical ADJ critical%3:00:03::,critical%5:00:00:crucial:00,critical%5:00:00:indispensable:00
+#12 need NOUN need%1:26:00::
+#15 high ADJ high%3:00:02::
+#19 provide VERB provide%2:34:00::,provide%2:40:00::
+#22 margin NOUN margin%1:07:00::
+#24 range NOUN range%1:07:00::,range%1:15:01::
+#27 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#30 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#32 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#33 bomber NOUN bomber%1:06:00::
+Continuing technical problems involved in the use of this fuel , coupled with significant improvements in aircraft range through other means , have now raised serious questions about the value of the high energy fuel program .
+11
+#1 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+#3 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#17 range NOUN range%1:07:00::,range%1:15:01::
+#19 other ADJ other%3:00:00::
+#20 means NOUN means%1:06:00::
+#23 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#24 raise VERB raise%2:32:01::,raise%2:37:08::
+#29 value NOUN value%1:21:00::,values%1:09:00::
+#32 high ADJ high%3:00:02::
+#35 program NOUN program%1:09:00::,program%1:09:01::
+As a result , the scope of this project has been sharply curtailed .
+2
+#5 scope NOUN scope%1:07:00::
+#8 project NOUN project%1:04:00::,project%1:09:00::
+These examples underscore the importance of even more searching evaluations of new major development programs and even more penetrating and far ranging analyses of the potentialities of future technology .
+6
+#1 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#11 new ADJ new%3:00:00::
+#12 major ADJ major%3:00:05::,major%3:00:06::
+#13 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#14 program NOUN program%1:09:00::,program%1:09:01::
+#20 far ADV far%4:02:02::
+The cost of developing a major weapon system is now so enormous that the greatest care must be exercised in selecting new systems for development , in determining the most satisfactory rate of development , and in deciding the proper time at which either to place a system into production or to abandon it .
+18
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#5 major ADJ major%3:00:05::,major%3:00:06::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#15 care NOUN care%1:09:00::
+#18 exercise VERB exercise%2:34:00::
+#21 new ADJ new%3:00:00::
+#22 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#24 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#27 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#29 most ADV most%4:02:00::
+#31 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#33 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#39 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#40 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#45 place VERB place%2:31:13::
+#49 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#52 abandon VERB abandon%2:40:01::
+- The deterrent power of our Armed Forces comes from both their nuclear retaliatory capability and their capability to conduct other essential operations in any form of war .
+7
+#3 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#12 nuclear ADJ nuclear%3:00:00::
+#19 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#20 other ADJ other%3:00:00::
+#21 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#22 operation NOUN operation%1:04:03::
+#25 form NOUN form%1:09:01::,form%1:10:00::
+The first capability is represented by a combination of manned bombers , carrier based aircraft , and intercontinental and intermediate range missiles .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#7 combination NOUN combination%1:04:00::,combination%1:14:00::
+#10 bomber NOUN bomber%1:06:00::
+#12 carrier NOUN carrier%1:14:00::
+#20 range NOUN range%1:07:00::,range%1:15:01::
+The second capability is represented by our deployed ground , naval , and air forces in essential forward areas , together with ready reserves capable of effecting early emergency reinforcement .
+9
+#13 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#14 force NOUN force%1:14:01::,force%1:14:02::
+#16 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#17 forward ADJ forward%3:00:03::
+#18 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#20 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#22 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#23 reserve NOUN reserve%1:21:00::
+#27 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+The Strategic Air Command is the principal element of our long range nuclear capability .
+3
+#6 principal ADJ principal%5:00:00:important:00
+#7 element NOUN element%1:06:00::,element%1:09:00::
+#12 nuclear ADJ nuclear%3:00:00::
+One of the important and difficult decisions which had to be made in this budget concerned the role of the B-70 , a long range supersonic bomber .
+5
+#14 budget NOUN budget%1:21:02::
+#15 concern VERB concern%2:42:00::,concern%2:42:01::
+#23 long ADJ long%3:00:01::
+#24 range NOUN range%1:07:00::,range%1:15:01::
+#26 bomber NOUN bomber%1:06:00::
+This aircraft , which was planned for initial operational use about 1965 , would be complementary to but likewise competitive with the four strategic ballistic missile systems , all of which are scheduled to become available earlier .
+5
+#5 plan VERB plan%2:31:00::,plan%2:31:01::
+#15 complementary ADJ complementary%5:00:00:additive:00
+#19 competitive ADJ competitive%3:00:00::
+#26 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#34 become VERB become%2:30:00::,become%2:42:01::
+The first Atlas ICBM 's are now operational , the first two Polaris submarines are expected to be operational this calendar year , and the first Titan ICBM 's next year .
+6
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 first ADJ first%3:00:00::,first%4:02:00::
+#25 first ADJ first%3:00:00::,first%4:02:00::
+#29 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#30 year NOUN year%1:28:00::,year%1:28:01::
+The Minuteman solid fueled ICBM is planned to be operational about mid 1963 .
+1
+#6 plan VERB plan%2:31:00::,plan%2:31:01::
+By 1965 , several or all of these systems will have been fully tested and their reliability established .
+2
+#8 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#12 fully ADV fully%4:02:04::
+Thus , the need for the B-70 as a strategic weapon system is doubtful .
+3
+#0 thus ADV thus%4:02:00::
+#3 need NOUN need%1:26:00::
+#13 doubtful ADJ doubtful%5:00:00:unsettled:02
+However , I am recommending that development work on the B-70 air-frame and engines be continued .
+6
+#0 however ADV however%4:02:04::
+#4 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#6 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#7 work NOUN work%1:04:00::,work%1:06:01::
+#13 engine NOUN engine%1:06:00::
+#15 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+It is expected that in 1963 two prototype aircraft will be available for flight testing .
+2
+#13 flight NOUN flight%1:04:00::,flight%1:14:00::,flight%1:19:00::
+#14 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+By that time we should be in a much better position to determine the value of that aircraft as a weapon system .
+5
+#2 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#9 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#10 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#12 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#14 value NOUN value%1:21:00::,values%1:09:00::
+I am recommending additional acquisitions of the improved version of the B-52 ( the B-52 H with the new turbofan engine ) and procurement of the B-58 supersonic medium bomber , together with the supporting refueling tankers in each case .
+8
+#2 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#4 acquisition NOUN acquisition%1:04:00::
+#8 version NOUN version%1:10:01::
+#18 new ADJ new%3:00:00::
+#29 bomber NOUN bomber%1:06:00::
+#31 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#36 tanker NOUN tanker%1:06:00::
+#39 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+These additional modern bombers will replace some of the older B-47 medium bombers ; one B-52 can do the work of several B-47 's which it will replace .
+5
+#3 bomber NOUN bomber%1:06:00::
+#5 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#9 old ADJ old%3:00:01::,old%3:00:02::
+#12 bomber NOUN bomber%1:06:00::
+#27 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+Funds are also included in this budget to continue the equipping of the B-52 wings with the Hound Dog air-to-surface missile .
+3
+#6 budget NOUN budget%1:21:02::
+#8 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#14 wing NOUN wing%1:06:00::
+In the coming fiscal year additional quantities of Atlas , Titan , and Polaris missiles also will be procured .
+3
+#2 coming ADJ coming%5:00:01:future:00
+#6 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#18 procure VERB procure%2:40:00::

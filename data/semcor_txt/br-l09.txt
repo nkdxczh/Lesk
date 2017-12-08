@@ -1,0 +1,699 @@
+ Maude 's long nose unexpectedly wrinkled up .
+2
+#2 long ADJ long%3:00:01::
+#3 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+" Happened to be in the hall !
+2
+#1 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#6 hall NOUN hall%1:06:03::,hall%1:06:05::
+Happened to hear you quarrel about her !
+2
+#0 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#4 quarrel VERB quarrel%2:32:00::
+Oh , well , you can n't really blame Lolotte .
+1
+#7 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+She lost her beau to you " .
+2
+#1 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#3 beau NOUN beau%1:18:00::
+But she was talking of Emile when she saw the black line of the open door ; Sarah remembered it clearly .
+4
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#11 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#14 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+" I 've got to get busy .
+1
+#5 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Miss Celie 's taken to her bed , with the door locked .
+2
+#3 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#6 bed NOUN bed%1:06:00::
+She opened it an inch and poked out the keys for me to give you .
+5
+#1 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#4 inch NOUN inch%1:23:02::
+#6 poke VERB poke%2:35:01::
+#9 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#13 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Here " - She thrust a bundle of keys strung on a thick red cord into Sarah 's hand .
+5
+#6 bundle NOUN bundle%1:06:00::
+#8 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#12 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#14 cord NOUN cord%1:06:00::
+#18 hand NOUN hand%1:08:00::,hand%1:10:01::
+" Not that there 's much use in locking up the smokehouse and the storehouse now .
+1
+#15 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Drink your coffee " -
+2
+#0 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#2 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+Coffee .
+1
+#0 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+" It 's - cold " .
+1
+#4 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+Maude suddenly looked quite capable of pouring it down her throat .
+4
+#2 look VERB look%2:39:01::,look%2:42:02::
+#3 quite ADV quite%4:02:02::
+#4 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#8 down ADV down%4:02:00::,down%4:02:02::
+" I do n't want it " , Sarah said , firmly .
+2
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Well - I 'll take it down with me as I go " .
+3
+#4 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#6 down ADV down%4:02:04::
+#11 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Maude swooped up the cup and hiked up her top hoop as if about to take off with a racing start .
+3
+#4 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#19 race NOUN race%1:06:00::
+#20 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+At the door she turned back , her Roman nose looking very long now and satiric .
+5
+#4 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#5 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#10 look VERB look%2:39:01::,look%2:42:02::
+#12 long ADJ long%3:00:01::
+#13 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+It 's just like that book your Northern friend wrote - except there are n't any ice floes to cross and no bloodhounds " .
+6
+#2 just ADV just%4:02:05::
+#5 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#7 northern ADJ northern%3:00:01::,northern%3:00:02::
+#8 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#9 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#19 cross VERB cross%2:38:00::
+" I do n't know Mrs. Stowe .
+1
+#4 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+What can they do if they find them " ?
+1
+#6 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+It 's silly , childish , running after them like that .
+1
+#6 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+I told Ben so .
+1
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+But of course the paterollers won n't be of any help , not with everything so upset and that Yankee cavalry outfit they say is running around , God knows where " .
+5
+#10 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#15 so ADV so%4:02:03::,so%4:02:07::
+#16 upset ADJ upset%5:00:00:troubled:00
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+She had swished away , she had been gone for a long time probably when Sarah suddenly realized that she ought to stop her , pour out the coffee , so no one would drink it .
+7
+#2 swish VERB swish%2:39:00::
+#3 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#8 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+#17 realize VERB realize%2:31:01::
+#22 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+#28 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#34 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+But then the so-called coffee was bad enough at best , cold it was all but undrinkable - especially that cup !
+5
+#4 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#7 enough ADV enough%4:02:00::
+#11 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#18 especially ADV especially%4:02:00::
+#20 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+She had quarreled with Lucien , she had resisted his demands for money - and if she died , by the provisions of her marriage contract , Lucien would inherit legally not only the immediate sum of gold under the floorboards in the office , but later , when the war was over , her father 's entire estate .
+7
+#17 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#21 provision NOUN provision%1:10:00::
+#34 immediate ADJ immediate%3:00:00::,immediate%5:00:00:close:01
+#43 office NOUN office%1:06:00::
+#46 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#55 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#58 estate NOUN estate%1:21:02::
+She felt cold and hot , sticky and chilly at the same time .
+4
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#2 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#4 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#6 sticky ADJ sticky%5:00:01:wet:01
+Now wait a minute , she told herself , think about it ; Lucien is not the only person in this house who could have put opium in that coffee .
+9
+#0 now ADV now%4:02:07::
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#3 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 not ADV not%4:02:00::
+#18 person NOUN person%1:03:00::,person%1:08:00::
+#21 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#25 put VERB put%2:35:00::,put%2:35:05::
+#29 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+She had lost a bottle of opium - but that was on the trip from New Orleans .
+2
+#2 lose VERB lose%2:33:01::,lose%2:35:00::,lose%2:39:00::,lose%2:39:01::
+#13 trip NOUN trip%1:04:00::
+Or someone had taken it during her first day at Honotassa .
+2
+#3 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#7 first ADJ first%3:00:00::,first%4:02:00::
+Yes , she had missed it after her talk with Emile , after dinner , just before Emile was shot .
+2
+#4 miss VERB miss%2:37:00::,miss%2:38:00::
+#19 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+Rilly or Glendora had entered her room while she slept , bringing back her washed clothes .
+5
+#4 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 sleep VERB sleep%2:29:00::
+#12 back ADV back%4:02:01::,back%4:02:04::
+#15 clothes NOUN clothes%1:06:00::
+So somebody else could have come in , too - then or later while she was out of the room .
+4
+#8 too ADV too%4:02:01::
+#10 then ADV then%4:02:01::
+#12 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#19 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+It would have been easy to identify as opium by its odor .
+3
+#4 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#6 identify VERB identify%2:31:00::,identify%2:32:00::
+#11 odor NOUN odor%1:07:00::
+It was not very reasonable to believe that Lucien had procured unprocurable opium and come back to Honotassa with a formed plan to murder her .
+5
+#2 not ADV not%4:02:00::
+#4 reasonable ADJ reasonable%3:00:00::,reasonable%5:00:00:rational:00
+#6 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#10 procure VERB procure%2:40:00::
+#21 plan NOUN plan%1:09:01::
+He did n't even know that she was there .
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+And he certainly could n't have guessed that she would resist his demand for the gold or that she was not the yielding - yes , and credible fool he had every right to expect .
+4
+#20 not ADV not%4:02:00::
+#28 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#32 right NOUN right%1:07:00::,right%1:21:00::
+Then somebody else ?
+1
+#0 then ADV then%4:02:02::
+Do n't question , Rev had said , do n't invite danger .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Her skin crawled : Lolotte had told Maude that she was in the hall and the door was open .
+4
+#1 skin NOUN skin%1:05:01::,skin%1:06:02::,skin%1:08:00::,skin%1:26:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#13 hall NOUN hall%1:06:03::,hall%1:06:05::
+#18 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+Sarah had begun to tell Lucien of Emile , she had begun to question and a little draft had crept across the room from the bedroom door , open barely enough to show a rim of blackness in the hall .
+11
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#17 draft NOUN draft%1:19:00::
+#19 creep VERB creep%2:38:00::
+#22 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#28 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#29 barely ADV barely%4:02:00::
+#30 enough ADV enough%4:02:00::
+#32 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#39 hall NOUN hall%1:06:03::,hall%1:06:05::
+So Lolotte - or anybody - could have listened , and that somebody could have already been supplied with the missing bottle of opium .
+1
+#15 already ADV already%4:02:00::
+That was not reasonable either .
+2
+#2 not ADV not%4:02:00::
+#3 reasonable ADJ reasonable%3:00:00::,reasonable%5:00:00:rational:00
+The opium had disappeared before Emile 's death and whoever shot him could not by any stretch of the imagination have foreseen Sarah 's own doubts and suspicions - and questions .
+5
+#3 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#10 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#13 not ADV not%4:02:00::
+#24 own ADJ own%5:00:00:personal:00
+#27 suspicion NOUN suspicion%1:09:01::
+She began to doubt whether there had been in fact a lethal dose of opium in the cup .
+3
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#3 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#17 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+So suppose somebody only wished to frighten her , so she would leave Honotassa !
+4
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 so CONJ so%4:02:10::
+#12 leave VERB leave%2:38:00::,leave%2:41:00::
+That made a certain amount of logic .
+2
+#3 certain ADJ certain%5:00:00:definite:00
+#6 logic NOUN logic%1:09:00::
+Added to the argument was the fact that while she might have tasted the coffee if it had been still hot , she might even have drunk some of it , she would n't have taken enough to kill her , for she would have been warned by its taste .
+8
+#3 argument NOUN argument%1:10:02::
+#14 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#19 still ADV still%4:02:00::
+#20 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#26 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#35 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#38 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#49 taste NOUN taste%1:09:02::,taste%1:09:04::,taste%1:11:00::,taste%1:13:00::
+She would n't go back to New York as Maude suggested ; she would n't run like a scared cat .
+1
+#19 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+But - well , she 'd be very careful .
+1
+#8 careful ADJ careful%3:00:00::,careful%5:00:00:mindful:00
+She dressed and the accustomed routine restored to her a sense of normal everyday life .
+4
+#1 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#10 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#12 normal ADJ normal%3:00:01::,normal%3:00:03::
+#14 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+But before she left her room she dug into her big moire bag , took out the envelope holding her marriage contract and the wax seal had been broken .
+8
+#3 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#12 bag NOUN bag%1:06:00::
+#17 envelope NOUN envelope%1:06:01::
+#18 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#24 wax NOUN wax%1:27:00::
+#28 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+So somebody else knew what would happen to her father 's money if she died .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#14 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Rev had known all along .
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Rev did n't need to break the wax seal , read the contract and find out .
+4
+#5 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#7 wax NOUN wax%1:27:00::
+#8 seal NOUN seal%1:10:01::
+#10 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+He could conceivably have wished to make sure ; Rev loved Honotassa , it was like a part of his breath and body ; Rev had stressed the need for money .
+4
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#22 body NOUN body%1:08:00::,body%1:08:02::
+#26 stress VERB stress%2:32:00::,stress%2:32:01::
+Rev would never have tried to give her poison !
+2
+#2 never ADV never%4:02:00::
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+She thrust the envelope back in the bag ; there was no point in locking it up in the armoire now , it was like locking the barn after the horse was stolen .
+8
+#3 envelope NOUN envelope%1:06:01::
+#7 bag NOUN bag%1:06:00::
+#12 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#20 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#25 lock VERB lock%2:35:00::,lock%2:35:02::,lock%2:35:03::
+#27 barn NOUN barn%1:06:00::
+#30 horse NOUN horse%1:05:00::,horse%1:14:00::
+#32 steal VERB steal%2:33:00::,steal%2:40:00::
+And in all likelihood , by now , there was more than one person in the house who knew the terms of her marriage contract .
+5
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 person NOUN person%1:03:00::,person%1:08:00::
+#16 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 term NOUN term%1:10:01::,term%1:10:02::
+There was no point either in telling herself again what a fool she 'd been .
+3
+#3 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+She went downstairs and received another curious shock , for when Glendora flapped into the dining room in her homemade moccasins , Sarah asked her when she had brought coffee to her room and Glendora said she had n't .
+7
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 shock NOUN shock%1:26:00::
+#20 moccasin NOUN moccasin%1:06:00::
+#23 ask VERB ask%2:32:00::,ask%2:32:04::
+#29 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#32 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#35 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Too much work this morning , Miss Sarah - everybody gone like that " -
+1
+#5 morning NOUN morning%1:28:00::,morning%1:28:01::
+" Well , then who brought it " ?
+1
+#3 then ADV then%4:02:02::
+She come to the kitchen and say she take it up to you " .
+4
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#4 kitchen NOUN kitchen%1:06:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Glendora put down a dish of lukewarm rice .
+1
+#4 dish NOUN dish%1:06:00::
+" Not much breakfast this morning .
+1
+#5 morning NOUN morning%1:28:00::,morning%1:28:01::
+I do n't know what we 're going to do , Miss Sarah " .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" We 've got to eat " , Sarah said , curtly , because a chill crawled over her again .
+3
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 chill NOUN chill%1:07:00::
+#16 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+Glendora flapped away .
+1
+#2 away ADV away%4:02:05::
+The rice was n't dosed with opium , indeed it had no taste at all , not a grain of salt .
+6
+#8 indeed ADV indeed%4:02:03::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 taste NOUN taste%1:09:02::,taste%1:09:04::,taste%1:11:00::,taste%1:13:00::
+#16 not ADV not%4:02:00::
+#18 grain NOUN grain%1:17:00::
+#20 salt NOUN salt%1:09:00::
+In the kitchen Glendora was despairingly picking chickens .
+2
+#2 kitchen NOUN kitchen%1:06:00::
+#7 chicken NOUN chicken%1:13:00::
+" Get a basket " , Sarah told her .
+3
+#1 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#3 basket NOUN basket%1:06:00::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Glendora dropped a chicken and a flurry of feathers , and went with her through the drizzle , to the storehouse .
+3
+#1 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#3 chicken NOUN chicken%1:13:00::
+#11 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Sarah found the right key and unlocked the door .
+3
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#3 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+#4 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+It was a long , low room , like a root cellar , for it was banked up with soil , and vines had run rampant over that , too .
+9
+#3 long ADJ long%3:00:01::
+#5 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#16 bank VERB bank%2:31:02::
+#19 soil NOUN soil%1:15:00::,soil%1:26:00::
+#22 vine NOUN vine%1:20:00::
+#24 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#25 rampant ADJ rampant%5:00:00:abundant:00
+#29 too ADV too%4:02:01::
+It was dark but dry and cool .
+3
+#2 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#4 dry ADJ dry%3:00:01::
+#6 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+She doled out what Glendora vaguely guessed were the right amounts of dried peas , eggs , cornmeal , a little salt .
+6
+#5 vaguely ADV vaguely%4:02:00::
+#9 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+#12 dry ADJ dry%3:00:01::
+#13 pea NOUN pea%1:20:02::
+#15 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#21 salt NOUN salt%1:09:00::
+The shelves looked emptier than when Miss Celie had shown her the storeroom , and since the men from the Commissary had called ; there were certainly now fewer mouths to feed but there was less to feed them with .
+10
+#2 look VERB look%2:39:01::,look%2:42:02::
+#3 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#9 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#17 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#20 commissary NOUN commissary%1:06:00::
+#22 call VERB call%2:41:00::,call%2:41:12::
+#27 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#29 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#31 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#37 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+She took Glendora to the smokehouse , unlocked it and saw with satisfaction there was still a quantity of hams and sides of bacon , hanging from the smoke stained rafters .
+7
+#1 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 still ADV still%4:02:00::
+#17 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#19 ham NOUN ham%1:13:00::
+#25 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#30 rafter NOUN rafter%1:06:00::
+And the fields were green and growing .
+1
+#2 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+" Ca n't you possibly imagine what life is going to be like , here " ?
+3
+#4 possibly ADV possibly%4:02:01::
+#5 imagine VERB imagine%2:31:01::
+#14 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Maude had said .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She sent Glendora back to the house , her basket and her apron laden .
+5
+#1 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#3 back ADV back%4:02:01::,back%4:02:04::
+#6 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#9 basket NOUN basket%1:06:00::
+#12 apron NOUN apron%1:06:00::
+She stood for a moment , rain dripping from the trees over her head , thinking of Maude .
+4
+#1 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#4 moment NOUN moment%1:28:00::,moment%1:28:01::
+#10 tree NOUN tree%1:20:00::
+#13 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Maude had the opportunity to take the bottle of opium from Sarah 's room .
+2
+#5 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#13 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+Maude had the cool ruthlessness to do whatever she made up her mind to do .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+She could n't see how her death could affect Maude .
+2
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#8 affect VERB affect%2:30:00::,affect%2:42:00::
+She could n't see any reason why Maude would attempt to frighten her .
+2
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#5 reason NOUN reason%1:09:01::,reason%1:16:00::
+Besides , there was something hysterical and silly , something almost childish about an attempt to frighten her .
+1
+#5 hysterical ADJ hysterical%5:00:00:agitated:00
+Maude was neither hysterical nor silly and Sarah rather doubted if she had ever been childish .
+5
+#2 neither ADV neither%5:00:00:incomplete:00
+#3 hysterical ADJ hysterical%5:00:00:agitated:00
+#8 rather ADV rather%4:02:00::,rather%4:02:04::
+#9 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#13 ever ADV ever%4:02:05::
+Yet Maude had suggested that Sarah return to New York .
+1
+#6 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Maude could have shot Emile - if she 'd had a reason to kill him .
+4
+#3 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 reason NOUN reason%1:09:01::,reason%1:16:00::
+#13 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+There was no use in standing there in the drizzle , trying to find a link between Emile 's murder and opium in a cup of coffee .
+7
+#5 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#6 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#15 link NOUN link%1:24:00::
+#24 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#26 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+She started back for the house , saw a light in the office , opened the door and surprised a domestic little scene which was far outside the dark realm of murder or attempted murder .
+11
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#2 back ADV back%4:02:01::,back%4:02:04::
+#5 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#12 office NOUN office%1:06:00::
+#14 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#20 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+#22 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#25 far ADV far%4:02:02::
+#28 dark ADJ dark%5:00:00:depressing:00,dark%5:00:00:evil:00,dark%5:00:00:ill-natured:00
+Rev , George and Lolotte were mending shoes .
+1
+#7 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+a lighted lamp stood on the table that dusky , drizzling day .
+3
+#3 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#6 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#11 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+They were all three bent over a shabby riding boot ; George had a tack hammer .
+2
+#4 bend VERB bend%2:35:08::,bend%2:38:02::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Lolotte held a patch of leather , Rev steadied something , a tiny brad , waiting for George 's poised hammer .
+4
+#1 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#3 patch NOUN patch%1:06:00::
+#8 steady VERB steady%2:35:00::
+#20 hammer NOUN hammer%1:06:00::
+George said , " First thing I do when I get to Vicksburg again , is get me a Yankee " -
+5
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#16 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+#19 Yankee NOUN yankee%1:18:01::
+" With boots on " , Lolotte laughed softly .
+1
+#2 boot NOUN boot%1:06:00::
+Rev looked up and saw her .
+3
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#2 up ADV up%4:02:00::,up%4:02:02::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Lolotte looked up and stiffened .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#2 up ADV up%4:02:00::,up%4:02:02::
+George did n't look up at all .
+2
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 up ADV up%4:02:00::,up%4:02:02::
+There was no way to know , no way to guess whether any one of them was surprised at Sarah 's appearance , believing her to be drugged and senseless - and just possibly dead .
+9
+#3 way NOUN way%1:04:00::,way%1:09:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 way NOUN way%1:04:00::,way%1:09:00::
+#21 appearance NOUN appearance%1:11:00::
+#23 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#29 senseless ADJ senseless%5:00:00:stupid:00
+#32 just ADV just%4:02:00::,just%4:02:03::
+#33 possibly ADV possibly%4:02:00::
+#34 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+Rev said , " Come in , Sarah .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Reckon you know the news " .
+2
+#0 reckon VERB reckon%2:31:01::
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+And what news , Sarah thought as satirically as Maude might have said it .
+2
+#5 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Rev 's face was suddenly a little fixed and questioning .
+2
+#2 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#7 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+" Take your cobbler 's shop somewhere else .
+3
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#3 cobbler NOUN cobbler%1:18:00::
+#5 shop NOUN shop%1:06:00::
+I want to talk to Sarah " .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Everything in the office , the spreading circle of lamplight , the patch of leather in Lolotte 's hands .
+4
+#3 office NOUN office%1:06:00::
+#7 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+#12 patch NOUN patch%1:06:00::
+#18 hand NOUN hand%1:08:00::,hand%1:10:01::
+George poised with the tack hammer , the homely , everyday atmosphere , all denied an attempt at murder .
+2
+#8 homely ADJ homely%5:00:00:comfortable:00
+#14 deny VERB deny%2:32:00::,deny%2:32:01::
+A rush of panic caught Sarah .
+3
+#1 rush NOUN rush%1:11:01::
+#3 panic NOUN panic%1:12:00::
+#4 catch VERB catch%2:35:00::
+Not now .
+2
+#0 not ADV not%4:02:00::
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+I mean I 've got to - to see to the kitchen .
+2
+#8 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+#11 kitchen NOUN kitchen%1:06:00::
+Her words jumbled together and she all but ran from the office and from the question in Rev 's face .
+5
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#3 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#8 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#11 office NOUN office%1:06:00::
+#19 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Now why did I do that ?
+1
+#0 now ADV now%4:02:02::,now%4:02:07::
+she thought as warm , drizzling rain touched her face .
+4
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#3 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#7 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+As she reached the kitchen door the answer presented itself ; if she told anyone of the opium it must be Lucien , her husband .
+4
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#4 kitchen NOUN kitchen%1:06:00::
+#8 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#13 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It might be , indeed it had already proved to be a marriage without love , but it was marriage .
+5
+#7 already ADV already%4:02:00::
+#8 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#12 marriage NOUN marriage%1:04:00::,marriage%1:14:00::,marriage%1:26:00::
+#14 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#19 marriage NOUN marriage%1:04:00::,marriage%1:14:00::,marriage%1:26:00::
+Always provided that Lucien himself had not dosed her coffee with opium , she thought , as coldly and sharply , again , as Maude might have said it .
+5
+#0 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#6 not ADV not%4:02:00::
+#9 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#14 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She paused at the kitchen door , caught her breath , told herself firmly that the opium was only an attempt to frighten her and went into the kitchen , where Glendora was eyeing the chickens dismally and Maude was cleaning lamp chimneys .
+5
+#4 kitchen NOUN kitchen%1:06:00::
+#11 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 kitchen NOUN kitchen%1:06:00::
+#35 chicken NOUN chicken%1:13:00::
+" Miss Sarah , I can n't cut up no chicken .
+1
+#10 chicken NOUN chicken%1:13:00::
+Miss Maude say she won n't " .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Again the homely , everyday details of daily living refuted a vicious attempt to frighten her - or to murder her .
+4
+#2 homely ADJ homely%5:00:00:comfortable:00
+#5 detail NOUN detail%1:10:00::,detail%1:24:00::
+#8 living NOUN living%1:09:00::
+#11 vicious ADJ vicious%5:00:00:wrong:01
+The homely everyday details of living and domestic requirements also pressed upon her with their immediate urgency .
+5
+#1 homely ADJ homely%5:00:00:comfortable:00
+#3 detail NOUN detail%1:10:00::,detail%1:24:00::
+#5 living NOUN living%1:09:00::
+#7 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+#15 immediate ADJ immediate%5:00:00:present(a):01,immediate%5:00:00:present:01
+No matter what had happened or had n't happened , somebody had to see about dinner .
+3
+#4 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#8 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#13 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+She eyed the chickens with , if she had known it , something of Glendora 's dismal look and thought with a certain fury of the time she had spent on Latin verbs .
+6
+#3 chicken NOUN chicken%1:13:00::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 look NOUN look%1:04:00::,look%1:07:01::
+#22 certain ADJ certain%5:00:00:definite:00
+#23 fury NOUN fury%1:12:00::
+#26 time NOUN time%1:28:01::,time%1:28:05::

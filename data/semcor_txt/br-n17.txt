@@ -1,0 +1,708 @@
+ I guided her to the divan , turned off the TV , faced her .
+3
+#1 guide VERB guide%2:38:00::,guide%2:38:01::
+#5 divan NOUN divan%1:06:00::
+#12 face VERB face%2:38:00::,face%2:42:00::
+She sat quietly , staring at me from the wide eyes .
+3
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#10 eye NOUN eye%1:08:00::,eye%1:09:01::
+And what eyes they were .
+1
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+Big and dark , a melting , golden brown .
+3
+#0 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#2 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#7 golden ADJ golden%5:00:00:metallic:00
+Eyes like hot honey , eyes that sizzled .
+3
+#2 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#3 honey NOUN honey%1:13:00::
+#5 eye NOUN eye%1:08:00::,eye%1:09:01::
+Plus flawless skin , smooth brow and cheeks , lips that looked as if you could get a shock from them .
+7
+#2 skin NOUN skin%1:05:01::,skin%1:06:02::,skin%1:08:00::,skin%1:26:00::
+#5 brow NOUN brow%1:08:00::
+#7 cheek NOUN cheek%1:08:00::
+#9 lip NOUN lip%1:08:00::,lip%1:20:00::
+#11 look VERB look%2:39:01::,look%2:42:02::
+#16 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#18 shock NOUN shock%1:26:00::
+It was a disturbingly familiar face , too , but I could n't remember where we had met .
+3
+#4 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#7 too ADV too%4:02:01::
+#17 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+I said , " Do we know each other , Miss " ?
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#10 miss NOUN miss%1:18:00::
+" No , I remembered reading about you in the papers and that you lived here , and when it happened all I could think of was - " .
+4
+#10 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#14 live VERB live%2:42:08::
+#15 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#20 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+This time she stopped the rush of words herself .
+4
+#1 time NOUN time%1:11:00::
+#3 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#5 rush NOUN rush%1:11:01::
+#7 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+" I 'm sorry .
+1
+#3 sorry ADJ sorry%3:00:02::
+It was her first smile .
+1
+#3 first ADJ first%3:00:00::,first%4:02:00::
+But worth waiting for .
+1
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+I said .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" But one word at a time , O. K . " ?
+1
+#3 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+She was still hugging the stained coat around her , so I said , " Relax , let me take your things .
+6
+#2 still ADV still%4:02:00::
+#6 coat NOUN coat%1:06:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+#19 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#21 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+Would you like a drink , or coffee " ?
+1
+#7 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+She stood up , pulled the coat from her shoulders and started to slide it off , then let out a high-pitched scream and I let out a low-pitched , wobbling sound like a muffler blowing out .
+8
+#4 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#6 coat NOUN coat%1:06:00::
+#9 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#15 off ADV off%4:02:00::
+#17 then ADV then%4:02:00::
+#21 high-pitched ADJ high-pitched%3:00:00::
+#28 low-pitched ADJ low-pitched%3:00:00::
+#31 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+She was wearing nothing beneath the coat .
+2
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#6 coat NOUN coat%1:06:00::
+She jerked the coat back on and squeezed it around her again , but not soon enough .
+4
+#1 jerk VERB jerk%2:35:01::
+#3 coat NOUN coat%1:06:00::
+#4 back ADV back%4:02:01::,back%4:02:04::
+#14 not ADV not%4:02:00::
+There had been a good second or two during which my muffler had been blowing out , and now I was certain I 'd seen her somewhere before .
+5
+#4 good ADJ good%3:00:01::
+#18 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#21 certain ADJ certain%3:00:01::
+#24 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#27 before ADV before%4:02:03::
+I 'm sorry " !
+1
+#2 sorry ADJ sorry%3:00:02::
+" That 's what started all the trouble in the first place .
+1
+#7 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Oh , dear , I 'm all unstrung " .
+1
+#6 all ADV all%4:02:00::
+Have n't we & & & have n't I seen you & & & .
+1
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" You may have seen me on TV " , she said .
+2
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Then it hit me .
+2
+#0 then ADV then%4:02:00::
+#2 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+And you recognized me " ?
+1
+#2 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+" Yes , indeed .
+1
+#3 indeed ADV indeed%4:02:03::
+In fact , I was watching you on that little seventeen inch screen when you rang my bell .
+4
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 inch NOUN inch%1:23:02::
+#12 screen NOUN screen%1:06:05::
+#17 bell NOUN bell%1:28:00::
+Man , you rang - it was in color , too , Miss , and & & & Miss ?
+3
+#10 too ADV too%4:02:01::
+#12 miss NOUN miss%1:18:00::
+#18 miss NOUN miss%1:18:00::
+What 's your name , anyway ?
+1
+#3 name NOUN name%1:14:00::
+I sat by her on the divan .
+2
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#6 divan NOUN divan%1:06:00::
+" That 's the last one we did .
+1
+#4 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+" I 'll bet .
+1
+#3 bet VERB bet%2:31:00::
+I do n't mean to pry , but do they hide the swimsuit with the bubbles ?
+2
+#5 pry VERB pry%2:39:00::
+#15 bubble NOUN bubble%1:17:00::
+I mean : Is advertising honest ?
+1
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+I never wear anything at all .
+2
+#1 never ADV never%4:02:00::
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+It would n't - would n't seem fair , somehow " .
+1
+#7 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+" I could n't agree with you more " .
+1
+#4 agree VERB agree%2:32:00::,agree%2:32:01::
+" I really do have something important to tell you , Mr. Scott .
+3
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Oh , yeah " , I said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She told me .
+1
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+ZING was the creation of two men , Louis Thor and Bill Blake , partners in ZING !
+2
+#3 creation NOUN creation%1:06:00::
+#14 partner NOUN partner%1:18:02::
+They 'd peddled the soap virtually alone , and without much success , until about a year ago , when - with the addition of " SX-21 " to their secret formula and the inauguration of a high-powered advertising campaign - sales had soared practically into orbit .
+7
+#4 soap NOUN soap%1:06:00::
+#5 virtually ADV virtually%4:02:02::
+#6 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#16 year NOUN year%1:28:00::,year%1:28:01::
+#31 formula NOUN formula%1:09:00::,formula%1:10:01::
+#41 sale NOUN sale%1:04:00::,sale%1:04:02::
+#44 practically ADV practically%4:02:00::
+Their product had been endorsed by Good Housekeeping , the A. M. A. , and the Veterinary Journal , among other repositories of higher wisdom , and before much longer if you did n't have a cake of their soap in the john , even your best friends would think you did n't bathe .
+9
+#1 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#4 endorse VERB endorse%2:41:02::
+#34 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#39 soap NOUN soap%1:06:00::
+#42 john NOUN john%1:06:00::
+#46 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#47 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#49 think VERB think%2:31:01::,think%2:31:03::
+#53 bathe VERB bathe%2:29:01::
+My lovely caller - Joyce Holland was her name - had previously done three filmed commercials for ZING , and this evening , the fourth , a super production , had been filmed at the home of Louis Thor .
+6
+#2 caller NOUN caller%1:18:01::
+#8 name NOUN name%1:14:00::
+#27 super ADJ super%5:00:00:superior:02
+#28 production NOUN production%1:04:00::,production%1:10:00::
+#32 film VERB film%2:32:00::
+#35 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The water in Thor 's big swimming pool had been covered with a blanket of thick , foamy soapsuds - fashioned , of course , from ZING - Joyce had dived from the board into the pool , then swirled and cavorted in her luxurious " bath " while cameras rolled .
+11
+#1 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#5 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#10 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#13 blanket NOUN blanket%1:17:00::
+#15 thick ADJ thick%3:00:02::
+#30 dive VERB dive%2:38:01::
+#36 pool NOUN pool%1:06:00::,pool%1:17:01::
+#38 then ADV then%4:02:00::
+#46 bath NOUN bath%1:06:00::
+#49 camera NOUN camera%1:06:00::
+#50 roll VERB roll%2:35:01::,roll%2:38:01::,roll%2:38:10::,roll%2:38:11::,roll%2:42:00::
+The finished - and drastically cut - product would begin with a hazy longshot of Joyce entering the suds , then bursting above the pool 's surface clad in layers of lavender lather , and I had a hunch this item was going to sell tons and tons of soap ; even to clean men and boys .
+16
+#7 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#20 then ADV then%4:02:00::
+#24 pool NOUN pool%1:06:00::,pool%1:17:01::
+#26 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#27 clad VERB clothe%2:29:00::
+#29 layer NOUN layer%1:06:00::
+#36 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#38 hunch NOUN hunch%1:09:00::
+#45 ton NOUN tons%1:23:00::
+#47 ton NOUN tons%1:23:00::
+#49 soap NOUN soap%1:06:00::
+#53 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#54 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#56 boy NOUN boy%1:18:03::
+Joyce went on , " When we 'd finished , Lou - Mr. Thor - asked me to stay a little longer .
+2
+#8 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#18 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+He wanted a few stills for magazine ads , he said .
+5
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 still NOUN still%1:06:01::
+#6 magazine NOUN magazine%1:10:00::
+#7 ad NOUN ad%1:10:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Everybody left and I stayed in the pool , then Lou came back alone and leaped into the pool too .
+7
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+#4 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#7 pool NOUN pool%1:06:00::,pool%1:17:01::
+#9 then ADV then%4:02:01::
+#13 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#18 pool NOUN pool%1:06:00::,pool%1:17:01::
+#19 too ADV too%4:02:01::
+And he did n't have any clothes on " .
+1
+#6 clothes NOUN clothes%1:06:00::
+Did , I mean " .
+1
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+" Did leap into the pool , and did n't have anything on .
+1
+#5 pool NOUN pool%1:06:00::,pool%1:17:01::
+Anyway , it was evident what he had in mind " .
+1
+#0 anyway ADV anyway%4:02:00::
+He caught up with me once and grabbed me , but I was all covered with ZING - it 's very slippery , you know " .
+3
+#5 once ADV once%4:02:00::
+#7 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#13 all ADV all%4:02:00::
+" I did n't know .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I would n't have the stuff in the house .
+2
+#5 stuff NOUN stuff%1:07:00::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+" So I just scooted out of his clutches .
+2
+#3 just ADV just%4:02:00::,just%4:02:03::
+#8 clutch NOUN clutch%1:04:00::
+I swam like mad , got out of the pool , grabbed my robe , and ran to the car .
+5
+#1 swim VERB swim%2:38:00::
+#9 pool NOUN pool%1:06:00::,pool%1:17:01::
+#11 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#13 robe NOUN robe%1:06:01::
+#16 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+The keys were still in it , and I was miles away before I remembered that my clothes and purse and everything were still in the little cabana where I 'd changed " .
+6
+#1 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#3 still ADV still%4:02:00::
+#11 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#17 clothes NOUN clothes%1:06:00::
+#23 still ADV still%4:02:00::
+#31 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+She 'd driven around for a while , Joyce said , then , thinking Louis Thor would have calmed down by that time , she 'd gone back to his home on Bryn Mawr Drive , parked in front , and walked toward the pool .
+7
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 then ADV then%4:02:01::
+#13 think VERB think%2:31:01::,think%2:31:03::
+#22 time NOUN time%1:11:00::
+#30 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#41 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#44 pool NOUN pool%1:06:00::,pool%1:17:01::
+While several yards from it , still concealed by the shrubbery , she 'd seen two men on her left at the pool 's edge .
+5
+#2 yard NOUN yard%1:23:00::,yard%1:23:01::
+#6 still ADV still%4:02:00::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#22 pool NOUN pool%1:06:00::,pool%1:17:01::
+#24 edge NOUN edge%1:06:01::
+" A man was holding onto Lou , holding him up .
+3
+#4 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#8 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#10 up ADV up%4:02:00::
+Maybe Lou was only unconscious , but right then I thought he must be dead .
+5
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#8 then ADV then%4:02:01::
+#10 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#14 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+The man shoved him into the water , then ran past the cabana .
+3
+#6 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#8 then ADV then%4:02:00::
+#9 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+There 's a walk there that goes out to Quebec Drive .
+3
+#3 walk NOUN walk%1:04:00::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+I was so scared , well , I just ran to my car and came here " .
+5
+#2 so ADV so%4:02:03::,so%4:02:07::
+#8 just ADV just%4:02:00::,just%4:02:03::
+#9 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#14 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#15 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+" You know who the other man was " ?
+2
+#2 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#5 other ADJ other%3:00:00::
+" No , I never did see his face .
+3
+#4 never ADV never%4:02:00::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+I did n't get a good look at him at all , his back was to me , and I was so scared .
+3
+#6 look NOUN look%1:04:00::,look%1:07:01::
+#13 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#21 so ADV so%4:02:03::,so%4:02:07::
+It was just somebody in a man 's suit .
+2
+#2 just ADV just%4:02:00::,just%4:02:03::
+#8 suit NOUN suit%1:06:00::
+But I 'm sure the other one was Lou " .
+1
+#5 other ADJ other%3:00:00::
+What Joyce wanted me to do was go to Thor 's house and " do whatever detectives do " , and get her clothes - and handbag containing her identification .
+4
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#23 clothes NOUN clothes%1:06:00::
+#27 contain VERB contain%2:42:00::,contain%2:42:06::
+She realized I 'd have to notify the police , but fervently hoped I could avoid mentioning her name .
+3
+#1 realize VERB realize%2:31:01::
+#15 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#18 name NOUN name%1:14:00::
+Her impact in the ZING commercials had led to her being considered for an excellent part in an upcoming TV series , Underwater Western Eye , a documentary type show to be sponsored by Oatnut Grits .
+6
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#15 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#20 series NOUN series%1:10:01::
+#28 type NOUN type%1:18:00::
+#29 show NOUN show%1:04:00::,show%1:10:00::
+#32 sponsor VERB sponsor%2:40:00::
+But if Joyce got involved in murder or salacious scandal , the role would probably go to the sponsor 's wife , Mrs. Oatnut Grits .
+3
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#15 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#18 sponsor NOUN sponsor%1:18:01::
+" And I so want the part " , she said .
+4
+#3 so ADV so%4:02:03::,so%4:02:07::
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" The commercials have just been for money , there has n't been any real incentive for me to do them , but in Underwater Western Eye I 'd have a chance to act .
+3
+#4 just ADV just%4:02:00::,just%4:02:03::
+#14 real ADJ real%3:00:00::,real%5:00:00:true:00
+#33 act VERB act%2:29:00::,act%2:36:00::
+I could show what I can do " .
+1
+#2 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+As far as I was concerned , she had already and had dandily shown what she could do .
+2
+#9 already ADV already%4:02:00::
+#13 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+But I promised Joyce I would mention her name , if at all , only as a last resort .
+3
+#2 promise VERB promise%2:32:00::,promise%2:32:01::
+#8 name NOUN name%1:14:00::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Seeming much relieved , she smiled one of those worth waiting for smiles , and I smiled all the way into the bedroom .
+1
+#10 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+There I got my Colt Special and shoulder harness , slipped my coat on , and went back into the front room .
+2
+#7 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#12 coat NOUN coat%1:06:00::
+Joyce squirmed a little on the divan .
+1
+#6 divan NOUN divan%1:06:00::
+" I 'm starting to itch " , she said .
+2
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Yes , I 'm still all covered with that soap .
+2
+#5 still ADV still%4:02:00::
+#10 soap NOUN soap%1:06:00::
+I was loaded with suds when I ran away , and I have n't had a chance to wash it off .
+3
+#2 loaded ADJ loaded%5:00:00:rich:00
+#18 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#20 off ADV off%4:02:00::
+" You might as well wait here while I 'm gone , so you can use my shower if you 'd like " .
+7
+#5 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+#12 so CONJ so%4:02:10::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 shower NOUN shower%1:04:00::
+#21 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+I showed her the shower and tub , and she said , smiling , " If you really do n't mind , I think I 'll get clean in the shower , then soak for a few minutes in your tub .
+12
+#4 shower NOUN shower%1:04:00::
+#6 tub NOUN tub%1:06:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#23 think VERB think%2:31:01::,think%2:31:03::
+#26 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#27 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#30 shower NOUN shower%1:04:00::
+#32 then ADV then%4:02:00::
+#33 soak VERB soak%2:35:01::
+#37 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#40 tub NOUN tub%1:06:01::
+That always relaxes me .
+2
+#1 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#2 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+" Only when I do it " .
+1
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+I shook my head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+One of my virtues or vices is a sort of three-dimensional imagination complete with sound effects and glorious living color .
+4
+#3 virtue NOUN virtue%1:07:03::
+#5 vice NOUN vice%1:07:00::
+#17 glorious ADJ glorious%5:00:00:beautiful:00
+#19 color NOUN color%1:07:00::,color%1:27:00::
+" Soak as long as you want , Joyce .
+2
+#1 soak VERB soak%2:35:01::
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+It 'll probably be at least an hour or two before I can check back with you .
+2
+#7 hour NOUN hour%1:07:00::,hours%1:28:01::
+#13 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+So you 'll have everything all to yourself , doggone " .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 all ADV all%4:02:00::
+I looked at my watch .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 watch NOUN watch%1:06:00::
+Time to go , I supposed .
+2
+#0 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#5 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+" Well , goodbye " , I said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She smiled slightly .
+1
+#2 slightly ADV slightly%4:02:01::
+I 'll be soaking for at least half an hour " .
+2
+#3 soak VERB soak%2:35:01::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+That was all she said .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+But suddenly those hot honey eyes seemed to have everything but swarms of bees in them .
+2
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 bee NOUN bee%1:05:00::
+However , when there 's a job to be done , I 'm a monstrosity of grim determination , I like to think .
+5
+#0 however ADV however%4:02:04::
+#6 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#14 monstrosity NOUN monstrosity%1:18:00::
+#17 determination NOUN determination%1:07:00::
+#22 think VERB think%2:31:01::,think%2:31:03::
+I spun about and clattered through the front room to the door .
+2
+#1 spin VERB spin%2:38:01::
+#2 about ADV about%4:02:01::
+As I went out , I could hear water pouring in the shower .
+2
+#8 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#12 shower NOUN shower%1:04:00::
+Hot water .
+2
+#0 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#1 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+She would n't be taking a cold shower .
+3
+#4 take VERB take%2:31:02::,take%2:34:00::
+#6 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#7 shower NOUN shower%1:04:00::
+Bryn Mawr Drive is only two or three miles from the Spartan , and it took me less than five minutes to get there .
+4
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 take VERB take%2:40:06::,take%2:42:03::
+#20 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#23 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+But the scene was not the quiet , calm scene I 'd expected .
+4
+#2 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#6 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#8 calm ADJ calm%5:00:00:composed:00
+#9 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+Four cars were parked at the curb , and two of them were police radio cars .
+1
+#6 curb NOUN curb%1:06:00::
+Lights blazed in the big house and surrounding grounds .
+5
+#0 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#1 blaze VERB blaze%2:43:00::
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#5 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#8 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+I followed a shrubbery lined gravel path alongside the house to the pool .
+3
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#9 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#12 pool NOUN pool%1:06:00::,pool%1:17:01::
+Two uniformed officers , a couple of plain-clothesmen I knew , and two other men stood on a gray cement area next to the pool on my left .
+7
+#1 uniform ADJ uniform%3:00:00::
+#2 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#9 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#13 other ADJ other%3:00:00::
+#18 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#20 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#24 pool NOUN pool%1:06:00::,pool%1:17:01::
+At the pool 's far end was the little cabana Joyce had mentioned , and on the water 's surface floated scattered lavender patches of limp looking lather .
+5
+#2 pool NOUN pool%1:06:00::,pool%1:17:01::
+#5 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#20 float VERB float%2:38:01::
+#23 patch NOUN patch%1:06:00::
+A few yards beyond the group of men , a man 's nude body lay face down on a patch of thick green dichondra .
+4
+#2 yard NOUN yard%1:23:00::,yard%1:23:01::
+#13 body NOUN body%1:08:00::,body%1:08:02::
+#15 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#22 green NOUN green%1:07:00::
+Lieutenant Rawlins , one of the plain-clothesmen , spotted me and said , " Hi , Shell " , and walked toward me .
+3
+#8 spot VERB spot%2:39:00::,spot%2:39:02::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+He did n't push it ; Rawlins worked out of Central Homicide and we 'd been friends for years .
+2
+#7 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#16 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+A call to the police had been placed from here a couple of minutes after nine p. m. , and the first police car had arrived two or three minutes after that - 10 minutes ago now .
+8
+#1 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#7 place VERB place%2:32:01::,place%2:40:00::,place%2:40:03::,place%2:41:00::
+#9 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#13 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#21 first ADJ first%3:00:00::,first%4:02:00::
+#29 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#34 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#36 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Present at the scene - in addition to the dead man , who was indeed Louis Thor - had been Thor 's partner Bill Blake , and Antony Rose , an advertising agency executive who handled the ZING account .
+8
+#0 present ADJ present%3:00:02::
+#3 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#9 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#14 indeed ADV indeed%4:02:03::
+#22 partner NOUN partner%1:18:02::
+#33 executive NOUN executive%1:18:00::
+#35 handle VERB handle%2:41:00::,handle%2:41:03::
+#38 account NOUN account%1:26:00::
+Neither of them , I understood , had been present at the filming session earlier .
+5
+#5 understand VERB understand%2:31:01::,understand%2:31:02::
+#9 present ADJ present%3:00:02::
+#12 film NOUN film%1:10:00::,film%1:10:01::
+#13 session NOUN session%1:04:00::,session%1:28:00::
+#14 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+" What were they doing here " ?
+1
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+I asked Rawlins .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" They were supposed to meet Thor at nine p. m. for a conference concerning the ad campaign for their soap , a new angle based on this SX-21 stuff " .
+8
+#5 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#13 conference NOUN conference%1:14:00::
+#14 concern VERB concern%2:42:00::,concern%2:42:01::
+#20 soap NOUN soap%1:06:00::
+#23 new ADJ new%3:00:00::,new%5:00:00:original:00
+#24 angle NOUN angle%1:25:00::
+#25 base VERB base%2:31:00::
+#29 stuff NOUN stuff%1:07:00::
+" Yeah , I 've heard more about SX-21 than space exploration lately .
+1
+#10 space NOUN space%1:03:00::,space%1:15:01::
+That was the new advertising angle - something about a Lloyd's of London policy to insure the secrecy of the secret ingredient .
+3
+#3 new ADJ new%3:00:00::,new%5:00:00:original:00
+#5 angle NOUN angle%1:25:00::
+#15 insure VERB insure%2:32:04::,insure%2:40:00::
+Actually , only two men know what the formula is , Blake and " - He stopped and looked at Thor 's body .
+5
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 formula NOUN formula%1:10:02::,formula%1:13:00::
+#16 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#18 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#22 body NOUN body%1:08:00::,body%1:08:02::
+I said , " O. K. , so now only Blake knows .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+How 's it strike you , foul or fair " ?
+2
+#3 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+#8 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+" Ca n't say yet .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+Deputy coroner says it looks like he sucked in a big pile of those thick suds and strangled on ' em .
+4
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 look VERB look%2:39:01::,look%2:42:02::
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#11 pile NOUN pile%1:14:00::
+The PM might show he drowned instead , but that 's what the once-over-lightly gives us .
+2
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#14 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Accident , murder , suicide - take your pick " .
+3
+#0 accident NOUN accident%1:11:01::
+#6 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#8 pick NOUN pick%1:04:00::
+" I 'll pick murder .
+1
+#3 pick VERB pick%2:31:00::
+" According to Rose , he arrived here a couple minutes before nine and spotted Thor in the water , got a hooked pole from the pool equipment locker and started hauling him out .
+11
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 couple NOUN couple%1:23:01::
+#10 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#14 spot VERB spot%2:39:00::,spot%2:39:02::
+#22 hooked ADJ hooked%5:00:00:curved:00
+#23 pole NOUN pole%1:06:02::
+#26 pool NOUN pool%1:06:00::,pool%1:17:01::
+#28 locker NOUN locker%1:06:00::
+#30 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#31 haul VERB haul%2:35:01::
+#33 out ADV out%4:02:04::

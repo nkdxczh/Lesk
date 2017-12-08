@@ -1,0 +1,719 @@
+ Spencer said nothing .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Is there any word you would like to offer in your own defense " ?
+4
+#4 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#7 like VERB like%2:37:05::
+#12 own ADJ own%5:00:00:personal:00
+#13 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+Spencer shook his head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Alexander said , " Answer me properly , Spencer " .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 properly ADV properly%4:02:00::
+Spencer was quiet for a moment longer , then he said , " There is nothing I want to say , Captain " .
+6
+#5 moment NOUN moment%1:28:00::,moment%1:28:01::
+#6 long ADJ long%3:00:02::
+#8 then ADV then%4:02:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Alexander walked away .
+2
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#2 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Naval procedure , he thought , had its moments of grim humor .
+4
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 moment NOUN moment%1:28:00::,moment%1:28:01::
+#11 humor NOUN humor%1:07:01::
+Philip Spencer had cold-bloodedly planned the murder of his captain , yet it seemed in order to chide him for a lapse of proper address .
+3
+#4 plan VERB plan%2:31:00::,plan%2:31:01::
+#23 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#24 address NOUN address%1:10:00::,address%1:10:03::
+During the morning hours , it became clear that the arrest of Spencer was having no sobering effect upon the men of the Somers .
+6
+#3 hour NOUN hour%1:07:00::,hours%1:28:01::
+#6 become VERB become%2:30:00::,become%2:42:01::
+#7 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#10 arrest NOUN arrest%1:04:00::
+#17 effect NOUN effect%1:09:00::,effect%1:19:00::
+#20 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Those named in the Greek paper were manufacturing reasons to steal aft under pretence of some call of duty , so as to be near Spencer , watching an opportunity to communicate with him .
+8
+#1 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#5 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#7 manufacture VERB manufacture%2:36:01::
+#8 reason NOUN reason%1:09:01::,reason%1:16:00::
+#13 pretense NOUN pretence%1:04:00::
+#16 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#27 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#31 communicate VERB communicate%2:32:02::
+Hostile glances were flashed at both Alexander and Gansevoort .
+2
+#1 glance NOUN glance%1:04:00::
+#3 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+The two met in the Captain 's cabin .
+2
+#2 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#7 cabin NOUN cabin%1:06:01::
+" What is the next step , Captain " ?
+2
+#4 next ADJ next%5:00:00:close:01
+#5 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+" More arrests , I fear " .
+1
+#2 arrest NOUN arrest%1:04:00::
+In your opinion , who is this E. Andrews on the ' certain ' list " ?
+2
+#12 certain ADJ certain%3:00:01::
+#14 list NOUN list%1:10:00::
+He is the oldest and most experienced of the lot .
+3
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#5 most ADV most%4:02:00::
+#9 lot NOUN lot%1:14:00::,lot%1:14:01::
+He saw the dangers , not the glories of being identified as a mutineer .
+2
+#5 not ADV not%4:02:00::
+#10 identify VERB identify%2:31:00::,identify%2:32:00::
+Somehow he talked Spencer into letting him use another name " .
+3
+#5 let VERB let%2:30:01::,let%2:41:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 name NOUN name%1:14:00::
+There was a tap at the door and Oliver entered with the word that Heiser wished to see the Captain .
+4
+#3 tap NOUN tap%1:11:00::
+#9 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#12 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#17 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+Heiser , breathless and wild-eyed , brought the chilling news that the handspikes , heavers and holystones had been mysteriously removed from their customary places .
+2
+#20 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#24 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+" And also , sir , two articles which were considered souvenirs now must be regarded in another light entirely .
+3
+#7 article NOUN article%1:03:00::
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 must VERB must%1:17:00::
+An African knife and battle-ax are at this moment being sharpened by McKinley and Green .
+2
+#4 battle-ax NOUN battle-ax%1:06:00::
+#8 moment NOUN moment%1:28:00::,moment%1:28:01::
+McKinley was overheard to say that he would like to get the knife into Spencer 's possession and that " -
+4
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#10 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#16 possession NOUN possession%1:15:00::
+" Where did you gather all this information , Heiser ?
+1
+#4 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+Who reported to you the disappearance of handspikes and heavers and who " -
+1
+#1 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+He was interrupted by a crash from the deck and sprang toward the ladder , with Gansevoort and Heiser behind him .
+4
+#2 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+#5 crash NOUN crash%1:11:01::
+#10 spring VERB spring%2:38:01::
+#13 ladder NOUN ladder%1:06:00::
+A glance revealed that the main topgallant mast had been carried away .
+1
+#1 glance NOUN glance%1:04:00::
+The aimless milling about of what had been a well trained , well organized crew struck Alexander with horror .
+5
+#9 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#12 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#14 crew NOUN crew%1:14:01::
+#15 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+#18 horror NOUN horror%1:12:01::
+He bellowed orders and watched the alert response of some of his men and watched , too , the way a dozen or more turned their heads questioningly toward the shackled figure as though for further instruction .
+12
+#2 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#4 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#12 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#16 too ADV too%4:02:01::
+#19 way NOUN way%1:04:00::,way%1:09:00::
+#21 dozen NOUN dozen%1:23:00::
+#24 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#26 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#31 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#35 further ADJ further%5:00:00:far:00
+#36 instruction NOUN instruction%1:10:02::,instruction%1:10:04::
+Adrien Deslonde hastened to Alexander 's side .
+1
+#6 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+" Small violently jerked the weather royal brace with full intention to carry away the mast .
+4
+#3 jerk VERB jerk%2:35:01::
+#9 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#10 intention NOUN intention%1:09:00::
+#15 mast NOUN mast%1:06:00::
+I saw him myself and it was done after consultation with Cromwell .
+1
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+I swear it , sir " .
+1
+#1 swear VERB swear%2:32:02::
+And it was clear that Adrien was not mistaken , for both Small and Cromwell took no step toward aiding in the sending up of the new topgallant mast till Philip Spencer had given the signal to obey .
+6
+#3 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#7 not ADV not%4:02:00::
+#15 take VERB take%2:31:02::,take%2:34:00::
+#17 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#26 new ADJ new%3:00:00::
+#35 signal NOUN signal%1:10:00::
+Then , with disappointment evident upon their faces , they moved to the work .
+2
+#0 then ADV then%4:02:00::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Alexander guessed that they had planned confusion and turmoil , thinking it the ideal climate in which to begin battle and bloodshed .
+5
+#5 plan VERB plan%2:31:00::,plan%2:31:01::
+#6 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#10 think VERB think%2:31:01::,think%2:31:03::
+#13 ideal ADJ ideal%5:00:00:abstract:00
+#18 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Their strategy was sound enough and , he reasoned , had been defeated only by Philip Spencer 's unwillingness to sanction an idea he had not originated .
+5
+#3 sound ADJ sound%3:00:01::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#20 sanction VERB sanction%2:41:01::
+#22 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#25 not ADV not%4:02:00::
+When the mast was raised , Alexander gave the order for Small and Cromwell to be placed under arrest , and now three figures in irons sprawled upon the open deck and terror stalked the Somers .
+13
+#2 mast NOUN mast%1:06:00::
+#4 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#7 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#9 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#16 place VERB place%2:31:13::
+#18 arrest NOUN arrest%1:04:00::
+#21 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#23 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#25 iron NOUN iron%1:06:00::
+#29 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#30 deck NOUN deck%1:06:02::
+#32 terror NOUN terror%1:04:00::
+#33 stalk VERB stalk%2:38:01::
+Spencer 's potential followers were openly sullen and morose , missing muster without excuse , expressing in ominous tones their displeasure at the prisoners being kept in irons , communicating with the three by glance and signal .
+10
+#3 follower NOUN followers%1:14:00::
+#10 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#13 excuse NOUN excuse%1:10:00::
+#15 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#18 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#25 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#27 iron NOUN iron%1:06:00::
+#29 communicate VERB communicate%2:32:02::
+#34 glance NOUN glance%1:04:00::
+#36 signal NOUN signal%1:10:00::
+Tillotson had reported the man to Gansevoort and an hour later , with back turned , had been attacked by Wilson , brandishing the weapon .
+5
+#2 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#10 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#13 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+Wilson , shackled and snarling , was thrown with the other prisoners and was soon joined by Green , McKee and McKinley .
+3
+#4 snarl VERB snarl%2:32:01::
+#10 other ADJ other%3:00:00::
+#14 soon ADV soon%4:02:00::
+Not a man on the brig , loyal or villainous , could be unaffected by the sight of seven men involved in the crime of mutiny .
+5
+#0 not ADV not%4:02:00::
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 unaffected ADJ unaffected%3:00:00::
+#16 sight NOUN sight%1:04:00::,sight%1:10:00::
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+In the tiny cabin , Alexander met with Gansevoort , Heiser and Wales to speak and to listen .
+3
+#3 cabin NOUN cabin%1:06:01::
+#6 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#14 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+Three days had passed since Spencer 's arrest and each day had brought new dangers , new fears .
+6
+#1 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#3 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#7 arrest NOUN arrest%1:04:00::
+#10 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#13 new ADJ new%3:00:00::
+#16 new ADJ new%3:00:00::
+Gansevoort said , " It requires an omniscient eye to select those if any on whom we can now rely .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#17 can VERB can%2:41:00::
+#18 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+To have the Greek paper is not the great help that at first flush it seemed .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#9 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#12 first ADJ first%3:00:00::,first%4:02:00::
+#13 flush NOUN flush%1:11:00::
+From actions aboard , it is easy to guess that Spencer 's boast of twenty staunch followers was a modest estimate " .
+6
+#1 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#6 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#12 boast NOUN boast%1:10:00::
+#15 staunch ADJ staunch%5:00:00:constant:00
+#16 follower NOUN followers%1:14:00::
+#19 modest ADJ modest%5:00:00:moderate:00
+" Well " , Heiser ventured , " why do n't we hold an investigation with questioning and " -
+1
+#12 hold VERB hold%2:36:00::,holding%1:04:00::
+" That would be worse than useless " , Alexander broke in .
+1
+#2 would VERB willing%1:04:00::
+" There is not space to hold or force to guard any increased number of prisoners .
+4
+#3 not ADV not%4:02:00::
+#4 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#6 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+#13 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Besides , suppose we hold a court of inquiry , then what ?
+3
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#4 hold VERB hold%2:36:00::,holding%1:04:00::
+#6 court NOUN court%1:06:02::,court%1:06:05::
+Then we have informed a large number of our crew that when they reach the United States , they will be punished but that in the meanwhile , they may run loose and are expected to perform their jobs in good order .
+7
+#3 inform VERB inform%2:32:00::,inform%2:32:10::
+#9 crew NOUN crew%1:14:01::
+#13 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#19 will VERB willpower%1:07:00::
+#29 may VERB may%1:20:00::
+#36 perform VERB perform%2:36:00::,perform%2:41:00::
+#38 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+Mr. Heiser , does this sound like a truly workable plan to you ?
+3
+#5 sound VERB sound%2:39:06::
+#9 workable ADJ workable%5:00:00:possible:00
+#10 plan NOUN plan%1:09:01::
+Do you not think these men might choose the black flag here and now " ?
+4
+#2 not ADV not%4:02:00::
+#3 think VERB think%2:31:01::,think%2:31:03::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 may VERB may%1:20:00::
+Wales said , " Of course they would .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 will VERB will%1:09:00::
+They are about to do so at any moment as it is .
+2
+#5 so ADV so%4:02:04::
+#8 moment NOUN moment%1:28:00::,moment%1:28:01::
+All that is needed is for one man to feel self-confident enough to take the lead .
+4
+#3 need VERB need%2:42:00::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#15 lead NOUN lead%1:04:00::,lead%1:04:01::,lead%1:09:00::
+As soon as that one man is appointed by himself or the others or by a signal from Spencer , we are going to be rushed .
+4
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#16 signal NOUN signal%1:10:00::
+#25 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+We are going to be rushed and murdered " .
+1
+#5 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+" That is extravagant language , Mr. Wales .
+1
+#4 language NOUN language%1:10:01::,language%1:10:02::,language%1:10:03::
+We are not going to be rushed and murdered " , Alexander said .
+2
+#6 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" We are going to bring the Somers into New York harbor safe and sound " .
+1
+#14 sound ADJ sound%3:00:01::
+" Of course , I agree with the Captain " , Gansevoort said thoughtfully , " but the conspiracy is ferocious and desperate .
+2
+#5 agree VERB agree%2:32:00::,agree%2:32:01::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The instinct of discipline has been lost .
+2
+#3 discipline NOUN discipline%1:09:01::
+#6 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+Anything is possible when anarchy has the upper hand " .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He paused , then added , " Everything on a ship is a weapon .
+2
+#3 then ADV then%4:02:00::
+#4 add VERB add%2:32:01::
+Implements of wood and iron are available for close and hasty combat no matter where a man stands .
+4
+#2 wood NOUN wood%1:06:02::
+#4 iron NOUN fe%1:27:00::
+#8 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#16 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+And we are positive of so few and suspicious of so many " .
+3
+#3 positive ADJ positive%5:00:00:certain(p):02,positive%5:00:00:certain:02,positive%5:00:00:undeniable:00
+#5 so ADV so%4:02:03::,so%4:02:07::
+#10 so ADV so%4:02:03::,so%4:02:07::
+" We ourselves must stand sentinel " .
+1
+#3 must VERB must%1:17:00::
+Alexander said .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Under arms day and night , watch and watch about .
+3
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#7 watch NOUN watch%1:28:00::
+#9 watch NOUN watch%1:28:00::
+Those of us present , the Perry brothers , Deslonde and the other midshipmen now have the responsibility of the Somers .
+5
+#3 present ADJ present%3:00:02::
+#7 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#12 other ADJ other%3:00:00::
+#13 midshipman NOUN midshipman%1:18:00::
+#14 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+A great deal of labor we have as well , for we are too uncertain of where trust may be placed " .
+5
+#4 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#13 too ADV too%4:02:00::
+#17 trust NOUN trust%1:07:00::
+#18 may VERB may%1:20:00::
+#20 place VERB place%2:31:13::
+And when he was alone again in the cabin , Alexander lowered his head into his arms and wept , for he knew full well what must be done , what in the end would be done .
+9
+#4 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#8 cabin NOUN cabin%1:06:01::
+#11 lower VERB lower%2:30:01::
+#13 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#16 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#18 weep VERB weep%2:29:00::
+#23 full ADV full%4:02:01::
+#26 must VERB must%1:17:00::
+#34 will VERB will%1:09:01::
+With all his heart he had loved the Navy and now he must act in accordance with the Navy 's implacable laws .
+7
+#3 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#8 navy NOUN navy%1:14:00::
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 must VERB must%1:17:00::
+#13 act VERB act%2:29:00::,act%2:41:00::
+#18 navy NOUN navy%1:14:00::
+#21 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+And when he did , when he gave to his ship that protection necessary to preserve her honor , he knew he would lose forever the Navy to which he had dedicated his soul .
+8
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#13 necessary ADJ necessary%3:00:00::
+#17 honor NOUN honor%1:07:00::
+#22 will VERB will%1:09:01::
+#23 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#24 forever ADV forever%4:02:00::
+#26 navy NOUN navy%1:14:00::
+#33 soul NOUN soul%1:12:00::,soul%1:18:00::
+Where had he failed ?
+1
+#3 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+How had he failed ?
+1
+#3 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+He who had tried so hard , who had yearned so passionately to be a great officer .
+6
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#5 hard ADV hard%4:02:00::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#15 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#16 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+It came to him as he wept there aboard the Somers that it was as foolish to strive for greatness as to seek to storm the gates of heaven .
+5
+#6 weep VERB weep%2:29:00::
+#7 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#24 storm VERB storm%2:35:00::
+#26 gate NOUN gate%1:06:00::
+#28 heaven NOUN heaven%1:15:01::
+It was given or it was not given .
+3
+#2 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#6 not ADV not%4:02:00::
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+One did one 's best and if fortune smiled , there was a reward .
+2
+#4 best NOUN best%1:18:00::
+#7 fortune NOUN fortune%1:19:00::
+One did one 's best and if fortune frowned , an eighteen year old boy with murder in his heart sailed aboard one 's ship .
+6
+#4 best NOUN best%1:18:00::
+#7 fortune NOUN fortune%1:19:00::
+#13 old PRT old%3:00:02::
+#14 boy NOUN boy%1:18:03::
+#19 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#20 sail VERB sail%2:38:00::
+And Alexander sobbed like a girl for the dreams he had had , and he felt no shame .
+3
+#5 girl NOUN girl%1:18:01::,girl%1:18:03::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#15 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+God knew his tears were his to shed if he so desired , for it had not been with an egotist 's rage for fame that he had held precious his naval career .
+4
+#3 tear NOUN tear%1:08:01::
+#16 not ADV not%4:02:00::
+#28 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#29 precious ADJ precious%5:00:00:valuable:00
+Another field had given him fame enough to satisfy any egotist .
+2
+#1 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#3 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+It was for love that he had served the Navy .
+3
+#3 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#7 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#9 navy NOUN navy%1:14:00::
+To have someday that love returned was what he had lived for .
+3
+#4 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#5 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#10 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+Now the hope was gone .
+3
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 hope NOUN hope%1:09:00::,hope%1:18:00::
+#4 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+Yes , he would bring the Somers safely into New York harbor but at a price .
+1
+#3 will VERB willpower%1:07:00::
+And after a while , he dried his tears and walked the deck as a captain should with assurance and dignity .
+7
+#3 while NOUN while%1:28:00::
+#6 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#8 tear NOUN tear%1:08:01::
+#10 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#12 deck NOUN deck%1:06:02::
+#16 should VERB should%2:42:02::
+#18 assurance NOUN assurance%1:09:00::
+Stern faced , he inspected the prisoners , satisfying himself that they were clean , well fed and comfortable within reason .
+4
+#13 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#15 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#16 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#18 comfortable ADJ comfortable%3:00:01::
+The prisoners averted their eyes but not before he had glimpsed hatred and anger .
+3
+#2 avert VERB avert%2:38:00::
+#4 eye NOUN eye%1:08:00::,eye%1:09:01::
+#6 not ADV not%4:02:00::
+Only Cromwell , the giant boatswain , was mild-mannered and respectful .
+1
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+He said , " Captain , may I speak , please ?
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 may VERB may%1:20:00::
+#8 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+Captain , I am innocent of any plot against you or the ship " .
+2
+#4 innocent ADJ innocent%3:00:00::
+#7 plot NOUN plot%1:09:00::
+Before God I swear I am innocent .
+3
+#1 God NOUN god%1:18:00::
+#3 swear VERB swear%2:32:02::
+#6 innocent ADJ innocent%3:00:00::
+I know nothing of any plot , if there is such a thing " .
+2
+#5 plot NOUN plot%1:09:00::
+#12 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+" You are the only man aboard who can be in doubt " .
+2
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 can VERB can%2:41:00::
+" I cannot speak for others , sir , but I am innocent " .
+1
+#12 innocent ADJ innocent%3:00:00::
+He leaned closer to Alexander , squinting up at him from the deck .
+2
+#6 squint VERB squint%2:29:02::
+#12 deck NOUN deck%1:06:02::
+" Surely , Captain , you did not find my name on any suspicious paper or anything " .
+5
+#1 surely ADV surely%4:02:00::
+#7 not ADV not%4:02:00::
+#8 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#10 name NOUN name%1:14:00::
+#14 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+" No , Cromwell , I did not find your name .
+3
+#7 not ADV not%4:02:00::
+#8 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#10 name NOUN name%1:14:00::
+You were careful about that " .
+1
+#2 careful ADJ careful%3:00:00::,careful%5:00:00:mindful:00
+Now Spencer , seeming with effort to shake himself from lethargy , spoke .
+3
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#12 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+He said , " Cromwell is telling you the truth .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He is innocent " .
+1
+#2 innocent ADJ innocent%3:00:00::
+The calmness and detachment of his tone suggested unawareness of how implicit was his own guilt in the words he had used to defend Cromwell .
+5
+#3 detachment NOUN detachment%1:26:00::
+#6 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#14 own ADJ own%5:00:00:personal:00
+#18 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Alexander knew Spencer too well to think him naive or thick-skulled .
+3
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#3 too ADV too%4:02:00::
+#6 think VERB think%2:31:01::,think%2:31:03::
+And in a sudden wave of painful clarity , Alexander recognized a kinship with Spencer .
+2
+#4 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#10 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+Here was another human who understood the stupidity of quarreling with the inevitable .
+2
+#0 here ADV here%4:02:01::
+#5 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+There was good fortune and there was bad and Philip Spencer , in handcuffs and ankle irons , knew it to be a truth .
+3
+#7 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#16 iron NOUN iron%1:06:00::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He expected nothing for himself but that which naturally follows those marked for misfortune .
+2
+#8 naturally ADV naturally%4:02:00::,naturally%4:02:01::,naturally%4:02:02::
+#11 marked ADJ marked%3:00:00::,marked%5:00:00:conspicuous:00
+The red haired captain , towering above the prisoner as a symbol of decency and authority , was shocked to find himself looking with sympathy upon Philip Spencer .
+6
+#1 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#5 tower VERB tower%2:42:00::
+#15 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+#18 shock VERB shock%2:37:02::
+#20 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#22 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+This tragic lad had forged his own shackles .
+5
+#1 tragic ADJ tragic%5:00:00:sad:00
+#2 lad NOUN lad%1:18:01::
+#4 forge VERB forge%2:36:02::
+#6 own ADJ own%5:00:00:personal:00
+#7 shackle NOUN shackle%1:06:01::
+But he could not have done so , could not have found the way , had fortune favored him .
+6
+#2 can VERB can%2:41:00::
+#3 not ADV not%4:02:00::
+#8 can VERB can%2:41:00::
+#11 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#16 fortune NOUN fortune%1:19:00::
+#17 favor VERB favor%2:31:00::,favor%2:41:00::
+And because fortune had favored neither the prisoner nor the red haired captain , they would be each other 's undoing .
+5
+#2 fortune NOUN fortune%1:19:00::
+#4 favor VERB favor%2:31:00::,favor%2:41:00::
+#10 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#15 will VERB will%1:09:01::
+#20 undoing NOUN undoing%1:04:00::
+" Spencer , if there is guilt , if you do not deny your own , how is it possible for Cromwell to be innocent ?
+3
+#12 deny VERB deny%2:32:00::,deny%2:32:01::
+#14 own ADJ own%5:00:00:personal:00
+#24 innocent ADJ innocent%3:00:00::
+He was your constant companion " .
+1
+#4 companion NOUN companion%1:18:00::
+The hazel eyes met Alexander 's .
+1
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+" I tell you he is innocent " .
+2
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 innocent ADJ innocent%3:00:00::
+" And do you think there is a reason why I should accept your word " ?
+4
+#4 think VERB think%2:31:01::,think%2:31:03::
+#8 reason NOUN reason%1:09:01::,reason%1:16:00::
+#11 should VERB should%2:42:01::
+#14 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+I have nothing to gain by defending Cromwell " .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+" Nothing to lose , either , Spencer " .
+2
+#3 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#5 either ADV either%4:02:00::
+" That 's true " , Spencer agreed and withdrew himself from the conversation .
+3
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#7 agree VERB agree%2:32:00::,agree%2:32:01::
+#9 withdraw VERB withdraw%2:30:00::,withdraw%2:38:00::,withdraw%2:40:01::,withdraw%2:41:00::,withdraw%2:41:01::
+His eyes went back to contemplation of the sea .
+1
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+" I am innocent , Captain " , Cromwell said again .
+2
+#3 innocent ADJ innocent%3:00:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Before God , Captain , I am innocent " .
+1
+#8 innocent ADJ innocent%3:00:00::
+And though it was logical that a man who could plot mass murder would not hesitate to speak an untruth , still it was difficult to understand why Spencer spoke only for Cromwell .
+7
+#9 can VERB can%2:41:00::
+#10 plot VERB plot%2:31:00::
+#13 will VERB will%1:09:00::
+#17 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#21 still ADV still%4:02:04::
+#26 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#30 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+No action of his could be interpreted in his favor and four midshipmen , prior to their knowing the significance of the Greek paper , had seen it in Cromwell 's hands while Spencer whispered explanations .
+9
+#1 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#6 interpret VERB interpret%2:32:00::
+#9 favor NOUN favor%1:06:00::,favor%1:07:00::,favor%1:09:00::
+#12 midshipman NOUN midshipman%1:18:00::
+#17 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 significance NOUN significance%1:07:00::
+#23 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#26 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#31 hand NOUN hand%1:08:00::,hand%1:10:01::
+" I thought " , Midshipman Rogers had told Alexander , " that Spencer was teaching him geometry " .
+1
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It was fantastic to turn from the seven men in shackles to the wardroom , where a class of apprentices awaited him .
+3
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 shackle NOUN shackle%1:06:01::
+#17 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+This was a training ship and the training would continue , but there was an element of frightful absurdity here which Alexander recognized .
+5
+#7 training NOUN training%1:04:00::
+#8 will VERB willpower%1:07:00::
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#15 element NOUN element%1:06:00::,element%1:09:00::
+#19 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Some of these apprentices were , in physical strength , already men and doubtless a percentage of them were Spencer 's followers .
+4
+#7 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#8 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#10 already ADV already%4:02:00::
+#21 follower NOUN followers%1:14:00::

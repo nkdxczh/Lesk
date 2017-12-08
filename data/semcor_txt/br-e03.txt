@@ -1,0 +1,258 @@
+ Five , four , three , two , one , fire !
+1
+#10 fire VERB fire%2:33:00::,fire%2:33:02::
+The tremendous energy released by giant rocket engines perhaps can be felt much better than it can be heard .
+1
+#3 release VERB release%2:35:00::,release%2:41:00::
+Nuclear weapons are fearsome , but the long-range ballistic missile gives them a stealth and merciless swiftness which is much more terrifying .
+1
+#10 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+A great many writers are bewitched by the apparently overwhelming advantage an attacker would have if he were to strike with complete surprise using nuclear rockets .
+3
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 strike VERB strike%2:33:00::,strike%2:35:00::,strike%2:35:03::,strike%2:37:00::,strike%2:39:00::
+#23 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+It is relatively easy to go a step further and reason that an attacker , in possession of such absolute power , would simultaneously destroy his opponent 's cities and people .
+1
+#5 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+With a nation defenseless before it , why would the attacker spare the victim 's people ?
+1
+#11 spare VERB spare%2:41:00::
+The will of its people , so crucial in time of peril , would be broken .
+1
+#15 break VERB break%2:30:11::,break%2:35:01::,break%2:41:09::
+Nuclear weapons have given the world the means for self-destruction in hours or days ; and now rockets have given it the means to destroy itself in minutes .
+2
+#3 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#19 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+However , because this vulnerability is mutual , it is to the advantage of neither side to destroy the opponent 's cities , at least so long as the opponent has nuclear weapons with which to effect reprisal .
+1
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+ICBMs have given us a capability which could be used in two different ways .
+2
+#2 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+They could be used to attack a nation 's people ( which would inevitably mean the loss of the attacker 's own people ) , or they could be used with discrimination to destroy the enemy 's military force .
+3
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 mean VERB mean%2:31:05::,mean%2:42:00::
+#29 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+If our national interest lies in being able to fight and win a war rather than committing national suicide , then we must take a much more penetrating look at ballistic missiles .
+3
+#11 win VERB win%2:33:00::
+#16 commit VERB commit%2:41:00::
+#23 take VERB take%2:31:02::,take%2:34:00::
+We must determine whether missiles can win a war all by themselves .
+1
+#6 win VERB win%2:33:00::
+We must make certain that the aircraft is finished before we give the entire job to the missile .
+2
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Missiles are very valuable weapons , but they also have their too little known limitations .
+1
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Because of a missile 's ballistic trajectory , the location of a fixed target must be known quite accurately .
+1
+#16 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Placing missiles in submarines , on barges , railroads , highways , surface vessels and in the air provides them with passive protection by taking advantage of the gravest weakness of long-range ballistic missiles today - the extreme difficulty of destroying a mobile or moving target with such weapons .
+2
+#0 place VERB place%2:31:13::
+#18 provide VERB provide%2:34:00::,provide%2:40:00::
+One must first detect a fleeting mobile or moving target , decide that it is worthy of destruction , select the missile to be fired against the target , compute ballistics for the flight , and prepare the missile for firing .
+3
+#24 fire VERB fire%2:33:00::,fire%2:33:02::
+#36 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#40 fire VERB fire%2:33:00::,fire%2:33:02::
+Even if all these operations could be performed instantaneously , the ICBM still has a time of flight to the target of about 30 minutes .
+1
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Because of this , it would appear inevitable that an increasing percentage of strategic missiles will seek self-protection in mobility - at least until missile defenses are perfected which have an exceedingly high kill probability .
+2
+#6 appear VERB appear%2:30:00::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In order to destroy the enemy 's mobile , moving , or imprecisely located strategic forces , we must have a hunter-killer capability in addition to our missiles .
+1
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Until this hunter-killer operation can be performed by spacecraft , manned aircraft appear to be the only means available to us .
+1
+#12 appear VERB appear%2:30:00::
+It seems reasonable that if general nuclear war is not to be one cataclysmic act of burning each other 's citizens to cinders , we must have a manned strategic force of long-endurance aircraft capable of going into China or Russia to find and destroy their strategic forces which continued to threaten us .
+4
+#16 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#42 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#49 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Let us suppose the Russians decide to build a rail-mobile ICBM force .
+1
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+It is entirely feasible to employ aircraft such as the B-52 or B-70 in hunter-killer operations against Soviet railway-based missiles .
+1
+#5 employ VERB employ%2:34:00::
+If we stop thinking in terms of tremendous multimegaton nuclear weapons and consider employing much smaller nuclear weapons which may be more appropriate for most important military targets , it would seem that the B-52 or B-70 could carry a great many small nuclear weapons .
+3
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#13 employ VERB employ%2:34:00::
+#38 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+An aircraft with a load of small nuclear weapons could very conceivably be given a mission to suppress all trains operating within a specified geographic area of Russia - provided that we had used some of our ICBMs to degrade Russia 's air defenses before our bombers got there .
+3
+#20 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#33 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#39 degrade VERB degrade%2:37:00::
+The aircraft could be used to destroy other mobile , fleeting , and imprecisely located targets as well as the known , fixed and hardened targets which can also be destroyed by missile .
+1
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Survivability of our strategic forces ( Polaris , mobile and hardened Minuteman , hardened Atlas and Titan , and airborne Skybolt ) means that it will take some time , perhaps weeks , to destroy a strategic force .
+2
+#22 mean VERB mean%2:31:05::,mean%2:42:00::
+#26 take VERB take%2:40:06::,take%2:42:03::
+Forces will survive a surprise attack , and these forces will give depth , or considerable duration , to the conflict .
+1
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+But , how does one go about the job of finding and destroying mobile forces ?
+1
+#10 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Some day , many years in the future , true spacecraft will be able to find and destroy mobile targets .
+1
+#15 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+But until we have an effective spacecraft , the answer to the hunter-killer problem is manned aircraft .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+However , the aircraft which we have today are tied to large , " soft " airfields .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Here then is our problem : aircraft are vital to winning a war today because they can perform those missions which a missile is totally incapable of performing ; but the airfield , on which the aircraft is completely dependent , is doomed by the missile .
+3
+#10 win VERB win%2:33:00::
+#17 perform VERB perform%2:36:00::,perform%2:41:00::
+#27 perform VERB perform%2:36:00::,perform%2:41:00::
+This makes today 's aircraft a one-shot , or one mission , weapon .
+1
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Aircraft are mighty expensive if you can use them only once .
+1
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+There are four rather obvious ways to reduce or eliminate the vulnerability of aircraft on the ground :
+1
+#7 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Put aircraft in " bomb-proof " hangars when they are on the ground .
+1
+#0 put VERB put%2:35:00::,put%2:35:05::
+If we could use all the small airfields we have in this country , we could disperse our strategic aircraft by a factor of 10 or more .
+2
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Use nuclear propulsions to keep our long-range military aircraft in the air for the majority of their useful life .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Using very high thrust-to-weight ratio engines , develop a vertical-takeoff-and-landing ( VTOL ) long-range military aircraft .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+We have the technology today with which to build aircraft shelters which could withstand at least 200 psi .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We could put a portion of our strategic bombers in such shelters .
+1
+#2 put VERB put%2:35:00::,put%2:35:05::
+Large , long-range bombers can be developed which would have the capability to take off from 3000 - foot runways , but they would require more powerful engines than we have today .
+3
+#6 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+There is little enthusiasm for spending money to develop more powerful engines because of the erroneous belief that the aircraft has been made obsolete by the missile .
+1
+#8 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+This same preoccupation with missiles at the expense of aircraft has resulted in our half-hearted effort to develop nuclear propulsion for aircraft .
+1
+#17 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+If , for some reason such as economy , we are not going to develop aircraft nuclear propulsion with a sense of national urgency , then we should turn our effort to developing jet engines with a thrust-to-weight ratio of 12 or 15 to one .
+2
+#14 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#32 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+For example , a 12 - to-one engine would power a supersonic VTOL fighter .
+1
+#9 power VERB power%2:34:00::
+With a 15 - to-one engine , a supersonic aircraft weighing 300000 pounds could rise vertically .
+2
+#10 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#14 rise VERB rise%2:30:03::,rise%2:38:00::,rise%2:38:02::,rise%2:42:00::,rise%2:42:01::
+The reason that we are not going ahead full speed to develop high thrust-to-weight engines is that it would cost perhaps a billion dollars - and you do n't spend that sort of money if aircraft are obsolete .
+2
+#11 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#19 cost VERB cost%2:42:00::,cost%2:42:01::
+If our SAC bombers were , today , capable of surviving a surprise missile attack and because of infinite dispersion or long endurance had the capability to strike at Russia again , and again , and again , those bombers would unquestionably assure our military dominance .
+3
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 strike VERB strike%2:33:00::,strike%2:35:00::,strike%2:35:03::,strike%2:37:00::,strike%2:39:00::
+#42 assure VERB assure%2:31:00::,assure%2:32:03::
+We would have the means to seek out and destroy the enemy 's force - whether it were fixed or mobile .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+No need to kill an entire city and all its people because we lacked the precision and reconnaissance to selectively disarm the enemy 's military force .
+2
+#3 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#20 disarm VERB disarm%2:33:01::
+In a few years we will have SAMOS ( semiautomatic missile observation system ) .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But in the case of moving targets , and targets which have limited mobility , what will their location be when it is time to destroy them ?
+1
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+A ballistic missile cannot , today , tell you if it was successful or unsuccessful .
+1
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+What targets still remain to be hit ?
+1
+#6 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+SAMOS will be hard put to see through clouds - and to see in the dark .
+2
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+If the target can change its position significantly during the 30 minutes the missile is in the air on its way , the probability of the missile destroying the target is drastically reduced .
+1
+#32 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Pre-attack reconnaissance is vital but only post-attack reconnaissance will allow us to terminate the war favorably .
+1
+#9 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+It would be priceless to have an aircraft to gather that post-attack reconnaissance .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+It could operate under the clouds and perform infrared photography through clouds and at night .
+2
+#2 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#7 perform VERB perform%2:36:00::,perform%2:41:00::
+It would be even more valuable because that same aircraft could immediately destroy any targets it discovered - no need to wait for a missile to come all the way from the United States with the chance that the target , if it were mobile , would be gone .
+3
+#16 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#21 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#26 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+A large aircraft , such as the B-52 or B-70 , could carry perhaps 50 or 100 small nuclear weapons .
+1
+#12 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Few people realize that one kiloton of nuclear explosive power will create 1000 psi overpressure at 100 feet .
+1
+#2 realize VERB realize%2:31:01::
+Or put another way , the hardest missile site planned today could be destroyed by placing a one-kiloton warhead ( 1 20 th the size of those used in Hiroshima and Nagasaki ) within 100 to 200 feet of the target !
+4
+#1 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#9 plan VERB plan%2:36:01::
+#15 place VERB place%2:31:13::
+#27 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+It is our lack of extreme accuracy which forces the use of very large yield nuclear weapons .
+1
+#8 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+Today we have side-looking radar which has such high resolution that the radar picture clearly shows individual buildings , runways , taxi-ways , separate spans of bridges , etc. .
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+With these keen " eyes " and small nuclear weapons delivered with accuracy , military forces can be directly attacked with minimum damage to urban areas .
+1
+#10 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+If we fail to develop the means to hunt down and destroy the enemy 's military force with extreme care and precision , and if war comes in spite of our most ardent desires for peace , our choice of alternatives will be truly frightening .
+3
+#2 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#4 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#26 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::

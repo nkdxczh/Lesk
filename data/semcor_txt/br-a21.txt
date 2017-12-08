@@ -1,0 +1,299 @@
+Pohl received the verdict without visible emotion .
+1
+#1 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+He returned to his cell in the county jail , where he has been held since his arrest last July , without a word to his court-appointed attorney , Jack Walker , or his guard .
+2
+#1 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#14 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+The verdict brought vindication to the dead woman 's stepson , Vincent Hengesbach , 54 , who was tried for the same crime in December , 1958 , and released when the jury failed to reach a verdict .
+4
+#18 try VERB try%2:41:06::
+#29 release VERB release%2:41:00::
+#33 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#35 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Mrs. Hengesbach was killed on Aug. 31 , 1958 .
+1
+#3 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Hengesbach has been living under a cloud ever since .
+1
+#3 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+When the verdict came in against his young neighbor , Hengesbach said :
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I am very pleased to have the doubt of suspicion removed .
+1
+#11 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+Still , I do n't wish to appear happy at somebody 's else 's misfortune " .
+1
+#7 appear VERB appear%2:30:00::
+Hengesbach , who has been living on welfare recently , said he hopes to rebuild the farm which was settled by his grandfather in Westphalia , 27 miles southwest of here .
+2
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 settle VERB settle%2:30:00::,settle%2:30:01::,settle%2:30:02::,settle%2:30:03::,settle%2:30:05::
+Hengesbach has been living in Grand Ledge since his house and barn were burned down after his release in 1958 .
+1
+#3 live VERB live%2:42:08::
+He also admitted killing Mrs. Hengesbach .
+2
+#2 admit VERB admit%2:32:00::
+#3 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Assistant Prosecutor Fred Lewis , who tried both the Hengesbach and Pohl cases , said he did not know what would be done about two arson charges pending against Pohl .
+2
+#6 try VERB try%2:41:06::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Circuit Judge Paul R. Cash did not set a date for sentencing .
+1
+#7 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+Walker said he was considering filing a motion for a new trial which would contend that the verdict was against the weight of the evidence and that there were several errors in trial procedure .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 file VERB file%2:32:02::,filing%1:10:00::
+#14 contend VERB contend%2:32:01::
+A verdict against Pohl came at 4 : 05 p. m. after almost 13 - 1 2 hours of deliberation .
+1
+#4 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+The jury , which was locked up in a motel overnight , was canvassed at the request of Walker after the verdict was announced .
+1
+#13 canvass VERB canvass%2:41:00::
+The jury foreman , Mrs. Olive Heideman , of rural Elsie , said that a ballot was not even taken until yesterday morning and that the first day of deliberation was spent in going over the evidence .
+1
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She said the jurors agreed that Pohl 's confession was valid .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The jury asked Judge Cash to send in his written definition of the difference between first and second-degree murder and manslaughter .
+2
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#6 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+The verdict came three hours later .
+1
+#2 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+The trial had packed the large courtroom for more than a week .
+1
+#3 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+A Sterling Township family of six surviving children , whose mother died yesterday as the aftermath to a fire that also killed one of the children , found today they had the help of hundreds of neighbors and school friends .
+4
+#11 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#21 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#27 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+While neighbor women assumed some of the dead mother 's duties , fund-raising events were being planned by a homeowners association and a student council for the hard-hit Henry Kowalski family , 34220 Viceroy .
+2
+#3 assume VERB assume%2:40:00::,assume%2:40:01::
+#16 plan VERB plan%2:31:00::,plan%2:31:01::
+Mrs. Eleanor Kowalski , 42 , died yesterday afternoon in Holy Cross Hospital of burns suffered in a fire that followed a bottled gas explosion Saturday night at the flat of her widowed mother , Mrs. Mary Pankowski , in the adjoining suburb of Warren .
+3
+#6 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#15 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#20 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Funeral services for Mrs. Kowalski and her daughter , Christine , 11 , who died of burns at the same hospital Monday , have been scheduled for 10 a. m. tomorrow in St. Anne 's Catholic Church , 31978 Mound , in Warren .
+1
+#14 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+The mother and daughter , who will be buried side by side in Mt. Olivet Cemetery , rested together today in closed caskets at the Lyle Elliott Funeral Home , 31730 Mound , Warren .
+1
+#8 bury VERB bury%2:39:00::
+Mrs. Pankowski , 61 , remained in Holy Cross Hospital as a result of the explosion , which occurred while Mrs. Kowalski fueled a cook stove in the grandmother 's small upstairs flat at 2274 Eight Mile road east .
+1
+#22 fuel VERB fuel%2:40:01::
+Assistant Fire Chief Chester Cornell said gas fumes apparently were ignited by a candle which one of the three Kowalski girls present held for her mother , because the flat lacked electricity .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+Christine 's twin sister , Patricia , and Darlene Kowalski , 8 , escaped with minor burns .
+1
+#13 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+" All we have left in the world is one another , and we must stay together the way Mother wanted " , Kowalski said in telling his children of their mother 's death yesterday afternoon .
+4
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#24 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Kowalski , a roofer who seldom worked last winter , already was in arrears on their recently purchased split-level home when the tragedy staggered him with medical and funeral bills .
+2
+#6 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#17 purchase VERB purchase%2:40:00::
+Neighbor women , such as Mrs. Sidney Baker , 2269 Serra , Sterling Township , have been supplying the family with meals and handling household chores with Kowalski 's sister-in-law , Mrs. Anna Kowalski , 22111 David , East Detroit .
+1
+#23 handle VERB handle%2:41:00::,handle%2:41:03::
+Another neighbor , Mrs. Frank C. Smith , 2731 Pall Mall , Sterling Township , surprised Kowalski by coming to the home yesterday with $ 135 collected locally toward the $ 400 funeral costs .
+2
+#18 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#26 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+John C. Houghton , president of the Tareytown Acres Homeowners Association , followed that by announcing plans last night for a door-to-door fund drive throughout their subdivision on behalf of the Kowalski family .
+1
+#12 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Houghton said 6 p. m. Friday had been set for a canvass of all 480 homes in the subdivision , which is located northeast of Dequindre and 14 Mile road east .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+He said contributions also could be mailed to Post Office Box 553 , Warren Village Station .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 mail VERB mail%2:35:00::
+Vicky Kowalski meanwhile learned that several of her fellow students had collected almost $ 25 for her family during the lunch hour yesterday at Fuhrmann Junior High School , 5155 Fourteen Mile road east .
+2
+#3 learn VERB learn%2:31:01::,learn%2:31:03::
+#11 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+Principal Clayton W. Pohly said he would allow a further collection between classes today , and revealed that Y-Teen Club past surpluses had been used to provide a private hospital nurse Monday for Mrs. Kowalski .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#26 provide VERB provide%2:34:00::,provide%2:40:00::
+Student Council officers announced today the Kowalski family would be given the combined proceeds from a school dance held two weeks ago , and another dance for Fuhrmann 's 770 students this Friday night .
+2
+#10 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#18 hold VERB hold%2:36:00::,holding%1:04:00::
+" Furhmann 's faculty is proud that this has been a spontaneous effort , started largely among the students themselves , because of fondness for Vicky and sympathy for her entire family , Pohly said .
+2
+#14 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#34 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+There also were reports of a collection at the County Line Elementary School , 3505 o Dequindre , which has been attended this year by four of the Kowalski children including Christine .
+2
+#21 attend VERB attend%2:42:00::
+#30 include VERB include%2:31:00::,include%2:41:03::
+Kowalski has spoken but little since the fire last Saturday .
+1
+#2 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+But today he wanted to make a public statement .
+2
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+I 'll need more than a single day to find the words to properly express my thanks to them " .
+3
+#2 need VERB need%2:42:00::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+An alert 10 - year-old safety patrol boy was congratulated by police today for his part in obtaining a reckless driving conviction against a youthful motorist .
+1
+#17 obtain VERB obtain%2:40:00::
+Patrolman George Kimmell , of McClellan Station , said he would recommend a special safety citation for Ralph Sisk , 9230 Vernor east , a third grader at the Scripps School , for his assistance in the case .
+2
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+Kimmell said he and Ralph were helping children across Belvidere at Kercheval Monday afternoon when a car heading north on Belvidere stopped belatedly inside the pedestrian crosswalk .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#17 head VERB head%2:38:00::,head%2:38:01::
+#21 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Kimmell ordered the driver to back up , watched the children safely across and was approaching the car when it suddenly " took off at high speed " , he said , narrowly missing him .
+5
+#1 order VERB order%2:32:01::,order%2:32:02::
+#8 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#15 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#30 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#33 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+Commandeering a passing car , Kimmell pursued the fleeing vehicle , but lost it in traffic .
+2
+#6 pursue VERB pursue%2:38:00::
+#12 lose VERB lose%2:33:01::,lose%2:35:00::,lose%2:39:00::,lose%2:39:01::
+Returning to the school crossing , the officer was informed by the Sisk boy that he recognized the driver , a neighbor , and had obtained the license number .
+4
+#0 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#9 inform VERB inform%2:32:00::,inform%2:32:10::
+#16 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#25 obtain VERB obtain%2:40:00::
+The motorist later was identified as Richard Sarkees , 17 , of 2433 McClellan , currently on probation and under court order not to drive .
+2
+#4 identify VERB identify%2:31:00::,identify%2:32:00::
+#24 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+He was found guilty of reckless driving yesterday by Traffic Judge George T. Murphy , who continued his no-driving probation for another year and ordered him to spend 15 days in the Detroit House of Correction .
+2
+#16 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#24 order VERB order%2:32:01::,order%2:32:02::
+The jail sentence is to begin the day after Sarkees graduates from Eastern High School in June .
+2
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#10 graduate VERB graduate%2:40:00::
+The long crisis in Laos appeared nearing a showdown today .
+1
+#5 appear VERB appear%2:30:00::
+Britain announced that it is asking the Soviet Union to agree tomorrow to an immediate cease-fire .
+2
+#5 ask VERB ask%2:32:01::,ask%2:32:05::
+#10 agree VERB agree%2:32:00::,agree%2:32:01::
+In Vientiane , the royal Laotian government decided today to ask its " friends and neighbors " for help in fighting what it called a new rebel offensive threatening the southeast Asian kingdom .
+2
+#10 ask VERB ask%2:32:01::,ask%2:32:05::
+#23 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Britain 's plans to press Russia for a definite cease-fire timetable was announced in London by Foreign Secretary Lord Home .
+1
+#4 press VERB press%2:32:00::,press%2:32:01::,press%2:41:12::,press%2:42:00::
+He said Britain also proposed that the international truce commission should be reconvened , sent to New Delhi and from there to Laos to verify the cease-fire .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+A 14 - power conference on Laos should then meet on May 5 , he said .
+2
+#9 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Laos government plea for help was made by Foreign Minister Tiao Sopsaisana .
+1
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He indicated that requests would be made for more U. S. arms and more U. S. military advisers .
+1
+#1 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+He declared the government is thinking of asking for foreign troops if the situation worsens .
+2
+#1 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#7 ask VERB ask%2:32:01::,ask%2:32:05::
+One of the first moves made after a cabinet decision was to request the United States to establish a full-fledged military assistance group instead of the current civilian body .
+2
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 establish VERB establish%2:36:01::,establish%2:41:00::
+A note making the request was handed to U. S. Ambassador Winthrop G. Brown .
+1
+#6 hand VERB hand%2:40:00::
+The Laos government said four major Pathet Lao rebel attacks had been launched , heavily supported by troops from Communist North Viet Nam .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 launch VERB launch%2:35:00::,launch%2:35:04::
+The minister , describing the attacks which led up to the appeal , said that 60000 Communist North Vietnamese were fighting royal army troops on one front - near Thakhek , in southern-central Laos .
+2
+#3 describe VERB describe%2:32:01::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In the past such government claims have been found exaggerated .
+1
+#8 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Two Americans and seven Cubans were executed by firing squads today as Castro military tribunals began decreeing the death penalty for captured invasion forces and suspected collaborators .
+2
+#6 execute VERB execute%2:41:00::
+#15 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+A Havana radio broadcast identified the Americans as Howard Anderson and August Jack McNair .
+1
+#4 identify VERB identify%2:31:00::,identify%2:32:00::
+The broadcast said Anderson , a Seattle ex-marine and Havana businessman , and McNair , of Miami , were condemned on charges of smuggling arms to Cuban rebels .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 condemn VERB condemn%2:32:01::,condemn%2:32:02::,condemn%2:39:00::,condemn%2:41:00::
+Anderson operated three Havana automobile service stations and was commander of the Havana American Legion post before it disbanded since the start of Fidel Castro 's regime .
+1
+#1 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+Anderson 's wife and four children live in Miami .
+1
+#6 live VERB live%2:42:08::
+McNair , 25 , was seized March 20 with four Cubans and accused of trying to land a boatload of rifles in Pinar del Rio , about 35 miles from Havana .
+3
+#5 seize VERB seize%2:31:00::,seize%2:31:04::,seize%2:40:01::,seize%2:40:02::
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 land VERB land%2:30:00::,land%2:38:02::,land%2:38:03::
+At least 20 other Americans were reported to have been arrested in a mass political roundup .
+2
+#6 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#10 arrest VERB arrest%2:35:00::
+Among them were a number of newsmen , including Henry Raymont , of United Press International , and Robert Berrellez , of Associated Press .
+1
+#8 include VERB include%2:31:00::,include%2:41:03::
+So many Cubans were reported being swept into the Castro dragnet that the massive Sports Palace auditorium and at least one hotel were converted into makeshift jails .
+3
+#4 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#6 sweep VERB sweep%2:35:01::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#23 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+More than 1000 were said to have been arrested - 100 of them Roman Catholic priests .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 arrest VERB arrest%2:35:00::
+Of the millions who have served time in concentration camps in Siberia as political prisoners of the Soviet state , few emerge in the West to tell about it .
+2
+#5 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#26 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::

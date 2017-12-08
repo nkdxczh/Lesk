@@ -1,0 +1,583 @@
+ The injured German veteran was a former miner , twenty-four years old , who had been wounded by shrapnel in the back of the head .
+6
+#1 injured ADJ injured%3:00:00::
+#6 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#7 miner NOUN miner%1:18:00::
+#10 year NOUN years%1:28:00::
+#21 back NOUN back%1:06:00::,back%1:15:02::
+#24 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+This resulted in damage to the occipital lobe and very probably to the left side of the cerebellum also .
+3
+#3 damage NOUN damage%1:04:00::
+#13 left ADJ left%5:00:00:unexhausted:00
+#14 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+In any event , the extraordinary result of this injury was that he became " psychically blind " , while at the same time , apparently , the sense of touch remained essentially intact .
+1
+#13 become VERB become%2:30:00::,become%2:42:01::
+Psychical blindness is a condition in which there is a total absence of visual memory-images , a condition in which , for example , one is unable to remember something just seen or to conjure up a memory-picture of the visible appearance of a well-known friend in his absence .
+6
+#4 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#10 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#17 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#31 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#40 visible ADJ visible%3:00:00::
+#45 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+This circumstance in the patient 's case plus the fact that his tactual capacity remained basically in sound working order constitutes its exceptional value for the problem at hand since the evidence presented by the authors is overwhelming that , when the patient closed his eyes , he had absolutely no spatial ( that is , third-dimensional ) awareness whatsoever .
+14
+#1 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#4 patient NOUN patient%1:18:00::
+#13 capacity NOUN capacity%1:07:00::
+#17 sound ADJ sound%3:00:01::
+#18 working ADJ working%5:00:00:functioning:00
+#19 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#23 value NOUN value%1:21:00::,values%1:09:00::
+#26 problem NOUN problem%1:09:00::,problem%1:26:00::
+#32 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#42 patient NOUN patient%1:18:00::
+#43 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#45 eye NOUN eye%1:08:00::,eye%1:09:01::
+#48 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#49 absolutely ADV absolutely%4:02:00::
+The necessary inference , as the authors themselves interpret it , would seem to be this : " ( 1 ) Spatial qualities are not among those grasped by the sense of touch , as such .
+2
+#1 necessary ADJ necessary%5:00:00:inevitable:00
+#22 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+We do not arrive at spatial images by means of the sense of touch by itself .
+3
+#2 not ADV not%4:02:00::
+#6 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#8 means NOUN means%1:06:00::
+( 2 ) Spatiality becomes part of the tactual sensation only by way of visual representations ; that is , there is , in the true sense , only a visual space " .
+7
+#4 become VERB become%2:30:00::,become%2:42:01::
+#5 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#25 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#26 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+#28 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+The underlying assumption , of course , is that only sight and touch enable us , in any precise and fully dependable way , to locate objects in space beyond us , the other senses being decidedly inferior , if not totally inadequate , in this regard .
+12
+#2 assumption NOUN assumption%1:09:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#12 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#13 enable VERB enable%2:30:00::,enabling%3:00:00::
+#20 fully ADV fully%4:02:04::
+#22 way NOUN way%1:04:00::,way%1:09:00::
+#26 object NOUN object%1:03:00::
+#33 other ADJ other%3:00:00::
+#34 sense NOUN sense%1:09:02::
+#36 decidedly ADV decidedly%4:02:00::
+#37 inferior ADJ inferior%5:00:00:bottom:00
+This is an assumption with which few would be disposed to quarrel .
+3
+#3 assumption NOUN assumption%1:09:00::
+#9 disposed ADJ disposed%5:00:00:inclined:02
+#11 quarrel VERB quarrel%2:32:00::
+Therefore , if the sense of touch is functioning normally and there is a complete absence of spatial awareness in a psychically blind person when the eyes are closed and an object is handled , the conclusion seems unavoidable that touch by itself cannot focus and take possession of the third-dimensionality of things and that actual sight or visual representations are necessary .
+15
+#9 normally ADV normally%4:02:00::
+#14 complete ADJ complete%5:00:00:skilled:00
+#22 blind ADJ blind%3:00:00::
+#23 person NOUN person%1:03:00::,person%1:08:00::
+#26 eye NOUN eye%1:08:00::,eye%1:09:01::
+#31 object NOUN object%1:03:00::
+#33 handle VERB handle%2:35:00::,handle%2:41:00::,handle%2:41:03::
+#36 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#40 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#47 possession NOUN possession%1:15:00::
+#52 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#55 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#56 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#59 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#61 necessary ADJ necessary%3:00:00::
+The force of the authors ' analysis ( if indeed it has any force ) can be felt by the reader , I believe , only after three questions have been successfully answered .
+9
+#1 force NOUN force%1:07:01::,force%1:07:02::,force%1:18:00::
+#9 indeed ADV indeed%4:02:03::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 force NOUN force%1:07:01::,force%1:07:02::,force%1:18:00::
+#17 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#20 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#23 believe VERB believe%2:31:03::
+#25 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#32 answer VERB answer%2:31:00::,answer%2:32:00::
+( 1 ) What allows us to think that the patient had no third-dimensional representations when his eyes were closed ?
+5
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#10 patient NOUN patient%1:18:00::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#14 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#17 eye NOUN eye%1:08:00::,eye%1:09:01::
+( 2 ) What evidence is there that he was psychically blind ?
+1
+#11 blind ADJ blind%3:00:00::
+( 3 ) How can we be sure that his sense of touch was not profoundly disturbed by his head injury ?
+3
+#14 not ADV not%4:02:00::
+#15 profoundly ADV profoundly%4:02:00::
+#19 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+We shall consider these in the inverse order of their presentation .
+1
+#7 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+Obviously , a satisfactory answer to the third question is imperative , if the argument is to get under way at all , for if there is any possibility of doubt whether the patient 's tactual sensitivity had been impaired by the occipital lesion , any findings whatsoever in regard to the first question become completely ambiguous and fail altogether , of course , as evidence to establish the desired conclusion .
+9
+#10 imperative ADJ imperative%3:00:00::
+#17 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#33 patient NOUN patient%1:18:00::
+#46 finding NOUN finding%1:04:00::,finding%1:04:01::
+#52 first ADJ first%3:00:00::,first%4:02:00::
+#54 become VERB become%2:30:00::,become%2:42:01::
+#58 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#67 establish VERB establish%2:31:00::,establish%2:36:00::,establish%2:36:10::
+#70 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+The answer the authors give to it , therefore , is of supreme importance .
+1
+#4 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+It is as follows : " The usual sensitivity tests showed that the specific qualities of skin-perceptiveness ( pressure , pain , temperature ) , as well as the kinesthetic sensations ( muscular feelings , feelings in the tendons and joints ) , were , as such , essentially intact , although they seemed , in comparison with normal reactions , to be somewhat diminished over the entire body .
+12
+#9 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#10 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#13 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#14 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#18 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#20 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#30 sensation NOUN sensation%1:09:00::
+#33 feeling NOUN feeling%1:09:01::,feeling%1:09:02::
+#35 feeling NOUN feeling%1:09:01::,feeling%1:09:02::
+#40 joint NOUN joint%1:06:01::
+#58 normal ADJ normal%3:00:01::,normal%3:00:03::
+#64 diminished ADJ diminished%5:00:01:decreased:00
+The supposed tactual sense of spatial location and orientation in the patient and his ability to specify the location of a member , as well as the direction and scope of a movement , passively executed ( with one of his members ) , proved to have been , on the contrary , very considerably affected " .
+9
+#3 sense NOUN sense%1:09:02::
+#11 patient NOUN patient%1:18:00::
+#14 ability NOUN ability%1:09:00::
+#27 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#29 scope NOUN scope%1:07:00::
+#32 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#35 execute VERB execute%2:36:01::
+#44 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#55 affect VERB affect%2:30:00::,affect%2:42:00::
+The authors insist , however , that these abnormalities in the sense of touch were due absolutely to no organic disorders in that sense faculty but rather to the injuries which the patient had sustained to the sense of sight .
+8
+#4 however ADV however%4:02:04::
+#23 sense NOUN sense%1:09:02::
+#24 faculty NOUN faculty%1:09:00::
+#26 rather ADV rather%4:02:02::
+#32 patient NOUN patient%1:18:00::
+#34 sustain VERB sustain%2:29:00::
+#37 sense NOUN sense%1:09:02::
+#39 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+( 1 ) When an object was placed in the patient 's hand , he had no difficulty determining whether it was warm or cold , sharp or blunt , rough or smooth , flexible , soft , or hard ; and he could tell , simply by the feel of it , whether it was made of wood , iron , cloth , rubber , and so on .
+21
+#5 object NOUN object%1:03:00::
+#7 place VERB place%2:31:13::
+#10 patient NOUN patient%1:18:00::
+#12 hand NOUN hand%1:08:00::,hand%1:10:01::
+#15 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#18 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#22 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#24 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#26 sharp ADJ sharp%3:00:00::,sharp%3:00:04::,sharp%5:00:00:high:03,sharp%5:00:00:unpleasant:00
+#28 blunt ADJ blunt%5:00:00:dull:01
+#30 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#32 smooth ADJ smooth%3:00:00::
+#36 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#39 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#44 tell VERB tell%2:31:00::,tell%2:31:01::
+#46 simply ADV simply%4:02:00::,simply%4:02:02::
+#49 feel NOUN feel%1:04:00::
+#58 wood NOUN wood%1:06:02::
+#60 iron NOUN fe%1:27:00::
+#62 cloth NOUN cloth%1:06:00::
+#64 rubber NOUN rubber%1:06:02::
+And he could recognize , by touch alone , articles which he had handled immediately before , even though they were altogether unfamiliar to him and could not be identified by him ; that is , he was unaware what kind of objects they were or what their use was .
+9
+#3 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#6 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#7 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#9 article NOUN article%1:03:00::
+#13 handle VERB handle%2:35:00::,handle%2:41:00::,handle%2:41:03::
+#15 before ADV before%4:02:03::
+#27 not ADV not%4:02:00::
+#29 identify VERB identify%2:31:00::,identify%2:32:00::
+#42 object NOUN object%1:03:00::
+( 2 ) The patient attained an astonishing efficiency in a new trade .
+2
+#4 patient NOUN patient%1:18:00::
+#11 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+Because of his brain injury and the extreme damage suffered to his sight , the patient had to train himself for a new line of work , that of a portfolio maker , an occupation requiring a great deal of precision in the making of measurements and a fairly well developed sense of form and contour .
+14
+#3 brain NOUN brain%1:08:00::,brain%1:13:00::
+#7 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#8 damage NOUN damage%1:04:00::
+#9 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#12 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#15 patient NOUN patient%1:18:00::
+#18 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#22 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#31 maker NOUN maker%1:18:00::
+#34 occupation NOUN occupation%1:04:00::
+#43 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#48 fairly ADV fairly%4:02:02::
+#49 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#53 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+It seems clear , when one takes into consideration the exceedingly defective eyesight of the patient ( we shall describe it in detail in connection with our second question , the one concerning the psychical blindness of the patient ) , that he had to rely on his sense of touch much more than the usual portfolio maker and that consequently that faculty was most probably more sensitive to shape and size than that of a person with normal vision .
+16
+#2 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#8 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#15 patient NOUN patient%1:18:00::
+#19 describe VERB describe%2:32:01::
+#32 concern VERB concern%2:42:00::,concern%2:42:01::
+#38 patient NOUN patient%1:18:00::
+#57 maker NOUN maker%1:18:00::
+#62 faculty NOUN faculty%1:09:00::
+#64 most ADV most%4:02:01::
+#66 more ADV more%4:02:00::
+#67 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#69 shape NOUN shape%1:07:00::,shape%1:07:01::
+#71 size NOUN size%1:07:00::,size%1:07:02::
+#76 person NOUN person%1:03:00::,person%1:08:00::
+#78 normal ADJ normal%3:00:01::,normal%3:00:03::
+#79 vision NOUN vision%1:09:01::,vision%1:09:02::,vision%1:09:03::
+And so the authors conclude : " The conduct of the patient in his every-day life and in his work , even more than the foregoing facts [ mentioned above under 1 ] , leave positively no room for doubt that the sense of touch , in the ordinary sense of the word , was unaffected ; or , to put the same thing in physiological terms , that the performance capacity of the tactual apparatus , from the periphery up to the tactual centers in the brain , - that is , from one end to the other - was unimpaired " .
+19
+#4 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#8 conduct NOUN conduct%1:07:00::
+#11 patient NOUN patient%1:18:00::
+#15 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#37 room NOUN room%1:26:00::
+#48 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#49 sense NOUN sense%1:10:00::
+#52 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#55 unaffected ADJ unaffected%3:00:00::
+#60 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#62 same ADJ same%3:00:00::,same%3:00:02::
+#66 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#70 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#71 capacity NOUN capacity%1:07:00::
+#80 up ADV up%4:02:00::,up%4:02:02::
+#84 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#87 brain NOUN brain%1:08:00::,brain%1:13:00::
+#95 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#98 other ADJ other%3:00:00::
+If the argument is accepted as essentially sound up to this point , it remains for us to consider whether the patient 's difficulties in orienting himself spatially and in locating objects in space with the sense of touch can be explained by his defective visual condition .
+8
+#2 argument NOUN argument%1:10:02::
+#4 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#7 sound ADJ sound%3:00:01::
+#11 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#21 patient NOUN patient%1:18:00::
+#25 orient VERB orient%2:32:01::
+#31 object NOUN object%1:03:00::
+#46 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+But before we can do this , we must first find answers to our original questions 1 and 2 ; then we shall perhaps be in a position to provide something like a complete answer to the question at hand .
+3
+#14 original ADJ original%5:00:01:first:00
+#29 provide VERB provide%2:34:00::,provide%2:40:00::
+#33 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+In what ways , then , did the patient 's psychical blindness manifest itself ?
+4
+#2 way NOUN way%1:04:00::,way%1:09:00::
+#4 then ADV then%4:02:02::
+#8 patient NOUN patient%1:18:00::
+#12 manifest VERB manifest%2:30:00::
+He could not see objects as unified , self-contained , and organized figures , as a person does with normal vision .
+8
+#2 not ADV not%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 object NOUN object%1:03:00::
+#8 self-contained ADJ self-contained%5:00:00:complete:00
+#12 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#16 person NOUN person%1:03:00::,person%1:08:00::
+#19 normal ADJ normal%3:00:01::,normal%3:00:03::
+#20 vision NOUN vision%1:09:01::,vision%1:09:02::,vision%1:09:03::
+The meaning of this , as we shall see , is that he had no fund of visual memory-images of objects as objects ; and , therefore , he could not recognize even long-familiar things upon seeing them again .
+9
+#1 meaning NOUN meaning%1:09:00::
+#8 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 object NOUN object%1:03:00::
+#22 object NOUN object%1:03:00::
+#30 not ADV not%4:02:00::
+#31 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#34 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#36 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Instead , he constantly became lost in parts and components of them , confused some of their details with those of neighboring objects , and so on , unless he allowed time to " trace " the object in question through minute movements of the head and hands and in this way to discover its contours .
+14
+#4 become VERB become%2:30:00::,become%2:42:01::
+#5 lost ADJ lost%3:00:01::
+#7 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#17 detail NOUN detail%1:10:00::,detail%1:24:00::
+#22 object NOUN object%1:03:00::
+#30 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#31 time NOUN time%1:28:01::,time%1:28:05::
+#34 trace VERB trace%2:31:00::,trace%2:38:00::,trace%2:38:03::
+#37 object NOUN object%1:03:00::
+#42 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#45 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#47 hand NOUN hand%1:08:00::,hand%1:10:01::
+#51 way NOUN way%1:04:00::,way%1:09:00::
+#53 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+According to his own testimony , he never actually saw things as shaped but only as generally amorphous " blots " of color of a more or less indefinite size ; at their edges they slipped pretty much out of focus altogether .
+8
+#3 own ADJ own%5:00:00:personal:00
+#8 actually ADV actually%4:02:01::
+#10 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 generally ADV generally%4:02:00::
+#22 color NOUN color%1:07:00::,color%1:27:00::
+#29 size NOUN size%1:07:00::,size%1:07:02::
+#33 edge NOUN edge%1:06:00::,edge%1:07:00::,edge%1:25:00::
+But by the tracing procedure , he could , in a strange obviously kinesthetic manner , find the unseen form ; could piece , as it were , the jumbled mass together into an organized whole and then recognize it as a man or a triangle or whatever it turned out to be .
+9
+#11 strange ADJ strange%3:00:00::
+#14 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#16 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#19 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#22 piece VERB piece%2:36:00::
+#30 mass NOUN mass%1:07:01::,mass%1:14:02::,mass%1:17:00::,mass%1:23:00::
+#31 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#35 whole NOUN whole%1:03:00::
+#38 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+If , however , the figure to be discerned were complicated , composed of several interlocking subfigures , and so on , even the tracing process failed him , and he could not focus even relatively simple shapes among its parts .
+9
+#2 however ADV however%4:02:04::
+#5 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#10 complicated ADJ complicated%5:00:00:complex:00
+#12 compose VERB compose%2:42:00::
+#25 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#32 not ADV not%4:02:00::
+#36 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#37 shape NOUN shape%1:07:00::,shape%1:07:01::
+#40 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+This meant , concretely , that the patient could not read at all without making writing like movements of the head or body , became easily confused by " hasher marks " inserted between hand-written words and thus confused the mark for one of the letters , and could recognize a simple straight line or a curved one only by tracing it .
+17
+#7 patient NOUN patient%1:18:00::
+#9 not ADV not%4:02:00::
+#10 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#20 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#24 become VERB become%2:30:00::,become%2:42:01::
+#25 easily ADV easily%4:02:01::,easily%4:02:06::
+#32 insert VERB insert%2:35:00::,insert%2:35:01::
+#35 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#37 thus ADV thus%4:02:00::
+#40 mark NOUN mark%1:10:03::
+#45 letter NOUN letter%1:10:01::,letter%1:10:02::
+#49 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#51 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#58 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#60 trace VERB trace%2:35:00::
+The patient himself denied that he had any visual imagery at all ; and there was ample evidence of the following sort to corroborate him .
+5
+#1 patient NOUN patient%1:18:00::
+#3 deny VERB deny%2:32:00::,deny%2:32:01::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#21 sort NOUN sort%1:09:00::,sort%1:18:00::
+After a conversation with another man , he was able to recount practically everything that had been said but could not describe at all what the other man looked like .
+9
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 able ADJ able%3:00:00::
+#11 recount VERB recount%2:32:00::
+#12 practically ADV practically%4:02:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 not ADV not%4:02:00::
+#21 describe VERB describe%2:32:01::
+#26 other ADJ other%3:00:00::
+#27 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Nor could he call up memory-pictures of close friends or relatives .
+3
+#7 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#8 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#10 relative NOUN relative%1:18:00::
+In short , both his own declarations and his figural blindness , when he looked at objects , seem to present undeniable evidence that he had simply no visual memory at all .
+7
+#5 own ADJ own%5:00:00:personal:00
+#14 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#16 object NOUN object%1:03:00::
+#20 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#25 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#26 simply ADV simply%4:02:00::,simply%4:02:02::
+#29 memory NOUN memory%1:09:00::,memory%1:09:01::
+He was oblivious of the form of the object actually being viewed , precisely because he could not assign it to a visual shape , already learned and held in visual memory , as persons of normal vision do .
+13
+#5 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#8 object NOUN object%1:03:00::
+#9 actually ADV actually%4:02:01::
+#11 view VERB view%2:39:00::,view%2:39:02::
+#17 not ADV not%4:02:00::
+#18 assign VERB assign%2:31:02::,assign%2:34:00::
+#23 shape NOUN shape%1:07:00::,shape%1:07:01::
+#25 already ADV already%4:02:00::
+#26 learn VERB learn%2:31:01::,learn%2:31:03::
+#31 memory NOUN memory%1:09:00::,memory%1:09:01::
+#34 person NOUN person%1:03:00::,person%1:08:00::
+#36 normal ADJ normal%3:00:01::,normal%3:00:03::
+#37 vision NOUN vision%1:09:01::,vision%1:09:02::,vision%1:09:03::
+He could not recognize it ; he was absolutely unfamiliar with it because he had no visual memory at all .
+4
+#2 not ADV not%4:02:00::
+#3 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 memory NOUN memory%1:09:00::,memory%1:09:01::
+Therefore , his only recourse was to learn the shape all over again for each new visual experience of the same individual object or type of object ; and this he could do only by going over its mass with the tracing procedure .
+9
+#7 learn VERB learn%2:31:01::,learn%2:31:03::
+#9 shape NOUN shape%1:07:00::,shape%1:07:01::
+#15 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#20 same ADJ same%3:00:00::,same%3:00:02::
+#21 individual ADJ individual%5:00:00:independent:00
+#22 object NOUN object%1:03:00::
+#24 type NOUN type%1:18:00::
+#26 object NOUN object%1:03:00::
+#33 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Then he might finally recognize it , apparently by combining the visual blot , actually being seen , with tactual feelings in the head or body accompanying the tracing movements .
+7
+#4 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#9 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#14 actually ADV actually%4:02:01::
+#16 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 feeling NOUN feeling%1:09:01::,feeling%1:09:02::
+#26 accompany VERB accompany%2:42:00::
+#29 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+This would mean , it can readily be seen , that , again , for each new visual experience the tracing motions would have to be repeated because of the absence of visual imagery .
+4
+#8 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#16 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#21 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#26 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+As one would surmise , the procedure , however , could be repeated with the same object or with the same type of object often enough , so that the corresponding visual blots and the merest beginning of the tracing movement would provide clues as to the actual shape , which the patient then immediately could determine by a kind of inference .
+15
+#8 however ADV however%4:02:04::
+#12 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+#15 same ADJ same%3:00:00::,same%3:00:02::
+#16 object NOUN object%1:03:00::
+#20 same ADJ same%3:00:00::,same%3:00:02::
+#21 type NOUN type%1:18:00::
+#23 object NOUN object%1:03:00::
+#25 enough ADV enough%4:02:00::
+#30 corresponding ADJ corresponding%5:00:00:similar:00
+#40 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#42 provide VERB provide%2:34:00::,provide%2:40:00::
+#43 clue NOUN clue%1:10:01::
+#48 shape NOUN shape%1:07:00::,shape%1:07:01::
+#52 patient NOUN patient%1:18:00::
+#56 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+Men , trees , automobiles , houses , and so on - objects continually confronted in everyday life - had each its characteristic blot appearance and became easily recognizable , at the very beginning of tracing , by an inference as to what each was .
+9
+#0 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#2 tree NOUN tree%1:20:00::
+#6 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#12 object NOUN object%1:03:00::
+#17 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+#26 become VERB become%2:30:00::,become%2:42:01::
+#27 easily ADV easily%4:02:01::,easily%4:02:06::
+Dice , for example , he inferred from black dots on a white surface .
+4
+#8 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#9 dot NOUN dot%1:25:00::
+#12 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#13 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+He evidently could not actually see the corners of these objects , but their size and the dots gave them away .
+8
+#1 evidently ADV evidently%4:02:00::
+#3 not ADV not%4:02:00::
+#4 actually ADV actually%4:02:01::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#10 object NOUN object%1:03:00::
+#14 size NOUN size%1:07:00::,size%1:07:02::
+#17 dot NOUN dot%1:25:00::
+And the authors give numerous instances of calculated guessing on the patient 's part to show how large a role it played in his process of readapting himself and how proficient he became at it .
+7
+#3 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#5 instance NOUN instance%1:09:00::
+#11 patient NOUN patient%1:18:00::
+#13 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#17 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#24 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#32 become VERB become%2:30:00::,become%2:42:01::
+Often he seems even to have been able to guess correctly , without the tracing motions , solely on the basis of qualitative differences among the blot like things which appeared in his visual experience .
+4
+#7 able ADJ able%3:00:00::
+#15 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#28 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#30 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Perhaps the very important question - What is , then , exactly the role of kinesthetic sensations in the patient 's ability to recognize forms and shapes by means of the tracing movements when he is actually looking at things ?
+12
+#9 then ADV then%4:02:02::
+#11 exactly ADV exactly%4:02:02::
+#16 sensation NOUN sensation%1:09:00::
+#19 patient NOUN patient%1:18:00::
+#23 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#24 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#26 shape NOUN shape%1:07:00::,shape%1:07:01::
+#28 means NOUN means%1:06:00::
+#32 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#36 actually ADV actually%4:02:01::
+#37 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#39 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+- has now been raised in the reader 's mind and in the following form .
+4
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#13 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#14 form NOUN form%1:09:01::,form%1:10:00::
+If the patient can perceive figure kinesthetically when he cannot perceive it visually , then , it would seem , the sense of touch has immediate contact with the spatial aspects of things in independence of visual representations , at least in regard to two dimensions , and , as we shall see , even this much spatial awareness on the part of unaided touch is denied by the authors .
+14
+#2 patient NOUN patient%1:18:00::
+#4 perceive VERB perceive%2:31:00::
+#5 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#10 perceive VERB perceive%2:31:00::
+#14 then ADV then%4:02:02::
+#24 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#26 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#30 aspect NOUN aspect%1:07:02::,aspect%1:09:01::
+#32 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#37 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#45 dimension NOUN dimension%1:07:00::
+#52 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#64 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#66 deny VERB deny%2:32:00::,deny%2:32:01::
+How , then , do the kinesthetic sensations function in all this ?
+2
+#2 then ADV then%4:02:02::
+#7 sensation NOUN sensation%1:09:00::
+The authors set about answering this fundamental question through a detailed investigation of the patient 's ability , tactually , ( 1 ) to perceive figure and ( 2 ) to locate objects in space , with his eyes closed ( or turned away from the object concerned ) .
+7
+#4 answer VERB answer%2:31:00::,answer%2:32:00::
+#14 patient NOUN patient%1:18:00::
+#24 perceive VERB perceive%2:31:00::
+#25 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#32 object NOUN object%1:03:00::
+#38 eye NOUN eye%1:08:00::,eye%1:09:01::
+#46 object NOUN object%1:03:00::
+Quite naturally , they make the investigation , first , by prohibiting the patient from making any movements at all and then , later , by repeating it and allowing the patient to move in any way he wanted to .
+11
+#0 quite ADV quite%4:02:02::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 patient NOUN patient%1:18:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#23 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#29 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#31 patient NOUN patient%1:18:00::
+#33 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#36 way NOUN way%1:04:00::,way%1:09:00::
+#38 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+When the patient was not allowed to move his body in any way at all , the following striking results occurred .
+7
+#2 patient NOUN patient%1:18:00::
+#4 not ADV not%4:02:00::
+#5 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#7 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 way NOUN way%1:04:00::,way%1:09:00::
+#17 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#18 striking ADJ striking%5:00:00:conspicuous:00

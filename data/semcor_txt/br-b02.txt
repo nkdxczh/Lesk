@@ -1,0 +1,251 @@
+ The inference has been too widely accepted that because the Communists have succeeded in building barricades across Berlin the free world must acquiesce in dismemberment of that living city .
+2
+#6 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#12 succeed VERB succeed%2:41:00::
+Though Walter Ulbricht , by grace of Soviet tanks , may be head man in East Germany , that does not give him any right to usurp the government of East Berlin or to absorb that semi-city into the Soviet zone .
+1
+#34 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+After the Berlin blockade and airlift , the Council of Foreign Ministers in 1949 declared a purpose " to mitigate the effects of the present administrative division of Germany and of Berlin " .
+1
+#14 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+For some time the Communists honored the distinction between the Soviet zone of Germany and the Soviet sector of Berlin by promulgating separately the laws for the two areas .
+1
+#5 honor VERB honor%2:41:01::
+Then they moved offices of the East German puppet government into East Berlin and began illegally to treat it as the capital of East Germany .
+3
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#17 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+That this and the closing of the East Berlin-West Berlin border have not been accepted by the Western governments appears in notes which Britain , France , and the United States sent to Moscow after the latter 's gratuitous protest over a visit of Chancellor Adenauer and other West German officials to West Berlin .
+2
+#14 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#19 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+The Chancellor had as much business there as Ulbricht had in East Berlin - and was certainly less provocative than the juvenile sound-truck taunts of Gerhard Eisler .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The British and other replies to that Moscow note pointed out efforts of the Communist authorities " to integrate East Berlin into East Germany by isolating it from the outside and attempting to make it the capital of East Germany " .
+1
+#18 integrate VERB integrate%2:41:00::
+They insisted on the " fundamental fact " that " the whole of Berlin has a quadripartite status " .
+1
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This is far from acknowledging or recognizing those efforts as an accomplished fact .
+1
+#6 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+There remains , of course , the question of what the West can do beyond diplomatic protest to prevent the illegal efforts from becoming accomplished facts .
+2
+#18 prevent VERB prevent%2:41:00::
+#23 become VERB become%2:30:00::,become%2:42:01::
+One ground of action certainly exists when fusillades of stray shots go over into West Berlin as Communist " vopos " try to gun down fleeing unarmed residents .
+3
+#5 exist VERB exist%2:42:00::
+#11 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#21 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Another remained when an American Army car was recovered but with a broken glass .
+1
+#8 recover VERB recover%2:40:01::
+Remembering the step-by-step fate of Danzig and the West German misgivings about " salami " tactics , it is to be hoped that the dispatch of General Clay to West Berlin as President Kennedy 's representative will mark a stiffening of response not only to future indignities and aggressions but also to some that have passed .
+2
+#37 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#55 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+Thousands of buffalo ( " bison " they will never be to the man on the street ) grazing like a mobile brown throw-rug upon the rolling , dusty-green grassland .
+1
+#18 graze VERB graze%2:35:10::
+A horizon even and seamless , binding the vast sun-bleached dome of sky to earth .
+1
+#6 bind VERB bind%2:35:01::,bind%2:35:07::,bind%2:35:08::
+That picture of the American prairie is as indelibly fixed in the memory of those who have studied the conquest of the American continent as any later cinema image of the West made in live-oak canyons near Hollywood .
+3
+#9 fix VERB fix%2:30:00::,fix%2:35:00::
+#17 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#32 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+For it was the millions of buffalo and prairie chicken and the endless seas of grass that symbolized for a whole generation of Americans the abundant supply that was to take many of them westward when the Ohio and Mississippi valleys began to fill .
+2
+#30 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#41 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The National Park Service now proposes to preserve an area in Pottawatomie County , northeast Kansas , as a " Prairie National Park " .
+1
+#5 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+Wooded stream valleys in the folds of earth would be saved .
+1
+#10 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+Grasslands would extend , unfenced , unplowed , unbroken by silo or barn - as the first settlers saw them .
+2
+#2 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+American history should clinch the case when Congress is asked to approve .
+3
+#3 clinch VERB clinch%2:32:00::
+#9 ask VERB ask%2:32:01::,ask%2:32:05::
+#11 approve VERB approve%2:31:00::,approve%2:32:00::
+A Philadelphia distiller is currently breaching the customary prohibition against hard-liquor advertising on TV and radio .
+1
+#5 breach VERB breach%2:35:00::
+Starting with small stations not members of the National Association of Broadcasters , the firm apparently is seeking to break down the anti-liquor barriers in major-market stations .
+1
+#0 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+The National Association of Broadcasters code specifically bars hard-liquor commercials .
+1
+#7 bar VERB bar%2:32:00::
+Even the Distilled Spirits Institute has long had a specific prohibition .
+1
+#7 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+Why , then , with these voluntary barricades and some state laws barring liquor ads , is it necessary to seek congressional action ?
+1
+#12 bar VERB bar%2:32:00::
+Simply because the subverting action of firms that are not members of the Distilled Spirits Institute and of radio and TV stations that are not members of the NAB tends to spread .
+2
+#29 tend VERB tend%2:42:01::
+#31 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+Soon some members of the two industry groups doubtless will want to amend their codes on grounds that otherwise they will suffer unfairly from the efforts of non-code competitors .
+2
+#10 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#21 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+Although the false glamour surrounding bourbon or other whisky commercials is possibly no more fatuous than the pseudo-sophistication with which TV soft-drinks are downed or toothpaste applied , there is a sad difference between enticing a viewer into sipping Oopsie-Cola and gulling him into downing bourbon .
+3
+#23 down VERB down%2:34:01::
+#26 apply VERB apply%2:40:00::
+#44 down VERB down%2:34:01::
+Registered Democrats in New York City this year have the opportunity to elect their party 's candidates for Mayor and other municipal posts and the men who will run their party organization .
+2
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#28 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+In the central contest , that for Mayor , they may have found some pertinent points in what each faction has said about the other .
+1
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mayor Robert F. Wagner must , as his opponents demand , assume responsibility for his performance in office .
+1
+#11 assume VERB assume%2:40:00::,assume%2:40:01::
+While all citizens share in blame for lax municipal ethics the Wagner regime has seen serious problems in the schools , law enforcement and fiscal policies .
+1
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+The Mayor is finding it awkward to campaign against his own record .
+1
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+State Controller Arthur Levitt , on the other hand , cannot effectively deny that he has chosen to be the candidate of those party leaders who as a rule have shown livelier interest in political power than in the city 's welfare .
+2
+#12 deny VERB deny%2:32:00::,deny%2:32:01::
+#30 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+They , too , have links with the city 's ills .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Both men are known to be honest and public-spirited .
+1
+#3 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+Mayor Wagner 's shortcomings have perhaps been more mercilessly exposed than those of Mr. Levitt who left an impression of quiet competence in his more protected state post .
+1
+#16 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+As Mayor , Mr. Levitt might turn out to be more independent than some of his leading supporters would like .
+1
+#19 like VERB like%2:37:05::
+Mr. Wagner might or might not be a " new " Mayor in this third term , now that he is free of the pressure of those party leaders whom he calls " bosses " .
+1
+#31 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+But his reelection would strengthen the liberal Democrats and the labor unions who back him .
+1
+#13 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+If this choice is less exciting than New York Democrats may wish , it nevertheless must be made .
+1
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The vote still gives citizens a voice in the operation of their government and their party .
+1
+#3 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Both Mr. K 's have so far continued to speak softly and carry big sticks over Laos .
+3
+#7 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#9 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#12 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+President Kennedy , already two quiet demands down , still refused Thursday to be drawn into delivering a public ultimatum to Moscow .
+2
+#14 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#16 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+But at the same time he moved his helicopter-borne marines to within an hour of the fighting .
+1
+#6 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+And Secretary Rusk , en route to Bangkok , doubtless is trying to make emergency arrangements for the possible entry of Australian or Thai SEATO forces .
+1
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+For Mr. Kennedy , speaking softly and carrying a sizable stick is making the best of a bad situation .
+3
+#4 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#7 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#12 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The new President is in no position to start out his dealings with Moscow by issuing callable bluffs .
+1
+#15 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+He must show at the outset that he means exactly what he says .
+3
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#8 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+At his press conference Mr. Kennedy said , " All we want in Laos is peace not war .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+At the scene he has just as clearly shown his military strength in unprovocative but ready position .
+1
+#8 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+But because of the peculiar nature of the military situation in Laos , the Soviet leader must be tempted to let things ride - a course that would appear to cost him little on the spot , but would bog Washington in a tactical mess .
+3
+#20 let VERB let%2:30:01::,let%2:41:00::
+#28 appear VERB appear%2:30:00::
+#30 cost VERB cost%2:42:00::,cost%2:42:01::
+The hard core of the pro-Communist rebel force numbers only some 2000 tough Viet Minh guerrilla fighters .
+1
+#8 number VERB number%2:42:00::
+But for the United States and its SEATO allies to attempt to shore up a less tough , less combat-tested government army in monsoon-shrouded , road-shy , guerrilla-th ' - wisp terrain is a risk not savored by Pentagon planners .
+1
+#36 savor VERB savor%2:39:02::
+But if anything can bring home to Mr. Khrushchev the idea that he will not really get much enjoyment from watching this Braddock-against-the-Indians contest , it will probably be the fact that SEATO forces are ready to attempt it - plus the fact that Moscow has something to lose from closing off disarmament and other bigger negotiations with Washington .
+4
+#16 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#20 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#45 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#48 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+Actually it would be more accurate to say that the leader of the alliance now has swung fully behind the British policy of seeking to achieve a neutral Laos via the international bargaining table .
+2
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 swing VERB swing%2:41:01::
+It is ironic that Washington is having to struggle so for a concept that for six years it bypassed as unreasonable .
+1
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The State Department tacitly rejected the neutral Laos idea after the Geneva conference of 1954 , and last year Washington backed the rightist coup that ousted neutral Premier Souvanna Phouma .
+1
+#20 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+But since last fall the United States has been moving toward a pro-neutralist position and now is ready to back the British plan for a cease-fire patrolled by outside observers and followed by a conference of interested powers .
+2
+#19 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+#31 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+But for the safety of Southeast Asia , and for the sake of the Laotian people - who would not be well-ruled by either militant minority now engaged in the fighting - this last big effort to seal that country from the cold war had to be made .
+4
+#27 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#37 seal VERB seal%2:35:00::
+#44 have VERB have%2:42:08::
+#47 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The Senate 's overwhelming ( 64 - 13 ) vote to support locally controlled educational TV efforts should be emulated in the lower house .
+1
+#11 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+Twice previously the Senate has approved measures backing ETV and the House has let f die .
+4
+#5 approve VERB approve%2:31:00::,approve%2:32:00::
+#7 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+#13 let VERB let%2:30:01::,let%2:41:00::
+#15 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+This year 's Senate measure would provide each state and the District of Columbia with $ 1000000 to be used in support of private , state , or municipal ETV efforts .
+2
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The funds would be used for equipment , not for land , buildings , or operation .
+1
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The relatively few communities that have educational stations have found them of considerable value .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But , lacking money from commercial sponsors , the stations have had difficulties meeting expenses or improving their service .
+2
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 meet VERB meet%2:41:02::,meet%2:42:01::
+Other communities - the ones to be aided most by the Senate bill - have had difficulty starting such stations because of the high initial cost of equipment .
+1
+#15 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::

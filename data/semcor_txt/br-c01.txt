@@ -1,0 +1,622 @@
+ It is not news that Nathan Milstein is a wizard of the violin .
+2
+#2 not ADV not%4:02:00::
+#9 wizard NOUN wizard%1:18:00::
+Certainly not in Orchestra hall where he has played countless recitals , and where Thursday night he celebrated his 20th season with the Chicago Symphony orchestra , playing the Brahms Concerto with his own slashing , demon-ridden cadenza melting into the high , pale , pure and lovely song with which a violinist unlocks the heart of the music , or forever finds it closed .
+12
+#1 not ADV not%4:02:00::
+#10 recital NOUN recital%1:10:03::
+#15 night NOUN night%1:28:00::
+#17 celebrate VERB celebrate%2:41:00::,celebrate%2:41:02::
+#27 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+#33 own ADJ own%5:00:00:personal:00
+#38 melt VERB melt%2:30:05::
+#41 high ADJ high%3:00:01::,high%3:00:02::
+#55 heart NOUN heart%1:09:01::,heart%1:15:00::
+#58 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#61 forever ADV forever%4:02:00::
+#64 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+There was about that song something incandescent , for this Brahms was Milstein at white heat .
+1
+#6 incandescent ADJ incandescent%5:00:00:glorious:00
+Not the noblest performance we have heard him play , or the most spacious , or even the most eloquent .
+4
+#2 noble ADJ noble%3:00:01::
+#3 performance NOUN performance%1:04:01::,performance%1:10:00::
+#12 most ADV most%4:02:00::
+#18 most ADV most%4:02:00::
+Those would be reserved for the orchestra 's great nights when the soloist can surpass himself .
+3
+#6 orchestra NOUN orchestra%1:14:00::
+#8 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#9 night NOUN night%1:28:00::
+This time the orchestra gave him some superb support fired by response to his own high mood .
+8
+#1 time NOUN time%1:11:00::
+#3 orchestra NOUN orchestra%1:14:00::
+#4 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#7 superb ADJ superb%5:00:00:superior:02
+#8 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#9 fire VERB fire%2:37:00::
+#14 own ADJ own%5:00:00:personal:00
+#16 mood NOUN mood%1:12:00::
+But he had in Walter Hendl a willing conductor able only up to a point .
+4
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 conductor NOUN conductor%1:18:01::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+That is , when Mr. Milstein thrust straight to the core of the music , sparks flying , bow shredding , violin singing , glittering and sometimes spitting , Mr. Hendl could go along .
+7
+#7 straight ADV straight%4:02:05::
+#10 core NOUN core%1:17:00::
+#13 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#16 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+#18 bow NOUN bow%1:04:01::
+#19 shred VERB shredded%5:00:00:cut:01
+#27 spit VERB spit%2:32:00::
+But Mr. Hendl does not go straight to any point .
+1
+#6 straight ADV straight%4:02:05::
+He flounders and lets music sprawl .
+2
+#3 let VERB let%2:30:01::,let%2:41:00::
+#4 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+There was in the Brahms none of the mysterious and marvelous alchemy by which a great conductor can bring soloist , orchestra and music to ultimate fusion .
+6
+#8 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#15 great ADJ great%5:00:01:extraordinary:00
+#16 conductor NOUN conductor%1:18:01::
+#21 orchestra NOUN orchestra%1:14:00::
+#23 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#26 fusion NOUN fusion%1:04:00::
+So we had some dazzling and memorable Milstein , but not great Brahms .
+2
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#11 great ADJ great%5:00:01:extraordinary:00
+The concert opened with another big romantic score , Schumann's Overture to Manfred , which suffered fate , this time with orchestral thrusts to the Byronic point to keep it afloat .
+8
+#1 concert NOUN concert%1:10:00::
+#2 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#5 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#7 score NOUN score%1:10:00::
+#16 fate NOUN fate%1:18:00::
+#19 time NOUN time%1:11:00::
+#22 thrust NOUN thrust%1:04:01::
+#28 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Hindemith 's joust with Weber tunes was a considerably more serious misfortune , for it demands translucent textures , buoyant rhythms , and astringent wit .
+4
+#2 joust NOUN joust%1:11:00::
+#9 more ADV more%4:02:00::
+#19 buoyant ADJ buoyant%5:00:00:cheerful:00
+#23 astringent ADJ astringent%5:00:00:sour:00
+It got the kind of scrambled , coarsened performance that can happen to best of orchestras when the man with the baton lacks technique and style .
+7
+#1 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#8 performance NOUN performance%1:04:01::,performance%1:10:00::
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#13 good ADJ best%3:00:00::,good%3:00:01::
+#15 orchestra NOUN orchestra%1:14:00::
+#18 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#25 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+The Bayreuth Festival opens July 23 with a new production of " Tannhaeuser " staged by Wieland Wagner , who is doing all the operas this time , and conducted by Wolfgang Sawallisch .
+5
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#9 production NOUN production%1:04:00::,production%1:10:00::
+#14 stage VERB stage%2:36:01::
+#26 time NOUN time%1:11:00::
+#29 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+Sawalisch also conducts " The Flying Dutch " , opening July 24 .
+2
+#2 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#9 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+" Parsifal " follows July 25 , with Hans Knappertsbusch conducting , and he also conducts " Die Meistersinger " , to be presented Aug. 8 and 12 .
+4
+#3 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#10 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#15 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#23 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+Rudolf Kempe conducts .
+1
+#2 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+No casts are listed , but Lotte Lehmann sent word that the Negro soprano , Grace Bumbry , will sing Venus in " Tannhaeuser " .
+4
+#1 cast NOUN cast%1:14:00::
+#3 list VERB list%2:32:00::,list%2:41:00::
+#19 sing VERB sing%2:32:08::,sing%2:36:01::
+#20 Venus NOUN venus%1:18:00::
+Remember how BY a series of booking absurdities Chicago missed seeing the Bolshoi Ballet ?
+4
+#4 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#6 booking NOUN booking%1:04:00::
+#9 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Remember how by lack of two big theaters Chicago missed the first visit of the Royal Danish Ballet ?
+3
+#6 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#9 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#11 first ADJ first%3:00:00::,first%4:02:00::
+Well , now we have two big theaters .
+3
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+But barring a miracle , and do n't hold your breath for it , Chicago will not see the Leningrad-Kirov Ballet , which stems from the ballet cradle of the Maryinsky and is one of the great companies of the world .
+7
+#1 bar VERB bar%2:32:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#23 stem VERB stem%2:42:00::
+#27 cradle NOUN cradle%1:15:00::
+#36 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#37 company NOUN company%1:14:02::,company%1:14:03::
+#40 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Before you let loose a howl saying we announced its coming , not once but several times , indeed we did .
+5
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 coming NOUN coming%1:04:02::
+#13 once ADV once%4:02:00::
+#16 time NOUN time%1:11:00::
+#18 indeed ADV indeed%4:02:03::
+The engagement was supposed to be all set for the big theater in McCormick Place , which Sol Hurok , ballet booker extraordinary , considers the finest house of its kind in the country - and of course he does n't weep at the capacity , either .
+8
+#1 engagement NOUN engagement%1:14:00::
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#26 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#27 house NOUN house%1:06:01::,house%1:06:02::,house%1:14:03::,house%1:14:04::
+#33 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#41 weep VERB weep%2:29:00::
+#44 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+#46 either ADV either%4:02:00::
+It was all set .
+1
+#3 set ADJ set%5:00:00:arranged:00
+Allied Arts corporation first listed the Chicago dates as Dec. 4 thru 10 .
+2
+#4 list VERB list%2:32:00::,list%2:41:00::
+#7 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+Later the Hurok office made it Dec. 8 thru 17 , a nice , long booking for the full repertory .
+7
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#3 office NOUN office%1:06:00::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#15 booking NOUN booking%1:04:00::
+#18 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#19 repertory NOUN repertory%1:06:00::
+Allied Arts had booked Marlene Dietrich into McCormick Place Dec. 8 and 9 .
+1
+#3 book VERB book%2:41:01::
+Allied Arts then notified us that the Kirov would cut short its Los Angeles booking , fly here to open Nov. 28 , and close Dec. 2 .
+6
+#2 then ADV then%4:02:00::
+#14 booking NOUN booking%1:04:00::
+#16 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#17 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#19 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#24 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+Shorter booking , but still a booking .
+3
+#0 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#1 booking NOUN booking%1:04:00::
+#6 booking NOUN booking%1:04:00::
+A couple of days later a balletomane told me he had telephoned Allied Arts for ticket information and was told " the newspapers had made a mistake " .
+5
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#4 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 ticket NOUN ticket%1:10:01::
+#19 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+So I started making some calls of my own .
+4
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#8 own ADJ own%5:00:00:personal:00
+The Kirov Ballet is firmly booked into the Shrine Auditorium , Los Angeles , Nov. 21 thru Dec. 4 .
+1
+#5 book VERB book%2:41:01::
+Not a chance of opening here Nov. 28 - barring that miracle .
+4
+#2 chance NOUN chance%1:07:00::,chance%1:26:00::
+#4 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 bar VERB bar%2:32:00::
+Then why not the juicy booking Hurok had held for us ?
+3
+#0 then ADV then%4:02:02::
+#5 booking NOUN booking%1:04:00::
+#8 hold VERB hold%2:35:03::,hold%2:38:05::,hold%2:40:02::,hold%2:41:15::,hold%2:42:12::
+Then how about the Civic Opera house ?
+1
+#0 then ADV then%4:02:02::
+Well , Allied Arts has booked Lena Horne there for a week starting Dec. 4 .
+3
+#5 book VERB book%2:41:01::
+#8 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#12 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Queried about the impasse , Allied Arts said : " Better cancel the Kirov for the time being .
+3
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#11 cancel VERB cancel%2:41:03::
+So the Kirov will fly back to Russia , minus a Chicago engagement , a serious loss for dance fans - and for the frustrated bookers , cancellation of one of the richest bookings in the country .
+6
+#4 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#5 back ADV back%4:02:05::
+#12 engagement NOUN engagement%1:14:00::
+#19 fan NOUN fan%1:18:01::
+#24 frustrated ADJ frustrating%5:00:00:preventive:00
+#36 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Paintings and drawings by Marie Moore of St. Thomas , Virgin Islands , are shown thru Nov. 5 at the Meadows gallery , 3211 Ellis Ave. , week days , 3 p.m. to 8 p.m. , Sundays 3 p.m. to 6 p.m. , closed Mondays .
+2
+#2 drawing NOUN drawing%1:04:01::
+#43 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+An exhibition of Evelyn Cibula 's paintings will open with a reception Nov. 5 at the Evanston Community center , 828 Davis st. .
+3
+#1 exhibition NOUN exhibition%1:14:00::
+#8 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#11 reception NOUN reception%1:14:00::
+It will continue all month .
+1
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Abstractions and semi abstractions by Everett McNear are being exhibited by the University gallery of Notre Dame until Nov. 5 .
+1
+#9 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::
+In the line of operatic trades to cushion the budget , the Dallas Civic Opera will use San Francisco 's new Leni Bauer-Ecsy production of " Lucia di Lammermoor " this season , returning the favor next season when San Francisco uses the Dallas " Don Giovanni " , designed by Franco Zeffirelli .
+7
+#2 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#9 budget NOUN budget%1:21:02::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 production NOUN production%1:04:00::,production%1:10:00::
+#33 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#35 favor NOUN favor%1:04:00::
+#41 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+H. E. Bates has scribbled a farce called " Hark , Hark , the Lark " !
+1
+#4 scribble VERB scribble%2:36:00::
+It is one of the most entertaining and irresponsible novels of the season .
+1
+#5 most ADV most%4:02:00::
+If there is a moral lurking among the shenanigans , it is hard to find .
+3
+#4 moral NOUN moral%1:10:00::
+#12 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#14 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Perhaps the lesson we should take from these pages is that the welfare state in England still allows wild scope for all kinds of rugged eccentrics .
+6
+#2 lesson NOUN lesson%1:04:01::
+#5 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#8 page NOUN page%1:10:00::
+#16 still ADV still%4:02:00::
+#19 scope NOUN scope%1:07:00::
+#25 eccentric NOUN eccentric%1:18:00::
+Anyway , a number of them meet here in devastating collisions .
+4
+#0 anyway ADV anyway%4:02:00::
+#3 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+One is an imperial London stockbroker called Jerebohm .
+2
+#3 imperial ADJ imperial%3:01:01::
+#4 London NOUN london%1:15:00::
+Another is a wily countryman called Larkin , whose blandly boisterous progress has been chronicled , I believe , in earlier volumes of Mr. Bates ' comedie humaine .
+3
+#17 believe VERB believe%2:31:03::
+#20 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#21 volume NOUN volume%1:06:00::,volume%1:10:00::
+What 's up now ?
+1
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Well , Jerebohm and his wife Pinkie have reached the stage of affluence that stirs a longing for the more atrociously expensive rustic simplicities .
+5
+#8 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#10 stage NOUN stage%1:04:00::,stage%1:26:00::
+#16 longing NOUN longing%1:12:00::
+#19 more ADV more%4:02:00::
+#22 rustic ADJ rustic%5:00:02:rural:00
+They want to own a junior-grade castle , or a manor house , or some modest little place where Shakespeare might once have staged a pageant for Great Elizabeth and all her bearded courtiers .
+4
+#3 own VERB owned%3:00:00::
+#15 modest ADJ modest%5:00:00:moderate:00
+#17 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#23 stage VERB stage%2:36:01::
+They are willing to settle , however , in anything that offers pheasants to shoot at and peasants to work at .
+3
+#4 settle VERB settle%2:30:00::,settle%2:30:01::,settle%2:30:02::,settle%2:30:03::,settle%2:30:05::
+#6 however ADV however%4:02:04::
+#14 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+And of course Larkin has just the thing they want .
+3
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 just ADV just%4:02:05::
+#9 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+It 's a horror .
+1
+#3 horror NOUN horror%1:12:01::
+The name of it is Gore Court , and it is surrounded by a wasteland that would impress T. S. Eliot .
+2
+#1 name NOUN name%1:14:00::
+#17 impress VERB impress%2:37:01::
+That 's not precisely the way Larkin urges them to look at it , though .
+2
+#2 not ADV not%4:02:00::
+#5 way NOUN way%1:04:00::,way%1:09:00::
+He conjures herds of deer , and wild birds crowding the air .
+4
+#7 wild ADJ wild%3:00:01::,wild%5:00:00:inhospitable:00,wild%5:00:00:noncivilized:00
+#8 bird NOUN bird%1:05:00::
+#9 crowd VERB crowd%2:42:00::
+#11 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+He suggests that Gore Court embodies all the glories of Tudor splendor .
+2
+#5 embody VERB embody%2:42:02::
+#8 glory NOUN glory%1:07:00::
+The stained-glass windows may have developed unpremeditated patinas , the paneling may be no more durable than the planks in a political platform .
+4
+#5 develop VERB develop%2:32:00::,develop%2:36:01::
+#10 panel NOUN panel%1:06:00::
+#13 no ADV no%4:02:01::
+#14 more ADV more%4:02:00::,more%4:02:01::
+The vast , dungeon kitchens may seem hardly worth using except on occasions when one is faced with a thousand unexpected guests for lunch .
+5
+#4 kitchen NOUN kitchen%1:06:00::
+#7 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#16 face VERB face%2:32:00::,face%2:32:03::
+Larkin has an answer to all that .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The spaciousness of the Tudor cooking areas , for example , will provide needed space for the extra television sets required by modern butlers , cooks and maids .
+4
+#5 cooking NOUN cooking%1:04:00::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+Also , perhaps , table-tennis and other indoor sports to keep them fit and contented .
+4
+#6 other ADJ other%5:00:02:past:00
+#8 sport NOUN sport%1:04:00::
+#10 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+#12 fit ADJ fitter%5:00:00:better:02
+It 's a wonder , really , to how much mendacious trouble Larkin puts himself to sell the Jerebohms that preposterous manse .
+4
+#5 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#11 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#13 put VERB put%2:31:13::,put%2:34:00::
+#16 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+He does n't really need the immense sum of money ( probably converted from American gold on the London Exchange ) he makes them pay .
+6
+#3 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#4 need VERB need%2:42:00::
+#12 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+#15 gold NOUN gold%1:21:00::
+#22 make VERB make%2:36:15::
+#24 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+For Larkin is already wonderfully contented with his lot .
+2
+#3 already ADV already%4:02:00::
+#8 lot NOUN lot%1:26:00::
+He has a glorious wife and many children .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 glorious ADJ glorious%5:00:00:beautiful:00
+When he needs money to buy something like , say , the Rolls-Royce he keeps near his vegetable patch , he takes a flyer in the sale of surplus army supplies .
+4
+#2 need VERB need%2:42:00::
+#5 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#14 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#26 sale NOUN sale%1:04:00::,sale%1:04:02::
+He is willing to sell it just to get it off his hands .
+2
+#4 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#6 just ADV just%4:02:00::,just%4:02:03::
+And the Jerebohms are more than willing to buy it .
+1
+#8 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+They plan to become county people who know the proper way to terminate a fox 's life on earth .
+8
+#1 plan VERB plan%2:31:00::,plan%2:31:01::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#10 way NOUN way%1:04:00::,way%1:09:00::
+#14 fox NOUN fox%1:05:00::
+#16 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#18 earth NOUN earth%1:15:00::,earth%1:17:01::
+If , in Larkin 's eyes , they are nothing but Piccadilly farmers , he has as much to learn about them as they have to learn about the ways of truly rural living .
+7
+#5 eye NOUN eye%1:08:00::,eye%1:09:01::
+#12 farmer NOUN farmer%1:18:00::
+#19 learn VERB learn%2:31:01::,learn%2:31:03::
+#26 learn VERB learn%2:31:01::,learn%2:31:03::
+#29 way NOUN way%1:04:00::,way%1:09:00::
+#31 truly ADV truly%4:02:04::
+#33 living NOUN living%1:09:00::
+Mr. Bates shows us how this mutual education spreads its inevitable havoc .
+4
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 mutual ADJ mutual%5:00:00:shared:00
+#7 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#8 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+Oneupmanship is practiced by both sides in a total war .
+3
+#2 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+#5 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#8 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+First the Larkins are ahead , then the Jerebohms .
+1
+#6 then ADV then%4:02:00::
+After Larkin has been persuaded to restock his tangled acres with pheasants , he poaches only what he needs for the nourishment of his family and local callers .
+5
+#14 poach VERB poach%2:30:00::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#18 need VERB need%2:42:00::
+#24 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#27 caller NOUN caller%1:18:01::
+One of the local callers , a retired brigadier apparently left over from Kipling 's tales of India , does not approve of the way Larkin gets his birds .
+8
+#4 caller NOUN caller%1:18:01::
+#7 retired ADJ retired%5:00:00:inactive:08
+#15 tale NOUN tale%1:10:00::
+#20 not ADV not%4:02:00::
+#21 approve VERB approve%2:31:00::,approve%2:32:00::
+#24 way NOUN way%1:04:00::,way%1:09:00::
+#26 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#28 bird NOUN bird%1:05:00::
+He does n't think that potting them from a deck chair on the south side of the house with a quart glass of beer for sustenance is entirely sporting .
+5
+#3 think VERB think%2:31:01::,think%2:31:03::
+#5 pot VERB pot%2:35:00::
+#17 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#20 quart NOUN quart%1:23:02::
+#28 sporting ADJ sporting%5:00:00:fair:03
+But the brigadier dines on the birds with relish .
+2
+#6 bird NOUN bird%1:05:00::
+#8 relish NOUN relish%1:12:02::
+It is truly odd and ironic that the most handsome and impressive film yet made from Miguel de Cervantes ' " Don Quixote " is the brilliant Russian spectacle , done in wide screen and color , which opened yesterday at the Fifty-fifth Street and Sixty-eighth Street Playhouses .
+10
+#2 truly ADV truly%4:02:04::
+#3 odd ADJ odd%5:00:00:strange:00
+#8 most ADV most%4:02:00::
+#9 handsome ADJ handsome%5:00:00:beautiful:00
+#12 film NOUN film%1:10:00::,film%1:10:01::
+#13 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+#14 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#26 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#35 color NOUN color%1:07:00::,color%1:27:00::
+#38 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+More than a beautiful visualization of the illustrious adventures and escapades of the tragi-comic knight-errant and his squire , Sancho Panza , in seventeenth century Spain , this inevitably abbreviated rendering of the classic satire on chivalry is an affectingly warm and human exposition of character .
+5
+#24 century NOUN century%1:28:00::
+#30 rendering NOUN rendering%1:06:00::
+#40 warm ADJ warm%3:00:02::,warm%5:00:00:excitable:00,warm%5:00:00:lively:00,warm%5:00:00:loving:00
+#43 exposition NOUN exposition%1:10:00::
+#45 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+Nikolai Cherkasov , the Russian actor who has played such heroic roles as Alexander Nevsky and Ivan the Terrible , performs the lanky Don Quixote , and does so with a simple dignity that bridges the inner nobility and the surface absurdity of this poignant man .
+6
+#8 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#20 perform VERB perform%2:36:00::,perform%2:36:01::
+#31 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#36 inner ADJ inner%5:00:00:inward:00
+#37 nobility NOUN nobility%1:07:00::
+#45 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+His addle-brained knight-errant , self appointed to the ridiculous position in an age when armor had already been relegated to museums and the chivalrous code of knight-errantry had become a joke , is , as Cervantes no doubt intended , a gaunt but gracious symbol of good , moving soberly and sincerely in a world of cynics , hypocrites and rogues .
+12
+#5 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#9 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#12 age NOUN age%1:28:02::,age%1:28:03::
+#16 already ADV already%4:02:00::
+#24 code NOUN code%1:10:01::
+#28 become VERB become%2:30:00::,become%2:42:01::
+#38 intend VERB intend%2:31:01::,intend%2:32:00::
+#43 gracious ADJ gracious%5:00:00:kind:00
+#46 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#54 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#56 cynic NOUN cynic%1:18:00::
+#60 rogue NOUN rogue%1:18:00::
+Cherkasov does not caricature him , as some actors have been inclined to do .
+1
+#2 not ADV not%4:02:00::
+He treats this deep-eyed , bearded , bony crackpot with tangible affection and respect .
+3
+#1 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#11 affection NOUN affection%1:12:00::
+#13 respect NOUN respect%1:04:03::,respect%1:07:00::,respect%1:09:01::,respect%1:26:00::
+Directed by Grigory Kozintsev in a tempo that is studiously slow , he develops a sense of a high tradition shining brightly and passing gravely through an impious world .
+6
+#0 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#6 tempo NOUN tempo%1:28:00::
+#15 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#19 tradition NOUN tradition%1:09:01::,tradition%1:09:02::
+#20 shine VERB shine%2:43:00::
+#23 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+The complexities of communication have been considerably abetted in this case by appropriately stilted English language that has been excellently dubbed in place of the Russian dialogue .
+5
+#3 communication NOUN communication%1:03:00::,communication%1:10:01::
+#10 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#13 stilted ADJ stilted%5:00:00:affected:01
+#20 dub VERB dub%2:32:01::
+#25 Russian NOUN russian%1:10:00::
+The voices of all the characters , including that of Cherkasov , have richness , roughness or color to conform with the personalities .
+6
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#5 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#7 include VERB include%2:42:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 color NOUN color%1:07:02::,color%1:07:03::,color%1:07:04::;1:07:03::,color%1:27:00::
+#22 personality NOUN personality%1:07:00::
+And the subtleties of the dialogue are most helpfully conveyed .
+1
+#7 most ADV most%4:02:01::
+Since Russian was being spoken instead of Spanish , there is no violation of artistry or logic here .
+5
+#1 Russian NOUN russian%1:10:00::
+#4 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#7 Spanish NOUN spanish%1:10:00::
+#16 logic NOUN logic%1:09:00::
+#17 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Splendid , too , is the performance of Yuri Tolubeyev , one of Russia 's leading comedians , as Sancho Panza , the fat , grotesque " squire " .
+2
+#2 too ADV too%4:02:01::
+#6 performance NOUN performance%1:04:01::,performance%1:10:00::
+Though his character is broader and more comically rounded than the don , he gives it a firmness and toughness - a sort of peasant dignity - too .
+6
+#2 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#4 broad ADJ broad%5:00:00:broad-minded:00,broad%5:00:00:clear:00,broad%5:00:00:high:02,broad%5:00:00:noticeable:00
+#6 more ADV more%4:02:00::
+#8 round ADJ round%3:00:00::
+#11 don NOUN don%1:10:00::
+#27 too ADV too%4:02:01::
+It is really as though the Russians have seen in this character the oftentimes underlying vitality and courage of supposed buffoons .
+3
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#6 Russian NOUN russian%1:18:00::
+#11 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+The episode in which Sancho Panza concludes the joke that is played on him when he is facetiously put in command of an " island " is one of the best in the film .
+5
+#11 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#18 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#24 island NOUN island%1:06:00::
+#30 good ADJ best%3:00:00::,good%3:00:01::
+#33 film NOUN film%1:10:00::,film%1:10:01::
+True , the pattern and flow of the drama have strong literary qualities that are a bit wearisome in the first half , before Don Quixote goes to the duke 's court .
+9
+#3 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#8 drama NOUN drama%1:10:00::,drama%1:10:01::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#11 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#12 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#26 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#29 duke NOUN duke%1:18:00::
+#31 court NOUN court%1:06:04::,court%1:14:00::,court%1:14:01::
+But strength and poignancy develop thenceforth , and the windmill and deathbed episodes gather the threads of realization of the wonderfulness of the old boy .
+4
+#1 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#4 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#13 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#15 thread NOUN thread%1:06:00::
+There are other good representations of peasants and people of the court by actors who are finely costumed and magnificently photographed in this last of the Russian films to reach this country in the program of joint cultural exchange .
+10
+#2 other ADJ other%5:00:02:past:00
+#3 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#4 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#11 court NOUN court%1:06:04::,court%1:14:00::,court%1:14:01::
+#23 last ADJ last%5:00:00:unlikely:00
+#27 film NOUN film%1:10:00::,film%1:10:01::
+#29 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#31 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#34 program NOUN program%1:09:00::,program%1:09:01::
+Also on the bill at the Fifty-fifth Street is a nice ten minute color film called " Sunday in Greenwich Village " , a tour of the haunts and joints .
+7
+#3 bill NOUN bill%1:04:00::
+#10 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#12 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#13 color NOUN color%1:07:00::,color%1:27:00::
+#14 film NOUN film%1:10:00::,film%1:10:01::
+#24 tour NOUN tour%1:04:00::
+#29 joint NOUN joint%1:06:02::

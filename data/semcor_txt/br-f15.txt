@@ -1,0 +1,596 @@
+ In Poughkeepsie , N. Y. , in 1952 , a Roman Catholic hospital presented seven Protestant physicians with an ultimatum to quit the Planned Parenthood Federation or to resign from the hospital staff .
+6
+#12 hospital NOUN hospital%1:06:00::
+#13 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#21 quit VERB quit%2:38:00::
+#28 resign VERB resign%2:41:00::
+#31 hospital NOUN hospital%1:06:00::
+#32 staff NOUN staff%1:14:00::,staff%1:14:01::
+Three agreed , but four declined and were suspended .
+3
+#1 agree VERB agree%2:32:00::,agree%2:32:01::
+#5 decline VERB decline%2:40:00::
+#8 suspend VERB suspend%2:30:00::,suspend%2:30:02::,suspend%2:41:00::,suspend%2:42:00::
+After a flood of protests , they were reinstated at the beginning of 1953 .
+2
+#2 flood NOUN flood%1:04:01::
+#4 protest NOUN protest%1:10:00::
+The peace of the community was badly disturbed , and people across the nation , reading of the incident , felt uneasy .
+5
+#1 peace NOUN peace%1:12:00::,peace%1:26:00::
+#4 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#6 badly ADV badly%4:02:02::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#20 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+In New York City in 1958 , the city 's Commissioner of Hospitals refused to permit a physician to provide a Protestant mother with a contraceptive device .
+4
+#8 city NOUN city%1:15:00::,city%1:15:01::
+#12 hospital NOUN hospital%1:06:00::
+#19 provide VERB provide%2:34:00::,provide%2:40:00::
+#22 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+He thereby precipitated a bitter controversy involving Protestants , Jews and Roman Catholics that continued for two months , until the city 's Board of Hospitals lifted the ban on birth-control therapy .
+8
+#2 precipitate VERB precipitate%2:36:00::
+#4 bitter ADJ bitter%5:00:00:hostile:01,bitter%5:00:00:resentful:00
+#14 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#21 city NOUN city%1:15:00::,city%1:15:01::
+#23 board NOUN board%1:14:00::
+#25 hospital NOUN hospital%1:06:00::
+#26 lift VERB lift%2:32:00::
+#28 ban NOUN ban%1:10:01::
+A year later in Albany , N. Y. , a Roman Catholic hospital barred an orthopedic surgeon because of his connection with the Planned Parenthood Association .
+5
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#4 Albany NOUN albany%1:15:00::
+#12 hospital NOUN hospital%1:06:00::
+#13 bar VERB bar%2:32:00::
+#20 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+Immediately , the religious groups of the city were embroiled in an angry dispute over the alleged invasion of a man 's right to freedom of religious belief and conscience .
+3
+#7 city NOUN city%1:15:00::,city%1:15:01::
+#20 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#22 right NOUN right%1:07:00::,right%1:21:00::
+These incidents , typical of many others , dramatize the distressing fact that no controversy during the last several decades has caused more tension , rancor and strife among religious groups in this country than the birth-control issue .
+4
+#17 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#23 tension NOUN tension%1:26:00::,tension%1:26:02::
+#33 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#37 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+It has flared up periodically on the front pages of newspapers in communities divided over birth prevention regulations in municipal hospitals and health and family welfare agencies .
+7
+#7 front ADJ front%3:00:00::
+#8 page NOUN page%1:10:00::
+#12 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#17 regulation NOUN regulation%1:10:00::
+#20 hospital NOUN hospital%1:06:00::
+#24 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#26 agency NOUN agency%1:14:00::,agency%1:14:01::
+It has erupted on the national level in the matter of including birth-control information and material in foreign aid to underdeveloped countries .
+6
+#6 level NOUN level%1:26:00::,level%1:26:01::
+#9 matter NOUN matter%1:09:00::,matter%1:09:01::
+#13 information NOUN information%1:09:00::,information%1:10:02::
+#15 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#17 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#21 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Where it is not actually erupting , it rumbles and smolders in sullen resentment like a volcano , ready to explode at any moment .
+6
+#3 not ADV not%4:02:00::
+#4 actually ADV actually%4:02:01::
+#8 rumble VERB rumble%2:32:00::
+#18 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#20 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#23 moment NOUN moment%1:28:00::,moment%1:28:01::
+The time has come for citizens of all faiths to unite in an effort to remove this divisive and nettlesome issue from the political and social life of our nation .
+7
+#1 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#8 faith NOUN faith%1:09:01::,faith%1:14:00::
+#15 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#20 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#25 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#26 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+The first step toward the goal is the establishment of a new atmosphere of mutual good will and friendly communication on other than the polemical level .
+6
+#5 goal NOUN goal%1:09:00::,goal%1:15:00::
+#8 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#11 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#14 mutual ADJ mutual%5:00:00:shared:00
+#19 communication NOUN communication%1:03:00::,communication%1:10:01::
+#25 level NOUN level%1:26:00::,level%1:26:01::
+Instead of emotional recrimination , loaded phrases and sloganeering , we need a dispassionate study of the facts , a better understanding of the opposite viewpoint and a more serious effort to extend the areas of agreement until a solution is reached .
+11
+#5 loaded ADJ loaded%5:00:00:rich:00
+#11 need VERB need%2:42:00::
+#14 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#20 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#24 opposite ADJ opposite%5:00:00:other:00
+#28 more ADV more%4:02:00::
+#29 serious ADJ serious%3:00:00::,serious%3:00:02::
+#32 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#34 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#39 solution NOUN solution%1:09:00::,solution%1:10:00::
+#41 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+" All too frequently " , points out James O' Gara , managing editor of Commonweal , " Catholics run roughshod over Protestant sensibilities in this matter , by failure to consider the reasoning behind the Protestant position and , particularly , by their jibes at the fact that Protestant opinion on birth control has changed in recent decades " .
+8
+#26 matter NOUN matter%1:09:00::,matter%1:09:01::
+#29 failure NOUN failure%1:04:00::
+#33 reason NOUN reason%1:09:01::,reason%1:16:00::
+#37 position NOUN position%1:09:00::
+#40 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#44 gibe NOUN gibe%1:10:00::
+#55 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#57 recent ADJ recent%5:00:00:past:00
+All too often our language is unduly harsh .
+2
+#4 language NOUN language%1:10:01::,language%1:10:02::,language%1:10:03::
+#7 harsh ADJ harsh%5:00:00:unkind:00
+The second step is to recognize the substantial agreement - frequently blurred by emotionalism and inaccurate newspaper reporting - already existing between Catholics and non-Catholics concerning the over-all objectives of family planning .
+7
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#5 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#17 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#19 already ADV already%4:02:00::
+#20 exist VERB exist%2:42:00::
+#25 concern VERB concern%2:42:00::,concern%2:42:01::
+#28 objective NOUN objective%1:09:00::
+Instead of Catholics ' being obliged or even encouraged to beget the greatest possible number of offspring , as many non-Catholics imagine , the ideal of responsible parenthood is stressed .
+4
+#10 beget VERB beget%2:29:00::
+#14 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#21 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#29 stress VERB stress%2:32:00::,stress%2:32:01::
+Family planning is encouraged , so that parents will be able to provide properly for their offspring .
+4
+#5 so CONJ so%4:02:10::
+#10 able ADJ able%3:00:00::
+#12 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#13 properly ADV properly%4:02:00::
+Pope Pius 12 , declared in 1951 that it is possible to be exempt from the normal obligation of parenthood for a long time and even for the whole duration of married life , if there are serious reasons , such as those often mentioned in the so-called medical , eugenic , economic and social " indications " .
+8
+#4 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#16 normal ADJ normal%3:00:01::,normal%3:00:03::
+#28 whole ADJ whole%3:00:00::
+#31 married ADJ married%3:01:00::
+#32 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#38 reason NOUN reason%1:09:01::,reason%1:16:00::
+#52 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#54 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+This means that such factors as the health of the parents , particularly the mother , their ability to provide their children with the necessities of life , the degree of population density of a country and the shortage of housing facilities may legitimately be taken into consideration in determining the number of offspring .
+14
+#1 mean VERB mean%2:31:05::,mean%2:42:00::
+#4 factor NOUN factor%1:08:00::,factor%1:18:00::
+#12 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#14 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#17 ability NOUN ability%1:09:00::
+#24 necessity NOUN necessity%1:26:00::
+#26 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#29 degree NOUN degree%1:26:01::
+#35 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#40 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#41 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#47 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#49 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#51 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+These are substantially the same factors considered by non-Catholics in family planning .
+3
+#2 substantially ADV substantially%4:02:01::
+#4 same ADJ same%3:00:00::,same%3:00:02::
+#5 factor NOUN factor%1:08:00::,factor%1:18:00::
+The laws of many states permit birth control only for medical reasons .
+4
+#1 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#4 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 reason NOUN reason%1:09:01::,reason%1:16:00::
+The Roman Catholic Church , however , sanctions a much more liberal policy on family planning .
+5
+#5 however ADV however%4:02:04::
+#7 sanction VERB sanction%2:41:01::
+#10 more ADV more%4:02:00::
+#11 liberal ADJ liberal%5:00:00:inexact:00
+#12 policy NOUN policy%1:09:00::,policy%1:10:00::
+Catholics , Protestants and Jews are in agreement over the objectives of family planning , but disagree over the methods to be used .
+3
+#10 objective NOUN objective%1:09:00::
+#16 disagree VERB disagree%2:32:00::
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The Roman Catholic Church sanctions only abstention or the rhythm method , also known as the use of the infertile or safe period .
+5
+#4 sanction VERB sanction%2:41:01::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 abstention NOUN abstention%1:07:00::
+#21 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#22 period NOUN period%1:28:00::,period%1:28:03::
+The Church considers this to be the method provided by nature and its divine Author : It involves no frustration of nature 's laws , but simply an intelligent and disciplined use of them .
+5
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#10 nature NOUN nature%1:18:00::,nature%1:26:00::
+#13 divine ADJ divine%5:00:00:heavenly:00
+#23 law NOUN law%1:09:00::,law%1:09:01::
+#26 simply ADV simply%4:02:00::,simply%4:02:02::
+With the exception of the Roman Catholic and the Orthodox Catholic Churches , most churches make no moral distinction between rhythm and mechanical or chemical contraceptives , allowing the couple free choice .
+4
+#18 distinction NOUN distinction%1:09:00::
+#27 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#29 couple NOUN couple%1:14:00::,couple%1:17:00::
+#30 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+Here is a difference in theological belief where there seems little chance of agreement .
+2
+#6 belief NOUN belief%1:09:00::,belief%1:09:01::
+#11 chance NOUN chance%1:07:00::,chance%1:26:00::
+The grounds for the Church 's position are Scriptural ( Old Testament ) , the teachings of the fathers and doctors of the early Church , the unbroken tradition of nineteen centuries , the decisions of the highest ecclesiastical authority and the natural law .
+8
+#1 ground NOUN ground%1:16:00::
+#6 position NOUN position%1:09:00::
+#15 teaching NOUN teaching%1:09:00::
+#20 doctor NOUN doctor%1:18:02::
+#23 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#28 tradition NOUN tradition%1:09:01::,tradition%1:09:02::
+#31 century NOUN century%1:28:00::
+#39 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+The latter plays a prominent role in Roman Catholic theology and is considered decisive , entirely apart from Scripture , in determining the ethical character of birth-prevention methods .
+5
+#1 latter ADJ latter%3:00:00::
+#16 apart ADV apart%4:02:01::,apart%4:02:06::
+#21 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#23 ethical ADJ ethical%5:00:00:right:01
+#24 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+The Roman Catholic natural-law tradition regards as self-evident that the primary objective purpose of the conjugal act is procreation and that the fostering of the mutual love of the spouses is the secondary and subjective end .
+7
+#4 tradition NOUN tradition%1:09:01::,tradition%1:09:02::
+#10 primary ADJ primary%5:00:00:important:00
+#16 act NOUN act%1:03:00::,act%1:10:03::
+#25 mutual ADJ mutual%5:00:00:shared:00
+#32 secondary ADJ secondary%5:00:00:incidental:00
+#34 subjective ADJ subjective%3:00:00::
+#35 end NOUN end%1:09:02::,end%1:11:00::
+This conclusion is based on two propositions : that man by the use of his reason can ascertain God 's purpose in the universe and that God makes known His purpose by certain " given " physical arrangements .
+11
+#1 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#3 base VERB base%2:31:00::
+#6 proposition NOUN proposition%1:10:00::
+#9 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#15 reason NOUN reason%1:09:00::,reason%1:26:00::,reasoning%1:09:00::
+#18 God NOUN god%1:18:00::
+#26 God NOUN god%1:18:00::
+#27 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 certain ADJ certain%5:00:00:definite:00
+#34 given ADJ give%2:32:03::
+#37 arrangement NOUN arrangement%1:09:01::
+Thus , man can readily deduce that the primary objective end of the conjugal act is procreation , the propagation of the race .
+5
+#0 thus ADV thus%4:02:00::
+#2 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#8 primary ADJ primary%5:00:00:important:00
+#10 end NOUN end%1:09:02::,end%1:11:00::
+#14 act NOUN act%1:03:00::,act%1:10:03::
+Moreover , man may not supplant or frustrate the physical arrangements established by God , who through the law of rhythm has provided a natural method for the control of conception .
+8
+#2 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#10 arrangement NOUN arrangement%1:09:01::
+#11 establish VERB establish%2:36:01::,establish%2:41:00::
+#13 God NOUN god%1:18:00::
+#22 provide VERB provide%2:34:00::,provide%2:40:00::
+#24 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#28 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#30 conception NOUN conception%1:09:03::
+Believing that God is the Author of this law and of all laws of nature , Roman Catholics believe that they are obliged to obey those laws , not frustrate or mock them .
+4
+#0 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#2 God NOUN god%1:18:00::
+#18 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#28 not ADV not%4:02:00::
+Let it be granted then that the theological differences in this area between Protestants and Roman Catholics appear to be irreconcilable .
+4
+#0 let VERB let%2:32:00::
+#4 then ADV then%4:02:02::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#17 appear VERB appear%2:30:00::
+But people differ in their religious beliefs on scores of doctrines , without taking up arms against those who disagree with them .
+3
+#1 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#8 score NOUN score%1:14:00::
+#19 disagree VERB disagree%2:32:00::
+Why is it so different in regard to birth control ?
+2
+#3 so ADV so%4:02:03::,so%4:02:07::
+#4 different ADJ different%5:00:00:unusual:00
+It is because each side has sought to implement its distinctive theological belief through legislation and thus indirectly force its belief , or at least the practical consequences thereof , upon others .
+7
+#4 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#12 belief NOUN belief%1:09:00::,belief%1:09:01::
+#16 thus ADV thus%4:02:01::
+#17 indirectly ADV indirectly%4:02:00::
+#20 belief NOUN belief%1:09:00::,belief%1:09:01::
+#26 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#27 consequence NOUN consequence%1:19:00::
+It is always a temptation for a religious organization , especially a powerful or dominant one , to impose through the clenched fist of the law its creedal viewpoint upon others .
+5
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#8 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#10 especially ADV especially%4:02:00::
+#18 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#25 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+Both Roman Catholics and Protestants have succumbed to this temptation in the past .
+1
+#12 past NOUN past%1:28:01::
+Consider what happened during World War 1 , , when the Protestant churches united to push the Prohibition law through Congress .
+4
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#17 prohibition NOUN prohibition%1:10:02::
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#20 congress NOUN congress%1:14:00::,congress%1:14:01::
+Many of them sincerely believe that the use of liquor in any form or in any degree is intrinsically evil and sinful .
+3
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#9 liquor NOUN liquor%1:13:00::
+#16 degree NOUN degree%1:26:01::
+With over four million American men away at war , Protestants forced their distinctive theological belief upon the general public .
+5
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#11 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#15 belief NOUN belief%1:09:00::,belief%1:09:01::
+#18 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+With the return of our soldiers , it soon became apparent that the belief was not shared by the great majority of citizens .
+8
+#2 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#5 soldier NOUN soldier%1:18:00::
+#8 soon ADV soon%4:02:00::
+#9 become VERB become%2:30:00::,become%2:42:01::
+#13 belief NOUN belief%1:09:00::,belief%1:09:01::
+#15 not ADV not%4:02:00::
+#19 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#20 majority NOUN majority%1:07:00::,majority%1:23:00::
+The attempt to enforce that belief ushered in a reign of bootleggers , racketeers , hijackers and gangsters that led to a breakdown of law unparalleled in our history .
+5
+#5 belief NOUN belief%1:09:00::,belief%1:09:01::
+#19 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#22 breakdown NOUN breakdown%1:26:01::
+#24 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#28 history NOUN history%1:28:02::
+The so-called " noble experiment " came to an inglorious end .
+2
+#3 noble ADJ noble%3:00:01::
+#10 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+That tumultuous , painful and costly experience shows clearly that a law expressing a moral judgment cannot be enforced when it has little correspondence with the general view of society .
+8
+#7 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#11 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#12 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#15 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 correspondence NOUN correspondence%1:07:01::
+#27 view NOUN view%1:09:04::
+#29 society NOUN society%1:14:00::,society%1:14:02::
+That experience holds a lesson for us all in regard to birth control today .
+2
+#2 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+#4 lesson NOUN lesson%1:04:01::
+Up to the turn of the century , contraception was condemned by all Christian churches as immoral , unnatural and contrary to divine law .
+1
+#20 contrary ADJ contrary%5:00:00:different:00
+This was generally reflected in the civil laws of Christian countries .
+3
+#2 generally ADV generally%4:02:02::
+#3 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#10 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Today , the Roman Catholic and Orthodox Churches stand virtually alone in holding that conviction .
+4
+#9 virtually ADV virtually%4:02:02::
+#10 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#12 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#14 conviction NOUN conviction%1:09:00::
+The various Lambeth Conferences , expressing the Anglican viewpoint , mirror the gradual change that has taken place among Protestants generally .
+3
+#5 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#13 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#20 generally ADV generally%4:02:02::
+In 1920 , the Lambeth Conference repeated its 1908 condemnation of contraception and issued " an emphatic warning against the use of unnatural means for the avoidance of conception , together with the grave dangers - physical , moral , and religious - thereby incurred , and against the evils which the extension of such use threaten the race " .
+6
+#6 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#9 condemnation NOUN condemnation%1:10:00::
+#13 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#23 means NOUN means%1:06:00::
+#28 conception NOUN conception%1:09:03::
+#52 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+Denouncing the view that the sexual union is an end in itself , the Conference declared : " We steadfastly uphold what must always be regarded as the governing considerations of Christian marriage .
+6
+#2 view NOUN view%1:09:04::
+#9 end NOUN end%1:09:02::,end%1:11:00::
+#15 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#23 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#29 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#32 marriage NOUN marriage%1:04:00::,marriage%1:14:00::,marriage%1:26:00::
+One is the primary purpose for which marriage exists , namely , the continuance of the race through the gift and heritage of children ; the other is the paramount importance in married life of deliberate and thoughtful self-control " .
+9
+#3 primary ADJ primary%5:00:00:important:00
+#7 marriage NOUN marriage%1:04:00::,marriage%1:14:00::,marriage%1:26:00::
+#8 exist VERB exist%2:42:00::
+#13 continuance NOUN continuance%1:04:00::
+#19 gift NOUN gift%1:04:00::
+#21 heritage NOUN heritage%1:09:00::
+#26 other ADJ other%3:00:00::
+#32 married ADJ married%3:01:00::
+#33 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+The Conference called for a vigorous campaign against the open or secret sale of contraceptives .
+2
+#9 open ADJ open%3:00:07::,open%5:00:00:ingenuous:00,open%5:00:00:public:00
+#12 sale NOUN sale%1:04:00::,sale%1:04:02::
+In 1930 , the Lambeth Conference again affirmed the primary purpose of marriage to be the procreation of children , but conceded that , in certain limited circumstances , contraception might be morally legitimate .
+6
+#7 affirm VERB affirm%2:31:00::
+#9 primary ADJ primary%5:00:00:important:00
+#12 marriage NOUN marriage%1:04:00::,marriage%1:14:00::,marriage%1:26:00::
+#21 concede VERB concede%2:32:00::,concede%2:33:00::
+#25 certain ADJ certain%5:00:00:definite:00
+#27 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+In 1958 , the Conference endorsed birth control as the responsibility laid by God on parents everywhere .
+2
+#5 endorse VERB endorse%2:41:02::
+#13 God NOUN god%1:18:00::
+Many other Protestant denominations preceded the Anglicans in such action .
+2
+#1 other ADJ other%3:00:00::
+#9 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+In March , 1931 , 22 out of 28 members of a committee of the Federal Council of Churches ratified artificial methods of birth control .
+3
+#9 member NOUN member%1:18:00::,member%1:24:00::
+#12 committee NOUN committee%1:14:00::
+#20 artificial ADJ artificial%3:00:00::
+" As to the necessity " , the committee declared , " for some form of effective control of the size of the family and the spacing of children , and consequently of control of conception , there can be no question .
+11
+#4 necessity NOUN necessity%1:26:00::
+#8 committee NOUN committee%1:14:00::
+#9 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#14 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#16 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#17 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#20 size NOUN size%1:07:00::,size%1:07:02::
+#23 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#26 space VERB space%2:38:00::
+#33 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#35 conception NOUN conception%1:09:03::
+There is general agreement also that sex union between husbands and wives as an expression of mutual affection without relation to procreation is right " .
+4
+#6 sex NOUN sex%1:04:00::,sex%1:07:00::
+#7 union NOUN union%1:04:00::,union%1:14:01::,union%1:26:00::,union%1:26:02::
+#14 expression NOUN expression%1:10:02::,expression%1:10:04::
+#23 right ADJ right%3:00:01::
+Since then , many Protestant denominations have made separate pronouncements , in which they not only approved birth control , but declared it at times to be a religious duty .
+4
+#1 then ADV then%4:02:01::
+#16 approve VERB approve%2:31:00::,approve%2:32:00::
+#21 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#29 duty NOUN duty%1:04:00::,duty%1:04:02::
+What determines the morality , they state , is not the means used , but the motive .
+6
+#1 determine VERB determine%2:31:02::,determine%2:32:03::
+#6 state VERB state%2:32:01::,state%2:32:02::
+#9 not ADV not%4:02:00::
+#11 means NOUN means%1:06:00::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 motive NOUN motive%1:03:00::
+In general , the means ( excluding abortion ) that prove most effective are considered the most ethical .
+7
+#4 means NOUN means%1:06:00::
+#7 abortion NOUN abortion%1:04:00::
+#10 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#11 most ADV most%4:02:01::
+#12 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#16 most ADV most%4:02:00::
+#17 ethical ADJ ethical%5:00:00:right:01
+This development is reflected in the action taken in February , 1961 , by the general board of the National Council of Churches , the largest Protestant organization in the US .
+7
+#1 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#3 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#6 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#7 take VERB take%2:31:02::,take%2:34:00::
+#16 board NOUN board%1:14:00::
+#25 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#27 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+The board approved and commended the use of birth-control devices as a part of Christian responsibility in family planning .
+5
+#1 board NOUN board%1:14:00::
+#2 approve VERB approve%2:31:00::,approve%2:32:00::
+#4 commend VERB commend%2:32:00::
+#9 device NOUN device%1:06:00::
+#12 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+It called for opposition to laws and institutional practices restricting the information or availability of contraceptives .
+2
+#5 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#8 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+The general board declared : " Most of the Protestant churches hold contraception and periodic continence to be morally right when the motives are right .
+6
+#2 board NOUN board%1:14:00::
+#3 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#11 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#14 periodic ADJ periodic%3:00:00::
+#19 right ADJ right%3:00:01::
+#22 motive NOUN motive%1:03:00::
+The general Protestant conviction is that motives , rather than methods , form the primary moral issue , provided the methods are limited to the prevention of conception " .
+7
+#3 conviction NOUN conviction%1:09:00::
+#6 motive NOUN motive%1:03:00::
+#8 rather ADV rather%4:02:02::
+#12 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#15 moral ADJ moral%3:00:00::
+#16 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#27 conception NOUN conception%1:09:03::
+An action once universally condemned by all Christian churches and forbidden by the civil law is now not only approved by the overwhelming majority of Protestant denominations , but also deemed , at certain times , to be a positive religious duty .
+9
+#1 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#2 once ADV once%4:02:01::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#19 approve VERB approve%2:31:00::,approve%2:32:00::
+#23 majority NOUN majority%1:07:00::,majority%1:23:00::
+#33 certain ADJ certain%5:00:00:definite:00
+#34 time NOUN time%1:11:00::
+#39 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+#41 duty NOUN duty%1:04:00::,duty%1:04:02::
+This viewpoint has now been translated into action by the majority of people in this country .
+5
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+#7 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#10 majority NOUN majority%1:07:00::,majority%1:23:00::
+#15 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Repeated polls have disclosed that most married couples are now using contraceptives in the practice of birth control .
+4
+#1 poll NOUN poll%1:04:00::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+For all concerned with social-welfare legislation , the significance of this radical and revolutionary change in the thought and habits of the vast majority of the American people is clear , profound and far reaching .
+9
+#8 significance NOUN significance%1:07:00::
+#11 radical ADJ radical%5:00:00:immoderate:00
+#14 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#17 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#19 habit NOUN habit%1:04:02::
+#23 majority NOUN majority%1:07:00::,majority%1:23:00::
+#29 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#31 profound ADJ profound%5:00:00:intense:00
+#34 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+To try to oppose the general religious and moral conviction of such a majority by a legislative fiat would be to invite the same breakdown of law and order that was occasioned by the ill-starred Prohibition experiment .
+9
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#9 conviction NOUN conviction%1:09:00::
+#13 majority NOUN majority%1:07:00::,majority%1:23:00::
+#23 same ADJ same%3:00:00::
+#24 breakdown NOUN breakdown%1:26:01::
+#26 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#28 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#35 prohibition NOUN prohibition%1:10:02::
+This brings us to the fact that the realities we are dealing with lie not in the field of civil legislation , but in the realm of conscience and religion : They are moral judgments and matters of theological belief .
+10
+#8 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#11 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#13 lie VERB lie%2:42:03::
+#14 not ADV not%4:02:00::
+#17 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#19 civil ADJ civil%5:00:00:civilian:00
+#33 moral ADJ moral%3:00:00::
+#34 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#36 matter NOUN matter%1:09:00::,matter%1:09:01::
+#39 belief NOUN belief%1:09:00::,belief%1:09:01::
+Conscience and religion are concerned with private sin : The civil law is concerned with public crimes .
+3
+#6 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#7 sin NOUN sin%1:04:00::
+#15 public ADJ public%3:00:00::,public%5:00:00:common:02
+Only confusion , failure and anarchy result when the effort is made to impose upon the civil authority the impossible task of policing private homes to preclude the possibility of sin .
+8
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#1 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#3 failure NOUN failure%1:04:00::,failure%1:18:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#23 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#24 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#30 sin NOUN sin%1:04:00::
+Among the chief victims of such an ill conceived imposition would be religion itself .
+1
+#9 imposition NOUN imposition%1:04:02::

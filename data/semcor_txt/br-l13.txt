@@ -1,0 +1,735 @@
+ His son watched until he got as far as the hall , almost out of sight , then hurried after .
+4
+#2 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#7 far ADV far%4:02:00::
+#10 hall NOUN hall%1:06:03::,hall%1:06:05::
+#17 then ADV then%4:02:00::
+Dad , wait " .
+1
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Old man Arthur had put down the suitcase to open the front door .
+1
+#9 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+" Just this one favor , Dad .
+2
+#1 just ADV just%4:02:00::,just%4:02:03::
+#4 favor NOUN favor%1:04:00::
+Just do n't tell Ferguson that crazy opinion of yours " .
+3
+#0 just ADV just%4:02:00::,just%4:02:03::
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 crazy ADJ crazy%5:00:00:insane:00
+The old man gave the room a stare in leaving ; under the scraggly brows the pale old eyes burned with a bitter memory .
+8
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 leave VERB leave%2:38:00::,leave%2:41:00::
+#14 brow NOUN brow%1:08:00::
+#16 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#17 old ADJ old%3:00:01::,old%3:00:02::
+#18 eye NOUN eye%1:08:00::,eye%1:09:01::
+#19 burn VERB burn%2:37:00::,burn%2:39:04::,burn%2:43:01::
+#23 memory NOUN memory%1:09:00::,memory%1:09:02::
+" The Bartlett girl was killed by Mr. Dronk 's son .
+2
+#3 girl NOUN girl%1:18:00::,girl%1:18:04::
+#5 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Rossi and Ferguson have been across the street , talking to the kid .
+1
+#12 kid NOUN kid%1:18:00::
+They 've found some sort of new evidence , a bundle of clothes or something , and it must link the kid even stronger to the crime .
+5
+#4 sort NOUN sort%1:09:00::,sort%1:18:00::
+#6 new ADJ new%3:00:00::
+#10 bundle NOUN bundle%1:06:00::
+#12 clothes NOUN clothes%1:06:00::
+#21 kid NOUN kid%1:18:00::
+Why won n't you accept facts ?
+1
+#4 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+The two kids were together a lot , they were having some kind of teen-age affair - God knows how far that had gone - and the kid 's crippled .
+7
+#2 kid NOUN kid%1:18:00::
+#4 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#10 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#15 affair NOUN affair%1:26:00::
+#20 far ADV far%4:02:02::
+#23 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#27 kid NOUN kid%1:18:00::
+He limps , and the man who hit you and took the cane , he limped .
+3
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#10 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+My God , how much more do you want " ?
+1
+#8 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+His father looked him over closely .
+2
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+You should have gone to work today , ' stead of sneaking around spying on the Dronk house " .
+3
+#5 work NOUN work%1:06:01::
+#12 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+#17 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+" Now , see here " -
+1
+#1 now ADV now%4:02:07::
+" The trouble with you " , old man Arthur began , and then checked himself .
+4
+#2 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#13 then ADV then%4:02:00::
+#14 check VERB check%2:33:06::,check%2:38:12::,check%2:38:14::,check%2:41:08::,check%2:41:14::
+Young Mrs. Arthur had opened the oven and there was a drifting odor of hot biscuits .
+4
+#6 oven NOUN oven%1:06:00::
+#12 odor NOUN odor%1:07:00::
+#14 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#15 biscuit NOUN biscuit%1:13:00::
+The old man opened the door and stepped out into the sunlight .
+3
+#3 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#7 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#8 out ADV out%4:02:04::
+" Is n't enough time to go into it " , he finished , and slammed the door in his son 's face .
+4
+#4 time NOUN time%1:28:01::,time%1:28:05::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#12 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#22 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Mrs. Holden turned from the window draperies .
+2
+#2 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#5 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+" They found something else up there " , she said half aloud to the empty room .
+4
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 aloud ADV aloud%4:02:00::
+#15 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#16 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+She walked restlessly across the room , then back to the windows .
+5
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#7 then ADV then%4:02:00::
+#8 back ADV back%4:02:01::,back%4:02:04::
+#11 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+" Now they 've gone , they did n't come back , and they did n't arrest that Dronk boy " .
+1
+#16 arrest VERB arrest%2:35:00::
+She stood frowning and chewing her lip .
+1
+#6 lip NOUN lip%1:08:00::,lip%1:20:00::
+She was wearing a brown cotton dress , cut across the hips in a way that was supposed to make her look slimmer , a yoke set into the skirt and flaring pleats below .
+11
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#5 cotton NOUN cotton%1:06:01::
+#6 dress NOUN dress%1:06:00::
+#8 cut VERB cut%2:36:00::,cut%2:36:01::,cut%2:36:11::
+#11 hip NOUN hip%1:08:00::
+#14 way NOUN way%1:04:00::,way%1:09:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 look VERB look%2:39:01::,look%2:42:02::
+#22 slim ADJ slim%5:00:00:thin:03
+#25 yoke NOUN yoke%1:14:00::
+#26 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+She smoothed the skirt , sat down , then stood up and went back to the windows .
+2
+#8 then ADV then%4:02:00::
+#16 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+" Why on earth did I send him off to work ?
+2
+#6 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#10 work NOUN work%1:06:01::
+There was excuse enough to keep him home , that young Mr. Arthur 's still over there " .
+3
+#2 excuse NOUN excuse%1:10:00::
+#5 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#14 still ADV still%4:02:00::
+With sudden energy , she went to the phone and rang Holden 's office and asked for him .
+5
+#2 energy NOUN energy%1:07:02::,energy%1:19:01::
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 phone NOUN phone%1:06:00::
+#13 office NOUN office%1:06:00::
+#15 ask VERB ask%2:32:01::,ask%2:32:05::
+" I think you had better come home " .
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+" Mae , we 're so busy .
+1
+#5 so ADV so%4:02:03::,so%4:02:07::
+Mr. Crosson 's been on everybody 's neck , an order he expected did n't come through and he 's " -
+1
+#10 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+" I do n't care .
+1
+#4 care VERB care%2:37:00::,care%2:37:12::
+I want you here .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+I 'm all alone and certain things are going on that look very ominous .
+4
+#3 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#5 certain ADJ certain%5:00:00:definite:00
+#6 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#11 look VERB look%2:39:01::,look%2:42:02::
+I need someone to go out and find out what 's happening " .
+2
+#1 need VERB need%2:42:00::
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+His voice grew high and trembling .
+3
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#2 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#3 high ADJ high%3:00:01::,high%3:00:02::
+" I can n't be underfoot every time those cops turn around !
+2
+#7 time NOUN time%1:11:00::
+#9 cop NOUN cop%1:18:00::
+They 'll think I did something " .
+1
+#2 think VERB think%2:31:01::,think%2:31:03::
+He could n't see the grin that split her mouth ; the teeth that shone into the phone were like a shark 's .
+7
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 split VERB split%2:41:03::
+#9 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#12 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#14 shine VERB shine%2:43:00::
+#17 phone NOUN phone%1:06:00::
+#21 shark NOUN shark%1:05:00::
+" You 'll just have to risk it .
+2
+#3 just ADV just%4:02:00::,just%4:02:03::
+#4 have VERB have%2:42:08::
+You can n't wander along in the dark , can you ?
+1
+#7 dark NOUN dark%1:26:00::,dark%1:28:00::
+I 'd think that you , even more than I , would be wondering what they 're up to .
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#13 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+They found some clothes " , she .
+1
+#3 clothes NOUN clothes%1:06:00::
+Deliberately , she ignored the yelp .
+1
+#0 deliberately ADV deliberately%4:02:00::
+" Also , that Mr. Ferguson was here .
+1
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+I guess he wants to ask you some questions .
+2
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+I stalled him off .
+1
+#1 stall VERB stall%2:30:00::
+" Then I 'd better wait until five " .
+2
+#1 then ADV then%4:02:02::
+#5 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Come home right away " .
+1
+#0 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+She slapped the receiver into its holder and stepped away .
+4
+#3 receiver NOUN receiver%1:06:00::
+#6 holder NOUN holder%1:06:00::
+#8 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#9 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Her eyes were bright with anticipation .
+2
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+#3 bright ADJ bright%5:00:00:auspicious:00,bright%5:00:00:happy:00
+In his office , Mr. Holden replaced the phone slowly .
+2
+#2 office NOUN office%1:06:00::
+#8 phone NOUN phone%1:06:00::
+He rose from his chair .
+2
+#1 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#4 chair NOUN chair%1:06:00::,chair%1:06:01::
+He had to cough then ; he went to the window and choked there with the fresh breeze on his face .
+8
+#1 have VERB have%2:42:08::
+#4 then ADV then%4:02:00::
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#12 choke VERB choke%2:29:04::
+#13 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#17 breeze NOUN breeze%1:19:00::
+#20 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He got his hat out of the closet .
+2
+#1 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#7 closet NOUN closet%1:06:02::
+For a moment he thought of going into Crosson 's office to explain that he had to leave , but there was now such a pain in his chest , such a pounding in his head , that he decided to let it go .
+9
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#10 office NOUN office%1:06:00::
+#15 have VERB have%2:42:08::
+#17 leave VERB leave%2:38:00::,leave%2:41:00::
+#22 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#25 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#28 chest NOUN chest%1:08:00::,chest%1:08:01::
+#32 pounding NOUN pounding%1:11:00::
+#35 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+He passed the receptionist in the outer office , muttering , " I 've got to go out for a little while " .
+3
+#1 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#7 office NOUN office%1:06:00::
+#21 while NOUN while%1:28:00::
+Let her call Crosson if she wanted to , let Crosson raise the roof or even can him , he did n't care .
+4
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#16 can VERB can%2:41:00::
+#22 care VERB care%2:37:00::,care%2:37:12::
+Putting the key into the switch , pressing the accelerator with his foot , putting the car into reverse , seemed vast endeavors almost beyond the ability of his shaking body .
+7
+#0 put VERB put%2:35:00::,put%2:35:05::
+#2 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#5 switch NOUN switch%1:06:01::
+#7 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#12 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#18 reverse NOUN reverse%1:04:01::
+#30 body NOUN body%1:08:00::,body%1:08:02::
+Once out in the street , the traffic was a gadfly maze in which he wandered stricken .
+2
+#0 once CONJ once%4:02:02::
+#7 traffic NOUN traffic%1:14:00::
+When he turned into the highway that led to the outskirts of the city and then rose toward home , he had to pull over to the curb and wait for a few minutes , sucking in air and squinting and blinking his eyes to clear them of tears .
+16
+#2 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#13 city NOUN city%1:15:00::,city%1:15:01::
+#15 then ADV then%4:02:00::
+#16 rise VERB rise%2:30:03::,rise%2:38:00::,rise%2:38:02::,rise%2:42:00::,rise%2:42:01::
+#18 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#21 have VERB have%2:42:08::
+#27 curb NOUN curb%1:06:00::
+#29 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#33 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#37 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#39 squint VERB squint%2:29:02::
+#41 blink VERB blink%2:29:00::
+#43 eye NOUN eye%1:08:00::,eye%1:09:01::
+#45 clear VERB clear%2:30:01::,clear%2:30:02::,clear%2:30:10::,clear%2:31:00::,clear%2:38:00::
+#48 tear NOUN tear%1:08:01::
+What on earth was in Mae 's mind , that she wanted him up there spying on what the cops were doing ?
+3
+#11 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#14 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#19 cop NOUN cop%1:18:00::
+What did she think he could do ?
+1
+#3 think VERB think%2:31:01::,think%2:31:03::
+He tried to ignore what his own common sense told him , but it was n't possible ; her motives were too blatant .
+4
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 own ADJ own%5:00:00:personal:00
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 motive NOUN motive%1:03:00::
+She wanted him to get into trouble .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+She wanted the police to notice him , suspect him .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+She was going to keep on scheming , poking , prodding , suggesting , and dictating until the cops got up enough interest in him to go back to their old neighborhood and ask questions .
+7
+#8 poke VERB poke%2:35:01::
+#18 cop NOUN cop%1:18:00::
+#22 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#26 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#27 back ADV back%4:02:01::,back%4:02:04::
+#30 old ADJ old%3:00:01::
+#33 ask VERB ask%2:32:00::,ask%2:32:04::
+And he knew in that moment , with a cold sinking of despair , a dying of old hopes , that Mae had spread some kind of word there among the neighbors .
+8
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 moment NOUN moment%1:28:00::,moment%1:28:01::
+#9 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#17 old ADJ old%3:00:01::
+#18 hope NOUN hope%1:09:00::,hope%1:18:00::
+#23 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#27 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#28 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Nothing bald , open ; but enough .
+1
+#3 open ADJ open%3:00:07::,open%5:00:00:ingenuous:00,open%5:00:00:public:00
+They 'd have some suspicions to repeat to the police .
+3
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 suspicion NOUN suspicion%1:09:01::
+#6 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+Though his inner thoughts cringed at it , he forced himself to think back , recreating the scene in which Mae claimed to have caught him molesting the child .
+5
+#2 inner ADJ inner%5:00:00:inward:00
+#3 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#9 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#17 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#24 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+There had been nothing evil or dirty in his intentions .
+1
+#9 intention NOUN intention%1:09:00::
+A second scene flashed before his mind , the interior of the garage at the new house and the young Bartlett girl turning startled to meet him , the dim dark and the sudden confusion and fear and then the brightness as Mae had clicked on the light .
+15
+#2 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#3 flash VERB flash%2:30:03::,flash%2:39:01::,flash%2:39:02::
+#9 interior NOUN interior%1:15:00::
+#12 garage NOUN garage%1:06:00::
+#15 new ADJ new%3:00:00::
+#16 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#21 girl NOUN girl%1:18:01::,girl%1:18:03::
+#22 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#25 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#29 dim ADJ dim%5:00:00:dark:01
+#30 dark NOUN dark%1:26:00::,dark%1:28:00::
+#34 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#38 then ADV then%4:02:00::
+#44 click VERB click%2:35:00::
+#47 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+Suppose the cops somehow got hold of that ?
+2
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#2 cop NOUN cop%1:18:00::
+Well , it had n't been what it seemed , he 'd had no idea the girl was in there .
+3
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#16 girl NOUN girl%1:18:01::,girl%1:18:03::
+He had n't touched her .
+1
+#3 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+And when he came to examine the scene , there was a certain staginess to it , it had the smell of planning , and a swift suspicion darted into his mind .
+5
+#5 examine VERB examine%2:31:00::,examine%2:32:01::
+#7 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#12 certain ADJ certain%5:00:00:definite:00
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 suspicion NOUN suspicion%1:09:01::
+Mae would n't have plotted a thing like that .
+2
+#4 plot VERB plot%2:31:00::
+#6 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+It was just that little accidents played into her hands .
+2
+#2 just ADV just%4:02:00::,just%4:02:03::
+#5 accident NOUN accident%1:11:00::
+He leaned on the wheel , clutching it , staring into the sunlight , and tried to bring order into his thoughts .
+3
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#18 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#21 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+He felt light-headed and sick .
+2
+#1 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#4 sick ADJ sick%5:00:02:ill:01
+There was no use wandering off into a territory of utter nightmare .
+1
+#8 territory NOUN territory%1:15:01::
+She was married to him for better or for worse .
+3
+#2 married ADJ married%3:01:00::
+#6 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#9 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+She would n't be wilfully planning his destruction .
+1
+#5 plan VERB plan%2:31:00::,plan%2:31:01::
+Even as the conviction of truth roared through him , shattering his last hope of safety , he was reaching to release the hand brake , to head up the road for home , doing her bidding .
+12
+#3 conviction NOUN conviction%1:09:00::
+#6 roar VERB roar%2:38:00::
+#10 shatter VERB shatter%2:30:01::
+#12 last ADJ last%5:00:00:unlikely:00
+#13 hope NOUN hope%1:09:00::,hope%1:18:00::
+#15 safety NOUN safety%1:26:00::
+#19 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#21 release VERB release%2:35:00::,release%2:41:00::
+#27 head VERB head%2:38:00::,head%2:38:01::
+#30 road NOUN road%1:04:00::,road%1:06:00::
+#32 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#36 bidding NOUN bidding%1:10:02::
+He drove , and the road wobbled , familiar scenes crept past on either side .
+5
+#1 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#5 road NOUN road%1:04:00::,road%1:06:00::
+#8 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#9 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#10 creep VERB creep%2:38:00::
+He came to a stretch of old orange groves , the trees dead , some of them uprooted , and then there was an outlying shopping area , and tract houses .
+10
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#4 stretch NOUN stretch%1:17:00::
+#7 orange NOUN orange%1:20:00::
+#11 tree NOUN tree%1:20:00::
+#12 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#17 uproot VERB uproot%2:35:00::
+#20 then ADV then%4:02:00::
+#25 shopping NOUN shopping%1:06:00::
+#26 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#30 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+He had the feeling that he should abandon the car and run off somewhere to hide .
+2
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 feeling NOUN feeling%1:09:03::
+But he could n't imagine where .
+1
+#4 imagine VERB imagine%2:31:01::
+There was really no place to go , finally , except home to Mae .
+2
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+At the gate he slowed , looking around .
+1
+#2 gate NOUN gate%1:06:00::
+Cooper was beside his car , on the curb at the right , just standing there morosely ; he did n't even look up .
+6
+#8 curb NOUN curb%1:06:00::
+#11 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#13 just ADV just%4:02:00::,just%4:02:03::
+#14 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#22 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#23 up ADV up%4:02:00::,up%4:02:02::
+Behind him on the steps of the little office sat old man Arthur ; he was straight , something angry in his attitude , as if he might be waiting to report something .
+6
+#4 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#8 office NOUN office%1:06:00::
+#9 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#16 straight ADJ straight%5:00:00:tidy:00
+#29 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#31 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Holden stepped on the gas .
+1
+#4 gas NOUN gas%1:06:00::,gas%1:27:02::
+A new idea drifted in from nowhere .
+3
+#1 new ADJ new%3:00:00::
+#2 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#3 drift VERB drift%2:38:01::
+He could tell them his fears of being involved , he could explain what had happened in the old neighborhood and how Mae had misunderstood and how she had held it over him - the scene was complete in his mind at the moment , even to his own jerkings and snivelings , and Ferguson 's silent patience .
+8
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#18 old ADJ old%3:00:01::
+#35 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#37 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#43 moment NOUN moment%1:28:00::,moment%1:28:01::
+#48 own ADJ own%5:00:00:personal:00
+#57 patience NOUN patience%1:07:00::
+He could throw himself on the mercy of the Police Department .
+2
+#2 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#6 mercy NOUN mercy%1:04:00::
+It was n't what Mae would want him to do , though .
+1
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Once he had abandoned himself to the very worst , once he had quieted all the dragons of worry and suspense , there would n't be very much for Mae to do .
+3
+#0 once CONJ once%4:02:02::
+#10 once CONJ once%4:02:02::
+#20 suspense NOUN suspense%1:09:00::
+At that moment , Holden almost slammed on the brakes to go back to Cooper and ask if Ferguson was about .
+4
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#9 brake NOUN brake%1:06:00::
+#16 ask VERB ask%2:32:00::,ask%2:32:04::
+#20 about ADV about%4:02:01::,about%4:02:04::
+It would be such a relief .
+1
+#5 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+What was that old sign , supposed to be painted over a door somewhere , Abandon hope , all ye who enter here ?
+6
+#3 old ADJ old%3:00:01::
+#4 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+#15 abandon VERB abandon%2:40:01::
+#16 hope NOUN hope%1:09:00::,hope%1:18:00::
+#21 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#22 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Why , Holden said to himself , surprised at his own sudden insight , I 'll bet some of those people who enter are just as happy as can be .
+7
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 own ADJ own%5:00:00:personal:00
+#16 bet VERB bet%2:31:00::
+#20 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#22 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#24 just ADV just%4:02:00::,just%4:02:03::
+#26 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+They 've worried , they 've lain awake nights , they 've shook at the slightest footstep , they 've pictured their own destruction , and now it 's all over and they can give up .
+6
+#2 worry VERB worry%2:37:00::,worry%2:37:01::
+#12 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#15 slight ADJ slight%5:00:00:insignificant:00
+#22 own ADJ own%5:00:00:personal:00
+#26 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#29 all ADV all%4:02:00::
+Sure , they 're giving up hope .
+1
+#6 hope NOUN hope%1:09:00::,hope%1:18:00::
+Hand in hand with hope went things like terror and apprehension .
+4
+#4 hope NOUN hope%1:09:00::,hope%1:18:00::
+#6 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#8 terror NOUN terror%1:04:00::
+#10 apprehension NOUN apprehension%1:12:00::
+Holden waved a hand at the empty street .
+3
+#1 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+#6 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+Glad to see you go .
+1
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He drove into the paved space before the garage and got out , slamming the car door .
+3
+#1 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#5 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#8 garage NOUN garage%1:06:00::
+He looked up and down the street .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+If Ferguson 's car had been in sight , Holden would have walked directly to it .
+1
+#12 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+He went to the front door and opened it and looked in .
+4
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#10 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#11 in ADV in%4:02:01::
+Mae entered the room from the hallway to the kitchen .
+3
+#1 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#3 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 kitchen NOUN kitchen%1:06:00::
+She had a cup of something steaming , coffee perhaps , in one hand , a fresh piece of toast in the other .
+8
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#6 steam VERB steam%2:43:00::
+#8 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#13 hand NOUN hand%1:08:00::,hand%1:10:01::
+#16 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+#19 toast NOUN toast%1:13:00::
+#22 other ADJ other%3:00:00::
+She stood there , watching Holden come in , and she put the piece of toast in her mouth and bit off one corner with a huge chomp of her white teeth .
+7
+#4 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 put VERB put%2:35:00::,put%2:35:05::
+#15 toast NOUN toast%1:13:00::
+#18 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#23 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#30 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#31 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+" I 've been thinking " , she said , swallowing the toast .
+3
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 toast NOUN toast%1:13:00::
+" Did n't you have an old pair of painting overalls in the garage ?
+2
+#6 old ADJ old%3:00:01::,old%3:00:02::
+#13 garage NOUN garage%1:06:00::
+You used them that time you painted the porch at our other house .
+4
+#4 time NOUN time%1:11:00::
+#6 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+#11 other ADJ other%3:00:00::
+#12 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+And then you wiped up some grease " .
+1
+#1 then ADV then%4:02:00::
+She had caught him off guard , no preparation , nothing certain but that ahead lay some kind of disaster .
+2
+#2 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#11 certain ADJ certain%3:00:01::
+Wait a minute .
+2
+#0 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+" I 've been looking for them , and they 're gone .
+1
+#11 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+I 'm sure they were in the garage up until a couple of days ago .
+2
+#7 garage NOUN garage%1:06:00::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+You used to paint in them , and then you just took them for rags .
+3
+#3 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+#8 then ADV then%4:02:00::
+#10 just ADV just%4:02:00::,just%4:02:03::
+The police have them now " .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Worn through at the knees " .
+1
+#1 through ADV through%4:02:01::
+She stood sipping and chewing and watching .
+1
+#6 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+" Green paint , was n't it ?
+2
+#1 green ADJ green%5:00:00:chromatic:00
+#2 paint NOUN paint%1:06:00::
+Well , I 'm not sure of the color .
+2
+#4 not ADV not%4:02:00::
+#8 color NOUN color%1:07:00::,color%1:27:00::
+But you had them " .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Put down the cup of coffee .
+2
+#3 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#5 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+She shook her head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+She took another bite of toast .
+2
+#3 bite NOUN bite%1:26:00::
+#5 toast NOUN toast%1:13:00::
+Holden noticed almost absently how she chewed , how the whole side of her cheek moved , a slab of fat that extended down into her neck .
+6
+#10 whole ADJ whole%3:00:00::
+#11 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#14 cheek NOUN cheek%1:08:00::
+#15 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#22 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#26 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+You 're going to have to go to the police and explain what happened .
+3
+#4 have VERB have%2:42:08::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Tell them the truth , or something , before they come here " .
+2
+#10 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#11 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+A seeping coldness entered Holden 's being ; his nerves seemed frost-bitten down to the tips of his tingling fingers and his spine felt stiff and glass like , liable to break like an icicle at any moment .
+10
+#3 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#6 being NOUN being%1:03:00::
+#9 nerve NOUN nerve%1:08:00::
+#15 tip NOUN tip%1:15:00::
+#22 spine NOUN spine%1:06:00::
+#23 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#26 glass NOUN glass%1:27:00::
+#29 liable ADJ liable%5:00:00:susceptible:00
+#31 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#37 moment NOUN moment%1:28:00::,moment%1:28:01::
+" I 've never owned any painting overalls .
+2
+#3 never ADV never%4:02:00::
+#4 own VERB owned%3:00:00::

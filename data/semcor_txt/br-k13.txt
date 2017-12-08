@@ -1,0 +1,720 @@
+ In the dim underwater light they dressed and straightened up the room , and then they went across the hall to the kitchen .
+9
+#2 dim ADJ dim%5:00:00:dark:01
+#3 underwater ADJ underwater%5:00:00:subsurface:00
+#4 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#6 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#11 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#14 then ADV then%4:02:00::
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#19 hall NOUN hall%1:06:03::,hall%1:06:05::
+#22 kitchen NOUN kitchen%1:06:00::
+She was intimidated by the stove .
+1
+#5 stove NOUN stove%1:06:00::
+The gas flamed up two inches high .
+3
+#1 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#5 inch NOUN inch%1:23:02::
+#6 high ADV high%4:02:02::
+They found the teakettle and put water on to boil and then searched through the icebox .
+4
+#5 put VERB put%2:35:00::,put%2:35:05::
+#6 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#9 boil VERB boil%2:30:01::
+#11 then ADV then%4:02:00::
+Several sections of a loaf of dark bread ; butter ; jam ; a tiny cake of ice .
+3
+#1 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#11 jam NOUN jam%1:13:00::
+#17 ice NOUN ice%1:27:00::
+In their search for what turned out to be the right breakfast china but the wrong table silver , they opened every cupboard door in the kitchen and pantry .
+6
+#10 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+#15 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#16 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#17 silver NOUN silver%1:06:00::
+#20 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#26 kitchen NOUN kitchen%1:06:00::
+While she was settling the teacart , he went back across the hall to their bedroom , opened one of the suitcases , and took out powdered coffee and sugar .
+4
+#12 hall NOUN hall%1:06:03::,hall%1:06:05::
+#17 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#27 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#29 sugar NOUN sugar%1:13:00::
+She appeared with the teacart and he opened the windows .
+3
+#1 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#7 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#9 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+" Do you want to call Eugene " ?
+1
+#5 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+He did n't , but it was not really a question , and so he left the room , walked down the hall to the front of the apartment , hesitated , and then knocked lightly on the closed door of the study .
+11
+#8 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#15 leave VERB leave%2:38:00::,leave%2:41:00::
+#17 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#19 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#22 hall NOUN hall%1:06:03::,hall%1:06:05::
+#25 front NOUN front%1:06:00::,front%1:15:00::,front%1:15:02::
+#33 then ADV then%4:02:00::
+#34 knock VERB knock%2:39:00::
+#35 lightly ADV lightly%4:02:00::
+#38 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#42 study NOUN study%1:06:00::
+A sleepy voice answered .
+1
+#2 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" Le petit dejeuner " , Harold said , in an accent that did credit to Miss Sloan , his high-school French teacher .
+3
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 accent NOUN accent%1:10:01::
+#14 credit NOUN credit%1:04:01::,credit%1:10:00::,credit%1:10:01::
+At the same time , his voice betrayed uncertainty about their being here , and conveyed an appeal to whatever is reasonable , peace-loving , and dependable in everybody .
+5
+#6 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#7 betray VERB betray%2:32:01::
+#12 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#17 appeal NOUN appeal%1:10:00::,appeal%1:10:02::
+#21 reasonable ADJ reasonable%3:00:00::,reasonable%5:00:00:rational:00
+Since ordinary breakfast-table conversation was impossible , it was at least something that they were able to offer Eugene the sugar bowl with their sugar in it , and the plate of bread and butter , and that Eugene could return the pitcher of hot milk to them handle first .
+7
+#1 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#15 able ADJ able%3:00:00::
+#24 sugar NOUN sugar%1:13:00::
+#30 plate NOUN plate%1:06:00::,plate%1:06:02::,plate%1:06:03::,plate%1:13:01::,plate%1:23:00::
+#40 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#44 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#48 handle NOUN handle%1:06:00::
+Eugene put a spoonful of powdered coffee into his cup and then filled it with hot water .
+6
+#1 put VERB put%2:35:00::,put%2:35:05::
+#6 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#9 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#11 then ADV then%4:02:00::
+#15 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#16 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Stirring , he said : " I am sorry that my work prevents me from doing anything with you today " .
+5
+#0 stir VERB stir%2:35:00::,stir%2:35:04::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 sorry ADJ sorry%3:00:02::
+#11 work NOUN work%1:06:01::
+#12 prevent VERB prevent%2:41:00::
+They assured him that they did not expect or need to be entertained .
+3
+#1 assure VERB assure%2:32:01::,assure%2:32:02::
+#6 not ADV not%4:02:00::
+#12 entertain VERB entertain%2:41:00::
+Harold put a teaspoonful of powdered coffee in his cup and filled it with hot water , and then , stirring , he sat back in his chair .
+8
+#1 put VERB put%2:35:00::,put%2:35:05::
+#6 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#9 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#14 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#15 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#18 then ADV then%4:02:00::
+#20 stir VERB stir%2:35:00::,stir%2:35:04::
+#27 chair NOUN chair%1:06:00::,chair%1:06:01::
+The chair creaked .
+2
+#1 chair NOUN chair%1:06:00::,chair%1:06:01::
+#2 creak VERB creak%2:39:00::
+Every time he moved or said something , the chair creaked again .
+5
+#1 time NOUN time%1:11:00::
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 chair NOUN chair%1:06:00::,chair%1:06:01::
+#10 creak VERB creak%2:39:00::
+Eugene was not entirely silent , or openly rude - unless asking Harold to move to another chair and placing himself in the fauteuil that creaked so alarmingly was an act of rudeness .
+9
+#8 rude ADJ rude%3:00:04::
+#11 ask VERB ask%2:32:01::,ask%2:32:05::
+#14 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#17 chair NOUN chair%1:06:00::,chair%1:06:01::
+#19 place VERB place%2:31:13::
+#25 creak VERB creak%2:39:00::
+#26 so ADV so%4:02:03::,so%4:02:07::
+#30 act NOUN act%1:03:00::
+#32 rudeness NOUN rudeness%1:07:00::
+It went right on creaking under his own considerable weight , and all it needed , Harold thought , was for somebody to fling himself back in a fit of laughter and that would be the end of it .
+7
+#2 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#4 creak VERB creak%2:39:00::
+#7 own ADJ own%5:00:00:personal:00
+#9 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#14 need VERB need%2:42:00::
+#25 back ADV back%4:02:05::
+#28 fit NOUN fit%1:26:00::
+Through the open window they heard sounds below in the street : cartwheels , a tired horse 's plodding step , voices .
+7
+#2 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#3 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#6 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#12 cartwheel NOUN cartwheel%1:06:00::
+#16 horse NOUN horse%1:05:00::,horse%1:14:00::
+#19 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+#21 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+Harold indicated the photograph on the wall and asked what church the stone sculpture was in .
+3
+#1 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#12 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+Eugene told him and he promptly forgot .
+2
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#5 promptly ADV promptly%4:02:02::
+They passed the marmalade , the bread , the black-market butter , back and forth .
+2
+#1 pass VERB pass%2:32:01::,pass%2:40:00::,pass%2:40:01::,pass%2:40:02::,pass%2:40:13::
+#6 bread NOUN bread%1:13:00::
+Nothing was said about hotels or train journeys .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 hotel NOUN hotel%1:06:00::
+#6 train NOUN train%1:06:00::
+Eugene offered Harold his car , to use at any time he cared to , and when this offer was not accepted , the armchair creaked .
+7
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 time NOUN time%1:11:00::
+#12 care VERB care%2:37:00::,care%2:37:12::
+#20 not ADV not%4:02:00::
+#21 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#24 armchair NOUN armchair%1:06:00::
+#25 creak VERB creak%2:39:00::
+They all three had another cup of coffee .
+3
+#3 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#5 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#7 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+Eugene was in his pajamas and dressing gown , and on his large feet he wore yellow Turkish slippers that turned up at the toes .
+5
+#12 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#13 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#15 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#16 yellow ADJ yellow%5:00:00:chromatic:00
+#24 toe NOUN toe%1:08:01::
+" Ex-cuse me " , he said in Berlitz English , and got up and left them , to bathe and dress .
+4
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 leave VERB leave%2:38:00::,leave%2:41:00::
+#19 bathe VERB bathe%2:29:01::
+#21 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+The first shrill ring of the telephone brought Harold out into the hall .
+4
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#3 ring VERB ring%2:39:00::,ring%2:39:01::
+#6 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#12 hall NOUN hall%1:06:03::,hall%1:06:05::
+He realized that he had no idea where the telephone was .
+4
+#1 realize VERB realize%2:31:01::
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#6 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#9 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+At that moment the bathroom door flew open and Eugene came out , with his face lathered for shaving , and strode down the hall , tying the sash of his dressing gown as he went .
+8
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#15 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#18 shave NOUN shave%1:04:00::
+#21 stride VERB stride%2:38:00::
+#24 hall NOUN hall%1:06:03::,hall%1:06:05::
+#26 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+#28 sash NOUN sash%1:06:01::
+#35 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+The telephone was in the study but the ringing came from the hall .
+4
+#1 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#5 study NOUN study%1:06:00::
+#8 ring NOUN ring%1:11:00::
+#12 hall NOUN hall%1:06:03::,hall%1:06:05::
+Between the telephone and the wall plug there was sixty feet of cord , and when the conversation came to an end , Eugene carried the instrument with him the whole length of the apartment , to his bathroom , where it rang three more times while he was shaving and in the tub .
+12
+#2 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#10 foot NOUN foot%1:23:00::
+#12 cord NOUN cord%1:06:00::
+#21 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#24 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#26 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#30 whole ADJ whole%3:00:00::
+#31 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#42 ring VERB ring%2:39:00::,ring%2:39:01::
+#45 time NOUN time%1:11:00::
+#49 shave NOUN shave%1:04:00::
+#53 tub NOUN tub%1:06:01::
+Before he left the apartment he knocked on their door and asked if there was anything he could do for them .
+3
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 knock VERB knock%2:39:00::
+#11 ask VERB ask%2:32:00::,ask%2:32:04::
+Harold shook his head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" Sabine called a few minutes ago " , Eugene said .
+3
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#5 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" She wants you and Barbara to have dinner with her tomorrow night " .
+3
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#7 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#12 night NOUN night%1:28:00::
+He handed Harold a key to the front door , and cautioned him against leaving it unlocked while they were out of the apartment .
+3
+#1 hand VERB hand%2:40:00::
+#4 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#14 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+When enough time had elapsed so that there was little likelihood of his returning for something he had forgotten , Harold went out into the hall and stood looking into one room after another .
+4
+#13 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#25 hall NOUN hall%1:06:03::,hall%1:06:05::
+#28 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#31 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+In the room next to theirs was a huge cradle , of mahogany , ornately carved and decorated with gold leaf .
+5
+#2 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 cradle NOUN cradle%1:15:00::
+#12 mahogany NOUN mahogany%1:20:02::
+#15 carve VERB carve%2:35:02::
+#17 decorate VERB decorate%2:36:00::
+It was the most important-looking cradle he had ever seen .
+4
+#3 most ADV most%4:02:00::
+#5 cradle NOUN cradle%1:15:00::
+#8 ever ADV ever%4:02:05::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Then came their bathroom , and then a bedroom that , judging by the photographs on the walls , must belong to Mme Cestre .
+3
+#0 then ADV then%4:02:00::
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#6 then ADV then%4:02:00::
+Matching photographs in oval frames of Mme Bonenfant and an elderly man who must be Alix 's grandfather .
+3
+#0 matching ADJ matched%3:00:00::
+#4 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+#11 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Mme Vienot , considerably younger and very different .
+1
+#7 different ADJ different%5:00:00:unusual:00
+And a gray-haired man whose glance - direct , lifelike , and mildly accusing - was contradicted by the gilt and black frame .
+5
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 glance NOUN glance%1:04:00::
+#7 direct ADJ direct%3:00:02::
+#21 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#22 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+It was the kind of frame that is only put around the photograph of a dead person .
+3
+#5 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 put VERB put%2:35:00::,put%2:35:05::
+With the metal shutters closed , the dining room was so dark that it seemed still night in there .
+8
+#2 metal NOUN metal%1:27:00::
+#3 shutter NOUN shutter%1:06:00::
+#4 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#15 still ADV still%4:02:00::
+#16 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#18 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+One of the drawing-room shutters was partly open and he made out the shapes of chairs and sofas , which seemed to be upholstered in brown or russet velvet .
+5
+#4 shutter NOUN shutter%1:06:00::
+#7 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#13 shape NOUN shape%1:07:00::,shape%1:07:01::
+#15 chair NOUN chair%1:06:00::,chair%1:06:01::
+#27 russet NOUN russet%1:06:00::
+The curtains were of the same material , and there were some big oil paintings - portraits in the style of Lancret and Boucher .
+5
+#5 same ADJ same%3:00:00::,same%3:00:02::
+#6 material NOUN material%1:06:00::
+#12 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#16 portrait NOUN portrait%1:06:00::
+#19 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+Though , taken individually , the big rooms were , or seemed to be , square , the apartment as a whole formed a triangle .
+5
+#3 individually ADV individually%4:02:00::
+#6 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#7 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#15 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#21 whole NOUN whole%1:03:00::
+The apex , the study where Eugene slept , was light and bright and airy and cheerful .
+5
+#4 study NOUN study%1:06:00::
+#7 sleep VERB sleep%2:29:00::
+#10 light ADJ light%3:00:06::
+#12 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#14 airy ADJ airy%5:00:00:ventilated:00
+The window looked out on the Place Redoute - it was the only window of the apartment that did .
+2
+#1 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#13 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+Looking around slowly , he saw a marble fireplace , a desk , a low bookcase of mahogany with criss-crossed brass wire instead of glass panes in the doors .
+4
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 marble NOUN marble%1:06:01::
+#14 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#17 mahogany NOUN mahogany%1:20:02::
+The daybed Eugene had slept in , made up now with its dark-brown velours cover and pillows .
+3
+#4 sleep VERB sleep%2:29:00::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#14 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+The portable record player with a pile of classical records beside it .
+3
+#6 pile NOUN pile%1:14:00::
+#8 classical ADJ classical%3:01:00::
+#9 record NOUN record%1:06:00::
+Beethoven 's Fifth was the one on top .
+1
+#7 top NOUN top%1:15:00::,top%1:15:01::
+Music could not be Eugene 's passion .
+3
+#0 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#2 not ADV not%4:02:00::
+#6 passion NOUN passion%1:12:00::
+Besides , the records were dusty .
+1
+#3 record NOUN record%1:06:00::
+He tried the doors of the bookcase .
+1
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Locked .
+1
+#0 lock VERB lock%2:35:00::,lock%2:35:02::,lock%2:35:03::
+The titles he could read easily through the criss-crossed wires : works on theology , astral physics , history , biology , political science .
+6
+#1 title NOUN title%1:10:00::,title%1:10:06::
+#4 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#5 easily ADV easily%4:02:01::,easily%4:02:06::
+#11 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#16 physics NOUN physics%1:09:00::
+#18 history NOUN history%1:28:00::
+He moved over to the desk and stood looking at the papers on it but not touching anything .
+3
+#8 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#11 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#16 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+The clock on the mantel piece was scandalized and ticked so loudly that he glanced at it over his shoulder and then quickly left the room .
+9
+#1 clock NOUN clock%1:06:00::
+#7 scandalize VERB scandalise%2:37:00::
+#9 tick VERB tick%2:39:01::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#14 glance VERB glance%2:38:00::,glance%2:39:00::
+#19 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#21 then ADV then%4:02:00::
+#23 leave VERB leave%2:38:00::,leave%2:41:00::
+#25 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+The concierge called out to them as they were passing through the foyer .
+1
+#1 concierge NOUN concierge%1:18:00::
+Her quarters were on the right as you walked into the building , and her small front room was clogged with heavy furniture - a big , round , oak dining table and chairs , a buffet , with a row of unclaimed letters inserted between the mirror and its frame .
+14
+#1 quarter NOUN quarters%1:06:00::
+#5 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#8 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#11 building NOUN building%1:06:00::
+#21 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#22 furniture NOUN furniture%1:06:00::
+#25 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#27 round ADJ round%3:00:00::
+#33 chair NOUN chair%1:06:00::,chair%1:06:01::
+#36 buffet NOUN buffet%1:06:00::
+#40 row NOUN row%1:14:00::
+#43 letter NOUN letter%1:10:00::
+#44 insert VERB insert%2:35:00::,insert%2:35:01::
+#50 frame NOUN frame%1:06:00::,frame%1:06:01::,frame%1:06:02::,frame%1:08:00::,frame%1:08:01::
+The suitcases had come while they were out , and had been put in their room , the concierge said .
+4
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#12 put VERB put%2:35:00::,put%2:35:05::
+#15 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He waited until they were inside the elevator and then said : " Now what do we do " ?
+4
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#7 elevator NOUN elevator%1:06:00::
+#9 then ADV then%4:02:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Call the Vouillemont , I guess " .
+1
+#1 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Rather than sit around waiting for the suitcases to be delivered , they had gone sight-seeing .
+4
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#10 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#14 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+They went to the Flea Market , expecting to find the treasures of Europe , and found instead a duplication of that long double row of booths in Tours .
+6
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#22 long ADJ long%3:00:01::
+#23 double ADJ double%5:00:02:multiple:00
+#24 row NOUN row%1:14:00::
+#26 booth NOUN booth%1:06:01::
+Cheap clothing and junk of every sort , as far as the eye could see .
+5
+#3 junk NOUN junk%1:27:00::
+#6 sort NOUN sort%1:09:00::,sort%1:18:00::
+#9 far ADV far%4:02:00::,far%4:02:01::
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+They looked , even so .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+Looked at everything .
+1
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+Barbara bought some cotton aprons , and Harold bought shoestrings .
+5
+#1 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#3 cotton NOUN cotton%1:06:01::
+#4 apron NOUN apron%1:06:00::
+#8 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#9 shoestring NOUN shoestring%1:06:00::
+They had lunch at a sidewalk cafe overlooking the intersection of two broad , busy , unpicturesque streets , and coming home they got lost in the Metro ; it took them over an hour to get back to the station where they should have changed , in order to take the line that went to the Place Redoute .
+14
+#1 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#6 cafe NOUN cafe%1:06:00::
+#7 overlook VERB overlook%2:42:00::
+#12 broad ADJ broad%3:00:04::,broad%5:00:00:large:00
+#20 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#23 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#24 lost ADJ lost%3:00:01::
+#30 take VERB take%2:40:06::,take%2:42:03::
+#34 hour NOUN hour%1:07:00::,hours%1:28:01::
+#40 station NOUN station%1:06:00::
+#45 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+#50 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#52 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#54 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+It was the end of the afternoon when he took the huge key out of his pocket and inserted it into the keyhole .
+5
+#3 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#9 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#12 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#16 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#18 insert VERB insert%2:35:00::,insert%2:35:01::
+When he opened the door , there stood Eugene , on his way out of the apartment .
+3
+#2 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#6 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#12 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+He was wearing sneakers and shorts and an open-collared shirt , and in his hand he carried a little black bag .
+6
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#5 shorts NOUN shorts%1:06:00::
+#14 hand NOUN hand%1:08:00::,hand%1:10:01::
+#16 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#19 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#20 bag NOUN bag%1:06:00::
+He did not explain where he was going , and they did not ask .
+4
+#2 not ADV not%4:02:00::
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#12 not ADV not%4:02:00::
+#13 ask VERB ask%2:32:00::,ask%2:32:04::
+Instead , they went on down the hall to their room .
+2
+#7 hall NOUN hall%1:06:03::,hall%1:06:05::
+#10 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+" Do you think he could be having an affair " ?
+3
+#3 think VERB think%2:31:01::,think%2:31:03::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 affair NOUN affair%1:26:00::
+Barbara asked , as they heard the front door close .
+2
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#9 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+" Oh no " , Harold said , shocked .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 shock VERB shock%2:37:02::
+" I know , but there must be some other explanation .
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He 's probably spending the evening with friends " .
+2
+#5 evening NOUN evening%1:28:00::,evening%1:28:02::
+#7 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+" And for that he needs a little bag " ?
+2
+#5 need VERB need%2:42:00::
+#8 bag NOUN bag%1:06:00::
+They went shopping in the neighborhood , and bought two loaves of bread with the ration coupons they had been given in Blois , and some cheese , and a dozen eggs , and a bag of oranges from a peddler in the Place Redoute - the first oranges they had seen since they landed .
+13
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#2 shop VERB shop%2:40:00::
+#8 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#16 coupon NOUN coupon%1:10:00::
+#20 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#26 cheese NOUN cheese%1:13:00::
+#30 dozen NOUN dozen%1:23:00::
+#31 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#35 bag NOUN bag%1:06:00::
+#37 orange NOUN orange%1:13:00::
+#47 first ADJ first%3:00:00::,first%4:02:00::
+#48 orange NOUN orange%1:13:00::
+#51 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+They had Vermouth , sitting in front of a cafe .
+3
+#1 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#4 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 cafe NOUN cafe%1:06:00::
+When they got home Harold was grateful for the stillness in the apartment , and thought how , under different circumstances , they might have stayed on here , in these old-fashioned , high-ceilinged rooms that reminded him of the Irelands ' apartment in the East Eighties .
+6
+#3 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#15 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#19 different ADJ different%5:00:00:unusual:00
+#20 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#27 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#34 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+They could have been perfectly happy here for ten whole days .
+4
+#5 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 whole ADJ whole%3:00:00::
+#10 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+He went down the hall to Eugene 's bathroom , to turn on the hot-water heater , and on the side of the tub he saw a pair of blue wool swimming trunks .
+7
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#4 hall NOUN hall%1:06:03::,hall%1:06:05::
+#20 side NOUN side%1:06:00::,side%1:15:00::
+#23 tub NOUN tub%1:06:01::
+#25 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#29 blue ADJ blue%5:00:00:chromatic:00
+#30 wool NOUN wool%1:27:00::
+He felt them .
+1
+#1 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+He reached out and felt the bath towel hanging on the towel rack over the tub .
+2
+#4 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#15 tub NOUN tub%1:06:01::
+He looked around the room and then called out :
+2
+#4 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#6 then ADV then%4:02:00::
+" Come here , quick " ?
+2
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Barbara asked , standing in the doorway .
+2
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#3 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+" I 've solved the mystery of the little bag .
+2
+#5 mystery NOUN mystery%1:09:00::
+#9 bag NOUN bag%1:06:00::
+But where do people go swimming in Paris ?
+2
+#3 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#5 swim VERB swim%2:38:00::
+That boat in the river , maybe " .
+1
+#1 boat NOUN boat%1:06:00::
+" What boat " ?
+1
+#2 boat NOUN boat%1:06:00::
+" There 's a big boat anchored near the Place de la Concorde , with a swimming pool in it - did n't you notice it ?
+4
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#5 boat NOUN boat%1:06:00::
+#6 anchor VERB anchor%2:35:00::
+#7 near ADV nearer%4:02:00::
+But if he has time to go swimming , he had time to be with us " .
+5
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 time NOUN time%1:28:01::,time%1:28:05::
+#7 swim VERB swim%2:38:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 time NOUN time%1:28:01::,time%1:28:05::
+She looked at him in surprise .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+" I know " , he said , reading her mind .
+4
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#10 mind NOUN mind%1:09:00::,mind%1:09:04::
+" I do n't know what I'm going to do with you " .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" It 's because we are in France " , he said , " and know so few people .
+4
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#16 so ADV so%4:02:03::,so%4:02:07::
+#18 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+So something like this matters more than it would at home .
+2
+#4 matter VERB matter%2:42:00::
+#10 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Also , he was so nice when he was nice " .
+3
+#4 so ADV so%4:02:03::,so%4:02:07::
+#5 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#9 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+" All because I did n't feel like dancing " .
+1
+#8 dance VERB dance%2:36:00::,dance%2:38:01::
+" I do n't think it was that , really " .
+2
+#4 think VERB think%2:31:01::,think%2:31:03::
+#9 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+" Then what was it " ?
+1
+#1 then ADV then%4:02:02::
+" I do n't know .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The tweed coat , maybe .
+1
+#2 coat NOUN coat%1:06:00::
+The thing about Eugene is that he 's very proud " .
+2
+#1 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#9 proud ADJ proud%5:00:00:impressive:00
+And the thing about hurt feelings , the wet bathing suit pointed out , is that the person who has them is not quite the innocent party he believes himself to be .
+9
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#5 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#8 wet ADJ wet%3:00:01::,wet%3:00:05::
+#17 person NOUN person%1:03:00::,person%1:08:00::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 quite ADV quite%4:02:02::
+#25 innocent ADJ innocent%5:00:00:virtuous:00
+#26 party NOUN party%1:14:02::,party%1:18:00::
+#28 believe VERB believe%2:31:03::
+For instance - what about all those people Harold Rhodes went toward unhesitatingly , as if this were the one moment they would ever have together , their one chance of knowing each other ?
+7
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#10 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#20 moment NOUN moment%1:28:00::,moment%1:28:01::
+#23 ever ADV ever%4:02:05::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#29 chance NOUN chance%1:07:00::,chance%1:26:00::
+Fortunately , the embarrassing questions raised by objects do not need to be answered , or we would all have to go sleep in the open fields .
+5
+#5 raise VERB raise%2:32:01::,raise%2:37:08::
+#9 not ADV not%4:02:00::
+#22 sleep VERB sleep%2:29:00::
+#25 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#26 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+And in any case , answers may clarify but they do not change anything .
+3
+#7 clarify VERB clarify%2:32:00::
+#11 not ADV not%4:02:00::
+#12 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::

@@ -1,0 +1,238 @@
+ Pope Leo 13 , , on the 13 th day of December 1898 , granted the following indulgences : " An indulgence of three hundred days is granted to all the Faithful who read the Holy Gospels at least a quarter of an hour .
+2
+#14 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#27 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+A Plenary Indulgence under the usual conditions is granted once a month for the daily reading " .
+1
+#8 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+Pope Pius the Sixth , at Rome , in april , 1778 , wrote the following :
+1
+#13 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+" The faithful should be excited to the reading of the Holy Scriptures : For these are the most abundant sources which ought to be left open to everyone , to draw from them purity of morals and of doctrine , to eradicate errors which are so widely disseminated in these corrupt times " .
+2
+#5 excite VERB excite%2:39:00::
+#31 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+The American Bishops assembled at the Third Plenary Council of Baltimore urged the Catholic people to read the Holy Bible .
+1
+#3 assemble VERB assemble%2:41:03::
+" We hope " , they said , " that no family can be found amongst us without a correct version of the Holy Scriptures " .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+They recommended , also , that " at a fixed hour , let the entire family be assembled for night prayers , followed by a short reading of the Holy Scriptures " .
+3
+#1 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#17 assemble VERB assemble%2:41:03::
+#22 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Since the Catholic Church expresses such desire that the Sacred Scriptures be read , the following taken from the Holy Bible ( New Catholic Edition ) will prove a means of grace and a source of great spiritual blessing .
+3
+#4 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#16 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#27 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+Do not wonder that I said to thee , " You must be born again " .
+2
+#2 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+But as the One who called you is holy , be you also holy in all your behavior ; for it is written , You shall be holy , because I am holy .
+2
+#5 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#22 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+Holiness without which no man will see God .
+1
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+As it is written , There is not one just man ; there is none who understands ; there is none who seeks after God .
+2
+#3 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#16 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+All have gone astray together .
+1
+#2 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+All have sinned and have need of the glory of God .
+2
+#2 sin VERB sin%2:41:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Therefore as through one man sin entered into the world and through sin death , and thus death has passed unto all men because all have sinned .
+2
+#6 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#26 sin VERB sin%2:41:00::
+In their case , the god of this world [ Satan ] has blinded their unbelieving minds , that they should not see the light of the gospel of the glory of Christ , who is the image of God .
+2
+#13 blind VERB blind%2:39:01::
+#22 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Of his own will he has begotten us by the word of truth .
+1
+#6 beget VERB beget%2:29:00::
+Amen , amen , I say to thee , unless a man be born again of water [ symbol of the Word of God , see Ephesians 5 : 26 ] and the Spirit , he cannot enter into the kingdom of God .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+Everyone who believes that Jesus is the Christ is born of God .
+1
+#2 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+Whoever is born of God does not commit sin [ That is , he does not practice sin .
+2
+#7 commit VERB commit%2:41:00::
+#16 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+We know that no one who is born of God commits sin .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 commit VERB commit%2:41:00::
+[ The new nature , received at the time of regeneration , is divine and holy , and as the believer lives under the power of this new nature he does not practice sin . ]
+3
+#5 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#21 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#32 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+If you know that he [ God ] is just [ righteous ] , know that everyone also who does what is just [ righteous ] has been born of him .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Everyone who loves is born of God , and knows God .
+1
+#9 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+We know that we have passed from death to life , because we love the brethren .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+He who does not love abides in death .
+1
+#5 abide VERB abide%2:42:01::
+But grow in grace and knowledge of our Lord and Savior , Jesus Christ .
+1
+#1 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+I am convinced of this , that he who has begun a good work in you will bring it to perfection until the day of Christ Jesus .
+1
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Now to him who is able to preserve you without sin and to set you before the presence of his glory , without blemish , in gladness , to the only God our Savior , through Jesus Christ our Lord , belong glory and majesty , dominion and authority , before all time , and now , and forever .
+2
+#13 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#41 belong VERB belong%2:40:00::,belong%2:42:02::
+Jesus answered and said to him [ Nicodemus ] " Amen , amen , I say to thee , unless a man be born again , he cannot see the kingdom of God " .
+4
+#1 answer VERB answer%2:31:00::,answer%2:32:00::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" Amen , amen , I say to thee , unless a man be born again of water and the Spirit , he cannot enter into the kingdom of God .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+Do not wonder that I said to thee , ' You must be born again " ' .
+2
+#2 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+If then any man is in Christ , he is a new creature [ literally , " He is a new creation " ] , the former things have passed away ; behold , they are made new !
+1
+#36 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+For by grace you have been saved through faith ; and that not from yourselves , for it is the gift of God ; not as the outcome of works , lest anyone may boast .
+2
+#6 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#34 boast VERB boast%2:32:00::
+I came that they may have life .
+2
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He who has the Son has the life .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He who has not the Son has not the life .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He who believes in the Son [ Jesus Christ , the Son of God ] , has everlasting life .
+1
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Through which he has granted us the very great and precious promises , so that through them you may become partaker of the divine nature .
+2
+#4 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#19 become VERB become%2:30:00::,become%2:42:01::
+It is now no longer I that live , but Christ lives in me .
+2
+#7 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#11 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+And the life that I now live in the flesh , I live in the faith of the Son of God , who loved me and gave himself up for me .
+2
+#6 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#12 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+To have Christ dwelling through faith in your hearts .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 dwell VERB dwell%2:42:00::
+The wind blows where it will , and thou hearest its sound but dost not know where it comes from or where it goes .
+3
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#23 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Amen , amen , I say to you , he who hears my word , and believes him who sent me , has life everlasting , and does not come to judgment , but has passed from death to life .
+5
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#29 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#35 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+But to as many as received him he gave the power of becoming sons of God ; to those who believe in his name : Who were born not of blood , nor of the will of the flesh , nor of the will of man , but of God .
+1
+#12 become VERB become%2:30:00::,become%2:42:01::
+You may be very religious , a good church member , an upright , honest and sincere person ; you may be baptized , confirmed , reverent and worshipful ; you may attend mass , do penance , say prayers and zealously keep all the sacraments and ceremonies of the church ; you may have the final and extreme unction but if you are not born again you are lost and headed for hell and eternal punishment .
+5
+#32 attend VERB attend%2:42:00::
+#38 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#42 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#54 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#71 head VERB head%2:38:00::,head%2:38:01::
+You cannot be saved ; you cannot go to heaven unless you are born again .
+1
+#3 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+Our blessed Lord Jesus Christ , the sinless Son of God , who could not lie , said , " Amen , amen , I say to thee , unless a man be born again , he cannot see the kingdom of God " ( St. John 3 : 3 ) .
+4
+#15 lie VERB lie%2:32:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#38 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Being convinced that salvation is alone by accepting Christ as Saviour , and being convicted by the Holy Spirit of my lost condition , I do repent of all effort to be saved by any form of good works , and just now receive Jesus as my personal Saviour and salvation as a free gift from Him .
+1
+#32 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+You may do as you please with God now .
+1
+#5 please VERB please%2:37:01::
+God placed Himself in men 's hands when He sent Jesus Christ into the world as perfect God and perfect Man in one Being .
+1
+#1 place VERB place%2:31:13::
+Men spit on Him .
+1
+#1 spit VERB spit%2:32:00::
+God allowed it .
+1
+#1 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+They called Him a devil .
+1
+#1 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Finally men arrested Him , gave Him a mock trial , flogged Him , nailed Him on a cross and hung Him between earth and heaven ; and God allowed it .
+4
+#2 arrest VERB arrest%2:35:00::
+#11 flog VERB flog%2:35:00::
+#14 nail VERB nail%2:35:00::
+#29 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+The eternal Christ may knock at your soul 's door , calling you to give up sin and prepare for heaven .
+3
+#4 knock VERB knock%2:39:00::
+#11 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#18 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+You may refuse Him , spit on Him , call Him a devil , curse Him .
+2
+#5 spit VERB spit%2:32:00::
+#9 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+On the other hand , you may seek His favor , humble yourself before Him and beg His mercy , implore His forgiveness , forsake your sins , and abandon your whole life to Him .
+1
+#16 beg VERB beg%2:40:00::
+He has said , " Behold , I stand at the door , and knock : if any man hear my voice , and open the door , I will come in to him , and will sup with him , and he with me " ( Revelation 3 : 20 ) .
+4
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#14 knock VERB knock%2:39:00::
+#37 sup VERB sup%2:34:02::
+God has already set the day when you will be in His hands .
+1
+#3 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+Then it will be a " fearful thing to fall into the hands of the living God " if you have abused Him in your hands .
+1
+#21 abuse VERB abuse%2:41:00::

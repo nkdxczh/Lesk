@@ -1,0 +1,578 @@
+ If the Cardinals heed Manager Gene Mauch of the Phillies , they won't be misled by the Pirates ' slower start this season .
+1
+#20 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+" Pittsburgh definitely is the team to beat " , Mauch said here the other day .
+5
+#7 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#14 other ADJ other%3:00:00::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+" The Pirates showed they could outclass the field last year .
+2
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#9 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+They have the same men , no age problem , no injuries and they also have Vinegar Bend Mizell for the full season , along with Bobby Shantz " .
+7
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 same ADJ same%3:00:00::,same%3:00:02::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#8 problem NOUN problem%1:09:00::,problem%1:26:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+Tonight at 8 o'clock the Cardinals , who gave the Pirates as much trouble as anyone did in 1960 , breaking even with them , will get their first 1961 shot at baseball 's world champions .
+6
+#13 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#26 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#28 first ADJ first%3:00:00::,first%4:02:00::
+#30 shot NOUN shot%1:04:06::,shot%1:04:08::,shot%1:26:00::
+#34 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#35 champion NOUN champion%1:18:01::
+The Pirates have a 9 - 6 record this year and the Redbirds are 7 - 9 .
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+Solly Hemus announced a switch in his starting pitcher , from Bob Gibson to Ernie Broglio , for several reasons :
+2
+#4 switch NOUN switch%1:04:00::
+#19 reason NOUN reason%1:09:01::,reason%1:16:00::
+Broglio 's 4 - 0 won-lost record and 1.24 earned-run mark against Pittsburgh a year ago ; 2 .
+1
+#14 year NOUN year%1:28:00::,year%1:28:01::
+The desire to give Broglio as many starts as possible ; 3 .
+2
+#3 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#7 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+Manager Hemus , eager to end a pitching slump that has brought four losses in the five games on the current home stand , moved Gibson to the Wednesday night starting assignment .
+5
+#7 pitch NOUN pitch%1:04:03::
+#17 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#24 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#29 night NOUN night%1:28:00::
+#31 assignment NOUN assignment%1:04:03::
+After Thursday 's open date , Solly plans to open with Larry Jackson against the Cubs here Friday night .
+5
+#3 open ADJ open%3:00:00::,open%5:00:00:susceptible:00,open%5:00:00:unconstricted:00,open%5:00:00:unrestricted:00,open%5:00:00:unsettled:02
+#4 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#7 plan VERB plan%2:31:00::,plan%2:31:01::
+#16 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#18 night NOUN night%1:28:00::
+Harvey Haddix , set back by the flu this season , will start against his former Cardinal mates , who might be playing without captain Kenny Boyer in tonight 's game at Busch Stadium .
+3
+#15 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#22 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#30 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+Boyer is suffering from a stiff neck .
+2
+#2 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#6 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+Haddix has a 13 - 8 record against the Redbirds , despite only a 1 - 3 mark in 1960 .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Pirate Manager Danny Murtaugh said he had n't decided between Mizell and Vern Law for Wednesday 's game .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+Mizell has won both of his starts .
+2
+#2 win VERB win%2:33:00::
+#6 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+After a lengthy workout yesterday , an open date , Hemus said that Bob Nieman definitely would stay in the lineup .
+5
+#7 open ADJ open%3:00:00::,open%5:00:00:susceptible:00,open%5:00:00:unconstricted:00,open%5:00:00:unrestricted:00,open%5:00:00:unsettled:02
+#8 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 stay VERB stay%2:42:02::
+#20 lineup NOUN lineup%1:10:00::
+That means Stan Musial probably will ride the bench on the seventh anniversary of his record five home run day against the Giants .
+2
+#1 mean VERB mean%2:31:05::,mean%2:42:00::
+#19 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+" I have to stay with Nieman for a while " , Hemus said .
+1
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Bill White ( sore ankles ) should be ready .
+1
+#9 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+With a lefthander going for Pittsburgh , I may use Don Taussig in center " .
+2
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+" Lindy McDaniel threw batting practice about 25 minutes , and he looked good " , Hemus said .
+6
+#3 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#4 bat VERB bat%2:35:01::
+#5 practice NOUN practice%1:04:02::
+#8 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#12 look VERB look%2:39:01::,look%2:42:02::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Our pitching is much better than it has shown " .
+3
+#1 pitch NOUN pitch%1:04:03::
+#4 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#8 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+The statistics hardly indicated that the Pirates needed extra batting practice , but Murtaugh also turned his men loose at Busch Stadium yesterday .
+6
+#2 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#7 need VERB need%2:42:00::
+#9 bat VERB bat%2:35:01::
+#10 practice NOUN practice%1:04:02::
+#17 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#18 loose ADJ loose%5:00:00:unofficial:00
+Until the Bucs ' bats quieted down a bit in Cincinnati over the weekend , the champions had eight men hitting over .300 .
+5
+#4 bat NOUN bat%1:06:02::
+#16 champion NOUN champion%1:18:01::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#20 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+Despite the recession , Pittsburgh came into town with this imposing list of averages : Smoky Burgess .455 , Gino Cimoli .389 , Bill Virdon .340 , Bob Clemente and Dick Groat , each .323 , Dick Stuart .306 , Don Hoak .280 and Bob Skinner .267 .
+4
+#2 recession NOUN recession%1:26:00::
+#5 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#11 list NOUN list%1:10:00::
+#13 average NOUN average%1:09:01::
+Perhaps the Pirate who will be the unhappiest over the news that Musial probably will sit out most of the series is Bob Friend , who was beaten by The Man twice last season on dramatic home runs .
+4
+#20 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#27 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#32 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#35 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+Friend is off to a great start with a 4 - 0 record but is n't likely to see action here this week .
+6
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#6 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#12 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#20 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+" We 're getting Friend some runs for a change , and he has been pitching good " , Murtaugh said .
+5
+#3 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 run NOUN run%1:04:01::
+#9 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#15 pitch VERB pitch%2:35:13::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Virdon has been blasting the ball .
+2
+#4 blast VERB blast%2:35:00::
+#6 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+The Pirates jumped off to an 11 - 3 start by May 1 last year , when the Redbirds as well as the Dodgers held them even over the season .
+4
+#9 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#13 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#14 year NOUN year%1:28:00::,year%1:28:01::
+#26 even ADJ even%5:00:01:equal:00
+On last May 1 , the Cardinals stood at 7 - 6 , ending a two season fall-off on that milestone .
+3
+#1 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#7 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#20 milestone NOUN milestone%1:11:00::
+A year later they were 4 - 13 .
+2
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+Since 1949 , the St. Louis club has been below .500 on May 1 just four times .
+3
+#6 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#14 just ADV just%4:02:00::,just%4:02:03::
+#16 time NOUN time%1:11:00::
+The '49 team was off to a so-so 5 - 5 beginning , then fell as low as 12 - 17 on May 23 before finishing with 96 victories .
+4
+#13 then ADV then%4:02:00::
+#14 fall VERB fall%2:30:06::,fall%2:30:08::,fall%2:38:00::
+#16 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#25 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+The '52 Cards were 6 - 7 on May 1 but ended with 88 triumphs , the club 's top since 1949 .
+3
+#14 triumph NOUN triumph%1:12:00::
+#17 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#19 top NOUN top%1:07:02::,top%1:26:00::
+Then last season the Birds tumbled as low as 11 - 18 on May 19 before recovering to make a race of it and total 86 victories .
+7
+#0 then ADV then%4:02:00::
+#1 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#5 tumble VERB tumble%2:30:00::
+#7 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 race NOUN race%1:06:00::
+#24 total VERB total%2:32:00::,total%2:42:00::
+Since 1949 , the only National League club that got off to a hot start and made a runaway of the race was the '55 Dodger team .
+4
+#7 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#13 hot ADJ hot%3:00:02::,hot%5:00:00:sexy:00,hot%5:00:00:skilled:00
+#14 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#21 race NOUN race%1:06:00::
+Those Dodgers won their first 10 games and owned a 21 - 2 mark and a nine game lead by May 8 .
+5
+#2 win VERB win%2:33:00::
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#6 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#8 own VERB owned%3:00:00::
+#17 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+The club that overcame the worst start in a comparable period to win the pennant was New York 's '51 Giants , who dropped 11 of their first 13 .
+8
+#1 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#5 worst ADJ worst%3:00:00::
+#6 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#10 period NOUN period%1:28:00::,period%1:28:03::
+#12 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+#14 pennant NOUN pennant%1:10:00::
+#23 drop VERB drop%2:33:00::,drop%2:40:00::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+They honored the battling Billikens last night .
+3
+#1 honor VERB honor%2:41:01::
+#5 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#6 night NOUN night%1:28:00::
+Speakers at a Tipoff Club dinner dealt lavish praise to a group of St. Louis University players who , in the words of Coach John Benington , " had more confidence in themselves than I did " .
+5
+#0 speaker NOUN speaker%1:18:00::
+#6 deal VERB deal%2:40:01::,deal%2:40:02::
+#16 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#21 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The most valuable player award was split three ways , among Glen Mankowski , Gordon Hartweger and Tom Kieffer .
+1
+#6 split VERB split%2:41:03::
+In addition , a special award was given to Bob ( Bevo ) Nordmann , the 6 - foot - 10 center who missed much of the season because of a knee injury .
+4
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#18 foot NOUN foot%1:23:00::
+#21 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#23 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+" You often hear people talk about team spirit and that sort of thing " , Benington said in a conversation after the ceremonies , " but what this team had was a little different .
+7
+#4 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#11 sort NOUN sort%1:09:00::,sort%1:18:00::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 ceremony NOUN ceremony%1:11:00::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#34 different ADJ different%5:00:00:unusual:00
+The boys had a tremendous respect for each other 's ability .
+4
+#1 boy NOUN boy%1:18:00::,boy%1:18:01::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 respect NOUN respect%1:04:03::,respect%1:07:00::,respect%1:09:01::,respect%1:26:00::
+#10 ability NOUN ability%1:07:00::
+They knew what they could do and it was often a little more than I thought they could do .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Several times I found the players pepping me up , where it usually is the coach who is supposed to deliver the fight talk .
+3
+#2 time NOUN time%1:11:00::
+#6 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#16 coach NOUN coach%1:18:00::,coach%1:18:01::
+We 'd be losing at halftime to a good team and Hartweger would say , ' Do n't worry , Coach - we 'll get 'em all right " ' .
+5
+#3 lose VERB lose%2:30:03::,lose%2:33:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 worry VERB worry%2:37:00::,worry%2:37:01::
+#20 coach NOUN coach%1:18:00::,coach%1:18:01::
+#24 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+The trio who shared the most-valuable honors were introduced by Bob Broeg , sports editor of the Post-Dispatch .
+1
+#6 honor NOUN honor%1:07:00::
+Kieffer , the only junior in the group , was commended for his ability to hit in the clutch , as well as his all-round excellent play .
+5
+#4 junior NOUN junior%1:18:00::
+#10 commend VERB commend%2:32:00::
+#15 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#25 excellent ADJ excellent%5:00:00:superior:02
+#26 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+Mankowski , the ball-hawking defensive expert , was cited for his performance against Bradley in St. Louis U. 's nationally televised victory .
+2
+#4 defensive ADJ defensive%3:00:00::
+#8 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+Benington said , " I 've never seen a player have a game as great as Mankowski did against Bradley that day " .
+8
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 never ADV never%4:02:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#10 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#12 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#14 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#21 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Benington recalled that he once told Hartweger that he doubted Gordon would ever play much for him because he seemed to be lacking in all of the accepted basketball skills .
+6
+#1 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#4 once ADV once%4:02:00::
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#9 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#12 ever ADV ever%4:02:05::
+#13 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+After the coach listed all the boy 's faults , Hartweger said , " Coach before I leave here , you 'll get to like me " .
+9
+#2 coach NOUN coach%1:18:00::,coach%1:18:01::
+#3 list VERB list%2:32:00::,list%2:41:00::
+#6 boy NOUN boy%1:18:00::,boy%1:18:01::
+#8 fault NOUN fault%1:04:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 coach NOUN coach%1:18:00::,coach%1:18:01::
+#18 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#22 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#24 like VERB like%2:37:05::
+Mrs. Benington admired Gordon 's spirit and did what she could to persuade her husband that the boy might help the team .
+3
+#5 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#17 boy NOUN boy%1:18:00::,boy%1:18:01::
+#19 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+As Hartweger accepted his silver bowl , he said , " I want to thank coach 's wife for talking him into letting me play " .
+7
+#2 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#5 bowl NOUN bowl%1:06:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#15 coach NOUN coach%1:18:00::,coach%1:18:01::
+#22 let VERB let%2:30:01::,let%2:41:00::
+#24 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+Bob Burnes , sports editor of the Globe-Democrat , presented Bob Nordmann with his award .
+1
+#9 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+Bevo was congratulated for his efforts to stay in shape so that he could help the team if his knee healed in time .
+3
+#7 stay VERB stay%2:42:02::
+#9 shape NOUN shape%1:03:00::,shape%1:08:00::,shape%1:09:01::
+#14 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Within a week after the injury , suffered in St. Louis 's victory in the final game of the Kentucky tournament , Nordmann was sitting on the Bill 's bench doing what he could to help Benington .
+6
+#7 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#16 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#20 tournament NOUN tournament%1:11:00::
+#24 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#29 bench NOUN bench%1:06:02::
+#35 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+On the clock given him was the inscription , " For Outstanding Contribution to Billiken Basketball , 1960 - 61 " .
+3
+#2 clock NOUN clock%1:06:00::
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#11 outstanding ADJ outstanding%5:00:00:superior:02
+Other lettermen from the team that compiled a 21 - 9 record and finished as runner-up in the National Invitation Tournament were : Art Hambric , Donnell Reid , Bill Nordmann , Dave Harris , Dave Luechtefeld and George Latinovich .
+4
+#0 other ADJ other%5:00:02:past:00
+#6 compile VERB compile%2:40:00::
+#11 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+#13 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+" This team set a precedent that could be valuable in the future " , Benington pointed out .
+2
+#3 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#12 future NOUN future%1:10:00::,future%1:28:00::
+" By winning against Bradley , Kentucky and Notre Dame on those teams ' home courts , they showed that the home court advantage can be overcome anywhere and that it doesn 's take a super team to do it " .
+5
+#2 win VERB win%2:33:00::
+#15 court NOUN court%1:06:00::,court%1:06:01::
+#22 court NOUN court%1:06:00::,court%1:06:01::
+#33 take VERB take%2:40:06::,take%2:42:03::
+#35 super ADJ super%5:00:00:superior:02
+St. Louis University found a way to win a baseball game .
+3
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#5 way NOUN way%1:04:00::,way%1:09:00::
+#7 win VERB win%2:33:00::
+Larry Scherer last night pitched a no-hit game , said to be the first in Billiken baseball history , as the Blue and White beat Southeast Missouri State College , 5 - 1 , at Crystal City .
+6
+#2 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#3 night NOUN night%1:28:00::
+#4 pitch VERB pitch%2:35:13::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 history NOUN history%1:28:02::
+#24 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+The victory was the first of the season for the Billikens after nine defeats and a tie .
+1
+#16 tie NOUN tie%1:11:00::
+The tie was against Southeast Missouri last Friday .
+2
+#1 tie NOUN tie%1:11:00::
+#6 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Scherer also had a big night at bat with four hits in five trips including a double , Len Boehmer also was 4 - for - 5 with two doubles and Dave Ritchie had a home run and a triple .
+9
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#5 night NOUN night%1:28:00::
+#7 bat NOUN bat%1:06:02::
+#10 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#14 include VERB include%2:31:00::,include%2:41:03::
+#16 double NOUN double%1:09:00::
+#29 double NOUN double%1:09:00::
+#33 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#39 triple NOUN triple%1:04:00::
+St. Louis U. was to be in action again today with a game scheduled at 4 against Washington University at Ligget Field .
+2
+#7 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#12 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+The game opened a busy week for Washington .
+2
+#1 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#2 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+The Bears are set to play at Harris Teachers College at 3:30 tomorrow and have a doubleheader at Quincy , Ill. , Saturday .
+3
+#5 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#14 have VERB have%2:42:08::
+#16 doubleheader NOUN doubleheader%1:04:00::
+If it 's true that contented cows give more milk , why should n't happy ball players produce more base hits ?
+5
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#14 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#15 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#16 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#17 produce VERB produce%2:39:00::
+The two top talents of the time , Mickey Mantle and Willie Mays , have hit the ball harder and more successfully so far this early season than at any period in careers which , to be frank about it , never have quite reached expectations .
+10
+#3 talent NOUN talent%1:09:00::,talent%1:18:00::
+#6 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#15 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#17 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#18 hard ADJ hard%3:00:06::
+#25 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#30 period NOUN period%1:28:00::,period%1:28:03::
+#41 never ADV never%4:02:00::
+#43 quite ADV quite%4:02:02::
+#44 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+And that 's meant as a boost , not a knock .
+2
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#10 knock NOUN knock%1:11:00::
+Mays and Mantle , both 10 - year men at 30 , have so much ability that , baseball men agree , they 've never hit the heights .
+10
+#7 year NOUN year%1:28:00::,year%1:28:01::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#15 ability NOUN ability%1:07:00::
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#20 agree VERB agree%2:32:00::,agree%2:32:01::
+#24 never ADV never%4:02:00::
+#25 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#27 height NOUN height%1:07:00::,height%1:26:00::
+Their heights , that is .
+1
+#1 height NOUN height%1:07:00::,height%1:26:00::
+Mantle , the bull-necked blond switch-hitter , had one sensational triple-crown season , 1959 , when he batted .365 and also led the American League in home runs , 52 , and RBIs , 130 .
+3
+#7 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#17 bat VERB bat%2:35:01::
+#21 lead VERB lead%2:36:00::,lead%2:38:00::,lead%2:42:01::
+Like the Yankees ' slugger , Mays , the terror of the Giants , has had seasons that would be considered the ultimate by most players , but not by - or for - Willie .
+3
+#9 terror NOUN terror%1:04:00::
+#15 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#25 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+His best years were 1954 when he hit .345 with 41 homers and '55 when he belted 51 home runs , drove in 127 and stole 24 bases .
+7
+#1 good ADJ best%3:00:00::,good%3:00:01::
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#7 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#11 homer NOUN homer%1:04:00::
+#16 belt VERB belt%2:35:01::
+#25 steal VERB steal%2:33:00::,steal%2:40:00::
+#27 base NOUN base%1:06:02::
+Now , apparently happier under new managers , Mays and Mantle , the perfect players , are behaving as though they 're going to pass those previous peaks .
+8
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#5 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#13 perfect ADJ perfect%3:00:00::
+#14 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#17 behave VERB behave%2:41:00::,behave%2:41:01::
+#24 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#26 previous ADJ previous%5:00:00:preceding:00
+Yes , we know , they 're professionals , men paid to play , and they should n't care how they 're handled , just as long as their names are spelled correctly on the first and fifteenth of each month .
+8
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#18 care VERB care%2:37:00::,care%2:37:12::
+#22 handle VERB handle%2:41:00::,handle%2:41:03::
+#24 just ADV just%4:02:00::,just%4:02:03::
+#29 name NOUN name%1:14:00::
+#31 spell VERB spell%2:36:00::
+The truth is , though , that men react differently to different treatment .
+1
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+For that matter , Stan Musial is rare , possessing the disposition that enabled him to put out the same for seven managers , reserving his opinions , but not his effort .
+5
+#7 rare ADJ rare%5:00:00:scarce:00
+#9 possess VERB possess%2:40:00::,possess%2:42:00::
+#11 disposition NOUN disposition%1:09:01::
+#13 enable VERB enable%2:30:00::,enabling%3:00:00::
+#19 same ADJ same%3:00:00::,same%3:00:02::
+The old man was almost too possessive .
+2
+#5 too ADV too%4:02:00::
+#6 possessive ADJ possessive%5:00:00:dominant:01
+Stengel inherited DiMaggio , Rizzuto , but he brought up Mantle from Class C to the majors , from Joplin to New York .
+2
+#12 class NOUN class%1:14:00::,class%1:14:02::
+#16 major NOUN majors%1:14:00::
+With the speed and power of the body beautiful he saw before him , Ol ' Case wanted No. 7 to be not only the best homerun hitter , but also the best bunter , base-runner and outfielder .
+4
+#4 power NOUN power%1:07:00::,power%1:07:02::
+#17 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#25 good ADJ best%3:00:00::,good%3:00:01::
+#32 good ADJ best%3:00:00::,good%3:00:01::
+Stengel probably preached too much in the early days when the kid wanted to pop his bubble gum and sow his oats .
+5
+#7 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#8 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#11 kid NOUN kid%1:18:00::
+#12 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#14 pop VERB pop%2:39:06::
+Inheriting a more mature Mantle , who now has seen the sights on and off Broadway , Ralph Houk quietly bestowed , no pun intended , the mantle of authority on Mickey .
+7
+#2 more ADV more%4:02:00::
+#3 mature ADJ mature%5:00:00:developed:00
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 sight NOUN sight%1:04:00::,sight%1:10:00::
+#24 intend VERB intend%2:31:01::,intend%2:32:00::
+#27 mantle NOUN mantle%1:17:00::
+The Major decided that , rather than be led , the slugger could lead .
+2
+#8 lead VERB lead%2:36:00::,lead%2:38:00::,lead%2:42:01::
+#13 lead VERB lead%2:36:00::,lead%2:38:00::,lead%2:42:01::
+And what leadership a proud Mantle has given so far .
+1
+#4 proud ADJ proud%3:00:00::
+The opinion continues here that with a 162 - game schedule , pitching spread thin through a 10 - team league and a most inviting target in Los Angeles ' Wrigley Field Jr. , Mantle just might break the most glamorous record on the books , Babe Ruth 's 60 homers of 1927 .
+15
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#10 schedule NOUN schedule%1:09:00::
+#12 pitch NOUN pitch%1:04:03::
+#13 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#14 thin ADJ thin%3:00:02::,thin%5:00:00:distributed:00
+#20 league NOUN league%1:14:01::
+#23 most ADV most%4:02:00::
+#25 target NOUN target%1:06:00::
+#35 just ADV just%4:02:00::,just%4:02:03::
+#37 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#39 most ADV most%4:02:00::
+#41 record NOUN record%1:04:00::,record%1:23:00::
+#50 homer NOUN homer%1:04:00::
+Mays ' day came a day earlier for Willie than for the kids and Commies this year .
+5
+#2 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 kid NOUN kid%1:18:00::
+#16 year NOUN year%1:28:00::,year%1:28:01::
+Willie 's wonderful walloping Sunday - four home runs - served merely to emphasize how happy he is to be playing for Alvin Dark .
+3
+#10 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#15 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#20 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+Next to Leo Durocher , Dark taught Mays the most when he was a grass green rookie rushed up to the Polo Grounds 10 years ago this month , to help the Giants win a dramatic pennant .
+7
+#0 next ADJ next%5:00:00:close:01
+#15 green ADJ green%3:00:00::,green%5:00:00:naive:00
+#17 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+#24 year NOUN year%1:28:00::,year%1:28:01::
+#30 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#33 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+#35 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00

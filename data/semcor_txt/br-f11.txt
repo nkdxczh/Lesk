@@ -1,0 +1,273 @@
+His grades had gone steadily downhill , and he had stopped bringing friends and classmates home from school .
+1
+#10 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+When Richard 's parents told him they wanted to take him to an orthodontist - a dentist who specializes in realigning teeth and jaws - their young son was interested .
+3
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#9 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+During the year that followed , Dick co-operated whole-heartedly with the dentist and was delighted with the final result achieved - an upper row of strong straight teeth that completely changed his facial appearance .
+2
+#4 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#30 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+" The majority of children in the United States could benefit by some form of orthodontic treatment " , says Dr. Allan G. Brodie , professor and head of the department of orthodontics at the University of Illinois and a nationally recognized authority in his field .
+1
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+What do parents need to know about those " years of the braces " in order not to waste a child 's time and their money ?
+2
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 waste VERB waste%2:34:05::,waste%2:40:00::
+How can they tell whether a child needs orthodontic treatment ?
+2
+#3 tell VERB tell%2:31:00::,tell%2:31:01::
+#7 need VERB need%2:42:00::
+What is it likely to cost ?
+1
+#5 cost VERB cost%2:42:00::,cost%2:42:01::
+Occlusion is the dentist 's expression for the way teeth fit together when the jaws are closed .
+1
+#10 fit VERB fit%2:30:02::,fit%2:40:00::
+One main type of malocclusion is characterized by a receding chin and protruding upper front teeth .
+1
+#6 characterize VERB characterise%2:32:00::
+A chin too prominent in relation to the rest of the face , a thrusting forward of the lower front teeth , an overdeveloped lower jawbone , and an underdeveloped upper jaw indicate the opposite type of malocclusion .
+1
+#32 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+Front teeth not meeting when the back teeth close .
+2
+#3 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#8 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+Upper teeth completely covering the lowers when the back teeth close .
+2
+#3 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#10 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+The eyeteeth ( third from the middle on top , counting each front tooth as the first ) beginning to protrude like fangs .
+1
+#18 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Second teeth that have come in before the first ones have fallen out , making a double row .
+1
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Contrary to the thinking of 30 to 40 years ago , when all malocclusion was blamed on some unfortunate habit , recent studies show that most tooth irregularity has at least its beginning in hereditary predisposition .
+1
+#23 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+However , this does not mean that a child 's teeth or jaws must necessarily resemble those of someone in his family .
+1
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+It 's perfectly normal for babies to suck their thumbs , and no mother need worry if a child continues this habit until he is two or three years old .
+3
+#7 suck VERB suck%2:34:04::
+#15 worry VERB worry%2:37:00::,worry%2:37:01::
+#19 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Malocclusion can also result if baby teeth are lost too soon or retained too long .
+1
+#8 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+If a child loses a molar at the age of two , the adjoining teeth may shift toward the empty space , thus narrowing the place intended for the permanent ones and producing a jumble .
+3
+#3 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#23 narrow VERB narrow%2:30:00::
+#32 produce VERB produce%2:39:00::
+If baby teeth are retained too long , the incoming second teeth may be prevented from emerging at the normal time or may have to erupt in the wrong place .
+1
+#14 prevent VERB prevent%2:41:00::
+Every orthodontist sees children who are embarrassed by their malformed teeth .
+1
+#2 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+Some such youngsters rarely smile , or they try to speak with the mouth closed .
+2
+#8 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+Bad alignment may result in early loss of teeth through a breakdown of the bony structure that supports their roots .
+1
+#17 support VERB support%2:31:04::,support%2:40:00::
+Then , too , misplaced or jammed-together teeth are prone to trapping food particles , increasing the likelihood of rapid decay .
+1
+#11 trap VERB trap%2:35:00::
+" For these and other reasons " , says Dr. Brodie , " orthodontics can prolong the life of teeth " .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The failure of teeth to fit together when closed interferes with normal chewing , so that a child may swallow food whole and put a burden on his digestive system .
+3
+#5 fit VERB fit%2:30:02::,fit%2:40:00::
+#9 interfere VERB interfere%2:41:00::
+#23 put VERB put%2:31:13::,put%2:34:00::
+Because of these chewing troubles , a child may avoid certain foods he needs for adequate nutrition .
+2
+#9 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#13 need VERB need%2:42:00::
+" Most orthodontic work is done on children between the ages of 10 and 14 , though there have been patients as young as two and as old as 55 " , says Dr. Brodie .
+1
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In the period from 10 to 14 the permanent set of teeth is usually completed , yet the continuing growth of bony tissue makes moving badly placed teeth comparatively easy .
+1
+#23 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Orthodontic work is possible because teeth are held firmly but not rigidly , by a system of peridontal membrane with an involved nerve network , to the bone in the jaw ; they are not anchored directly to the bone .
+1
+#35 anchor VERB anchor%2:35:00::
+Abnormal pressure , applied over a period of time , produces a change in the bony deposit , so a tooth functions normally in the new position into which it has been guided .
+1
+#32 guide VERB guide%2:38:00::,guide%2:38:01::
+What can 10 - year-old Susan expect when she enters the orthodontist 's office ?
+1
+#9 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+On her first visit the orthodontist will take X-rays , photographs , tooth measurements , and " tooth prints " - an impression of the mouth that permits him to study her teeth and jaws .
+2
+#7 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#30 study VERB study%2:31:00::
+This appliance will exert a gentle and continuous or intermittent pressure on the bone .
+1
+#3 exert VERB exert%2:34:00::
+As the tooth moves , bone cells on the pressure side of it will dissolve , and new ones will form on the side from which the tooth has moved .
+4
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 dissolve VERB dissolve%2:30:07::
+#20 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#29 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+This must be done at the rate at which new bony tissue grows , and no faster .
+1
+#12 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+" If teeth are moved too rapidly , serious injury can be done to their roots as well as to the surrounding bone holding them in place " , explains Dr. Brodie .
+2
+#4 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#23 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+" Moving one or two teeth can affect the whole system , and an ill-conceived plan of treatment can disrupt the growth pattern of a child 's face " .
+1
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+During the first few days of wearing the appliance and immediately following each adjustment , Susan may have a slight discomfort or soreness , but after a short time this will disappear .
+2
+#6 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#31 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+Parents are often concerned that orthodontic appliances may cause teeth to decay .
+1
+#3 concern VERB concern%2:42:01::
+Next Susie will enter the treatment stage and visit the orthodontist once or twice a month , depending on the severity of her condition .
+2
+#3 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#8 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+During these visits the dentist will adjust the braces to increase the pressure on her teeth .
+1
+#6 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+Susie 's teeth have now been guided into a desirable new position .
+1
+#6 guide VERB guide%2:38:00::,guide%2:38:01::
+But because teeth sometimes may drift back to their original position , a retaining appliance is used to lock them in place .
+3
+#5 drift VERB drift%2:38:01::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 lock VERB lock%2:35:00::,lock%2:35:02::,lock%2:35:03::
+Usually this is a thin band of wire attached to the molars and stretching across the teeth .
+1
+#8 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+Susie may wear this only at night or for a few hours during the day .
+1
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+Then comes the time when the last wire is removed and Susie walks out a healthier and more attractive girl than when she first went to the orthodontist .
+3
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#12 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#24 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+How long will this take ?
+1
+#4 take VERB take%2:40:06::,take%2:42:03::
+Straightening one tooth that has come in wrong may take only a few months .
+1
+#9 take VERB take%2:40:06::,take%2:42:03::
+Aligning all the teeth may take a year or more .
+2
+#0 align VERB align%2:30:00::
+#5 take VERB take%2:40:06::,take%2:42:03::
+An added complication such as a malformed jaw may take two or three years to correct .
+1
+#9 take VERB take%2:40:06::,take%2:42:03::
+Work that might cost $ 500 to $ 750 in the South could cost $ 750 to $ 1200 in New York City or Chicago .
+2
+#3 cost VERB cost%2:42:00::,cost%2:42:01::
+#13 cost VERB cost%2:42:00::,cost%2:42:01::
+" Factors in the cost of treatment are the length of time involved and the skill and education of the practitioner " , says Dr. Brodie .
+1
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+To become an orthodontist , a man must first be licensed by his state as a dentist , then he must spend at least two years in additional training to acquire a license as a specialist .
+1
+#1 become VERB become%2:30:00::,become%2:42:01::
+" Costs may seem high , but they used to be even higher " , says Dr. Brodie .
+1
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Most orthodontists require an initial payment to cover the cost of diagnostic materials and construction of the appliances , but usually the remainder of the cost may be spread over a period of months or years .
+2
+#7 cover VERB cover%2:32:00::,cover%2:41:01::
+#28 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+In many cities in the United States clinics associated with dental schools will take patients at a nominal fee .
+1
+#13 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+Some municipal agencies will pay for orthodontic treatment for children of needy parents .
+1
+#4 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Dr. Brodie has 30 - year records of head growth , started 20 minutes after children 's births .
+1
+#11 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+" In the past anyone who said that 90 % of all malocclusion is hereditary was scoffed at ; now we know that family characteristics do affect tooth formation to a large extent " , he says .
+4
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 scoff VERB scoff%2:32:01::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#36 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Fortunately through our growth studies we have been able to see what nature does , and that helps us know what we can do " .
+2
+#18 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#20 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+This knowledge both modifies and dictates diagnosis and treatment .
+1
+#5 dictate VERB dictate%2:32:00::
+In the past an orthodontist might have tried , over four or five years , to straighten and fit the boy 's large teeth into a jaw that , despite some growth , would never accommodate them .
+3
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#18 fit VERB fit%2:30:02::,fit%2:40:00::
+#35 accommodate VERB accommodate%2:42:01::
+Now a dentist can recommend extraction immediately .
+1
+#4 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+In other cases , in view of present-day knowledge of head growth , orthodontists will recommend waiting four or five years before treatment .
+2
+#15 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#16 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+The child is kept on call , and the orthodontist watches the growth .
+2
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#10 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+" Nature often takes care IN the problem " , says Dr. Brodie .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+That is why Dr. Brodie asks parents not to insist , against their dentist 's advice , that their child have orthodontic work done too early .
+1
+#5 ask VERB ask%2:32:01::,ask%2:32:05::
+" Both because of our culture 's stress on beauty and our improved economic conditions , some parents demand that the dentist try to correct a problem before it is wise to do so .
+1
+#22 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Plastics are easier to handle than the vulcanized rubber formerly used , and they save time and money .
+3
+#4 handle VERB handle%2:41:00::,handle%2:41:03::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+Plaster of Paris , once utilized in making impressions of teeth , has been replaced by alginates ( gelatin-like material ) that work quickly and accurately and with least discomfort to a child .
+2
+#14 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#22 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+" Then see that your youngster has a routine checkup once a year " .
+2
+#2 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+To help prevent orthodontic problems from arising , your dentist can do these things :
+3
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#2 prevent VERB prevent%2:41:00::
+#6 arise VERB arise%2:30:00::,arise%2:42:01::
+He can correct decay , thus preventing early loss of teeth .
+1
+#6 prevent VERB prevent%2:41:00::
+If a child does lose his first teeth prematurely because of decay - and if no preventive steps are taken - the other teeth may shift out of position , become overcrowded and malformed .
+3
+#4 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#19 take VERB take%2:31:02::,take%2:34:00::
+#30 become VERB become%2:30:00::,become%2:42:01::
+In turn the other teeth are likely to decay because food particles may become impacted in them .
+1
+#13 become VERB become%2:30:00::,become%2:42:01::

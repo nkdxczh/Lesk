@@ -1,0 +1,635 @@
+ A proton magnetic resonance study of polycrystalline **f as a function of magnetic field and temperature is presented .
+3
+#4 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#10 function NOUN function%1:24:00::
+#17 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+**f is paramagnetic , and electron paramagnetic dipole as well as nuclear dipole effects lead to line broadening .
+4
+#11 nuclear ADJ nuclear%3:00:00::
+#13 effect NOUN effect%1:09:00::,effect%1:19:00::
+#14 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#16 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+The lines are asymmetric and over the range of field **f gauss and temperature **f the asymmetry increases with increasing **f and decreasing T .
+3
+#1 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#7 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#9 field NOUN field%1:14:00::,field%1:19:00::
+An isotropic resonance shift of **f to lower applied fields indicates a weak isotropic hyperfine contact interaction .
+5
+#3 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#9 field NOUN field%1:14:00::,field%1:19:00::
+#10 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 weak ADJ weak%5:00:00:diluted:00
+#15 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+The general theory of resonance shifts is used to derive a general expression for the second moment **f of a polycrystalline paramagnetic sample and is specialized to **f .
+6
+#1 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#4 resonance NOUN resonance%1:19:00::
+#5 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#11 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#12 expression NOUN expression%1:10:02::,expression%1:10:03::
+The theory predicts a linear dependence of **f on **f , where |j is the experimentally determined Curie-Weiss constant .
+2
+#4 linear ADJ linear%3:00:01::
+#16 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+The experimental second moment **f conforms to the relation **f in agreement with theory .
+1
+#8 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+Hence , the electron paramagnetic effects ( slope ) can be separated from the nuclear effects ( intercept ) .
+6
+#0 hence ADV hence%4:02:00::
+#5 effect NOUN effect%1:09:00::,effect%1:19:00::
+#7 slope NOUN slope%1:07:00::
+#11 separate VERB separate%2:31:01::,separate%2:35:02::,separate%2:41:01::
+#14 nuclear ADJ nuclear%3:00:00::
+#15 effect NOUN effect%1:09:00::,effect%1:19:00::
+The paramagnetic dipole effects provide some information on the particle shapes .
+5
+#3 effect NOUN effect%1:09:00::,effect%1:19:00::
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 information NOUN information%1:10:00::,information%1:14:00::
+#9 particle NOUN particle%1:17:00::,particle%1:27:01::
+#10 shape NOUN shape%1:07:00::,shape%1:07:01::
+The nuclear dipole effects provide some information on the motions of the hydrogen nuclei , but the symmetry of the **f bond in **f remains in doubt .
+6
+#1 nuclear ADJ nuclear%3:00:00::
+#3 effect NOUN effect%1:09:00::,effect%1:19:00::
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 information NOUN information%1:10:00::,information%1:14:00::
+#9 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+#21 bond NOUN bond%1:19:00::
+The magnetic moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic resonance properties of nuclei .
+2
+#5 unpaired ADJ unpaired%5:00:00:mismatched:00
+#18 property NOUN property%1:07:00::,property%1:09:00::
+It is important to consider and experimentally verify this influence since quantitative nuclear resonance is becoming increasingly used in investigations of structure .
+2
+#15 become VERB become%2:30:00::,become%2:42:01::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+**f appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the hydrogen in the strong **f bond provides structural interest .
+10
+#1 appear VERB appear%2:30:00::
+#11 matter NOUN matter%1:09:00::,matter%1:09:01::
+#17 normal ADJ normal%3:00:01::,normal%3:00:03::
+#22 unpaired ADJ unpaired%5:00:00:mismatched:00
+#29 crystal NOUN crystal%1:17:00::
+#38 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#44 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+#46 bond NOUN bond%1:19:00::
+#47 provide VERB provide%2:34:00::,provide%2:40:00::
+#49 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+We first discuss the **f bond in **f .
+1
+#5 bond NOUN bond%1:19:00::
+We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment .
+3
+#1 then ADV then%4:02:00::
+#2 outline VERB outline%2:32:00::
+#20 excellent ADJ excellent%5:00:00:superior:02
+Indeed it is possible to separate electron paramagnetic from nuclear effects .
+4
+#0 indeed ADV indeed%4:02:03::
+#5 separate VERB separate%2:31:01::,separate%2:35:02::,separate%2:41:01::
+#9 nuclear ADJ nuclear%3:00:00::
+#10 effect NOUN effect%1:09:00::,effect%1:19:00::
+The information provided by the electron paramagnetic effects is then discussed , and finally the nuclear effects are interpreted in terms of various motional modified models of the **f bond in **f .
+8
+#1 information NOUN information%1:10:00::,information%1:14:00::
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 effect NOUN effect%1:09:00::,effect%1:19:00::
+#9 then ADV then%4:02:00::
+#15 nuclear ADJ nuclear%3:00:00::
+#16 effect NOUN effect%1:09:00::,effect%1:19:00::
+#18 interpret VERB interpret%2:31:00::,interpret%2:32:00::,interpret%2:32:01::,interpret%2:36:00::
+#29 bond NOUN bond%1:19:00::
+Theoretical studies of the hydrogen bond generally agree that the **f bond will be linear in the absence of peculiarities of packing in the solid .
+5
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#6 generally ADV generally%4:02:02::
+#11 bond NOUN bond%1:19:00::
+#14 linear ADJ linear%3:00:01::
+#21 packing NOUN packing%1:27:00::
+Moreover , it will be asymmetric until a certain critical **f distance is reached , below which it will become symmetric .
+3
+#11 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#13 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#19 become VERB become%2:30:00::,become%2:42:01::
+There is ample evidence from many sources that the **f bond in **f is symmetric .
+1
+#10 bond NOUN bond%1:19:00::
+The **f distance in **f is 2.26 A .
+2
+#2 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#7 A NOUN a%1:10:00::
+There is evidence , though less convincing than for **f , that the **f bond in nickel dimethylglyoxime is symmetric .
+3
+#5 less ADV less%4:02:00::,less%4:02:01::
+#14 bond NOUN bond%1:19:00::
+#16 nickel NOUN ni%1:27:00::
+Here the **f distance is 2.44 A .
+3
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#3 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#6 A NOUN a%1:10:00::
+A number of semiempirical estimates by various workers lead to the conclusion that the **f bond becomes symmetric when the **f bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric **f bonds .
+14
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#7 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#8 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#11 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#15 bond NOUN bond%1:19:00::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#21 bond NOUN bond%1:19:00::
+#22 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#24 about ADV about%4:02:00::
+#28 A NOUN a%1:10:00::
+#35 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#37 nickel NOUN ni%1:27:00::
+#44 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#48 bond NOUN bond%1:19:00::
+Douglass has studied the crystal structure of **f by x-ray diffraction .
+2
+#2 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#4 crystal NOUN crystal%1:17:00::
+He finds the structure contains an **f bond with the **f distance of **f .
+3
+#4 contain VERB contain%2:42:00::,contain%2:42:06::
+#7 bond NOUN bond%1:19:00::
+#11 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+There is , then , the possibility that this **f bond is symmetric , although Douglass was unable to determine its symmetry from his x-ray data .
+4
+#3 then ADV then%4:02:02::
+#10 bond NOUN bond%1:19:00::
+#19 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#25 data NOUN data%1:14:00::,datum%1:09:00::
+Douglass found **f to be trigonal , Laue symmetry **f , with **f , **f .
+1
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+X-ray and experimental density showed one formula unit in the unit cell , corresponding to a paramagnetic ion density of **f .
+3
+#4 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 formula NOUN formula%1:10:03::
+#13 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+The x-ray data did not permit Douglass to determine uniquely the space group , but a negative test for piezoelectricity led him to assume a center of symmetry .
+6
+#2 data NOUN data%1:14:00::,datum%1:09:00::
+#8 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#16 negative ADJ negative%3:00:01::,negative%3:00:02::,negative%3:00:04::
+#17 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#20 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#23 assume VERB assume%2:31:00::
+Under this assumption the space group must be **f and the following are the positions of the atoms in the unit cell .
+3
+#2 assumption NOUN assumption%1:09:00::
+#11 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#14 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+Douglass found powder intensity calculations and measurements to agree best for **f .
+3
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#3 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#8 agree VERB agree%2:40:02::,agree%2:42:01::,agree%2:42:03::
+These data lead to a structure in which sheets of Cr atoms lie between two sheets of O atoms .
+6
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#8 sheet NOUN sheet%1:17:00::
+#12 lie VERB lie%2:42:03::
+#15 sheet NOUN sheet%1:17:00::
+#17 O X o%1:27:00::
+The O atoms in each sheet are close packed and each Cr atom is surrounded by a distorted octahedron of O atoms .
+4
+#1 O X o%1:27:00::
+#5 sheet NOUN sheet%1:17:00::
+#17 distorted ADJ distorted%5:00:00:unshapely:00
+#20 O X o%1:27:00::
+The **f layers are stacked normal to the [ 111 ] axis with the lower oxygens of one layer directly above the upper oxygens of the neighboring lower layer , in such a manner that the repeat is every three layers .
+8
+#2 layer NOUN layer%1:06:00::
+#4 stack VERB stack%2:35:00::
+#18 layer NOUN layer%1:06:00::
+#19 directly ADV directly%4:02:05::
+#22 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#28 layer NOUN layer%1:06:00::
+#33 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#40 layer NOUN layer%1:06:00::
+The separate layers are joined together by hydrogen bonds .
+2
+#2 layer NOUN layer%1:06:00::
+#5 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+A drawing of the structure is to be found in reference 6 .
+2
+#1 drawing NOUN drawing%1:04:01::
+#10 reference NOUN reference%1:10:02::,reference%1:10:03::,reference%1:10:07::
+The gross details of the structure appear reasonable .
+4
+#1 gross ADJ gross%5:00:00:fat:01
+#2 detail NOUN detail%1:10:00::,detail%1:24:00::
+#6 appear VERB appear%2:30:00::
+#7 reasonable ADJ reasonable%5:00:00:moderate:00
+The structure appears to be unique among ROOH compounds , but is the same as that assumed by **f .
+3
+#2 appear VERB appear%2:30:00::
+#8 compound NOUN compound%1:09:00::
+#13 same ADJ same%3:00:00::,same%3:00:02::
+The bond angles and distances are all within the expected limits and the volume per oxygen is about normal .
+7
+#1 bond NOUN bond%1:19:00::
+#2 angle NOUN angle%1:25:00::
+#4 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#10 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#13 volume NOUN volume%1:07:03::,volume%1:23:00::
+#17 about ADV about%4:02:00::
+#18 normal ADJ normal%3:00:01::,normal%3:00:03::
+However , the possible absence of a center of symmetry not only moves the hydrogen atom off **f , but also allows the oxygen atoms to become nonequivalent , with **f at **f and **f at **f ( space group **f ) , where **f represents the oxygens on one side of the **f layers and **f those on the other side .
+6
+#0 however ADV however%4:02:04::
+#12 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#21 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#26 become VERB become%2:30:00::,become%2:42:01::
+#54 layer NOUN layer%1:06:00::
+#60 other ADJ other%3:00:00::
+However , any oxygen nonequivalence would shorten either the already extremely short **f interlayer distance of 2.55 A or the non hydrogen bonded **f interlayer interactions which are already quite short at 2.58 A .
+7
+#0 however ADV however%4:02:04::
+#9 already ADV already%4:02:00::
+#11 short ADJ short%3:00:01::
+#14 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#28 already ADV already%4:02:00::
+#30 short ADJ short%3:00:01::
+#33 A NOUN a%1:10:00::
+Hence it is difficult to conceive of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence .
+3
+#0 hence ADV hence%4:02:00::
+#8 packing NOUN packing%1:27:00::
+#14 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+The only effect of lack of a center would then be to release the hydrogen atoms to occupy general , rather than special , positions along the [ 111 ] axis .
+7
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#9 then ADV then%4:02:02::
+#12 release VERB release%2:35:00::,release%2:41:00::
+#17 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#18 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#24 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#30 axis NOUN axis%1:09:00::
+If the **f bond is linear then there are three reasonable positions for the hydrogen atoms : ( 1 ) The hydrogen atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ( 2 ) all hydrogen atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ( 3 ) hydrogen atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms .
+21
+#3 bond NOUN bond%1:19:00::
+#5 linear ADJ linear%3:00:01::
+#6 then ADV then%4:02:02::
+#10 reasonable ADJ reasonable%5:00:00:moderate:00
+#11 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#24 centered ADJ centered%5:00:00:central:01
+#26 hence ADV hence%4:02:00::
+#28 lie VERB lie%2:42:03::
+#31 sheet NOUN sheet%1:17:00::
+#36 sheet NOUN sheet%1:17:00::
+#44 lie VERB lie%2:42:03::
+#47 sheet NOUN sheet%1:17:00::
+#51 sheet NOUN sheet%1:17:00::
+#53 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#57 sheet NOUN sheet%1:17:00::
+#61 other ADJ other%3:00:00::
+#70 place VERB place%2:31:13::
+#78 way NOUN way%1:04:00::,way%1:09:00::
+#86 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#89 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#95 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+Position ( 2 ) appears to us to be unlikely in view of the absence of a piezoelectric effect and on general chemical structural grounds .
+4
+#0 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#4 appear VERB appear%2:30:00::
+#21 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#24 ground NOUN ground%1:16:00::
+A randomization of " ups " and " downs " is more likely than ordered " ups " and " downs " in position ( 3 ) since the hydrogen atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered " up " and " down " implies a larger unit cell , for which no evidence exists .
+8
+#11 more ADV more%4:02:00::
+#23 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#37 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#41 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#42 affect VERB affect%2:30:00::,affect%2:42:00::
+#44 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#61 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#69 exist VERB exist%2:42:00::
+Therefore , the only unknown structural feature would appear to be whether the hydrogen atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) .
+2
+#6 feature NOUN feature%1:08:00::,feature%1:09:01::
+#8 appear VERB appear%2:30:00::
+Douglass prepared his sample of **f by thermal decomposition of aqueous chromic acid at 300 - 325 ` C .
+2
+#1 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#18 Celsius NOUN celsius_scale%1:24:00::
+Dr. Douglass was kind enough to lend us about 5 grams of his material .
+4
+#4 enough ADV enough%4:02:00::
+#6 lend VERB lend%2:40:00::
+#10 gram NOUN g%1:23:00::
+#13 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+This material proved to be unsatisfactory , since we could not obtain reproducible results on various portions of the sample .
+3
+#1 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#2 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#11 obtain VERB obtain%2:40:00::
+Subsequently , we learned from Douglass that his sample contained a few percent **f impurity .
+2
+#3 learn VERB learn%2:31:01::,learn%2:31:03::
+#9 contain VERB contain%2:42:00::,contain%2:42:06::
+Since **f is ferromagnetic , we felt that any results obtained from the magnetically contaminated **f would be suspect .
+2
+#6 feel VERB feel%2:31:00::,feel%2:39:00::
+#10 obtain VERB obtain%2:40:00::
+Plane suggested another preparation of **f which we used here .
+2
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+500 ml of 1 M aqueous **f with 1 g **f added are heated in a bomb at 170 ` C for 48 hours .
+5
+#4 M abbreviation m%1:07:00::
+#9 gram NOUN g%1:23:00::
+#16 bomb NOUN bomb%1:06:00::
+#20 Celsius NOUN celsius_scale%1:24:00::
+#23 hour NOUN hour%1:07:00::,hours%1:28:01::
+A very fine , gray solid ( about 15 g ) is formed , water-washed by centrifugation , and dried at 110 ` C .
+6
+#2 fine ADJ fine%3:00:00::,fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:thin:01
+#4 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#7 about ADV about%4:02:00::
+#9 gram NOUN g%1:23:00::
+#19 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#23 Celsius NOUN celsius_scale%1:24:00::
+Differential thermal analysis showed a very small endothermic reaction at 340 ` C and a large endothermic reaction at 470 ` C .
+3
+#12 Celsius NOUN celsius_scale%1:24:00::
+#15 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#21 Celsius NOUN celsius_scale%1:24:00::
+This latter reaction is in accord with the reported decomposition of **f .
+1
+#1 latter ADJ latter%3:00:00::
+Thermogravimetric analysis showed a weight loss of 1.8 % centered at 337 ` C and another weight loss of 10.8 % at 463 ` C .
+5
+#4 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#9 centered ADJ centered%5:00:00:central:01
+#13 Celsius NOUN celsius_scale%1:24:00::
+#16 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#24 Celsius NOUN celsius_scale%1:24:00::
+The expected weight loss for **f going to **f and **f is 10.6 % .
+1
+#2 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+Mass spectrometric analysis of gases evolved upon heating to 410 ` C indicated nitrogen oxides and water vapor .
+2
+#4 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#11 Celsius NOUN celsius_scale%1:24:00::
+The small reaction occurring at 337 ` C is probably caused by decomposition of occluded nitrates , and perhaps by a small amount of some hydrous material other than **f .
+2
+#7 Celsius NOUN celsius_scale%1:24:00::
+#26 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+All subsequent measurements were made on material which had been heated to 375 ` C for one hour .
+4
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#14 Celsius NOUN celsius_scale%1:24:00::
+#17 hour NOUN hour%1:07:00::,hours%1:28:01::
+Emission spectra indicated **f calcium and all other impurities much lower .
+1
+#7 other ADJ other%3:00:00::
+Chromium analysis gave 58.8 % Cr as compared with 61.2 % theory .
+2
+#2 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#7 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+However , **f adsorbs water from the atmosphere and this may account for the low chromium analysis and high total weight loss .
+6
+#0 however ADV however%4:02:04::
+#4 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#7 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#14 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#18 high ADJ high%3:00:02::
+#20 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+The x-ray diffraction pattern of the material , taken with CuKla radiation , indicated the presence of no extra lines and was in good agreement with the pattern of Douglass .
+6
+#3 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#6 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#8 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#11 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#19 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#27 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+Magnetic analyses by R. G. Meisenheimer of this laboratory indicated no ferromagnetic impurities .
+2
+#0 magnetic ADJ magnetic%3:00:00::
+#9 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+**f was found to be paramagnetic with three unpaired electron per chromium atom and a molecular susceptibility of **f , where **f .
+3
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 unpaired ADJ unpaired%5:00:00:mismatched:00
+#16 susceptibility NOUN susceptibility%1:26:00::
+For exactly three unpaired electrons the coefficient would be 3.10 .
+1
+#3 unpaired ADJ unpaired%5:00:00:mismatched:00
+An infrared spectrum , obtained by H. A. Benesi and R. G. Snyder of this laboratory , showed bands in the positions found by Jones .
+5
+#4 obtain VERB obtain%2:40:00::
+#17 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#18 band NOUN band%1:07:00::
+#21 position NOUN position%1:15:00::,position%1:15:02::,position%1:15:03::
+#22 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+Electron microscopic examination of the **f sample showed it to be composed of nearly isotropic particles about 0.3 lm in diameter .
+4
+#2 examination NOUN examination%1:09:03::
+#13 nearly ADV nearly%4:02:00::
+#15 particle NOUN particle%1:17:00::,particle%1:27:01::
+#20 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+The particles appeared rough and undoubtedly the single crystal domains are smaller than this .
+4
+#1 particle NOUN particle%1:17:00::,particle%1:27:01::
+#3 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#7 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#8 crystal NOUN crystal%1:17:00::
+The x-ray data are consistent with particle sizes of 1000 A or greater .
+4
+#2 data NOUN data%1:14:00::,datum%1:09:00::
+#6 particle NOUN particle%1:17:00::,particle%1:27:01::
+#7 size NOUN size%1:07:00::,size%1:07:02::
+#12 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+We found no obvious effects due to preferred orientation of the crystallites in this sample nor would we expect to on the basis of the shape found from electron microscopic examination .
+5
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#4 effect NOUN effect%1:09:00::,effect%1:19:00::
+#25 shape NOUN shape%1:07:00::,shape%1:07:01::
+#26 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#30 examination NOUN examination%1:09:03::
+The magnetic resonance absorption was detected by employing a Varian model **f broad line spectrometer and the associated 12 - inch electromagnet system .
+6
+#3 absorption NOUN absorption%1:22:03::
+#7 employ VERB employ%2:34:00::
+#13 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#17 associated ADJ associate%5:00:00:subordinate:01
+#20 inch NOUN inch%1:23:02::
+#22 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+One measurement at 40 Mc / sec was obtained with the Varian model **f unit .
+3
+#6 sec NOUN sec%1:28:00::
+#8 obtain VERB obtain%2:40:00::
+#14 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+A bridged-T type of bridge was used in the 10 - 16 Mc / sec range .
+5
+#2 type NOUN type%1:18:00::
+#4 bridge NOUN bridge%1:06:05::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 sec NOUN sec%1:28:00::
+#15 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The rf power level was maintained small enough at all times to prevent obvious line shape distortions by saturation effects .
+8
+#2 power NOUN power%1:19:00::
+#3 level NOUN level%1:26:00::,level%1:26:01::
+#5 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#7 enough ADV enough%4:02:00::
+#12 prevent VERB prevent%2:41:00::
+#14 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#15 shape NOUN shape%1:07:00::,shape%1:07:01::
+#19 effect NOUN effect%1:09:00::,effect%1:19:00::
+A modulation frequency of 40 cps with an amplitude as small as possible , commensurate with reasonably good signal-to-noise quality , was used .
+4
+#2 frequency NOUN frequency%1:24:00::
+#8 amplitude NOUN amplitude%1:11:00::
+#19 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Background spectra were obtained in all cases .
+4
+#0 background NOUN background%1:06:00::,background%1:09:00::,background%1:11:00::,background%1:11:01::
+#1 spectrum NOUN spectrum%1:19:00::
+#3 obtain VERB obtain%2:40:00::
+#6 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The spectrometer was adjusted to minimize the amount of dispersion mode mixed in with the absorption signal .
+4
+#3 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#10 mode NOUN mode%1:07:00::
+#15 absorption NOUN absorption%1:22:03::
+#16 signal NOUN signal%1:19:00::
+A single value of the thermal relaxation time **f at room temperature was measured by the progressive saturation method .
+4
+#1 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#2 value NOUN value%1:09:00::
+#13 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#16 progressive ADJ progressive%5:00:00:increasing:00
+The value of **f estimated at 470 gauss was **f microseconds .
+1
+#1 value NOUN value%1:09:00::
+A single measurement of the spin spin relaxation time **f was obtained at 10 Mc / sec by pulse methods .
+3
+#1 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#11 obtain VERB obtain%2:40:00::
+#16 sec NOUN sec%1:28:00::
+This measurement was obtained by W. Blumberg of the University of California,Berkeley , by observing the breadth of the free induction decay signal .
+3
+#3 obtain VERB obtain%2:40:00::
+#14 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#22 signal NOUN signal%1:19:00::
+The value derived was 16 microseconds .
+1
+#1 value NOUN value%1:09:00::
+Field shifts were derived from the mean value of the resonance line , defined as the field about which the first moment is zero .
+7
+#1 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#6 mean ADJ mean%5:00:00:normal:01
+#7 value NOUN value%1:09:00::
+#10 resonance NOUN resonance%1:19:00::
+#11 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#13 define VERB define%2:32:00::,defined%3:00:00::
+#16 field NOUN field%1:14:00::,field%1:19:00::
+Second moments of the spectra were computed by numerical integration .
+2
+#4 spectrum NOUN spectrum%1:19:00::
+#9 integration NOUN integration%1:04:03::
+Corrections were applied for modulation broadening , apparatus background , and field shift .
+4
+#2 apply VERB apply%2:34:00::
+#8 background NOUN background%1:06:00::,background%1:09:00::,background%1:11:00::,background%1:11:01::
+#11 field NOUN field%1:14:00::,field%1:19:00::
+#12 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+Spectra were obtained over the temperature range of 77 - 294 ` K .
+4
+#0 spectrum NOUN spectrum%1:19:00::
+#2 obtain VERB obtain%2:40:00::
+#6 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#12 K abbreviation k%1:23:01::
+For the low-temperature measurements the sample was cooled by a cold nitrogen gas flow method similar to that of Andrew and Eades .
+2
+#10 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#12 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+The temperature was maintained to within about **f for the period of time required to make the measurement ( usually about one hour ) .
+3
+#3 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#20 about ADV about%4:02:00::
+#22 hour NOUN hour%1:07:00::,hours%1:28:01::
+One sample , which had been exposed to the atmosphere after evacuation at 375 ` C , showed the presence of adsorbed water ( about 0.3 wt % ) as evidenced by a weak resonance line which was very narrow at room temperature and which disappeared , due to broadening , at low temperature .
+9
+#9 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#11 evacuation NOUN evacuation%1:22:00::
+#15 Celsius NOUN celsius_scale%1:24:00::
+#22 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#33 weak ADJ weak%5:00:00:diluted:00
+#34 resonance NOUN resonance%1:19:00::
+#35 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#39 narrow ADJ narrow%3:00:00::
+#45 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+The data reported here are either from spectra from which the adsorbed water resonance could easily be eliminated or from spectra of samples evacuated and sealed off at 375 ` C which contain no adsorbed water .
+12
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 spectrum NOUN spectrum%1:19:00::
+#12 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#13 resonance NOUN resonance%1:19:00::
+#15 easily ADV easily%4:02:01::,easily%4:02:06::
+#20 spectrum NOUN spectrum%1:19:00::
+#23 evacuate VERB evacuate%2:29:00::
+#30 Celsius NOUN celsius_scale%1:24:00::
+#32 contain VERB contain%2:42:00::,contain%2:42:06::
+#35 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+The measured powder density of the **f used here was about **f , approximately one-third that of the crystal density ( **f ) .
+4
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 about ADV about%4:02:00::
+#18 crystal NOUN crystal%1:17:00::
+Such a density corresponds to a paramagnetic ion density of about **f .
+1
+#3 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+Spectra were obtained from a powdered sample having the shape of a right circular cylinder with a height to diameter ratio of 4 : 1 .
+7
+#0 spectrum NOUN spectrum%1:19:00::
+#2 obtain VERB obtain%2:40:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 shape NOUN shape%1:07:00::,shape%1:07:01::
+#13 circular ADJ circular%3:00:00::
+#17 height NOUN height%1:07:00::,height%1:07:02::
+#19 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+The top of the sample was nearly flat and the bottom hemispherical .
+4
+#1 top NOUN top%1:15:00::,top%1:15:01::
+#6 nearly ADV nearly%4:02:00::
+#7 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#10 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+Spectra were also obtained from a sample in a spherical container which was made by blowing a bubble on the end of a capillary glass tube .
+6
+#0 spectrum NOUN spectrum%1:19:00::
+#3 obtain VERB obtain%2:40:00::
+#17 bubble NOUN bubble%1:17:00::
+#20 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#23 capillary NOUN capillary%1:06:00::
+#25 tube NOUN tube%1:06:00::,tube%1:06:02::
+The bubble was filled to the top and special precautions were taken to prevent any sample from remaining in the capillary .
+4
+#1 bubble NOUN bubble%1:17:00::
+#6 top NOUN top%1:15:00::,top%1:15:01::
+#13 prevent VERB prevent%2:41:00::
+#20 capillary NOUN capillary%1:06:00::
+Spectra were also obtained from a third sample of **f which had been diluted to three times its original volume with powdered , anhydrous alundum ( **f ) .
+4
+#0 spectrum NOUN spectrum%1:19:00::
+#3 obtain VERB obtain%2:40:00::
+#18 original ADJ original%5:00:01:first:00
+#19 volume NOUN volume%1:07:03::,volume%1:23:00::
+This sample was contained in a cylindrical container similar to that described above .
+2
+#3 contain VERB contain%2:42:00::,contain%2:42:06::
+#11 describe VERB describe%2:32:01::

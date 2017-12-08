@@ -1,0 +1,569 @@
+ During the Dorr trial the Democratic press condemned the proceedings and heralded Dorr as a martyr to the principles of the Declaration of Independence .
+5
+#3 trial NOUN trial%1:04:02::
+#5 democratic ADJ democratic%3:01:00::
+#6 press NOUN press%1:10:00::
+#7 condemn VERB condemn%2:32:00::
+#18 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+During the Brown trial , however , the state 's most powerful Democratic newspaper , the Providence Daily Post , stated that Brown was a murderer , a man of blood , and that he and his associates , with the assistance of Republicans and Abolitionists , had plotted not only the liberation of the slaves but also the overthrow of state and federal governments .
+10
+#3 trial NOUN trial%1:04:02::
+#5 however ADV however%4:02:04::
+#8 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 most ADV most%4:02:00::
+#20 state VERB state%2:32:01::,state%2:32:02::
+#30 blood NOUN blood%1:07:00::
+#37 associate NOUN associate%1:18:00::
+#43 republican NOUN republican%1:18:01::
+#48 plot VERB plot%2:31:00::
+#59 overthrow NOUN overthrow%1:04:01::
+The Providence Daily Journal answered the Daily Post by stating that the raid of John Brown was characteristic of Democratic acts of violence and that " He was acting in direct opposition to the Republican Party , who proclaim as one of their cardinal principles that they do not interfere with slavery in the states " .
+10
+#4 answer VERB answer%2:31:00::,answer%2:32:00::
+#9 state VERB state%2:32:01::,state%2:32:02::
+#19 democratic ADJ democratic%3:01:00::
+#20 act NOUN act%1:03:00::
+#28 act VERB act%2:33:00::,act%2:41:00::
+#30 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#44 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+#48 not ADV not%4:02:00::
+#49 interfere VERB interfere%2:41:00::
+#54 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The two major newspapers in Providence continued , throughout the crisis , to accuse each other of misrepresenting the facts and attempting to falsify history .
+4
+#2 major ADJ major%3:00:05::,major%3:00:06::
+#6 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#23 falsify VERB falsify%2:30:00::
+#24 history NOUN history%1:28:00::
+While the Daily Post continued to accuse Republicans and the Daily Journal continued to accuse Democrats , the Woonsocket Patriot complained that the Virginia authorities showed indecent and cowardly haste to condemn Brown and his men .
+8
+#4 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#7 republican NOUN republican%1:18:01::
+#12 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#15 democrat NOUN democrat%1:18:01::
+#23 Virginia NOUN virginia%1:15:00::
+#24 authority NOUN authority%1:18:01::
+#25 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#35 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Editor Foss stated , " Of their guilt there can be no doubt but they are entitled to sufficient time to prepare for trial , and a fair trial " .
+7
+#2 state VERB state%2:32:01::,state%2:32:02::
+#16 entitle VERB entitled%5:00:00:eligible:00
+#19 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#21 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#23 trial NOUN trial%1:04:02::
+#27 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#28 trial NOUN trial%1:04:02::
+The Providence Daily Post thought that there were probably good reasons for the haste in which the trial was being conducted and that the only thing gained by a delay would be calmer feelings .
+7
+#9 good ADJ good%3:00:01::
+#10 reason NOUN reason%1:09:01::,reason%1:16:00::
+#17 trial NOUN trial%1:04:02::
+#20 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#25 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#26 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#32 calm ADJ calm%5:00:00:composed:00
+The Providence Daily Journal stated that although the guilt of Brown was evident , the South must guarantee him a fair trial to preserve domestic peace .
+6
+#4 state VERB state%2:32:01::,state%2:32:02::
+#15 south NOUN south%1:15:01::
+#20 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#21 trial NOUN trial%1:04:02::
+#24 domestic ADJ domestic%3:00:00::
+#25 peace NOUN peace%1:12:00::,peace%1:26:00::
+On October 31 , 1859 , John Brown was found guilty of treason against the state of Virginia , inciting slave rebellion , and murder .
+2
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#17 Virginia NOUN virginia%1:15:00::
+For these crimes he was sentenced to be hanged in public on Friday , December 2 , 1859 .
+1
+#8 hang VERB hang%2:41:00::
+Upon receiving the news , Northern writers , editors , and clergymen heaped accusations of murder on the Southern states , particularly Virginia .
+6
+#1 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#5 northern ADJ northern%3:00:01::,northern%3:00:02::
+#8 editor NOUN editor%1:18:00::
+#19 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#21 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#22 Virginia NOUN virginia%1:15:00::
+Although Rhode Islanders were preparing for the state elections , they watched John Brown 's trial with extreme interest .
+6
+#4 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#7 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#11 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#15 trial NOUN trial%1:04:02::
+#17 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#18 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+On Wednesday morning , November 2 , 1859 , the Providence Daily Journal stated that although Brown justly deserved the extreme penalty , no man , however criminal , ought to suffer the penalty without a fairer trial .
+10
+#2 morning NOUN morning%1:28:00::,morning%1:28:01::
+#13 state VERB state%2:32:01::,state%2:32:02::
+#20 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#21 penalty NOUN penalty%1:07:01::
+#24 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#26 however ADV however%4:02:00::,however%4:02:02::
+#31 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#33 penalty NOUN penalty%1:07:01::
+#36 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#37 trial NOUN trial%1:04:02::
+The editor 's main criticism of the trial was the haste with which it was conducted .
+3
+#1 editor NOUN editor%1:18:00::
+#7 trial NOUN trial%1:04:02::
+#15 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+The readers of the Providence Daily Post , however , learned that it was generally conceded that " Old Brown " had a fair trial .
+8
+#1 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#8 however ADV however%4:02:04::
+#10 learn VERB learn%2:31:01::,learn%2:31:03::
+#14 generally ADV generally%4:02:01::
+#15 concede VERB concede%2:32:00::,concede%2:33:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#24 trial NOUN trial%1:04:02::
+Concerning the sentence the editor asked , " What else can Virginia do than to hang the men who have defied her laws , organized treason , and butchered her citizens " .
+9
+#0 concern VERB concern%2:42:00::,concern%2:42:01::
+#2 sentence NOUN sentence%1:04:00::
+#4 editor NOUN editor%1:18:00::
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 Virginia NOUN virginia%1:15:00::
+#15 hang VERB hang%2:41:00::
+#17 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#22 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#24 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+In the eastern section of the state the newspapers ' reaction to Brown 's trial and sentence were basically identical .
+5
+#2 eastern ADJ eastern%5:00:00:east:00
+#6 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#14 trial NOUN trial%1:04:02::
+#16 sentence NOUN sentence%1:04:00::
+#19 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+J. Wheaton Smith , editor of the Warren Telegraph stated that " the ends of justice must be satisfied , a solitary example must be set , in order that all those misnamed philantropists [ sic ] , who , actuated by a blind zeal , dare to instigate riot , treason , and murder , may heed it and shape their future course accordingly " .
+10
+#4 editor NOUN editor%1:18:00::
+#9 state VERB state%2:32:01::,state%2:32:02::
+#15 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#22 example NOUN example%1:09:00::
+#25 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#40 actuate VERB actuate%2:36:00::
+#43 blind ADJ blind%5:00:00:irrational:00
+#49 riot NOUN riot%1:26:00::
+#63 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#64 accordingly ADV accordingly%4:02:01::
+The editor of the Newport Advertiser could discover no evidence of extenuating circumstances in the Brown trial which would warrant making an exception to the infliction of capital punishment .
+6
+#1 editor NOUN editor%1:18:00::
+#7 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#11 extenuate VERB extenuate%2:32:00::
+#12 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#16 trial NOUN trial%1:04:02::
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+In direct contrast to the other Rhode Island editors , Samuel S. Foss of the Woonsocket Patriot outwardly condemned the trial as being completely unfair .
+3
+#5 other ADJ other%3:00:00::
+#8 editor NOUN editor%1:18:00::
+#20 trial NOUN trial%1:04:02::
+Concerning the sentence , Foss wrote , " If it be possible that mercy shall override vengeance and that John Brown 's sentence shall be commuted to imprisonment , it would be well - well for the country and for Virginia " .
+9
+#0 concern VERB concern%2:42:00::,concern%2:42:01::
+#2 sentence NOUN sentence%1:04:00::
+#13 mercy NOUN mercy%1:04:00::
+#15 override VERB override%2:31:00::
+#22 sentence NOUN sentence%1:04:00::
+#25 commute VERB commute%2:30:01::
+#32 well ADJ well%5:00:00:advisable:00
+#37 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#40 Virginia NOUN virginia%1:15:00::
+Despite the excitement being caused by the trial and sentence of John Brown , Rhode Islanders turned their attention to the state elections .
+4
+#7 trial NOUN trial%1:04:02::
+#9 sentence NOUN sentence%1:04:00::
+#18 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#21 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The state had elected Republican candidates in the past two years .
+2
+#1 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 year NOUN year%1:28:00::,year%1:28:01::
+There was no doubt as to the control the Republican party exercised throughout the state .
+3
+#7 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#11 exercise VERB exercise%2:34:00::
+#14 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+If it failed on occasion to elect its candidates for general state offices by majorities , the failure was due to a lingering remnant of the Know-Nothing party , which called itself the American Republican party .
+7
+#2 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#11 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#12 office NOUN office%1:04:02::,office%1:14:01::,office%1:26:00::
+#14 majority NOUN majority%1:07:00::,majority%1:23:00::
+#17 failure NOUN failure%1:04:00::,failure%1:18:00::
+#27 party NOUN party%1:14:02::
+#30 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+The American Republicans and the Republicans both nominated lieutenant-governor Turner for governor .
+3
+#5 republican NOUN republican%1:18:01::
+#7 nominate VERB nominate%2:32:00::
+#11 governor NOUN governor%1:18:00::
+Elisha R. Potter was the Democratic candidate .
+1
+#5 democratic ADJ democratic%3:01:00::
+The results of the election of 1859 found Republican candidates not only winning the offices of governor and lieutenant-governor but also obtaining the two Congressional offices from the eastern and western sections of the state .
+9
+#12 win VERB win%2:33:00::
+#14 office NOUN office%1:04:02::,office%1:14:01::,office%1:26:00::
+#16 governor NOUN governor%1:18:00::
+#21 obtain VERB obtain%2:40:00::
+#25 office NOUN office%1:06:00::
+#28 eastern ADJ eastern%5:00:00:east:00
+#30 western ADJ western%3:00:02::,western%5:00:01:west:00
+#31 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#34 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+During the month of November hardly a day passed when there was not some mention of John Brown in the Rhode Island newspapers .
+4
+#4 November NOUN november%1:28:00::
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#8 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#12 not ADV not%4:02:00::
+On November 7 , 1859 , the Providence Daily Journal reprinted a letter sent to John Brown from " E. B. " , a Quaker lady in Newport .
+5
+#1 November NOUN november%1:28:00::
+#12 letter NOUN letter%1:10:00::
+#13 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#25 lady NOUN lady%1:18:01::,lady%1:18:02::
+#27 Newport NOUN newport%1:15:01::
+In reference to Brown 's raid she wrote , " though we are non-resistants and religiously believe it better to reform by moral and not by carnal weapons we know thee was anemated [ sic ] by the most generous and philanthropic motives " .
+7
+#16 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#18 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#20 reform VERB reform%2:30:00::
+#24 not ADV not%4:02:00::
+#29 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#38 most ADV most%4:02:00::
+#42 motive NOUN motive%1:03:00::
+" E. B. " compared John Brown to Moses in that they were both acting to deliver millions from oppression .
+3
+#4 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#14 act VERB act%2:33:00::,act%2:41:00::
+#16 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+In contrast to " E. B. " , most Rhode Islanders hardly thought of John Brown as being another Moses .
+1
+#11 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+Most attempts to develop any sympathy for Brown and his actions found an unresponsive audience in Rhode Island .
+3
+#10 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#11 find VERB find%2:38:10::,find%2:39:05::,find%2:40:02::
+#14 audience NOUN audience%1:14:01::
+On Wednesday evening , November 23 , 1859 , in Warren , Rev. Mark Trafton of New Bedford , gave a " Mission of Sympathy " lecture in which he favorably viewed the Harper 's Ferry insurrection .
+3
+#2 evening NOUN evening%1:28:00::,evening%1:28:02::
+#4 November NOUN november%1:28:00::
+#30 favorably ADV favorably%4:02:00::
+The Warren Telegraph stated that many of Rev. Trafton 's remarks were inappropriate and savored strongly of radicalism and fanaticism .
+1
+#3 state VERB state%2:32:01::,state%2:32:02::
+In its account of the Trafton lecture , the Providence Daily Post said that the remarks of Rev. Trafton made the people indignant .
+4
+#2 account NOUN account%1:10:03::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+No sympathy or admiration for Brown could be found in the Providence Daily Post , for the editor claimed that there were a score of men in the state prison who were a thousand times more deserving of sympathy .
+6
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#17 editor NOUN editor%1:18:00::
+#23 score NOUN score%1:14:00::
+#25 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#34 time NOUN time%1:28:00::
+#35 more ADV more%4:02:00::
+The Providence Daily Journal , however , stated that Brown 's courage , bravery , and heroism " in a good cause would make a man a martyr ; it gives something of dignity even to a bad one " .
+6
+#5 however ADV however%4:02:04::
+#7 state VERB state%2:32:01::,state%2:32:02::
+#21 cause NOUN cause%1:04:01::
+#23 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#25 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#37 bad ADJ bad%5:00:00:evil:00
+The Woonsocket Patriot admitted that John Brown might deserve punishment or imprisonment " but he should no more be hung than Henry A. Wise or James Buchanan " .
+2
+#3 admit VERB admit%2:32:00::
+#19 hang VERB hang%2:41:00::
+The Newport Mercury exhibited more concern over the possibility of the abolitionists making a martyr of Brown than it did over the development of sympathy for him .
+4
+#3 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#5 concern NOUN concern%1:09:01::,concern%1:12:01::
+#12 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+In her letter to John Brown , " E. B. " , the Quakeress from Newport , had suggested that the American people owed more honor to John Brown for seeking to free the slaves than they did to George Washington .
+3
+#2 letter NOUN letter%1:10:00::
+#15 Newport NOUN newport%1:15:01::
+#25 honor NOUN honor%1:07:00::
+During the latter days of November to the day of Brown 's execution , it seems that most Rhode Islanders did not concur in " E. B. 's " suggestion .
+5
+#2 latter ADJ latter%3:00:00::
+#5 November NOUN november%1:28:00::
+#12 execution NOUN execution%1:04:00::
+#21 not ADV not%4:02:00::
+#22 concur VERB concur%2:32:00::
+On November 22 , 1859 , the Providence Daily Journal stated that although Brown 's " pluck " and honest fanaticism must be admired , any honor paid to Brown would only induce other fanatics to imitate his actions .
+7
+#1 November NOUN november%1:28:00::
+#10 state VERB state%2:32:01::,state%2:32:02::
+#16 pluck NOUN pluck%1:07:00::
+#26 honor NOUN honor%1:07:00::
+#27 pay VERB pay%2:41:00::
+#32 induce VERB induced%3:00:00::
+#38 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+A week later the Daily Journal had discovered the initial plans of some Providence citizens to hold a meeting honoring John Brown on the day of his execution .
+8
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#7 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#10 plan NOUN plan%1:09:00::
+#16 hold VERB hold%2:36:00::,holding%1:04:00::
+#18 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#19 honor VERB honor%2:41:01::
+#24 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#27 execution NOUN execution%1:04:00::
+The editor of the Daily Journal warned , " that if such a demonstration be made , it will not find support or countenance from any of the men whose names are recognized as having a right to speak for Providence " .
+11
+#1 editor NOUN editor%1:18:00::
+#13 demonstration NOUN demonstration%1:04:01::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 not ADV not%4:02:00::
+#20 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#21 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#23 countenance NOUN countenance%1:10:00::
+#28 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#30 name NOUN name%1:14:00::
+#34 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#36 right NOUN right%1:07:00::,right%1:21:00::
+The Providence Daily Post 's editor wrote that he could not believe that a meeting honoring Brown was to be held in Providence .
+7
+#5 editor NOUN editor%1:18:00::
+#6 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#10 not ADV not%4:02:00::
+#11 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#14 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#15 honor VERB honor%2:41:01::
+#20 hold VERB hold%2:36:00::,holding%1:04:00::
+He further called upon the people of Providence to rebuke the meeting and avoid disgrace .
+4
+#1 further ADV further%4:02:02::,further%4:02:03::
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#11 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#13 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+On December 2 , 1859 , John Brown was hanged at Charles Town , Virginia .
+2
+#9 hang VERB hang%2:41:00::
+#14 Virginia NOUN virginia%1:15:00::
+Extraordinary precautions were taken so that no stranger be allowed in the city and no citizen within the enclosure surrounding the scaffold .
+4
+#3 take VERB take%2:31:02::,take%2:34:00::
+#12 city NOUN city%1:15:00::,city%1:15:01::
+#18 enclosure NOUN enclosure%1:06:00::
+#21 scaffold NOUN scaffold%1:06:01::
+In many Northern towns and cities meetings were held and church bells were tolled .
+5
+#2 northern ADJ northern%5:00:01:north:00,northern%5:00:02:north:00
+#5 city NOUN city%1:15:00::,city%1:15:01::
+#6 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#8 hold VERB hold%2:36:00::,holding%1:04:00::
+#13 toll VERB toll%2:39:00::
+Such was not the case in Rhode Island .
+2
+#2 not ADV not%4:02:00::
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The only public demonstration in honor of John Brown was held at Pratt 's Hall in Providence , on the day of his execution .
+5
+#3 demonstration NOUN demonstration%1:04:01::
+#5 honor NOUN honor%1:07:00::
+#10 hold VERB hold%2:36:00::,holding%1:04:00::
+#20 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#23 execution NOUN execution%1:04:00::
+Despite the opposition of the city newspapers , the Pratt Hall meeting " brought together a very respectable audience , composed in part of those who had been distinguished for years for their radical views upon the subject of slavery , of many of our colored citizens , and of those who were attracted to the place by the novelty of such a gathering " .
+11
+#5 city NOUN city%1:15:00::,city%1:15:01::
+#11 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#18 audience NOUN audience%1:14:01::
+#30 year NOUN year%1:28:01::
+#33 radical ADJ radical%5:00:00:new:00
+#34 view NOUN view%1:09:04::
+#37 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#45 colored ADJ colored%5:00:00:black:02
+#56 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#59 novelty NOUN novelty%1:09:00::
+#63 gathering NOUN gathering%1:04:00::
+Seated on the platform were Amos C. Barstow , ex-mayor of Providence and a wealthy Republican stove manufacturer ; Thomas Davis , an uncompromising Garrisonian ; the Reverend Augustus Woodbury , a Unitarian minister ; the Reverend George T. Day , a Free-Will Baptist ; Daniel w. Vaughan , and William H. H. Clements .
+4
+#3 platform NOUN platform%1:06:01::
+#16 stove NOUN stove%1:06:00::
+#33 minister NOUN minister%1:18:00::
+#43 baptist NOUN baptists%1:14:00::
+The latter two were appointed secretaries .
+2
+#1 latter ADJ latter%3:00:00::
+#4 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+The first speaker was Amos C. Barstow who had been unanimously chosen president of the meeting .
+4
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 speaker NOUN speaker%1:18:00::
+#12 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#15 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+He spoke of his desire to promote the abolition of slavery by peaceable means and he compared John Brown of Harper 's Ferry to the John Brown of Rhode Island 's colonial period .
+6
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#6 promote VERB promote%2:32:00::,promote%2:41:01::
+#13 means NOUN means%1:06:00::
+#16 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#31 colonial ADJ colonial%3:01:00::
+#32 period NOUN period%1:28:00::,period%1:28:03::
+Barstow concluded that as Rhode Island 's John Brown became a canonized hero , if not a saint , so would it be with John Brown of Harper 's Ferry .
+5
+#1 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#9 become VERB become%2:30:00::,become%2:42:01::
+#12 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#15 not ADV not%4:02:00::
+#17 saint NOUN saint%1:18:00::
+The next speaker was George T. Day .
+2
+#1 next ADJ next%5:00:00:close:01
+#2 speaker NOUN speaker%1:18:00::
+Although admitting Brown 's guilt on legal grounds , Day said that , " Brown is no common criminal ; his deed was not below , but above the law " .
+8
+#1 admit VERB admit%2:32:00::
+#6 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#7 ground NOUN ground%1:16:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#21 deed NOUN deed%1:03:00::
+#23 not ADV not%4:02:00::
+#29 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+Following Day was Woodbury who spoke of his disapproval of Brown 's attempt at servile insurrection , his admiration of Brown 's character , and his opposition to slavery .
+2
+#5 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#22 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+Woodbury 's remarks were applauded by a portion of the audience several times and once there was hissing .
+3
+#10 audience NOUN audience%1:14:01::
+#12 time NOUN time%1:11:00::
+#14 once ADV once%4:02:00::
+The fourth and last speaker was Thomas Davis .
+2
+#3 last ADJ last%5:00:00:unlikely:00
+#4 speaker NOUN speaker%1:18:00::
+By this time large numbers of the audience had left the hall .
+3
+#7 audience NOUN audience%1:14:01::
+#9 leave VERB leave%2:38:00::,leave%2:41:00::
+#11 hall NOUN hall%1:06:01::,hall%1:06:02::,hall%1:06:06::
+Davis commenced his remarks by an allusion to the general feeling of opposition which the meeting had encountered from many of the citizens and all the newspapers of the city .
+2
+#15 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#29 city NOUN city%1:15:00::,city%1:15:01::
+He said that the propriety or impropriety of such a gathering was a question that was to be settled by every man in accordance with the convictions of private judgments .
+7
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 gathering NOUN gathering%1:04:00::
+#18 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#21 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#26 conviction NOUN conviction%1:09:00::
+#28 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#29 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+In the remainder of his speech Davis spoke of his admiration for Brown and warned those who took part in the meeting that they " are liable to the charge that they are supporting traitors and upholding men whom the laws have condemned " .
+9
+#2 remainder NOUN remainder%1:24:00::
+#5 speech NOUN speech%1:10:00::,speech%1:10:02::
+#7 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#21 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#26 liable ADJ liable%5:00:00:responsible:00
+#29 charge NOUN charge%1:10:00::,charge%1:10:04::
+#33 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#37 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#40 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+He recalled that in Rhode Island a party opposed to the state 's condemnation of a man ( Thomas W. Dorr ) proclaimed the state 's action as a violation of the law of the land and the principles of human liberty .
+10
+#1 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#8 opposed ADJ opposed%3:00:00::
+#11 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#13 condemnation NOUN condemnation%1:10:00::
+#16 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#24 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#26 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#32 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#35 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+#41 liberty NOUN liberty%1:26:03::
+At the close of Davis ' speech the following preamble and resolutions were read by the president , and on the question of their adoption passed unanimously :
+7
+#2 close NOUN close%1:28:00::
+#6 speech NOUN speech%1:10:00::,speech%1:10:02::
+#8 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#11 resolution NOUN resolution%1:07:00::,resolution%1:10:01::
+#13 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#16 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#25 pass VERB pass%2:41:02::
+Whereas , John Brown has cheerfully risked his life in endeavoring to deliver those who are denied all rights and is this day doomed to suffer death for his efforts in behalf of those who have no helper :
+7
+#8 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#12 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#18 right NOUN right%1:07:00::,right%1:21:00::
+#22 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#25 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#31 behalf NOUN behalf%1:04:00::
+#35 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Resolved that , while we most decidedly disapprove the methods he adopted to accomplish his objects , yet in his willingness to die in aid of the great cause of human freedom , we still recognize the qualities of a noble nature and the exercise of a spirit which true men have always admired and which history never fails to honor .
+16
+#5 most ADV most%4:02:01::
+#15 object NOUN object%1:09:00::,object%1:09:02::,object%1:10:00::
+#22 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#28 cause NOUN cause%1:04:01::
+#37 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#40 noble ADJ noble%3:00:01::
+#41 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#44 exercise NOUN exercise%1:04:03::
+#47 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#49 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#50 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#52 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#56 history NOUN history%1:28:00::
+#57 never ADV never%4:02:00::
+#58 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#60 honor VERB honor%2:41:01::
+Resolved that his wrongs and bereavements in Kansas , occasioned by the violence and brutality of those who were intent on the propagation of slavery in that territory , call for a charitable judgment upon his recent efforts in Virginia to undermine the despotism from which he had suffered , and commend his family to the special sympathy and aid of all who pity suffering and reverence justice .
+10
+#27 territory NOUN territory%1:15:01::
+#32 charitable ADJ charitable%5:00:00:kind:00
+#33 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#36 recent ADJ recent%5:00:00:past:00
+#39 Virginia NOUN virginia%1:15:00::
+#41 undermine VERB undermine%2:41:00::
+#48 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#51 commend VERB commend%2:32:00::
+#53 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#67 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+Resolved that the anti slavery sentiment is becoming ripe for resolute action .
+3
+#5 sentiment NOUN sentiment%1:09:00::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#11 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+Resolved , that we find in this fearful tragedy at Harper 's Ferry a reason for more earnest effort to remove the evil of slavery from the whole land as speedily as possible .
+8
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#7 fearful ADJ fearful%5:00:00:afraid:00
+#8 tragedy NOUN tragedy%1:11:00::
+#14 reason NOUN reason%1:09:01::,reason%1:16:00::
+#16 more ADV more%4:02:00::
+#20 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#27 whole ADJ whole%3:00:00::
+#28 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+On the morning following the Pratt Hall meeting the editor of the Providence Daily Journal wrote that although the meeting was milder and less extreme than those held in other areas for similar purposes , it could have been avoided completely .
+10
+#2 morning NOUN morning%1:28:00::,morning%1:28:01::
+#7 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#9 editor NOUN editor%1:18:00::
+#15 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#19 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#23 less ADV less%4:02:00::,less%4:02:01::
+#24 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#27 hold VERB hold%2:36:00::,holding%1:04:00::
+#30 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#39 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::

@@ -1,0 +1,653 @@
+ Television has yet to work out a living arrangement with jazz , which comes to the medium more as an uneasy guest than as a relaxed member of the family .
+5
+#0 television NOUN television%1:06:00::
+#2 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#26 member NOUN member%1:18:00::,member%1:24:00::
+#29 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+There seems to be an unfortunate assumption that an hour of Chicago style jazz in prime evening time , for example , could not be justified without the trimmings of a portentous documentary .
+7
+#6 assumption NOUN assumption%1:09:00::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#12 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#16 evening NOUN evening%1:28:00::,evening%1:28:02::
+#23 not ADV not%4:02:00::
+#25 justify VERB justify%2:32:00::,justify%2:32:01::
+#28 trimming NOUN trimming%1:06:00::
+At least this seemed to be the working hypothesis for " Chicago and All That Jazz " , presented on NBC - TV Nov. 26 .
+2
+#7 working ADJ working%5:00:00:employed:00
+#18 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+The program came out of the NBC Special Projects department , and was slotted in the Du Pont Show of the Week series .
+2
+#8 project NOUN project%1:04:00::,project%1:09:00::
+#22 series NOUN series%1:10:01::
+Perhaps Special Projects necessarily thinks along documentary lines .
+3
+#2 project NOUN project%1:04:00::,project%1:09:00::
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+If so , it might be worth while to assign a future jazz show to a different department - one with enough confidence in the musical material to cut down on the number of performers and give them a little room to display their talents .
+7
+#1 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+#13 show NOUN show%1:04:00::,show%1:10:00::
+#25 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+#26 material NOUN material%1:06:01::,material%1:10:00::
+#32 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#40 room NOUN room%1:26:00::
+#44 talent NOUN talent%1:09:00::,talent%1:18:00::
+As a matter of fact , this latter approach has already been tried , and with pleasing results .
+4
+#7 latter ADJ latter%3:00:00::
+#8 approach NOUN approach%1:04:02::,approach%1:06:00::
+#10 already ADV already%4:02:00::
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+A few years ago a " Timex All Star Jazz Show " offered a broad range of styles , ranging from Lionel Hampton 's big band to the free-wheeling Dukes of Dixieland .
+8
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#7 all ADV all%4:02:00::
+#8 star NOUN star%1:18:02::
+#10 show NOUN show%1:04:00::,show%1:10:00::
+#14 broad ADJ broad%5:00:00:comprehensive:00,broad%5:00:00:general:00
+#15 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#17 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#19 range VERB range%2:42:00::
+An enthusiastic audience confirmed the " live " character of the hour , and provided the interaction between musician and hearer which almost always seems to improve the quality of performance .
+7
+#2 audience NOUN audience%1:14:01::
+#3 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#6 live ADJ live%3:00:02::
+#8 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#14 provide VERB provide%2:34:00::,provide%2:40:00::
+#23 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#30 performance NOUN performance%1:04:01::,performance%1:10:00::
+About that same time John Crosby 's TV series on the popular arts proved again that giving jazz ample breathing space is one of the most sensible things a producer can do .
+8
+#2 same ADJ same%3:00:00::
+#8 series NOUN series%1:10:01::
+#11 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#13 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#25 most ADV most%4:02:00::
+#26 sensible ADJ sensible%3:00:04::
+#27 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#29 producer NOUN producer%1:18:02::
+In an hour remembered for its almost rudderless movement , a score of jazz luminaries went before the cameras for lengthy periods .
+7
+#2 hour NOUN hour%1:07:00::,hours%1:28:01::
+#8 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#11 score NOUN score%1:14:00::
+#14 luminary NOUN luminary%1:18:00::
+#15 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#18 camera NOUN camera%1:06:00::
+#21 period NOUN period%1:28:00::,period%1:28:03::
+The program had been arranged to permit the establishment of a mood of intense concentration on the music .
+6
+#4 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#8 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#11 mood NOUN mood%1:12:00::
+#13 intense ADJ intense%3:00:00::
+#14 concentration NOUN concentration%1:07:01::,concentration%1:09:00::
+#17 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+Cameras stared at soloists ' faces in extreme closeups , then considerately pulled back for full views of ensemble work .
+8
+#0 camera NOUN camera%1:06:00::
+#5 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#7 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#10 then ADV then%4:02:00::
+#15 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#16 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#18 ensemble NOUN ensemble%1:14:02::
+#19 work NOUN work%1:04:00::
+" Chicago and All That Jazz " could not be faulted on the choice of artists .
+2
+#8 not ADV not%4:02:00::
+#10 fault VERB fault%2:32:00::
+The jazz buff could hardly ask for more .
+3
+#2 buff NOUN buff%1:18:00::
+#4 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#5 ask VERB ask%2:32:01::,ask%2:32:05::
+Furthermore , Garry Moore makes an ideal master of ceremonies .
+2
+#4 make VERB make%2:31:10::,make%2:42:05::
+#6 ideal ADJ ideal%5:00:00:abstract:00
+( He played host at the Timex show already mentioned . )
+4
+#2 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#3 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#7 show NOUN show%1:04:00::,show%1:10:00::
+#8 already ADV already%4:02:00::
+One of the script 's big problems was how to blend pictures and music of the past with live performances by musicians of today .
+7
+#3 script NOUN script%1:10:00::
+#5 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+#13 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#16 past NOUN past%1:28:01::
+#18 live ADJ live%3:00:02::
+#19 performance NOUN performance%1:04:01::,performance%1:10:00::
+NBC had gathered a lot of historical material which it was eager to share .
+2
+#2 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#7 material NOUN material%1:06:01::,material%1:10:00::
+For example , there was sheet music with the word " jazz " in the title , to illustrate how a word of uncertain origin took hold .
+4
+#9 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#15 title NOUN title%1:10:00::,title%1:10:06::
+#21 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#24 origin NOUN origin%1:15:00::
+Samples zoomed into closeup range in regular succession , like telephone poles passing on the highway , while representative music reinforced the mood of the late teens and 1920 's .
+9
+#1 zoom X zoom%1:11:00::
+#4 range NOUN range%1:07:00::,range%1:15:01::
+#6 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#7 succession NOUN succession%1:14:00::
+#12 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#18 representative ADJ representative%5:00:00:democratic:00
+#19 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#22 mood NOUN mood%1:12:00::
+#25 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+However well chosen and cleverly arranged , such memorabilia unfortunately amounted to more of an interruption than an auxiliary to the evening 's main business , which ( considering the talent at hand ) should probably have been the gathering of fresh samples of the Chicago style .
+6
+#0 however ADV however%4:02:00::,however%4:02:02::
+#21 evening NOUN evening%1:28:00::,evening%1:28:02::
+#24 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#30 talent NOUN talent%1:09:00::,talent%1:18:00::
+#36 have VERB have%2:40:00::
+#46 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+Another source of NBC pride was its rare film clip of Bix Beiderbecke , but this view of the great trumpeter flew by so fast that a prolonged wink would have blotted out the entire glimpse .
+7
+#4 pride NOUN pride%1:12:01::
+#7 rare ADJ rare%5:00:00:scarce:00
+#16 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#19 great ADJ great%5:00:01:extraordinary:00
+#20 trumpeter NOUN trumpeter%1:18:00::
+#23 so ADV so%4:02:03::,so%4:02:07::
+#24 fast ADV fast%4:02:01::
+Similarly , in presenting still photographs of early jazz groups , the program allowed no time for a close perusal .
+4
+#3 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#7 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#13 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#15 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+" Chicago and All That Jazz " may have wound up satisfying neither the confirmed fan nor the inquisitive newcomer .
+1
+#15 fan NOUN fan%1:18:01::
+By trying to be both a serious survey of a bygone era and a showcase for today 's artists , the program turned out to be a not quite perfect example of either .
+6
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 serious ADJ serious%3:00:00::,serious%5:00:00:difficult:00,serious%5:00:00:important:00,serious%5:00:00:intellectual:00
+#7 survey NOUN survey%1:04:01::
+#28 quite ADV quite%4:02:02::
+#29 perfect ADJ perfect%3:00:00::
+#30 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+Still , the network 's willingness to experiment in this musical field is to be commended , and future essays happily anticipated .
+7
+#0 still ADV still%4:02:04::
+#3 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#10 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+#11 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#15 commend VERB commend%2:32:00::
+#19 essay NOUN essay%1:04:00::
+#21 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+Even Joan Sutherland may not have anticipated the tremendous reception she received from the Metropolitan Opera audience attending her debut as Lucia in Donizetti 's " Lucia di Lammermoor " Sunday night .
+6
+#4 not ADV not%4:02:00::
+#6 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+#9 reception NOUN reception%1:10:00::
+#16 audience NOUN audience%1:14:01::
+#17 attend VERB attend%2:42:00::
+#31 night NOUN night%1:28:00::
+The crowd staged its own mad scene in salvos of cheers and applause and finally a standing ovation as Miss Sutherland took curtain call after curtain call following a fantastic " Mad Scene " created on her own and with the help of the composer and the other performers .
+7
+#2 stage VERB stage%2:36:01::
+#4 own ADJ own%5:00:00:personal:00
+#6 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#10 cheer NOUN cheer%1:10:00::
+#21 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#41 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#47 other ADJ other%3:00:00::
+Her entrance in Scene 2 , Act 1 , brought some disconcerting applause even before she had sung a note .
+2
+#17 sing VERB sing%2:32:08::,sing%2:36:01::
+#19 note NOUN note%1:10:04::
+Thereafter the audience waxed applause happy , but discriminating operagoers reserved judgment as her singing showed signs of strain , her musicianship some questionable procedure and her acting uncomfortable stylization .
+8
+#2 audience NOUN audience%1:14:01::
+#3 wax VERB wax%2:30:01::
+#5 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#11 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#15 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#16 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#18 strain NOUN strain%1:26:02::
+#27 acting NOUN acting%1:04:00::
+As she gained composure during the second act , her technical resourcefulness emerged stronger , though she had already revealed a trill almost unprecedented in years of performances of " Lucia " .
+7
+#6 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#7 act NOUN act%1:10:00::,act%1:10:02::
+#10 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#13 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#18 already ADV already%4:02:00::
+#25 year NOUN year%1:28:00::,year%1:28:01::
+#27 performance NOUN performance%1:04:01::,performance%1:10:00::
+She topped the sextet brilliantly .
+1
+#1 top VERB top%2:42:02::
+Each high note had the crowd in ecstasy so that it stopped the show midway in the " Mad Scene " , but the real reason was a realization of the extraordinary performance unfolding at the moment .
+9
+#2 note NOUN note%1:10:04::
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 ecstasy NOUN ecstasy%1:26:00::
+#11 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+#13 show NOUN show%1:04:00::,show%1:10:00::
+#24 real ADJ real%3:00:00::,real%5:00:00:true:00
+#25 reason NOUN reason%1:09:01::,reason%1:16:00::
+#32 performance NOUN performance%1:04:01::,performance%1:10:00::
+#36 moment NOUN moment%1:28:00::,moment%1:28:01::
+Miss Sutherland appeared almost as another person in this scene : A much more girlish Lucia , a sensational coloratura who ran across stage while singing , and an actress immersed in her role .
+7
+#2 appear VERB appear%2:30:00::
+#6 person NOUN person%1:03:00::,person%1:08:00::
+#9 scene NOUN scene%1:06:00::,scene%1:10:00::,scene%1:11:00::
+#13 more ADV more%4:02:00::
+#21 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#23 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#30 immerse VERB immerse%2:31:00::
+What followed the outburst brought almost breathless silence as Miss Sutherland revealed her mastery of a voice probably unique among sopranos today .
+3
+#1 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#13 mastery NOUN mastery%1:09:00::
+#16 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+This big , flexible voice with uncommon range has been superbly disciplined .
+3
+#1 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#4 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#7 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+Nervousness at the start must have caused the blemishes of her first scene , or she may warm up slowly .
+2
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#12 scene NOUN scene%1:06:00::,scene%1:10:00::,scene%1:11:00::
+In the fullness of her vocal splendor , however , she could sing the famous scene magnificently .
+4
+#2 fullness NOUN fullness%1:26:00::
+#8 however ADV however%4:02:04::
+#12 sing VERB sing%2:32:08::,sing%2:36:01::
+#15 scene NOUN scene%1:06:00::,scene%1:10:00::,scene%1:11:00::
+Technically it was fascinating , aurally spell-binding , and dramatically quite realistic .
+3
+#0 technically ADV technically%4:02:01::
+#10 quite ADV quite%4:02:03::
+#11 realistic ADJ realistic%5:00:00:representational:00
+Many years have passed since a Metropolitan audience heard anything comparable .
+4
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#3 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#6 metropolitan ADJ metropolitan%3:01:00::
+#7 audience NOUN audience%1:14:01::
+Her debut over , perhaps the earlier scenes will emerge equally fine .
+4
+#6 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#7 scene NOUN scene%1:06:00::,scene%1:10:00::,scene%1:11:00::
+#10 equally ADV equally%4:02:01::
+#11 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+The performance also marked the debut of a most promising young conductor , Silvio Varviso .
+4
+#1 performance NOUN performance%1:04:01::,performance%1:10:00::
+#3 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#8 most ADV most%4:02:01::
+#11 conductor NOUN conductor%1:18:01::
+He injected more vitality into the score than it has revealed in many years .
+3
+#1 inject VERB inject%2:30:00::
+#6 score NOUN score%1:10:00::
+#13 year NOUN year%1:28:00::,year%1:28:01::
+He may respect too much the Italian tradition of letting singers hold on to their notes , but to restrain them in a singers ' opera may be quite difficult .
+5
+#7 tradition NOUN tradition%1:09:01::
+#9 let VERB let%2:30:01::,let%2:41:00::
+#15 note NOUN note%1:10:04::
+#25 opera NOUN opera%1:06:00::
+#28 quite ADV quite%4:02:03::
+Richard Tucker sang Edgardo in glorious voice .
+3
+#2 sing VERB sing%2:32:08::,sing%2:36:01::
+#5 glorious ADJ glorious%5:00:00:beautiful:00
+#6 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+His bel canto style gave the performance a special distinction .
+3
+#3 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#6 performance NOUN performance%1:04:01::,performance%1:10:00::
+#9 distinction NOUN distinction%1:26:00::
+The remainder of the cast fulfilled its assignments no more than satisfactorily just as the old production and limited stage direction proved only serviceable .
+10
+#1 remainder NOUN remainder%1:24:00::
+#4 cast NOUN cast%1:14:00::
+#5 fulfill VERB fulfil%2:36:00::
+#7 assignment NOUN assignment%1:04:03::
+#8 no ADV no%4:02:01::
+#12 just ADV just%4:02:05::
+#15 old ADJ old%3:00:01::,old%3:00:02::
+#16 production NOUN production%1:04:00::,production%1:10:00::
+#21 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#22 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Miss Sutherland first sang Lucia at Covent Garden in 1959 .
+1
+#3 sing VERB sing%2:32:08::,sing%2:36:01::
+( The first Metropolitan Opera broadcast on Dec. 9 will introduce her as Lucia . )
+2
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#10 introduce VERB introduce%2:32:00::
+She has since turned to Bellini , whose opera " Beatrice di Tenda " in a concert version with the American Opera Society introduced her to New York last season .
+5
+#8 opera NOUN opera%1:06:00::
+#16 concert NOUN concert%1:10:00::
+#17 version NOUN version%1:10:01::
+#23 introduce VERB introduce%2:32:00::
+#28 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+She will sing " La Sonambula " with it here next week .
+2
+#2 sing VERB sing%2:32:08::,sing%2:36:01::
+#9 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Anyone for musical Ping-pong ?
+1
+#2 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+It 's really quite fun - as long as you like games .
+3
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#3 quite ADV quite%4:02:03::
+#11 game NOUN game%1:04:00::,game%1:09:00::
+You will need a stereo music system , with speakers preferably placed at least seven or eight feet apart , and one or more of the new London " Phase 4 " records .
+9
+#4 stereo NOUN stereo%1:06:00::
+#5 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#6 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#9 speaker NOUN speaker%1:06:00::
+#11 place VERB place%2:31:13::
+#17 foot NOUN foot%1:23:00::
+#18 apart ADV apart%4:02:03::
+#29 phase NOUN phase%1:07:00::,phase%1:28:00::
+#32 record NOUN record%1:06:00::
+There are 12 of these to choose from , all of them of popular music except for the star release , Pass in Review ( SP 44001 ) .
+1
+#19 release NOUN release%1:04:00::
+This features the marching songs of several nations , recorded as though the various national bands were marching by your reviewing stand .
+4
+#3 march NOUN march%1:04:02::,march%1:10:01::,march%1:14:00::
+#9 record VERB record%2:32:01::
+#15 band NOUN band%1:14:00::,band%1:14:01::,band%1:14:02::
+#17 march VERB march%2:38:00::
+Complete with crowd effects , interruptions by jet planes , and sundry other touches of realism , this disc displays London 's new technique to the best effect .
+9
+#0 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#3 effect NOUN effect%1:07:00::,effect%1:09:00::
+#12 other ADJ other%5:00:02:past:00
+#13 touch NOUN touch%1:07:01::,touch%1:09:03::,touch%1:23:00::
+#15 realism NOUN realism%1:07:00::
+#18 disk NOUN disk%1:06:02::
+#22 new ADJ new%3:00:00::
+#26 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#27 effect NOUN effect%1:09:00::,effect%1:19:00::
+All of the jackets carry a fairly technical and detailed explanation of this new recording program .
+6
+#4 carry VERB carry%2:33:01::,carry%2:33:02::
+#6 fairly ADV fairly%4:02:02::
+#7 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#13 new ADJ new%3:00:00::
+#14 recording NOUN recording%1:04:00::,recording%1:06:00::,recording%1:06:01::
+#15 program NOUN program%1:09:00::,program%1:09:01::
+No reference is made to the possibility of recording other than popular music in this manner , and it would not seem to lend itself well to serious music .
+7
+#1 reference NOUN reference%1:10:02::,reference%1:10:03::,reference%1:10:07::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 record VERB record%2:32:01::
+#15 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#20 not ADV not%4:02:00::
+#23 lend VERB lend%2:40:01::
+#25 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+Directionality is greatly exaggerated most of the time ; but when the sounds of the two speakers are allowed to mix , there is excellent depth and dimension to the music .
+5
+#16 speaker NOUN speaker%1:06:00::
+#24 excellent ADJ excellent%5:00:00:superior:02
+#25 depth NOUN depth%1:07:01::,depth%1:07:02::
+#27 dimension NOUN dimension%1:07:00::
+#30 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+You definitely hear some of the instruments close up and others farther back , with the difference in placement apparently more distinct than would result from the nearer instruments merely being louder than the ones farther back .
+6
+#6 instrument NOUN musical_instrument%1:06:00::
+#12 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#20 more ADV more%4:02:00::
+#21 distinct ADJ distinct%3:00:00::,distinct%5:00:00:clear:00
+#28 instrument NOUN musical_instrument%1:06:00::
+#36 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+This is a characteristic of good stereo recording and one of its tremendous advantages over monaural sound .
+4
+#3 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#5 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#6 stereo NOUN stereo%1:06:00::
+#7 recording NOUN recording%1:04:00::,recording%1:06:00::,recording%1:06:01::
+London explains that the very distinct directional effect in the Phase 4 series is due in large part to their novel methods of microphoning and recording the music on a number of separate tape channels .
+9
+#5 distinct ADJ distinct%5:00:00:separate:00
+#6 directional ADJ directional%3:01:00::
+#7 effect NOUN effect%1:09:00::,effect%1:19:00::
+#10 phase NOUN phase%1:07:00::,phase%1:28:00::
+#12 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#16 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#25 recording NOUN recording%1:04:00::,recording%1:06:00::,recording%1:06:01::
+#27 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#30 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+These are then mixed by their sound engineers with the active co-operation of the musical staff and combined into the final two channels which are impressed on the record .
+5
+#2 then ADV then%4:02:00::
+#14 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+#15 staff NOUN staff%1:14:00::,staff%1:14:01::
+#17 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#28 record NOUN record%1:06:00::
+In some of the numbers the instrumental parts have even been recorded at different times and then later combined on the master tape to produce special effects .
+8
+#4 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#6 instrumental ADJ instrumental%3:01:00::
+#7 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#11 record VERB record%2:32:01::
+#16 then ADV then%4:02:00::
+#17 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#18 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#21 master NOUN master%1:06:00::
+Some clue to the character of London 's approach in these discs may be gained immediately from the fact that ten of the 12 titles include the word " percussion " or " percussive " .
+9
+#1 clue NOUN clue%1:10:01::
+#4 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#8 approach NOUN approach%1:04:02::,approach%1:06:00::
+#11 disk NOUN disk%1:06:02::
+#14 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#24 title NOUN title%1:10:00::,title%1:10:06::
+#25 include VERB include%2:42:00::
+#27 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#29 percussion NOUN percussion%1:04:01::
+Drums , xylophones , castanets , and other percussive instruments are reproduced remarkably well .
+2
+#0 drum NOUN drum%1:11:00::
+#7 other ADJ other%5:00:02:past:00
+Only too often , however , you have the feeling that you are sitting in a room with some of the instruments lined up on one wall to your left and others facing them on the wall to your right .
+9
+#4 however ADV however%4:02:04::
+#7 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#9 feeling NOUN feeling%1:09:03::
+#13 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#16 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#21 instrument NOUN musical_instrument%1:06:00::
+#29 left NOUN left%1:08:00::
+#32 face VERB face%2:38:00::,face%2:42:00::
+#39 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+They are definitely in the same room with you , but your head starts to swing as though you were sitting on the very edge of a tennis court watching a spirited volley .
+7
+#5 same ADJ same%3:00:00::,same%3:00:02::
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#12 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#13 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#20 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#24 edge NOUN edge%1:06:01::
+#29 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+The Percussive Twenties ( SP 44006 ) stirs pleasant memories with well-known songs of that day , and Johnny Keating 's Kombo gives forth with tingling jazz in Percussive Moods ( SP 44005 ) .
+3
+#7 stir VERB stir%2:37:00::,stir%2:37:01::,stir%2:39:00::
+#9 memory NOUN memory%1:09:00::,memory%1:09:02::
+#15 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Big Band Percussion ( SP 44002 ) seemed one of the least attractive discs - the arrangements just did n't have so much character as the others .
+7
+#11 least ADV less%4:02:01::
+#13 disk NOUN disk%1:06:02::
+#16 arrangement NOUN arrangement%1:10:00::
+#17 just ADV just%4:02:00::,just%4:02:03::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 so ADV so%4:02:03::,so%4:02:07::
+#23 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+There is an extraordinary sense of presence in all of these recordings , apparently obtained at least in part by emphasizing the middle and high frequencies .
+1
+#4 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+The penalty for this is noticeable in the big , bold , brilliant , but brassy piano sounds in Melody and Percussion for Two Pianos ( SP 44007 ) .
+3
+#1 penalty NOUN penalty%1:07:01::
+#8 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#16 piano NOUN piano%1:06:00::
+All of the releases , however , are recorded at a gratifyingly high level , with resultant masking of any surface noise .
+6
+#3 release NOUN release%1:04:00::
+#5 however ADV however%4:02:04::
+#8 record VERB record%2:32:01::
+#12 high ADJ high%3:00:02::
+#13 level NOUN level%1:26:00::,level%1:26:01::
+#17 mask VERB mask%2:39:00::
+Pass in Review practically guarantees enjoyment , and is a dramatic demonstration of the potentialities of any stereo music system .
+7
+#3 practically ADV practically%4:02:00::
+#5 enjoyment NOUN enjoyment%1:04:00::
+#10 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#11 demonstration NOUN demonstration%1:10:03::
+#17 stereo NOUN stereo%1:06:00::
+#18 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#19 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+Many Hollywood films manage somehow to be authentic , but not realistic .
+6
+#1 Hollywood NOUN hollywood%1:15:00::
+#2 film NOUN film%1:10:00::,film%1:10:01::
+#3 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#7 authentic ADJ authentic%5:00:00:genuine:00
+#10 not ADV not%4:02:00::
+#11 realistic ADJ realistic%5:00:00:representational:00
+Strange , but true - authenticity and realism often are n't related at all .
+4
+#0 strange ADJ strange%3:00:00::
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#7 realism NOUN realism%1:07:00::
+#11 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+Almost every film bearing the imprimatur of Hollywood is physically authentic - in fact , impeccably so .
+4
+#2 film NOUN film%1:10:00::,film%1:10:01::
+#3 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#7 Hollywood NOUN hollywood%1:15:00::
+#10 authentic ADJ authentic%5:00:00:genuine:00
+In any given period piece the costumes , bric-a-brac , vehicles , and decor , bear the stamp of unimpeachable authenticity .
+3
+#2 given ADJ give%2:32:03::
+#10 vehicle NOUN vehicle%1:06:00::
+#17 stamp NOUN stamp%1:06:02::
+The major studios maintain a cadre of film librarians and research specialists who look to this matter .
+5
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#2 studio NOUN studio%1:06:02::
+#7 film NOUN film%1:10:00::,film%1:10:01::
+#13 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#16 matter NOUN matter%1:09:00::,matter%1:09:01::
+During the making recently of an important Biblical film , some 40 volumes of research material and sketches not only of costumes and interiors , but of architectural developments , sports arenas , vehicles , and other paraphernalia were compiled , consulted , and complied with .
+10
+#2 making NOUN making%1:06:00::
+#8 film NOUN film%1:10:00::,film%1:10:01::
+#12 volume NOUN volume%1:06:00::,volume%1:10:00::
+#15 material NOUN material%1:06:01::,material%1:10:00::
+#17 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#23 interior NOUN interior%1:15:00::
+#28 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#33 vehicle NOUN vehicle%1:06:00::
+#36 other ADJ other%5:00:02:past:00
+#39 compile VERB compile%2:40:00::
+But , alas , the authenticity seems to stop at the set 's edge .
+2
+#11 set NOUN set%1:06:00::
+#13 edge NOUN edge%1:06:01::
+The drama itself - and this seems to be lavishly true of Biblical drama - often has hardly any relationship with authenticity at all .
+5
+#1 drama NOUN drama%1:10:00::,drama%1:10:01::
+#10 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#13 drama NOUN drama%1:10:00::,drama%1:10:01::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+Thus , in " The Story of Ruth " we have Ruth , Naomi , and Boaz and sets that are meticulously authentic .
+3
+#0 thus ADV thus%4:02:00::
+#18 set NOUN set%1:06:00::
+#22 authentic ADJ authentic%5:00:00:genuine:00
+But except for a vague adherence to the basic storyline - i.e. , that Ruth remained with Naomi and finally wound up with Boaz - the film version has little to do with the Bible .
+4
+#8 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#26 film NOUN film%1:10:00::,film%1:10:01::
+#27 version NOUN version%1:10:01::
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+And in the new " King of Kings " the plot involves intrigues and twists and turns that cannot be traced to the Gospels .
+6
+#3 new ADJ new%3:00:00::
+#10 plot NOUN plot%1:10:00::
+#14 twist NOUN twist%1:11:00::
+#16 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#20 trace VERB trace%2:31:00::,trace%2:38:00::,trace%2:38:03::
+#23 gospel NOUN gospel%1:10:00::
+Earlier this month Edward R. Murrow , director of the United States Information Agency , came to Hollywood and had dinner with more than 100 leaders of the motion picture industry .
+6
+#0 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#17 Hollywood NOUN hollywood%1:15:00::
+#19 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#25 leader NOUN leader%1:18:00::
+#30 industry NOUN industry%1:04:00::,industry%1:14:00::
+He talked about unauthentic storylines too .
+1
+#5 too ADV too%4:02:01::
+He intimated that they were n't doing the country much good in the Cold War .
+2
+#8 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#10 good NOUN good%1:07:00::
+And to an industry that prides itself on authenticity , he urged greater realism .
+2
+#3 industry NOUN industry%1:04:00::,industry%1:14:00::
+#13 realism NOUN realism%1:07:00::
+" in many corners of the globe " , he said , " the major source of impressions about this country are in the movies they meet .
+7
+#3 corner NOUN corner%1:15:02::,corner%1:26:00::
+#6 globe NOUN globe%1:06:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 major ADJ major%3:00:05::,major%3:00:06::
+#17 impression NOUN impression%1:07:00::
+#20 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#26 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Would we want a future-day Gibbon or Macaulay recounting the saga of America with movies as his prime source of knowledge ?
+4
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 recount VERB recount%2:32:00::
+#17 prime ADJ prime%5:00:02:first:00
+#20 knowledge NOUN knowledge%1:03:00::
+Yet for much of the globe , Hollywood is just that - prime , if not sole , source of knowledge .
+5
+#5 globe NOUN globe%1:06:00::
+#7 Hollywood NOUN hollywood%1:15:00::
+#9 just ADV just%4:02:05::
+#12 prime ADJ prime%5:00:02:first:00
+#20 knowledge NOUN knowledge%1:03:00::
+If a man totally ignorant of America were to judge our land and its civilization based on Hollywood alone , what conclusions do you think he might come to ?
+7
+#2 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#11 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+#15 base VERB base%2:31:00::
+#17 Hollywood NOUN hollywood%1:15:00::
+#18 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#21 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#24 think VERB think%2:31:01::,think%2:31:03::

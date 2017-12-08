@@ -1,0 +1,239 @@
+ A royal decree issued in 1910 , two years after the Belgian government assumed authority for the administration of the Congo , prescribed the registration of all adult males by chiefdoms .
+2
+#3 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#13 assume VERB assume%2:40:00::,assume%2:40:01::
+Further decrees along this line were issued in 1916 and 1919 .
+1
+#6 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+In 1922 a continuous registration of the whole indigenous population was instituted by ordinance of the Governor-General , and the periodic compilation of these records was ordered .
+2
+#11 institute VERB institute%2:36:01::
+#26 order VERB order%2:32:01::,order%2:32:02::
+But specific procedures for carrying out this plan were left to the discretion of the provincial governors .
+1
+#9 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+A unified set of regulations , applicable to all areas , was issued in 1929 , and a complementary series of demographic inquiries in selected areas was instituted at the same time .
+2
+#12 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#27 institute VERB institute%2:36:01::
+The whole system was again reviewed and reorganized in 1933 .
+1
+#5 review VERB review%2:31:00::,review%2:32:00::
+Tribal authorities , the chiefs and their secretaries , were held responsible for maintaining the registers of indigenous persons within their territories , under the general supervision of district officials .
+2
+#10 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#13 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+The district officials , along with their other duties , were obliged to organize special demographic inquiries in selected areas and to supervise the annual tabulations of demographic statistics .
+1
+#13 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+The cards , filed by circonscription ( sub-chiefdom , or village ) , are kept in the headquarters of each territoire ( chiefdom ) .
+2
+#3 file VERB file%2:32:02::,filing%1:10:00::
+#14 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+Each card is expected to show certain information about the individual concerned , including his or her date of birth ( or age at a specified time ) , spouses , and children .
+2
+#5 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#13 include VERB include%2:42:00::
+Different cards are used for males and females , and a corner is clipped from the cards of adults , and of children when they reach puberty .
+3
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 clip VERB clip%2:35:04::
+#25 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+So a quick count could be made at any time , even by an illiterate clerk , of the number of registered persons in four age-and-sex classes .
+1
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Personal identification cards are issued to all adult males on which tax payments , inoculations , periods of employment , and changes of residence are recorded .
+2
+#4 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#25 record VERB record%2:32:00::,record%2:32:03::
+Similar identification cards were issued in 1959 to all adult females .
+1
+#4 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+Each adult is held personally responsible for assuring his inscription and obtaining an identification card which must be shown on demand .
+4
+#3 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#7 assure VERB assure%2:31:00::,assure%2:32:03::
+#11 obtain VERB obtain%2:40:00::
+#18 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+The registration card of a person leaving his home territory for a short period is put into a special file for absent persons .
+2
+#6 leave VERB leave%2:38:00::,leave%2:41:00::
+#15 put VERB put%2:35:00::,put%2:35:05::
+Finally , the registration of births and deaths by nearest relatives was made compulsory in most regions .
+1
+#12 make VERB make%2:36:15::
+In addition , demographic inquiries , supposedly involving field investigations , were conducted in selected minor divisions ( circonscriptions ) containing about 3 percent of the total population .
+2
+#12 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#20 contain VERB contain%2:42:00::,contain%2:42:06::
+The results of these inquiries were used to adjust compilations of data from the registers and to provide various ratios and rates by districts , including birth and death rates , general fertility rates , distributions by marital status , fertility of wives separately in polygynous and non-polygynous households , infant mortality , and migration .
+4
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#17 provide VERB provide%2:34:00::,provide%2:40:00::
+#25 include VERB include%2:42:00::
+The areas to be examined in these inquiries were selected by local officials , supposedly as representative of a larger population .
+1
+#4 examine VERB examine%2:31:00::,examine%2:32:01::
+Averages of the ratios obtained in a few selected areas were applied to the larger population .
+1
+#4 obtain VERB obtain%2:40:00::
+But it places a severe strain on the administrative resources ( already burdened in other ways ) of a widely dispersed , poor and largely illiterate population .
+1
+#2 place VERB place%2:31:13::
+The sampling program was instituted before the principles of probability sampling were widely recognized in population studies .
+2
+#4 institute VERB institute%2:36:01::
+#13 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+The distinction between domiciled ( de jure ) and present ( de facto ) population was not clearly defined .
+1
+#18 define VERB define%2:42:00::,define%2:42:03::
+The system tended to break down during the war , but was reactivated ; it had reached the pre-war level of efficiency by 1951 .
+2
+#2 tend VERB tend%2:42:01::
+#16 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+In spite of the defects in this system , the figures on total population during the late 1930 's and again in the early 1950 's seem to have represented actual conditions in most districts with approximate fidelity .
+1
+#29 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+The same system , with minor modifications , was developed in Ruanda-Urundi under Belgian administration .
+1
+#9 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Here again it seems that useful approximations of the size and geographical distribution of the population were obtained in this way in the late pre-war and early post-war periods .
+1
+#17 obtain VERB obtain%2:40:00::
+Before considering more recent activities , we should note another important aspect of demography in Belgian Africa .
+1
+#8 note VERB note%2:32:00::,note%2:39:00::
+A number of strong independent agencies , established in some cases with governmental or royal support , have conducted large medical , social , educational and research operations in particular parts of the Congo and Ruanda-Urundi .
+2
+#7 establish VERB establish%2:36:01::,establish%2:41:00::
+#18 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+The work of Fonds Reine Elisabeth pour l ' Assistance Medicale aux Indigenes du Congo Belge ( FOREAMI ) has special interest with respect to demography .
+1
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This agency accepted responsibility for medical services to a population ranging from 638560 persons in 1941 to 840503 in 1956 in the Kwango District and adjacent areas east of Leopoldville .
+2
+#2 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#10 range VERB range%2:42:00::
+Each year from 1941 on , its medical staff had conducted intensive field investigations to determine changes in population structure and vital rates and , as its primary objective , the incidence of major diseases .
+2
+#10 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#15 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+Its findings are reported each year in its Rapport sur l ' activite pendant annee ( Bruxelles ) .
+1
+#3 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Somewhat similar investigations have been made by medical officers in other areas .
+1
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Other independent , or partially independent agencies , have promoted investigations on topics directly or indirectly related to demography .
+1
+#9 promote VERB promote%2:32:00::,promote%2:41:01::
+L ' Institut pour la Recherche Scientifique en Afrique Centrale ( IRSAC ) has sponsored well-designed field investigations and has cooperated closely with the government of Ruanda-Urundi in the development of its official statistics .
+1
+#14 sponsor VERB sponsor%2:40:00::
+Some 30000 completed schedules with 20 items ( collected by sub-chiefs in 1100 circumscriptions ) have been tabulated .
+1
+#8 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+However , the statistical offices of both governments were assigned responsibility for the planning and analysis of these statistics .
+1
+#9 assign VERB assign%2:31:00::,assign%2:41:00::
+A Bureau de la Demographie ( A. Romaniuk , Director ) was formed under AIMO in the Congo , to work in close rapport with the Section Statistique of the Secretariat General .
+2
+#12 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#20 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Eventually responsibility for demographic inquiries in the Congo was transferred to the demographic division of the Central Statistical Office .
+1
+#9 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+The 1952 demographic inquiry in Ruanda-Urundi was directed by V. Neesen , a member of the IRSAC staff , though the inquiry was carried out under the auspices of AIMO , which has continuing responsibility for demographic statistics in this territory .
+2
+#7 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#32 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We will deal first with the program in the Congo though this was put into operation later than the other .
+2
+#2 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#13 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+The term enquetes demographiques , previously used for the supplementary investigations carried out in connection with the administrative censuses , was used for the new investigations .
+2
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Field operations were transferred from administrative personnel primarily engaged in other tasks to specially trained teams of full-time African investigators ( three teams , each working in two provinces ) .
+3
+#3 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#8 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#25 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+In short , scientific sampling was introduced in place of subjective sampling .
+1
+#6 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+Sample units ( villages in rural areas , houses in cities ) were drawn systematically within these strata .
+1
+#13 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+About 11 percent of the total population was covered in the new investigation , as compared with about 3 percent in the previous inquiries .
+2
+#8 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#15 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+Data were obtained , separately , on three classes of persons : ( a ) residents , present ; ( b ) residents , absent ; and ( c ) visitors .
+1
+#2 obtain VERB obtain%2:40:00::
+In the reports , summary results are given for both the de facto ( a and c ) and de jure ( a and b ) populations ; but the subsequent analysis of characteristics is reported only for the de jure population ( or , in some districts , only the de facto population ) .
+1
+#35 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+These changes represent in effect , a shift from ( 1 ) an administrative compilation of data obtained through procedures designed primarily to serve political and economic objectives to ( 2 ) a systematic sampling census of the whole African population .
+3
+#2 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#17 obtain VERB obtain%2:40:00::
+#23 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+The population registration system still has important functions .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+It supplies local data which are useful in administration and which can be used as a basis for intensive studies in particular situations .
+1
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+It provides a frame for the sampling census .
+1
+#1 provide VERB provide%2:34:00::,provide%2:40:00::
+It also provides a frame within which the registration of vital events is gradually gaining force ( though one cannot expect to obtain reliable vital statistics in most parts of the Congo from this source in the near future ) .
+2
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#22 obtain VERB obtain%2:40:00::
+It is still used in making current population estimates in post-census years , though the value of these estimates is open to question .
+2
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Finally , it may have certain very important , less obvious values .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Even though the registers may have an incomplete record of persons present in a particular area or include persons no longer living there , they contain precise information on ages , by date of birth , for some of the persons present ( especially children in relatively stable communities ) and supplementary information ( such as records of marital status ) for many others .
+4
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 include VERB include%2:31:00::,include%2:41:03::
+#21 live VERB live%2:42:08::
+#25 contain VERB contain%2:42:00::,contain%2:42:06::
+Furthermore , it may be possible to estimate the error due to bias in method ( as distinguished from sampling error ) in each of these sources , on such subjects as fertility , mortality , and migration during a given interval by using information from two largely independent sources in conjunction .
+1
+#43 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The first sampling census in the Congo extended over a three-year period , 1955 - 57 ; the results were still being processed in 1959 .
+2
+#7 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#22 process VERB process%2:31:00::
+It is planned to double the number of teams and to make use of improved equipment in a second demographic inquiry in 1960 , so that the inquiry can be carried through in one year and the results published more expeditiously .
+3
+#2 plan VERB plan%2:31:00::,plan%2:31:01::
+#4 double VERB double%2:40:03::
+#38 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+It is proposed that in the future complete sampling censuses be carried out at five-year intervals .
+1
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+Reports already issued on the sampling census , 1955 - 57 , in various areas run as follows ( using only the French and omitting corresponding Flemish titles ) : .
+2
+#2 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+This report contains preliminary notes and 35 tables .
+1
+#2 contain VERB contain%2:42:00::,contain%2:42:06::
+Other reports in identical form , but with somewhat varying content , have been issued for : .
+1
+#14 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+These area reports will be followed , according to present plans , by a summary report , which will include a detailed statement on methods .
+2
+#5 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#19 include VERB include%2:42:00::

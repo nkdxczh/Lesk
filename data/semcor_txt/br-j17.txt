@@ -1,0 +1,529 @@
+ Since emotional reactions in the higher vertebrates depend on individual experience and are aroused in man , in addition , by complex symbols , one would expect that the hypothalamus could be excited from the cortex .
+5
+#9 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+#13 arouse VERB arouse%2:37:00::
+#15 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#21 complex ADJ complex%3:00:00::
+#32 excite VERB excite%2:30:01::
+In experiments with topical application of strychnine on the cerebral cortex , the transmission of impulses from the cortex to the hypothalamus was demonstrated .
+5
+#3 topical ADJ topical%5:00:00:local:02
+#4 application NOUN application%1:04:02::,application%1:04:03::,application%1:06:00::
+#13 transmission NOUN transmission%1:04:01::
+#15 impulse NOUN impulse%1:11:01::
+#23 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+Moreover , the responsiveness of the hypothalamus to nociceptive stimulation is greatly increased under these conditions .
+1
+#15 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+Even more complex and obviously cortically induced forms of emotional arousal could be elicited in monkey A on seeing monkey B ( but not a rabbit ) in emotional stress .
+9
+#1 more ADV more%4:02:00::
+#2 complex ADJ complex%3:00:00::
+#6 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#15 monkey NOUN monkey%1:05:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 monkey NOUN monkey%1:05:00::
+#23 not ADV not%4:02:00::
+#25 rabbit NOUN rabbit%1:13:00::
+#29 stress NOUN stress%1:10:01::,stress%1:26:02::
+A previously extinguished conditioned reaction was restored in monkey A and was associated with typical signs of emotional excitement including sympathetic discharges .
+5
+#8 monkey NOUN monkey%1:05:00::
+#15 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#19 include VERB include%2:42:00::
+#20 sympathetic ADJ sympathetic%3:00:00::,sympathetic%5:00:00:kind:00
+#21 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+It seems to follow that by and large an antagonism exists between the paleo - and the neocortex as far as emotional reactivity is concerned , and that the balance between the two systems determines the emotional responsiveness of the organism .
+5
+#10 exist VERB exist%2:42:00::
+#24 concern VERB concern%2:42:00::,concern%2:42:01::
+#29 balance NOUN balance%1:07:00::,balance%1:26:00::
+#33 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#34 determine VERB determine%2:31:02::,determine%2:32:03::
+In addition , the neocortical hypothalamic relations play a great role in primates , as Mirsky 's interesting experiment on the " communication of affect " demonstrates .
+5
+#6 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 primate NOUN primate%1:05:00::
+#22 communication NOUN communication%1:03:00::,communication%1:10:01::
+#26 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+But even in relatively primitive laboratory animals such as the rat , sex activity closely identified with the hypothalamus and the visceral brain is enhanced by the neocortex .
+2
+#10 rat NOUN rat%1:05:00::
+#15 identify VERB identify%2:31:03::,identify%2:31:04::
+MacLean stressed correctly the importance of the visceral brain for preservation of the individual and the species , as evidenced by the influence of the limbic brain ( including the hypothalamus ) on emotions related to fight and flight and also on sexual functions .
+5
+#1 stress VERB stress%2:32:00::,stress%2:32:01::
+#16 species NOUN species%1:09:00::,species%1:14:00::
+#38 flight NOUN flight%1:04:01::
+#42 sexual ADJ sexual%3:00:00::
+#43 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+It should be added that in man neocortical hypothalamic interrelations probably play a role in the fusion of emotional processes with those underlying perception , memory , imagination , and creativity .
+4
+#3 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#6 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#16 fusion NOUN fusion%1:04:00::
+#25 memory NOUN memory%1:09:00::,memory%1:09:01::
+Previous experiences are obviously of great importance for the qualitative and quantitative emotional response .
+2
+#0 previous ADJ previous%5:00:00:preceding:00
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+The visceral brain as well as the neocortex is known to contribute to memory , but this topic is beyond the scope of this paper .
+5
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 memory NOUN memory%1:09:00::,memory%1:09:01::
+#19 beyond ADV beyond%4:02:01::
+#21 scope NOUN scope%1:07:00::
+#24 paper NOUN paper%1:10:00::
+After this brief discussion of neo - , paleocortical , and cortico-hypothalamic relations , let us return once more to the problem of hypothalamic balance and its physiological and pathological significance .
+6
+#12 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#14 let VERB let%2:32:00::
+#16 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#21 problem NOUN problem%1:09:00::,problem%1:26:00::
+#24 balance NOUN balance%1:07:00::,balance%1:26:00::
+#30 significance NOUN significance%1:07:00::
+Facilitatory processes take place between neocortex and hypothalamus via ascending and descending pathways .
+1
+#9 ascending ADJ ascending%3:00:00::
+Thus cortico-fugal discharges induced by topical application of strychnine to a minute area in the neocortex summate with spikes present in the hypothalamus and cause increased convulsive discharges .
+8
+#2 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#3 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#5 topical ADJ topical%5:00:00:local:02
+#6 application NOUN application%1:04:02::,application%1:04:03::,application%1:06:00::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#18 spike NOUN spike%1:11:01::
+#19 present ADJ present%3:00:02::
+#27 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+On the other hand , the temporary reduction in hypothalamic excitability through the injection of a barbiturate into the posterior hypothalamus causes a lessening in frequency and amplitude of cortical strychnine spikes until the hypothalamic excitability is restored .
+6
+#7 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#13 injection NOUN injection%1:27:00::
+#19 posterior ADJ posterior%3:00:00::
+#25 frequency NOUN frequency%1:23:00::,frequency%1:24:00::,frequency%1:28:00::
+#27 amplitude NOUN amplitude%1:11:00::
+#31 spike NOUN spike%1:11:01::
+Apparently , a positive feedback exists between the posterior hypothalamus and the cerebral cortex .
+2
+#5 exist VERB exist%2:42:00::
+#8 posterior ADJ posterior%3:00:00::
+Consequently , if for any reason the hypothalamic excitability falls below the physiological level , the lessened hypothalamic cortical discharges lead to a diminished state of activity in the cortex with consequent reduction in the cortico-fugal discharges .
+8
+#5 reason NOUN reason%1:09:01::,reason%1:16:00::
+#13 level NOUN level%1:26:00::,level%1:26:01::
+#19 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#20 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#24 state NOUN state%1:03:00::,state%1:26:01::,state%1:26:02::
+#26 activity NOUN activity%1:04:00::,activity%1:26:00::
+#32 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#36 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+Obviously , a vicious cycle develops .
+1
+#5 develop VERB develop%2:32:00::,develop%2:36:01::
+This tendency can be broken either by restoring hypothalamic excitability directly or via cortico-hypothalamic pathways .
+2
+#4 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#10 directly ADV directly%4:02:05::
+It is believed that drug therapy and electroshock involve the former and psychotherapy the latter mechanism .
+3
+#10 former ADJ former%3:00:00::
+#14 latter ADJ latter%3:00:00::
+#15 mechanism NOUN mechanism%1:22:00::
+Before we comment further on these pathological conditions , we should remember that changes in the state of the hypothalamus within physiological limits distinguish sleep from wakefulness .
+4
+#3 further ADV further%4:02:02::,further%4:02:03::
+#13 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#22 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#24 sleep NOUN sleep%1:26:00::
+Thus , a low intensity of hypothalamic cortical discharges prevails in sleep and a high one during wakefulness , resulting in synchronous EEG potentials in the former and asynchrony in the latter condition .
+10
+#0 thus ADV thus%4:02:00::
+#3 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#4 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#8 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#11 sleep NOUN sleep%1:26:00::
+#14 high ADJ high%3:00:02::
+#21 synchronous ADJ synchronous%3:00:00::
+#26 former ADJ former%3:00:00::
+#31 latter ADJ latter%3:00:00::
+#32 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+Moreover , the dominance in parasympathetic action ( with reciprocal inhibition of the sympathetic ) at the hypothalamic level induces , by its peripheral action , the autonomic symptoms of sleep and , by its action on the cortex , a lessening in the reactivity of the sensory and motor apparatus of the somatic nervous system .
+8
+#6 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#13 sympathetic ADJ sympathetic%3:01:00::
+#18 level NOUN level%1:26:00::,level%1:26:01::
+#19 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#24 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#30 sleep NOUN sleep%1:26:00::
+#35 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#49 motor ADJ motor%5:00:00:causative:00
+With the dominance of the sympathetic division of the hypothalamus , the opposite changes occur .
+3
+#5 sympathetic ADJ sympathetic%3:01:00::
+#12 opposite ADJ opposite%5:00:00:other:00
+#13 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+Since electrical stimulation of the posterior hypothalamus produces the effects of wakefulness while stimulation of the anterior hypothalamus induces sleep , it may be said that the reactivity of the whole organism is altered by a change in the autonomic reactivity of the hypothalamus .
+9
+#5 posterior ADJ posterior%3:00:00::
+#7 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#9 effect NOUN effect%1:09:00::,effect%1:19:00::
+#16 anterior ADJ anterior%3:00:00::
+#18 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#19 sleep NOUN sleep%1:26:00::
+#24 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#30 whole ADJ whole%3:00:00::
+#36 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+Similar effects can be induced reflexly via the baroreceptor reflexes in man and animals .
+4
+#1 effect NOUN effect%1:09:00::,effect%1:19:00::
+#4 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#9 reflex NOUN reflex%1:04:00::
+#11 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+Of particular importance is the study of the actions of drugs in this respect .
+4
+#1 particular ADJ particular%5:00:00:uncommon:00
+#5 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#8 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#13 respect NOUN respect%1:09:00::
+Although no drugs act exclusively on the hypothalamus or a part of it , there is sufficient specificity to distinguish drugs which shift the hypothalamic balance to the sympathetic side from those which produce a parasympathetic dominance .
+6
+#3 act VERB act%2:33:00::,act%2:41:00::
+#10 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#25 balance NOUN balance%1:07:00::,balance%1:26:00::
+#28 sympathetic ADJ sympathetic%3:01:00::
+#29 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#33 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+The former comprise analeptic and psychoactive drugs , the latter the tranquilizers .
+2
+#1 former ADJ former%3:00:00::
+#9 latter ADJ latter%3:00:00::
+Specific differences exist in the action of different drugs belonging to the same group as , for instance , between reserpine and chlorpromazine .
+5
+#0 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#2 exist VERB exist%2:42:00::
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#7 different ADJ different%3:00:00::,different%5:00:00:other:00
+#12 same ADJ same%3:00:00::,same%3:00:02::
+Important as these differences are , they should not obscure the basic fact that by shifting the hypothalamic balance sufficiently to the parasympathetic side , we produce depressions , whereas a shift in the opposite direction causes excitatory effects and , eventually , maniclike changes .
+11
+#8 not ADV not%4:02:00::
+#11 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#18 balance NOUN balance%1:07:00::,balance%1:26:00::
+#23 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#26 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#27 depression NOUN depression%1:28:00::
+#31 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#34 opposite ADJ opposite%5:00:00:other:00
+#35 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#38 effect NOUN effect%1:09:00::,effect%1:19:00::
+#44 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+The emotional states produced by drugs influence the cortical potentials in a characteristic manner ; synchrony prevails in the EEG of the experimental animal after administration of tranquilizers , but asynchrony after application of analeptic and psychoactive drugs .
+4
+#3 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#13 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#25 administration NOUN administration%1:04:01::
+#32 application NOUN application%1:04:02::,application%1:04:03::,application%1:06:00::
+The shock therapies act likewise on the hypothalamic balance .
+2
+#3 act VERB act%2:29:00::
+#8 balance NOUN balance%1:07:00::,balance%1:26:00::
+Physiological experiments and clinical observations have shown that these procedures influence the hypothalamically controlled hypophyseal secretions and increase sympathetic discharges .
+4
+#3 clinical ADJ clinical%3:01:00::
+#4 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#18 sympathetic ADJ sympathetic%3:01:00::
+#19 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+They shift the hypothalamic balance to the sympathetic side .
+3
+#4 balance NOUN balance%1:07:00::,balance%1:26:00::
+#7 sympathetic ADJ sympathetic%3:01:00::
+#8 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+This explains the beneficial effect of electroshock therapy in certain depressions and a shift in the reaction from hypo - to normal reactivity of the sympathetic system as shown by the Mecholyl test .
+6
+#4 effect NOUN effect%1:09:00::,effect%1:19:00::
+#10 depression NOUN depression%1:28:00::
+#13 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#21 normal ADJ normal%3:00:01::,normal%3:00:03::
+#25 sympathetic ADJ sympathetic%3:01:00::
+#26 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+Some investigators have found a parallelism between remissions and return of the sympathetic reactivity of the hypothalamus to the normal level as indicated by the Mecholyl test and , conversely , between clinical impairment and increasing deviation of this test from the norm .
+10
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#9 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#12 sympathetic ADJ sympathetic%3:01:00::
+#19 normal ADJ normal%3:00:01::,normal%3:00:03::
+#20 level NOUN level%1:26:00::,level%1:26:01::
+#22 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#32 clinical ADJ clinical%3:01:00::
+#36 deviation NOUN deviation%1:11:00::
+#39 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#42 norm NOUN norm%1:24:00::
+Nevertheless , the theory that the determining influence of the hypothalamic balance has a profound influence on the clinical behavior of neuropsychiatric patients has not yet been tested on an adequate number of patients .
+6
+#11 balance NOUN balance%1:07:00::,balance%1:26:00::
+#14 profound ADJ profound%5:00:00:intense:00
+#18 clinical ADJ clinical%3:01:00::
+#22 patient NOUN patient%1:18:00::
+#31 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#33 patient NOUN patient%1:18:00::
+The Mecholyl and noradrenalin tests applied with certain precautions are reliable indicators of this central autonomic balance , but for the sake of correlating autonomic and clinical states , and of studying the effect of certain therapeutic procedures on central autonomic reactions , additional tests seem to be desirable .
+8
+#4 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#11 indicator NOUN indicator%1:10:00::
+#16 balance NOUN balance%1:07:00::,balance%1:26:00::
+#21 sake NOUN sake%1:09:00::
+#26 clinical ADJ clinical%3:01:00::
+#31 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#33 effect NOUN effect%1:09:00::,effect%1:19:00::
+#44 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+It was assumed that the shift in autonomic hypothalamic balance occurring spontaneously in neuropsychiatric patients from the application of certain therapeutic procedures follows the pattern known from the sleep wakefulness cycle .
+9
+#2 assume VERB assume%2:31:00::
+#5 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#9 balance NOUN balance%1:07:00::,balance%1:26:00::
+#14 patient NOUN patient%1:18:00::
+#22 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+#24 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#25 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#28 sleep NOUN sleep%1:26:00::
+#30 cycle NOUN cycle%1:28:00::
+A change in the balance to the parasympathetic side leads in the normal individual to sleep or , in special circumstances , to cardiovascular collapse or nausea and vomiting .
+7
+#1 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#4 balance NOUN balance%1:07:00::,balance%1:26:00::
+#8 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#9 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#12 normal ADJ normal%3:00:01::,normal%3:00:03::
+#15 sleep NOUN sleep%1:26:00::
+#20 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+In both conditions the emotional and perceptual sensitivity is diminished , but no depression occurs such as is seen clinically or may be produced in normal persons by drugs .
+8
+#2 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#9 diminished ADJ diminished%5:00:01:decreased:00
+#13 depression NOUN depression%1:28:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 clinically ADV clinically%4:02:00::
+#23 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#25 normal ADJ normal%3:00:01::,normal%3:00:03::
+#26 person NOUN person%1:03:00::,person%1:08:00::
+The fundamental differences between physiological and pathological states of parasympathetic ( and also of sympathetic ) dominance remain to be elucidated .
+2
+#7 state NOUN state%1:03:00::,state%1:26:01::,state%1:26:02::
+#14 sympathetic ADJ sympathetic%3:01:00::
+Perhaps a clue to these and related problems lies in the fact that changes in the intensity of hypothalamic discharges which are associated with changes in its balance lead also to qualitative alterations in reactivity .
+8
+#2 clue NOUN clue%1:10:01::
+#7 problem NOUN problem%1:09:00::,problem%1:26:00::
+#13 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#16 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#19 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#24 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#27 balance NOUN balance%1:07:00::,balance%1:26:00::
+#28 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+A state of parasympathetic " tuning " of the hypothalamus induced experimentally causes not only an increase in the parasympathetic reactivity this structure to direct and reflexly induced stimuli , but leads also to an autonomic reversal : a stimulus acting sympathetically under control conditions elicits in this state of tuning a parasympathetic response !
+4
+#10 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#24 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#27 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#31 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+Furthermore , conditioned reactions are fundamentally altered when the hypothalamic sympathetic reactivity is augmented beyond a critical level , and several types of behavioral changes probably related to the degree of central autonomic " tuning " are observed .
+6
+#10 sympathetic ADJ sympathetic%3:01:00::
+#17 level NOUN level%1:26:00::,level%1:26:01::
+#21 type NOUN type%1:18:00::
+#24 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#29 degree NOUN degree%1:26:01::
+#37 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+If , for instance , such a change is produced by one or a few insulin comas or electroshocks , previously inhibited conditioned reactions reappear .
+2
+#7 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#16 coma NOUN coma%1:09:00::
+However , if these procedures are applied more often , conditioned emotional responses are temporarily abolished .
+3
+#0 however ADV however%4:02:04::
+#6 apply VERB apply%2:34:00::
+#7 more ADV more%4:02:00::
+In other studies , loss of differentiation in previously established conditioned reflexes resulted from repeated convulsive ( metrazol ) treatments , suggesting a fundamental disturbance in the balance between excitatory and inhibitory cerebral processes .
+6
+#1 other ADJ other%3:00:00::
+#2 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#9 established ADJ established%3:00:00::
+#27 balance NOUN balance%1:07:00::,balance%1:26:00::
+#32 cerebral ADJ cerebral%3:01:00::
+#33 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+It has further been shown that : ( 1 ) an experimental neurosis in its initial stages is associated with a reversible shift in the central autonomic balance ; ( 2 ) drugs altering the hypothalamic balance alter conditioned reactions ; ( 3 ) in a state of depression , the positive conditioned stimulus may fail to elicit a conditioned reaction but cause an increased synchrony instead of the excitatory desynchronizing ( alerting ) effect on the EEG .
+10
+#2 further ADV further%4:02:02::,further%4:02:03::
+#4 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#16 stage NOUN stage%1:04:00::,stage%1:26:00::
+#22 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#27 balance NOUN balance%1:07:00::,balance%1:26:00::
+#36 balance NOUN balance%1:07:00::,balance%1:26:00::
+#48 depression NOUN depression%1:28:00::
+#55 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#65 synchrony NOUN synchrony%1:24:00::
+#74 effect NOUN effect%1:09:00::,effect%1:19:00::
+These are few and seemingly disjointed data , but they illustrate the important fact that fundamental alterations in conditioned reactions occur in a variety of states in which the hypothalamic balance has been altered by physiological experimentation , pharmacological action , or clinical processes .
+6
+#6 data NOUN data%1:14:00::,datum%1:09:00::
+#23 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#30 balance NOUN balance%1:07:00::,balance%1:26:00::
+#39 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#42 clinical ADJ clinical%3:01:00::
+#43 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+The foregoing remarks imply that the hypothalamic balance plays a crucial role at the crossroads between physiological and pathological forms of emotion .
+2
+#7 balance NOUN balance%1:07:00::,balance%1:26:00::
+#19 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+If this is the case , one would expect that not only the various procedures just mentioned which alter the hypothalamic balance would influence emotional state and behavior but that emotion itself would act likewise .
+3
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#21 balance NOUN balance%1:07:00::,balance%1:26:00::
+#33 act VERB act%2:29:00::
+We pointed out that emotional excitement may lead to psychosomatic disorders and neurotic symptoms , particularly in certain types of personality , but it is also known that the reliving of a strong emotion ( " abreaction " ) may cure a battle neurosis .
+6
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#15 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#18 type NOUN type%1:18:00::
+#20 personality NOUN personality%1:07:00::
+#32 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#40 cure VERB cure%2:29:00::
+This phenomenon raises the question whether the guidance of the emotions for therapeutic ends may not have an even wider application in the area of the neuroses .
+6
+#1 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#2 raise VERB raise%2:32:01::,raise%2:37:08::
+#7 guidance NOUN guidance%1:10:00::
+#13 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#19 wide ADJ wide%5:00:00:large:00
+#23 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Being a strictly physiological procedure , one may expect from such a study additional information on the nature of the emotional process itself .
+5
+#2 strictly ADV strictly%4:02:01::
+#12 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#14 information NOUN information%1:09:00::,information%1:10:02::
+#17 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#21 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+Wolpe 's experiments and therapeutic work lie in this area .
+2
+#5 work NOUN work%1:04:00::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+He showed convincingly that anxiety is a learned ( conditioned ) reaction and is the basis of experimental and clinical neuroses and assumed , therefore , that the neuronal changes which underlie the neuroses are functional and reversible .
+5
+#1 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#19 clinical ADJ clinical%3:01:00::
+#22 assume VERB assume%2:31:00::
+#29 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#35 functional ADJ functional%3:00:02::
+An important observation of Pavlov served as a guide post to achieve such a reversibility by physiological means .
+2
+#5 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#17 means NOUN means%1:06:00::
+In a conditioning experiment , he demonstrated the antagonism between feeding and pain .
+2
+#6 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#12 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+A mild electrical shock served as a conditioned stimulus and was followed by feeding .
+3
+#4 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#11 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#13 feed NOUN feed%1:13:00::
+The pain became thus the symbol for food and elicited salivary secretion ( conditioned reflex ) .
+3
+#1 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#2 become VERB become%2:30:00::,become%2:42:01::
+#3 thus ADV thus%4:02:01::
+Even when the intensity of the shocks was increased gradually , it failed to evoke any signs of pain .
+5
+#3 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#6 shock NOUN shock%1:26:00::
+#14 evoke VERB evoke%2:32:01::
+#16 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#18 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+Since strong nociceptive stimuli produce an experimental neurosis during which the animals fail to eat in the experimental situation , Wolpe thought that he could utilize the feeding pain antagonism to inhibit the neurotic symptoms through feeding .
+9
+#1 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#4 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#12 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#18 situation NOUN situation%1:26:01::
+#21 think VERB think%2:31:01::,think%2:31:03::
+#27 feed NOUN feed%1:13:00::
+#28 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#31 inhibit VERB inhibit%2:41:04::
+#36 feed NOUN feed%1:13:00::
+Appropriate experiments showed that this is , indeed , possible .
+1
+#7 indeed ADV indeed%4:02:03::
+He then applied this principle of reciprocal inhibition to human neuroses .
+1
+#2 apply VERB apply%2:34:00::
+He took advantage of the antagonism between aggressive assertiveness and anxiety and found a relatively rapid disappearance of anxiety when the former attitude was established .
+3
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#21 former ADJ former%3:00:00::
+#24 establish VERB establish%2:36:01::,establish%2:41:00::
+For the interpretation of these significant investigations , it should be remembered that reciprocal relations exist in the hypothalamus with respect to autonomic and somatic functions which are closely associated with the emotions .
+3
+#14 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#15 exist VERB exist%2:42:00::
+#25 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+The feeding pain antagonism seems to be based on this reciprocal relation between the tropho - and ergotropic systems .
+4
+#1 feed NOUN feed%1:13:00::
+#2 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#11 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#18 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+Furthermore , a functional antagonism exists between an aggressive attitude and a state of anxiety .
+1
+#5 exist VERB exist%2:42:00::
+Although in both emotions sympathetic symptoms are present , different autonomic somatic patterns underlie aggression and anxiety , respectively , as indicated by the rate of the excretion of the catecholamines , the state of the muscle tone , and the Mecholyl test .
+5
+#7 present ADJ present%3:00:02::
+#9 different ADJ different%3:00:00::,different%5:00:00:other:00
+#12 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#21 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#24 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+The psychological incompatibility of these emotional states seems to be reflected in , or based on , this marked difference .
+3
+#10 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#14 base VERB base%2:31:00::
+#18 marked ADJ marked%5:00:00:noticeable:00
+In our attempt to interpret the emotions in their physiological and pathological range , we emphasized the importance of the degree of activity of the parasympathetic and sympathetic divisions of the hypothalamic system and their influence on the inhibitory and excitatory systems , respectively .
+6
+#4 interpret VERB interpret%2:32:00::
+#12 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#20 degree NOUN degree%1:26:01::
+#27 sympathetic ADJ sympathetic%3:01:00::
+#32 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#41 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+We stressed the reciprocal relation of these systems with respect to the autonomic somatic downward discharge as well as regarding the hypothalamic cortical discharge .
+5
+#1 stress VERB stress%2:32:00::,stress%2:32:01::
+#4 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#7 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#15 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#23 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+Although we are still far from a complete understanding of these problems , as a first approximation , it is suggested that alterations in the hypothalamic balance with consequent changes in the hypothalamic cortical discharges account for major changes in behavior seen in various moods and states of emotions in man and beast under physiological circumstances , in experimental and clinical neurosis , and as the result of psychopharmacological agents .
+14
+#7 complete ADJ complete%5:00:00:skilled:00
+#11 problem NOUN problem%1:09:00::,problem%1:26:00::
+#15 first ADJ first%3:00:00::,first%4:02:00::
+#26 balance NOUN balance%1:07:00::,balance%1:26:00::
+#29 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#34 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#37 major ADJ major%3:00:05::,major%3:00:06::
+#38 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#41 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#44 mood NOUN mood%1:12:00::
+#50 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#55 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#60 clinical ADJ clinical%3:01:00::
+#69 agent NOUN agent%1:10:00::,agent%1:17:00::
+In view of the important role which emotional disturbances play in the genesis of neurotic and psychotic disorders and the parallelism observed between autonomic states and psychological behavior in several instances , it is further suggested that a hypothalamic imbalance may play an important role in initiating mental changes .
+6
+#21 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#30 instance NOUN instance%1:09:00::
+#34 further ADV further%4:02:02::,further%4:02:03::
+#46 initiate VERB initiate%2:30:00::
+#47 mental ADJ mental%3:01:00::
+#48 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::

@@ -1,0 +1,649 @@
+ She concluded by asking him to name another hour should this one be inconvenient .
+3
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+#6 name VERB name%2:32:09::
+#8 hour NOUN hour%1:07:00::,hours%1:28:01::
+The fish took the bait .
+2
+#1 fish NOUN fish%1:13:00::
+#4 bait NOUN bait%1:06:00::
+He replied that he could not imagine what importance there might be in thus meeting with a stranger , but - joy of joys , he would be at home at the hour mentioned .
+3
+#6 imagine VERB imagine%2:31:01::
+#14 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#32 hour NOUN hour%1:07:00::,hours%1:28:01::
+But when she called he had thought better of the matter and decided not to involve himself in a new entanglement .
+4
+#3 call VERB call%2:41:00::,call%2:41:12::
+#6 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 better ADV better%4:02:00::
+#10 matter NOUN matter%1:09:00::,matter%1:09:01::
+She was told by the manservant who opened the door that his lordship was engaged on work from which he had left strict orders he was not to be disturbed .
+8
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#12 lordship NOUN lordship%1:07:00::
+#14 engage VERB engage%2:40:00::,engage%2:40:01::,engage%2:41:06::
+#16 work NOUN work%1:04:00::
+#21 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#23 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#26 not ADV not%4:02:00::
+Claire was bitterly disappointed but determined not to let the rebuff daunt her purpose .
+1
+#8 let VERB let%2:30:01::,let%2:41:00::
+She wrote again and now , abandoning for the moment the theme of love , she asked for help in the matter of her career .
+8
+#1 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 abandon VERB abandon%2:40:01::
+#11 theme NOUN theme%1:10:02::
+#13 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#16 ask VERB ask%2:32:01::,ask%2:32:05::
+#18 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#21 matter NOUN matter%1:09:00::,matter%1:09:01::
+She could act and she could write .
+2
+#2 act VERB act%2:29:00::,act%2:36:00::
+#6 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+His lordship was concerned in the management of Drury Lane but , if there were no opportunities there , would he read and criticize her novel ?
+3
+#1 lordship NOUN lordship%1:07:00::
+#6 management NOUN management%1:04:00::,management%1:14:00::
+#23 criticize VERB criticise%2:32:00::
+At last he consented to meet her , and following that brief interview Claire wrote him a yet more remarkable proposal :
+4
+#5 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#9 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#17 yet ADV yet%4:02:03::
+#20 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+Have you any objection to the following plan ?
+3
+#0 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#7 plan NOUN plan%1:09:00::
+On Thursday evening we may go out of town together by some stage or mail about the distance of ten or twelve miles .
+5
+#2 evening NOUN evening%1:28:00::,evening%1:28:02::
+#9 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#12 stage NOUN stage%1:06:01::
+#14 mail NOUN mail%1:06:01::
+#17 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+There we shall be free and unknown ; we can return the following morning .
+4
+#0 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#10 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#12 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#13 morning NOUN morning%1:28:00::,morning%1:28:01::
+She concluded by asking for a brief interview - " to settle with you where " - and she threw in a tribute to his " gentle manners " and " the wild originality of your countenance " .
+5
+#1 conclude VERB conclude%2:32:06::,conclude%2:42:02::,concluding%5:00:00:closing:00
+#22 tribute NOUN tribute%1:10:01::
+#26 gentle ADJ gentle%5:00:00:mild:00
+#27 manner NOUN manner%1:07:01::,manners%1:07:00::
+#36 countenance NOUN countenance%1:07:00::
+He agreed !
+1
+#1 agree VERB agree%2:32:00::,agree%2:32:01::
+And he would see her that evening .
+2
+#3 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#6 evening NOUN evening%1:28:00::,evening%1:28:02::
+At their meeting he told her not to bother about " where " - he would attend to that .
+4
+#2 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 bother VERB bother%2:41:00::
+#16 attend VERB attend%2:39:00::,attend%2:41:00::,attend%2:41:12::
+There was one of the new forte-pianos in the room and , as Claire rose to go , he asked her to sing him one song before she left .
+5
+#9 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#14 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#19 ask VERB ask%2:32:01::,ask%2:32:05::
+#22 sing VERB sing%2:32:08::,sing%2:36:01::
+#28 leave VERB leave%2:38:00::,leave%2:41:00::
+She sang him Scott 's charming ballad " Rosabelle " , which was the vogue of the moment .
+2
+#1 sing VERB sing%2:32:08::,sing%2:36:01::
+#17 moment NOUN moment%1:28:00::,moment%1:28:01::
+She had never sung better .
+3
+#2 never ADV never%4:02:00::
+#3 sing VERB sing%2:32:08::,sing%2:36:01::
+#4 better ADV better%4:02:00::
+" Your voice is delightful " , he approved with a warm smile .
+3
+#2 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#8 approve VERB approve%2:31:00::,approve%2:32:00::
+#11 warm ADJ warm%3:00:02::,warm%5:00:00:excitable:00,warm%5:00:00:lively:00,warm%5:00:00:loving:00
+" Tomorrow will be a new experience - I have never before made love to a nightingale .
+3
+#5 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#10 never ADV never%4:02:00::
+#11 before ADV before%4:02:03::
+There have been cooing doves , chattering magpies , thieving jackdaws , a proud peacock , a silly goose , and a harpy eagle - whom I was silly enough to mate with and who is now busy tearing at my vitals " .
+7
+#4 dove NOUN dove%1:05:00::
+#7 magpie NOUN magpie%1:05:00::
+#13 proud ADJ proud%5:00:00:impressive:00
+#29 enough ADV enough%4:02:00::
+#31 mate VERB mate%2:35:00::
+#36 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#38 tear VERB tear%2:35:00::,tear%2:35:01::
+And so they went , he choosing of all places an inn near Medmenham Abbey , scene a generation ago of the obscene orgies of the Hellfire Club .
+2
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#18 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+He regaled Claire with an account of the mock mass performed by the cassocked bloods , which he had had at firsthand from old Bud Dodington , one of the leaders of the so-called " Order " .
+4
+#5 account NOUN account%1:10:03::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 old ADJ old%3:00:01::,old%3:00:02::
+#30 leader NOUN leader%1:18:00::
+Each wore the monkish scourge at his waist but this , it seems , was not employed for self-flagellation .
+4
+#1 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#4 scourge NOUN scourge%1:06:00::
+#15 not ADV not%4:02:00::
+#16 employ VERB employ%2:34:00::
+Naked girls danced in the chancel of the Abbey , the youngest and seemingly the most innocent being chosen to read a sermon filled with veiled depravities .
+6
+#0 naked ADJ naked%5:00:00:unclothed:00
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#2 dance VERB dance%2:36:00::,dance%2:38:01::
+#15 most ADV most%4:02:00::
+#16 innocent ADJ innocent%3:00:00::
+#20 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+The jaded amorist conjured up pictures of the blasphemous rites with relish .
+1
+#11 relish NOUN relish%1:12:02::
+Alas , all that belonged to the age of " Devil Dashwood " and " Wicked Wilkes " , abbot and beadsman of the Order !
+1
+#7 age NOUN age%1:28:02::,age%1:28:03::
+The casual seduction of a seventeen year old bluestocking seemed tame by comparison .
+3
+#1 casual ADJ casual%5:00:00:unconcerned:00
+#10 tame ADJ tame%3:00:01::
+#12 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+They passed close by the turn to Bishopsgate .
+2
+#1 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#5 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+A scant half mile away Shelley and Mary were doubtless sitting on their diminutive terrace , the air about them scented with stock , and listening to the nightingale who had nested in the big lime tree at the foot of the garden .
+8
+#10 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#14 terrace NOUN terrace%1:17:00::
+#17 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#22 stock NOUN stock%1:05:00::,stock%1:06:00::,stock%1:21:01::
+#31 nest VERB nest%2:35:01::
+#34 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#39 foot NOUN foot%1:15:00::
+#42 garden NOUN garden%1:06:00::
+Charming and peaceful - but what were charm and peace compared to high adventure ?
+4
+#2 peaceful ADJ peaceful%3:00:00::
+#7 charm NOUN charm%1:07:00::
+#9 peace NOUN peace%1:12:00::,peace%1:26:00::
+#10 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+Alone with the fabulous Byron !
+1
+#0 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+How many women had longed for the privilege that was hers .
+1
+#4 long VERB long%2:37:02::
+How was she to behave , Claire wondered .
+2
+#4 behave VERB behave%2:41:00::,behave%2:41:01::
+#7 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+To be passive , to be girlishly shy was palpably absurd .
+2
+#2 passive ADJ passive%3:00:02::
+#7 shy ADJ shy%5:00:00:wary:00
+And while her Adonis did not suffer from inexperience , satiety might well be an equal handicap .
+2
+#6 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#15 equal ADJ equal%3:00:00::
+No , she would not pretend modesty , but neither must she be crudely bold .
+3
+#5 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#9 neither ADV neither%5:00:00:incomplete:00
+#14 bold ADJ bold%3:00:00::
+Mystery - that was the thing .
+2
+#0 mystery NOUN mystery%1:09:00::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+In the bedroom she would insist on darkness .
+1
+#7 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+At the inn , which was situated close to a broad weir , Byron was greeted by the landlord with obsequious deference and addressed as " milord " .
+3
+#10 broad ADJ broad%3:00:04::,broad%5:00:00:large:00
+#15 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#23 address VERB address%2:32:00::,address%2:32:02::,address%2:41:08::
+The place was evidently a familiar haunt and Claire wondered what other illicit loves had been celebrated in the comfortable rooms to which they were shown .
+6
+#3 evidently ADV evidently%4:02:00::
+#5 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#9 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#19 comfortable ADJ comfortable%3:00:01::
+#20 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#25 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+The fire in the sitting room was lighted .
+1
+#1 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+Byron inquired .
+1
+#1 inquire VERB inquire%2:32:01::
+" Seems to me last time I was here the grate bellowed out smoke as it might have been preparing us for hell " .
+6
+#4 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#5 time NOUN time%1:11:00::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 grate NOUN grate%1:06:00::
+#19 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#22 hell NOUN hell%1:09:00::
+" We found some owls had built a nest in the chimney , milord , but I promise you you 'll never have trouble of that sort again " .
+7
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#8 nest NOUN nest%1:17:00::
+#17 promise VERB promise%2:32:00::,promise%2:32:01::
+#21 never ADV never%4:02:00::
+#22 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#23 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#26 sort NOUN sort%1:09:00::,sort%1:18:00::
+So , not only had he been here before , but it seemed he might well come again .
+3
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#8 before ADV before%4:02:03::
+#16 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Claire felt suddenly small and cheap , heroine of a trivial episode in the voluminous history of Don Juan .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#15 history NOUN history%1:28:02::
+A cold supper was ordered and a bottle of port .
+3
+#1 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#4 order VERB order%2:32:00::
+#9 port NOUN port%1:13:00::
+When Napoleon 's ship had borne him to Elba , French wines had started to cross the Channel , the first shipments in a dozen war-ridden years , but the supplies had not yet reached rural hostelries where the sweet wines of the Spanish peninsula still ruled .
+10
+#5 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#13 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#15 cross VERB cross%2:38:00::
+#20 first ADJ first%3:00:00::,first%4:02:00::
+#24 dozen NOUN dozen%1:23:00::
+#26 year NOUN year%1:28:00::,year%1:28:01::
+#34 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#39 sweet ADJ sweet%3:00:01::,sweet%5:00:00:fragrant:00
+#45 still ADV still%4:02:00::
+#46 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+As they waited for supper they sat by the fire , glasses in hand , while Byron philosophized as much for his own entertainment as hers .
+5
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#6 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#11 glass NOUN glass%1:06:00::,glass%1:06:02::,glass%1:06:04::,glass%1:27:00::
+#22 own ADJ own%5:00:00:personal:00
+" Sex is overpriced " , he said .
+2
+#1 sex NOUN sex%1:04:00::,sex%1:07:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" The great Greek tragedies are concerned with man against Fate , not man against man for the prize of a woman 's body .
+6
+#2 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#4 tragedy NOUN tragedy%1:11:00::
+#6 concern VERB concern%2:42:00::,concern%2:42:01::
+#8 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#10 fate NOUN fate%1:18:00::
+#23 body NOUN body%1:08:00::,body%1:08:02::
+So do n't see yourself as a heroine or fancy this little adventure is an event of major importance " .
+3
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#9 fancy VERB fancy%2:36:00::
+#17 major ADJ major%3:00:05::,major%3:00:06::
+" The gods seemed to think sex pretty important " , she rebutted .
+3
+#5 think VERB think%2:31:01::,think%2:31:03::
+#6 sex NOUN sex%1:04:00::,sex%1:07:00::
+#12 rebut VERB rebut%2:31:00::
+" Mars and Venus , Bacchus and Ariadne , Jupiter and Io , Byron and the nymph of the owl 's nest .
+2
+#16 nymph NOUN nymph%1:18:00::
+#21 nest NOUN nest%1:17:00::
+That would be Minerva , I suppose .
+1
+#6 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+" So you know something of the classics , do you " ?
+1
+#7 classic NOUN classic%1:18:00::
+" Tell me about Minerva , how she behaved , what she did to please you " .
+2
+#8 behave VERB behave%2:41:00::,behave%2:41:01::
+#14 please VERB please%2:37:00::,please%2:37:03::
+" I 'll tell you nothing .
+1
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+I do n't ask you who ' tis you 're being unfaithful to , husband or lover .
+1
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+Frankly , I do n't care " .
+1
+#5 care VERB care%2:37:00::,care%2:37:12::
+For a moment she thought of answering with the truth but she knew there were men who shied away from virginity , who demanded some degree of education in body as well as mind .
+7
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#6 answer VERB answer%2:31:00::,answer%2:32:00::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#25 degree NOUN degree%1:26:01::
+#27 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#29 body NOUN body%1:08:00::,body%1:08:02::
+" Very well " , she said , " I 'll not catechize you .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+What matter the others so long as I have my place in history " .
+4
+#1 matter VERB matter%2:42:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#12 history NOUN history%1:28:00::
+No man ever had a better opinion of himself and indeed , with one so favored , flattery could hardly seem overdone .
+8
+#2 ever ADV ever%4:02:05::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#10 indeed ADV indeed%4:02:03::
+#14 so ADV so%4:02:03::,so%4:02:07::
+#15 favor VERB favor%2:31:00::,favor%2:41:00::
+#19 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#21 overdone ADJ overdone%5:00:00:immoderate:00
+Brains and beauty , high position in both the social and intellectual worlds , athlete , fabled lover - if ever the world was any man's oyster it was his .
+5
+#2 beauty NOUN beauty%1:07:00::
+#5 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#9 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#12 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#20 ever ADV ever%4:02:05::
+The light supper over , Claire went to him and , slipping an arm about his shoulder , sat on his knee .
+6
+#1 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#11 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#13 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#16 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#18 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+He drew her close and , hand on cheek , turned her face to his .
+6
+#1 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#3 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#6 hand NOUN hand%1:08:00::,hand%1:10:01::
+#8 cheek NOUN cheek%1:08:00::
+#10 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#12 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Her lips , moist and parted , spoke his name .
+3
+#1 lip NOUN lip%1:08:00::,lip%1:20:00::
+#7 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#9 name NOUN name%1:14:00::
+His hand went to her shoulder and pushed aside the knotted scarf that surmounted the striped poplin gown ; then , to better purpose , he took hold of the knot and with dextrous fingers , untied it .
+8
+#1 hand NOUN hand%1:08:00::,hand%1:10:01::
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#5 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#11 scarf NOUN scarf%1:06:00::
+#13 surmount VERB surmount%2:42:00::
+#19 then ADV then%4:02:00::
+#22 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#30 knot NOUN knot%1:06:00::
+The bodice beneath was buttoned and , withdrawing his lips from hers , he set her upright on his knee and started to undo it , unhurriedly as if she were a child .
+6
+#7 withdraw VERB withdraw%2:30:01::,withdraw%2:32:01::,withdraw%2:40:00::,withdraw%2:40:01::
+#9 lip NOUN lip%1:08:00::,lip%1:20:00::
+#14 set VERB set%2:35:00::
+#16 upright ADJ upright%5:00:00:vertical:00
+#21 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#23 undo VERB undo%2:35:01::
+But , kindled by his kiss , his caressing hand , her desire was aflame .
+2
+#5 kiss NOUN kiss%1:04:00::
+#9 hand NOUN hand%1:08:00::,hand%1:10:01::
+She sprang up and went swiftly to the bedroom .
+3
+#1 spring VERB spring%2:38:01::
+#2 up ADV up%4:02:00::,up%4:02:02::
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Lord Byron poured himself another glass of wine and held it up to the candle flame admiring the rich color .
+4
+#9 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#11 up ADV up%4:02:00::,up%4:02:02::
+#18 rich ADJ rich%5:00:00:colorful:00,rich%5:00:00:full:01
+#19 color NOUN color%1:07:00::,color%1:27:00::
+He drank slowly with due appreciation .
+3
+#1 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#4 due ADJ due%3:00:02::
+#5 appreciation NOUN appreciation%1:04:01::
+It was an excellent vintage .
+1
+#3 excellent ADJ excellent%5:00:00:superior:02
+He rose and went to the bedroom .
+2
+#1 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Pausing in the doorway he said : " The form of the human female , unlike her mind and her spirit , is the most challenging loveliness in all nature " .
+5
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#20 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#24 most ADV most%4:02:00::
+#29 nature NOUN nature%1:18:00::,nature%1:26:00::
+When Claire returned to Bishopsgate she longed to tell them she had become Byron 's mistress .
+5
+#2 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#6 long VERB long%2:37:02::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#12 become VERB become%2:30:00::,become%2:42:01::
+#15 mistress NOUN mistress%1:18:01::
+By odd coincidence , on the evening of her return Shelley chose to read Parisina , which was the latest of the titled poet 's successes .
+6
+#1 odd ADJ odd%5:00:00:strange:00
+#2 coincidence NOUN coincidence%1:07:01::
+#6 evening NOUN evening%1:28:00::,evening%1:28:02::
+#9 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#13 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#19 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+As he declaimed the sonorous measures , it was as much as Claire could do to restrain herself from bursting out with her dramatic tidings .
+2
+#5 measure NOUN measure%1:10:00::,measure%1:10:01::
+#23 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+" Although it is not the best of which he is capable " , said Shelley as he closed the book , " it is still poetry of a high order " .
+5
+#6 good ADJ best%3:00:00::,good%3:00:01::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#20 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#30 order NOUN order%1:07:01::
+" If he would only leave the East " , said Mary .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" The hero of his next poem is Napoleon Bonaparte " , said Claire , with slightly overdone carelessness .
+5
+#2 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#5 next ADJ next%5:00:00:close:01
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 slightly ADV slightly%4:02:01::
+#17 overdone ADJ overdone%5:00:00:immoderate:00
+" How do you know that " ? demanded Mary .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" I was told it on good authority " , Claire answered darkly .
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 answer VERB answer%2:31:00::,answer%2:32:00::
+" I must n't tell , I must n't tell " , she repeated to herself .
+3
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#13 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+" I promised him I would n't " .
+1
+#2 promise VERB promise%2:32:00::,promise%2:32:01::
+Winter came , and with it Mary 's baby - a boy as she had wished .
+3
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#8 baby NOUN baby%1:05:00::
+#11 boy NOUN boy%1:18:03::
+William , he was called , in honor of the man who was at once Shelley 's pensioner and his most bitter detractor .
+4
+#7 honor NOUN honor%1:07:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#20 most ADV most%4:02:00::
+#21 bitter ADJ bitter%5:00:00:hostile:01,bitter%5:00:00:resentful:00
+With a pardonable irony Shelley wrote to the father who had publicly disowned his daughter :
+2
+#5 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#8 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+" Fanny and Mrs. Godwin will probably be glad to hear that Mary has safely recovered from a very favorable confinement , and that her child is well " .
+4
+#15 recover VERB recover%2:29:00::
+#19 favorable ADJ favorable%5:00:00:propitious:00
+#20 confinement NOUN confinement%1:26:01::
+#27 well ADJ well%3:00:01::
+At the same time another child - this one of Shelley 's brain - was given to the world : Alastor , a poem of pervading beauty in which the reader may gaze into the still depths of a fine mind 's musings .
+5
+#15 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#18 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#26 beauty NOUN beauty%1:07:00::
+#30 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#36 depth NOUN depth%1:07:01::,depth%1:07:02::
+Alastor was published only to be savagely attacked , contemptuously ignored .
+2
+#2 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#3 only ADV only%4:02:00::,only%4:02:04::
+Shelley sent a copy to Southey , a former friend , and another to Godwin .
+4
+#1 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#3 copy NOUN copy%1:10:00::
+#8 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#9 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+Neither acknowledged the gift .
+2
+#1 acknowledge VERB acknowledge%2:32:04::,acknowledge%2:32:07::
+#3 gift NOUN gift%1:04:00::
+Only Mary 's praise sustained him in his disappointment .
+2
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 sustain VERB sustain%2:34:00::,sustain%2:35:00::,sustain%2:42:01::
+She understood completely .
+1
+#1 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Not a thought nor a cadence was missed in her summary of appreciation .
+3
+#2 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#7 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#12 appreciation NOUN appreciation%1:09:00::
+" You have made the labor worth while " , he said to her , smiling .
+3
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" And in the future , since I write for a public of one , I can save the poor publishers from wasting their money " .
+4
+#4 future NOUN future%1:10:00::,future%1:28:00::
+#8 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#19 poor ADJ poor%5:00:00:unfortunate:00
+#22 waste VERB waste%2:34:05::,waste%2:40:00::
+" A public of one " , Mary echoed reprovingly .
+1
+#8 echo VERB echo%2:39:00::
+" how can you say such a thing ?
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+There will be thousands who will thrill to the loveliness of Alastor .
+1
+#6 thrill VERB thrill%2:37:02::
+There are some even now .
+1
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+What about that dear , clever Mr. Thynne ?
+1
+#3 dear ADJ dear%5:00:00:close:02
+I am sure he is in raptures " .
+1
+#6 rapture NOUN rapture%1:26:00::
+" Poor Mr. Thynne , he always has to be trotted out for my encouragement " .
+2
+#1 poor ADJ poor%5:00:00:unfortunate:00
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+" There are other Mr. Thynnes .
+1
+#3 other ADJ other%3:00:00::
+Not everyone is bewitched by Byron 's caliphs and harem beauties " .
+3
+#0 not ADV not%4:02:00::
+#9 harem NOUN harem%1:06:00::
+#10 beauty NOUN beauty%1:18:00::
+Mary 's super critical attitude toward Byron had nothing to do with his moral disrepute .
+2
+#3 critical ADJ critical%3:00:01::
+#13 moral ADJ moral%3:00:00::
+She was resentful of his easy success as compared with Shelley 's failure .
+3
+#5 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#8 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#12 failure NOUN failure%1:04:00::,failure%1:18:00::
+The same month that Alastor was published , Murray sold twenty thousand copies of The Siege of Corinth , a slovenly bit of Byronism that even Shelley 's generosity rebelled at .
+5
+#1 same ADJ same%3:00:00::,same%3:00:02::
+#6 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#9 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#12 copy NOUN copy%1:10:00::
+#21 bit NOUN bit%1:23:01::
+The careless writing was in keeping with his mood of savage discontent .
+2
+#5 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#8 mood NOUN mood%1:12:00::
+On all sides doors were being slammed in his face .
+1
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+The previous scandals , gaily diverting as they were , had only served to increase his popularity .
+4
+#1 previous ADJ previous%5:00:00:preceding:00
+#5 divert VERB divert%2:38:00::
+#11 only ADV only%4:02:00::,only%4:02:04::
+#12 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+Now , under the impact of his wife 's disclosures , he was brought suddenly to the realization that there was a limit to tolerance , however brilliant , however far-famed the offender might be .
+8
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#17 realization NOUN realisation%1:04:00::
+#22 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#24 tolerance NOUN tolerance%1:07:03::
+#26 however ADV however%4:02:00::,however%4:02:02::
+#27 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#29 however ADV however%4:02:00::,however%4:02:02::
+#32 offender NOUN offender%1:18:00::
+He tried defiance and openly flaunted his devotion to his half sister , but he soon saw , as did she , that this course if persisted in would involve them in a common ruin .
+4
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#15 soon ADV soon%4:02:00::
+#24 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#33 common ADJ common%3:00:02::,common%5:00:00:shared:00
+For the moment there was no woman in his life , and it was this vacuum that had given Claire her opportunity .
+2
+#15 vacuum NOUN vacuum%1:25:00::
+#18 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+But the liaison successfully started in the last days of autumn was now languishing .
+5
+#2 liaison NOUN liaison%1:10:00::
+#7 last ADJ last%5:00:00:unlikely:00
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 languish VERB languish%2:29:00::
+Byron , since the separation from his wife had been living in a smallish house in Piccadilly Terrace .
+3
+#4 separation NOUN separation%1:11:00::
+#10 live VERB live%2:42:08::
+#14 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+He refused to bring Claire to it even as an occasional visitor , claiming that his every move was watched by spies of the Milbankes .
+1
+#19 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::

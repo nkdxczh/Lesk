@@ -1,0 +1,534 @@
+ One hundred years ago there existed in England the Association for the Promotion of the Unity of Christendom .
+1
+#5 exist VERB exist%2:42:00::
+Representing as it did the efforts of only unauthorized individuals of the Roman and Anglican Churches , and urging a communion of prayer unacceptable to Rome , this association produced little fruit , and , in fact , was condemned by the Holy Office in 1864 .
+5
+#0 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#29 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#31 fruit NOUN fruit%1:20:00::
+#39 condemn VERB condemn%2:32:00::
+Now again in 1961 , in England , there is perhaps nothing in the religious sphere so popularly discussed as Christian unity .
+3
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#15 sphere NOUN sphere%1:09:00::
+#21 unity NOUN unity%1:07:00::,unity%1:26:00::
+The Church Unity Octave , January 18 - 25 , was enthusiastically devoted to prayer and discussion by the various churches .
+1
+#12 devote VERB devote%2:31:00::
+Many people seem hopeful , yet it is difficult to predict whether or not there will be any more real attainment of Christian unity in 1961 than there was in 1861 .
+3
+#1 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#13 not ADV not%4:02:00::
+#23 unity NOUN unity%1:07:00::,unity%1:26:00::
+But it must be readily seen that the religious picture in England has so greatly changed during these hundred years as to engender hope , at least on the Catholic side .
+6
+#13 so ADV so%4:02:03::,so%4:02:07::
+#15 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#19 year NOUN year%1:28:00::,year%1:28:01::
+#23 hope NOUN hope%1:07:00::,hope%1:12:00::
+#29 catholic ADJ catholic%3:01:00::
+#30 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+For " the tide is well on the turn " , as the London Catholic weekly Universe has written .
+1
+#18 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+I came to England last summer to do research on the unpublished letters of Cardinal Newman .
+4
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#4 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#5 summer NOUN summer%1:28:00::
+#12 letter NOUN letter%1:10:00::
+As an American Catholic of Irish ancestry , I came with certain preconceptions and expectations ; being intellectually influenced by Newman and the general 19th century literature of England , I knew only a Protestant dominated country .
+6
+#6 ancestry NOUN ancestry%1:14:00::
+#9 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#23 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#25 century NOUN century%1:28:00::
+#32 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#36 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Since arriving here , however , I have formed a far different religious picture of present-day England .
+3
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#4 however ADV however%4:02:04::
+#8 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+In representing part of this new picture , I will be recounting some of my own personal experiences , reactions and judgments ; but my primary aim is to transcribe what Englishmen themselves are saying and writing and implying about the Roman and Anglican Churches and about the present religious state of England .
+8
+#2 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#11 recount VERB recount%2:32:00::
+#15 own ADJ own%5:00:00:personal:00
+#16 personal ADJ personal%5:00:00:subjective:00
+#21 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#26 aim NOUN aim%1:09:00::
+#34 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#48 present ADJ present%3:00:01::
+Since the Protestant clergy for the most part wear gray or some variant from the wholly black suit , my Roman collar and black garb usually identify me in England as a Roman Catholic cleric .
+6
+#8 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#9 gray NOUN gray%1:06:00::
+#16 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#17 suit NOUN suit%1:06:00::
+#23 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#24 garb NOUN garb%1:06:00::
+In any case , I have always been treated with the utmost courtesy by Englishmen , even in Devonshire and Cornwall , where anti Catholic feeling has supposedly existed the strongest and longest .
+5
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#8 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#24 catholic ADJ catholic%3:01:00::
+#28 exist VERB exist%2:42:00::
+#30 strong ADJ strong%3:00:00::,strong%5:00:00:forceful:00,strong%5:00:00:intense:00
+Nowhere have I seen public expression of anti-Catholicism .
+1
+#5 expression NOUN expression%1:10:02::,expression%1:10:04::
+On my first Guy Fawkes Day here , I found Catholics as well as non Catholics celebrating with the traditional fireworks and bonfires , and was told that most Englishmen either do not know or are not concerned with the historical significance of the day .
+9
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#16 celebrate VERB celebrate%2:41:00::,celebrate%2:41:02::
+#26 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#32 not ADV not%4:02:00::
+#33 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#36 not ADV not%4:02:00::
+#41 significance NOUN significance%1:09:01::
+#44 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+A Birmingham newspaper printed in a column for children an article entitled " The True Story of Guy Fawkes " , which began :
+7
+#1 Birmingham NOUN birmingham%1:15:00::
+#3 print VERB print%2:36:03::
+#6 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#10 article NOUN article%1:10:00::
+#11 entitle VERB entitle%2:32:00::,entitle%2:41:01::
+#14 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#22 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+" When you pile your " guy " on the bonfire tomorrow night , I wonder how much of the true story of Guy Fawkes you will remember ?
+6
+#3 pile VERB pile%2:35:00::
+#6 guy NOUN guy%1:06:00::
+#12 night NOUN night%1:28:00::
+#15 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#20 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#21 story NOUN story%1:10:04::
+In the 355 years since the first Guy Fawkes Night , much of the story has been forgotten , so here is a reminder " .
+4
+#3 year NOUN year%1:28:00::,year%1:28:01::
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#14 story NOUN story%1:10:04::
+#20 here ADV here%4:02:01::
+The article proceeded to give an inaccurate account of a catholic plot to kill King James /1 1 , .
+4
+#1 article NOUN article%1:10:00::
+#7 account NOUN account%1:10:03::
+#11 plot NOUN plot%1:09:00::
+#13 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+In spite of the increase in numbers and prestige brought about by the conversions of Newman and other Tractarians of the 1840 's and 1850 's , the Catholic segment of England one hundred years ago was a very small one ( four per cent , or 800000 ) which did not enjoy a gracious hearing from the general public .
+11
+#6 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 conversion NOUN conversion%1:04:00::
+#17 other ADJ other%5:00:02:past:00
+#28 catholic ADJ catholic%3:01:00::
+#29 segment NOUN segment%1:06:00::
+#34 year NOUN year%1:28:00::,year%1:28:01::
+#51 not ADV not%4:02:00::
+#52 enjoy VERB enjoy%2:39:00::
+#54 gracious ADJ gracious%5:00:00:kind:00
+#55 hearing NOUN hearing%1:26:00::
+#58 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+The return of the Catholic hierarchy in 1850 was looked upon with indignant disapprobation and , in fact , was charged with being a gesture of disloyalty .
+3
+#1 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#4 catholic ADJ catholic%3:01:00::
+#20 charge VERB charge%2:32:00::,charge%2:32:02::,charge%2:32:03::
+In 1864 Newman professedly had to write his Apologia with his keenest feelings in order to be believed and to command a fair hearing from English readers .
+6
+#11 keen ADJ keen%5:00:00:perceptive:00
+#17 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#20 command VERB command%2:32:02::
+#22 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#23 hearing NOUN hearing%1:26:00::
+#26 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+Now , in 1961 , the Catholic population of England is still quite small ( ten per cent , or 5 million ) ; yet it represents a very considerable percentage of the churchgoing population .
+5
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 catholic ADJ catholic%3:01:00::
+#11 still ADV still%4:02:00::
+#12 quite ADV quite%4:02:03::
+#26 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+A Protestant woman marveled to me over the large crowds going in and out of the Birmingham Oratory ( Catholic ) Church on Sunday mornings .
+3
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#19 catholic ADJ catholic%3:01:00::
+#24 morning NOUN morning%1:28:00::,morning%1:28:01::
+She found this a marvel because , as she said , only six per cent of English people are churchgoers .
+3
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+She may not have been exact on this number , but others here feel quite certain that the percentage would be less than ten .
+4
+#2 not ADV not%4:02:00::
+#12 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#14 quite ADV quite%4:02:02::
+#15 certain ADJ certain%3:00:01::
+From many sides come remarks that Protestant churches are badly attended and the large medieval cathedrals look all but empty during services .
+7
+#2 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#9 badly ADV badly%4:02:00::
+#10 attend VERB attend%2:42:00::
+#13 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#16 look VERB look%2:39:01::,look%2:42:02::
+#19 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+A Catholic priest recently recounted how in the chapel of a large city university , following Anglican evensong , at which there was a congregation of twelve , he celebrated Mass before more than a hundred .
+5
+#1 catholic ADJ catholic%3:01:00::
+#4 recount VERB recount%2:32:00::
+#8 chapel NOUN chapel%1:04:00::
+#11 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#24 congregation NOUN congregation%1:14:00::
+The Protestants themselves are the first to admit the great falling off in effective membership in their churches .
+3
+#7 admit VERB admit%2:32:00::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#13 effective ADJ effective%3:00:00::,effective%5:00:00:competent:00,effective%5:00:00:efficacious:00
+According to a newspaper report of the 1961 statistics of the Church of England , the " total of confirmed members is 9748000 , but only 2887671 are registered on the parochial church rolls " , and " over 27 million people in England are baptized into the Church of England , but roughly only a tenth of them continue " .
+7
+#4 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#20 member NOUN member%1:18:00::,member%1:24:00::
+#25 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+#53 roughly ADV roughly%4:02:03::
+#54 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#59 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+An amazing article in the Manchester Guardian of last November , entitled " Fate of Redundant Churches " , states than an Archbishops ' Commission " reported last month that in the Church of England alone there are 790 churches which are redundant now , or will be in 20 years ' time .
+12
+#2 article NOUN article%1:10:00::
+#8 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#9 November NOUN november%1:28:00::
+#11 entitle VERB entitle%2:32:00::,entitle%2:41:01::
+#13 fate NOUN fate%1:18:00::
+#19 state VERB state%2:32:01::,state%2:32:02::
+#26 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#27 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#35 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#43 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#50 year NOUN year%1:28:00::,year%1:28:01::
+#52 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+A further 260 Anglican churches have been demolished since 1948 " .
+1
+#1 further ADJ further%5:00:00:far:00
+And in the last five years , the " Methodist chapel committee has authorized the demolition or , more often , the sale of 764 chapels " .
+7
+#3 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#10 chapel NOUN chapel%1:04:00::
+#11 committee NOUN committee%1:14:00::
+#18 more ADV more%4:02:00::
+#22 sale NOUN sale%1:04:00::,sale%1:04:02::
+#25 chapel NOUN chapel%1:04:00::
+Most of these former churches are now used as warehouses , but " neither Anglicans nor Nonconformists object to selling churches to Roman Catholics " , and have done so .
+5
+#3 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 nonconformist NOUN nonconformist%1:18:01::
+#19 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+While it must be said that these same Protestants have built some new churches during this period , and that religious population shifts have emptied churches , a principal reason for this phenomenon of redundancy is that fewer Protestants are going to church .
+7
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#12 new ADJ new%3:00:00::
+#16 period NOUN period%1:28:00::,period%1:28:03::
+#28 principal ADJ principal%5:00:00:important:00
+#29 reason NOUN reason%1:09:01::,reason%1:16:00::
+#32 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+It should be admitted , too , that there is a good percentage of lapsed or nonchurchgoing Catholics ( one paper writes 50 per cent ) .
+5
+#3 admit VERB admit%2:32:00::
+#5 too ADV too%4:02:01::
+#11 good ADJ good%5:00:00:complete:00
+#20 paper NOUN paper%1:10:00::
+#21 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+Still , it is clear from such reports , and apparently clear from the remarks of many people , that Protestants are decreasing and Catholics increasing .
+3
+#4 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#7 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#11 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+An Anglican clergyman in Oxford sadly but frankly acknowledged to me that this is true .
+3
+#4 Oxford NOUN oxford%1:15:00::
+#8 acknowledge VERB acknowledge%2:32:00::
+#14 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+A century ago , Newman saw that liberalism ( what we now might call secularism ) would gradually but definitely make its mark on English Protestantism , and that even high Anglicanism would someday no longer be a " serviceable breakwater against doctrinal errors more fundamental than its own " .
+4
+#1 century NOUN century%1:28:00::
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#48 own ADJ own%5:00:00:personal:00
+That day is perhaps today , 1961 , and it seems no longer very meaningful to call England a " Protestant country " .
+3
+#1 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#16 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#21 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+One of the ironies of the present crusade for Christian unity is that there are not , relatively speaking , many real Christians to unite .
+5
+#6 present ADJ present%3:00:01::
+#10 unity NOUN unity%1:07:00::,unity%1:26:00::
+#15 not ADV not%4:02:00::
+#18 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#21 real ADJ real%3:00:00::,real%5:00:00:true:00
+Many English Catholics are proud of their Catholicism and know that they are in a new ascendancy .
+2
+#4 proud ADJ proud%3:00:00::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The London Universe devoted its centenary issue last December 8 to mapping out various aspects of Catholic progress during the last one hundred years .
+6
+#3 devote VERB devote%2:31:00::
+#7 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#14 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#16 catholic ADJ catholic%3:01:00::
+#20 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#23 year NOUN year%1:28:00::,year%1:28:01::
+With traditional nationalistic spirit , some Englishmen claim that English Catholicism is Catholicism at its best .
+4
+#3 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#7 claim NOUN claim%1:10:02::
+#9 English ADJ english%3:01:01::
+#15 good ADJ best%3:00:00::,good%3:00:01::
+I have found myself saying with other foreigners here that English Catholics are good Catholics .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 other ADJ other%5:00:02:past:00
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+It has been my experience to find as many men as women in church , and to hear almost everyone in church congregations reciting the Latin prayers and responses at Mass .
+3
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#22 congregation NOUN congregation%1:14:00::
+#25 Latin NOUN latin%1:10:00::
+They hope , of course , to reclaim the non-Catholic population to the Catholic faith , and at every Sunday Benediction they recite by heart the " Prayer for England " :
+4
+#1 hope NOUN hope%1:09:00::,hope%1:18:00::
+#7 reclaim VERB reclaim%2:30:04::
+#13 catholic ADJ catholic%3:01:00::
+#14 faith NOUN faith%1:09:01::,faith%1:14:00::
+" O Blessed Virgin Mary , Mother of God and our most gentle queen and mother , look down in mercy upon England , thy " dowry " , and upon us all who greatly hope and trust in thee .
+10
+#2 blessed ADJ blessed%5:00:01:holy:00
+#6 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#8 God NOUN god%1:18:00::
+#12 gentle ADJ gentle%5:00:00:mild:00
+#13 queen NOUN queen%1:18:00::,queen%1:18:01::,queen%1:18:04::
+#15 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#17 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#18 down ADV down%4:02:00::,down%4:02:02::
+#20 mercy NOUN mercy%1:04:00::
+#37 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+Intercede for our separated brethren , that with us in the one true fold they may be united to the chief Shepherd , the vicar of thy Son " .
+4
+#4 brethren NOUN brethren%1:14:00::
+#12 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#13 fold NOUN fold%1:06:01::
+#21 shepherd NOUN shepherd%1:18:00::
+A hymn often to be heard in Catholic churches is " Faith of our Fathers " , which glories in England 's ancient faith that endured persecution , and which proclaims :
+3
+#7 catholic ADJ catholic%3:01:00::
+#23 faith NOUN faith%1:09:01::,faith%1:14:00::
+#25 endure VERB endure%2:31:00::
+" Faith of our Fathers : Mary 's prayers / Shall win our country back to thee " .
+4
+#1 faith NOUN faith%1:09:01::,faith%1:14:00::
+#4 father NOUN father%1:18:03::,father%1:18:04::
+#13 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#14 back ADV back%4:02:05::
+The English saints are widely venerated , quite naturally , and now there is great hope that the Forty Martyrs and Cardinal Newman will soon be canonized .
+8
+#2 saint NOUN saint%1:18:00::
+#4 widely ADV widely%4:02:01::
+#7 quite ADV quite%4:02:02::
+#8 naturally ADV naturally%4:02:00::
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#14 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#15 hope NOUN hope%1:09:00::,hope%1:18:00::
+#24 soon ADV soon%4:02:00::
+Because they have kept the faith of their medieval fathers , English Catholics have always strongly resented the charge of being " English " .
+4
+#5 faith NOUN faith%1:09:01::,faith%1:14:00::
+#9 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#14 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#18 charge NOUN charge%1:10:00::,charge%1:10:04::
+I have not seen this charge made during my stay here , but apparently it is still in the air .
+7
+#2 not ADV not%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 charge NOUN charge%1:10:00::,charge%1:10:04::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 stay NOUN stay%1:04:00::
+#10 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#16 still ADV still%4:02:00::
+For example , a writer in a recent number of The Queen hyperbolically states that " of the myriad imprecations the only one which the English Catholics really resent is the suggestion that they are ' un English " ' .
+4
+#7 recent ADJ recent%5:00:00:past:00
+#8 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#13 state VERB state%2:32:01::,state%2:32:02::
+#27 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+In this connection , it has been observed that the increasing number of Irish Catholics , priests and laity , in England , while certainly seen as good for Catholicism , is nevertheless a source of embarrassment for some of the more nationalistic English Catholics , especially when these Irishmen offer to remind their Christian brethren of this good .
+8
+#2 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#7 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 Irish ADJ irish%3:01:00::
+#27 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#46 especially ADV especially%4:02:00::
+#55 brethren NOUN brethren%1:14:00::
+#58 good NOUN good%1:07:00::
+One of the more noteworthy changes that have taken place since the mid 19th century is the situation of Catholics at Oxford and Cambridge Universities .
+3
+#5 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#14 century NOUN century%1:28:00::
+#17 situation NOUN situation%1:26:01::
+At Oxford one hundred years ago there were very few Catholics , partly because religious tests were removed only in 1854 .
+3
+#15 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#17 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Moreover , for those few there was almost no ecclesiastical representation in the city to care for their religious needs .
+3
+#10 representation NOUN representation%1:09:00::
+#13 city NOUN city%1:15:00::,city%1:15:01::
+#15 care VERB care%2:41:13::
+Now , not only are there considerably more laity as students and professors at Oxford , but there are also numerous houses of religious orders existing in respectable and friendly relations with the non Catholic members of the University .
+7
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 professor NOUN full_professor%1:18:00::
+#21 house NOUN house%1:06:01::,house%1:06:02::,house%1:14:03::,house%1:14:04::
+#25 exist VERB exist%2:42:00::
+#27 respectable ADJ respectable%5:00:00:reputable:00
+#30 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#35 member NOUN member%1:18:00::,member%1:24:00::
+Some Catholic priests lecture there ; Catholic seminarians attend tutorials and row on the Cherwell with non-Catholic students .
+5
+#1 catholic ADJ catholic%3:01:00::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#6 catholic ADJ catholic%3:01:00::
+#8 attend VERB attend%2:42:00::
+#11 row VERB row%2:38:00::
+Further evidence that Roman Catholicism enjoys a more favorable position today than in 1861 is the respectful attention given to it in the mass media of England .
+3
+#0 further ADJ further%5:00:00:far:00
+#5 enjoy VERB enjoy%2:39:00::
+#17 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+The general tone of articles appearing in such important newspapers as the Manchester Guardian and the Sunday Observer implies a kindly recognition that the Catholic Church is now at least of equal stature in England with the Protestant churches .
+6
+#2 tone NOUN tone%1:10:01::,tone%1:26:01::
+#4 article NOUN article%1:10:00::
+#5 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#20 kindly ADJ kindly%5:00:00:kind:00
+#27 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#31 equal ADJ equal%3:00:00::
+On successive Sundays during October , 1960 , Paul Ferris ( a non-Catholic ) wrote articles in the Observer depicting clergymen of the Church of England , the Church of Rome and the Nonconformist Church .
+2
+#14 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#15 article NOUN article%1:10:00::
+The Catholic priest , though somewhat superficially drawn , easily came out the best .
+4
+#1 catholic ADJ catholic%3:01:00::
+#7 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#9 easily ADV easily%4:02:05::
+#13 good ADJ best%3:00:00::,good%3:00:01::
+There were many letters of strong protest against the portrait of the Anglican clergyman , who was indeed portrayed as a man not particularly concerned with religious matters and without really very much to do as clergyman .
+9
+#3 letter NOUN letter%1:10:00::
+#5 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#6 protest NOUN protest%1:10:00::
+#9 portrait NOUN portrait%1:06:00::
+#17 indeed ADV indeed%4:02:03::
+#21 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#23 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#27 matter NOUN matter%1:09:00::,matter%1:09:01::
+#30 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+Such a series of articles was certainly never printed in the public press of mid Victorian England .
+4
+#2 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#4 article NOUN article%1:10:00::
+#7 never ADV never%4:02:00::
+#8 print VERB print%2:36:03::
+There was so much interest shown in this present-day venture that it was continued on B.B.C. , where comments were equally made by an Anglican parson , a Free Church minister and a Catholic priest .
+8
+#2 so ADV so%4:02:03::,so%4:02:07::
+#4 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#5 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#20 equally ADV equally%4:02:02::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#30 minister NOUN minister%1:18:00::
+#33 catholic ADJ catholic%3:01:00::
+Catholic priests have frequently appeared on television programs , sometimes discussing the Christian faith on an equal footing with Protestant clergymen .
+5
+#0 catholic ADJ catholic%3:01:00::
+#4 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#13 faith NOUN faith%1:09:01::,faith%1:14:00::
+#16 equal ADJ equal%3:00:00::
+#17 footing NOUN footing%1:24:00::
+A notable example of this was the discussion of Christian unity by the Catholic Archbishop of Liverpool , Dr. Heenan , and the Anglican Archbishop of York , Dr. Ramsey , recently appointed Archbishop of Canterbury .
+4
+#2 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#10 unity NOUN unity%1:07:00::,unity%1:26:00::
+#13 catholic ADJ catholic%3:01:00::
+#32 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+The good feeling which exists between these two important church figures is now well known in England .
+4
+#1 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#4 exist VERB exist%2:42:00::
+#10 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The Holy Sacrifice of the Mass with commentary has been televised several times in recent months .
+2
+#12 time NOUN time%1:11:00::
+#14 recent ADJ recent%5:00:00:past:00
+And it was interesting to observe that B.B.C. . 's television film on Christmas Eve was The Bells of St. Mary's .
+3
+#5 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#10 television NOUN television%1:06:00::
+#11 film NOUN film%1:10:00::,film%1:10:01::
+Of course , the crowning event that has dramatically upset the traditional pattern of English religious history was the friendly visit paid by Dr. Fisher , then Anglican Archbishop of Canterbury , to the Vatican last December .
+5
+#9 upset VERB upset%2:30:00::
+#16 history NOUN history%1:28:02::
+#21 pay VERB pay%2:41:00::
+#26 then ADV then%4:02:01::
+#35 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+It was the first time an English Primate has done this since the 14th century .
+4
+#3 first ADJ first%3:00:00::,first%4:02:00::
+#4 time NOUN time%1:11:00::
+#7 primate NOUN primate%1:18:00::
+#14 century NOUN century%1:28:00::
+English Catholics reacted to this event with moderate but real hope .
+2
+#9 real ADJ real%3:00:00::,real%5:00:00:true:00
+#10 hope NOUN hope%1:09:00::,hope%1:18:00::
+Almost daily something is reported which feeds this Catholic hope in England : statistics of the increasing numbers of converts and Irish Catholic immigrants ; news of a Protestant minister in Leamington who has offered to allow a Catholic priest to preach from his pulpit ; a report that a Catholic nun had been requested to teach in a non-Catholic secondary school during the sickness of one of its masters ; the startling statement in a respectable periodical that " Catholics , if the present system is still in operation , will constitute almost one-third of the House of Lords in the next generation " ; a report that 200 Protestant clergymen and laity attended a votive Mass offered for Christian unity at a Catholic church in Slough during the Church Unity Octave .
+25
+#4 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#6 feed VERB feed%2:30:01::,feed%2:34:03::,feed%2:38:04::
+#8 catholic ADJ catholic%3:01:00::
+#9 hope NOUN hope%1:07:00::,hope%1:12:00::
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#21 Irish ADJ irish%3:01:00::
+#22 catholic ADJ catholic%3:01:00::
+#29 minister NOUN minister%1:18:00::
+#36 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#38 catholic ADJ catholic%3:01:00::
+#47 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#50 catholic ADJ catholic%3:01:00::
+#64 sickness NOUN sickness%1:26:01::
+#69 master NOUN master%1:18:06::
+#84 present ADJ present%3:00:01::
+#85 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#87 still ADV still%4:02:00::
+#92 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#102 next ADJ next%5:00:00:close:01
+#103 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+#107 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#114 attend VERB attend%2:42:00::
+#121 unity NOUN unity%1:07:00::,unity%1:26:00::
+#131 unity NOUN unity%1:07:00::,unity%1:26:00::
+#132 octave NOUN octave%1:28:00::

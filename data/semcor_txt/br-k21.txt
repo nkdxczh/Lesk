@@ -1,0 +1,878 @@
+ Beckworth handed the pass to the colonel .
+2
+#1 hand VERB hand%2:40:00::
+#3 pass NOUN pass%1:10:00::
+He had thought that the suggestion of taking it himself would tip the colonel in the direction of serving his own order , but the slip of paper was folded and absently thrust into the colonel 's belt .
+5
+#7 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#16 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#20 own ADJ own%5:00:00:personal:00
+#21 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#37 belt NOUN belt%1:04:00::
+Despite his yearning , the colonel would not go down to see the men come through the lines .
+3
+#11 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#17 line NOUN line%1:14:03::,line%1:15:02::
+He would remain in the tent , waiting impatiently , occupied by some trivial task .
+2
+#7 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#10 occupy VERB occupy%2:31:00::,occupy%2:41:00::,occupy%2:42:04::
+- Fetch me the copies of everything B and C companies have requisitioned in the last six months .
+3
+#1 fetch VERB fetch%2:35:03::
+#4 copy NOUN copy%1:06:00::
+#15 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+- The last six months , sir ?
+1
+#2 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+There 's a lot of waste going on here .
+2
+#5 waste NOUN waste%1:04:00::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+It 's got to stop .
+1
+#4 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+This is no damned holiday , Beckworth .
+1
+#3 damn ADJ damn%5:00:00:cursed:00
+Get busy .
+1
+#0 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Beckworth left the tent .
+1
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+Below he could see the bright torches lighting the riverbank .
+4
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#6 torch NOUN torch%1:06:01::
+#7 light VERB light%2:30:00::
+He glanced back .
+2
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#2 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+The colonel crouched tensely on one of the folding chairs , methodically tearing at his thumbnail .
+2
+#12 tear VERB tear%2:35:00::,tear%2:35:01::
+#15 thumbnail NOUN thumbnail%1:08:00::
+The bombproof was a low-ceilinged structure of heavy timbers covered with earth .
+2
+#7 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#11 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+It stood some fifty paces from the edge of the bank .
+2
+#4 pace NOUN pace%1:04:00::
+#7 edge NOUN edge%1:06:01::
+From the outside , it seemed no more than a low drumlin , a lump on the dark earth .
+3
+#6 no ADV no%4:02:01::
+#10 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#17 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+A crude ladder ran down to a wooden floor .
+5
+#1 crude ADJ crude%5:00:01:unskilled:00
+#2 ladder NOUN ladder%1:06:00::
+#3 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#7 wooden ADJ wooden%5:00:00:woody:00
+#8 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Two slits enabled observers to watch across the river .
+2
+#2 enable VERB enable%2:30:00::,enabling%3:00:00::
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+The place smelled strongly of rank , fertile earth , rotting wood and urine .
+3
+#1 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#8 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#11 wood NOUN wood%1:06:02::
+The plank floor was slimed beneath Watson 's boots .
+3
+#1 plank NOUN plank%1:27:00::
+#2 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#8 boot NOUN boot%1:06:00::
+At least the Union officer had been decent enough to provide a candle .
+3
+#4 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#8 enough ADV enough%4:02:00::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+There was no place to sit , but Watson walked slowly from the ladder to the window slits and back , stooping slightly to avoid striking his head on the heavy beams .
+12
+#5 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#13 ladder NOUN ladder%1:06:00::
+#16 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#19 back ADV back%4:02:01::,back%4:02:04::
+#21 stoop VERB stoop%2:35:02::
+#22 slightly ADV slightly%4:02:01::
+#24 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#25 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#27 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#30 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#31 beam NOUN beam%1:06:00::,beam%1:06:01::,beam%1:06:02::,beam%1:07:00::
+In the corner was the soldier with the white flag .
+2
+#2 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#5 soldier NOUN soldier%1:18:00::
+He stood stiffly erect , clutching the staff , his body half hidden by the limp cloth .
+3
+#7 staff NOUN staff%1:14:00::,staff%1:14:01::
+#10 body NOUN body%1:08:00::,body%1:08:02::
+#16 cloth NOUN cloth%1:06:00::
+Watson hardly looked at him .
+2
+#1 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+The man had come floundering aboard the flat-bottomed barge at the last instant , brandishing the flag of truce .
+3
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#11 last ADJ last%5:00:00:unlikely:00
+Someone had hauled him over the side , and he had remained silent while they crossed .
+2
+#2 haul VERB haul%2:35:01::
+#15 cross VERB cross%2:38:00::
+An officer with a squad of men had been waiting on the bank .
+4
+#1 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#12 bank NOUN bank%1:17:01::
+The men in the boats had started yelling happily at first sight of the officer , two of them calling him Billy .
+7
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 boat NOUN boat%1:06:00::
+#6 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#10 first ADJ first%3:00:00::,first%4:02:00::
+#11 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#14 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#19 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+When the boat had touched , the weaker ones and the two wounded men had been lifted out and carried away by the soldiers .
+5
+#2 boat NOUN boat%1:06:00::
+#4 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#7 weak ADJ weak%5:00:00:powerless:00
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#23 soldier NOUN soldier%1:18:00::
+Watson had presented his pouch and been led to the bombproof .
+3
+#2 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#4 pouch NOUN pouch%1:06:00::
+#7 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+The officer had told him that both lists must be checked .
+4
+#1 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 list NOUN list%1:10:00::
+#10 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+Watson had given his name and asked for a safe-conduct pass .
+4
+#2 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#4 name NOUN name%1:14:00::
+#6 ask VERB ask%2:32:01::,ask%2:32:05::
+#10 pass NOUN pass%1:10:00::
+The officer , surprised , said he would have to see .
+3
+#1 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Watson had nodded absently and muttered that he would check the lists himself later .
+3
+#2 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#9 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#11 list NOUN list%1:10:00::
+He had peered through the darkness at the rampart .
+2
+#2 peer VERB peer%2:39:00::
+#5 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+The men he would take back across the river stood there , but he turned away from them .
+1
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He wanted no part of the emotions of the exchange , no memory of the joy and gratitude that other men felt .
+6
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#12 memory NOUN memory%1:09:00::,memory%1:09:02::
+#19 other ADJ other%3:00:00::
+#20 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#21 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+He had hoped to be alone in the bombproof , but the soldier had followed him .
+3
+#5 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#12 soldier NOUN soldier%1:18:00::
+#14 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Though Watson carefully ignored the man , he could not deny his presence .
+2
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 deny VERB deny%2:32:00::,deny%2:32:01::
+Perhaps it would be better to speak to him , since silence could not exorcise his form .
+2
+#4 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#16 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+Watson glanced briefly at him , seeing only a body rigidly erect behind the languid banner .
+6
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 body NOUN body%1:08:00::,body%1:08:02::
+#14 languid ADJ languid%5:00:00:lethargic:00
+#15 banner NOUN banner%1:06:00::
+- We won't be too long .
+1
+#4 too ADV too%4:02:00::
+If my pass is approved , I may be a half hour .
+2
+#2 pass NOUN pass%1:10:00::
+#4 approve VERB approve%2:31:00::,approve%2:32:00::
+The soldier answered in a curious , muffled voice , his lips barely moving .
+6
+#1 soldier NOUN soldier%1:18:00::
+#2 answer VERB answer%2:31:00::,answer%2:32:00::
+#8 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#11 lip NOUN lip%1:08:00::,lip%1:20:00::
+#12 barely ADV barely%4:02:00::
+#13 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Watson turned away and did not see the man 's knees buckle and his body sag .
+5
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 buckle VERB buckle%2:30:00::
+#14 body NOUN body%1:08:00::,body%1:08:02::
+#15 sag VERB sag%2:38:01::
+He had acknowledged the man .
+2
+#2 acknowledge VERB acknowledge%2:32:04::,acknowledge%2:32:07::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+It was easier to think now , Watson decided .
+3
+#2 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The stiff figure in the corner no longer blocked his thoughts .
+5
+#1 stiff ADJ stiff%5:00:00:resolute:00
+#2 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#5 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#8 block VERB block%2:33:00::
+#10 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+He paced slowly , stooping , staring at the damp , slippery floor .
+2
+#4 stoop VERB stoop%2:35:02::
+#12 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+He tried to order the words of the three Union officers , seeking to create some coherent portrait of the dead boy .
+7
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#10 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#16 coherent ADJ coherent%3:00:01::
+#17 portrait NOUN portrait%1:06:00::
+#20 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#21 boy NOUN boy%1:18:03::
+But he groped blindly .
+1
+#2 grope VERB grope%2:35:01::
+His lack of success steadily eroded his interest .
+1
+#7 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+He stopped pacing , leaned against the dank , timbered wall and let his mind drift .
+4
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#9 timbered ADJ timbered%3:00:00::
+#12 let VERB let%2:30:01::,let%2:41:00::
+#15 drift VERB drift%2:38:01::
+A feeling of futility , an enervation of mind greater than any fatigue he had ever known , seeped through him .
+5
+#8 mind NOUN mind%1:09:00::,mind%1:09:04::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 fatigue NOUN fatigue%1:26:00::
+#15 ever ADV ever%4:02:05::
+#16 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+What in the name of God was he doing , crouched in a timbered pit on the wrong bank of the river ?
+4
+#13 timbered ADJ timbered%3:00:00::
+#14 pit NOUN pit%1:06:00::
+#17 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#18 bank NOUN bank%1:17:01::
+Why had he crossed the dark water , to bring back a group of reclaimed soldiers or to skulk in a foul-smelling hole ?
+5
+#3 cross VERB cross%2:38:00::
+#5 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#6 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#15 soldier NOUN soldier%1:18:00::
+#22 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+He grew annoyed and at the same time surprised at that emotion .
+1
+#1 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+He was conscious of a growing sense of absurdity .
+1
+#6 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+Was n't the report official enough ?
+2
+#3 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#5 enough ADV enough%4:02:00::
+What did he hope to accomplish here ?
+1
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Hillman had ordered him not to leave the far bank .
+3
+#2 order VERB order%2:32:01::,order%2:32:02::
+#6 leave VERB leave%2:38:00::,leave%2:41:00::
+#9 bank NOUN bank%1:17:01::
+Prompted by a guilty urge , he had disobeyed the order of a man he respected .
+3
+#0 prompt VERB prompt%2:32:00::
+#10 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+To tell John something he would find out for himself .
+1
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+The figure in the corner belched loudly , a deep , liquid eruption .
+4
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#4 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#5 belch VERB belch%2:29:00::
+#9 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+Watson snorted and then laughed aloud .
+1
+#5 aloud ADV aloud%4:02:01::
+Exactly !
+1
+#0 exactly ADV exactly%4:02:01::,exactly%4:02:04::
+The soldier 's voice was muffled again , stricken with chagrin .
+2
+#1 soldier NOUN soldier%1:18:00::
+#3 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+He clutched the staff , and his dark eyes blinked apologetically .
+4
+#3 staff NOUN staff%1:06:00::,staff%1:10:01::
+#7 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 blink VERB blink%2:29:00::
+- Let 's get out of here .
+2
+#1 let VERB let%2:32:00::
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Watson ran up the ladder and stood for a second sucking in the cool air that smelled of mud and river weeds .
+7
+#1 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#4 ladder NOUN ladder%1:06:00::
+#9 second NOUN second%1:28:00::,second%1:28:01::
+#13 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#14 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#16 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+#18 mud NOUN mud%1:27:00::
+To his left , the two skiffs dented their sharp bows into the soft bank .
+4
+#2 left NOUN left%1:08:00::
+#10 bow NOUN bow%1:06:02::
+#13 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#14 bank NOUN bank%1:17:01::
+The flat-bottomed boat swung slowly to the pull of the current .
+2
+#2 boat NOUN boat%1:06:00::
+#7 pull NOUN pull%1:07:00::
+A soldier held the end of a frayed rope .
+4
+#1 soldier NOUN soldier%1:18:00::
+#2 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#4 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#8 rope NOUN rope%1:06:00::
+Three Union guards appeared , carrying their rifles at ready .
+3
+#2 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#3 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#5 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+They were stocky men , well fed and clean-shaven , with neat uniforms and sturdy boots .
+4
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 neat ADJ neat%5:00:00:tidy:00
+#12 uniform NOUN uniform%1:06:00::
+#15 boot NOUN boot%1:06:00::
+Behind them shambled a long column of weak , tattered men .
+4
+#4 long ADJ long%3:00:01::
+#5 column NOUN column%1:08:00::,column%1:14:00::,column%1:25:02::
+#7 weak ADJ weak%5:00:00:powerless:00
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The thin gray figures raised a hoarse , cawing cry like the call of a bird flock .
+5
+#1 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#3 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#12 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#15 bird NOUN bird%1:05:00::
+#16 flock NOUN flock%1:14:00::
+They moved toward the skiffs with shocking eagerness , elbowing and shoving .
+2
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 elbow VERB elbow%2:38:00::
+Four men were knocked down , but did not attempt to rise .
+2
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+They crept down the muddy slope toward the waiting boats .
+5
+#1 creep VERB creep%2:38:00::
+#2 down ADV down%4:02:00::,down%4:02:02::
+#5 slope NOUN slope%1:07:00::
+#8 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#9 boat NOUN boat%1:06:00::
+The Union soldiers grounded arms and settled into healthy , indifferent postures to watch the feeble boarding of the skiffs .
+7
+#2 soldier NOUN soldier%1:18:00::
+#4 arms NOUN arms%1:06:00::
+#6 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+#10 indifferent ADJ indifferent%5:00:00:uninterested:00
+#11 posture NOUN posture%1:07:00::
+#13 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#16 boarding NOUN boarding%1:04:00::
+The crawling men tried to rise and fell again .
+5
+#1 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#7 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+No one moved to them .
+1
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Watson watched two of them flounder into the shallow water and listened to their voices beg shrilly .
+4
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#9 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#15 beg VERB beg%2:40:00::
+In a confused , soaked and stumbling shift of bodies and lifting arms , the two men were dragged into the same skiff .
+7
+#7 shift NOUN shift%1:04:00::,shift%1:06:02::,shift%1:11:00::
+#9 body NOUN body%1:08:00::,body%1:08:02::
+#11 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#12 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#16 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#18 drag VERB drag%2:32:00::,drag%2:35:00::,drag%2:35:01::,drag%2:35:02::,drag%2:38:06::,drag%2:38:10::
+#21 same ADJ same%3:00:00::,same%3:00:02::
+The third crawling man forced himself erect .
+3
+#2 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+He swayed like a drunkard , his arms milling in slow circles .
+3
+#7 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#10 slow ADJ slow%3:00:01::
+#11 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+He paced forward unsteadily , leaning too far back , his head tilted oddly .
+6
+#2 forward ADV forward%4:02:00::,forward%4:02:04::
+#6 too ADV too%4:02:00::
+#7 far ADV far%4:02:02::
+#8 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#12 tilt VERB tilt%2:38:00::
+His steps were short and stiff , and , with his head thrown back , his progress was a supercilious strut .
+5
+#1 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+#3 short ADJ short%3:00:01::
+#5 stiff ADJ stiff%3:00:00::
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#20 strut NOUN strut%1:04:00::
+He appeared to be peering haughtily down his nose at the crowded and unclean vessel that would carry him to freedom .
+4
+#1 appear VERB appear%2:30:00::
+#4 peer VERB peer%2:39:00::
+#14 vessel NOUN vessel%1:06:00::
+#17 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+He stalked into the water and fell heavily over the side of the flat-bottomed barge , his weight nearly swamping the craft .
+7
+#1 stalk VERB stalk%2:38:00::
+#4 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#6 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#7 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+#17 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#18 nearly ADV nearly%4:02:00::
+#21 craft NOUN craft%1:06:00::
+Watson looked for the fourth man .
+1
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He had reached the three passive guards ; he crept in an incertain manner , patting the ground before him .
+6
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#5 passive ADJ passive%3:00:02::
+#6 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#9 creep VERB creep%2:38:00::
+#13 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#17 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+The guards did not look at him .
+2
+#1 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#4 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+The figure on the earth halted , seemingly bewildered .
+2
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#5 halt VERB halt%2:38:01::
+He sank back on his thin haunches like a weary hound .
+4
+#1 sink VERB sink%2:35:00::,sink%2:38:04::,sink%2:38:06::
+#2 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#5 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#6 haunch NOUN haunch%1:08:01::
+Then he began to crawl again .
+3
+#0 then ADV then%4:02:00::
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+Watson watched the creeping figure .
+3
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 creep VERB creep%2:38:00::
+#4 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+He felt a spectator interest .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#4 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+Would the man make it or not ?
+1
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+If only there was a clock for him to crawl against .
+2
+#5 clock NOUN clock%1:06:00::
+#9 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+If he failed to reach the riverbank in five minutes , say , then the skiffs would pull away and leave him groping in the mud .
+10
+#2 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#4 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#9 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#11 say VERB say%2:32:01::
+#13 then ADV then%4:02:02::
+#17 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#18 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#20 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#22 grope VERB grope%2:35:01::
+#25 mud NOUN mud%1:27:00::
+Say three minutes to make it sporting .
+4
+#0 say VERB say%2:32:01::
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 sporting ADJ sporting%5:00:00:fair:03
+Still the guards did not move , but stood inert , aloof from the slow scrambling man .
+6
+#0 still ADV still%4:02:04::
+#2 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#5 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 slow ADJ slow%3:00:01::
+#15 scramble VERB scramble%2:38:00::
+#16 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The figure halted , and Watson gasped .
+2
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#2 halt VERB halt%2:38:01::
+The man began to creep in the wrong direction , deceived by a slight rise in the ground !
+8
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 creep VERB creep%2:38:00::
+#7 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#8 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#13 slight ADJ slight%5:00:00:insignificant:00
+#14 rise NOUN rise%1:17:00::
+#17 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+He turned slowly and began to crawl back up the bank toward the rampart .
+4
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#6 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#7 back ADV back%4:02:01::,back%4:02:04::
+Watson raced for him , his boots slamming the soft earth .
+4
+#1 race VERB race%2:38:00::
+#6 boot NOUN boot%1:06:00::
+#9 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#10 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+The guards came to life with astonishing menace .
+1
+#1 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+They spun and flung their rifles up .
+1
+#1 spin VERB spin%2:38:01::
+One man dropped to his knee for better aim .
+4
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+#7 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#8 aim NOUN aim%1:04:00::
+- Let me help him , for the love of God !
+2
+#1 let VERB let%2:32:00::
+#3 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+The guards lowered their rifles and their rifles and peered at Watson with sullen , puzzled faces .
+4
+#1 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#2 lower VERB lower%2:30:01::
+#9 peer VERB peer%2:39:00::
+#16 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Watson pounded to the crawling man and stopped , panting heavily .
+5
+#1 pound VERB pound%2:35:00::
+#4 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#10 heavily ADV heavily%4:02:00::
+He reached down and closed his fingers on the man 's upper arm .
+6
+#1 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#2 down ADV down%4:02:00::,down%4:02:02::
+#4 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#12 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+Beneath his clutch , a flat strip of muscle surged on the bone .
+5
+#2 clutch NOUN clutch%1:04:00::
+#5 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#6 strip NOUN strip%1:06:03::,strip%1:17:00::
+#8 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+#12 bone NOUN bone%1:08:00::
+Watson bent awkwardly and lifted the man to his feet .
+3
+#1 bend VERB bend%2:35:08::,bend%2:38:02::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+Watson stared into a cadaverous face .
+1
+#5 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Two clotted balls the color of mucus rolled between fiery lids .
+3
+#2 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#4 color NOUN color%1:07:00::,color%1:27:00::
+#7 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+Light sticks of fingers , the tips gummy with dark earth , patted at Watson 's throat .
+5
+#1 stick NOUN stick%1:06:01::
+#6 tip NOUN tip%1:15:00::
+#7 gummy ADJ gummy%5:00:00:adhesive:00
+#9 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#10 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+The man 's voice was a sweet , patient whisper .
+3
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#3 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#6 sweet ADJ sweet%5:00:00:melodious:00,sweet%5:00:01:pleasing:00,sweet%5:00:02:pleasing:00
+- Henry said that he 'd take my arm and get me right there .
+6
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#8 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#10 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#12 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#13 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+- It do n't matter .
+1
+#4 matter VERB matter%2:42:00::
+How far could it be , Watson thought bleakly , how far can a blind man crawl ?
+2
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#16 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+Another body length or all the rest of his nighted life ?
+1
+#6 rest NOUN rest%1:24:00::
+- You talk deep .
+1
+#3 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+It raises the voice , bein in camp .
+3
+#1 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#3 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#7 camp NOUN camp%1:06:01::,camp%1:14:00::
+Can you walk ?
+1
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+I can walk real good .
+1
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Watson stumbled down the bank .
+1
+#2 down ADV down%4:02:00::,down%4:02:02::
+The man leaned his frail body against Watson 's shoulder .
+3
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 body NOUN body%1:08:00::,body%1:08:02::
+#9 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+He was no heavier than a child .
+2
+#2 no ADV no%4:02:01::
+#3 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+The man wheezed weakly , his fetid breath beating softly against Watson 's neck .
+2
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+His sweet whisper came after great effort .
+3
+#1 sweet ADJ sweet%5:00:00:melodious:00,sweet%5:00:01:pleasing:00,sweet%5:00:02:pleasing:00
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+He promised to take me .
+1
+#1 promise VERB promise%2:32:00::,promise%2:32:01::
+We 're almost there .
+1
+#3 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Watson supported the man to the edge of the bank and passed the frail figure over the bow of the nearest skiff .
+7
+#1 support VERB support%2:31:04::,support%2:40:00::
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 edge NOUN edge%1:06:01::
+#9 bank NOUN bank%1:17:01::
+#11 pass VERB pass%2:32:01::,pass%2:40:00::,pass%2:40:01::,pass%2:40:02::,pass%2:40:13::
+#14 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#17 bow NOUN bow%1:06:02::
+The man swayed on a thwart , turning his ruined eyes from side to side .
+5
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#10 eye NOUN eye%1:08:00::,eye%1:09:01::
+#12 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#14 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+Watson turned away , sickened for the first time in many months .
+1
+#4 sicken VERB sicken%2:39:00::
+He heard the patient voice calling .
+2
+#4 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#5 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Watson snatched a deep breath .
+1
+#3 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+He had not meant to shout .
+1
+#5 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+He stood with his back to the skiff .
+1
+#4 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+The men mewed and scratched , begging to be taken away .
+4
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 mew VERB mew%2:32:00::
+#4 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#6 beg VERB beg%2:40:00::
+Watson spoke bewilderedly to the dark night flecked with pine-knot torches .
+4
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#5 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#6 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#10 torch NOUN torch%1:06:01::
+He was angry , sickened .
+1
+#4 sicken VERB sicken%2:39:00::
+He had not felt that during the afternoon .
+1
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+No , nor later .
+1
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+In war , on a night like this , it was only the outward emotions that mattered , what could be flung out into the darkness to damage others .
+5
+#5 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 outward ADJ outward%4:02:00::
+#16 matter VERB matter%2:42:00::
+#25 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+John 's type of man allowed this sort of thing to happen .
+6
+#2 type NOUN type%1:18:00::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+What a fool he had been to think of his brother !
+2
+#2 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+#10 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+So Charles was dead .
+1
+#3 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+What did it matter ?
+1
+#3 matter VERB matter%2:42:00::
+His name had been crossed off a list .
+2
+#1 name NOUN name%1:14:00::
+#7 list NOUN list%1:10:00::
+Already his cool body lay in the ground .
+5
+#0 already ADV already%4:02:00::
+#2 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#3 body NOUN body%1:08:00::,body%1:08:02::
+#4 lie VERB lie%2:35:00::,lie%2:38:00::
+#7 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+What words had any meaning ?
+3
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 meaning NOUN meaning%1:09:00::
+What had he thought of , to go to John , grovel and beg understanding ?
+2
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 beg VERB beg%2:40:00::
+To confess with a canvas chair as a prie-dieu , gouging at his heart until a rough and stupid hand bade him rise and go ?
+5
+#10 gouge VERB gouge%2:35:01::
+#13 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#19 hand NOUN hand%1:08:00::,hand%1:10:01::
+#20 bid VERB bid%2:32:00::
+#22 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+Men were slaughtered every day , tumbled into eternity like so many torn parcels flung down a portable chute .
+6
+#0 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 tumble VERB tumble%2:30:00::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#13 parcel NOUN parcel%1:14:00::
+#15 down ADV down%4:02:00::,down%4:02:02::
+#18 chute NOUN chute%1:06:00::
+What made him think John had a right to witness his brother 's humiliation ?
+6
+#1 make VERB make%2:36:15::
+#3 think VERB think%2:31:01::,think%2:31:03::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 right NOUN right%1:07:00::,right%1:21:00::
+#9 witness VERB witness%2:39:00::,witness%2:39:01::
+#11 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+What right had John to any special consideration ?
+3
+#1 right NOUN right%1:07:00::,right%1:21:00::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+Was John better , more deserving ?
+1
+#2 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Let him chafe with impatience to see Charles , rip open the note with trembling hands and read the formal report in Hillman 's beautiful , schoolmaster 's hand .
+9
+#2 chafe VERB chafe%2:39:00::
+#6 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#9 rip VERB rip%2:35:00::
+#12 note NOUN note%1:10:03::
+#15 hand NOUN hand%1:08:00::,hand%1:10:01::
+#17 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#19 formal ADJ formal%5:00:00:nonrepresentational:00
+#20 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#28 hand NOUN hand%1:09:00::
+John would curse .
+1
+#2 curse VERB curse%2:32:00::,curse%2:32:02::
+He believed that brave boys did n't cry .
+1
+#4 boy NOUN boy%1:18:03::
+Watson spat on the ground .
+2
+#1 spit VERB spit%2:32:00::
+#4 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+He had stupidly thought himself compelled to ease his brother 's pain .
+3
+#7 ease VERB ease%2:38:00::
+#9 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#11 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+Now he knew perfectly that he had but longed to increase his own suffering .
+4
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 long VERB long%2:37:02::
+#12 own ADJ own%5:00:00:personal:00

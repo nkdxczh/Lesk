@@ -1,0 +1,238 @@
+ A tribe in ancient India believed the earth was a huge tea tray resting on the backs of three giant elephants , which in turn stood on the shell of a great tortoise .
+1
+#5 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+This theory eventually proved inexact .
+1
+#3 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+But the primitive method of explaining the unknown with what is known bears at least a symbolic resemblance to the methods of modern science .
+1
+#12 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+It is the business of cosmologists , the scientists who study the nature and structure of the universe , to try to solve the great cosmic mysteries by using keys that have clicked open other doors .
+3
+#10 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#20 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#28 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+These keys are the working principles of physics , mathematics and astronomy , principles which are then extrapolated , or projected , to explain phenomena of which we have little or no direct knowledge .
+1
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In the autumn of 1959 , the British Broadcasting Corporation presented a series of talks by four scientists competent in cosmology .
+1
+#10 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+The programs were so well received by the British public that the arguments have been published in a totally engrossing little book called , " Rival Theories of Cosmology " .
+2
+#5 receive VERB receive%2:31:00::,receive%2:39:03::,receive%2:39:15::,receive%2:40:00::,receive%2:42:00::
+#15 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+Dr. Bonnor begins with a discussion of the relativistic theories of the universe , based on the general theory of relativity .
+2
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#14 base VERB base%2:31:00::
+First of all , and this has been calculated by observation , the universe is expanding - that is , the galaxies are receding from each other at immense speeds .
+1
+#8 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+Because of this Dr. Bonnor holds that the universe is becoming more thinly populated by stars and whatever else is there .
+2
+#5 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#10 become VERB become%2:30:00::,become%2:42:01::
+Dr. Bonnor supports the idea that the universe both expands and contracts , that in several billion years the expansion will slow up and reverse itself and that the contraction will set in .
+2
+#2 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#11 contract VERB contract%2:35:00::
+Professor Bondi disagrees with the expansion-contraction theory .
+1
+#2 disagree VERB disagree%2:32:00::
+He supports the steady-state theory which holds that matter is continually being created in space .
+1
+#1 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+For this reason , he says , the density of the universe always remains the same even though the galaxies are zooming away in all directions .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 zoom VERB zoom%2:38:00::
+New galaxies are forever being formed to fill in the gaps left by the receding galaxies .
+2
+#5 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#11 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+If this is true , then the universe today looks just as it did millions of years ago and as it will look millions of years hence , even though the universe is expanding .
+2
+#9 look VERB look%2:39:01::,look%2:42:02::
+#22 look VERB look%2:39:01::,look%2:42:02::
+For new galaxies to be created , Professor Bondi declares , it would only be necessary for a single hydrogen atom to be created in an area the size of your living room once every few million years .
+1
+#9 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+He contends this idea does n't conflict with experiments on which the principle of conservation of matter and energy is based because some slight error must be assumed in such experiments .
+3
+#1 contend VERB contend%2:32:01::
+#20 base VERB base%2:31:00::
+#27 assume VERB assume%2:31:00::
+Dr. Lyttleton backs the theory that we live in an electric universe and this theory starts with the behavior of protons and electrons .
+2
+#2 back VERB back%2:33:00::,back%2:41:00::,back%2:41:01::
+#15 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Protons and electrons bear opposite electrical charges which make them attract each other , and when they are joined they make up an atom of hydrogen - the basic building block of matter .
+2
+#3 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#8 make VERB make%2:36:15::
+Suppose , says Dr. Lyttleton , the proton has a slightly greater charge than the electron ( so slight it is presently immeasurable ) .
+3
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This would give the hydrogen atom a slight charge-excess .
+1
+#2 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Now if one hydrogen atom were placed at the surface of a large sphere of hydrogen atoms , it would be subject both to the gravitation of the sphere and the charge-excess of all those atoms in the sphere .
+1
+#6 place VERB place%2:31:13::
+Because electrical forces ( the charge-excess ) are far more powerful than gravitation , the surface hydrogen atoms would shoot away from the sphere .
+1
+#19 shoot VERB shoot%2:32:05::,shoot%2:38:00::,shoot%2:38:01::,shoot%2:38:03::,shoot%2:39:00::
+Dr. Lyttleton then imagines the universe as a large hydrogen sphere with surface atoms shooting away from it .
+2
+#3 imagine VERB imagine%2:31:01::
+#14 shoot VERB shoot%2:32:05::,shoot%2:38:00::,shoot%2:38:01::,shoot%2:38:03::,shoot%2:39:00::
+This slim book , while giving the reader only a fleeting glimpse of the scientific mind confronting the universe , has the appeal that informed conversation always has .
+2
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Several photographs and charts of galaxies help the non-scientist keep up with the discussion , and the smooth language indicates the contributors were determined to avoid the jargon that seems to work its way into almost every field .
+3
+#6 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#19 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#25 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+There would seem to be some small solace in the prospect that the missile race between nations is at the same time accelerating the study of the space around us , giving us a long-sought ladder from which to peer at alien regions .
+2
+#31 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#39 peer VERB peer%2:39:00::
+In doing away with the tea tray , the elephants and the giant tortoise , science has developed a series of rationally defensible explanations of the cosmos .
+1
+#17 develop VERB develop%2:32:00::,develop%2:36:01::
+And although the universe may forever defy understanding , it might even now be finding its match in the imagination of man .
+1
+#14 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Only in its final scene , where Beatie Bryant ( Mary Doyle ) shakes off the disappointment of being jilted by her intellectual lover and proclaims her emancipation do we get much which makes worthwhile the series of boorish rustic happenings we have had to watch for most of the first two and one-half acts .
+3
+#33 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#43 have VERB have%2:42:08::
+#45 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+The burden of Mr. Wesker 's message is that people living close to the soil ( at least in England ) are not the happy , fine , strong , natural , earthy people city-bred intellectuals imagine .
+1
+#36 imagine VERB imagine%2:31:01::
+They care no more for politics , says Mr. Wesker , than they do for a symphony .
+2
+#1 care VERB care%2:37:00::,care%2:37:12::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Seeming to have roots in the soil , they actually have none in life .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+They dwell , in short , in the doltish twilight in which peasants and serfs of the past are commonly reported to have lived .
+3
+#1 dwell VERB dwell%2:42:00::
+#20 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#23 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+But this is a theme which does not take so much time to state as Mr. Wesker dedicates to it .
+2
+#8 take VERB take%2:40:06::,take%2:42:03::
+#13 state VERB state%2:32:01::,state%2:32:02::
+So much untidiness of mind and household does not attract the interest of the theatergoer ( unless he has been living in a gilded palace , perhaps , and wants a real big heap of contrast ) .
+2
+#20 live VERB live%2:42:08::
+#29 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Miss Doyle as Beatie has a great fund of animal spirits , a strong voice and a warm smile .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+She is just home from a sojourn in London where she has become the sweetheart of a young fellow named Ronnie ( we never do see him ) and has been subjected to a first course in thinking and appreciating , including a dose of good British socialism .
+4
+#12 become VERB become%2:30:00::,become%2:42:01::
+#19 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#31 subject VERB subject%2:33:00::
+#41 include VERB include%2:31:00::,include%2:41:03::
+But while she is able to tell her retarded family about the new world she has seen open before her , Ronnie has not been able to observe her progress , and instead of appearing at a family party to be looked over like a new bull , he sends Beatie a letter of dismissal .
+6
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#16 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#27 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#34 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#41 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#49 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Beatie , getting no sympathy for her misfortune , soon rallies and finds that although she has lost a lover she has gained her freedom .
+5
+#2 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#10 rally VERB rally%2:30:00::
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#17 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#22 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+Despite a too long sustained declamatory flight , this final speech is convincing , and we see why British audiences apparently were impressed by " Roots " .
+2
+#16 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#22 impress VERB impress%2:37:01::
+There were several fairly good minor portraits in the play , including William Hansen 's impersonation of a stubborn , rather pathetic father , and Katherine Squire 's vigorous characterization of a farm mother who brooked no hifalutin ' nonsense from her daughter , or anyone else .
+1
+#11 include VERB include%2:42:00::
+Shakespeare had a word for everything , even for the rain that disrupted Wednesday night 's " Much Ado About Nothing " opening the season of free theatre in Central Park .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+The New York Shakespeare Festival , which is using the Wollman Memorial Skating Rink while its theatre near the Belvedere is being completed , began bravely .
+3
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#22 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#24 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Using a wide stage resourcefully he mingled music and dance with Shakespeare 's words in a spirited mixture .
+1
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The barbed sallies of Beatrice and Benedick , so contemporary to a public inured to the humor of insult , raised chuckles .
+2
+#13 inure VERB inure%2:30:00::
+#20 raise VERB raise%2:32:01::,raise%2:37:08::
+The simple-minded comedy of Dogberry and Verges , also familiar in a day that responds easily to jokes skimmed off the top of writers ' heads , evoked laughter .
+1
+#27 evoke VERB evoke%2:32:01::
+The vivacity of the masquers ' party at Leonato 's palace , with the Spanish motif in the music and dancing in honor of the visiting Prince of Arragon , cast a spell of delight .
+1
+#30 cast VERB cast%2:36:02::
+As " Much Ado " turned serious while the insipid Claudio rejected Hero at the altar , a sprinkle began to fall .
+3
+#5 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#19 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#21 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+At first hardly a person in the audience moved , although some umbrellas were opened .
+2
+#8 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+But the rain came more heavily , and men and women in light summer clothes began to depart .
+2
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#15 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The grieving Hero and her father , Leonato , followed by the Friar , left the stage .
+2
+#9 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#14 leave VERB leave%2:38:00::,leave%2:41:00::
+Some remained in the Wollman enclosure , fortified with raincoats or with newspapers to cover their heads .
+1
+#14 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Said Benedick : " Lady Beatrice , have you wept all this while " ?
+1
+#9 weep VERB weep%2:29:00::
+Replied Beatrice : " Yea , and I will weep a while longer " .
+1
+#9 weep VERB weep%2:29:00::
+The gallant company completed Act 4 , and got through part of Act 5 , .
+1
+#3 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+But the final scenes could not be played .
+1
+#7 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+If any among the hardy hundreds who sat in the downpour are in doubt about how it comes out , let them take comfort .
+1
+#7 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+The Parks Department has done an admirable job of preparing the Wollman Rink for Shakespeare .
+1
+#9 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+One could hardly blame Newbold Morris , the Parks Commissioner , for devoting so much grateful mention to the department 's technicians who at short notice provided the stage with its rising platforms , its balcony , its generous wings and even its impressive trapdoors for the use of the villains .
+2
+#12 devote VERB devote%2:31:00::
+#26 provide VERB provide%2:34:00::,provide%2:40:00::
+Mr. Papp has directed a performance that has verve and pace , although he has tolerated obvious business to garner easy laughs where elegance and consistency of style would be preferable .
+2
+#3 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::

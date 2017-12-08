@@ -1,0 +1,190 @@
+ There was a time some years ago when local taxation by the cities and towns was sufficient to support their own operations and a part of the cost of the state government as well .
+1
+#18 support VERB support%2:31:04::,support%2:40:00::
+For many years a state tax on cities and towns was paid by the several municipalities to the state from the proceeds of the general property tax .
+1
+#11 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Thus , there has come into being a situation in which the state must raise all of its own revenues and , in addition , must give assistance to its local governments .
+1
+#14 raise VERB raise%2:40:00::
+This financial assistance from the state has become necessary because the local governments themselves found the property tax , or at least at the rates then existing , insufficient for their requirements .
+2
+#7 become VERB become%2:30:00::,become%2:42:01::
+#26 exist VERB exist%2:42:00::
+Consequently there have developed several forms of grants-in-aid and shared taxes , as well as the unrestricted grant to local governments for general purposes whose adoption accompanied the introduction of a sales tax at the state level .
+2
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#26 accompany VERB accompany%2:42:00::
+Notwithstanding state aid , the local governments are continuing to seek additional revenue of their own by strengthening the property tax .
+1
+#8 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Taxation of tangible movable property in Rhode Island has been generally of a " hands off " nature due possibly to several reasons : ( 1 ) local assessors , in the main , are not well paid and have inadequate office staffs , ( 2 ) the numerous categories of this component of personal property make locating extremely difficult , and ( 3 ) the inexperience of the majority of assessors in evaluating this type of property .
+3
+#37 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#39 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#56 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+These problems are not local to Rhode Island , but are recognized as common to all states .
+1
+#11 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+Although the laws of the various states , in general , specify the situs of property , i. e. , residence or domicile of the owner , or location of the property , the exceptions regarding boats , airplanes , mobile homes , etc. , seem to add to the uncertainty of the proper origination point for assessment .
+1
+#47 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+It also provides for the taxation of all personal property , belonging to inhabitants of the state , both tangible and intangible , and the tangible personal property of non-residents in this state .
+2
+#2 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#11 belong VERB belong%2:40:00::,belong%2:42:02::
+In defining personal property , it specifically mentions " all ships or vessels , at home or abroad " .
+1
+#1 define VERB define%2:32:00::,defined%3:00:00::
+Intangible property is taxable wherever the owner has a place of abode the greater portion of the year .
+1
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Both boats and aircraft would fall within this category , as well as motor vehicles .
+1
+#5 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+Obviously , it would be impossible to determine where every vehicle might be on the 31 st day of December .
+1
+#7 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+In view of the acceptance accorded the status of motor vehicles for tax purposes , in the absence of any specific provision it would seem entirely consistent to apply the same interpretation to boats or aircraft .
+2
+#5 accord VERB accord%2:40:00::
+#28 apply VERB apply%2:34:00::
+Middletown bases its claim on the general provision of the law that " all rateable property , both tangible and intangible , shall be taxed to the owner thereof in the town in which such owner shall have had his actual place of abode for the larger portion of the twelve ( 12 ) months next preceding the first day of April in each year " .
+3
+#1 base VERB base%2:31:00::
+#24 tax VERB tax%2:40:00::
+#38 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The Smithfield tax assessor , in turn , claims the tax under the provision of law " and all other tangible personal property situated or being in any town , in or upon any place of storage * * h shall be taxed to such person in the town where said property is situated " .
+1
+#42 tax VERB tax%2:40:00::
+This problem of fair and equitable assessment of value is a difficult one to solve in that the determination of fair valuation is dependent on local assessors , who in general are non-professional and part-time personnel taking an individualistic approach to the problem .
+1
+#36 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+This condition will undoubtedly continue until such time as a state uniform system of evaluation is established , or through mutual agreement of the local assessing officials for a method of standard assessment practice to be adopted .
+2
+#4 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#16 establish VERB establish%2:36:01::,establish%2:41:00::
+The Rhode Island Public Expenditure Council in its publication once commented : " The most realistic way of facing up to this problem would be to have the State take over full responsibility for assessing all taxable property .
+1
+#26 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+An adequately staffed and equipped State assessing office could apply uniform methods and standards which would go far toward producing equitable assessments on all properties throughout the State .
+1
+#19 produce VERB produce%2:39:00::
+The Institute of Public Administration , in its report to the State Fiscal Study Commission in 1959 , recommended " consolidating and centralizing all aspects of property tax administration in a single state agency professionally organized and equipped for the job " .
+2
+#18 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#20 consolidate VERB consolidate%2:30:01::
+The resulting setup , it was declared , " would be similar to that which is in successful operation in a number of metropolitan counties as large or larger than Rhode Island " .
+1
+#6 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+To determine the practice and attitude of municipal governments concerning tangible movable property , a questionnaire was sent to all local government assessors or boards of assessors in Rhode Island .
+1
+#1 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+The replies from each individual town are not given in detail because the questions asked the personal opinion of the several assessors and are not necessarily the established policy of the town in each case .
+1
+#14 ask VERB ask%2:32:00::,ask%2:32:04::
+These opinions of the assessors are of significance in indicating what their thinking seems to be at the present time .
+1
+#9 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+In reply to a question of whether they now tax boats , airplanes and other movable property excluding automobiles , nineteen said that they did and twenty that they did not .
+2
+#9 tax VERB tax%2:40:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+One assessor checked boats only , another trailers and tractors , one mentioned house trailers , and two others referred to trailers without specifying the type .
+2
+#2 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#19 refer VERB refer%2:32:00::,refer%2:42:00::
+In two cases , airplanes only were indicated .
+1
+#7 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+It is difficult to tabulate exactly what was meant in each individual situation , but the conclusion may be drawn that 21 towns do not assess movable personal property , and of the remainder only certain types are valued for tax purposes .
+1
+#38 value VERB value%2:31:02::
+Boats were indicated specifically by only one of the five towns known to tax boats .
+2
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#13 tax VERB tax%2:40:00::
+It would seem , then , that movable property and equipment is not taxed as a whole but that certain types are taxed in towns where this is bound to be expedient for that particular kind of personal property .
+2
+#13 tax VERB tax%2:40:00::
+#22 tax VERB tax%2:40:00::
+So few answered the question relating to their efforts to assess movable property that the results are inconclusive .
+2
+#2 answer VERB answer%2:31:00::,answer%2:32:00::
+#5 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+Only four towns indicated that they made any more than a normal effort to list property of this kind .
+3
+#3 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 list VERB list%2:32:00::,list%2:41:00::
+Fifteen stated that it was according to location , four by residence of the owner , and nineteen did not answer .
+2
+#1 state VERB state%2:32:01::,state%2:32:02::
+#20 answer VERB answer%2:31:00::,answer%2:32:00::
+Twenty-seven assessors stated that they were in favor of improved means for assessing movable personal property , and only five were opposed .
+1
+#2 state VERB state%2:32:01::,state%2:32:02::
+Seven others expressed no opinion .
+1
+#2 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+On this point there was fairly general agreement that assessors would like to do more than they are doing now .
+1
+#11 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+Another question that was asked of the assessors was whether they favored the assessment of movable property at its location or at the residence of the owner .
+2
+#4 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 favor VERB favor%2:31:00::,favor%2:41:00::
+Eighteen voted for assessment by the town in which it is located and eleven preferred assessment by the town in which the owner resides .
+1
+#14 prefer VERB prefer%2:31:00::
+Ten others made no reply .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Of those who have an opinion , it seems that assessment by location is preferred .
+1
+#14 prefer VERB prefer%2:31:00::
+To summarize , it may be said that there is no one prevailing practice in Rhode Island with respect to the taxation of movable property , that assessors would like to see an improvement , and of those who have an opinion , that assessment by the town of location is preferred on the basis of their present knowledge .
+4
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#31 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#51 prefer VERB prefer%2:31:00::
+Interest has been shown for a number of years by local assessors in the possibility of taxing boats .
+2
+#3 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#16 tax VERB tax%2:40:00::
+Assessors in Rhode Island are charged not only with placing a valuation upon real and personal property , but they also have the responsibility to raise by a tax " a sum not less than nor more than " a specified amount as ordered by a city council or financial town meeting .
+4
+#5 charge VERB charge%2:41:00::
+#9 place VERB place%2:31:13::
+#25 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#43 order VERB order%2:32:01::,order%2:32:02::
+It has been obvious to the assessors , particularly those in shore communities , that boats comprise the largest category of tangible personal property which they have been unable to reach .
+1
+#30 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Through their professional organization , the Rhode Island Tax Officials Association the question of taxing boats long has been debated and discussed .
+1
+#14 tax VERB tax%2:40:00::
+No satisfactory solution has been found , but this is due more to the difficulties inherent in the problem than to a lack of interest or diligence on the part of the assessors .
+1
+#5 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+It is known that at least five towns ( Barrington , Bristol , Narragansett , Newport and Westerly ) place some value on some boats for tax purposes .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 place VERB place%2:31:13::
+However , few are taxed , and the owners and location of most boats are unknown to the assessors on the date of assessment of town valuations .
+1
+#4 tax VERB tax%2:40:00::
+No one really knows how many boats there actually are or what their aggregate value may be .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Slightly more than 5000 boats were registered with the Coast Guard prior to the recent passage of the state boating law .
+1
+#6 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+Only a few more than 10000 boats had been registered with the Division of Harbors and Rivers at the end of the 1960 boating season , but many had been taken out of the water early when the threat of a hurricane brought the season to an early close .
+1
+#9 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+The assessors ' association , meeting at Narragansett in September 1960 , devoted its session to a discussion of the boat problem .
+2
+#5 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#12 devote VERB devote%2:31:00::

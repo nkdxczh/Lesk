@@ -1,0 +1,612 @@
+ The Bishop looked at him coldly and said " Take it or leave it " !
+2
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He was caught in a machine .
+1
+#2 catch VERB catch%2:35:01::,catch%2:35:03::,catch%2:35:06::
+But Sojourner was not easily excited or upset and said quite calmly : " Let 's go and see what it 's like " .
+8
+#3 not ADV not%4:02:00::
+#4 easily ADV easily%4:02:01::,easily%4:02:06::
+#5 excite VERB excite%2:39:00::
+#7 upset VERB upset%2:37:01::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 quite ADV quite%4:02:02::
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Annisberg was about seventy-five miles west of Birmingham , near the Georgia border and on the Tallahoosa River , a small and dirty stream .
+4
+#2 about ADV about%4:02:00::
+#5 west NOUN west%1:24:00::,west%1:24:02::
+#12 border NOUN border%1:25:00::
+#23 stream NOUN stream%1:17:00::
+The city was a center of manufacture , especially in textiles , and also because of the beauty of some of its surroundings , a residence for many owners of the great industries in north Alabama .
+7
+#1 city NOUN city%1:15:00::,city%1:15:01::
+#4 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#8 especially ADV especially%4:02:00::
+#10 textile NOUN textile%1:06:00::
+#17 beauty NOUN beauty%1:07:00::
+#31 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#32 industry NOUN industry%1:04:00::,industry%1:14:00::
+But it had , as was usual in southern cities of this sort , a Black Bottom , a low region near the river where the Negroes lived - servants and laborers huddled together in a region with no sewage save the river , where streets and sidewalks were neglected and where there was much poverty and crime .
+5
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 city NOUN city%1:15:00::,city%1:15:01::
+#12 sort NOUN sort%1:09:00::,sort%1:18:00::
+#19 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#27 live VERB live%2:42:08::
+Wilson came by train from Birmingham and looked the city over ; the rather pleasant white city was on the hill where the chief stores were .
+8
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#3 train NOUN train%1:06:00::
+#7 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#9 city NOUN city%1:15:00::,city%1:15:01::
+#13 rather ADV rather%4:02:00::,rather%4:02:04::
+#16 city NOUN city%1:15:00::,city%1:15:01::
+#20 hill NOUN hill%1:06:01::,hill%1:17:00::
+#24 store NOUN store%1:06:00::
+Beyond were industries and factories .
+3
+#0 beyond ADV beyond%4:02:01::
+#2 industry NOUN industry%1:04:00::,industry%1:14:00::
+#4 factory NOUN factory%1:06:00::
+Then they went down to Black Bottom .
+1
+#0 then ADV then%4:02:00::
+It was an old and dirty wooden structure , sadly in need of repair .
+3
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#6 wooden ADJ wooden%5:00:00:woody:00
+#11 need NOUN need%1:26:00::
+But it was a landmark .
+1
+#4 landmark NOUN landmark%1:15:00::
+It had been there 50 years or more and everybody in town , black and white , knew of it .
+4
+#3 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#13 black ADJ black%3:00:02::
+#15 white ADJ white%3:00:02::
+It had just suffered a calamity , the final crisis in a long series of calamities .
+2
+#3 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#13 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+For the old preacher who had been there twenty-five years was dead , and the city mourned him .
+5
+#2 old ADJ old%3:00:01::,old%3:00:02::
+#7 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+#11 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#15 city NOUN city%1:15:00::,city%1:15:01::
+He was a loud-voiced man , once vigorous but for many years now declining in strength and ability .
+5
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 once ADV once%4:02:01::
+#11 year NOUN year%1:28:01::
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#15 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+He was stern and overbearing with his flock , but obsequious and conciliatory with the whites , especially the rich who partly supported the church .
+5
+#7 flock NOUN flock%1:14:00::
+#15 white NOUN white%1:06:01::
+#17 especially ADV especially%4:02:00::
+#19 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#22 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+The Deacon Board , headed by a black man named Carlson , had practically taken over as the pastor grew old , and had its way with the support of the Amen corner .
+5
+#9 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#13 practically ADV practically%4:02:00::
+#19 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#20 old ADJ old%3:00:01::,old%3:00:02::
+#28 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+The characteristic thing about this church was its Amen corner and the weekly religious orgy .
+1
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+A knot of old worshippers , chiefly women , listened weekly to a sermon .
+2
+#1 knot NOUN knot%1:14:00::
+#3 old ADJ old%3:00:01::,old%3:00:02::
+It began invariably in low tones , almost conversational , and then gradually worked up to high , shrill appeals to God and man .
+7
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#5 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#11 then ADV then%4:02:00::
+#19 appeal NOUN appeal%1:10:00::,appeal%1:10:02::
+#21 God NOUN god%1:18:00::
+#23 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+And then the Amen corner took hold , re-enacting a form of group participation in worship that stemmed from years before the Greek chorus , spreading down through the African forest , overseas to the West Indies , and then here in Alabama .
+8
+#8 re-enact VERB reenact%2:36:00::
+#10 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#17 stem VERB stem%2:42:00::
+#19 year NOUN year%1:28:01::
+#25 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#26 down ADV down%4:02:00::,down%4:02:02::
+#39 then ADV then%4:02:00::
+#40 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+With shout and slow dance , with tears and song , with scream and contortion , the corner group was beset by hysteria and shivering , wailing , shouting , possession of something that seemed like an alien and outside force .
+7
+#1 shout NOUN shout%1:10:00::
+#7 tear NOUN tear%1:08:01::
+#20 beset VERB beset%2:37:00::
+#24 shiver VERB shiver%2:29:00::
+#28 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#30 possession NOUN possession%1:15:00::
+#40 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+It spread to most of the audience and was often viewed by visiting whites who snickered behind handkerchief and afterward discussed Negro religion .
+5
+#1 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#6 audience NOUN audience%1:14:01::
+#10 view VERB view%2:39:00::,view%2:39:02::
+#12 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#13 white NOUN white%1:06:01::
+It sometimes ended in death-like trances with many lying exhausted and panting on chair and floor .
+4
+#8 lie VERB lie%2:35:00::,lie%2:38:00::
+#9 exhausted ADJ exhausted%5:00:00:tired:00
+#13 chair NOUN chair%1:06:00::,chair%1:06:01::
+#15 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+To most of those who composed the Amen corner it was a magnificent and beautiful experience , something for which they lived from week to week .
+3
+#5 compose VERB compose%2:42:00::
+#12 magnificent ADJ magnificent%5:00:00:impressive:00
+#21 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+It was often re-enacted in less wild form at the Wednesday night prayer meeting .
+4
+#3 re-enact VERB reenact%2:36:00::
+#6 wild ADJ wild%3:00:02::,wild%5:00:00:enthusiastic:00,wild%5:00:00:insane:00,wild%5:00:00:passionate:00,wild%5:00:00:stormy:00,wild%5:00:00:unsupported:02,wild%5:00:01:uncontrolled:00
+#7 form NOUN form%1:09:01::,form%1:10:00::
+#11 night NOUN night%1:28:00::
+Wilson , on his first Sunday , witnessed this with something like disgust .
+2
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#7 witness VERB witness%2:39:00::,witness%2:39:01::
+He had preached a short sermon , trying to talk man-to-man to the audience , to tell them who he was , what he had done in Macon and Birmingham , and what he proposed to do here .
+6
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 audience NOUN audience%1:14:01::
+#16 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#29 Birmingham NOUN birmingham%1:15:00::
+#34 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#37 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+But then , at mention of that name , the Amen corner broke loose .
+2
+#1 then ADV then%4:02:00::
+#7 name NOUN name%1:14:00::
+He had no chance to say another word .
+3
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+At the very end , when the audience was silent and breathless , a collection was taken and then slowly everyone filed out .
+5
+#3 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#7 audience NOUN audience%1:14:01::
+#14 collection NOUN collection%1:04:00::
+#16 take VERB take%2:31:02::,take%2:34:00::
+#18 then ADV then%4:02:00::
+The audience did not think much of the new pastor , and what the new pastor thought of the audience he did not dare at the time to say .
+7
+#1 audience NOUN audience%1:14:01::
+#3 not ADV not%4:02:00::
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#19 audience NOUN audience%1:14:01::
+#22 not ADV not%4:02:00::
+#26 time NOUN time%1:11:00::
+#28 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+During the next weeks he looked over the situation .
+3
+#2 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#5 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 situation NOUN situation%1:26:01::
+First of all there was the parsonage , an utterly impossible place for civilized people to live in , originally poorly conceived , apparently not repaired for years , with no plumbing or sewage , with rat-holes and rot .
+9
+#11 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#19 originally ADV originally%4:02:01::
+#21 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#25 repair VERB repair%2:30:00::
+#27 year NOUN year%1:28:00::,year%1:28:01::
+#31 plumbing NOUN plumbing%1:04:01::
+#36 rathole NOUN rathole%1:06:00::
+#38 rot NOUN rot%1:22:00::
+It was arranged that he would board in the home of one of the old members of the church , a woman named Catt who , as Wilson afterward found , was briefly referred to as The Cat because of her sharp tongue and fierce initiative .
+7
+#2 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#6 board VERB board%2:42:00::
+#9 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#15 member NOUN member%1:18:00::,member%1:24:00::
+#22 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#29 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#33 refer VERB refer%2:32:00::,refer%2:42:00::
+Ann Catt was a lonely , devoted soul , never married , conducting a spotless home and devoted to her church , but a perpetual dissenter and born critic .
+9
+#6 devoted ADJ devoted%5:00:00:dedicated:00
+#7 soul NOUN soul%1:03:00::,soul%1:04:00::
+#9 never ADV never%4:02:00::
+#10 marry VERB marry%2:41:00::,marry%2:41:01::
+#12 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#15 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#17 devoted ADJ devoted%5:00:00:dedicated:00
+#24 perpetual ADJ perpetual%5:00:00:continuous:01
+#28 critic NOUN critic%1:18:01::
+She soared over the new pastor like an avenging angel lest he stray from the path and not know all the truth and gossip of which she was chief repository .
+1
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Then Wilson looked over the church and studied its condition .
+4
+#0 then ADV then%4:02:00::
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#9 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+Wilson made up his mind that he must receive at least $ 2500 , but when he mentioned this to the Deacons they said nothing .
+2
+#8 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It really ought to be rebuilt , and he determined to go up and talk to the city banks about this .
+3
+#1 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#17 city NOUN city%1:15:00::,city%1:15:01::
+#18 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+Meanwhile , the city itself should be talked to .
+1
+#3 city NOUN city%1:15:00::,city%1:15:01::
+The streets in the colored section were dirty .
+2
+#4 colored ADJ colored%5:00:00:black:02
+#5 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+The children had nowhere to go and no place to play , not even sidewalks .
+3
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+The school was small , dark and ill-equipped .
+2
+#1 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#5 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+The teacher was a pliant fool .
+1
+#5 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+There were two liquor saloons not very far from the church , one white , that is conducted for white people with a side entrance for Negroes ; the other exclusively Negro .
+5
+#3 liquor NOUN liquor%1:13:00::
+#4 saloon NOUN saloon%1:06:01::
+#13 white NOUN white%1:06:01::
+#19 white ADJ white%3:00:02::
+#29 other ADJ other%3:00:00::
+On the other side of the church was a quiet , well-kept house with shutters and recently painted .
+5
+#2 other ADJ other%3:00:00::
+#9 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+#12 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#14 shutter NOUN shutter%1:06:00::
+#17 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+Wilson inquired about it .
+1
+#1 inquire VERB inquire%2:32:01::
+One of the leading members of the Amen corner was cook ; there were two or three colored maids employed there .
+4
+#4 member NOUN member%1:18:00::,member%1:24:00::
+#17 colored ADJ colored%5:00:00:black:02
+#19 employ VERB employ%2:34:00::,employ%2:41:00::
+#20 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Wilson was told that it was a sort of hotel for white people , which seemed to him rather queer .
+6
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#9 hotel NOUN hotel%1:06:00::
+#11 white NOUN white%1:06:01::
+#18 rather ADV rather%4:02:00::,rather%4:02:04::
+#19 queer ADJ queer%5:00:00:strange:00
+Why should a white hotel be set down in the center of Black Bottom ?
+3
+#3 white ADJ white%3:00:02::
+#4 hotel NOUN hotel%1:06:00::
+#10 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+But nevertheless it looked respectable .
+1
+#3 look VERB look%2:39:01::,look%2:42:02::
+He was glad to have it there .
+2
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+The rest of Black Bottom was a rabbit warren of homes in every condition of neglect , disrepair and careful upkeep .
+4
+#1 rest NOUN rest%1:24:00::
+#10 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#13 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#19 careful ADJ careful%3:00:00::,careful%5:00:00:unhurried:00
+Dives , carefully repaired huts , and nicely painted and ornamented cottages were jumbled together cheek by jowl with little distinction .
+1
+#14 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+The best could not escape from the worst and the worst nestled cosily beside the better .
+4
+#1 good ADJ best%3:00:00::,good%3:00:01::
+#7 worst ADJ worst%3:00:00::
+#10 worst ADJ worst%3:00:00::
+#15 good ADJ good%3:00:01::,good%5:00:01:sound:00
+The yards , front and back , were narrow ; some were trash dumps , some had flower gardens .
+4
+#3 front ADJ front%3:00:00::
+#5 back ADJ back%5:00:00:posterior:00
+#8 narrow ADJ narrow%3:00:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Behind were privies , for there was no sewage system .
+1
+#2 privy NOUN privy%1:06:00::
+After looking about a bit , Wilson discovered beyond Black Bottom , across the river and far removed from the white city , a considerable tract of land , and it occurred to him that the church and the better Negro homes might gradually be moved to this plot .
+11
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#16 far ADV far%4:02:02::
+#20 white NOUN white%1:06:01::
+#21 city NOUN city%1:15:00::,city%1:15:01::
+#25 tract NOUN tract%1:15:00::
+#27 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#39 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#41 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#45 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#48 plot NOUN plot%1:15:00::
+The Presiding Elder looked him over rather carefully .
+2
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#6 rather ADV rather%4:02:00::,rather%4:02:04::
+He was not sure what kind of a man he had in hand .
+2
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But there was one thing that he had to stress , and that was that the contribution to the general church expenses , the dollar money , had been seriously falling behind in this church , and that must be looked after immediately .
+3
+#9 stress VERB stress%2:32:00::,stress%2:32:01::
+#19 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#29 seriously ADV seriously%4:02:01::
+In fact , he intimated clearly that that was the reason that Wilson had been sent here - to make a larger contribution of dollar money .
+5
+#10 reason NOUN reason%1:09:01::,reason%1:16:00::
+#15 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#16 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 large ADJ large%3:00:00::,large%5:00:00:significant:00
+Wilson stressed the fact that clear as this was , they must have a better church , a more business-like conduct of the church organization , and an effort to get this religious center out of its rut of wild worship into a modern church organization .
+7
+#1 stress VERB stress%2:32:00::,stress%2:32:01::
+#12 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#14 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#20 conduct NOUN conduct%1:07:00::
+#24 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#37 rut NOUN rut%1:25:00::
+#45 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+He emphasized to the Presiding Elder the plan of giving up the old church and moving across the river .
+3
+#7 plan NOUN plan%1:09:01::
+#12 old ADJ old%3:00:01::,old%3:00:02::
+#15 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+But he told Wilson to " go ahead and try " .
+2
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#9 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+And Wilson tried .
+1
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+The bank which held the mortgage on the old church declared that the interest was considerably in arrears , and the real estate people said flatly that the land across the river was being held for an eventual development for white working people who were coming in , and that none would be sold to colored folk .
+16
+#1 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#3 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#8 old ADJ old%3:00:01::,old%3:00:02::
+#10 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#13 interest NOUN interest%1:21:00::
+#23 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#24 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 flatly ADV flatly%4:02:00::
+#28 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#38 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#40 white NOUN white%1:06:01::
+#41 working ADJ working%5:00:00:employed:00
+#42 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#53 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#55 colored ADJ colored%5:00:00:black:02
+#56 folk NOUN folk%1:14:00::
+When it was proposed to rebuild the church , Wilson found that the terms for a new mortgage were very high .
+4
+#3 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#13 term NOUN term%1:10:01::,term%1:10:02::
+#20 high ADJ high%3:00:02::
+He was sure that he could do better if he went to Atlanta to get the deal financed .
+1
+#16 deal NOUN deal%1:10:00::
+But when this proposal was made to his Deacon Board , he met unanimous opposition .
+3
+#3 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#12 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+The church certainly would not be removed .
+1
+#4 not ADV not%4:02:00::
+The very proposition was sacrilege .
+1
+#2 proposition NOUN proposition%1:04:00::
+It had been here fifty years .
+2
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#5 year NOUN year%1:28:00::,year%1:28:01::
+It was going to stay forever .
+2
+#4 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#5 forever ADV forever%4:02:00::
+It was hardly possible to get any argument on the subject .
+3
+#2 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#5 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#10 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+Wilson again went downtown to a different banker , an intelligent young white man who seemed rather sympathetic , but he shook his head .
+5
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#16 rather ADV rather%4:02:00::,rather%4:02:04::
+#17 sympathetic ADJ sympathetic%3:00:00::,sympathetic%5:00:00:kind:00
+#21 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#23 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" Reverend " , he said , " I think you do n't quite understand the situation here .
+4
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 think VERB think%2:31:01::,think%2:31:03::
+#13 quite ADV quite%4:02:02::
+#16 situation NOUN situation%1:26:01::
+Do n't you see the amount of money that has been invested by whites around that church ?
+3
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#11 invest VERB invest%2:40:00::
+#13 white NOUN white%1:06:01::
+Tenements , stores , saloons , some gambling , I hope not too much .
+3
+#0 tenement NOUN tenement%1:06:00::
+#2 store NOUN store%1:06:00::
+#4 saloon NOUN saloon%1:06:01::
+The colored people are getting employment at Kent House and other places , and they are near their places of employment .
+6
+#1 colored ADJ colored%5:00:00:black:02
+#2 people NOUN people%1:14:01::
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#10 other ADJ other%3:00:00::
+#16 near ADJ near%3:00:00::
+#18 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+When a city has arranged things like this you cannot easily change them .
+4
+#2 city NOUN city%1:15:00::,city%1:15:01::
+#4 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#10 easily ADV easily%4:02:01::,easily%4:02:06::
+#11 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Now , if I were you I would just plan to repair the old church so it would last for five or ten years .
+6
+#8 just ADV just%4:02:00::,just%4:02:03::
+#9 plan VERB plan%2:31:00::,plan%2:31:01::
+#11 repair NOUN repair%1:04:00::
+#13 old ADJ old%3:00:01::,old%3:00:02::
+#18 last VERB last%2:42:01::
+#23 year NOUN year%1:28:00::,year%1:28:01::
+By that time , perhaps something better can be done " .
+1
+#6 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Then Wilson asked , " What about this Kent House which you mention ?
+2
+#0 then ADV then%4:02:00::
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+I do n't understand why a white hotel should be down here " .
+4
+#6 white ADJ white%3:00:02::
+#7 hotel NOUN hotel%1:06:00::
+#10 down ADJ down%3:00:00::
+#11 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+The young banker looked at him with a certain surprise , and then he said flatly : " I'm afraid I can't tell you anything in particular about Kent House .
+7
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 certain ADJ certain%5:00:00:definite:00
+#9 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#12 then ADV then%4:02:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 flatly ADV flatly%4:02:00::
+#22 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+You 'll have to find out about it on your own .
+1
+#10 own ADJ own%5:00:00:personal:00
+Hope to see you again " .
+1
+#2 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+And he dismissed the colored pastor .
+1
+#4 colored ADJ colored%5:00:00:black:02
+It was next day that Sojourner came and sat beside him and took his hand .
+6
+#2 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#8 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#12 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#14 hand NOUN hand%1:08:00::,hand%1:10:01::
+She said , " My dear , do you know what Kent House is " ?
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 dear NOUN dear%1:18:00::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" No " , said Wilson , " I do n't .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I was just asking about it .
+1
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+" It 's a house of prostitution for white men with white girls as inmates .
+2
+#11 white ADJ white%3:00:02::
+#12 girl NOUN girl%1:18:01::,girl%1:18:03::
+They hire a good deal of local labor , including two members of our Trustee Board .
+4
+#1 hire VERB hire%2:41:00::
+#7 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#9 include VERB include%2:42:00::
+#11 member NOUN member%1:18:00::,member%1:24:00::
+They buy some supplies from our colored grocers and they are patronized by some of the best white gentlemen in town " .
+5
+#1 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#6 colored ADJ colored%5:00:00:black:02
+#11 patronize VERB patronize%2:41:00::
+#16 good ADJ best%3:00:00::,good%3:00:01::
+#17 white ADJ white%3:00:02::
+" My dear , you must be mistaken " .
+1
+#2 dear NOUN dear%1:18:00::
+" Talk to Mrs. Catt " , she said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+This , of course , was the sort of thing that used to take place in Southern cities - putting white houses of prostitution colored girls in colored neighborhoods and carrying them on openly .
+8
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#17 city NOUN city%1:15:00::,city%1:15:01::
+#19 put VERB put%2:35:00::,put%2:35:05::
+#20 white ADJ white%3:00:02::
+#24 colored ADJ colored%5:00:00:black:02
+#25 girl NOUN girl%1:18:01::,girl%1:18:03::
+#27 colored ADJ colored%5:00:00:black:02
+But it had largely disappeared on account of protest by the whites and through growing resentment on the part of the Negroes as they became more educated and got better wages .
+6
+#4 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#8 protest NOUN protest%1:10:00::
+#11 white NOUN white%1:06:01::
+#24 become VERB become%2:30:00::,become%2:42:01::
+#28 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#29 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+The wages involved were larger and more regular .
+3
+#2 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#4 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#7 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+The inmates were white and from out of town , avoiding local friction .
+2
+#3 white ADJ white%3:00:02::
+#10 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+The backing from the white town was greater and there was little publicity .
+3
+#1 backing NOUN backing%1:04:00::
+#4 white ADJ white%3:00:02::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+Good wages , patronage and subscription of various kinds stopped open protest from Negroes .
+5
+#0 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#3 patronage NOUN patronage%1:04:01::
+#5 subscription NOUN subscription%1:21:00::
+#9 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+#11 protest NOUN protest%1:10:00::
+And yet Wilson knew that this place must go or he must go .
+2
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+And for him to leave this job now without accomplishing anything would mean practically the end of his career in the Methodist church , if not in all churches .
+5
+#4 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 job NOUN job%1:04:00::,job%1:06:00::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 practically ADV practically%4:02:00::
+#15 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::

@@ -1,0 +1,722 @@
+ Burly leathered men and wrinkled women in drab black rags carried on in a primitive way , almost unchanged from feudal times .
+6
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 drab ADJ drab%5:00:00:colorless:02
+#8 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#9 rag NOUN rag%1:06:00::
+#15 way NOUN way%1:04:00::,way%1:09:00::
+#21 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+He wondered how they could go on in poverty , superstition , ignorance , with a complete lack of desire to make either their land or their lives flourish .
+6
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#16 complete ADJ complete%5:00:00:skilled:00
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#24 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#27 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#28 flourish VERB flourish%2:30:01::
+Andrei remembered a Bathyran meeting long ago .
+1
+#4 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+Tolek Alterman had returned from the colonies in Palestine and , before the national leadership , exalted the miracles of drying up swamps and irrigating the desert .
+3
+#3 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#11 before ADV before%4:02:01::
+#26 desert NOUN desert%1:15:00::
+A fund-raising drive to buy tractors and machinery was launched .
+2
+#4 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#9 launch VERB launch%2:35:00::,launch%2:35:04::
+Andrei remembered that his own reaction had been one of indifference .
+1
+#4 own ADJ own%5:00:00:personal:00
+Had he found the meaning too late ?
+4
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#4 meaning NOUN meaning%1:09:00::
+#5 too ADV too%4:02:00::
+#6 late ADV late%4:02:00::
+It aggravated him .
+1
+#1 aggravate VERB aggravate%2:37:00::
+The land of the Lublin Uplands was rich , but no one seemed to care .
+2
+#1 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#14 care VERB care%2:37:00::,care%2:37:12::
+In the unfertile land in Palestine humans broke their backs pushing will power to the brink .
+2
+#3 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#10 push VERB push%2:32:00::,push%2:32:01::,push%2:38:01::,push%2:38:08::,push%2:41:00::,push%2:41:10::
+He had sat beside Alexander Brandel at the rostrum of a congress of Zionists .
+3
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#8 rostrum NOUN rostrum%1:06:00::
+#11 congress NOUN congress%1:14:00::
+All of them were there in this loosely knit association of diversified ideologies , and each berated the other and beat his breast for his own approaches .
+4
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#20 beat VERB beat%2:35:00::,beat%2:35:01::,beat%2:35:10::,beat%2:35:12::,beat%2:36:00::,beat%2:38:04::,beat%2:39:00::
+#25 own ADJ own%5:00:00:personal:00
+#26 approach NOUN approach%1:04:02::,approach%1:06:00::
+When Alexander Brandel rose to speak , the hall became silent .
+4
+#3 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#5 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#8 hall NOUN hall%1:06:01::,hall%1:06:02::,hall%1:06:06::
+#9 become VERB become%2:30:00::,become%2:42:01::
+" I do not care if your beliefs take you along a path of religion or a path of labor or a path of activism .
+5
+#3 not ADV not%4:02:00::
+#4 care VERB care%2:37:00::,care%2:37:12::
+#7 belief NOUN belief%1:09:00::,belief%1:09:01::
+#8 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#19 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+We are here because all our paths travel a blind course through a thick forest , seeking human dignity .
+4
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#10 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#13 thick ADJ thick%3:00:02::,thick%5:00:00:abundant:00,thick%5:00:00:concentrated:00
+Beyond the forest all our paths merge into a single great highway which ends in the barren , eroded hills of Judea .
+4
+#9 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#10 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 barren ADJ barren%5:00:00:sterile:00
+#19 hill NOUN hill%1:06:01::,hill%1:17:00::
+This is our singular goal .
+2
+#3 singular ADJ singular%5:00:00:single:05
+#4 goal NOUN goal%1:09:00::,goal%1:15:00::
+How we travel through the forest is for each man 's conscience .
+1
+#2 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+Where we end our journey is always the same .
+2
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#8 same ADJ same%3:00:00::,same%3:00:02::
+We all seek the same thing through different ways - an end to this long night of two thousand years of darkness and unspeakable abuses which will continue to plague us until the Star of David flies over Zion " .
+8
+#4 same ADJ same%3:00:00::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 different ADJ different%5:00:00:unusual:00
+#14 long ADJ long%3:00:02::
+#15 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#21 darkness NOUN darkness%1:09:00::,darkness%1:26:00::
+#27 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#36 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+This was how Alexander Brandel expressed pure Zionism .
+1
+#5 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+It had sounded good to Andrei , but he did not believe it .
+3
+#3 good ADJ good%3:00:01::
+#10 not ADV not%4:02:00::
+#11 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+In his heart he had no desire to go to Palestine .
+2
+#2 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+He loathed the idea of drying up swamps or the chills of malaria or of leaving his natural birthright .
+3
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#10 chill NOUN chill%1:07:00::
+#15 leave VERB leave%2:38:00::,leave%2:41:00::
+Before he went into battle Andrei had told Alex , " I only want to be a Pole .
+2
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Warsaw is my city , not Tel Aviv " .
+1
+#3 city NOUN city%1:15:00::,city%1:15:01::
+And now Andrei sat on a train on the way to Lublin and wondered if he was not being punished for his lack of belief .
+6
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#6 train NOUN train%1:06:00::
+#13 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#17 not ADV not%4:02:00::
+#24 belief NOUN belief%1:09:00::,belief%1:09:01::
+He saw the smug eyes of the Home Army chief , Roman , and all the Romans and the faces of the peasants who held only hatred for him .
+6
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 chief NOUN chief%1:18:02::
+#11 Roman NOUN roman%1:18:01::
+#24 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#25 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+They had let this black hole of death in Warsaw 's heart exist without a cry of protest .
+3
+#2 let VERB let%2:30:01::,let%2:41:00::
+#12 exist VERB exist%2:42:00::
+#17 protest NOUN protest%1:10:00::
+Once there had been big glittering rooms where Ulanys bowed and kissed the ladies ' hands as they flirted from behind their fans .
+8
+#0 once ADV once%4:02:01::
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 bow VERB bow%2:38:00::
+#13 lady NOUN lady%1:18:00::,lady%1:18:01::
+#15 hand NOUN hand%1:08:00::,hand%1:10:01::
+#18 flirt VERB flirt%2:32:00::
+#22 fan NOUN fan%1:06:00::
+Day by day , week by week , month by month , the betrayal gnawed at Andrei 's heart .
+1
+#18 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+He ground his teeth together .
+2
+#3 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#4 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+I hate Warsaw , he said to himself .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I hate Poland and all the goddamned mothers ' sons of them .
+1
+#7 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+The terrible vision of the ghetto streets flooded his mind .
+1
+#7 flood VERB flood%2:35:00::
+What matters now ?
+2
+#1 matter VERB matter%2:42:00::
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+What is beyond this fog ?
+1
+#4 fog NOUN fog%1:26:01::
+Only Palestine , and I will never live to see Palestine because I did not believe .
+5
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 not ADV not%4:02:00::
+#15 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+By late afternoon the train inched into the marshaling yards in the railhead at Lublin , which was filled with lines of cars poised to pour the tools of war to the Russian front .
+6
+#1 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#4 train NOUN train%1:06:00::
+#9 yard NOUN yard%1:06:02::,yard%1:15:00::
+#20 line NOUN line%1:06:08::,line%1:10:06::,line%1:14:00::,line%1:14:01::,line%1:14:02::,line%1:14:03::
+#27 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#33 front NOUN front%1:06:00::,front%1:14:00::,front%1:15:00::,front%1:19:00::,front%1:26:00::
+At a siding , another train which was a familiar sight these days .
+4
+#5 train NOUN train%1:06:00::
+#9 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#10 sight NOUN sight%1:04:00::,sight%1:10:00::
+#12 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Andrei 's skilled eye sized them up .
+1
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+He guessed by their appearance that they were Rumanians .
+2
+#4 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+#8 Romanian NOUN romanian%1:18:00::
+He walked toward the center of the city to keep his rendezvous with Styka .
+4
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#4 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#7 city NOUN city%1:15:00::,city%1:15:01::
+#9 keep VERB keep%2:41:05::
+Of all the places in Poland , Andrei hated Lublin the most .
+1
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+The Bathyrans were all gone .
+1
+#4 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+Few of the native Jews who had lived in Lublin were still in the ghetto .
+2
+#3 native ADJ native%3:00:02::
+#11 still ADV still%4:02:00::
+From the moment of the occupation Lublin became a focal point .
+2
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#7 become VERB become%2:30:00::,become%2:42:01::
+He and Ana watched it carefully .
+1
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Lublin generally was the forerunner of what would happen elsewhere .
+2
+#1 generally ADV generally%4:02:02::
+#8 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Early in 1939 , Odilo Globocnik , the Gauleiter of Vienna , established SS headquarters for all of Poland .
+1
+#12 establish VERB establish%2:36:01::,establish%2:41:00::
+The Bathyrans ran a check on Globocnik and had only to conclude that he was in a tug of war with Hans Frank and the civilian administrators .
+3
+#2 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+#4 check NOUN check%1:09:00::
+#11 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+Lublin was the seed of action for the " final solution " of the Jewish problem .
+3
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#10 solution NOUN solution%1:09:00::,solution%1:10:00::
+#15 problem NOUN problem%1:09:00::,problem%1:26:00::
+As the messages from Himmler , Heydrich , and Eichmann came in through Alfred Funk , Lublin 's fountainhead spouted .
+1
+#2 message NOUN message%1:10:00::,message%1:10:01::
+A bevy of interlacing lagers , work camps , concentration camps erupted in the area .
+1
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Sixty thousand Jewish prisoners of war disappeared into Lublin 's web .
+2
+#6 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#10 web NOUN web%1:14:00::
+Plans went in and out of Lublin , indicating German confusion .
+4
+#0 plan NOUN plan%1:09:00::
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#10 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+A tale of a massive reservation in the Uplands to hold several million Jews .
+2
+#1 tale NOUN tale%1:10:00::
+#4 massive ADJ massive%5:00:00:heavy:01
+A tale of a plan to ship all Jews to the island of Madagascar .
+4
+#1 tale NOUN tale%1:10:00::
+#4 plan NOUN plan%1:09:00::
+#6 ship VERB ship%2:38:03::
+#11 island NOUN island%1:06:00::
+Stories of the depravity of the guards at Globocnik 's camps struck a chord of terror at the mere mention of their names .
+4
+#0 story NOUN story%1:10:04::
+#6 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#15 terror NOUN terror%1:04:00::
+#22 name NOUN name%1:14:00::
+Ice baths , electric shocks , lashings , wild dogs , testicle crushers .
+3
+#0 ice NOUN ice%1:27:00::
+#1 bath NOUN bath%1:06:00::
+#6 lashing NOUN lashing%1:04:00::
+The Death's-Head Corps took in Ukrainian and Baltic Auxiliaries , and the Einsatzkommandos waded knee-deep in blood and turned into drunken , dope ridden maniacs .
+3
+#5 Ukrainian NOUN ukrainian%1:10:00::
+#16 blood NOUN blood%1:04:00::,blood%1:08:00::
+#22 dope NOUN dope%1:06:00::
+Lublin was their heart .
+1
+#3 heart NOUN heart%1:09:01::,heart%1:15:00::
+In the spring of 1942 Operation Reinhard began in Lublin .
+2
+#2 spring NOUN spring%1:28:00::
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+As the camp emptied , it was refilled by a draining of the camps and towns around Lublin , then by deportees from outside Poland .
+2
+#10 drain NOUN drain%1:04:01::
+#19 then ADV then%4:02:00::
+In and in and in they poured through the gates of Majdanek , but they never left , and Majdanek was not growing any larger .
+6
+#9 gate NOUN gate%1:06:00::
+#15 never ADV never%4:02:00::
+#16 leave VERB leave%2:38:00::,leave%2:41:00::
+#21 not ADV not%4:02:00::
+#22 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#24 large ADJ large%3:00:00::,large%5:00:00:significant:00
+What was happening in Majdanek ?
+1
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Was Operation Reinhard the same pattern for the daily trains now leaving the Umschlagplatz in Warsaw ?
+5
+#4 same ADJ same%3:00:00::,same%3:00:02::
+#5 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#9 train NOUN train%1:06:00::
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 leave VERB leave%2:38:00::,leave%2:41:00::
+Was there another Majdanek in the Warsaw area , as they suspected ?
+2
+#7 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+Andrei stopped at Litowski Place and looked around quickly at the boundary of civil buildings .
+3
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#13 civil ADJ civil%5:00:00:civilian:00
+#14 building NOUN building%1:06:00::
+His watch told him he was still early .
+4
+#1 watch NOUN watch%1:06:00::
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 still ADV still%4:02:00::
+#7 early ADV earlier%4:02:00::
+Down the boulevard he could see a portion of the ghetto wall .
+1
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He found an empty bench , opened a newspaper , and stretched his legs before him .
+4
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#3 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#11 stretch VERB stretch%2:29:01::,stretch%2:29:02::
+#13 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+Krakow Boulevard was filled with black Nazi uniforms and the dirty brownish ones of their Auxiliaries .
+2
+#5 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#7 uniform NOUN uniform%1:06:00::
+Andrei glanced up over the top of the paper and looked into the mustached , homely face of Sergeant Styka .
+7
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#2 up ADV up%4:02:00::,up%4:02:02::
+#5 top NOUN top%1:15:00::,top%1:15:01::
+#8 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#10 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#15 homely ADJ homely%5:00:00:unattractive:00
+#16 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Styka sat beside him and pumped his hand excitedly .
+3
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 pump VERB pump%2:35:00::
+#7 hand NOUN hand%1:08:00::,hand%1:10:01::
+" I have been waiting across the street at the post office since dawn .
+1
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+I thought you might get in on a morning train " .
+1
+#9 train NOUN train%1:06:00::
+" It 's good to see you again , Styka " .
+2
+#3 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#5 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+Styka studied his captain .
+1
+#1 study VERB study%2:31:00::
+He almost broke into tears .
+1
+#4 tear NOUN tear%1:08:01::
+To him , Andrei Androfski had always been the living symbol of a Polish officer .
+2
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#14 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+His captain was thin and haggard and his beautiful boots were worn and shabby .
+3
+#3 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#5 haggard ADJ haggard%5:00:00:tired:00
+#9 boot NOUN boot%1:06:00::
+" Remember to call me Jan " , Andrei said .
+2
+#3 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Styka nodded and sniffed and blew his nose vociferously .
+2
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#7 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+" When that woman found me and told me that you needed me I was never so happy since before the war " .
+5
+#4 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 need VERB need%2:42:00::
+#16 so ADV so%4:02:03::,so%4:02:07::
+#17 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+" I'm lucky that you were still living in Lublin " .
+2
+#6 still ADV still%4:02:00::
+#7 live VERB live%2:42:08::
+Styka grumbled about fate .
+1
+#3 fate NOUN fate%1:18:00::
+" For a time I thought of trying to reach the Free Polish Forces , but one thing led to another .
+4
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#9 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#17 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#18 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+I got a girl in trouble and we had to get married .
+2
+#1 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#3 girl NOUN girl%1:18:01::,girl%1:18:03::
+Not a bad girl .
+2
+#2 bad ADJ bad%5:00:00:evil:00
+#3 girl NOUN girl%1:18:01::,girl%1:18:03::
+So we have three children and responsibilities .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+I work at the granary .
+1
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Nothing like the old days in the army , but I get by .
+2
+#3 old ADJ old%3:00:01::
+#4 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Many times I tried to reach you , but I never knew how .
+5
+#1 time NOUN time%1:11:00::
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#10 never ADV never%4:02:00::
+#11 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I came to Warsaw twice , but there was that damned ghetto wall " .
+2
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#10 damn ADJ damn%5:00:00:cursed:00
+" I understand " .
+1
+#2 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Styka blew his nose again .
+1
+#3 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+" Were you able to make the arrangements " ?
+2
+#3 able ADJ able%3:00:00::
+#7 arrangement NOUN arrangement%1:09:01::
+Andrei asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" There is a man named Grabski who is the foreman in charge of the bricklayers at Majdanek .
+2
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+I did exactly as instructed .
+2
+#2 exactly ADV exactly%4:02:02::
+#4 instruct VERB instruct%2:32:01::
+I told him you are on orders from the Home Army to get inside Majdanek so you can make a report to the government in exile in London " .
+5
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#13 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#20 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#27 London NOUN london%1:15:00::
+" Can he be trusted " ?
+1
+#4 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+" He is aware he will not live for twenty-four hours if he betrays you " .
+3
+#6 not ADV not%4:02:00::
+#7 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#13 betray VERB betray%2:32:00::
+" Good man , Styka " .
+2
+#1 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+" Captain Jan , must you go inside Majdanek ?
+2
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+The stories .
+1
+#1 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+Everyone really knows what is happening there " .
+4
+#1 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#6 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+" Not everyone , Styka " .
+1
+#1 not ADV not%4:02:00::
+" What good will it really do " ?
+2
+#2 good NOUN good%1:07:00::
+#5 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+" I do n't know .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Perhaps if they know the story there will be a massive cry of indignation " .
+3
+#3 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#5 story NOUN story%1:10:04::
+#10 massive ADJ massive%5:00:00:heavy:01
+" Do you really believe that , Jan " ?
+2
+#3 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+" I have to believe it " .
+1
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+Styka shook his head slowly .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" I am only a simple soldier .
+2
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 soldier NOUN soldier%1:18:00::
+I cannot think things out too well .
+2
+#2 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#5 too ADV too%4:02:00::
+Until I was transferred into the Seventh Ulanys I was like every other Pole in my feeling about Jews .
+3
+#3 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#12 other ADJ other%3:00:00::
+#16 feeling NOUN feeling%1:09:03::
+What I mean is , he was a Pole and the greatest soldier in the Ulanys .
+3
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#11 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#12 soldier NOUN soldier%1:18:00::
+The men of our company had a dozen fights defending your name .
+5
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 company NOUN company%1:14:02::,company%1:14:03::
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 dozen NOUN dozen%1:23:00::
+#11 name NOUN name%1:10:00::,name%1:26:00::
+You never knew about it , but by God , we taught them respect for Captain Androfski " .
+3
+#1 never ADV never%4:02:00::
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 respect NOUN respect%1:04:03::,respect%1:07:00::,respect%1:09:01::,respect%1:26:00::
+" Since the war I have seen the way the Germans have behaved and I think , Holy Mother , we have behaved like this for hundreds of years .
+7
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 way NOUN way%1:04:00::,way%1:09:00::
+#10 German NOUN german%1:18:00::
+#12 behave VERB behave%2:41:00::,behave%2:41:01::
+#15 think VERB think%2:31:01::,think%2:31:03::
+#22 behave VERB behave%2:41:00::,behave%2:41:01::
+#28 year NOUN year%1:28:00::,year%1:28:01::
+" How can you tell an insane man to reason or a blind man to see " ?
+2
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" But we are neither blind nor insane .
+2
+#4 neither ADV neither%5:00:00:incomplete:00
+#5 blind ADJ blind%5:00:00:irrational:00
+The men of your company would not allow your name dishonored .
+6
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 company NOUN company%1:14:02::,company%1:14:03::
+#6 not ADV not%4:02:00::
+#7 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#9 name NOUN name%1:10:00::,name%1:26:00::
+#10 dishonor VERB dishonor%2:41:00::
+Why do we let the Germans do this " ?
+1
+#5 German NOUN german%1:18:00::
+" I have sat many hours with this , Styka .
+2
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 hour NOUN hour%1:07:00::,hours%1:28:01::
+All I ever wanted was to be a free man in my own country .
+3
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#12 own ADJ own%5:00:00:personal:00
+#13 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+I 've lost faith , Styka .
+1
+#2 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+I used to love this country and believe that someday we 'd win our battle for equality .
+2
+#5 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#12 win VERB win%2:33:00::
+But now I think I hate it very much " .
+2
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 think VERB think%2:31:01::,think%2:31:03::
+" And do you really think that the world outside Poland will care any more than we do " ?
+4
+#4 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#5 think VERB think%2:31:01::,think%2:31:03::
+#9 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#12 care VERB care%2:37:00::,care%2:37:12::
+" Please do n't go inside Majdanek " .
+2
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#5 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+" I'm still a soldier in a very small way , Styka " .
+3
+#2 still ADV still%4:02:00::
+#4 soldier NOUN soldier%1:18:00::
+#9 way NOUN way%1:07:01::
+It was an answer that Styka understood .
+1
+#6 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Grabski 's shanty was beyond the bridge over the River Bystrzyca near the rail center .
+3
+#2 shanty NOUN shanty%1:06:00::
+#6 bridge NOUN bridge%1:08:00::
+#13 rail NOUN rail%1:06:01::
+Grabski sat in a sweat saturated undershirt , cursing the excessive heat which clamped an uneasy stillness before sundown .
+4
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#4 sweat NOUN sweat%1:04:00::
+#8 curse VERB curse%2:32:00::,curse%2:32:02::
+#11 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+He was a square brick of a man with a moon round face and sunken Polish features .
+5
+#3 square ADJ square%3:00:00::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#14 sunken ADJ sunken%5:00:00:hollow:00
+#16 feature NOUN feature%1:08:00::,feature%1:09:01::
+Flies swarmed around the bowl of lentils in which he mopped thick black bread .
+5
+#0 fly NOUN fly%1:04:00::
+#1 swarm VERB swarm%2:38:00::
+#4 bowl NOUN bowl%1:06:01::
+#6 lentil NOUN lentil%1:13:00::
+#11 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+He washed it down with beer and produced a deep-seated belch .
+1
+#7 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Grabski looked at the pair of them .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+He grunted a sort of " yes " answer .
+1
+#6 yes NOUN yes%1:10:00::
+" My cousin works at the Labor Bureau .
+1
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+He can make you work papers .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It will take a few days .
+2
+#2 take VERB take%2:40:06::,take%2:42:03::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+I will get you inside the guard camp as a member of my crew .
+5
+#2 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#4 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#7 camp NOUN camp%1:06:01::,camp%1:14:00::
+#10 member NOUN member%1:18:00::,member%1:24:00::
+#13 crew NOUN crew%1:14:00::,crew%1:14:03::
+I do n't know if I can get you into the inner camp .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#11 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+Maybe yes , maybe no , but you can observe everything from the roof of a barrack we are building " .
+3
+#1 yes NOUN yes%1:10:00::
+#4 no NOUN no%1:10:00::
+#9 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+Grabski slurped his way to the bottom of the soup bowl .
+1
+#6 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+" Ca n't understand why the hell anyone wants to go inside that son-of-a-bitch place " .
+4
+#3 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#10 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#11 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#14 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+" Orders from the Home Army " .
+1
+#1 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+" We get strange orders " .
+3
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#3 strange ADJ strange%3:00:00::
+#4 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+Andrei peeled off five one-thousand-zloty notes .
+1
+#5 note NOUN note%1:21:01::
+Grabski had never seen so much money .
+3
+#2 never ADV never%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 so ADV so%4:02:03::,so%4:02:07::
+His broad flat fingers , petrified into massive sausages by years of bricklaying , snatched the bills clumsily .
+6
+#1 broad ADJ broad%3:00:04::,broad%5:00:00:large:00
+#2 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#5 petrify VERB petrify%2:30:00::
+#7 massive ADJ massive%5:00:00:heavy:01
+#10 year NOUN year%1:28:01::
+#16 bill NOUN bill%1:21:00::
+" This ai n't enough " .
+1
+#4 enough ADV enough%4:02:00::
+" You get the rest when I'm safely out of Majdanek " .
+2
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#4 rest NOUN rest%1:24:00::

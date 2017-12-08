@@ -1,0 +1,636 @@
+ It would have been desirable for the two communities to have differed only in respect to the variable being investigated : the degree of structure in teaching method .
+4
+#8 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 respect NOUN respect%1:09:00::
+#22 degree NOUN degree%1:26:01::
+The structured schools were in an industrial city , with three family tenement houses typical of the residential areas , but with one rather sizable section of middle-class homes .
+7
+#2 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#7 city NOUN city%1:15:00::,city%1:15:01::
+#11 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#18 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#23 rather ADV rather%4:02:00::,rather%4:02:04::
+#25 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#28 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The unstructured schools were in a large suburban community , predominantly middle - to upper-middle class , but fringed by an industrial area .
+4
+#2 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#22 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+In order to equate the samples on socioeconomic status , we chose schools in both cities on the basis of socioeconomic status of the neighborhoods .
+4
+#8 status NOUN status%1:26:00::,status%1:26:01::
+#12 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#15 city NOUN city%1:15:00::,city%1:15:01::
+#21 status NOUN status%1:26:00::,status%1:26:01::
+School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas .
+9
+#3 guidance NOUN guidance%1:10:00::
+#4 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 rating NOUN rating%1:04:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#17 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#19 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#22 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+An objective scale was developed for rating school neighborhoods from these data .
+4
+#1 objective ADJ objective%5:00:00:real:00
+#2 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#6 rate VERB rate%2:31:01::
+#7 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Equal proportions of children in each city were drawn from upper-lower and lower-middle class neighborhoods .
+3
+#0 equal ADJ equal%3:00:00::
+#6 city NOUN city%1:15:00::,city%1:15:01::
+#8 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+Individual differences in maturation and the development of readiness for learning to read indicate that not until the third grade have most children had ample opportunity to demonstrate their capacity for school achievement .
+11
+#0 individual ADJ individual%5:00:00:independent:00,individual%5:00:00:unshared:00
+#8 readiness NOUN readiness%1:26:00::
+#10 learn VERB learn%2:31:01::,learn%2:31:03::
+#13 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#15 not ADV not%4:02:00::
+#19 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#29 capacity NOUN capacity%1:07:00::
+#31 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#32 achievement NOUN achievement%1:04:00::
+Therefore , third grade children were chosen as subjects for this study .
+3
+#3 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#8 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#11 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+For purposes of sample selection only ( individual tests were given later ) we obtained group test scores of reading achievement and intelligence from school records of the entire third grade population in each school system .
+14
+#4 selection NOUN selection%1:22:00::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 individual ADJ individual%5:00:00:independent:00
+#8 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#10 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#11 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#14 obtain VERB obtain%2:40:00::
+#16 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#17 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#19 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#20 achievement NOUN achievement%1:04:00::
+#22 intelligence NOUN intelligence%1:09:00::
+#24 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#30 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+The subjects for this study were randomly selected from stratified areas of the distribution , one-third as underachievers , one-third medium , and one-third over-achievers .
+3
+#1 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#4 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Children whose reading scores were at least one standard deviation below the regression line of each total third grade school population were considered under-achievers for the purposes of sample selection .
+5
+#2 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#3 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#18 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#19 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#29 selection NOUN selection%1:22:00::
+The final sample was not significantly different from a normal distribution in regard to reading achievement or intelligence test scores .
+5
+#4 not ADV not%4:02:00::
+#6 different ADJ different%5:00:00:unusual:00
+#14 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#15 achievement NOUN achievement%1:04:00::
+#19 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+Twenty-four classrooms in twelve unstructured schools furnished 156 cases , 87 boys and 69 girls .
+4
+#5 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#8 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#11 boy NOUN boy%1:18:03::
+#14 girl NOUN girl%1:18:01::,girl%1:18:03::
+Eight classrooms in three structured schools furnished 72 cases , 36 boys and 36 girls .
+4
+#5 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#8 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#11 boy NOUN boy%1:18:03::
+#14 girl NOUN girl%1:18:01::,girl%1:18:03::
+Administrative restrictions necessitated the smaller sample size in the structured schools .
+1
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+It was assumed that the sampling procedure was purely random with respect to the personality variables under investigation .
+4
+#2 assume VERB assume%2:31:00::
+#5 sampling NOUN sampling%1:04:00::
+#9 random ADJ random%3:00:00::
+#14 personality NOUN personality%1:07:00::
+An interview schedule of open-ended questions and a multiple-choice questionnaire were prepared , and one parent of each of the sample children was seen in the home .
+3
+#11 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#23 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#26 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The parent was asked to describe the child 's typical behavior in certain standard situations in which there was an opportunity to observe tendencies toward perfectionism in demands upon self and others , irrational conformity to rules , orderliness , punctuality , and need for certainty .
+8
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+#5 describe VERB describe%2:32:01::
+#12 certain ADJ certain%5:00:00:definite:00
+#13 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#14 situation NOUN situation%1:26:01::
+#22 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#33 irrational ADJ irrational%3:00:00::
+#36 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+The interviewers were instructed not to suggest answers and , as much as possible , to record the parents ' actual words as they described the child 's behavior in home situations .
+7
+#3 instruct VERB instruct%2:32:01::
+#4 not ADV not%4:02:00::
+#16 record VERB record%2:32:00::,record%2:32:03::
+#20 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#21 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#24 describe VERB describe%2:32:01::
+#30 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The rating scale of compulsivity was constructed by first perusing the interview records , categorizing all evidence related to compulsivity , then arranging a distribution of such information apart from the case records .
+7
+#2 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#12 record NOUN record%1:10:03::,record%1:21:00::
+#21 then ADV then%4:02:00::
+#22 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#28 apart ADV apart%4:02:01::,apart%4:02:06::
+#31 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#32 record NOUN record%1:10:03::,record%1:21:00::
+Final ratings were made on the basis of a point system which was developed after studying the distributions of actual behaviors recorded and assigning weight values to each type of behavior that was deviant from the discovered norms .
+10
+#1 rating NOUN rating%1:04:00::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#15 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#19 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#21 record VERB record%2:32:00::,record%2:32:03::
+#23 assign VERB assign%2:31:02::,assign%2:34:00::
+#25 value NOUN value%1:09:00::
+#28 type NOUN type%1:18:00::
+#37 norm NOUN norm%1:24:00::
+Children scoring high in compulsivity were those who gave evidence of tension or emotionality in situations where there was lack of organization or conformity to standards and expectations , or who made exaggerated efforts to achieve these goals .
+7
+#2 high ADJ high%3:00:02::
+#8 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#11 tension NOUN tension%1:26:00::,tension%1:26:02::
+#15 situation NOUN situation%1:26:01::
+#21 organization NOUN organization%1:04:01::,organization%1:07:00::,organization%1:09:00::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#37 goal NOUN goal%1:09:00::,goal%1:15:00::
+The low compulsive child was one who appeared relatively unconcerned about such matters .
+4
+#1 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#2 compulsive ADJ compulsive%5:00:00:ambitious:00
+#7 appear VERB appear%2:30:00::
+#12 matter NOUN matter%1:09:00::,matter%1:09:01::
+For instance , the following statement was rated low in compulsivity , " She 's naturally quite neat about things , but it does n't bother her at all if her room gets messy .
+10
+#4 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#7 rate VERB rate%2:31:01::
+#8 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#15 naturally ADV naturally%4:02:00::,naturally%4:02:01::,naturally%4:02:02::
+#17 neat ADJ neat%5:00:00:tidy:00
+#19 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#25 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+#31 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#32 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#33 messy ADJ messy%5:00:00:untidy:00
+Castaneda , et al. revised the Taylor Anxiety Scale for use with children .
+1
+#4 revise VERB revise%2:32:00::
+The Taylor Scale was adapted from the Minnesota Multiphastic Personality Inventory , with item selection based upon clinical definitions of anxiety .
+4
+#14 selection NOUN selection%1:22:00::
+#15 base VERB base%2:31:00::
+#17 clinical ADJ clinical%3:01:00::
+#18 definition NOUN definition%1:10:00::
+There is much research evidence to validate the use of the instrument in differentiating individuals who are likely to manifest anxiety in varying degrees .
+4
+#11 instrument NOUN instrument%1:04:00::,instrument%1:06:00::
+#13 differentiate VERB differentiate%2:30:01::
+#19 manifest VERB manifest%2:30:00::
+#23 degree NOUN degree%1:26:01::
+Reliability and validation work with the Children 's Anxiety Scale by Castaneda , et al. demonstrated results closely similar to the findings with the adult scale .
+4
+#3 work NOUN work%1:04:00::,work%1:06:01::
+#15 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#21 finding NOUN finding%1:04:00::,finding%1:04:01::
+#25 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+Although the Taylor Scale was designed as a group testing device , in this study it was individually administered by psychologically trained workers who established rapport and assisted the children in reading the items .
+5
+#9 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#14 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#22 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#24 establish VERB establish%2:36:01::,establish%2:41:00::
+#31 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+The question may be raised whether or not we are dealing with a common factor in anxiety and compulsivity .
+4
+#4 raise VERB raise%2:32:01::,raise%2:37:08::
+#10 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#13 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#14 factor NOUN factor%1:08:00::,factor%1:18:00::
+The two ratings yield a correlation of + .04 , which is not significantly different from zero ; therefore , we have measured two different characteristics .
+8
+#2 rating NOUN rating%1:04:00::
+#3 yield VERB yield%2:36:00::,yield%2:40:00::,yield%2:40:02::
+#12 not ADV not%4:02:00::
+#13 significantly ADV significantly%4:02:02::
+#14 different ADJ different%5:00:00:unusual:00
+#22 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#24 different ADJ different%5:00:00:unusual:00
+#25 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+In theory , compulsive behavior is a way of diminishing anxiety , and one might expect a negative association except for the possibility that for many children the obsessive-compulsive defenses are not sufficient to quell the amount of anxiety they suffer .
+5
+#3 compulsive ADJ compulsive%5:00:00:ambitious:00
+#18 association NOUN association%1:09:00::,association%1:24:00::,association%1:26:02::
+#29 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#31 not ADV not%4:02:00::
+#40 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+The issue of interaction between anxiety and compulsivity will be taken up later .
+2
+#1 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#12 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+In the primary grades , reading permeates almost every aspect of school progress , and the children 's early experiences of success or failure in learning to read often set a pattern of total achievement that is relatively enduring throughout the following years .
+10
+#3 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#5 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#9 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#23 failure NOUN failure%1:04:00::,failure%1:18:00::
+#25 learn VERB learn%2:31:01::,learn%2:31:03::
+#27 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#29 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#41 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#42 year NOUN year%1:28:00::,year%1:28:01::
+In establishing criterion measurements , it was therefore thought best to broaden the scope beyond the reading act itself .
+4
+#1 establish VERB establish%2:36:01::,establish%2:41:00::
+#13 scope NOUN scope%1:07:00::
+#16 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#17 act NOUN act%1:03:00::,act%1:10:03::
+The predicted interaction effect should , if potent , extend its influence over all academic achievement .
+5
+#3 effect NOUN effect%1:09:00::,effect%1:19:00::
+#7 potent ADJ potent%5:00:00:influential:00
+#9 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#14 academic ADJ academic%3:01:00::
+#15 achievement NOUN achievement%1:04:00::
+The Stanford Achievement Test , Form J , was administered by classroom teachers , consisting of a battery of six sub tests : Paragraph Meaning , Word Meaning , Spelling , Language , Arithmetic Computation , and Arithmetic Reasoning .
+4
+#17 battery NOUN battery%1:14:01::
+#24 meaning NOUN meaning%1:09:00::
+#27 meaning NOUN meaning%1:09:00::
+#29 spelling NOUN spelling%1:10:00::
+All of these sub-tests involve reading except Arithmetic Computation .
+1
+#5 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+Scores are stated in grade equivalents on a national norm .
+4
+#0 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#2 state VERB state%2:32:01::,state%2:32:02::
+#4 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#9 norm NOUN norm%1:24:00::
+The battery median grade equivalent was used in data analysis in this study .
+6
+#1 battery NOUN battery%1:14:01::
+#2 median ADJ median%5:00:00:normal:01
+#3 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 data NOUN data%1:14:00::,datum%1:09:00::
+#12 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+The Wechsler Intelligence Scale for Children was administered to each sample third grade child by a clinical worker .
+3
+#12 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#16 clinical ADJ clinical%3:01:00::
+#17 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+The relationship of intelligence test scores to school achievement is a well established fact ( in this case , * * f ) ; therefore , in the investigation of the present hypothesis , it was necessary to control this factor .
+9
+#5 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#7 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#8 achievement NOUN achievement%1:04:00::
+#12 established ADJ established%3:00:00::
+#17 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#31 present ADJ present%3:00:01::
+#36 necessary ADJ necessary%3:00:00::
+#38 control VERB control%2:31:01::,control%2:35:00::
+#40 factor NOUN factor%1:08:00::,factor%1:18:00::
+The criterion score used in the statistical analysis is an index of over - or under-achievement .
+3
+#2 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 index NOUN index%1:24:00::
+It is the discrepancy between the actual attained achievement test score and the score that would be predicted by the I. Q. .
+5
+#6 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#8 achievement NOUN achievement%1:04:00::
+#9 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#10 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#13 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+For example , on the basis of the regression equation , a child with an I. Q. of 120 in this sample would be expected to earn an achievement test score of 4.8 ( grade equivalent ) .
+4
+#28 achievement NOUN achievement%1:04:00::
+#29 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#30 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#34 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+If a child with an I. Q. of 120 scored 5.5 in achievement , his discrepancy score would be + .7 , representing .7 of one year of over-achievement .
+3
+#12 achievement NOUN achievement%1:04:00::
+#16 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#26 year NOUN year%1:28:00::,year%1:28:01::
+A child with an I. Q. of 98 would be expected to earn an achievement test score of 3.5 .
+3
+#14 achievement NOUN achievement%1:04:00::
+#15 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#16 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+If such a child scored 3.0 , his discrepancy score would be - .5 , representing .5 of one year of under-achievement .
+2
+#9 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#19 year NOUN year%1:28:00::,year%1:28:01::
+In this manner , the factors measured by the intelligence test were controlled , allowing discovered differences in achievement to be interpreted as resulting from other variables .
+7
+#2 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#5 factor NOUN factor%1:08:00::,factor%1:18:00::
+#12 control VERB control%2:31:01::,control%2:35:00::
+#14 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#18 achievement NOUN achievement%1:04:00::
+#21 interpret VERB interpret%2:31:00::,interpret%2:32:00::,interpret%2:32:01::,interpret%2:36:00::
+#25 other ADJ other%5:00:02:past:00
+Tables 1 and 2 present the results of the statistical analysis of the data when compulsivity is used as the descriptive variable .
+5
+#0 table NOUN table%1:14:00::
+#4 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#13 data NOUN data%1:14:00::,datum%1:09:00::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#20 descriptive ADJ descriptive%3:00:02::
+Figure 1 portrays the mean achievement scores of each sub-group graphically .
+3
+#4 mean ADJ mean%5:00:00:normal:01
+#5 achievement NOUN achievement%1:04:00::
+#6 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+First of all , as we had surmised , the highly compulsive children in the structured setting score significantly better ( * * f ) on achievement than do similar children in the unstructured schools .
+6
+#11 compulsive ADJ compulsive%5:00:00:ambitious:00
+#16 setting NOUN setting%1:06:00::
+#18 significantly ADV significantly%4:02:02::
+#19 better ADV better%4:02:00::
+#26 achievement NOUN achievement%1:04:00::
+#34 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+It can be seen too that when we contrast levels of compulsivity within the structured schools , the high compulsive children do better ( * * f ) .
+7
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#4 too ADV too%4:02:01::
+#9 level NOUN level%1:26:00::,level%1:26:01::
+#15 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#18 high ADJ high%3:00:02::
+#19 compulsive ADJ compulsive%5:00:00:ambitious:00
+#22 better ADV better%4:02:00::
+No significant difference was found in achievement between high and low compulsive children within the unstructured school .
+6
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#6 achievement NOUN achievement%1:04:00::
+#8 high ADJ high%3:00:02::
+#10 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#11 compulsive ADJ compulsive%5:00:00:ambitious:00
+#16 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The hypothesis of there being an interaction between compulsivity and teaching method was supported , in this case , at the .05 level .
+3
+#13 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#17 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#22 level NOUN level%1:26:00::,level%1:26:01::
+While we had expected that compulsive children in the unstructured school setting would have difficulty when compared to those in the structured , we were surprised to find that the achievement of the high compulsives within the schools where the whole-word method is used in beginning reading compares favorably with that of the low compulsives .
+13
+#5 compulsive ADJ compulsive%5:00:00:ambitious:00
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#11 setting NOUN setting%1:06:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#27 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#30 achievement NOUN achievement%1:04:00::
+#33 high ADJ high%3:00:02::
+#37 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#43 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#46 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#47 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#53 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+Indeed their achievement scores were somewhat better on an absolute basis although the difference was not significant .
+5
+#2 achievement NOUN achievement%1:04:00::
+#3 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#6 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#9 absolute ADJ absolute%5:00:00:unequivocal:00
+#15 not ADV not%4:02:00::
+We speculate that compulsives in the unstructured schools are under greater strain because of the lack of systemization in their school setting , but that their need to organize ( for comfort ) is so intense that they struggle to induce the phonic rules and achieve in spite of the lack of direction from the environment .
+14
+#1 speculate VERB speculate%2:31:00::
+#7 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#10 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#11 strain NOUN strain%1:26:02::
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#21 setting NOUN setting%1:06:00::
+#26 need NOUN need%1:26:00::
+#28 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#31 comfort NOUN comfort%1:26:01::
+#34 so ADV so%4:02:03::,so%4:02:07::
+#35 intense ADJ intense%3:00:00::
+#43 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#52 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#55 environment NOUN environment%1:15:00::,environment%1:26:00::
+It is interesting to note that medium compulsives in the unstructured schools made the lowest achievement scores ( although not significantly lower ) .
+6
+#4 note VERB note%2:32:00::,note%2:39:00::
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#15 achievement NOUN achievement%1:04:00::
+#16 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#19 not ADV not%4:02:00::
+#20 significantly ADV significantly%4:02:02::
+Possibly their compulsivity was not strong enough to cause them to build their own structure .
+4
+#0 possibly ADV possibly%4:02:00::
+#4 not ADV not%4:02:00::
+#5 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#13 own ADJ own%5:00:00:personal:00
+Our conjecture is , then , that regardless of the manner in which school lessons are taught , the compulsive child accentuates those elements of each lesson that aid him in systematizing his work .
+6
+#10 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#13 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#14 lesson NOUN lesson%1:04:01::
+#19 compulsive ADJ compulsive%5:00:00:ambitious:00
+#23 element NOUN element%1:06:00::,element%1:09:00::
+#26 lesson NOUN lesson%1:04:01::
+When helped by a high degree of structure in lesson presentation , then , and only then , does such a child attain unusual success .
+7
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#5 degree NOUN degree%1:26:01::
+#9 lesson NOUN lesson%1:04:01::
+#10 presentation NOUN presentation%1:04:01::
+#12 then ADV then%4:02:02::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 then ADV then%4:02:02::
+The statistical analyses of achievement in relation to anxiety and teaching methods and the interactions of the two are presented in Tables 3 and 4 .
+3
+#4 achievement NOUN achievement%1:04:00::
+#19 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#21 table NOUN table%1:14:00::
+Figure 2 is a graph of the mean achievement scores of each group .
+5
+#0 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#4 graph NOUN graph%1:10:00::
+#7 mean ADJ mean%5:00:00:normal:01
+#8 achievement NOUN achievement%1:04:00::
+#9 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+As predicted , the highly anxious children in the unstructured schools score more poorly ( * * f ) than those in the structured schools .
+3
+#5 anxious ADJ anxious%5:00:00:troubled:00
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#24 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The interaction effect , which is significant at the .01 level , can be seen best in the contrast of mean scores .
+4
+#10 level NOUN level%1:26:00::,level%1:26:01::
+#14 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#20 mean ADJ mean%5:00:00:normal:01
+#21 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+While high anxiety children achieve significantly less well ( * * f ) in the unstructured school than do low anxiety children , they appear to do at least as well as the average in the structured classroom .
+9
+#1 high ADJ high%3:00:02::
+#5 significantly ADV significantly%4:02:02::
+#6 less ADV less%4:02:00::,less%4:02:01::
+#7 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#16 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#19 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#24 appear VERB appear%2:30:00::
+#30 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#33 average NOUN average%1:09:01::
+The most striking aspect of the interaction demonstrated is the marked decrement in performance suffered by the highly anxious children in unstructured schools .
+9
+#1 most ADV most%4:02:00::
+#2 striking ADJ striking%5:00:00:conspicuous:00
+#3 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#7 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#10 marked ADJ marked%5:00:00:noticeable:00
+#13 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#14 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#18 anxious ADJ anxious%5:00:00:troubled:00
+#22 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+According to the theory proposed , this is a consequence of the severe condition of perceived threat that persists unabated for the anxious child in an ambiguous sort of school environment .
+9
+#4 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#9 consequence NOUN consequence%1:19:00::
+#12 severe ADJ severe%5:00:01:bad:00
+#13 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#16 threat NOUN threat%1:10:00::,threat%1:26:00::
+#22 anxious ADJ anxious%5:00:00:troubled:00
+#27 sort NOUN sort%1:09:00::,sort%1:18:00::
+#29 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#30 environment NOUN environment%1:15:00::,environment%1:26:00::
+The fact that such threat is potent in the beginning reading lessons is thought to be a vital factor in the continued pattern of failure or under-achievement these children exhibit .
+9
+#4 threat NOUN threat%1:10:00::,threat%1:26:00::
+#6 potent ADJ potent%5:00:00:influential:00
+#10 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#11 lesson NOUN lesson%1:04:01::
+#17 vital ADJ vital%5:00:00:indispensable:00
+#18 factor NOUN factor%1:08:00::,factor%1:18:00::
+#22 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#24 failure NOUN failure%1:04:00::,failure%1:18:00::
+#29 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+The child with high anxiety may first direct his anxiety released energy toward achievement , but because his distress severely reduces the abilities of discrimination and memorization of complex symbols , the child may fail in his initial attempts to master the problem .
+11
+#3 high ADJ high%3:00:02::
+#7 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+#11 energy NOUN energy%1:07:02::,energy%1:19:01::
+#18 distress NOUN distress%1:26:00::
+#19 severely ADV severely%4:02:01::
+#20 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#22 ability NOUN ability%1:09:00::
+#24 discrimination NOUN discrimination%1:09:00::
+#28 complex ADJ complex%3:00:00::
+#34 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#42 problem NOUN problem%1:09:00::,problem%1:26:00::
+Failure confirms the threat , and the intensity of anxiety is increased as the required learning becomes more difficult , so that by the time the child reaches the third grade the decrement in performance is pronounced .
+8
+#0 failure NOUN failure%1:04:00::,failure%1:18:00::
+#1 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#3 threat NOUN threat%1:10:00::,threat%1:26:00::
+#7 intensity NOUN intensity%1:07:00::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#27 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#30 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#34 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+The individual with high anxiety in the structured classroom may approach the learning task with the same increased energy and lowered powers of discrimination .
+7
+#3 high ADJ high%3:00:02::
+#10 approach VERB approach%2:41:00::
+#16 same ADJ same%3:00:00::,same%3:00:02::
+#18 energy NOUN energy%1:07:02::,energy%1:19:01::
+#20 lower ADJ low%5:00:00:soft:04
+#21 power NOUN power%1:18:00::
+#23 discrimination NOUN discrimination%1:09:00::
+But the symbols he is asked to learn are simple .
+3
+#5 ask VERB ask%2:32:01::,ask%2:32:05::
+#7 learn VERB learn%2:31:01::,learn%2:31:03::
+#9 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+As shown earlier , the highly anxious individual may be superior in his memorizing of simple elements .
+6
+#1 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#2 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#6 anxious ADJ anxious%5:00:00:troubled:00
+#10 superior ADJ superior%3:00:01::
+#15 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#16 element NOUN element%1:06:00::,element%1:09:00::
+Success reduces the prospect of threat and his powers of discrimination are improved .
+5
+#1 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#3 prospect NOUN prospect%1:26:00::
+#5 threat NOUN threat%1:10:00::,threat%1:26:00::
+#8 power NOUN power%1:18:00::
+#10 discrimination NOUN discrimination%1:09:00::
+By the time the child first attacks the actual problem of reading , he is completely familiar and at ease with all of the elements of words .
+6
+#8 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+#11 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#16 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#24 element NOUN element%1:06:00::,element%1:09:00::
+#26 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+Apparently academic challenge in the structured setting creates an optimum of stress so that the child with high anxiety is able to achieve because he is aroused to an energetic state without becoming confused or panicked .
+6
+#2 challenge NOUN challenge%1:10:00::
+#6 setting NOUN setting%1:06:00::
+#11 stress NOUN stress%1:10:01::,stress%1:26:02::
+#17 high ADJ high%3:00:02::
+#20 able ADJ able%3:00:00::
+#32 become VERB become%2:30:00::,become%2:42:01::
+Sarason et al. present evidence that the anxious child will suffer in the test like situation , and that his performance will be impaired unless he receives supporting and accepting treatment from the teacher .
+6
+#3 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#7 anxious ADJ anxious%5:00:00:troubled:00
+#10 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#13 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#15 situation NOUN situation%1:26:01::
+#20 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+Although the present study was not a direct replication of their investigations , the results do not confirm their conclusion .
+8
+#2 present ADJ present%3:00:01::
+#3 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#5 not ADV not%4:02:00::
+#7 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#8 replication NOUN replication%1:04:00::
+#16 not ADV not%4:02:00::
+#17 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#19 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+Observers , in the two school systems studied here , judged the teachers in the structured schools to be more impersonal and demanding , while the atmosphere in the unstructured schools was judged to be more supporting and accepting .
+5
+#7 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#16 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#20 impersonal ADJ impersonal%5:00:00:objective:00
+#30 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Yet the highly anxious child suffered a tremendous disadvantage only in the unstructured school , and performed as well or better than average in the structured setting .
+8
+#3 anxious ADJ anxious%5:00:00:troubled:00
+#5 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#16 perform VERB perform%2:36:00::,perform%2:41:00::
+#18 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#20 better ADV better%4:02:00::
+#26 setting NOUN setting%1:06:00::

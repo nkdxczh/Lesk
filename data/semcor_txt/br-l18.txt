@@ -1,0 +1,646 @@
+ " She says she has to finish a story " .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#8 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+" I asked her why she could n't do it tomorrow , but it seems the muse is working good tonight and she 's afraid to let it go " .
+3
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#16 muse NOUN muse%1:18:00::
+#18 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+Casey made some comment , but his mind was busy as he considered the man .
+2
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+His name was George Needham and he , too , had come from a good family .
+4
+#1 name NOUN name%1:14:00::
+#8 too ADV too%4:02:01::
+#14 good ADJ best%3:00:00::,good%3:00:01::
+#15 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+He was perhaps thirty-two , nicely set up , with light brown hair that had a pronounced wave .
+3
+#12 hair NOUN hair%1:08:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 wave NOUN wave%1:08:00::
+He was always well groomed and well tailored , and he had that rich man 's look which was authentic enough and came from two good prep schools and a proper university .
+9
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#3 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#6 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 look NOUN look%1:07:00::
+#19 authentic ADJ authentic%5:00:00:genuine:00
+#20 enough ADV enough%4:02:00::
+#25 good ADJ best%3:00:00::,good%3:00:01::
+#30 proper ADJ proper%3:00:00::,proper%5:00:00:real:02,proper%5:00:00:specific:00
+An only child , he had done all the things that young men do who have been born to money and social position until his father double-crossed him by dying broke .
+4
+#21 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#22 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#25 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#29 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Since then he had worked at this and that , though some said his main interest was gambling .
+2
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+All this went through Casey 's mind in the first instant , but what held his interest was the fact that these two should be together at all .
+6
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 first ADJ first%3:00:00::,first%4:02:00::
+#10 instant NOUN instant%1:28:00::
+#14 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+#16 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#25 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+For he had understood that Betty had been engaged to a boy named Barry Jenkins .
+3
+#8 engage VERB engage%2:40:00::,engage%2:40:01::,engage%2:41:06::
+#11 boy NOUN boy%1:18:03::
+#12 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+She had grown up with young Jenkins , and he had heard that they had been at the point of getting married at least twice .
+1
+#18 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+He wanted to ask her about Jenkins now , but he knew he could n't do so in Needham 's presence .
+4
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+And so , still wondering and a little perplexed , he grinned at the girl and spoke lightly to make sure that she would know he was kidding .
+5
+#3 still ADV still%4:02:00::
+#4 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#16 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#24 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#27 kid VERB kid%2:32:00::
+" Oh , I 've known him quite a while " .
+3
+#5 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#7 quite ADV quite%4:02:03::
+#9 while NOUN while%1:28:00::
+She glanced at her companion fondly .
+2
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#4 companion NOUN companion%1:18:00::
+" I 've been after her for years " , Needham said , " but I 've never been able to get anywhere until the last few days " .
+6
+#7 year NOUN year%1:28:01::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 never ADV never%4:02:00::
+#19 able ADJ able%3:00:00::
+#25 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#27 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The girl 's eyes were softly shining as she reached out and touched Casey 's hand .
+4
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#6 shine VERB shine%2:43:00::
+#12 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#15 hand NOUN hand%1:08:00::,hand%1:10:01::
+" Can I tell you a secret ?
+1
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Do you approve " ?
+1
+#2 approve VERB approve%2:31:00::,approve%2:32:00::
+Casey kept his smile fixed , but some small inner disturbance was working on him as he thought again about Needham , who was eight or ten years older than the girl .
+3
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#4 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#17 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+He wondered whether Needham was going to swear off gambling and get a steady job or whether he was counting on the income from Betty 's estate to subsidize him .
+4
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#13 steady ADJ steady%3:00:00::
+#14 job NOUN job%1:04:00::,job%1:06:00::
+#26 estate NOUN estate%1:21:02::
+None of this showed in his face , and he tried to keep his skepticism in hand .
+4
+#3 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#10 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#12 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#14 skepticism NOUN skepticism%1:09:00::
+He made a point of frowning , of acting out the part of the fond father confessor .
+5
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#11 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#15 father NOUN father%1:18:00::
+#16 confessor NOUN confessor%1:18:00::
+" I 'll have to give it some thought " , he said .
+2
+#8 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You would n't want me to say yes without making sure his intentions are honorable , would you " ?
+5
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 intention NOUN intention%1:09:00::
+#15 honorable ADJ honorable%3:00:00::
+She made a face at him and then she laughed .
+2
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 then ADV then%4:02:00::
+" I 'll get my references in order " , Needham said , and though he spoke with a smile , Casey somehow got the idea that he was not particularly amused .
+4
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#25 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#30 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+" Stop by any time , Casey " .
+1
+#4 time NOUN time%1:11:00::
+He stood up and touched the girl 's arm .
+2
+#4 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#8 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+" Come on , darling .
+1
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+If you 're really serious about working on that story , I 'd better take you home " .
+5
+#4 serious ADJ serious%3:00:00::,serious%3:00:02::
+#9 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#13 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#14 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#16 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Casey watched them go , still frowning absently and then dismissing the matter as he called for his check .
+5
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#5 still ADV still%4:02:00::
+#12 matter NOUN matter%1:09:00::,matter%1:09:01::
+#18 check NOUN check%1:10:00::
+As he went out he told Freddie the dinner was perfect , and when he got his hat and coat from Nancy Parks and put a fifty-piece piece in the slot , he told her to be sure that it went toward her dowry .
+8
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 perfect ADJ perfect%3:00:00::
+#15 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#19 coat NOUN coat%1:06:00::
+#24 put VERB put%2:35:00::,put%2:35:05::
+#30 slot NOUN slot%1:06:01::
+#33 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#40 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+A taxi took him back to the bar and grill where he had left his car , and a few minutes later he found a parking place across the street from his apartment .
+6
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#4 back ADV back%4:02:01::,back%4:02:04::
+#7 bar NOUN bar%1:06:04::,bar%1:06:05::
+#9 grill NOUN grill%1:06:01::
+#20 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#21 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+Because his mind had been otherwise occupied for the past couple of hours , he did not think to look and see if Jerry Burton 's car was still there .
+8
+#6 occupy VERB occupy%2:31:00::,occupy%2:41:00::,occupy%2:42:04::
+#10 couple NOUN couple%1:23:01::
+#12 hour NOUN hour%1:07:00::,hours%1:28:01::
+#16 not ADV not%4:02:00::
+#17 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#19 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#21 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#28 still ADV still%4:02:00::
+In fact , he did not think about Jerry Burton at all until he entered his living room and closed the door behind him .
+3
+#5 not ADV not%4:02:00::
+#14 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#19 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+Only then , when his glance focused on the divan and saw that it was empty , did he remember his earlier problem .
+7
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 glance NOUN glance%1:04:00::
+#9 divan NOUN divan%1:06:00::
+#11 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#21 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#22 problem NOUN problem%1:09:00::,problem%1:26:00::
+Even from where he stood he could see the neatly folded blanket that he had spread over Burton , the pillow , the sheet of paper on top of it .
+3
+#4 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 blanket NOUN blanket%1:17:00::
+Then he was striding across the room , his thoughts confused but the worry building swiftly inside him as he snatched up the note .
+6
+#0 then ADV then%4:02:00::
+#3 stride VERB stride%2:38:00::
+#6 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#16 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#23 note NOUN note%1:10:03::
+Look in the wastebasket .
+1
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+I knew the only way I could beat you was to play possum , but it was a good try , kid , and I appreciate it .
+6
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#7 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#18 good ADJ good%3:00:01::
+#19 try NOUN try%1:04:00::
+#25 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+The wastebasket stood near the wall next to the divan , and the instant Casey picked it up he knew what had happened .
+5
+#2 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#6 next ADJ next%5:00:00:close:01
+#9 divan NOUN divan%1:06:00::
+#13 instant NOUN instant%1:28:00::
+#22 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+The discarded papers inside were sodden , there was a glint of liquid at the bottom , and the smell of whisky was strong and distinct .
+6
+#2 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#12 liquid ADJ liquid%3:00:00::
+#15 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#21 whiskey NOUN whiskey%1:13:00::
+#23 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+#25 distinct ADJ distinct%3:00:00::,distinct%5:00:00:clear:00
+He put the basket down distastefully , muttering softly and thoroughly disgusted with himself and his plan that had seemed so foolproof .
+5
+#1 put VERB put%2:35:00::,put%2:35:05::
+#4 down ADV down%4:02:00::,down%4:02:02::
+#10 thoroughly ADV thoroughly%4:02:01::
+#16 plan NOUN plan%1:09:01::
+#20 so ADV so%4:02:03::,so%4:02:07::
+For he remembered too well how he had brought back the loaded drinks to Burton and then returned to the kitchen to get weaker drinks for himself .
+4
+#11 loaded ADJ loaded%5:00:00:rich:00
+#17 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#20 kitchen NOUN kitchen%1:06:00::
+#23 weak ADJ weak%5:00:00:diluted:00
+For another second or two he gave in to the annoyance that was directed at himself ; then his mind moved on to be confronted by something far more serious , and as the thought expanded , the implications jarred him .
+7
+#2 second NOUN second%1:28:00::,second%1:28:01::
+#13 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+#17 then ADV then%4:02:00::
+#27 far ADV far%4:02:02::
+#28 more ADV more%4:02:00::
+#34 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#38 implication NOUN implication%1:09:00::
+It no longer mattered that Burton had outsmarted him .
+1
+#3 matter VERB matter%2:42:00::
+The important thing was that Burton had gone somewhere to meet a blackmailer with a gun in his pocket .
+3
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#18 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+And that gun was empty .
+1
+#4 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+Even before his mind had rounded out the idea , he thrust one hand into his trousers pocket and pulled out the six slugs he had taken from the revolver .
+5
+#8 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#13 hand NOUN hand%1:08:00::,hand%1:10:01::
+#17 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#23 slug NOUN slug%1:06:01::
+#26 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+He considered them with brooding eyes , brows bunched as his brain grappled with the problem and tried to find some solution .
+7
+#4 brooding ADJ brooding%5:00:00:thoughtful:00
+#5 eye NOUN eye%1:08:00::,eye%1:09:01::
+#7 brow NOUN brow%1:08:00::
+#12 grapple VERB grapple%2:41:00::
+#15 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#21 solution NOUN solution%1:09:00::,solution%1:10:00::
+He said : " The crazy fool " , half aloud .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 crazy ADJ crazy%5:00:00:insane:00
+#6 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+#10 aloud ADV aloud%4:02:00::
+He put the shells on the table , as though he could no longer bear to hold them .
+3
+#1 put VERB put%2:35:00::,put%2:35:05::
+#6 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#16 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+He thought : Where the hell could he have gone ?
+2
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#9 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+How can I find him ?
+1
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+There was no answer to this and he began to pace back and forth across the room , his imagination out of control .
+2
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+He tried to tell himself that maybe Burton had sobered up enough to get some sense .
+3
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+Maybe he only intended to scare the blackmailer , whoever he was , in which case an unloaded gun would be good enough .
+2
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 intend VERB intend%2:31:01::,intend%2:32:00::
+He thought of other possibilities , none of them satisfactory , and finally he began to think , to wonder if there was some way he could reach Burton .
+6
+#3 other ADJ other%3:00:00::
+#14 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#19 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#24 way NOUN way%1:04:00::,way%1:09:00::
+#27 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Then , as he turned toward the telephone , it rang shrilly to shatter the stillness in the room and he reached for it eagerly .
+7
+#0 then ADV then%4:02:01::
+#4 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#7 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#10 ring VERB ring%2:39:00::,ring%2:39:01::
+#13 shatter VERB shatter%2:30:01::
+#18 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#21 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+" Yeah " , he said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Casey heard the voice distinctly and he knew who it was , but it took him a while to make the mental readjustment and control the disturbance inside his head .
+8
+#3 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#7 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#14 take VERB take%2:40:06::,take%2:42:03::
+#17 while NOUN while%1:28:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 mental ADJ mental%3:01:00::
+#24 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#29 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+When he heard Calenda say : " What about that picture you took this afternoon " ? it still took him another few seconds to remember the job he had done for Frank Ackerly .
+5
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#19 take VERB take%2:40:06::,take%2:42:03::
+#23 second NOUN second%1:28:00::,second%1:28:01::
+#27 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+" You took a picture of me at the corner of Washington and Blake about three thirty this afternoon " .
+2
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#9 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+" Who says so " ?
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Calenda was not the sort who walked around without one of his " boys " close at hand .
+1
+#4 sort NOUN sort%1:09:00::,sort%1:18:00::
+" With my trial coming up in Federal Court next week I would n't want that picture published " .
+4
+#3 trial NOUN trial%1:04:02::
+#9 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#14 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#17 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+" Who says it 's going to be published " ?
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+" I would n't even want it to get around " .
+1
+#5 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Under normal circumstances Casey was a little fussy when people told him what to do with pictures he had taken .
+5
+#1 normal ADJ normal%3:00:01::,normal%3:00:03::
+#2 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#9 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+Even so , he generally listened and was usually reasonable to those who voiced their objections properly .
+4
+#4 generally ADV generally%4:02:01::
+#9 reasonable ADJ reasonable%3:00:00::,reasonable%5:00:00:rational:00
+#13 voice VERB voice%2:32:01::
+#16 properly ADV properly%4:02:00::
+Right now , however , he was still too worried about Jerry Burton , and the gun that had no bullets , and the story Burton had told him , to care too much about Tony Calenda .
+10
+#0 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 however ADV however%4:02:04::
+#7 still ADV still%4:02:00::
+#9 worry VERB worry%2:37:00::,worry%2:37:01::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 bullet NOUN bullet%1:06:00::
+#24 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#27 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#31 care VERB care%2:37:00::,care%2:37:12::
+His nerves were getting a little ragged and his impatience put an edge in his voice .
+5
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#6 ragged ADJ ragged%5:00:00:tired:00
+#10 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#12 edge NOUN edge%1:06:00::,edge%1:07:00::,edge%1:25:00::
+#15 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" Look " , he said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I was hired to take a picture .
+1
+#3 hire VERB hire%2:41:00::
+I took it .
+1
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+That 's all I know about it and that 's all I care " .
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 care VERB care%2:37:00::,care%2:37:12::
+" Maybe you 'd better tell the guy who hired you what I said " .
+4
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 guy NOUN guy%1:18:00::
+#9 hire VERB hire%2:41:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You tell him " .
+1
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" All right " , Calenda said , his voice still quiet .
+4
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#10 still ADV still%4:02:00::
+#11 quiet ADJ quiet%3:00:01::,quiet%3:00:02::
+" But I meant what I said , Casey .
+2
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+If that picture gets around and I find out you had anything to do with it , I 'm going to send a couple of my boys around to see you " .
+4
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#27 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+#29 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+" You do that " , Casey said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Just be sure to send your two best boys , Tony " .
+3
+#1 just ADV just%4:02:00::,just%4:02:03::
+#5 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#8 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+He hung up with a bang , annoyed at himself for running off at the mouth like that but still terribly concerned with the situation he had helped to create .
+6
+#5 bang NOUN bang%1:11:00::
+#19 still ADV still%4:02:04::
+#20 terribly ADV terribly%4:02:00::
+#21 concern VERB concern%2:42:01::
+#24 situation NOUN situation%1:26:01::
+#27 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+As soon as he could think logically again he reached for the telephone directory and found Jerry Burton 's home number .
+4
+#5 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#9 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#15 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#20 number NOUN number%1:10:01::,number%1:23:00::
+He dialed it and listened to it ring ten times before he hung up .
+2
+#7 ring VERB ring%2:39:00::,ring%2:39:01::
+#9 time NOUN time%1:11:00::
+He called the bar and grill where he had picked Burton up that afternoon .
+3
+#1 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#3 bar NOUN bar%1:06:04::,bar%1:06:05::
+#5 grill NOUN grill%1:06:01::
+When he was told that no one had seen Burton since then , he thought of three other places that were possibilities .
+4
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#17 other ADJ other%3:00:00::
+#18 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+Each time he got the same answer and in the end he gave up .
+2
+#1 time NOUN time%1:11:00::
+#5 same ADJ same%3:00:00::,same%3:00:02::
+By the time he had smoked three cigarettes he had calmed down .
+1
+#5 smoke VERB smoke%2:34:00::
+And anyway Burton was not the kind of guy who would be likely to get in trouble even when he was drunk .
+2
+#1 anyway ADV anyway%4:02:00::
+#8 guy NOUN guy%1:18:00::
+He , Casey , had been scared for a while , but that had come mostly from the fact that he felt responsible .
+3
+#6 scare VERB scare%2:37:00::
+#14 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#21 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+He should have stayed here and watched Burton .
+3
+#3 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#6 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+So he made a mistake .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He kept telling himself this as he went out to the kitchen to make a drink .
+4
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 kitchen NOUN kitchen%1:06:00::
+#13 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Only then did he decide he did n't want one .
+3
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#1 then ADV then%4:02:01::
+#8 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+He considered opening a can of beer but vetoed that idea too .
+4
+#2 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#4 can NOUN can%1:06:00::
+#10 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#11 too ADV too%4:02:01::
+Finally he went into the bedroom and sat down to take off his shoes .
+1
+#13 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+He had just finished unlacing the right one when the telephone rang again .
+5
+#2 just ADV just%4:02:05::
+#3 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#6 right ADJ right%3:00:00::
+#10 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#11 ring VERB ring%2:39:00::,ring%2:39:01::
+When he snatched it up the voice that came to him was quick and urgent .
+2
+#6 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#12 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+You do n't know me but I know you .
+2
+#3 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#7 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+If you want a picture get to the corner of Adams and Clark just as fast as you can .
+4
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#13 just ADV just%4:02:05::
+#15 fast ADJ fast%3:00:01::
+If you hurry you might beat the headquarters boys " .
+2
+#5 beat VERB beat%2:33:00::,beat%2:33:14::
+#8 boy NOUN boy%1:18:03::
+Casey heard the click of the distant receiver before he could open his mouth , and it took him no more than three seconds to make his decision .
+7
+#6 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#7 receiver NOUN receiver%1:06:00::
+#11 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#13 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#17 take VERB take%2:40:06::,take%2:42:03::
+#19 no ADV no%4:02:01::
+#23 second NOUN second%1:28:00::,second%1:28:01::
+For over the years he had received many such calls .
+2
+#6 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#9 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+Some of them came from people who identified themselves .
+2
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 identify VERB identify%2:31:00::,identify%2:32:00::
+Some telephoned because he had done them a favor in the past .
+2
+#8 favor NOUN favor%1:04:00::
+#11 past NOUN past%1:28:01::
+Others because they expected some sort of reward for the information .
+2
+#5 sort NOUN sort%1:09:00::,sort%1:18:00::
+#10 information NOUN information%1:09:00::,information%1:10:02::
+A few passed along a tip for the simple reason that they liked him and wanted to give him a break .
+7
+#2 pass VERB pass%2:32:01::,pass%2:40:00::,pass%2:40:01::,pass%2:40:02::,pass%2:40:13::
+#5 tip NOUN tip%1:21:00::
+#8 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#9 reason NOUN reason%1:09:01::,reason%1:16:00::
+#12 like VERB like%2:37:05::
+#15 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#17 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Only an occasional tip turned out to be a phony , and , like the police , Casey had made a point of running down all such suggestions and he did not hesitate this time .
+5
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 tip NOUN tip%1:21:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#31 not ADV not%4:02:00::
+#34 time NOUN time%1:11:00::
+He was in his car with his camera and equipment bag in less than two minutes , and it took him only three more to reach the corner , a block from Columbus Avenue .
+8
+#7 camera NOUN camera%1:06:00::
+#10 bag NOUN bag%1:06:00::
+#15 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#19 take VERB take%2:40:06::,take%2:42:03::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#25 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#27 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#30 block NOUN block%1:15:00::
+It was a district of small factories and loft buildings and occasional tenements , and he could see the police radio car as he rounded the corner and slammed on the brakes .
+8
+#6 factory NOUN factory%1:06:00::
+#8 loft NOUN loft%1:06:00::
+#9 building NOUN building%1:06:00::
+#12 tenement NOUN tenement%1:06:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#24 round VERB round%2:30:01::
+#26 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#31 brake NOUN brake%1:06:00::
+He did not bother with his radio - there would be time for that later - but as he scrambled out on the pavement he saw the filling station and the public telephone booth and knew instantly how he had been summoned .
+9
+#2 not ADV not%4:02:00::
+#3 bother VERB bother%2:41:00::
+#11 time NOUN time%1:28:01::,time%1:28:05::
+#14 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#19 scramble VERB scramble%2:38:00::
+#25 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#31 public ADJ public%3:00:00::,public%5:00:00:common:02
+#35 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#36 instantly ADV instantly%4:02:00::
+The police car had pulled up behind a small sedan , its headlights still on .
+2
+#9 sedan NOUN sedan%1:06:00::
+#13 still ADV still%4:02:00::

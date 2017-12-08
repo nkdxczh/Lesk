@@ -1,0 +1,503 @@
+ It is not easy for the therapist to discern when , in the patient 's communicating , an introject has appeared and is holding sway .
+3
+#3 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#13 patient NOUN patient%1:18:00::
+#20 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+One learns to become alert to changes in his vocal tone - to his voice 's suddenly shifting to a quality not like his usual one , a quality which sounds somehow artificial or , in some instances , parrotlike .
+9
+#1 learn VERB learn%2:31:01::,learn%2:31:03::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#6 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#9 vocal ADJ vocal%3:01:00::
+#10 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#14 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#20 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#28 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#37 instance NOUN instance%1:09:00::
+The content of his words may lapse back into monotonous repetition , as if a phonograph needle were stuck in one groove ; only seldom is it so simple as to be a matter of his obviously parroting some timeworn axiom , common to our culture , which he has evidently heard , over and over , from a parent until he experiences it as part of him .
+9
+#4 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#6 lapse VERB lapse%2:38:01::
+#7 back ADV back%4:02:05::
+#21 groove NOUN groove%1:25:00::
+#27 so ADV so%4:02:03::,so%4:02:07::
+#28 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#33 matter NOUN matter%1:09:00::,matter%1:09:01::
+#45 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#65 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+One hebephrenic woman often became submerged in what felt to me like a somehow phony experience of pseudo emotion , during which , despite her wracking sobs and streaming cheeks , I felt only a cold annoyance with her .
+6
+#4 become VERB become%2:30:00::,become%2:42:01::
+#8 feel VERB feel%2:31:00::,feel%2:39:00::
+#29 cheek NOUN cheek%1:08:00::
+#32 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#33 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#35 cold ADJ cold%3:00:02::,cold%5:00:00:cool:03,cold%5:00:00:inhumane:00,cold%5:00:00:unenthusiastic:00,cold%5:00:00:unloving:00
+Eventually such incidents became more sporadic , and more sharply demarcated from her day-after-day behavior , and in one particular session , after several minutes of such behavior - which , as usual , went on without any accompanying words from her - she asked , eagerly , " Did you see Granny " ?
+7
+#3 become VERB become%2:30:00::,become%2:42:01::
+#19 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#20 session NOUN session%1:04:00::,session%1:28:00::
+#24 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#39 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#44 ask VERB ask%2:32:00::,ask%2:32:04::
+#51 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+At first I did not know what she meant ; I thought she must be seeing me as some one who had just come from seeing her grandmother , in their distant home city .
+6
+#4 not ADV not%4:02:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#23 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#31 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#33 city NOUN city%1:15:00::,city%1:15:01::
+Then I realized that she had been deliberately showing me , this time , what Granny was like ; and when I replied in this spirit , she corroborated my hunch .
+6
+#0 then ADV then%4:02:01::
+#2 realize VERB realize%2:31:01::
+#7 deliberately ADV deliberately%4:02:00::
+#12 time NOUN time%1:11:00::
+#25 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#30 hunch NOUN hunch%1:09:00::
+At another phase in the therapy , when a pathogenic mother introject began to emerge more and more upon the investigative scene , she muttered in a low but intense voice , to herself , " I hate that woman inside me " !
+7
+#2 phase NOUN phase%1:07:00::,phase%1:28:00::
+#10 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#12 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#21 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#27 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#29 intense ADJ intense%3:00:00::
+#30 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+I could evoke no further elaboration from her about this ; but a few seconds later she was standing directly across the room from me , looking me in the eyes and saying in a scathingly condemnatory tone , " Your father despises you " !
+12
+#2 evoke VERB evoke%2:32:01::
+#4 further ADJ further%5:00:00:far:00
+#14 second NOUN second%1:28:00::,second%1:28:01::
+#15 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#18 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#19 directly ADV directly%4:02:05::
+#22 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#26 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#30 eye NOUN eye%1:08:00::,eye%1:09:01::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#41 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+Again , I at first misconstrued this disconcertingly intense communication , and I quickly cast through my mind to account for her being able to speak , with such utter conviction , of an opinion held by my father , now several years deceased .
+9
+#8 intense ADJ intense%3:00:00::
+#9 communication NOUN communication%1:03:00::,communication%1:10:01::
+#23 able ADJ able%3:00:00::
+#25 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#30 conviction NOUN conviction%1:09:00::
+#35 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#38 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#40 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#42 year NOUN year%1:28:00::,year%1:28:01::
+Then I replied , coldly , " If you despise me , why do n't you say so , directly " ?
+2
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+She looked confused at this , and I felt sure it had been a wrong response for me to make .
+3
+#1 look VERB look%2:39:01::,look%2:42:02::
+#14 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It then occurred to me to ask , " Is that what that woman told you " ?
+2
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+She clearly agreed that this had been the case .
+2
+#2 agree VERB agree%2:32:00::,agree%2:32:01::
+#8 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+I realized , now , that she had been showing me , in what impressed me as being a very accurate way , something her mother had once said to her ; it was as if she was showing me one of the reasons why she hated that woman inside her .
+8
+#1 realize VERB realize%2:31:01::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#14 impress VERB impress%2:37:01::
+#20 accurate ADJ accurate%5:00:00:correct:00
+#21 way NOUN way%1:04:00::,way%1:09:00::
+#25 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#28 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#43 reason NOUN reason%1:09:01::,reason%1:16:00::
+What had been an unmanageably powerful introject was now , despite its continuing charge of energy disconcerting to me , sufficiently within control of her ego that she could use it to show me what this introjected mother was like .
+7
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 charge NOUN charge%1:12:00::,charge%1:19:00::
+#15 energy NOUN energy%1:07:02::,energy%1:19:01::
+#22 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#29 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#32 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#37 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+Earlier , this woman had been so filled with a chaotic variety of introjects that at times , when she was in her room alone , it would sound to a passerby as though there were several different persons in the room , as she would vocalize in various kinds of voice .
+10
+#0 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#11 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#23 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#24 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#28 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#38 person NOUN person%1:03:00::,person%1:08:00::
+#41 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#46 vocalize VERB vocalise%2:32:05::
+#51 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+A somewhat less fragmented hebephrenic patient of mine , who used to often seclude herself in her room , often sounded through the closed door - as I would find on passing by , between our sessions - for all the world like two persons , a scolding mother and a defensive child .
+9
+#2 less ADV less%4:02:00::,less%4:02:01::
+#5 patient NOUN patient%1:18:00::
+#17 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#20 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#23 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#36 session NOUN session%1:04:00::,session%1:28:00::
+#44 person NOUN person%1:03:00::,person%1:08:00::
+#48 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#51 defensive ADJ defensive%3:00:00::
+Particularly hard for the therapist to grasp are those instances in which the patient is manifesting an introject traceable to something in the therapist , some aspect of the therapist of which the latter is himself only poorly aware , and the recognition of which , as a part of himself , he finds distinctly unwelcome .
+10
+#0 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#1 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#9 instance NOUN instance%1:09:00::
+#13 patient NOUN patient%1:18:00::
+#15 manifest VERB manifest%2:30:00::
+#26 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#33 latter ADJ latter%3:00:00::
+#36 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#48 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#53 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+I have found , time and again , that some bit of particularly annoying and intractable behavior on the part of a patient rests , in the final analysis , on this basis ; and only when I can acknowledge this , to myself , as being indeed an aspect of my personality , does it cease to be a prominently troublesome aspect of the patient 's behavior .
+13
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 bit NOUN bit%1:23:01::
+#12 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#19 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#22 patient NOUN patient%1:18:00::
+#23 rest VERB rest%2:30:00::,rest%2:35:04::,rest%2:42:00::,rest%2:42:12::
+#35 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#39 acknowledge VERB acknowledge%2:32:00::
+#47 indeed ADV indeed%4:02:03::
+#49 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#52 personality NOUN personality%1:07:00::
+#62 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#65 patient NOUN patient%1:18:00::
+For example , one hebephrenic man used to annoy me , month after month , by saying , whenever I got up to leave and made my fairly steoreotyped comment that I would be seeing him on the following day , or whenever , " You 're welcome " , in a notably condescending fashion - as though it were his due for me to thank him for the privilege of spending the hour with him , and he were thus pointing up my failure to utter a humbly grateful , " thank you " to him at the end of each session .
+13
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 leave VERB leave%2:38:00::,leave%2:41:00::
+#27 fairly ADV fairly%4:02:02::
+#38 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#39 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#54 fashion NOUN fashion%1:07:00::
+#61 due NOUN due%1:07:00::
+#73 hour NOUN hour%1:07:00::,hours%1:28:01::
+#80 thus ADV thus%4:02:01::
+#86 utter VERB utter%2:32:02::
+#99 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#102 session NOUN session%1:04:00::,session%1:28:00::
+Eventually it became clear to me , partly with the aid of another schizophrenic patient who could point out my condescension to me somewhat more directly , that this man , with his condescending , " You 're welcome " , was very accurately personifying an element of obnoxious condescension which had been present in my own demeanor , over these months , on each of these occasions when I had bid him good-bye with the consoling note , each time , that the healing Christ would be stooping to dispense this succor to the poor suffered again on the morrow .
+14
+#2 become VERB become%2:30:00::,become%2:42:01::
+#3 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#14 patient NOUN patient%1:18:00::
+#29 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#46 element NOUN element%1:06:00::,element%1:09:00::
+#53 present ADJ present%3:00:02::
+#56 own ADJ own%5:00:00:personal:00
+#67 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#71 bid VERB bid%2:32:01::
+#77 note NOUN note%1:07:00::,note%1:10:02::
+#80 time NOUN time%1:11:00::
+#85 Christ NOUN christ%1:18:00::
+#90 dispense VERB dispense%2:40:00::
+#95 poor ADJ poor%5:00:00:unfortunate:00
+Another patient , a paranoid woman , for many months infuriated not only me but the ward personnel and her fellow patients by arrogantly behaving as though she owned the whole building , as though she were the only person in it whose needs were to be met .
+9
+#1 patient NOUN patient%1:18:00::
+#16 ward NOUN ward%1:06:00::
+#21 patient NOUN patient%1:18:00::
+#24 behave VERB behave%2:41:00::,behave%2:41:01::
+#28 own VERB owned%3:00:00::
+#30 whole ADJ whole%3:00:00::
+#31 building NOUN building%1:06:00::
+#39 person NOUN person%1:03:00::,person%1:08:00::
+#47 meet VERB meet%2:41:02::,meet%2:42:01::
+This behavior on her part subsided only after I had come to see the uncomfortably close similarity between , on the one hand , her arranging the ventilation of the common living room to her own liking , or turning the television off or on without regard to the wishes of the others , and on the other hand , my own coming stolidly into her room despite her persistent and vociferous objections , bringing my big easy chair with me , usually shutting the windows of her room which she preferred to keep in a very cold state , and plunking myself down in my chair - in short , behaving as if I owned her room .
+25
+#4 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#5 subside VERB subside%2:30:00::
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#12 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#25 arrange VERB arrange%2:35:00::
+#27 ventilation NOUN ventilation%1:06:00::
+#30 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#35 own ADJ own%5:00:00:personal:00
+#36 like NOUN like%1:09:00::
+#41 television NOUN television%1:06:01::
+#61 own ADJ own%5:00:00:personal:00
+#62 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#66 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#76 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#85 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#88 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#91 prefer VERB prefer%2:31:00::
+#93 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#97 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#101 plunk VERB plank%2:35:01::
+#103 down ADV down%4:02:00::,down%4:02:02::
+#106 chair NOUN chair%1:06:00::,chair%1:06:01::
+#111 behave VERB behave%2:41:00::,behave%2:41:01::
+#115 own VERB owned%3:00:00::
+#117 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+Here a variety of meanings and emotions are concentrated , or reduced , in their communicative expression , to some comparatively simple seeming verbal or nonverbal statement .
+7
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#2 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#8 concentrate VERB concentrate%2:30:01::,concentrate%2:38:00::
+#11 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#16 expression NOUN expression%1:10:02::,expression%1:10:04::
+#21 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#23 verbal ADJ verbal%5:00:00:spoken:00
+One finds , for example , that a terse and stereotyped verbal expression , seeming at first to be a mere hollow convention , reveals itself over the months of therapy as the vehicle for expressing the most varied and intense feelings , and the most unconventional of meanings .
+11
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 verbal ADJ verbal%5:00:00:spoken:00
+#12 expression NOUN expression%1:10:02::,expression%1:10:03::
+#21 hollow ADJ hollow%5:00:00:meaningless:00
+#22 convention NOUN convention%1:09:00::
+#33 vehicle NOUN vehicle%1:27:00::
+#35 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#37 most ADV most%4:02:00::
+#40 intense ADJ intense%3:00:00::
+#41 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#45 most ADV most%4:02:00::
+More than anything , it is the therapist 's intuitive sensing of these latent meanings in the stereotype which helps these meanings to become revealed , something like a spread-out deck of cards , on sporadic occasions over the passage of the patient 's and his months of work together .
+8
+#10 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#17 stereotype NOUN stereotype%1:09:00::
+#19 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#36 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#39 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#42 patient NOUN patient%1:18:00::
+#48 work NOUN work%1:04:00::,work%1:06:01::
+#49 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+one cannot assume , of course , that all these accumulated meanings were inherent in the stereotype at the beginning of the therapy , or at any one time later on when the stereotype was uttered ; probably it is correct to think of it as a matter of a well grooved , stereotyped mode of expression - and no , or but a few , other communicational grooves , as yet - being there , available for the patient 's use , as newly emerging emotions and ideas well up in him over the course of months .
+16
+#2 assume VERB assume%2:31:00::
+#16 stereotype NOUN stereotype%1:09:00::
+#28 time NOUN time%1:11:00::
+#33 stereotype NOUN stereotype%1:09:00::
+#35 utter VERB utter%2:32:02::
+#47 matter NOUN matter%1:09:00::,matter%1:09:01::
+#50 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#54 mode NOUN mode%1:07:00::
+#56 expression NOUN expression%1:10:02::,expression%1:10:04::
+#66 other ADJ other%3:00:00::
+#68 groove NOUN groove%1:25:00::
+#74 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#79 patient NOUN patient%1:18:00::
+#84 newly ADV newly%4:02:00::
+#88 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#95 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+But it is true that the therapist can sense , when he hears this stereotype , that there are at this moment many emotional determinants at work in it , a blurred babel of indistinct voices which have yet to become clearly delineated from one another .
+7
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#14 stereotype NOUN stereotype%1:09:00::
+#21 moment NOUN moment%1:28:00::,moment%1:28:01::
+#24 determinant NOUN determinant%1:09:00::
+#35 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#38 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+#40 become VERB become%2:30:00::,become%2:42:01::
+Sometimes it is not a verbal stereotype - a " How are you now " ? or an " I want to go home " , or whatever - but a nonverbal one which reveals itself , gradually , as the condensed expression of more than one latent meaning .
+6
+#3 not ADV not%4:02:00::
+#5 verbal ADJ verbal%5:00:00:spoken:00
+#6 stereotype NOUN stereotype%1:09:00::
+#20 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#42 expression NOUN expression%1:10:02::,expression%1:10:04::
+#48 meaning NOUN meaning%1:09:00::
+A hebephrenic man used to give a repetitious wave of his hand a number of times during his largely silent hours with his therapist .
+5
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#13 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 time NOUN time%1:11:00::
+#20 hour NOUN hour%1:07:00::,hours%1:28:01::
+When the therapist came to feel on sufficiently sure ground with him to ask him , " What is that , Bill - hello or farewell " ?
+4
+#9 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#13 ask VERB ask%2:32:00::,ask%2:32:04::
+#23 hello NOUN hello%1:10:00::
+#25 farewell NOUN farewell%1:04:00::
+, the patient replied , " Both , Dearie - two in one " .
+1
+#2 patient NOUN patient%1:18:00::
+Of all the possible forms of nonverbal expression , that which seems best to give release , and communicational expression , to complex and undifferentiated feelings is laughter .
+6
+#7 expression NOUN expression%1:10:02::,expression%1:10:04::
+#14 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#15 release NOUN release%1:22:00::
+#19 expression NOUN expression%1:10:02::,expression%1:10:04::
+#22 complex ADJ complex%3:00:00::
+#25 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+It is no coincidence that the hebephrenic patient , the most severely dedifferentiated of all schizophrenic patients , shows , as one of his characteristic symptoms , laughter - laughter which now makes one feel scorned or hated , which now makes one feel like weeping , or which now gives one a glimpse of the bleak and empty expanse of man 's despair ; and which , more often than all these , conveys a welter of feelings which could in no way be conveyed by any number of words , words which are so unlike this welter in being formed and discrete from one another .
+17
+#3 coincidence NOUN coincidence%1:11:00::
+#7 patient NOUN patient%1:18:00::
+#10 most ADV most%4:02:00::
+#11 severely ADV severely%4:02:01::
+#16 patient NOUN patient%1:18:00::
+#32 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#41 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#45 weep VERB weep%2:29:00::
+#50 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#61 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#76 welter NOUN welter%1:26:00::
+#78 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#88 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#90 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#92 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#95 so ADV so%4:02:03::,so%4:02:07::
+#98 welter NOUN welter%1:26:00::
+To a much less full extent , the hebephrenic person 's belching or flatus has a comparable communicative function ; in working with these patients the therapist eventually gets to do some at least private mulling over of the possible meaning of a belch , or the passage of flatus , not only because he is reduced to this for lack of anything else to analyze , but also because he learns that even these animal like sounds constitute forms of communication in which , from time to time , quite different things are being said , long before the patient can become sufficiently aware of these , as distinct feelings and concepts , to say them in words .
+26
+#3 less ADV less%4:02:00::,less%4:02:01::
+#4 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#9 person NOUN person%1:03:00::,person%1:08:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#21 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#24 patient NOUN patient%1:18:00::
+#34 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#35 mull VERB mull%2:31:00::
+#40 meaning NOUN meaning%1:09:00::
+#47 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#71 learn VERB learn%2:31:01::,learn%2:31:03::
+#78 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#79 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#81 communication NOUN communication%1:03:00::,communication%1:10:01::
+#90 quite ADV quite%4:02:02::
+#91 different ADJ different%5:00:00:unusual:00
+#92 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#95 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#97 long ADJ long%3:00:02::
+#100 patient NOUN patient%1:18:00::
+#102 become VERB become%2:30:00::,become%2:42:01::
+#109 distinct ADJ distinct%5:00:00:separate:00
+#110 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#115 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#118 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+As I have been intimating , in the schizophrenic - and perhaps also in the dreams of the neurotic ; this is a question which I have no wish to take up - condensation is a phenomenon in which one finds not a condensed expression of various feelings and ideas which are , at an unconscious level , well sorted out , but rather a condensed expression of feelings and ideas which , even in the unconscious , have yet to become well differentiated from one another .
+16
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#33 condensation NOUN condensation%1:22:00::
+#36 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#40 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#44 expression NOUN expression%1:10:02::,expression%1:10:04::
+#47 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#49 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#56 level NOUN level%1:26:00::,level%1:26:01::
+#58 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#63 rather ADV rather%4:02:02::
+#66 expression NOUN expression%1:10:02::,expression%1:10:04::
+#68 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#70 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#79 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+#81 become VERB become%2:30:00::,become%2:42:01::
+#82 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+Freeman , Cameron and McGhie , in their description of the disturbances of thinking found in chronic schizophrenic patients , say , in regard to condensation , that " the lack of adequate discrimination between the self and the environment , and the objects contained therein in itself is the prototypical condensation " .
+9
+#8 description NOUN description%1:10:00::,description%1:10:01::
+#13 thinking NOUN thinking%1:09:00::
+#18 patient NOUN patient%1:18:00::
+#25 condensation NOUN condensation%1:22:00::
+#33 discrimination NOUN discrimination%1:09:00::
+#39 environment NOUN environment%1:15:00::,environment%1:26:00::
+#43 object NOUN object%1:03:00::
+#44 contain VERB contain%2:42:00::,contain%2:42:06::
+#51 condensation NOUN condensation%1:22:00::
+In my experience , a great many of the patient 's more puzzling verbal communications are so for the reason that concrete meanings have not become differentiated from figurative meanings in his subjective experience .
+11
+#5 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#9 patient NOUN patient%1:18:00::
+#13 verbal ADJ verbal%5:00:00:spoken:00
+#14 communication NOUN communication%1:03:00::,communication%1:10:01::
+#16 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+#19 reason NOUN reason%1:09:01::,reason%1:16:00::
+#24 not ADV not%4:02:00::
+#25 become VERB become%2:30:00::,become%2:42:01::
+#26 differentiate VERB differentiate%2:30:01::
+#28 figurative ADJ figurative%3:00:00::
+#32 subjective ADJ subjective%3:00:00::
+Thus he may be referring to some concrete thing , or incident , in his immediate environment by some symbolic sounding , hyperbolic reference to transcendental events on the global scene .
+9
+#0 thus ADV thus%4:02:01::
+#4 refer VERB refer%2:32:00::,refer%2:42:00::
+#8 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#16 environment NOUN environment%1:15:00::,environment%1:26:00::
+#19 symbolic ADJ symbolic%5:00:00:representative:00
+#22 hyperbolic ADJ hyperbolic%5:00:00:increased:00
+#23 reference NOUN reference%1:10:02::,reference%1:10:03::,reference%1:10:07::
+#25 transcendental ADJ transcendental%3:01:00::
+#30 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+Recently , for example , a paranoid woman 's large-scale philosophizing , in the session , about the intrusive curiosity which has become , in her opinion , a deplorable characteristic of mid twentieth century human culture , developed itself , before the end of the session , into a suspicion that I was surreptitiously peeking at her partially exposed breast , as indeed I was .
+12
+#9 large-scale ADJ large-scale%5:00:00:large:00
+#14 session NOUN session%1:04:00::,session%1:28:00::
+#18 intrusive ADJ intrusive%3:00:03::
+#19 curiosity NOUN curiosity%1:09:00::
+#22 become VERB become%2:30:00::,become%2:42:01::
+#30 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#34 century NOUN century%1:28:00::
+#36 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#43 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#46 session NOUN session%1:04:00::,session%1:28:00::
+#50 suspicion NOUN suspicion%1:09:01::
+#63 indeed ADV indeed%4:02:03::
+Or , equally often , a concretistic seeming , particularistic seeming statement may consist , with its mundane exterior , in a form of poetry - may be full of meaning and emotion when interpreted as a figurative expression : a metaphor , a simile , an allegory , or some other symbolic mode of speaking .
+10
+#2 equally ADV equally%4:02:01::
+#17 mundane ADJ mundane%5:00:00:ordinary:00
+#22 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#28 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#30 meaning NOUN meaning%1:09:00::
+#37 figurative ADJ figurative%3:00:00::
+#38 expression NOUN expression%1:10:02::,expression%1:10:03::
+#51 other ADJ other%3:00:00::
+#52 symbolic ADJ symbolic%5:00:00:representative:00
+#53 mode NOUN mode%1:07:00::
+Of such hidden meanings the patient himself is , more often than not , entirely unaware .
+1
+#5 patient NOUN patient%1:18:00::
+His subjective experience may be a remarkably concretistic one .
+1
+#1 subjective ADJ subjective%3:00:00::
+One hebephrenic women confided to me , " I live in a world of words " , as if , to her , words were fully concrete objects ; Burnham , in his excellent article ( 1955 ) concerning schizophrenic communication , includes mention of similar clinical material .
+12
+#9 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#12 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#14 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#23 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#25 fully ADV fully%4:02:04::
+#27 object NOUN object%1:03:00::
+#34 article NOUN article%1:10:00::
+#38 concern VERB concern%2:42:00::,concern%2:42:01::
+#40 communication NOUN communication%1:03:00::,communication%1:10:01::
+#42 include VERB include%2:42:00::
+#46 clinical ADJ clinical%3:01:00::
+#47 material NOUN material%1:06:01::,material%1:10:00::
+A borderline schizophrenic young man told me that to him the various theoretical concepts about which he had been expounding , in a most articulate fashion , during session after session with me , were like great cubes of almost tangibly solid matter up in the air above him ; as he spoke I was reminded of the great bales of cargo which are swung , high in the air , from a docked steamship .
+15
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#24 articulate ADJ articulate%3:00:00::
+#25 fashion NOUN fashion%1:07:00::
+#28 session NOUN session%1:04:00::,session%1:28:00::
+#30 session NOUN session%1:04:00::,session%1:28:00::
+#36 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#42 matter NOUN matter%1:03:00::,matter%1:10:00::
+#46 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#52 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#58 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#59 bale NOUN bale%1:06:00::
+#64 swing VERB swing%2:38:00::,swing%2:38:03::
+#66 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#69 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::

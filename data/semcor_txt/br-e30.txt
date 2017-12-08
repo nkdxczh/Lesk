@@ -1,0 +1,790 @@
+ How long has it been since you reviewed the objectives of your benefit and service program ?
+5
+#1 long ADJ long%3:00:02::
+#7 review VERB review%2:31:00::,review%2:32:00::
+#9 objective NOUN objective%1:09:00::
+#14 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#15 program NOUN program%1:09:00::,program%1:09:01::
+Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ?
+6
+#5 become VERB become%2:30:00::,become%2:42:01::
+#7 giveaway NOUN giveaway%1:10:00::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#9 rather ADV rather%4:02:02::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 goal NOUN goal%1:09:00::,goal%1:15:00::
+What effort do you make to assess results of your program ?
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 program NOUN program%1:09:00::,program%1:09:01::
+Do you measure its relation to reduced absenteeism , turnover , accidents , and grievances , and to improved quality and output ?
+5
+#2 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#9 turnover NOUN turnover%1:24:00::
+#11 accident NOUN accident%1:11:01::
+#19 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#21 output NOUN output%1:06:00::
+Have you set specific objectives for your employee publication ?
+3
+#2 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#3 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#4 objective NOUN objective%1:09:00::
+Is it reaching these goals ?
+2
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#4 goal NOUN goal%1:09:00::,goal%1:15:00::
+Is it larger or fancier than you really need ?
+4
+#2 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 fancy ADJ fancy%3:00:00::
+#7 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#8 need VERB need%2:42:00::
+Are you using the most economical printing methods , paper , etc. .
+4
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 most ADV most%4:02:00::
+#6 printing NOUN printing%1:10:02::
+#9 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+Are there other , cheaper communications techniques that could be substituted ?
+1
+#2 other ADJ other%3:00:00::
+Has your attitude toward employee benefits encouraged an excess of free " government " work in your plant ?
+5
+#5 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#8 excess NOUN excess%1:07:02::
+#12 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#14 work NOUN work%1:06:01::
+#17 plant NOUN plant%1:06:01::
+When improvements are recommended in working conditions - such as lighting , rest rooms , eating facilities , air-conditioning - do you try to set a measure of their effectiveness on productivity ?
+7
+#3 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#5 working ADJ working%5:00:00:employed:00
+#6 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#10 lighting NOUN lighting%1:26:00::
+#16 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#22 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#24 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages .
+7
+#1 negotiate VERB negotiate%2:32:00::
+#4 union NOUN union%1:14:01::,union%1:14:02::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#19 cent NOUN cent%1:23:00::
+#21 hour NOUN hour%1:07:00::,hours%1:28:01::
+Can you consider restricting any additional employee benefits to those paid for by profit-sharing money , such as was done in the union contract recently signed by American Motors Corporation ?
+4
+#7 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#10 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#22 union NOUN union%1:14:01::,union%1:14:02::
+#25 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+Do your employees understand all the benefits to which your insurance entitles them ?
+4
+#3 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#6 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#10 insurance NOUN insurance%1:21:02::
+#11 entitle VERB entitled%5:00:00:eligible:00
+Are they encouraged to take full legal advantage of these benefits ?
+3
+#5 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#6 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#10 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+Have you publicized the cents per hour value of the company 's share of insurance premiums ?
+4
+#4 cent NOUN cent%1:23:00::
+#6 hour NOUN hour%1:07:00::,hours%1:28:01::
+#10 company NOUN company%1:14:03::
+#12 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+When did you last compare your present premium costs with the costs of insurance from other sources ?
+6
+#3 last ADV last%3:00:00::
+#4 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#6 present ADJ present%3:00:01::
+#7 premium NOUN premium%1:21:02::
+#13 insurance NOUN insurance%1:21:02::
+#15 other ADJ other%3:00:00::
+Can your insurance company aid you in reducing administrative costs ?
+1
+#7 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Do you try to maintain the principle of employee contributed ( as opposed to fully company paid ) programs ?
+5
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#14 fully ADV fully%4:02:04::
+#15 company NOUN company%1:14:03::
+#18 program NOUN program%1:09:00::,program%1:09:01::
+Do you plan to limit additional holidays to area and / or industrial patterns ?
+3
+#2 plan VERB plan%2:31:00::,plan%2:31:01::
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#13 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in order to have an uninterrupted work week ?
+4
+#6 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#13 back ADV back%4:02:01::,back%4:02:04::
+#19 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#22 work NOUN work%1:06:01::
+Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ?
+5
+#5 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#7 rest NOUN rest%1:04:00::,rest%1:10:00::,rest%1:26:00::,rest%1:28:00::
+#8 period NOUN period%1:28:00::,period%1:28:03::
+#11 certain ADJ certain%3:00:01::
+#15 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+Are you watching work schedules for boiler operators , guards , and other 24 - hour day , 7 - day week operations in order to minimize overtime ?
+10
+#2 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 work NOUN work%1:06:01::
+#4 schedule NOUN schedule%1:09:00::
+#7 operator NOUN operator%1:18:00::
+#9 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#12 other ADJ other%3:00:00::
+#15 hour NOUN hour%1:07:00::,hours%1:28:01::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#22 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+Are you careful to restrict the number of people on leave at one time so that your total employment obligation is minimized ?
+3
+#2 careful ADJ careful%3:00:00::,careful%5:00:00:mindful:00
+#6 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Have you considered using vending equipment to replace or reduce the number of cafeteria employees ?
+3
+#7 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#9 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+What are the possibilities for operating your cafeteria for a single shift only and relying upon vending machines or prepackaged sandwiches for the second - and third shift operations ?
+7
+#5 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#10 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#11 shift NOUN shift%1:14:00::,shift%1:28:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#23 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#27 shift NOUN shift%1:14:00::,shift%1:28:00::
+#28 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+Have you checked the cost of subcontracting your cafeteria operation in order to save administrative costs ?
+2
+#2 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#9 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+Are there possibilities of having cafeteria help work part-time on custodial or other jobs ?
+4
+#6 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#7 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#12 other ADJ other%3:00:00::
+#13 job NOUN job%1:04:00::,job%1:06:00::
+Can staggered lunch periods relieve the capacity strain on your feeding facilities ?
+7
+#1 stagger VERB stagger%2:35:00::
+#3 period NOUN period%1:28:00::,period%1:28:03::
+#4 relieve VERB relieve%2:40:01::
+#6 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+#7 strain NOUN strain%1:26:02::
+#10 feed NOUN feed%1:13:00::
+#11 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+Would it be feasible to limit the menu in order to reduce feeding costs ?
+2
+#11 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#12 feed NOUN feed%1:13:00::
+Have you considered gradual withdrawal of subsidies to your in plant feeding operation ?
+3
+#6 subsidy NOUN subsidy%1:21:00::
+#10 plant NOUN plant%1:06:01::
+#12 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+Are you utilizing cafeteria space for company meetings or discussions ?
+3
+#4 space NOUN space%1:03:00::,space%1:10:00::,space%1:10:02::,space%1:15:00::,space%1:25:00::,space%1:28:00::
+#6 company NOUN company%1:14:03::
+#7 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+Are your expenses in this area commensurate with the number of employees who benefit from your program ?
+3
+#5 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#16 program NOUN program%1:09:00::,program%1:09:01::
+Have you audited your program recently to weed out those phases that draw least participation ?
+5
+#2 audit VERB audit%2:31:01::
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#10 phase NOUN phase%1:07:00::,phase%1:28:00::
+#12 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#13 little ADJ little%3:00:01::,little%3:00:03::,little%5:00:00:young:00
+Do employees contribute their share of money to recreational facilities ?
+1
+#4 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+Have you considered delegating operational responsibility to your employee association and carefully restricting your plant 's financial contribution ?
+1
+#14 plant NOUN plant%1:06:01::
+Could an employee 's garden club take over partial care of plant grounds ?
+5
+#4 garden NOUN garden%1:06:00::
+#5 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#8 partial ADJ partial%5:00:00:incomplete:00
+#9 care NOUN care%1:04:02::
+#11 plant NOUN plant%1:06:01::
+Would a camera club be useful in taking pictures pertinent to plant safety ?
+5
+#2 camera NOUN camera%1:06:00::
+#3 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#7 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#11 plant NOUN plant%1:06:01::
+#12 safety NOUN safety%1:26:00::
+Are you spending too much money on team uniforms that benefit only a few employees ?
+3
+#3 too ADV too%4:02:00::
+#8 uniform NOUN uniform%1:06:00::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Are you underwriting expensive team trips ?
+1
+#5 trip NOUN trip%1:04:00::
+Are you utilizing vending machine proceeds to help pay for your program ?
+3
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#8 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#11 program NOUN program%1:09:00::,program%1:09:01::
+Do you know the trend in your cost of maintaining access roads and parking lots ?
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+If you use parking attendants , can they be replaced by automatic parking gates ?
+5
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 attendant NOUN attendant%1:18:01::
+#9 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#11 automatic ADJ automatic%3:00:00::
+#13 gate NOUN gate%1:06:00::
+Will your local bus company erect and / or maintain the bus stops at your plant ?
+2
+#9 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#15 plant NOUN plant%1:06:01::
+If you provide inter plant transportation , can this be replaced by available public transportation ?
+6
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#4 plant NOUN plant%1:06:01::
+#5 transportation NOUN transportation%1:04:00::
+#10 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#13 public ADJ public%3:00:00::,public%5:00:00:common:02
+#14 transportation NOUN transportation%1:04:00::
+If you use company transportation to meet trains or to haul visitors , would taxis be cheaper ?
+7
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#3 company NOUN company%1:14:03::
+#4 transportation NOUN transportation%1:04:00::
+#6 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#7 train NOUN train%1:06:00::
+#10 haul VERB haul%2:35:00::
+#14 taxi NOUN taxi%1:06:00::
+How efficient and necessary are your intra company vehicles ?
+3
+#3 necessary ADJ necessary%3:00:00::
+#7 company NOUN company%1:14:03::
+#8 vehicle NOUN vehicle%1:06:00::
+Can part-time drivers be assigned to other productive work ?
+4
+#2 driver NOUN driver%1:18:00::,driver%1:18:02::
+#4 assign VERB assign%2:31:00::,assign%2:41:00::
+#6 other ADJ other%3:00:00::
+#8 work NOUN work%1:06:01::
+Which is more economical for your plant - a vacation shutdown or spaced vacations that require extra employees for vacation fill-ins ?
+5
+#2 more ADV more%4:02:00::
+#6 plant NOUN plant%1:06:01::
+#9 vacation NOUN vacation%1:28:00::
+#13 vacation NOUN vacation%1:28:00::
+#19 vacation NOUN vacation%1:28:00::
+Can vacations be spaced throughout the 12 months to minimize the number of employee fill-ins ?
+3
+#1 vacation NOUN vacation%1:28:00::
+#3 space VERB space%2:38:00::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Do you insist that unneeded salary employees take their vacations during plant shutdowns ?
+3
+#7 take VERB take%2:31:02::,take%2:34:00::
+#9 vacation NOUN vacation%1:28:00::
+#11 plant NOUN plant%1:06:01::
+What can your sales and purchasing departments do to curtail orders , shipments , and receipts during vacation shutdown periods ?
+5
+#3 sale NOUN sale%1:04:00::,sale%1:04:02::
+#10 order NOUN order%1:10:00::,order%1:10:01::,order%1:10:03::,order%1:10:04::
+#15 receipt NOUN receipt%1:04:00::
+#17 vacation NOUN vacation%1:28:00::
+#19 period NOUN period%1:28:00::,period%1:28:03::
+Is an arbitrary retirement age of 65 actually costing your plant money ?
+5
+#3 retirement NOUN retirement%1:04:00::
+#4 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#7 actually ADV actually%4:02:01::
+#8 cost VERB cost%2:42:00::,cost%2:42:01::
+#10 plant NOUN plant%1:06:01::
+What sort of effort do you make to assure that older or disabled workers are fully productive ?
+6
+#1 sort NOUN sort%1:09:00::,sort%1:18:00::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 assure VERB assure%2:31:00::,assure%2:32:03::
+#10 old ADJ old%3:00:01::,old%3:00:02::
+#13 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#15 fully ADV fully%4:02:04::
+Would early retirement of non-productive , disabled employees reduce the number of make-work jobs ?
+5
+#1 early ADJ early%5:00:00:past:00
+#2 retirement NOUN retirement%1:04:00::
+#8 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 job NOUN job%1:04:00::,job%1:06:00::
+Will your union accept seniority concessions in assigning work for older or disabled employees ?
+3
+#2 union NOUN union%1:14:01::,union%1:14:02::
+#7 assign VERB assign%2:31:00::,assign%2:41:00::
+#10 old ADJ old%3:00:01::,old%3:00:02::
+Can you share medical facilities and staff with neighboring plants ?
+3
+#4 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#6 staff NOUN staff%1:14:00::,staff%1:14:01::
+#9 plant NOUN plant%1:06:01::
+If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ?
+9
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 doctor NOUN doctor%1:18:00::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#15 doctor NOUN doctor%1:18:00::
+#19 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#22 fee NOUN fee%1:21:00::
+#24 case NOUN case%1:18:03::,case%1:18:04::,case%1:26:02::
+#26 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Can your plant nurse be replaced by a trained first-aid man who works full-time on some other assignment ?
+5
+#2 plant NOUN plant%1:06:01::
+#5 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#17 assignment NOUN assignment%1:04:03::
+Do you rigidly distinguish between job - and non job connected health problems and avoid treating the latter ?
+4
+#5 job NOUN job%1:04:00::,job%1:06:00::
+#9 job NOUN job%1:04:00::,job%1:06:00::
+#14 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#15 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+Are you indiscriminantly offering unnecessary medical services - flu shots , sun lamp treatments , etc. ?
+2
+#9 shot NOUN shot%1:04:03::
+#11 sun NOUN sun%1:18:00::,sun%1:19:00::
+If you have an annual or regular physical examination program , is it worth what it is costing you ?
+6
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#7 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#8 examination NOUN examination%1:09:03::
+#9 program NOUN program%1:09:00::,program%1:09:01::
+#17 cost VERB cost%2:42:00::,cost%2:42:01::
+Consider what you can afford to spend and what your goals are before setting up or revamping your employee benefit program .
+4
+#4 afford VERB afford%2:34:00::,afford%2:42:00::
+#10 goal NOUN goal%1:09:00::,goal%1:15:00::
+#19 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#20 program NOUN program%1:09:00::,program%1:09:01::
+Too many plant officials are all too eager to buy a package program from an insurance company simply because it works for another plant .
+7
+#0 too ADV too%4:02:00::
+#2 plant NOUN plant%1:06:01::
+#9 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#12 program NOUN program%1:09:00::,program%1:09:01::
+#17 simply ADV simply%4:02:00::,simply%4:02:02::
+#20 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#23 plant NOUN plant%1:06:01::
+But even if that other plant employs the same number of workers and makes the same product , there are other facts to consider .
+9
+#4 other ADJ other%3:00:00::
+#5 plant NOUN plant%1:06:01::
+#6 employ VERB employ%2:34:00::,employ%2:41:00::
+#8 same ADJ same%3:00:00::,same%3:00:02::
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#11 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#13 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#15 same ADJ same%3:00:00::,same%3:00:02::
+#16 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+How old is your working force ?
+3
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#4 working ADJ working%5:00:00:employed:00
+#5 force NOUN force%1:14:01::,force%1:14:02::
+In what section of the country are you located ?
+2
+#2 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#5 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+These factors can make the difference between waste and efficiency in any benefit program .
+5
+#1 factor NOUN factor%1:08:00::,factor%1:18:00::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 waste NOUN waste%1:04:00::
+#12 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#13 program NOUN program%1:09:00::,program%1:09:01::
+Above all , do n't set up extravagant fringe benefits just to buy employee good will .
+2
+#10 just ADV just%4:02:00::,just%4:02:03::
+#12 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+Unions stress fringe benefits , but the individual hourly worker prefers cash every time .
+7
+#0 union NOUN union%1:14:01::,union%1:14:02::
+#1 stress VERB stress%2:32:00::,stress%2:32:01::
+#8 hourly ADJ hourly%5:00:00:periodic:00
+#9 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#10 prefer VERB prefer%2:31:00::
+#11 cash NOUN cash%1:21:00::
+#13 time NOUN time%1:11:00::
+Aim to balance your employee benefit package .
+2
+#0 aim VERB aim%2:31:00::
+#5 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+Some plants go overboard on one type of fringe - say a liberal retirement plan - and find themselves vulnerable elsewhere .
+9
+#1 plant NOUN plant%1:06:01::
+#2 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#6 type NOUN type%1:18:00::
+#8 fringe NOUN fringe%1:06:00::
+#10 say VERB say%2:32:01::
+#12 liberal ADJ liberal%5:00:00:generous:01
+#13 retirement NOUN retirement%1:04:00::
+#14 plan NOUN plan%1:09:00::
+#17 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+They 're asking for union trouble .
+2
+#4 union NOUN union%1:14:01::,union%1:14:02::
+#5 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+If you want credit for your employee services program , let your workers know what they 're entitled to .
+6
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 credit NOUN credit%1:04:01::,credit%1:10:00::,credit%1:10:01::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#12 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#13 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 entitle VERB entitled%5:00:00:eligible:00
+Encourage them to exercise their benefits .
+2
+#3 exercise VERB exercise%2:34:00::
+#5 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+This can be done by stories in your house organs , posters , special publications , letters to workers ' homes as well as by word of mouth through your chain of command .
+6
+#5 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#11 poster NOUN poster%1:05:00::
+#16 letter NOUN letter%1:10:00::
+#18 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#20 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#30 chain NOUN chain%1:06:04::,chain%1:14:00::,chain%1:14:02::,chain%1:17:00::,chain%1:17:01::
+Some companies find a little imagination helpful .
+2
+#1 company NOUN company%1:14:03::
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+Hallmark Cards , Inc. , Kansas City , Mo. , has a do-it-yourself quiz game called " Benefit Bafflers " , which it distributes to employees .
+4
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 quiz NOUN quiz%1:10:00::
+#14 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#23 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+M + R Dietetic Laboratories , Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe .
+7
+#10 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#13 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#19 check NOUN check%1:21:00::
+#20 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#24 company NOUN company%1:14:03::
+#28 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#29 fringe NOUN fringe%1:06:00::
+U. S. Rubber Company , New York , passes out a form itemizing the value of benefits .
+4
+#8 pass VERB pass%2:32:01::,pass%2:40:00::,pass%2:40:01::,pass%2:40:02::,pass%2:40:13::
+#11 form NOUN form%1:10:01::
+#14 value NOUN value%1:21:00::,values%1:09:00::
+#16 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+The blue-collar worker thus knows his insurance package , for example , costs $ 227.72 .
+4
+#2 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 insurance NOUN insurance%1:21:02::
+#12 cost VERB cost%2:42:00::,cost%2:42:01::
+Have the insurance company or your own accounting department break down the cost of your insurance package periodically .
+4
+#0 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#6 own ADJ own%5:00:00:personal:00
+#7 account NOUN account%1:21:02::,accounting%1:09:00::
+#15 insurance NOUN insurance%1:21:02::
+You may find certain coverage costing much more than is economically feasible , thereby alerting you to desirable revisions .
+3
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#3 certain ADJ certain%5:00:00:definite:00
+#5 cost VERB cost%2:42:00::,cost%2:42:01::
+Check to see if some of your benefits - such as on-the-job disability pay - can be put on a direct payment rather than an insured basis at a savings to you .
+7
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#2 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#7 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#17 put VERB put%2:35:00::,put%2:35:05::
+#20 direct ADJ direct%3:00:05::
+#22 rather ADV rather%4:02:02::
+#29 saving NOUN saving%1:04:00::
+Use deductable insurance wherever feasible .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#2 insurance NOUN insurance%1:21:02::
+It can put an end to marginal claims which play havoc with your insurance rates .
+5
+#2 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#4 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#7 claim NOUN claim%1:04:00::,claim%1:07:01::,claim%1:07:02::,claim%1:10:00::
+#13 insurance NOUN insurance%1:21:02::
+#14 rate NOUN rate%1:21:00::
+Also , beware of open end policies , especially in the medical field .
+2
+#8 especially ADV especially%4:02:00::
+#12 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+This will mean that every time there 's an increase in hospital rates your cost will go up in like manner .
+5
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#5 time NOUN time%1:11:00::
+#11 hospital NOUN hospital%1:06:00::
+#12 rate NOUN rate%1:21:00::
+#20 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+Put a dollar and cents limit on benefits .
+3
+#0 put VERB put%2:31:13::,put%2:34:00::
+#5 limit NOUN limit%1:23:00::,limit%1:28:00::
+#7 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+Do n't go overboard on insurance that pays benefits only upon death .
+5
+#2 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#5 insurance NOUN insurance%1:21:02::
+#7 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#8 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Generally , your employee will greatly appreciate benefits that protect him during his working life or during retirement .
+5
+#0 generally ADV generally%4:02:01::
+#6 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+#7 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#13 working ADJ working%5:00:00:employed:00
+#17 retirement NOUN retirement%1:04:00::
+In granting bereavement leaves , specify the maximum time off and list what the worker 's relation to the deceased must be to qualify .
+5
+#1 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#11 list VERB list%2:32:00::,list%2:41:00::
+#14 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#19 deceased NOUN deceased%1:18:00::
+#23 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+Thus , you avoid headaches when an employee wants off for his fourth cousin 's funeral .
+3
+#0 thus ADV thus%4:02:01::
+#3 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#8 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Also , reserve the right to demand proof of death despite the fact that you 'll probably never use it .
+4
+#4 right NOUN right%1:07:00::,right%1:21:00::
+#7 proof NOUN proof%1:09:00::
+#17 never ADV never%4:02:00::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Coffee breaks can be a real headache if not regulated .
+2
+#5 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+#8 not ADV not%4:02:00::
+Vending machines can alleviate the long hike to the cafeteria during the break with resulting waste of production time .
+6
+#5 long ADJ long%3:00:01::
+#6 hike NOUN hike%1:04:00::
+#12 break NOUN break%1:04:02::
+#15 waste NOUN waste%1:04:00::
+#17 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#18 time NOUN time%1:28:01::,time%1:28:05::
+If coffee is sold at the cafeteria , let a few workers in each department get it for the whole group .
+5
+#1 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#3 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#11 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#15 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#19 whole ADJ whole%3:00:00::
+Consider installing supplemental serving lines in production areas .
+5
+#1 install VERB install%2:35:00::
+#3 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#4 line NOUN line%1:06:08::,line%1:10:06::,line%1:14:00::,line%1:14:01::,line%1:14:02::,line%1:14:03::
+#6 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#7 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee .
+5
+#0 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#7 place VERB place%2:31:13::
+#10 rather ADV rather%4:02:02::
+#20 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+Otherwise , you may be saddled with a good size milk bill by milk drinkers .
+2
+#8 good ADJ good%5:00:00:complete:00
+#11 bill NOUN bill%1:10:01::
+Keep the retirement age flexible so skilled craftsmen such as tool and die makers can be kept on the job for the convenience of the company .
+9
+#0 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#2 retirement NOUN retirement%1:04:00::
+#3 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#10 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#12 die NOUN die%1:06:01::
+#13 maker NOUN maker%1:18:00::
+#16 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#22 convenience NOUN convenience%1:26:00::
+#25 company NOUN company%1:14:03::
+And so deadheads on the payroll can be eased out at the earliest possible age .
+3
+#1 so ADV so%4:02:04::
+#2 deadhead NOUN deadhead%1:06:00::
+#14 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+Make sure you have minimum age and time on the job requirements tied into your pension plan .
+6
+#0 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#12 tie VERB tie%2:35:01::,tie%2:35:02::
+#15 pension NOUN pension%1:21:00::
+#16 plan NOUN plan%1:09:00::
+Younger men usually do n't think of pensions as an important job benefit factor anyhow and they 're liable to change jobs several times before settling down .
+10
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 pension NOUN pension%1:21:00::
+#11 job NOUN job%1:04:00::,job%1:06:00::
+#12 benefit NOUN benefit%1:07:00::,benefit%1:21:00::
+#13 factor NOUN factor%1:08:00::,factor%1:18:00::
+#14 anyhow ADV anyhow%4:02:00::
+#18 liable ADJ liable%5:00:00:susceptible:00
+#20 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+#21 job NOUN job%1:04:00::,job%1:06:00::
+#23 time NOUN time%1:11:00::
+Choose carefully between contributory or non contributory pension plans .
+2
+#7 pension NOUN pension%1:21:00::
+#8 plan NOUN plan%1:09:00::
+Workers usually think more of a plan they contribute to .
+3
+#0 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#3 more ADV more%4:02:00::,more%4:02:01::
+#6 plan NOUN plan%1:09:00::
+And they can at least collect the money they put in , plus interest , when they leave the company .
+4
+#5 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#13 interest NOUN interest%1:21:00::
+#17 leave VERB leave%2:38:00::,leave%2:41:00::
+#19 company NOUN company%1:14:03::
+A non contributory plan usually won n't pay off for the worker until he retires .
+3
+#3 plan NOUN plan%1:09:00::
+#11 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#14 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+Thus , there is an added incentive to stay on the job .
+1
+#0 thus ADV thus%4:02:00::
+Make sure you do n't pay for holidays that occur when an employee would not otherwise be working .
+5
+#0 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#14 not ADV not%4:02:00::
+#15 otherwise ADV otherwise%4:02:01::
+#17 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+These include :
+1
+#1 include VERB include%2:42:00::
+leaves of absences , illnesses , and layoffs .
+1
+#7 layoff NOUN layoff%1:04:00::
+Consider adopting a system of holidays in which time off is granted with an eye to minimum inconvenience to the operation of the plant .
+4
+#3 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#11 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#20 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#23 plant NOUN plant%1:06:01::
+It 's usually not too hard to sell workers on this as it gives them longer holiday periods .
+7
+#3 not ADV not%4:02:00::
+#4 too ADV too%4:02:00::
+#5 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#7 sell VERB sell%2:40:02::,sell%2:42:13::,sell%2:42:14::
+#8 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#13 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#17 period NOUN period%1:28:00::,period%1:28:03::
+For example , the Friday after Thanksgiving can be substituted for Washington 's birthday .
+1
+#6 thanksgiving NOUN thanksgiving%1:28:00::
+This reduces the number of expensive plant shutdowns and startups .
+3
+#1 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#3 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 plant NOUN plant%1:06:01::
+Require each employee to work his last shift both before and after the holiday to be eligible for pay .
+3
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#6 last ADJ last%5:00:00:unlikely:00
+#7 shift NOUN shift%1:14:00::,shift%1:28:00::
+This cuts the absentee rate .
+1
+#1 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+Consider using vending machines rather than subsidized cafeterias .
+1
+#4 rather ADV rather%4:02:02::
+Latest models serve hot meals at reasonable prices , and at a profit to you .
+7
+#0 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+#1 model NOUN model%1:09:03::
+#2 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#3 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#4 meal NOUN meal%1:28:00::
+#6 reasonable ADJ reasonable%5:00:00:moderate:00
+#7 price NOUN price%1:07:01::,price%1:21:00::
+If a concessionaire runs the cafeteria , keep an eye out for quality and price .
+3
+#3 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+#12 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#14 price NOUN price%1:07:01::,price%1:21:00::
+If the soup tastes like dishwater , your employees won n't blame the concessionaire .
+1
+#2 soup NOUN soup%1:13:00::
+Check your cafeteria location to make sure it 's convenient for most employees .
+2
+#0 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+You may save valuable production minutes with a change .
+3
+#4 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#5 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#8 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+Spread your vacation period over the widest possible span of time or shut the plant down for two weeks .
+6
+#0 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#2 vacation NOUN vacation%1:28:00::
+#3 period NOUN period%1:28:00::,period%1:28:03::
+#8 span NOUN span%1:07:00::
+#10 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#14 plant NOUN plant%1:06:01::
+This will cut the expense of vacation replacements .
+2
+#2 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#6 vacation NOUN vacation%1:28:00::
+And with the shutdown method there will be no argument as to who gets the choice vacation dates .
+5
+#9 argument NOUN argument%1:10:00::
+#13 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#15 choice ADJ choice%5:00:00:superior:02
+#16 vacation NOUN vacation%1:28:00::
+#17 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+Also make sure you have reasonable requirements as to hours worked before a production employee is entitled to a vacation .
+7
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 reasonable ADJ reasonable%5:00:00:moderate:00
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#10 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#13 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#19 vacation NOUN vacation%1:28:00::
+You might try providing standard vacation time off but make the vacation pay depend on the number of hours worked in the previous year .
+9
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#4 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#5 vacation NOUN vacation%1:28:00::
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#18 hour NOUN hour%1:07:00::,hours%1:28:01::
+#19 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#22 previous ADJ previous%5:00:00:preceding:00

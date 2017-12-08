@@ -1,0 +1,650 @@
+ I called the other afternoon on my old friend , Graves Moreland , the Anglo-American literary critic - his mother was born in Ohio - who lives alone in a fairy-tale cottage on the Upson Downs , raising hell and peacocks , the former only when the venerable gentleman becomes an angry old man about the state of literature or something else that is dwindling and diminishing , such as human stature , hope , and humor .
+15
+#1 call VERB call%2:41:00::,call%2:41:12::
+#3 other ADJ other%3:00:00::
+#7 old ADJ old%3:00:01::
+#8 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#15 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#16 critic NOUN critic%1:18:00::
+#19 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#26 live VERB live%2:42:08::
+#27 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#43 former ADJ former%3:00:00::
+#44 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#49 become VERB become%2:30:00::,become%2:42:01::
+#56 state NOUN state%1:03:00::,state%1:26:01::,state%1:26:02::
+#73 hope NOUN hope%1:09:00::,hope%1:18:00::
+#76 humor NOUN humor%1:07:01::
+My unscientific friend does not believe that human stature is measurable in terms of speed , momentum , weightlessness , or distance from earth , but is a matter of the development of the human mind .
+9
+#1 unscientific ADJ unscientific%3:00:00::
+#2 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#5 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#14 speed NOUN speed%1:04:00::,speed%1:07:00::
+#16 momentum NOUN momentum%1:07:01::
+#21 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#23 earth NOUN earth%1:15:00::,earth%1:17:01::
+#28 matter NOUN matter%1:09:00::,matter%1:09:01::
+#35 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+After Gagarin became the Greatest Man in the World , for a nation that does not believe in the cult of personality or in careerism , Moreland wrote me a letter in which he said : " I am not interested in how long a bee can live in a vacuum , or how far it can fly .
+13
+#2 become VERB become%2:30:00::,become%2:42:01::
+#4 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#27 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#30 letter NOUN letter%1:10:00::
+#34 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#43 long ADJ long%3:00:02::
+#45 bee NOUN honeybee%1:05:00::
+#47 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#50 vacuum NOUN vacuum%1:25:00::
+#54 far ADV far%4:02:00::
+#57 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+A bee 's place is in the hive " .
+3
+#1 bee NOUN honeybee%1:05:00::
+#3 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#7 hive NOUN hive%1:06:00::
+" I have come to talk with you about the future of humor and comedy " , I told him , at which he started slightly , and then made us each a stiff drink , with a trembling hand .
+9
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#10 future NOUN future%1:10:00::,future%1:28:00::
+#12 humor NOUN humor%1:07:01::
+#18 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#24 start VERB start%2:30:00::,start%2:38:03::,start%2:38:04::
+#25 slightly ADV slightly%4:02:01::
+#29 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#33 stiff ADJ stiff%3:00:00::
+#39 hand NOUN hand%1:08:00::,hand%1:10:01::
+" I seem to remember " , he said , " that in an interview ten years ago you gave humor and comedy five years to live .
+5
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 year NOUN year%1:28:00::,year%1:28:01::
+#20 humor NOUN humor%1:07:01::
+#24 year NOUN year%1:28:00::,year%1:28:01::
+#26 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+" I was wrong " , I admitted .
+2
+#3 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#7 admit VERB admit%2:32:00::
+" Comedy did n't die , it just went crazy .
+4
+#4 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#7 just ADV just%4:02:00::,just%4:02:03::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 crazy ADJ crazy%5:00:00:insane:00
+It has identified itself with the very tension and terror it once did so much to alleviate .
+4
+#7 tension NOUN tension%1:26:00::,tension%1:26:02::
+#9 terror NOUN terror%1:04:00::
+#11 once ADV once%4:02:01::
+#13 so ADV so%4:02:03::,so%4:02:07::
+We now have not only what has been called over here the comedy of menace but we also have horror jokes , magazines known as Horror Comics , and sick comedians .
+9
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#9 over ADV over%4:02:00::
+#10 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 horror NOUN horror%1:12:01::
+#22 magazine NOUN magazine%1:10:00::
+#29 sick ADJ sick%3:00:01::
+The Zeitgeist is not crazy as a loon or mad as a March hare ; it is manic as a man " .
+3
+#4 crazy ADJ crazy%5:00:00:insane:00
+#7 loon NOUN loon%1:18:01::
+#20 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+" I woke up this morning " , Moreland said , " paraphrasing Lewis Carroll .
+2
+#5 morning NOUN morning%1:28:00::,morning%1:28:01::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Do you want to hear the paraphrase " ?
+1
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+I asked , taking a final gulp of my drink , and handing him the empty glass .
+5
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#3 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#12 hand VERB hand%2:40:00::
+#15 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#16 glass NOUN glass%1:06:00::,glass%1:06:02::,glass%1:06:04::,glass%1:27:00::
+" Just barely " , he said , and repeated his paraphrase :
+3
+#1 just ADV just%4:02:04::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+" The time has come " , the walrus said , " To speak of manic things , Of shots and shouts , and sealing dooms Of commoners and kings " .
+10
+#2 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#4 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#16 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#19 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#21 shout NOUN shout%1:10:00::
+#24 seal VERB seal%2:31:00::
+#27 commoner NOUN commoner%1:18:00::
+#29 king NOUN king%1:18:01::,king%1:26:00::
+Moreland fixed us each another drink , and said , " For God 's sake , tell me something truly amusing " .
+5
+#1 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 God NOUN god%1:18:00::
+#14 sake NOUN sake%1:09:00::
+#16 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" I 'll try " , I said , and sat for a moment thinking .
+5
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#13 moment NOUN moment%1:28:00::,moment%1:28:01::
+#14 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+" Oh yes , the other day I reread some of Emerson 's English Traits , and there was an anecdote about a group of English and Americans visiting Germany , more than a hundred years ago .
+6
+#5 other ADJ other%3:00:00::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#25 English NOUN english%1:18:00::
+#27 American NOUN american%1:18:00::,american%1:18:01::
+#28 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#35 year NOUN year%1:28:00::,year%1:28:01::
+In the railway station at Berlin , a uniformed attendant was chanting , ' Foreigners this way !
+3
+#8 uniform ADJ uniform%3:00:00::
+#9 attendant NOUN attendant%1:18:01::
+#16 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+Foreigners this way ' !
+1
+#2 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+One woman - she could have been either English or American - went up to him and said , ' But you are the foreigners " ' .
+1
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I took a deep breath and an even deeper swallow of my drink , and said , " I admit that going back to Ralph Waldo Emerson for humor is like going to a modern musical comedy for music and comedy " .
+6
+#3 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#9 swallow NOUN swallow%1:04:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 admit VERB admit%2:32:00::
+#28 humor NOUN humor%1:07:01::
+#38 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+" What 's the matter with the music " ?
+1
+#7 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+Moreland asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Let 's talk about books " , Moreland said .
+3
+#1 let VERB let%2:32:00::
+#5 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I am told that in America you have non books by non writers , brought out by non publishers for non readers .
+4
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#22 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+" There is non-fiction and non non-fiction " , I said .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Speaking of nonism : the other day , in a story about a sit-down demonstration , the Paris Herald Tribune wrote , ' The non violence became noisier ' .
+8
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#6 other ADJ other%3:00:00::
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#11 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#15 demonstration NOUN demonstration%1:04:01::
+#21 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#27 become VERB become%2:30:00::,become%2:42:01::
+#28 noisy ADJ noisy%3:00:00::
+And then Eichmann was quoted as saying , in non English , that Hitler 's plan to exterminate the Jews was nonsense " .
+5
+#4 quote VERB quote%2:32:00::,quote%2:32:02::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 English NOUN english%1:09:00::
+#15 plan NOUN plan%1:09:01::
+#21 nonsense NOUN nonsense%1:06:00::
+" If we cannot tell evil , horror , and insanity from nonsense , what is the future of humor and comedy " ?
+4
+#4 tell VERB tell%2:31:00::,tell%2:31:01::
+#7 horror NOUN horror%1:12:01::
+#17 future NOUN future%1:10:00::,future%1:28:00::
+#19 humor NOUN humor%1:07:01::
+Moreland asked , grimly .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Cryptic " , I said .
+2
+#1 cryptic ADJ cryptic%5:00:00:esoteric:00
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" They require , for existence , a brave spirit and a high heart , and where do you find these ?
+3
+#9 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#13 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#19 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+In our present era of Science and Angst , the heart has been downgraded , to use one of our popular retrogressive verbs " .
+4
+#2 present ADJ present%3:00:01::
+#10 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#20 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+" I know what you mean " , Moreland sighed .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+" Last year your Tennessee Williams told our Dilys Powell , in a television program , that it is the task of the playwright to throw light into the dark corners of the human heart .
+5
+#1 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#25 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#34 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+Like almost everybody else , he confused the heart , both as organ and as symbol , with the disturbed psyche , the deranged glands , and the jumpy central nervous system .
+4
+#8 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#12 organ NOUN organ%1:14:00::
+#20 psyche NOUN psyche%1:09:00::
+#24 gland NOUN gland%1:08:00::
+I'm not pleading for the heart that leaps up when it beholds a rainbow in the sky , or for the heart that with rapture fills and dances with the daffodils .
+5
+#2 plead VERB plead%2:32:00::,plead%2:32:03::
+#5 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#21 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#24 rapture NOUN rapture%1:26:00::
+#27 dance VERB dance%2:36:00::,dance%2:38:01::
+The sentimental pure heart of Galahad is gone with the knightly years , but I still believe in the heart of the George Meredith character that was not made of the stuff that breaks " .
+5
+#3 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#7 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#24 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#28 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#31 stuff NOUN stuff%1:09:00::
+" We no longer have Tom Moore 's and Longfellow 's ' heart for any fate ' , either " , I said .
+5
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#15 fate NOUN fate%1:18:00::
+#18 either ADV either%4:02:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Moore and Longfellow did n't have the fate that faces us " , Moreland said .
+4
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#8 fate NOUN fate%1:18:00::
+#10 face VERB face%2:32:00::,face%2:32:03::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" One day our species promises co-existence , and the next day it threatens co extinction " .
+5
+#2 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#4 species NOUN species%1:09:00::,species%1:14:00::
+#5 promise VERB promise%2:32:02::,promise%2:42:00::
+#10 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#11 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+We sat for a while drinking in silence .
+2
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+" The heart " , I said finally , " is now either in the throat or the mouth or the stomach or the shoes .
+6
+#2 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#18 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#21 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+#24 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+When it was worn in the breast , or even on the sleeve , we at least knew where it was " .
+2
+#3 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#17 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" You have visited England five times in the past quarter-century , I believe " , my host said .
+5
+#3 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#6 time NOUN time%1:11:00::
+#13 believe VERB believe%2:31:03::
+#17 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" What has impressed you most on your present visit " ?
+2
+#3 impress VERB impress%2:37:01::
+#8 present ADJ present%3:00:01::
+" I would say depressed , not impressed " , I told him .
+5
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 depress VERB depress%2:37:00::
+#6 not ADV not%4:02:00::
+#7 impress VERB impress%2:37:01::
+#11 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" I should say it is the turning of courts of law into veritable theatres for sex dramas , involving clergymen and parishioners , psychiatrists and patients .
+7
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+#9 court NOUN court%1:06:02::,court%1:06:05::
+#11 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#16 sex NOUN sex%1:04:00::,sex%1:07:00::
+#17 drama NOUN drama%1:10:00::,drama%1:10:01::
+#26 patient NOUN patient%1:18:00::
+It is becoming harder and harder to tell law courts and political arenas from the modern theatre " .
+6
+#2 become VERB become%2:30:00::,become%2:42:01::
+#3 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#5 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#7 tell VERB tell%2:31:00::,tell%2:31:01::
+#8 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#9 court NOUN court%1:06:02::,court%1:06:05::
+" Do you think we need a new Henry James to re-explore the Anglo-American scene " ? he asked .
+4
+#3 think VERB think%2:31:01::,think%2:31:03::
+#7 new ADJ new%3:00:00::,new%5:00:00:original:00
+#14 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#18 ask VERB ask%2:32:00::,ask%2:32:04::
+" Or perhaps a new Noel Coward " ?
+1
+#4 new ADJ new%3:00:00::,new%5:00:00:original:00
+" But you must have heard it said that the drawing-room disappeared forever with the somnolent years of James and the antic heyday of Coward .
+4
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#12 forever ADV forever%4:02:00::
+#16 year NOUN years%1:28:00::
+I myself hear it said constantly - in drawing-rooms .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In them , there is usually a group of Anglo-Americans with tragicomic problems , worthy of being explored either in the novel or in the play or in comedy and satire " .
+2
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#25 play NOUN play%1:10:01::,play%1:10:03::
+I stood up and began pacing .
+1
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+" If you are trying to get us out of the brothel , the dustbin , the kitchen sink , and the tawdry living-room , you are probably wasting your time " , Moreland told me .
+3
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#28 waste VERB waste%2:34:05::,waste%2:40:00::
+#34 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" Too many of our writers seem to be interested only in creatures that crawl out of the woodwork or from under the rock " .
+5
+#1 too ADV too%4:02:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#15 out ADV out%4:02:04::
+#23 rock NOUN rock%1:13:00::,rock%1:17:01::
+" Furiouser and furiouser " , I said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I am worried about the current meanings of the word ' funny ' .
+2
+#3 worry VERB worry%2:37:00::,worry%2:37:01::
+#10 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+It now means ominous , as when one speaks of a funny sound in the motor ; disturbing , as when one says that a friend is acting funny ; and frightening , as when a wife tells the police that it is funny , but her husband has n't been home for two days and nights " .
+12
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#8 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#11 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#12 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#27 act VERB act%2:29:00::,act%2:41:00::
+#28 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#37 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#43 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#54 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Moreland sat brooding for a full minute , during which I made each of us a new drink .
+6
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#2 brood VERB brood%2:31:00::
+#5 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#6 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#16 new ADJ new%3:00:00::
+He took his glass , clinked it against mine , and said , " Toujours gai , what the hell " ! borrowing a line from Don Marquis ' Mehitabel .
+4
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#3 glass NOUN glass%1:06:00::,glass%1:06:02::,glass%1:06:04::,glass%1:27:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 line NOUN line%1:10:02::,line%1:25:00::
+" Be careful of the word ' gay ' , for it , too , has undergone a change .
+3
+#2 careful ADJ careful%3:00:00::,careful%5:00:00:mindful:00
+#13 too ADV too%4:02:01::
+#18 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+It now means , in my country , homosexual " , I said .
+4
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#6 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Oh , I forgot to say that if one is taken to the funny house in the funny wagon , he is removed to a mental institution in an ambulance .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Recently , by the way , I received a questionnaire in which I was asked whether or not I was non institutionalized " .
+3
+#7 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#14 ask VERB ask%2:32:00::,ask%2:32:04::
+#21 institutionalized ADJ institutionalized%5:00:00:institutional:00
+My host went over and stared out the window at his peacocks ; then he turned to me .
+4
+#1 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#6 out ADV out%4:02:04::
+#8 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#13 then ADV then%4:02:00::
+" Is it true that you believe the other animals are saner than the human species " ?
+4
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#6 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#8 other ADJ other%3:00:00::
+#15 species NOUN species%1:09:00::,species%1:14:00::
+" Oh , that is demonstrable " , I told him .
+1
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" Do you remember the woman in the French Alps who was all alone with her sheep one day when the sun darkened ominously ?
+5
+#13 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#16 sheep NOUN sheep%1:05:00::
+#18 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#21 sun NOUN sun%1:17:00::,sun%1:17:01::
+#22 darken VERB darken%2:30:00::
+She told the sheep , ' The world is coming to an end ' !
+5
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#3 sheep NOUN sheep%1:05:00::
+#7 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#9 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+#12 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+And the sheep said - all in unison , I have no doubt - ' Ba-a-a ' !
+3
+#2 sheep NOUN sheep%1:05:00::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The sound mockery of sheep is like the salubrious horse laugh " .
+1
+#4 sheep NOUN sheep%1:05:00::
+" That is only partly non nonsense " , he began .
+2
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+" If you saw the drama called Rhinoceros " , I said , " think of the effect it would have on an audience of rhinos when the actor on stage suddenly begins turning into a rhinoceros .
+7
+#5 drama NOUN drama%1:10:00::,drama%1:10:01::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 effect NOUN effect%1:09:00::,effect%1:19:00::
+#20 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#23 audience NOUN audience%1:14:01::
+#30 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#32 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The rhinos would panic , screaming ' Help ' !
+1
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+- if that can be screamed in their language " .
+1
+#8 language NOUN language%1:10:00::
+" You think the Russians are getting ahead of us in comedy " ?
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#4 Russian NOUN russian%1:18:00::
+" Non-God , no " , I said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" The political and intellectual Left began fighting humor and comedy years ago , because they fear things they do not understand and cannot manage , such as satire and irony , such as humor and comedy .
+9
+#5 left NOUN left%1:15:00::
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 humor NOUN humor%1:07:01::
+#11 year NOUN year%1:28:01::
+#17 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#20 not ADV not%4:02:00::
+#21 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#24 manage VERB manage%2:41:00::,manage%2:41:01::,manage%2:41:03::
+#34 humor NOUN humor%1:07:01::
+Nevertheless , like any other human being upon whom the spotlight of the world plays continually , Khrushchev , the anti personality cultist , has become a comic actor , or thinks he has .
+4
+#4 other ADJ other%3:00:00::
+#13 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#25 become VERB become%2:30:00::,become%2:42:01::
+#31 think VERB think%2:31:01::,think%2:31:03::
+In his famous meeting with Nixon a couple of years ago he seemed to believe that he was as funny as Ed Wynn .
+4
+#3 meeting NOUN meeting%1:11:00::,meeting%1:14:01::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+#14 believe VERB believe%2:31:03::
+#19 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+But , like Caesar , he has only one joke , so far as I can find out .
+2
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+It consists in saying , ' That would be sending the goat to look after the cabbage ' .
+3
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#11 goat NOUN goat%1:05:00::
+Moreland asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Such as ' sending the cat to guard the mice ' , or ' the falcon to protect the dove ' , or most terribly sharp of all , ' the human being to save humanity " ' .
+7
+#4 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#6 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#10 mouse NOUN mouse%1:05:00::
+#20 dove NOUN dove%1:05:00::
+#24 most ADV most%4:02:01::
+#35 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#36 humanity NOUN humanity%1:05:00::
+" You and I have fallen out of literature into politics " , Moreland observed .
+2
+#5 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#14 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+" What a nasty fall was there " !
+2
+#3 nasty ADJ nasty%3:00:00::
+#4 fall NOUN fall%1:04:01::,fall%1:11:00::,fall%1:11:02::,fall%1:17:00::
+I said .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Moreland went over to stare at his peacocks again , and then came back and sat down , restively .
+1
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+" The world that was once foot-loose and fancy-free " , he said , " has now become screw-loose and frenzy free .
+6
+#2 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#5 once ADV once%4:02:01::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#17 become VERB become%2:30:00::,become%2:42:01::
+#21 free ADJ free%3:00:00::
+In our age of Science and Angst it seems to me more brave to stay on Earth and explore inner man than to fly far from the sphere of our sorrow and explore outer space " .
+8
+#2 age NOUN age%1:28:02::,age%1:28:03::
+#11 more ADV more%4:02:00::
+#14 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#16 earth NOUN earth%1:15:00::,earth%1:17:01::
+#19 inner ADJ inner%5:00:00:inward:00
+#20 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#23 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#24 far ADV far%4:02:00::,far%4:02:01::
+" The human ego being what it is " , I put in , " science fiction has always assumed that the creatures on the planets of a thousand larger solar systems than ours must look like gigantic tube-nosed fruit bats .
+3
+#18 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#19 assume VERB assume%2:31:00::
+#29 large ADJ large%3:00:00::,large%5:00:00:significant:00
+It seems to me that the first human being to reach one of these planets may well learn what it is to be a truly great and noble species " .
+6
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#10 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#17 learn VERB learn%2:31:01::,learn%2:31:03::
+#25 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#27 noble ADJ noble%3:00:01::
+#28 species NOUN species%1:09:00::,species%1:14:00::
+" Now we are leaving humor and comedy behind again " , Moreland protested .
+4
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#5 humor NOUN humor%1:07:01::
+#13 protest VERB protest%2:32:00::,protest%2:41:00::
+" Not in the largest sense of the words " , I said .
+2
+#5 sense NOUN sense%1:10:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" The other day Arnold Toynbee spoke against the inveterate tendency of our species to believe in the uniqueness of its religions , its ideologies , and its virtually everything else .
+5
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#13 species NOUN species%1:09:00::,species%1:14:00::
+#24 ideology NOUN ideology%1:09:01::
+#28 virtually ADV virtually%4:02:02::
+Why do we not realize that no ideology believes so much in itself as it disbelieves in something else ?
+4
+#4 realize VERB realize%2:31:01::
+#7 ideology NOUN ideology%1:09:01::
+#8 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#9 so ADV so%4:02:03::,so%4:02:07::
+Forty years ago an English writer , W. L. George , dealt with this subject in Eddies of the Day , and said , as an example , that ' Saint George for Merry England ' would not start a spirit half so quickly as ' Strike frog eating Frenchmen dead " ' !
+9
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#11 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#14 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#40 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#42 so ADV so%4:02:03::,so%4:02:07::
+#47 frog NOUN frog%1:05:00::
+#50 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+It is n't what the ideologist believes in , but what he hates , that puts the world in jeopardy .
+2
+#15 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#17 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+This is the force , in our time and in every other time , that urges the paranoiac and the manic-depressive to become head of a state .
+5
+#7 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#11 other ADJ other%3:00:00::
+#12 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#22 become VERB become%2:30:00::,become%2:42:01::
+#23 head NOUN head%1:18:00::,head%1:18:01::
+Complete power not only corrupts but it also attracts the mad .
+3
+#0 complete ADJ complete%5:00:00:skilled:00
+#1 power NOUN power%1:18:00::
+#4 corrupt VERB corrupt%2:40:00::
+There is a bitter satire for a future writer in that " .
+1
+#3 bitter ADJ bitter%5:00:00:intolerable:00
+" Great satire has always been clearly written and readily understandable " , I said .
+4
+#1 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#7 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" But we now find writers obsessed by the nooks and crannies of their ivory towers , and curiously devoted to the growing obscurity and complexity of poetry and non poetry .
+3
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#19 devoted ADJ devote%2:32:00::
+I wrote a few years ago that one of the cardinal rules of writing is that the reader should be able to get some idea of what the story is about .
+7
+#1 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#11 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#17 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#20 able ADJ able%3:00:00::
+#24 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#28 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::

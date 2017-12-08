@@ -1,0 +1,578 @@
+ Many other ( probably nearly all ) snakes at maturity are already more than half their final length .
+4
+#4 nearly ADV nearly%4:02:00::
+#7 snake NOUN snake%1:05:00::
+#11 already ADV already%4:02:00::
+#17 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+Laurence M . Klauber put length at maturity at two thirds the ultimate length for some rattlesnakes , and Charles C . Carpenter 's data on Michigan garter and ribbon snakes ( Thamnophis ) show that the smallest gravid females are more than half as long as the biggest adults .
+6
+#4 put VERB put%2:31:13::,put%2:34:00::
+#5 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#13 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#34 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#45 long ADJ long%3:00:01::
+#48 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+Felix Kopstein states that " when the snake reaches its maturity it has already reached about its maximal length " , but goes on to cite the reticulate python as an exception , with maximum length approximately three times that at maturity .
+9
+#2 state VERB state%2:32:01::,state%2:32:02::
+#7 snake NOUN snake%1:05:00::
+#8 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#13 already ADV already%4:02:00::
+#14 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#18 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#25 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+#28 python NOUN python%1:05:00::
+#35 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+It is hard to understand how he concluded that most snakes do not grow appreciably after attaining maturity ; he was working with species of Java , so perhaps some tropical snakes are unusual in this respect .
+10
+#2 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#4 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#7 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#10 snake NOUN snake%1:05:00::
+#13 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#21 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#23 species NOUN species%1:09:00::,species%1:14:00::
+#30 tropical ADJ tropical%3:01:00::
+#31 snake NOUN snake%1:05:00::
+#36 respect NOUN respect%1:09:00::
+Certain individual giants recorded later did fail to show a reasonable difference after maturity , but it is impossible to know whether this is due to captive conditions .
+10
+#0 certain ADJ certain%5:00:00:definite:00
+#1 individual ADJ individual%5:00:00:independent:00
+#2 giant NOUN giant%1:18:02::
+#3 record VERB record%2:32:00::,record%2:32:03::
+#4 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#6 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#8 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#10 reasonable ADJ reasonable%5:00:00:moderate:00
+#20 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#27 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+Additional records of slow growth have been omitted .
+3
+#1 record NOUN record%1:10:03::,record%1:21:00::
+#3 slow ADJ slow%3:00:01::
+#4 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+It is possible to make a few generalizations about the six giants themselves .
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 giant NOUN giant%1:18:02::
+There seems to be a rough correlation between the initial and ultimate lengths , starting with the smallest ( boa constrictor ) and ending with the largest ( anaconda ) .
+4
+#5 rough ADJ rough%3:00:00::,rough%5:00:00:unpolished:00,rough%5:00:00:unrefined:01,rough%5:00:00:unskilled:00
+#12 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#14 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#26 large ADJ large%3:00:00::,large%5:00:00:significant:00
+Data on the former are scanty , but there can be little doubt that the latter is sometimes born at a length greater than that of any of the others , thereby lending support to the belief that the anaconda does , indeed , attain the greatest length .
+10
+#3 former ADJ former%3:00:00::
+#15 latter ADJ latter%3:00:00::
+#21 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#22 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#32 lend VERB lend%2:40:01::
+#33 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#36 belief NOUN belief%1:09:00::,belief%1:09:01::
+#42 indeed ADV indeed%4:02:03::
+#46 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#47 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+For four of the six ( the anaconda and the amethystine python cannot be included for lack of data ) there is also a correlation between size at maturity and maximum length , the boa constrictor being the smallest and the Indian python the next in size at the former stage .
+6
+#14 include VERB include%2:31:00::,include%2:41:03::
+#26 size NOUN size%1:07:00::,size%1:07:02::
+#31 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#46 size NOUN size%1:07:00::,size%1:07:02::
+#49 former ADJ former%3:00:00::
+#50 stage NOUN stage%1:04:00::,stage%1:26:00::
+Let us speculate a little on the maximum size of the anaconda .
+2
+#2 speculate VERB speculate%2:31:00::
+#8 size NOUN size%1:07:00::,size%1:07:02::
+If , in a certain part of the range , it starts life 1 foot longer than do any of the other ( relatively large ) giants , and reaches maturity at , let us guess , 18 inches longer than the others , a quadrupling of the maturity length would result in a maximum of ( nearly ) 40 feet .
+15
+#5 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#8 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#11 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#12 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#14 foot NOUN foot%1:23:00::
+#15 long ADJ long%3:00:01::
+#21 other ADJ other%3:00:00::
+#24 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#26 giant NOUN giant%1:18:02::
+#29 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#38 inch NOUN inch%1:23:02::
+#39 long ADJ long%3:00:01::
+#49 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#57 nearly ADV nearly%4:02:00::
+#60 foot NOUN foot%1:23:00::
+When it comes to rate of early growth , the Indian python leads with a figure of about 3 feet 6 inches per year for the first two years , more or less .
+7
+#4 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#7 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#12 lead VERB lead%2:36:00::,lead%2:38:00::,lead%2:42:01::
+#15 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#19 foot NOUN foot%1:23:00::
+#21 inch NOUN inch%1:23:02::
+#26 first ADJ first%3:00:00::,first%4:02:00::
+The African rock python , a close second , is followed in turn by the reticulate python .
+4
+#6 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#7 second ADJ second%1:06:01::,second%3:00:00::,second%5:00:00:ordinal:00
+#10 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#16 python NOUN python%1:05:00::
+There are few data on the boa constrictor , those for the anaconda are unconvincing , and there is nothing at all on the amethystine python .
+1
+#3 data NOUN data%1:14:00::,datum%1:09:00::
+It seems likely that the Indian python comes out ahead because records of its growth have been made more carefully and frequently ; it responds exceptionally well to captivity and does not reach proportions that make it hard to keep .
+7
+#11 record NOUN record%1:10:03::,record%1:21:00::
+#14 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#18 more ADV more%4:02:00::
+#26 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#32 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#37 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#39 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+I cannot make sense out of the figures for post maturity growth ; at best the annual increase appears to be a matter of inches rather than feet .
+7
+#3 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+#7 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#11 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#18 appear VERB appear%2:30:00::
+#22 matter NOUN matter%1:09:00::,matter%1:09:01::
+#24 inch NOUN inch%1:23:02::
+#27 foot NOUN foot%1:23:00::
+Until better records have been kept over longer periods of time and much more is known about the maximum dimensions , it will be wise to refrain from drawing conclusions .
+6
+#1 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#2 record NOUN record%1:10:03::,record%1:21:00::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 dimension NOUN dimension%1:07:00::
+#28 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#29 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+It is often stated that the largest snakes require five years to attain maturity , but this apparently is an overestimation .
+3
+#3 state VERB state%2:32:01::,state%2:32:02::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#7 snake NOUN snake%1:05:00::
+The best way to determine the correct figure ( in captives ) is by direct observation of pairs isolated from birth , a method that produced surprising results : maturing of a male Indian python in less than two years , his mate in less than three ; data on the boa constrictor about match this .
+9
+#1 good ADJ best%3:00:00::,good%3:00:01::
+#2 way NOUN way%1:04:00::,way%1:09:00::
+#4 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#7 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#14 direct ADJ direct%3:00:02::
+#15 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#42 mate NOUN mate%1:23:00::
+#48 data NOUN data%1:14:00::,datum%1:09:00::
+#54 match VERB match%2:30:01::,match%2:35:08::
+Another approach is to estimate from the rate of growth and the smallest size at maturity .
+2
+#1 approach NOUN approach%1:04:02::,approach%1:06:00::
+#13 size NOUN size%1:07:00::,size%1:07:02::
+Results from this approach amply confirm the direct observations :
+4
+#3 approach NOUN approach%1:04:02::,approach%1:06:00::
+#5 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#7 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#8 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+about three years are required , there being a possible slight difference between males and females in the time required .
+2
+#10 slight ADJ slight%5:00:00:insignificant:00
+#18 time NOUN time%1:28:01::,time%1:28:05::
+Only the amethystine python and the anaconda must be excluded for lack or paucity of data .
+1
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+The following information on snakes varying greatly in size ( but all with less than a 10 - foot maximum ) shows , when considered with the foregoing , that there is probably no correlation between the length of a snake and the time required for it to mature .
+9
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#2 information NOUN information%1:09:00::,information%1:10:02::
+#4 snake NOUN snake%1:05:00::
+#8 size NOUN size%1:07:00::,size%1:07:02::
+#18 foot NOUN foot%1:23:00::
+#37 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#40 snake NOUN snake%1:05:00::
+#43 time NOUN time%1:28:01::,time%1:28:05::
+#48 mature VERB mature%2:30:00::
+Oliver , in his summary of the habits of the snakes of the United States , could supply data on the maturing period for only three species in addition to the rattlers , which I shall consider separately .
+6
+#7 habit NOUN habit%1:04:02::
+#10 snake NOUN snake%1:05:00::
+#18 data NOUN data%1:14:00::,datum%1:09:00::
+#22 period NOUN period%1:28:00::,period%1:28:03::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#26 species NOUN species%1:09:00::,species%1:14:00::
+These three were much alike : lined snake ( Tropidoclonion ) , one year and nine months ; red-bellied snake ( Storeria ) , two years ; cottonmouth ( Ancistrodon ) , two years .
+1
+#27 cottonmouth NOUN cottonmouth%1:05:00::
+Klauber investigated the rattlesnakes carefully himself and also summarized what others have found .
+1
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+He concluded that in the southern species , which are rapidly growing types , females mate at the age of two and a half and bear the first young when they are three .
+8
+#1 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#5 southern ADJ southern%3:00:01::,southern%3:00:02::
+#6 species NOUN species%1:09:00::,species%1:14:00::
+#12 type NOUN type%1:18:00::
+#15 mate VERB mate%2:35:00::
+#18 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#25 bear VERB bear%2:29:01::,bear%2:36:00::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+Other herpetologists have ascertained that in the northern United States the prairie rattlesnake may not give first birth until it is four or even five years old , and that the young may be born every other year , rather than annually .
+3
+#7 northern ADJ northern%3:00:01::,northern%3:00:02::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#37 year NOUN year%1:28:00::,year%1:28:01::
+Carpenter 's study showed that female common garter and ribbon snakes of Michigan mature at about the age of two .
+5
+#2 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#6 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#13 mature VERB mature%2:30:00::
+#15 about ADV about%4:02:00::
+#17 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+Oversized monsters are never brought home either alive or preserved , and field measurements are obviously open to doubt because of the universal tendency to exaggerate dimensions .
+3
+#3 never ADV never%4:02:00::
+#7 alive ADJ alive%3:00:01::
+#26 dimension NOUN dimension%1:07:00::
+Measurements of skins are of little value ; every snake hide is noticeably longer than its carcass and intentional stretching presents no difficulty to the unscrupulous explorer .
+7
+#2 skin NOUN skin%1:05:01::,skin%1:06:02::,skin%1:08:00::,skin%1:26:00::
+#6 value NOUN value%1:21:00::,values%1:09:00::
+#9 snake NOUN snake%1:05:00::
+#10 hide NOUN hide%1:05:00::
+#13 long ADJ long%3:00:01::
+#19 stretch VERB stretch%2:30:00::,stretch%2:30:04::,stretch%2:30:05::,stretch%2:35:00::
+#20 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+In spite of all the pitfalls , there is a certain amount of agreement on some of the giants .
+1
+#18 giant NOUN giant%1:18:02::
+The anaconda proves to be the fly in the ointment , but the reason for this is not clear ; the relatively wild conditions still found in tropical South America might be responsible .
+7
+#2 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#13 reason NOUN reason%1:09:01::,reason%1:16:00::
+#18 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#22 wild ADJ wild%3:00:01::,wild%5:00:00:inhospitable:00,wild%5:00:00:noncivilized:00
+#24 still ADV still%4:02:00::
+#25 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#27 tropical ADJ tropical%3:01:00::
+There are three levels on which to treat the subject .
+3
+#3 level NOUN level%1:26:00::,level%1:26:01::
+#7 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#9 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+The first is the strictly scientific , which demands concrete proof and therefore may err on the conservative side by waiting for evidence in the flesh .
+4
+#4 strictly ADV strictly%4:02:01::
+#10 proof NOUN proof%1:09:00::
+#18 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#20 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+This approach rejects virtually all field measurements .
+2
+#1 approach NOUN approach%1:04:02::,approach%1:06:00::
+#3 virtually ADV virtually%4:02:02::
+The next level attempts to weigh varied evidence and come to a balanced , sensible conclusion ; field measurements by experienced explorers are not rejected , and even reports of a less scientific nature are duly evaluated .
+8
+#1 next ADJ next%5:00:00:close:01
+#2 level NOUN level%1:26:00::,level%1:26:01::
+#5 weigh VERB weigh%2:32:00::,weigh%2:42:03::
+#14 sensible ADJ sensible%3:00:04::
+#15 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#28 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#31 less ADV less%4:02:00::,less%4:02:01::
+#33 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+The third level leans on a belief that a lot of smoke means some fire .
+3
+#2 level NOUN level%1:26:00::,level%1:26:01::
+#6 belief NOUN belief%1:09:00::,belief%1:09:01::
+#14 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+The argument against this last approach is comparable to that which rejects stories about hoop snakes , about snakes that break themselves into many pieces and join up again , or even of ghosts that chase people out of graveyards ; the mere piling up of testimony does not prove , to the scientific mind , the existence of hoop snakes , joint snakes , or ghosts .
+9
+#1 argument NOUN argument%1:10:02::
+#4 last ADJ last%5:00:00:unlikely:00
+#5 approach NOUN approach%1:04:02::,approach%1:06:00::
+#12 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#18 snake NOUN snake%1:05:00::
+#20 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#35 chase NOUN chase%1:04:00::
+#36 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#49 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+Oliver has recently used the second level approach with the largest snakes , and has come to these conclusions :
+7
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 level NOUN level%1:26:00::,level%1:26:01::
+#7 approach NOUN approach%1:04:02::,approach%1:06:00::
+#10 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#11 snake NOUN snake%1:05:00::
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#18 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+the anaconda reaches a length of at least 37 feet , the reticulate python 33 , the African rock python 25 , the amethystine python at least 22 , the Indian python 20 , and the boa constrictor 18 - 1 2 .
+4
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#4 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#9 foot NOUN foot%1:23:00::
+#13 python NOUN python%1:05:00::
+Bernard Heuvelmans also treats of the largest snakes , but on the third level , and is chiefly concerned with the anaconda .
+5
+#3 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#7 snake NOUN snake%1:05:00::
+#13 level NOUN level%1:26:00::,level%1:26:01::
+#18 concern VERB concern%2:42:00::,concern%2:42:01::
+He reasons that as anacondas 30 feet long are often found , some might be 38 , and occasional " monstrous freaks " over 50 .
+4
+#6 foot NOUN foot%1:23:00::
+#7 long ADJ long%3:00:01::
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#21 freak NOUN freak%1:18:00::
+He rejects dimensions of 70 feet and more .
+2
+#2 dimension NOUN dimension%1:07:00::
+#5 foot NOUN foot%1:23:00::
+His thirteenth chapter includes many exciting accounts of huge serpents with prodigious strength , but these seem to be given to complete his picture , not to be believed .
+9
+#2 chapter NOUN chapter%1:10:00::
+#3 include VERB include%2:42:00::
+#6 account NOUN account%1:10:03::
+#9 serpent NOUN serpent%1:06:00::
+#11 prodigious ADJ prodigious%5:00:00:large:00
+#12 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#21 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#25 not ADV not%4:02:00::
+#28 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+Detailed information on record lengths of the giants is given in the section that follows .
+6
+#1 information NOUN information%1:09:00::,information%1:10:02::
+#4 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#7 giant NOUN giant%1:18:02::
+#9 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#12 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#14 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+Discussions of the giants one by one will include , as far as possible , data on these aspects of growth :
+5
+#3 giant NOUN giant%1:18:02::
+#8 include VERB include%2:42:00::
+#15 data NOUN data%1:14:00::,datum%1:09:00::
+#18 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#20 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+size at which life is started and at which sexual maturity is reached ; time required to reach maturity ; rate of growth both before and after this crucial stage ; and maximum length , with confirmation or amplification of Oliver 's figures .
+10
+#0 size NOUN size%1:07:00::,size%1:07:02::
+#3 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#5 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#12 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#14 time NOUN time%1:28:01::,time%1:28:05::
+#17 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#29 stage NOUN stage%1:04:00::,stage%1:26:00::
+#33 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#36 confirmation NOUN confirmation%1:10:01::
+#42 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+Definite information on the growth of senile individuals is lacking .
+2
+#1 information NOUN information%1:09:00::,information%1:10:02::
+#4 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+At birth , this species varies considerably in size .
+2
+#4 species NOUN species%1:09:00::,species%1:14:00::
+#8 size NOUN size%1:07:00::,size%1:07:02::
+A brood of twenty-eight born at Brookfield Zoo , near Chicago , ranged in length from 22 to 33 - 1 2 inches and averaged 29 inches .
+3
+#12 range VERB range%2:42:00::
+#22 inch NOUN inch%1:23:02::
+#26 inch NOUN inch%1:23:02::
+Lawrence E . Griffin gives measurements of nineteen young anacondas , presumably members of a brood , from " South America " ; the extreme measurements of these fall between the lower limit of the Brookfield brood and its average .
+4
+#4 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#12 member NOUN member%1:18:00::,member%1:24:00::
+#28 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#39 average NOUN average%1:09:01::
+Raymond L . Ditmars had two broods that averaged 27 inches .
+2
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 inch NOUN inch%1:23:02::
+R . R . Mole and F . W . Urich give approximately 20 inches as the average length of a brood of thirty from the region of the Orinoco estuaries .
+3
+#11 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#14 inch NOUN inch%1:23:02::
+#18 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+William Beebe reports 26 inches and 2.4 ounces ( this snake must have been emaciated ) for the length and the weight of a young anaconda from British Guiana .
+6
+#2 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#4 inch NOUN inch%1:23:02::
+#7 ounce NOUN ounce%1:23:01::
+#10 snake NOUN snake%1:05:00::
+#18 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#21 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+In contrast , Ditmars recorded the average length of seventy-two young of a 19 - foot female as 38 inches , and four young were born in London at a length of 35 or 36 inches and a weight of from 14 to 16 ounces .
+8
+#4 record VERB record%2:32:00::,record%2:32:03::
+#7 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#15 foot NOUN foot%1:23:00::
+#19 inch NOUN inch%1:23:02::
+#30 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#35 inch NOUN inch%1:23:02::
+#38 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#44 ounce NOUN ounce%1:23:01::
+Beebe had a 3 - foot anaconda that weighed only 9.8 ounces .
+5
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 foot NOUN foot%1:23:00::
+#8 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 ounce NOUN ounce%1:23:01::
+A difference between subspecies might explain the great range in size .
+3
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#8 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#10 size NOUN size%1:07:00::,size%1:07:02::
+I have little information on the anaconda 's rate of growth .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 information NOUN information%1:09:00::,information%1:10:02::
+Hans Schweizer had one that increased from 19 - 1 2 inches to 5 feet 3 inches in five years , and J . J . Quelch records a growth of from less than 4 feet to nearly 10 in about six years .
+10
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 inch NOUN inch%1:23:02::
+#14 foot NOUN foot%1:23:00::
+#16 inch NOUN inch%1:23:02::
+#19 year NOUN year%1:28:00::,year%1:28:01::
+#27 record VERB record%2:32:00::,record%2:32:03::
+#29 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#35 foot NOUN foot%1:23:00::
+#37 nearly ADV nearly%4:02:00::
+#42 year NOUN year%1:28:00::,year%1:28:01::
+It is very unlikely that either of these anacondas was growing at a normal rate .
+3
+#10 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#13 normal ADJ normal%3:00:01::,normal%3:00:03::
+#14 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+In 1948 , Afranio do Amaral , the noted Brazilian herpetologist , wrote a technical paper on the giant snakes .
+4
+#12 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#14 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#15 paper NOUN paper%1:10:00::
+#19 snake NOUN snake%1:05:00::
+He concluded that the anaconda 's maximum length is 12 or 13 ( perhaps 14 ) meters , which would approximate from 39 to 42 feet ( 14 meters is slightly less that 46 feet ) .
+7
+#1 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#7 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#16 meter NOUN m%1:23:00::
+#25 foot NOUN foot%1:23:00::
+#28 meter NOUN m%1:23:00::
+#30 slightly ADV slightly%4:02:01::
+#34 foot NOUN foot%1:23:00::
+Thus , his estimate lies between Oliver 's suggestion of at least 37 feet and the 50 - foot " monstrous freaks " intimated by Heuvelmans .
+5
+#0 thus ADV thus%4:02:00::
+#4 lie VERB lie%2:42:03::
+#13 foot NOUN foot%1:23:00::
+#18 foot NOUN foot%1:23:00::
+#21 freak NOUN freak%1:18:00::
+The most convincing recent measurement of an anaconda was made in eastern Colombia by Roberto Lamon , a petroleum geologist of the Richmond Oil Company , and reported in 1944 by Emmett R . Dunn .
+5
+#1 most ADV most%4:02:00::
+#3 recent ADJ recent%5:00:00:past:00
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 eastern ADJ eastern%5:00:02:east:00
+#27 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+However , as a field measurement , it is open to question .
+1
+#0 however ADV however%4:02:04::
+Oliver 's 37 - 1 2 feet is partly based on this report and can be accepted as probable .
+3
+#6 foot NOUN foot%1:23:00::
+#12 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#16 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+However , many herpetologists remain skeptical and would prefer a tentative maximum of about 30 feet .
+4
+#0 however ADV however%4:02:04::
+#5 skeptical ADJ sceptical%5:00:00:distrustful:00
+#8 prefer VERB prefer%2:31:00::
+#15 foot NOUN foot%1:23:00::
+It is possible that especially large anacondas will prove to belong to subspecies limited to a small area .
+3
+#5 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#17 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+In snakes difference in size is a common characteristic of subspecies .
+4
+#1 snake NOUN snake%1:05:00::
+#4 size NOUN size%1:07:00::,size%1:07:02::
+#7 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#8 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+A Colombian female 's brood of sixteen boa constrictors born in the Staten Island Zoo averaged 20 inches .
+1
+#17 inch NOUN inch%1:23:02::
+This birth length seems to be typical .
+1
+#2 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+When some thirteen records of newly and recently born individuals are collated , little or no correlation between length and distribution can be detected .
+4
+#3 record NOUN record%1:10:03::,record%1:21:00::
+#5 newly ADV newly%4:02:00::
+#11 collate VERB collate%2:35:00::
+#18 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+The range is from 14 to 25 inches ; the former figure is based on a somewhat unusual birth of four by a Central American female ( see chapter on Laying , Brooding , Hatching , and Birth ) , the latter on a " normal " newly born individual .
+10
+#1 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#7 inch NOUN inch%1:23:02::
+#10 former ADJ former%3:00:00::
+#11 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#28 chapter NOUN chapter%1:10:00::
+#30 lay NOUN lay%1:10:00::
+#34 hatch VERB hatch%2:29:01::
+#41 latter ADJ latter%3:00:00::
+#45 normal ADJ normal%3:00:01::,normal%3:00:03::
+#47 newly ADV newly%4:02:00::
+However , as so many of the records are not certainly based on newborn snakes , these data must be taken tentatively ; final conclusions will have to await the measurements of broods from definite localities .
+7
+#0 however ADV however%4:02:04::
+#3 so ADV so%4:02:03::,so%4:02:07::
+#7 record NOUN record%1:10:03::,record%1:21:00::
+#14 snake NOUN snake%1:05:00::
+#17 data NOUN data%1:14:00::,datum%1:09:00::
+#20 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#24 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+Alphonse R . Hoge 's measurements of several very young specimens from Brazil suggest that at birth the female is slightly larger than the male .
+2
+#20 slightly ADV slightly%4:02:01::
+#21 large ADJ large%3:00:00::,large%5:00:00:significant:00
+I have surprisingly little information on the size and age at maturity .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 information NOUN information%1:09:00::,information%1:10:02::
+#7 size NOUN size%1:07:00::,size%1:07:02::
+#9 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+Carl Kauffeld has written to me of sexual activity in February 1943 of young born in March 1940 .
+1
+#3 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+One female , collected on an island off the coast of Nicaragua , was gravid and measured 4 feet 8 inches from snout to vent ( her tail should be between 6 and 7 inches long ) .
+11
+#3 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#6 island NOUN island%1:06:00::
+#14 gravid ADJ gravid%5:00:00:pregnant:00
+#16 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#18 foot NOUN foot%1:23:00::
+#20 inch NOUN inch%1:23:02::
+#22 snout NOUN snout%1:08:01::
+#24 vent NOUN vent%1:06:00::
+#27 tail NOUN tail%1:25:00::
+#34 inch NOUN inch%1:23:02::
+#35 long ADJ long%3:00:01::
+The female from Central America which gave birth to four was only 3 feet 11 inches long .
+4
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 foot NOUN foot%1:23:00::
+#15 inch NOUN inch%1:23:02::
+#16 long ADJ long%3:00:01::
+What data there are on growth indicate considerable variation in rate ; unfortunately , no one has kept complete records of one individual , whereas many have been made for a very short period of time .
+8
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#5 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#8 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#10 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#18 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#19 record NOUN record%1:10:03::,record%1:21:00::
+#28 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+The results are too varied to allow generalization .
+2
+#3 too ADV too%4:02:00::
+#6 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::

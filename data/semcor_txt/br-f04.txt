@@ -1,0 +1,316 @@
+So wrote a ten year old student in a letter to his parents from North Country School , Lake Placid , New York .
+1
+#1 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+Because the food is selected with thought for its nutritional value , care for its origin , and prepared in a manner that retains the most nutrients , the food does taste good .
+1
+#18 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+When served in a psychological atmosphere that allows young bodies to assimilate the greatest good from what they eat because they are free from tension , a foundation is laid for a high level of health that releases the children from physical handicaps to participate with enjoyment in the work assignments , the athletic programs and the most important phase , the educational opportunities .
+6
+#1 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#7 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#11 assimilate VERB assimilate%2:31:00::
+#29 lay VERB lay%2:35:00::,lay%2:36:00::
+#37 release VERB release%2:35:00::,release%2:41:00::
+#44 participate VERB participate%2:33:00::
+From fourteen states and three foreign countries they come to spend the months from mid-September to June .
+1
+#8 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+The Director , Walter E. Clark , believes that a school with children living full time in its care must take full responsibility for their welfare .
+3
+#7 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#13 live VERB live%2:42:08::
+#20 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+To him this means caring for the whole child , providing basic nutrition , and a spiritual attitude that lends freedom for the development of the mind .
+4
+#3 mean VERB mean%2:31:05::,mean%2:42:00::
+#4 care VERB care%2:37:00::,care%2:37:12::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+#19 lend VERB lend%2:40:01::
+The concept of good nutrition really began with the garden .
+1
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+In a climate hostile to agriculture , Mr. Clark has had to keep alert to the most productive farm techniques .
+1
+#12 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Where a growing season may , with luck , allow 60 days without frost , and where the soil is poor , sandy , quick-drying and subject to erosion , many farmers fail .
+2
+#9 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#32 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+Throughout the Adirondack region abandoned farm homes and wild orchards bear ghostly testimony that their owners met defeat .
+1
+#16 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Mr. Clark found that orthodox procedures of deep plowing , use of chemical fertilizers and insecticides , plus the application of conservation principles of rotation and contouring , did not prevent sheet erosion in the potato fields and depreciation of the soil .
+2
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#30 prevent VERB prevent%2:41:00::
+" To give up these notions required a revolution in thought " , Mr. Clark said in reminiscing about the abrupt changes in ideas he experienced when he began reading " Organic Gardening " and " Modern Nutrition " in a search for help with his problems .
+3
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#29 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+" Louis Bromfield 's writings excited me as a conservationist " .
+1
+#5 excite VERB excite%2:39:00::
+He locked his equipment in a cabinet where it still remains .
+1
+#1 lock VERB lock%2:35:00::,lock%2:35:02::,lock%2:35:03::
+After reading " Plowman 's Folly " by Edward H. Faulkner , he stopped plowing .
+3
+#1 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#13 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#14 plow VERB plough%2:36:00::
+The basis for compost materials already existed on the school farm with a stable of animals for the riding program , poultry for eggs , pigs to eat garbage , a beef herd and wastes of all kinds .
+1
+#6 exist VERB exist%2:42:00::
+Separate pails were kept in the kitchen for coffee grounds and egg shells .
+1
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+It was applied with a compost shredder made from a converted manure spreader .
+2
+#2 apply VERB apply%2:40:00::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Years of patient application of compost and leaf mulching has changed the structure of the soil and its water-holding capacity .
+1
+#10 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Soon after the method changed , visitors began asking how he managed to irrigate his soil to keep it looking moist , when in reality , it was the soil treatment alone that accomplished this .
+6
+#4 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#17 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#19 look VERB look%2:39:01::,look%2:42:02::
+To demonstrate the soil of his vegetable gardens as it is today , Mr. Clark stooped to scoop up a handful of rich dark earth .
+2
+#1 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#15 stoop VERB stoop%2:35:02::
+Sniffing its sweet smell and letting it fall to show its good crumbly consistency , he pointed to the nearby driveway and said , " This soil used to be like that hard packed road over there " .
+5
+#5 let VERB let%2:30:01::,let%2:41:00::
+#7 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#9 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#16 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" People and soils respond slowly " , says Walter Clark , " but the time has now come when the gardens produce delicious long-keeping vegetables due to this enrichment program .
+3
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#22 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+No chemical fertilizers and poisonous insecticides and fungicides are used " .
+1
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The carrots sometimes do n't make it through the winter ; the cabbage and squash keep until March or April .
+1
+#15 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Mr. Clark still has to use rotenone with potatoes grown on the least fertile fields , but he has watched the insect damage decrease steadily and hopes that continued use of compost and leaf mulch will allow him to do without it in the future .
+4
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#19 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#36 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+" After the soil , the kitchen " , says Mr. Clark .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The first major change was that of providing wholewheat bread instead of white bread .
+1
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+" Adults take a long time to convince and you are thwarted if you try to push " .
+2
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 push VERB push%2:32:00::,push%2:40:00::,push%2:41:10::
+At first the kitchen help was tolerant , but ordered their own supply of white bread for themselves .
+1
+#9 order VERB order%2:32:00::
+" You can n't make French toast with whole-wheat bread " , was an early complaint .
+1
+#4 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Of course they learned in time that they not only could use whole-wheat bread , but the children liked it better .
+2
+#3 learn VERB learn%2:31:01::,learn%2:31:03::
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Mrs. Clark , as house manager , planned the menus and cared for the ordering .
+1
+#11 care VERB care%2:37:00::,care%2:37:12::
+Then Miss Lillian Colman came from Vermont to be kitchen manager .
+1
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Today whole grains are freshly ground every day and baked into bread .
+2
+#5 grind VERB grind%2:30:00::
+#9 bake VERB bake%2:42:00::
+Once the grains are ground , vitamin E begins to deteriorate immediately and half of it is lost by oxidation and exposure to the air within one week .
+3
+#4 grind VERB grind%2:30:00::
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#17 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+A mill stands in a room off the kitchen .
+1
+#2 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+Surrounding it are metal cans of grains ordered from organic farms in the state .
+1
+#7 order VERB order%2:32:00::
+The bread baked from this mixture is light in color and fragrant in aroma .
+1
+#2 bake VERB bake%2:42:00::
+" Lillian 's bread is so good and everything tastes so much better here that it is hard not to eat too much " , said the secretary ruefully eyeing her extra pounds .
+1
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The school has not used cold prepared cereals for years , though at one time that was all they ever served .
+2
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#20 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+When the chance came , they first eliminated cold cereal once a week , then gradually converted to hot fresh-ground cereal every day .
+2
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#16 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+They serve cracked wheat , oats or cornmeal .
+1
+#1 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Occasionally , the children find steamed , whole-wheat grains for cereal which they call " buckshot " .
+2
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#13 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+When they leave for vacations they miss the hot cereal .
+2
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 miss VERB miss%2:37:00::,miss%2:38:00::
+The school has received letters from parents asking , " What happened to Johnny ?
+3
+#3 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 happen VERB happen%2:30:02::,happen%2:41:00::
+He never used to like any hot cereal , now that 's the only kind he wants .
+1
+#16 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Where can we get this cereal he likes so much " ?
+1
+#3 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Salads are served at least once a day .
+1
+#2 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Vegetables are served liberally .
+1
+#2 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Home-made sauerkraut is served once a week .
+1
+#3 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Sprouted grains and seeds are used in salads and dishes such as chop suey .
+1
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Sometimes sprouted wheat is added to bread and causes the children to remark , " Lillian , did you put nuts in the bread today " ?
+2
+#12 remark VERB remark%2:32:01::
+#19 put VERB put%2:35:00::,put%2:35:05::
+Milk appears twice a day .
+1
+#1 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+The school raises enough poultry , pigs , and beef cattle for most of their needs .
+1
+#2 raise VERB raise%2:36:03::
+Lots of cheese made from June grass milk is served .
+2
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#9 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Hens are kept on the range and roosters are kept with them for their fertility .
+2
+#2 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#9 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+Organ meats such as beef and chicken liver , tongue and heart are planned once a week .
+1
+#13 plan VERB plan%2:31:00::,plan%2:31:01::
+For deserts , puddings and pies are each served once a week .
+1
+#8 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Dried fruits are purchased from sources where they are neither sulphured nor sprayed .
+1
+#3 purchase VERB purchase%2:40:00::
+Oranges and grapefruit are shipped from Florida weekly from an organic farm .
+1
+#4 ship VERB ship%2:38:03::
+Finding sources for these high quality foods is a problem .
+1
+#0 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Following a talk by Mr. Clark at the New York State Natural Food Associates Convention , a man from the audience offered to ship his unsprayed apples to the school from Vermont .
+1
+#23 ship VERB ship%2:38:03::
+Wheat-germ , brewer 's yeast and ground kelp are used in bread and in dishes such as spaghetti sauce , meat loaves .
+1
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Miss Colman hopes to find suitable shakers so that kelp can be available at the tables .
+1
+#4 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Raw wheat-germ is available on the breakfast table for the children to help themselves .
+1
+#12 help VERB help%2:34:00::,help%2:34:04::
+Very few fried foods are used and the use of salt and pepper is discouraged .
+1
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Drinking with meals is also discouraged ; pitchers of water merely appear on the tables .
+1
+#11 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Nothing is peeled .
+1
+#2 peel VERB peel%2:35:00::
+The source is known so there is no necessity to remove insecticide residues .
+2
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+The cooking conserves a maximum of the vitamin C content of vegetables by methods which use very little water and cook in the shortest time possible .
+2
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#20 cook VERB cook%2:30:00::,cook%2:30:03::
+Since Mr. Clark believes firmly that the chewing of hard foods helps develop healthy gums and teeth , raw vegetables and raw whole-wheat grains are handed out with fresh fruit and whole-wheat cookies at snack time in the afternoons .
+3
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#11 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#12 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+To solve the problem of the wheat grains spilling on the floor and getting underfoot , a ball of maple syrup boiled to candy consistency was invented to hold the grains .
+2
+#13 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#28 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+On their frequent hikes into the nearby mountains , the children carry whole grains to munch along the trail .
+1
+#11 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+They learn to like these so well that it is n't surprising to hear that one boy tried the oats he was feeding his horse at chore time .
+3
+#1 learn VERB learn%2:31:01::,learn%2:31:03::
+#17 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#22 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+Maple syrup is made by the children in the woods on the school grounds .
+1
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+This and raw sugar replace ordinary refined sugar on the tables and very little sugar is used in cooking .
+2
+#4 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Candy is not allowed .
+1
+#3 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+Parents are asked in the bulletin to send packages of treats consisting of fruit and nuts , but no candy .
+2
+#2 ask VERB ask%2:32:01::,ask%2:32:05::
+#7 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+The school finds that the children are satisfied with smaller amounts of food since all of it is high in quality .
+1
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The cost to feed one person is just under one dollar a day .
+1
+#3 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+Even before he saw the necessity of growing better food and planning good nutrition , Mr. Clark felt the school had a good health program .
+5
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#7 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#11 plan VERB plan%2:31:00::,plan%2:31:01::
+#17 feel VERB feel%2:31:00::,feel%2:39:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+A vigorous program existed in skiing , skating sports and overnight hiking .
+1
+#3 exist VERB exist%2:42:00::
+Since the change to better nutrition , he feels he can report on improvements in health , though he considers the following statements observations and not scientific proof .
+2
+#8 feel VERB feel%2:31:00::,feel%2:39:00::
+#11 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Visitors to the school ask what shampoo they use on the children 's hair to bring out the sheen .
+2
+#4 ask VERB ask%2:32:00::,ask%2:32:04::
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::

@@ -1,0 +1,619 @@
+ Up to date , however , his garden was still more or less of a mess , he had n't even started his workshop and if there was a meadow pond in the neighborhood he had n't found it .
+4
+#4 however ADV however%4:02:04::
+#9 still ADV still%4:02:00::
+#15 mess NOUN mess%1:26:00::
+#23 workshop NOUN workshop%1:06:00::
+It was n't his fault that these things were so .
+2
+#4 fault NOUN fault%1:07:01::
+#7 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+The difficulty was that each day seemed to produce its quota of details which must be cleaned up immediately .
+3
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#8 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#12 detail NOUN detail%1:10:00::,detail%1:24:00::
+As a result , life had become a kind of continuous make-ready .
+2
+#6 become VERB become%2:30:00::,become%2:42:01::
+#10 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+Once he disposed of these items which screamed so harshly for attention , he could undertake the things which really counted .
+4
+#0 once ADV once%4:02:00::
+#8 so ADV so%4:02:03::,so%4:02:07::
+#17 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#19 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+Then , at last , his day would fall into an ordered pattern and he would be free to read , or garden or just wander through the woods in the late afternoon , accompanied by his dogs .
+9
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#8 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#12 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#17 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#19 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#24 just ADV just%4:02:00::,just%4:02:03::
+#28 wood NOUN wood%1:14:00::
+#31 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#37 dog NOUN dog%1:05:00::
+His dogs ?
+1
+#1 dog NOUN dog%1:05:00::
+He had almost forgotten them , although they had played such an important part in his early dreams .
+2
+#13 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#16 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+Then they had always been romping around him on these walks , yelping with delight , dashing off into the bushes on fruitless hunting expeditions , returning to jump up on him triumphantly with muddy paws .
+8
+#0 then ADV then%4:02:01::
+#3 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 dash VERB dash%2:38:00::
+#20 bush NOUN bush%1:20:00::
+#22 fruitless ADJ fruitless%5:00:00:unproductive:00
+#26 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#28 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+#29 up ADV up%4:02:00::,up%4:02:02::
+Dogs did something to one 's ego .
+1
+#0 dog NOUN dog%1:05:00::
+They were constantly assuring you that you were one of the world 's great guys .
+4
+#3 assure VERB assure%2:32:01::,assure%2:32:02::
+#11 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#13 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#14 guy NOUN guy%1:18:00::
+Regardless of how much of a slob you knew yourself to be , you could be certain they would never find out - and even if they did it would make no difference .
+3
+#16 certain ADJ certain%3:00:01::
+#19 never ADV never%4:02:00::
+#30 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Now it became increasingly apparent that there were to be no dogs in the picture .
+3
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 become VERB become%2:30:00::,become%2:42:01::
+#11 dog NOUN dog%1:05:00::
+What in the world were you going to do with a lot of dogs when you left for town on Monday afternoons ?
+2
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#13 dog NOUN dog%1:05:00::
+You certainly could n't take them into the little apartment and if you tried to farm them out for two or three days every week they would become so confused that they would have nervous breakdowns .
+6
+#4 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#13 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#22 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#27 become VERB become%2:30:00::,become%2:42:01::
+#28 so ADV so%4:02:03::,so%4:02:07::
+#33 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Why in the world could n't he live in one place the way everyone else seemed to ?
+4
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#7 live VERB live%2:42:08::
+#10 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#12 way NOUN way%1:04:00::,way%1:09:00::
+It worried him , this inability to get the simplest things done in the course of a day .
+6
+#1 worry VERB worry%2:37:00::,worry%2:37:01::
+#7 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#9 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#17 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+He would wake up in the middle of the night and fret about it .
+1
+#11 fret VERB fret%2:37:03::
+How in the world had he formerly found time to build up a business , raise a family , be on half a dozen boards , work actively on committees and either go out in the evening or plow through the contents of a bulging brief case ?
+10
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#13 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#15 raise VERB raise%2:36:03::
+#17 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#24 board NOUN board%1:14:00::
+#26 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#29 committee NOUN committee%1:14:00::
+#36 evening NOUN evening%1:28:00::,evening%1:28:02::
+#38 plow VERB plough%2:38:00::
+#41 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+Was it possible that as people grow older the nature of time changed ?
+6
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#6 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#7 old ADJ old%3:00:01::,old%3:00:02::
+#9 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#11 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#12 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Could it be that it speeded up for the aged in some mysterious way , as if a bored universe were skipping through the end of the chapter just to get it over with ?
+8
+#9 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#12 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#13 way NOUN way%1:04:00::,way%1:09:00::
+#18 bored ADJ bored%5:00:00:uninterested:00
+#21 skip VERB skip%2:38:00::
+#24 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#27 chapter NOUN chapter%1:10:00::
+#28 just ADV just%4:02:00::,just%4:02:03::
+Or was the answer less metaphysical ?
+2
+#4 less ADV less%4:02:00::,less%4:02:01::
+#5 metaphysical ADJ metaphysical%3:01:00::
+Did older people work more slowly ?
+4
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#2 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#4 more ADV more%4:02:00::,more%4:02:01::
+Did it take a man of sixty-five longer to write a letter , shave , clean out a barn , read a newspaper , than a man of thirty ?
+8
+#2 take VERB take%2:40:06::,take%2:42:03::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#11 letter NOUN letter%1:10:00::
+#13 shave VERB shave%2:29:00::
+#18 barn NOUN barn%1:06:00::
+#20 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#26 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Did men become perfectionists as they grew older , polishing , polishing , reluctant to let go ?
+3
+#2 become VERB become%2:30:00::,become%2:42:01::
+#6 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#7 old ADJ old%3:00:01::,old%3:00:02::
+It might be that certain people were born with a compulsion to complicate their lives , while others could live blissfully motionless almost indefinitely , like lizards in the sun , too indolent to blink their eyes .
+8
+#4 certain ADJ certain%5:00:00:definite:00
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#10 compulsion NOUN compulsion%1:16:01::
+#19 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#29 sun NOUN sun%1:18:00::,sun%1:19:00::
+#32 indolent ADJ indolent%5:00:00:idle:00
+#34 blink VERB blink%2:29:00::
+#36 eye NOUN eye%1:08:00::,eye%1:09:01::
+Perhaps it was his misfortune , or good fortune , whichever way one looked at it , to belong to the former group , and he was struggling unconsciously to build up pressure in a world which demanded none , which was positively antagonistic to it .
+3
+#11 way NOUN way%1:04:00::,way%1:09:00::
+#21 former ADJ former%3:00:00::
+#32 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+And then again perhaps the reason why he could n't find time to do any of the things he had planned to do after retirement : reading , roaming , gardening , lying on his back and watching the clouds go by , was because he did n't want to do them .
+10
+#5 reason NOUN reason%1:09:01::,reason%1:16:00::
+#17 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#20 plan VERB plan%2:31:00::,plan%2:31:01::
+#24 retirement NOUN retirement%1:04:00::
+#26 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#32 lie VERB lie%2:35:00::,lie%2:38:00::
+#35 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#37 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#39 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#48 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+There was no compulsion behind them .
+1
+#3 compulsion NOUN compulsion%1:16:00::
+They could be done or left undone and nobody really gave a damn .
+2
+#6 undone ADJ undone%5:00:00:unfinished:01
+#9 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+During all his busy life he had only done things which had to be done .
+2
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+This habit had become so fixed over the years that it seemed futile to do anything for which no one was waiting .
+5
+#1 habit NOUN habit%1:04:02::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#5 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#21 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+He looked at the luminous dial of his wrist watch .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+It was five minutes after four .
+1
+#3 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+On some distant farm a rooster crowed and , far down the valley , an associate answered .
+3
+#2 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#9 far ADV far%4:02:00::
+#15 associate NOUN associate%1:18:00::
+He turned over impatiently and pulled the sheet over his head against the treacherous encroachment of the dawn .
+4
+#5 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#7 sheet NOUN sheet%1:06:03::,sheet%1:10:00::
+#10 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#14 encroachment NOUN encroachment%1:04:00::
+At least he could buy the equipment for his workshop .
+2
+#4 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#9 workshop NOUN workshop%1:06:00::
+Thus committed , action might follow .
+3
+#0 thus ADV thus%4:02:01::
+#3 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#5 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+He went down to Mills and Bradley 's Hardware Store and bought a full set of carpenter 's tools , including a rotary power saw and several other pieces of power machinery that Mr. Mills said were essential for babbiting and doweling , whatever they were .
+8
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#11 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#13 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#14 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#18 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#20 include VERB include%2:42:00::
+#35 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+He also bought a huge square of pegboard for hanging up his tools , and lumber for his workbench , sandpaper and glue and assorted nails , levels and T squares and plumb lines and several gadgets that he had no idea how to use or what they were for .
+9
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#5 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#12 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#15 lumber NOUN lumber%1:27:00::
+#25 nail NOUN nail%1:06:00::
+#27 level NOUN level%1:06:00::
+#39 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#41 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#44 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+" There " , said Mr. Mills .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Add things as you find you need ' em " .
+2
+#1 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#6 need VERB need%2:42:00::
+He did n't even ask the cost of this collection .
+2
+#4 ask VERB ask%2:32:00::,ask%2:32:04::
+#9 collection NOUN collection%1:14:00::
+After all , if you were going to set up a workshop you had to have the proper equipment and that was that .
+3
+#11 workshop NOUN workshop%1:06:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+When he returned home , the station wagon loaded with tools , Jinny had gone with a friend to some meeting in the village , using the recently purchased second car .
+9
+#2 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#8 loaded ADJ loaded%5:00:00:rich:00
+#10 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#14 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#17 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#20 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#25 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#28 purchase VERB purchase%2:40:00::
+#29 second ADJ second%1:06:01::,second%3:00:00::,second%5:00:00:ordinal:00
+It gave him a chance to unload the stuff and get it down to the cellar without a barrage of acid comments .
+4
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#6 unload VERB unload%2:35:00::
+#8 stuff NOUN stuff%1:07:00::
+#20 acid ADJ acid%5:00:00:unpleasant:00
+He had made such a fuss about buying that second car that he knew he was vulnerable .
+3
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#9 second ADJ second%1:06:01::,second%3:00:00::,second%5:00:00:ordinal:00
+He piled everything neatly in a corner of the cellar and turned to stare at the blank stone wall .
+5
+#1 pile VERB pile%2:35:00::
+#6 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#11 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#16 blank ADJ blank%5:00:00:empty:00
+#17 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+That was where the pegboard would go on which he would hang his hand tools .
+1
+#11 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+The old nightmare which had caused him so many wakeful hours came charging in on him once more , only this time he could n't pacify it with a sleeping pill and send it away .
+8
+#1 old ADJ old%3:00:01::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#10 hour NOUN hour%1:07:00::,hours%1:28:01::
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#19 only CONJ only%4:02:04::
+#21 time NOUN time%1:11:00::
+#32 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#34 away ADV away%4:02:04::
+How in the world did one attach a pegboard to a stone wall ?
+3
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#6 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#11 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+How did one attach anything to a stone wall , for that matter ?
+2
+#3 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#7 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+After the pegboard there would be the paneling .
+1
+#7 panel NOUN panel%1:06:00::
+He sat down on an old box and focused on the problem .
+3
+#5 old ADJ old%3:00:01::,old%3:00:02::
+#6 box NOUN box%1:06:00::,box%1:06:03::,box%1:23:00::,box%1:23:00::;1:06:00::
+#11 problem NOUN problem%1:09:00::,problem%1:26:00::
+Perhaps one bored holes in the stone with some kind of an electric gadget .
+4
+#2 bore VERB bore%2:35:00::
+#3 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#6 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#12 electric ADJ electric%3:01:00::
+But then , when you stuck things into the holes , why did n't they come right out again ?
+5
+#1 then ADV then%4:02:02::
+#5 stick VERB stick%2:36:03::
+#6 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#9 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#16 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+It all seemed rather hopeless .
+1
+#3 rather ADV rather%4:02:00::,rather%4:02:04::
+He turned his attention to the workbench .
+1
+#3 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+Perhaps that was the first thing to do .
+2
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+A workbench had a heavy top and sturdy legs , but how did you attach sturdy legs to a heavy top so that the whole thing did n't wobble like a newborn calf and ultimately collapse when you leaned on it ?
+9
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#5 top NOUN top%1:06:00::,top%1:06:01::,top%1:06:04::,top%1:15:00::
+#14 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#19 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#20 top NOUN top%1:06:00::,top%1:06:01::,top%1:06:04::,top%1:15:00::
+#21 so CONJ so%4:02:10::
+#32 calf NOUN calf%1:05:00::
+#35 collapse VERB collapse%2:38:02::
+Mr. Mills had done some figuring on a scrap of paper and given him the various kinds of boards and two-by-fours which , properly handled , would , he had assured him , turn into a workbench .
+8
+#5 figure VERB figure%2:31:01::
+#8 scrap NOUN scrap%1:06:00::
+#10 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#12 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#18 board NOUN board%1:06:00::,board%1:27:00::
+#23 properly ADV properly%4:02:00::
+#24 handle VERB handle%2:35:00::,handle%2:41:00::,handle%2:41:03::
+#30 assure VERB assure%2:32:01::,assure%2:32:02::
+They lay on the cellar floor in a disorderly pile .
+2
+#5 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#9 pile NOUN pile%1:14:00::
+How could anyone know what to do with an assortment like that ?
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Perhaps he had better have someone help him put up the pegboard and build the workbench - someone who knew what he was about .
+3
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#6 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#19 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Then at least he would have a place to hang his tools and something to work on .
+6
+#0 then ADV then%4:02:02::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#9 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#11 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#15 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+After that everything should be simpler .
+1
+#5 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+He went upstairs to phone Crumb .
+1
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+To his amazement he reached him .
+1
+#4 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Mr. Crumb was laid up with a bad cold .
+2
+#7 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#8 cold NOUN cold%1:26:00::
+He did n't seem to think that attaching a pegboard to a stone wall was much of a problem and he tossed off the building of the worktable equally lightly .
+4
+#5 think VERB think%2:31:01::,think%2:31:03::
+#7 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#12 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#18 problem NOUN problem%1:09:00::,problem%1:26:00::
+The only trouble was that he himself was tied up on the school job .
+3
+#2 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#12 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#13 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+That was why he had n't been able to finish the porch .
+2
+#7 able ADJ able%3:00:00::
+#9 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+Carpenters all wanted steady work and at the moment every mother's son for twenty miles around that could hammer nails for twenty-five dollars a day was working on the school job .
+9
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 steady ADJ steady%3:00:00::
+#4 work NOUN work%1:06:01::
+#8 moment NOUN moment%1:28:00::,moment%1:28:01::
+#18 hammer VERB hammer%2:35:00::
+#19 nail NOUN nail%1:06:00::
+#24 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#29 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#30 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+There was a fellow named Blatz over Smithtown way .
+2
+#3 fellow NOUN fellow%1:18:00::
+#8 way NOUN way%1:15:00::
+Nobody liked to hire him because you never could tell when he was going to be taken drunk .
+5
+#1 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#3 hire VERB hire%2:41:00::
+#7 never ADV never%4:02:00::
+#9 tell VERB tell%2:31:00::,tell%2:31:01::
+#16 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Mr. Crumb would probably see him at Lodge Meeting the next night .
+2
+#4 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#8 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+If he was sober , which was doubtful , he 'd have him get in touch with Mr. Crombie .
+2
+#7 doubtful ADJ doubtful%5:00:00:unsettled:02
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Mr. Blatz had been at least sober enough to remember to telephone and he turned out to be the greatest boon that had come into Mr. Crombie 's life since he moved to Highfield , in spite of the fact that he did n't work very fast or very long at a time , and he did n't like to work at all unless Mr. Crombie hung around and talked to him .
+6
+#20 boon NOUN boon%1:26:00::
+#23 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#31 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#44 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#46 fast ADV fast%4:02:01::
+#60 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+He said he was the lonely type and working in a cellar you saw funny things coming out of the cracks in the wall if they was n't nobody with you .
+6
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 type NOUN type%1:18:00::
+#8 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#14 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#16 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#20 crack NOUN crack%1:25:00::
+So Mr. Crombie sat on a wooden box and talked in order to keep Mr. Blatz 's mind from funny things .
+5
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#6 wooden ADJ wooden%5:00:00:woody:00
+#7 box NOUN box%1:06:00::,box%1:06:03::,box%1:23:00::,box%1:23:00::;1:06:00::
+#13 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#19 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+At the same time he watched carefully to see how one attached pegboards to stone walls , but Mr. Blatz was usually standing in his line of vision and it all seemed so simple that he did n't like to disclose his ignorance .
+6
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#14 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#22 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#32 so ADV so%4:02:03::,so%4:02:07::
+#33 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+While Mr. Blatz was putting up the pegboards and starting the workbench , Mr. Crombie told him of this idea about paneling the whole end of the cellar .
+4
+#15 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#23 whole ADJ whole%3:00:00::
+#24 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+Mr. Blatz agreed that this would be pretty .
+1
+#2 agree VERB agree%2:32:00::,agree%2:32:01::
+Without further discussion he appeared the next morning with a pile of boards sticking over the end of his light truck and proceeded with the paneling , which he then stained and waxed according to his taste .
+13
+#1 further ADJ further%5:00:00:far:00
+#4 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+#10 pile NOUN pile%1:14:00::
+#12 board NOUN board%1:06:00::,board%1:27:00::
+#16 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#19 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#20 truck NOUN truck%1:06:00::,truck%1:06:01::
+#25 panel NOUN panel%1:06:00::
+#29 then ADV then%4:02:01::
+#30 stain VERB stain%2:30:01::
+#32 wax VERB wax%2:35:00::
+#36 taste NOUN taste%1:09:01::,taste%1:12:02::
+" Now " , he said , " we got to put in some outlets for them power tools ; then a couple of fluorescent lamps over the workbench an ' I guess we 're about through down here " .
+5
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 outlet NOUN outlet%1:06:00::
+#20 then ADV then%4:02:00::
+#37 down ADV down%4:02:00::,down%4:02:02::
+#38 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+It all did look very efficient and shipshape .
+1
+#3 look VERB look%2:39:01::,look%2:42:02::
+" By the way " , said Mr. Blatz , packing his tools into a battered carrier , " them power tools needs extra voltage .
+6
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+#12 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#15 battered ADJ battered%5:00:00:damaged:00
+#16 carrier NOUN carrier%1:18:03::
+#22 need VERB need%2:42:00::
+Before you use ' em the light company 's got to run in a heavy line and you 'll need a new fuse box for the extra circuits .
+11
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#7 company NOUN company%1:14:03::
+#11 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#12 in ADV in%4:02:01::
+#14 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#15 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#19 need VERB need%2:42:00::
+#21 new ADJ new%3:00:00::
+#22 fuse NOUN fuse%1:06:01::
+#27 circuit NOUN circuit%1:06:00::
+That ai n't too bad ' ceptin ' the light company 's so busy you can n't ever get ' em to do nothin " ' .
+5
+#3 too ADV too%4:02:00::
+#4 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#12 so ADV so%4:02:03::,so%4:02:07::
+#17 ever ADV ever%4:02:05::
+#18 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+Instead of being depressed by this news , Mr. Crombie was actually relieved .
+2
+#3 depress VERB depress%2:37:00::
+#11 actually ADV actually%4:02:01::
+At least the moment was postponed when he had to face the mystery of the power tools .
+3
+#3 moment NOUN moment%1:28:00::,moment%1:28:01::
+#10 face VERB face%2:32:00::,face%2:32:03::
+#12 mystery NOUN mystery%1:09:00::
+He followed Mr. Blatz up the cellar stairs .
+1
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+As usual , Mrs. Crombie was standing in the midst of a confusion of cooking utensils .
+2
+#6 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#12 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+Mr. Blatz sat down in the only unoccupied kitchen chair .
+3
+#7 unoccupied ADJ unoccupied%5:00:00:uninhabited:00
+#8 kitchen NOUN kitchen%1:06:00::
+#9 chair NOUN chair%1:06:00::,chair%1:06:01::
+" Well " , he said , " got your man fixed up nice down there .
+4
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 down ADV down%4:02:00::,down%4:02:02::
+He oughta be able to build a new house with all them contraptions " .
+3
+#3 able ADJ able%3:00:00::
+#7 new ADJ new%3:00:00::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+Mr. Crombie watched his wife with an anxious expression .
+3
+#2 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#7 anxious ADJ anxious%5:00:00:troubled:00
+#8 expression NOUN expression%1:07:00::
+" I was just sayin ' to him that I 'm all ready now for anything else you want done " .
+4
+#3 just ADV just%4:02:05::
+#12 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#13 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#18 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Mr. Crombie could n't remember his saying any such thing .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+" I have a thousand things for you to do .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Doors that won n't open , and doors that won n't close and shelves and broken " .
+3
+#4 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#11 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#15 broken ADJ broken%5:00:00:incomplete:00
+" But those are the things I built the workshop for " , protested Mr. Crombie .
+2
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#9 workshop NOUN workshop%1:06:00::
+" Those are the things I can do , now that I 'm set up " .
+2
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+" I 've been waiting to get these things done for months " , she said .
+3
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#8 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" We won n't live long enough if I wait for you , besides which you do n't need to worry - there 'll be plenty more " .
+4
+#4 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#6 enough ADV enough%4:02:00::
+#9 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#20 worry VERB worry%2:37:00::,worry%2:37:01::
+But the discussion was academic .
+1
+#4 academic ADJ academic%5:00:00:theoretical:01
+Mr. Blatz was already taking measurements for a shelf above the kitchen sink .
+1
+#3 already ADV already%4:02:00::

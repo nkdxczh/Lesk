@@ -1,0 +1,530 @@
+ It is worth dwelling in some detail on the crisis of this story , because it brings together a number of characteristic elements and makes of them a curious , riddling compound obscurely but centrally significant for Mann 's work .
+8
+#3 dwell VERB dwell%2:31:00::
+#6 detail NOUN detail%1:10:00::,detail%1:24:00::
+#12 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#19 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#22 element NOUN element%1:06:00::,element%1:09:00::
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#31 compound NOUN compound%1:09:00::
+#39 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+The wife , Amra , and her lover are both savagely portrayed , she as incarnate sensuality , " voluptuous " and " indolent " , possibly " a mischief maker " , with " a kind of luxurious cunning " to set against her apparent simplicity , her " bird like brain " .
+5
+#23 indolent ADJ indolent%5:00:00:idle:00
+#26 possibly ADV possibly%4:02:00::
+#30 maker NOUN maker%1:18:00::
+#42 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#50 bird NOUN bird%1:05:00::
+La^utner , for his part , " belonged to the present-day race of small artists , who do not demand the utmost of themselves " , and the bitter description of the type includes such epithets as " wretched little poseurs " , the devastating indictment " they do not know how to be wretched decently and in order " , and the somewhat extreme prophecy , so far not fulfilled : " They will be destroyed " .
+9
+#4 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#11 race NOUN race%1:14:01::
+#18 not ADV not%4:02:00::
+#29 description NOUN description%1:10:00::,description%1:10:01::
+#32 type NOUN type%1:18:00::
+#33 include VERB include%2:42:00::
+#49 not ADV not%4:02:00::
+#64 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#69 not ADV not%4:02:00::
+The trick these two play upon Jacoby reveals their want not simply of decency but of imagination as well .
+3
+#1 trick NOUN trick%1:04:05::
+#4 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#11 simply ADV simply%4:02:00::,simply%4:02:02::
+His appearance as Lizzy evokes not amusement but horror in the audience ; it is a spectacle absolutely painful , an epiphany of the suffering flesh unredeemed by spirit , untouched by any spirit other than abasement and humiliation .
+7
+#1 appearance NOUN appearance%1:11:00::
+#4 evoke VERB evoke%2:32:01::
+#8 horror NOUN horror%1:12:01::
+#11 audience NOUN audience%1:14:01::
+#28 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#30 untouched ADJ untouched%5:00:00:unaffected:00
+#33 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+At the same time the multiple transvestitism involved - the fat man as girl and as baby , as coquette pretending to be a baby - touches for a moment horrifyingly upon the secret sources of a life like Jacoby 's , upon the sinister dreams which form the sources of any human life .
+9
+#7 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#11 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 baby NOUN baby%1:05:00::
+#19 coquette NOUN coquette%1:18:00::
+#20 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#24 baby NOUN baby%1:05:00::
+#29 moment NOUN moment%1:28:00::,moment%1:28:01::
+#44 sinister ADJ sinister%5:00:00:alarming:00
+#47 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+The music which La^utner has composed for this episode is for the most part " rather pretty and perfectly banal " .
+2
+#5 compose VERB compose%2:36:01::,compose%2:36:09::,compose%2:42:00::
+#15 rather ADV rather%4:02:00::,rather%4:02:04::
+But it is characteristic of him , we are told , " his little artifice " , to be able to introduce " into a fairly vulgar and humorous piece of hackwork a sudden phrase of genuine creative art " .
+4
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 able ADJ able%3:00:00::
+#21 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#25 fairly ADV fairly%4:02:02::
+And this occurs now , at the refrain of Jacoby 's song - at the point , in fact , of the name " Lizzy " - ; a modulation described as " almost a stroke of genius " .
+5
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#15 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#22 name NOUN name%1:14:00::
+#30 describe VERB describe%2:32:01::
+#37 genius NOUN genius%1:09:00::
+" A miracle , a revelation , it was like a curtain suddenly torn away to reveal something nude " .
+1
+#5 revelation NOUN revelation%1:10:02::
+It is this modulation which reveals to Jacoby his own frightful abjection and , simultaneously , his wife 's infidelity .
+2
+#9 own ADJ own%5:00:00:personal:00
+#19 infidelity NOUN infidelity%1:07:00::
+By the same means he perceives this fact as having communicated itself to the audience ; he collapses , and dies .
+6
+#2 same ADJ same%3:00:00::,same%3:00:02::
+#3 means NOUN means%1:06:00::
+#10 communicate VERB communicate%2:32:02::
+#14 audience NOUN audience%1:14:01::
+#17 collapse VERB collapse%2:29:00::
+#20 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+In the work of every artist , I suppose , there may be found one or more moments which strike the student as absolutely decisive , ultimately emblematic of what it is all about ; not less strikingly so for being mysterious , as though some deeply hidden constatation of thoughts were enciphered in a single image , a single moment .
+12
+#2 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#8 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#13 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#17 moment NOUN moment%1:28:00::,moment%1:28:01::
+#19 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+#35 not ADV not%4:02:00::
+#36 less ADV less%4:02:00::,less%4:02:01::
+#41 mysterious ADJ mysterious%5:00:00:esoteric:00
+#50 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#55 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#59 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#60 moment NOUN moment%1:28:00::,moment%1:28:01::
+The horrifying humor , the specifically sexual embarrassment of the joke gone wrong , the monstrous image of the fat man dressed up as a whore dressing up as a baby ; the epiphany of that quivering flesh ; the bringing together around it of the secret liaison between indolent , mindless sensuality and sharp , shrewd talent , cleverness with an occasional touch of genius ( which , however , does not know " how to attack the problem of suffering " ) ; the miraculous way in which music , revelation and death are associated in a single instant - all this seems a triumph of art , a rather desperate art , in itself ; beyond itself , also , it evokes numerous and distant resonances from the entire body of Mann 's work .
+25
+#2 humor NOUN humor%1:07:01::
+#6 sexual ADJ sexual%3:00:00::
+#16 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#20 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#30 baby NOUN baby%1:05:00::
+#47 liaison NOUN liaison%1:10:00::
+#49 indolent ADJ indolent%5:00:00:idle:00
+#54 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+#56 shrewd ADJ shrewd%5:00:00:smart:00
+#57 talent NOUN talent%1:09:00::,talent%1:18:00::
+#63 touch NOUN touch%1:07:01::,touch%1:09:03::,touch%1:23:00::
+#65 genius NOUN genius%1:09:00::
+#69 however ADV however%4:02:04::
+#72 not ADV not%4:02:00::
+#79 problem NOUN problem%1:09:00::,problem%1:26:00::
+#87 way NOUN way%1:04:00::,way%1:09:00::
+#90 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#92 revelation NOUN revelation%1:10:01::
+#99 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#106 triumph NOUN triumph%1:12:00::
+#111 rather ADV rather%4:02:00::,rather%4:02:04::
+#124 evoke VERB evoke%2:32:01::
+#128 resonance NOUN resonance%1:07:00::
+#132 body NOUN body%1:06:00::,body%1:07:01::,body%1:08:01::,body%1:10:00::,body%1:14:02::
+#136 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+When I try to work out my reasons for feeling that this passage is of critical significance , I come up with the following ideas , which I shall express very briefly here and revert to in a later essay .
+9
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 reason NOUN reason%1:09:01::,reason%1:16:00::
+#9 feel VERB feel%2:31:00::,feel%2:39:00::
+#12 passage NOUN passage%1:10:00::,passage%1:10:01::
+#16 significance NOUN significance%1:07:00::
+#23 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#24 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#29 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#39 essay NOUN essay%1:10:00::
+Love is the crucial dilemma of experience for Mann 's heroes .
+1
+#10 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+The dramatic construction of his stories characteristically turns on a situation in which someone is simultaneously compelled and forbidden to love .
+3
+#1 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#5 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#10 situation NOUN situation%1:26:01::
+The release , the freedom , involved in loving another is either terribly difficult or else absolutely impossible ; and the motion toward it brings disaster .
+3
+#1 release NOUN release%1:22:00::
+#12 terribly ADV terribly%4:02:00::
+#21 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+This prohibition on love has an especially poignant relation to art ; it is particularly the artist ( Tonio Kro^ger , Aschenbach , Leverku^hn ) who suffers from it .
+6
+#1 prohibition NOUN prohibition%1:10:02::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 especially ADV especially%4:02:00::
+#8 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#14 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#26 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+The specific analogy to the dilemma of love is the problem of the " breakthrough " in the realm of art .
+2
+#1 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#10 problem NOUN problem%1:09:00::,problem%1:26:00::
+Again , the sufferings and disasters produced by any transgression against the commandment not to love are almost invariably associated in one way or another with childhood , with the figure of a child .
+4
+#6 produce VERB produce%2:39:00::
+#19 associated ADJ associate%5:00:00:subordinate:01
+#22 way NOUN way%1:04:00::,way%1:09:00::
+#30 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+Finally , the theatrical ( and perversely erotic ) notions of dressing up , cosmetics , disguise , and especially change of costume ( or singularity of costume , as with Cipolla ) , are characteristically associated with the catastrophes of Mann 's stories .
+5
+#9 notion NOUN notion%1:09:02::
+#19 especially ADV especially%4:02:00::
+#20 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#25 singularity NOUN singularity%1:07:01::
+#43 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+We shall return to these statements and deal with them more fully as the evidence for them accumulates .
+3
+#2 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#7 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#11 fully ADV fully%4:02:04::
+For the present it is enough to note that in the grotesque figure of Jacoby , at the moment of his collapse , all these elements come together in prophetic parody .
+7
+#2 present NOUN present%1:10:00::,present%1:28:00::
+#7 note VERB note%2:32:00::,note%2:39:00::
+#12 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#18 moment NOUN moment%1:28:00::,moment%1:28:01::
+#25 element NOUN element%1:06:00::,element%1:09:00::
+#27 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#29 prophetic ADJ prophetic%3:00:00::
+Professionally a lawyer , that is to say associated with dignity , reserve , discipline , with much that is essentially middle-class , he is compelled by an impossible love to exhibit himself dressed up , disguised - that is , paradoxically , revealed - as a child , and , worse , as a whore masquerading as a child .
+6
+#8 associated ADJ associate%5:00:00:subordinate:01
+#12 reserve NOUN reserve%1:07:01::
+#14 discipline NOUN discipline%1:09:01::
+#29 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#31 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#51 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+That this abandonment takes place on a stage , during an ' artistic ' performance , is enough to associate Jacoby with art , and to bring down upon him the punishment for art ; that is , he is suspect , guilty , punishable , as is anyone in Mann 's stories who produces illusion , and this is true even though the constant elements of the artist nature , technique , magic , guilt and suffering , are divided in this story between Jacoby and La^utner .
+7
+#7 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#14 performance NOUN performance%1:04:01::,performance%1:10:00::
+#52 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#60 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#65 element NOUN element%1:06:00::,element%1:09:00::
+#69 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#83 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+It appears that the dominant tendency of Mann 's early tales , however pictorial or even picturesque the surface , is already toward the symbolic , the emblematic , the expressionistic .
+7
+#1 appear VERB appear%2:30:00::
+#9 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#10 tale NOUN tale%1:10:00::
+#12 however ADV however%4:02:00::,however%4:02:02::
+#18 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#21 already ADV already%4:02:00::
+#24 symbolic ADJ symbolic%3:01:01::
+In a certain perfectly definite way , the method and the theme of his stories are one and the same .
+2
+#11 theme NOUN theme%1:10:02::
+#14 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+Something of this can be learned from " The Way to the Churchyard " ( 1901 ) , an anecdote about an old failure whose fit of anger at a passing cyclist causes him to die of a stroke or seizure .
+8
+#5 learn VERB learn%2:31:01::,learn%2:31:03::
+#22 old ADJ old%3:00:01::,old%3:00:02::
+#23 failure NOUN failure%1:04:00::,failure%1:18:00::
+#25 fit NOUN fit%1:26:00::
+#30 passing ADJ passing%5:00:00:satisfactory:00
+#35 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#38 stroke NOUN stroke%1:26:00::
+#40 seizure NOUN seizure%1:26:00::
+There is no more " plot " than that ; only slightly more , perhaps , than a newspaper account of such an incident would give .
+5
+#5 plot NOUN plot%1:10:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 slightly ADV slightly%4:02:01::
+#19 account NOUN account%1:10:03::
+#25 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+The artistic interest , then , lies in what the encounter may be made to represent , in the power of some central significance to draw the details into relevance and meaningfulness .
+9
+#2 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#4 then ADV then%4:02:02::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#19 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#22 central ADJ central%5:00:00:important:00
+#23 significance NOUN significance%1:07:00::
+#25 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#27 detail NOUN detail%1:10:00::,detail%1:24:00::
+The first sentence , with its platitudinous irony , announces an emblematic intent : " The way to the churchyard ran along beside the highroad , ran beside it all the way to the end ; that is to say , to the churchyard " .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 sentence NOUN sentence%1:10:00::
+#16 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#26 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#34 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+And the action is consistently presented with regard for this distinction .
+4
+#2 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#5 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#7 regard NOUN regard%1:09:01::
+#10 distinction NOUN distinction%1:09:00::
+The highroad , one might say at first , belongs to life , while the way to the churchyard belongs to death .
+2
+#5 say VERB say%2:32:01::
+#15 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+But that is too simple , and won't hold up .
+2
+#3 too ADV too%4:02:00::
+#4 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+As the first sentence suggests , both roads belong to death in the end .
+3
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#3 sentence NOUN sentence%1:10:00::
+#7 road NOUN road%1:04:00::,road%1:06:00::
+But the highroad , according to the description of its traffic , belongs to life as it is lived in unawareness of death , while the way to the churchyard belongs to some other sort of life :
+6
+#7 description NOUN description%1:10:00::,description%1:10:01::
+#10 traffic NOUN traffic%1:14:00::
+#18 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#26 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#33 other ADJ other%3:00:00::
+#34 sort NOUN sort%1:09:00::,sort%1:18:00::
+Thus , on the highroad , a troop of soldiers " marched in their own dust and sang " , while on the footpath one man walks alone .
+10
+#0 thus ADV thus%4:02:00::
+#7 troop NOUN troop%1:14:00::
+#9 soldier NOUN soldier%1:18:00::
+#11 march VERB march%2:38:00::
+#14 own ADJ own%5:00:00:personal:00
+#15 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#17 sing VERB sing%2:32:08::,sing%2:36:01::
+#25 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#26 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#27 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+This man 's isolation is not merely momentary , it is permanent .
+2
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 not ADV not%4:02:00::
+He is a widower , his three children are dead , he has no one left on earth ; also he is a drunk , and has lost his job on that account .
+7
+#9 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#17 earth NOUN earth%1:15:00::,earth%1:17:01::
+#23 drunk NOUN drunk%1:18:00::
+#27 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#29 job NOUN job%1:04:00::,job%1:06:00::
+His name is Praisegod Piepsam , and he is rather fully described as to his clothing and physiognomy in a way which relates him to a sinister type in the author 's repertory - he is a forerunner of those enigmatic strangers in " Death in Venice " , for example , who represent some combination of cadaver , exotic , and psychopomp .
+10
+#1 name NOUN name%1:14:00::
+#9 rather ADV rather%4:02:00::,rather%4:02:04::
+#10 fully ADV fully%4:02:04::
+#11 describe VERB describe%2:32:01::
+#22 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#26 sinister ADJ sinister%5:00:00:alarming:00
+#27 type NOUN type%1:18:00::
+#32 repertory NOUN repertory%1:14:01::
+#53 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#55 combination NOUN combination%1:04:00::,combination%1:14:00::
+This strange person quarrels with a cyclist because the latter is using the path rather than the highroad .
+4
+#1 strange ADJ strange%3:00:00::
+#2 person NOUN person%1:03:00::,person%1:08:00::
+#9 latter ADJ latter%3:00:00::
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The cyclist , a sufficiently commonplace young fellow , is not named but identified simply as " Life " - that and a license number , which Piepsam uses in addressing him .
+6
+#7 fellow NOUN fellow%1:18:00::
+#10 not ADV not%4:02:00::
+#11 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#14 simply ADV simply%4:02:00::,simply%4:02:02::
+#28 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#30 address VERB address%2:32:00::,address%2:32:02::,address%2:41:08::
+" Life " points out that " everybody uses this path " , and starts to ride on .
+4
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#16 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#17 on ADV on%4:02:00::
+Piepsam tries to stop him by force , receives a push in the chest from " Life " , and is left standing in impotent and growing rage , while a crowd begins to gather .
+9
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 force NOUN force%1:07:00::
+#10 push NOUN push%1:06:00::
+#13 chest NOUN chest%1:08:00::,chest%1:08:01::
+#21 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#22 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#24 impotent ADJ impotent%3:00:02::
+#32 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#34 gather VERB gather%2:30:00::
+His rage assumes a religious form ; that is , on the basis of his own sinfulness and abject wretchedness , Piepsam becomes a prophet who in his ecstasy and in the name of God imprecates doom on Life - not only the cyclist now , but the audience , the world , as well : " all you light-headed breed " .
+11
+#2 assume VERB assume%2:36:00::,assume%2:41:00::
+#5 form NOUN form%1:09:01::,form%1:10:00::
+#15 own ADJ own%5:00:00:personal:00
+#18 abject ADJ abject%5:00:00:hopeless:00
+#22 become VERB become%2:30:00::,become%2:42:01::
+#24 prophet NOUN prophet%1:18:00::
+#28 ecstasy NOUN ecstasy%1:26:00::
+#34 God NOUN god%1:18:00::
+#44 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#48 audience NOUN audience%1:14:01::
+#51 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+This passion brings on a fit which proves fatal .
+3
+#1 passion NOUN passion%1:12:00::
+#5 fit NOUN fit%1:26:00::
+#7 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+Then an ambulance comes along , and they drive Praisegod Piepsam away .
+3
+#0 then ADV then%4:02:00::
+#8 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#11 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+This is simple enough , but several more points of interest may be mentioned as relevant .
+4
+#2 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#3 enough ADV enough%4:02:00::
+#8 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#10 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+The season , between spring and summer , belongs to life in its carefree aspect .
+4
+#4 spring NOUN spring%1:28:00::
+#6 summer NOUN summer%1:28:00::
+#10 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#14 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+Piepsam 's fatal rage arises not only because he cannot stop the cyclist , but also because God will not stop him ; as Piepsam says to the crowd in his last moments : " His justice is not of this world " .
+9
+#4 arise VERB arise%2:30:00::,arise%2:42:01::
+#17 God NOUN god%1:18:00::
+#19 not ADV not%4:02:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#31 last ADJ last%3:00:00::
+#32 moment NOUN moment%1:28:00::,moment%1:28:01::
+#36 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#38 not ADV not%4:02:00::
+#41 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Life is further characterized , in antithesis to Piepsam , as animal : the image of a dog , which appears at several places , is first given as the criterion of amiable , irrelevant interest aroused by life considered simply as a spectacle : a dog in a wagon is " admirable " , " a pleasure to contemplate " ; another wagon has no dog , and therefore is " devoid of interest " .
+14
+#2 further ADV further%4:02:02::,further%4:02:03::
+#14 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#17 dog NOUN dog%1:05:00::
+#20 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#23 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#27 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#35 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#36 arouse VERB arouse%2:29:01::
+#38 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#40 simply ADV simply%4:02:00::,simply%4:02:02::
+#46 dog NOUN dog%1:05:00::
+#64 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#66 dog NOUN dog%1:05:00::
+#74 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+Piepsam calls the cyclist " cur " and " puppy " among other things , and at the crisis of his fit a little fox-terrier stands before him and howls into his face .
+3
+#1 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#32 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+The ambulance is drawn by two " charming " little horses .
+2
+#3 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#10 horse NOUN horse%1:05:00::,horse%1:14:00::
+Piepsam is not , certainly , religious in any conventional sense .
+2
+#2 not ADV not%4:02:00::
+#10 sense NOUN sense%1:10:00::
+His religiousness is intimately , or dialectically , connected with his sinfulness ; the two may in fact be identical .
+1
+#19 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+His unsuccessful strivings to give up drink are represented as religious strivings ; he keeps a bottle in a wardrobe at home , and " before this wardrobe Praisegod Piepsam had before now gone literally on his knees , and in his wrestlings had bitten his tongue - and still in the end capitulated " .
+7
+#14 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#21 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#31 before ADV before%4:02:03::
+#32 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#33 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#44 bite VERB bite%2:35:00::
+#46 tongue NOUN tongue%1:10:00::
+The cyclist , by contrast , blond and blue-eyed , is simply unreflective , unproblematic Life , " blithe and carefree " .
+1
+#11 simply ADV simply%4:02:00::,simply%4:02:02::
+" He made no claims to belong to the great and mighty of this earth " .
+4
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 claim NOUN claim%1:10:02::
+#9 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#14 earth NOUN earth%1:15:00::,earth%1:17:01::
+Piepsam is grotesque , a disturbing parody ; his end is ridiculous and trivial .
+1
+#9 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+He is " a man raving mad on the way to the churchyard " .
+1
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+But he is more interesting than the others , the ones who come from the highroad to watch him , more interesting than Life considered as a cyclist .
+2
+#12 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#17 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+And if I have gone into so much detail about so small a work , that is because it is also so typical a work , representing the germinal form of a conflict which remains essential in Mann 's writing :
+10
+#4 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#8 detail NOUN detail%1:10:00::,detail%1:24:00::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#13 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#21 so ADV so%4:02:03::,so%4:02:07::
+#24 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#26 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#35 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#39 writing NOUN writing%1:10:02::
+the crude sketch of Piepsam contains , in its critical , destructive and self-destructive tendencies , much that is enlarged and illuminated in the figures of , for instance , Naphta and Leverku^hn .
+6
+#1 crude ADJ crude%5:00:01:unskilled:00
+#2 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#5 contain VERB contain%2:42:00::,contain%2:42:06::
+#9 critical ADJ critical%3:00:01::
+#21 illuminate VERB illuminate%2:30:03::
+#24 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+In method as well as in theme this little anecdote with its details selected as much for expressiveness and allegory as for " realism " , anticipates a kind of musical composition , as well as a kind of fictional composition , in which , as Leverku^hn says , " there shall be nothing unthematic " .
+6
+#6 theme NOUN theme%1:10:02::
+#12 detail NOUN detail%1:10:00::,detail%1:24:00::
+#23 realism NOUN realism%1:07:00::
+#26 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+#40 composition NOUN composition%1:10:01::
+#47 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It resembles , too , pictures such as Du^rer and Bruegel did , in which all that looks at first to be solely pictorial proves on inspection to be also literary , the representation of a proverb , for example , or a deadly sin .
+5
+#3 too ADV too%4:02:01::
+#17 look VERB look%2:39:01::,look%2:42:02::
+#24 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#30 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#33 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+" Gladius Dei " ( 1902 ) resembles " The Way to the Churchyard " in its representation of a conflict between light and dark , between " Life " and a spirit of criticism , negation , melancholy , but it goes considerably further in characterizing the elements of this conflict .
+9
+#17 representation NOUN representation%1:04:00::,representation%1:06:00::,representation%1:09:00::
+#24 dark NOUN dark%1:26:00::,dark%1:28:00::
+#32 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#34 criticism NOUN criticism%1:10:00::
+#36 negation NOUN negation%1:10:02::
+#42 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#44 further ADV further%4:02:02::,further%4:02:03::
+#46 characterize VERB characterise%2:32:00::
+#48 element NOUN element%1:06:00::,element%1:09:00::
+The monk Savonarola , brought over from the Renaissance and placed against the background of Munich at the turn of the century , protests against the luxurious works displayed in the art shop of M. Bluthenzweig ; in particular against a Madonna portrayed in a voluptuous style and modeled , according to gossip , upon the painter 's mistress .
+9
+#10 place VERB place%2:31:13::
+#23 protest VERB protest%2:32:00::,protest%2:41:00::
+#27 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#32 shop NOUN shop%1:06:00::
+#38 particular NOUN particular%1:24:00::
+#46 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#48 model VERB model%2:36:02::
+#56 painter NOUN painter%1:18:00::
+#58 mistress NOUN mistress%1:18:01::
+Hieronymus , like Piepsam , makes his protest quite in vain , and his rejection , though not fatal , is ridiculous and humiliating ; he is simply thrown out of the shop by the porter .
+6
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 protest NOUN protest%1:10:00::
+#8 quite ADV quite%4:02:02::
+#17 not ADV not%4:02:00::
+#27 simply ADV simply%4:02:00::,simply%4:02:02::
+#32 shop NOUN shop%1:06:00::
+On the street outside , Hieronymus envisions a holocaust of the vanities of this world , such a burning of artistic and erotic productions as his namesake actually brought to pass in Florence , and prophetically he issues his curse : " Gladius Dei super terram cito et velociter " .
+8
+#8 holocaust NOUN holocaust%1:04:00::
+#14 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#18 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#23 production NOUN production%1:04:00::,production%1:10:00::
+#27 actually ADV actually%4:02:01::
+#30 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#32 Florence NOUN florence%1:15:00::
+#37 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::

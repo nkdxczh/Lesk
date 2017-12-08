@@ -1,0 +1,572 @@
+ In attempting to improve specificity of staining , the fluorescein labeled antisera used in both direct and indirect methods were treated in one of several ways : ( 1 ) They were passed through Dowex-2-chloride twice and treated with acetone insoluble powders ( Coons , 1958 ) prepared from mouse liver or from healthy sweet clover stems or crown gall tissue produced by Agrobacterium tumefaciens ( E. F. Smith + Townsend ) Conn , on sweet clover stems .
+15
+#6 stain NOUN stain%1:27:00::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#17 indirect ADJ indirect%5:00:00:secondary:01
+#20 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#25 way NOUN way%1:04:00::,way%1:09:00::
+#37 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#40 insoluble ADJ insoluble%3:00:01::
+#47 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#49 mouse NOUN mouse%1:05:00::
+#50 liver NOUN liver%1:13:00::
+#56 stem NOUN stem%1:20:00::
+#60 tissue NOUN tissue%1:08:00::
+#61 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#77 stem NOUN stem%1:20:00::
+( 2 ) The conjugates as well as the intermediate sera were absorbed for 30 minutes with 20 - 50 mg of proteins extracted from healthy sweet clover stems .
+2
+#12 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#28 stem NOUN stem%1:20:00::
+The proteins were extracted with 3 volumes of * * f in * * f to give a nearly neutral extract and precipitated by 80 % saturation with * * f .
+4
+#6 volume NOUN volume%1:07:03::,volume%1:23:00::
+#18 nearly ADV nearly%4:02:00::
+#20 extract NOUN extract%1:27:00::
+#22 precipitate VERB precipitate%2:30:00::
+The precipitate was washed twice with an 80 % saturated solution of * * f , dissolved in a small quantity of 0.1 M neutral phosphate buffer , dialyzed against cold distilled water till free from ammonium ions , and lyophilized using liquid nitrogen .
+8
+#3 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#9 saturated ADJ saturated%3:00:00::
+#10 solution NOUN solution%1:27:00::
+#16 dissolve VERB dissolve%2:30:07::
+#20 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#25 phosphate NOUN phosphate%1:27:00::
+#26 buffer NOUN buffer%1:27:00::
+#30 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+( 3 ) In other experiments the indirect conjugate was treated with 3 volumes of ethyl acetate as recommended by Dineen and Ade ( 1957 ) .
+5
+#4 other ADJ other%3:00:00::
+#7 indirect ADJ indirect%5:00:00:secondary:01
+#10 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#13 volume NOUN volume%1:07:03::,volume%1:23:00::
+#18 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+( 4 ) The conjugates were passed through a diethylaminoethyl ( DEAE - ) cellulose column equilibrated with neutral phosphate buffer ( PBS ) containing * * f potassium phosphate and * * f .
+6
+#14 cellulose NOUN cellulose%1:27:00::
+#15 column NOUN column%1:06:01::,column%1:25:02::
+#19 phosphate NOUN phosphate%1:27:00::
+#20 buffer NOUN buffer%1:27:00::
+#24 contain VERB contain%2:42:00::,contain%2:42:06::
+#29 phosphate NOUN phosphate%1:27:00::
+The technique of cutting sections was essentially the same as that described by Coons et al. ( 1951 ) .
+3
+#4 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#8 same ADJ same%3:00:00::
+#11 describe VERB describe%2:32:01::
+Root and stem tumors from sweet clover plants infected with WTV were quick-frozen in liquid nitrogen , embedded in ice , and cut at 3 - 6 | m in a cryostat maintained at - 16 ` to - 20 ` .
+7
+#0 root NOUN root%1:20:00::
+#2 stem NOUN stem%1:20:00::
+#7 plant NOUN plant%1:03:00::
+#17 embed VERB embed%2:33:00::
+#19 ice NOUN ice%1:27:00::
+#22 cut VERB cut%2:35:00::,cut%2:35:13::,cut%2:35:14::
+#32 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+The sections were mounted on cold slides smeared with Haupts ' adhesive ( Johansen , 1940 ) in earlier experiments , and in later experiments with a different mixture of the same components reported by Schramm and Rottger ( 1959 ) .
+9
+#1 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#3 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#5 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#6 slide NOUN microscope_slide%1:06:00::
+#7 smear VERB smear%2:35:02::
+#18 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#23 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#31 same ADJ same%3:00:00::,same%3:00:02::
+#33 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+The latter adhesive was found to be much more satisfactory .
+3
+#1 latter ADJ latter%3:00:00::
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 more ADV more%4:02:00::
+The sections were then thawed by placing a finger under the slide and dried under a fan for 30 minutes ; until used they were stored for as long as 2 weeks .
+7
+#1 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#3 then ADV then%4:02:00::
+#6 place VERB place%2:31:13::
+#11 slide NOUN microscope_slide%1:06:00::
+#13 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#16 fan NOUN fan%1:06:00::
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The sections were fixed in acetone for 15 minutes and dried at 37 ` for 30 minutes .
+3
+#1 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#3 fix VERB fix%2:30:00::,fix%2:30:02::,fix%2:32:03::,fix%2:36:01::
+#10 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+Some of them were then covered with a drop of * * f in a moist chamber at 24 ` for 30 - 40 minutes .
+5
+#4 then ADV then%4:02:00::
+#5 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#8 drop NOUN drop%1:23:00::,drop%1:25:00::
+#16 chamber NOUN chamber%1:08:00::
+#24 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+As controls other sections were similarly covered with NS .
+4
+#1 control NOUN control%1:09:02::
+#2 other ADJ other%3:00:00::
+#3 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#6 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Sections were then washed with PBS for 15 - 30 minutes .
+3
+#0 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#2 then ADV then%4:02:00::
+#3 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+After blotting out most of the saline around the sections , a drop of * * f was layered over each of the sections , allowed to react for 30 minutes , and then washed with PBS for 15 - 30 minutes .
+7
+#9 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#12 drop NOUN drop%1:23:00::,drop%1:25:00::
+#18 layer VERB layer%2:35:00::
+#23 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#25 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#33 then ADV then%4:02:00::
+#34 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+After blotting out most of the liquid around the sections , the latter were mounted in buffered glycerine ( 7 parts glycerine to 3 parts of PBS ) .
+7
+#6 liquid NOUN liquid%1:27:04::
+#9 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#12 latter ADJ latter%3:00:00::
+#14 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#16 buffer VERB buffer%2:30:00::
+#20 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#24 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+After drying the sections under the fan , fixing in acetone , and drying at 37 ` as in the indirect method , the sections were treated with conjugated * * f or * * f ( undiluted unless mentioned otherwise ) for 5 - 30 minutes .
+8
+#1 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#3 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#6 fan NOUN fan%1:06:00::
+#8 fix VERB fix%2:30:00::,fix%2:30:02::,fix%2:32:03::,fix%2:36:01::
+#13 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#20 indirect ADJ indirect%5:00:00:secondary:01
+#24 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#26 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+As controls , other sections were similarly treated with * * f or conjugated antiserum to the New York strain of potato yellow-dwarf virus ( Wolcyrz and Black , 1956 ) .
+5
+#1 control NOUN control%1:09:02::
+#3 other ADJ other%3:00:00::
+#4 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#7 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#19 strain NOUN strain%1:14:00::
+The sections were then washed with PBS for 15 - 30 minutes and mounted in buffered glycerine .
+5
+#1 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#3 then ADV then%4:02:00::
+#4 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#13 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#15 buffer VERB buffer%2:30:00::
+Stained or unstained sections were examined under dark field illumination in a Zeiss fluorescence microscope equipped with a mercury vapor lamp ( Osram HBO 200 ) .
+3
+#3 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#5 examine VERB examine%2:31:00::,examine%2:32:01::
+#18 mercury NOUN mercury%1:07:00::
+The light beam from the lamp was filtered through a half standard thickness Corning 1840 filter .
+2
+#11 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#12 thickness NOUN thickness%1:07:01::
+In the eyepiece a Wratten 2 B filter was used to filter off residual ultra-violet light .
+1
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+A red filter , Zeiss barrier filter with the code ( Schott ) designation BG 23 , was also used in the ocular lens assembly as it improved the contrast between specific and nonspecific fluorescence .
+7
+#1 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#2 filter NOUN filter%1:06:00::
+#6 filter NOUN filter%1:06:00::
+#9 code NOUN code%1:10:00::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#24 assembly NOUN assembly%1:06:00::
+#31 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+In the first few experiments * * f was passed through Dowex-2-chloride twice and absorbed twice with 50 - 100 mg sweet clover tissue powder .
+3
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#14 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#23 tissue NOUN tissue%1:08:00::
+The intermediate sera were also similarly absorbed with tissue powder .
+2
+#6 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#8 tissue NOUN tissue%1:08:00::
+Sections of sweet clover stem and root tumors were treated with 1 : 10 solution of * * f for 30 minutes , washed in buffered saline for 15 minutes , stained with * * f for 30 minutes , and washed for 15 minutes in PBS .
+8
+#0 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#4 stem NOUN stem%1:10:01::
+#9 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#14 solution NOUN solution%1:27:00::
+#23 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+#25 buffer VERB buffer%2:30:00::
+#31 stain VERB stain%2:30:01::
+#41 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+Such sections showed bright yellow-green specific fluorescence in the cells of the pseudophloem tissue ( Lee and Black , 1955 ) .
+5
+#1 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#3 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#5 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#9 cell NOUN cell%1:03:00::,cell%1:06:03::
+#13 tissue NOUN tissue%1:08:00::
+This specific fluorescence was readily distinguished from the light green nonspecific fluorescence in consecutive sections stained with 1 : 10 dilution of NS and * * f or with * * f alone .
+4
+#1 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#14 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#15 stain VERB stain%2:30:01::
+#32 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+Unstained sections mounted in buffered glycerine or sections treated only with NS or * * f did not show such green fluorescence .
+8
+#1 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#2 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#4 buffer VERB buffer%2:30:00::
+#7 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#8 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#17 not ADV not%4:02:00::
+#20 green ADJ green%5:00:00:chromatic:00
+Sections of crown gall tissue similarly stained with either * * f and * * f or NS and * * f also showed only the light green nonspecific fluorescence .
+4
+#0 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#4 tissue NOUN tissue%1:08:00::
+#6 stain VERB stain%2:30:01::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+However , the nonspecific staining by the * * f in tumor sections was considered bright enough to be confused with the staining of small amounts of WTV antigen .
+6
+#0 however ADV however%4:02:04::
+#4 stain NOUN stain%1:27:00::
+#12 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#15 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#16 enough ADV enough%4:02:00::
+#22 stain NOUN stain%1:27:00::
+Two absorptions of * * f with ethyl acetate or two absorptions of * * f ( which had been passed through Dowex-2-chloride ) , NS and * * f with crown gall tissue powder , or mouse liver powder did not further improve the specificity of staining .
+6
+#33 tissue NOUN tissue%1:08:00::
+#37 mouse NOUN mouse%1:05:00::
+#38 liver NOUN liver%1:13:00::
+#41 not ADV not%4:02:00::
+#42 further ADV further%4:02:02::,further%4:02:03::
+#47 stain NOUN stain%1:27:00::
+Treatment of all the sera with sweet clover proteins greatly reduced nonspecific fluorescence , especially when the treated conjugate was diluted to 1 : 2 with 0.85 % saline .
+2
+#10 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#14 especially ADV especially%4:02:00::
+In all the above procedures , when the intermediate sera were diluted to 1 : 10 or 1 : 100 with 0.85 % saline , the specific and nonspecific fluorescence were not appreciably reduced , whereas , a dilution of the intermediate sera to 1 : 500 or diluting the * * f to 1 : 5 greatly reduced specific fluorescence .
+5
+#26 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#31 not ADV not%4:02:00::
+#33 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#58 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#59 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+Rinsing the sections with PBS before layering the intermediate sera did not improve the staining reaction .
+4
+#2 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#6 layer VERB layer%2:35:00::
+#11 not ADV not%4:02:00::
+#14 stain NOUN stain%1:27:00::
+In addition to other treatments , treating the sections with normal sheep serum for half an hour before layering * * f did not reduce nonspecific staining .
+10
+#3 other ADJ other%3:00:00::
+#6 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#8 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#10 normal ADJ normal%3:00:01::,normal%3:00:03::
+#11 sheep NOUN sheep%1:05:00::
+#16 hour NOUN hour%1:07:00::,hours%1:28:01::
+#18 layer VERB layer%2:35:00::
+#23 not ADV not%4:02:00::
+#24 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#26 stain NOUN stain%1:27:00::
+The only treatment by which nonspecific staining could be satisfactorily removed was by passing the conjugate through a DEAE-cellulose column .
+3
+#6 stain NOUN stain%1:27:00::
+#10 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#19 column NOUN column%1:06:01::,column%1:25:02::
+When 1 ml of conjugate was passed through a column ( * * f ) , the first and second milliliter fractions collected were the most specific and gave no nonspecific staining in some experiments , and very little in others .
+9
+#9 column NOUN column%1:06:01::,column%1:25:02::
+#17 first ADJ first%3:00:00::,first%4:02:00::
+#19 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#21 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#22 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#25 most ADV most%4:02:00::
+#26 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#28 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#31 stain NOUN stain%1:27:00::
+In the latter cases an additional treatment of the DEAE cellulose treated * * f with 50 mg of sweet clover stem tissue powder further improved the specificity .
+6
+#2 latter ADJ latter%3:00:00::
+#3 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#10 cellulose NOUN cellulose%1:27:00::
+#21 stem NOUN stem%1:10:01::
+#22 tissue NOUN tissue%1:08:00::
+#24 further ADV further%4:02:02::,further%4:02:03::
+After these treatments the conjugate did not stain healthy or crown gall sweet clover tissues or stained them a very faint green which was easily distinguishable from the bright yellow-green specific staining .
+10
+#6 not ADV not%4:02:00::
+#7 stain VERB stain%2:30:01::
+#14 tissue NOUN tissue%1:08:00::
+#16 stain VERB stain%2:30:01::
+#20 faint ADJ faint%5:00:00:perceptible:00
+#21 green ADJ green%5:00:00:chromatic:00
+#24 easily ADV easily%4:02:01::,easily%4:02:06::
+#28 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#30 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#31 stain NOUN stain%1:27:00::
+With this purified conjugate the best staining procedure consisted of treating the sections with 1 : 10 dilution of * * f for 30 minutes , washing with PBS for 15 minutes , staining with * * f for 30 minutes , and washing with PBS for 15 minutes .
+5
+#5 good ADJ best%3:00:00::,good%3:00:01::
+#6 stain NOUN stain%1:27:00::
+#10 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#12 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#33 stain VERB stain%2:30:01::
+The specificity of staining in WTV tumors with * * f and * * f but not with NS and * * f or with antiserum to potato yellow-dwarf virus and * * f , and the absence of such staining in crown gall tumor tissue from sweet-clover , indicate that an antigen of WTV was being stained .
+6
+#3 stain NOUN stain%1:27:00::
+#16 not ADV not%4:02:00::
+#40 stain NOUN stain%1:27:00::
+#45 tissue NOUN tissue%1:08:00::
+#49 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#57 stain VERB stain%2:30:01::
+* * f was first conjugated with 50 mg of FITC per gram of globulin .
+1
+#12 gram NOUN g%1:23:00::
+This conjugate was passed twice through Dowex-2-chloride and treated with various tissue powders in the same manner as described for the indirect method .
+6
+#8 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#11 tissue NOUN tissue%1:08:00::
+#15 same ADJ same%3:00:00::
+#16 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#18 describe VERB describe%2:32:01::
+#21 indirect ADJ indirect%5:00:00:secondary:01
+In all cases a disturbing amount of nonspecific staining was still present although it was still distinguishable from specific fluorescence .
+5
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#8 stain NOUN stain%1:27:00::
+#11 present ADJ present%3:00:02::
+#15 still ADV still%4:02:04::
+#18 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+In later experiments , * * f and * * f were prepared by conjugating 8 mg of FITC per gram of globulin .
+3
+#12 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#14 conjugate VERB conjugate%2:30:00::
+#20 gram NOUN g%1:23:00::
+These conjugates * * f had much less nonspecific staining than the previous conjugate ( with 50 mg FITC per gram of globulin ) while the specific staining was similar in both cases .
+7
+#7 less ADV less%4:02:00::,less%4:02:01::
+#9 stain NOUN stain%1:27:00::
+#12 previous ADJ previous%5:00:00:preceding:00
+#20 gram NOUN g%1:23:00::
+#26 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#27 stain NOUN stain%1:27:00::
+#32 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+Nonspecific staining could be satisfactorily eliminated by passing these conjugates through a DEAE-cellulose column as described for * * f .
+3
+#1 stain NOUN stain%1:27:00::
+#13 column NOUN column%1:06:01::,column%1:25:02::
+#15 describe VERB describe%2:32:01::
+The best staining procedure with this purified * * f consisted of staining with the conjugate for 30 minutes and washing in PBS for 15 minutes .
+3
+#1 good ADJ best%3:00:00::,good%3:00:01::
+#2 stain NOUN stain%1:27:00::
+#12 stain VERB stain%2:30:01::
+The specificity of staining with * * f was established as follows : * * f specifically stained tumor sections but not sections of healthy sweet clover stems or of crown gall tumor tissue from sweet clover .
+7
+#3 stain NOUN stain%1:27:00::
+#9 establish VERB establish%2:31:00::
+#19 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#21 not ADV not%4:02:00::
+#22 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#27 stem NOUN stem%1:10:01::
+#33 tissue NOUN tissue%1:08:00::
+Sections of tumors incited by WTV were not similarly stained with conjugated normal serum or conjugated antiserum to potato yellow-dwarf virus .
+4
+#0 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#7 not ADV not%4:02:00::
+#9 stain VERB stain%2:30:01::
+#12 normal ADJ normal%3:00:01::,normal%3:00:03::
+After passing * * f through DEAE-cellulose , the titer of antibodies to WTV in the specific fraction was 1 : 4 of the titer before such passage ( precipitin ring tests by R. F. Whitcomb ) ; but mere dilution of the conjugate to 1 : 4 did not satisfactorily remove nonspecific staining .
+7
+#16 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#17 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#27 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#31 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#49 not ADV not%4:02:00::
+#51 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#53 stain NOUN stain%1:27:00::
+This indicates that increase in specificity of * * f after passing it through DEAE-cellulose was not merely due to dilution .
+2
+#1 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#16 not ADV not%4:02:00::
+Specific staining by DEAE-cellulose treated * * f and * * f , although clearly distinguishable under the microscope from either nonspecific staining or autofluorescence of cells , was not satisfactorily photographed to show such differences in spite of many attempts with black and white and color photography .
+7
+#0 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#1 stain NOUN stain%1:27:00::
+#4 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#22 stain NOUN stain%1:27:00::
+#26 cell NOUN cell%1:03:00::,cell%1:06:03::
+#29 not ADV not%4:02:00::
+#33 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+This was chiefly because of the bluish white autofluorescence from the cells .
+2
+#7 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#11 cell NOUN cell%1:03:00::,cell%1:06:03::
+The autofluorescence from the walls of the xylem cells was particularly brilliant .
+2
+#8 cell NOUN cell%1:03:00::,cell%1:06:03::
+#11 brilliant ADJ brilliant%5:00:00:bright:00
+Results of specific staining by the direct and the indirect methods were similar and showed the localization of WTV antigen in certain tissues of tumors .
+5
+#2 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#3 stain NOUN stain%1:27:00::
+#6 direct ADJ direct%3:00:02::
+#9 indirect ADJ indirect%5:00:00:secondary:01
+#22 tissue NOUN tissue%1:08:00::
+The virus antigen was concentrated in the pseudophloem tissue .
+3
+#1 virus NOUN virus%1:05:00::
+#4 concentrated ADJ concentrated%3:00:02::
+#8 tissue NOUN tissue%1:08:00::
+Frequently a few isolated thick walled cells or , rarely , groups of such cells in the xylem region , were also specifically stained , but there was no such staining in epidermis , cortex , most xylem cells , ray cells , or pith .
+9
+#4 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#6 cell NOUN cell%1:03:00::,cell%1:06:03::
+#9 rarely ADV rarely%4:02:00::
+#14 cell NOUN cell%1:03:00::,cell%1:06:03::
+#23 stain VERB stain%2:30:01::
+#30 stain NOUN stain%1:27:00::
+#38 cell NOUN cell%1:03:00::,cell%1:06:03::
+#41 cell NOUN cell%1:03:00::,cell%1:06:03::
+#44 pith NOUN pith%1:20:00::
+Within the pseudophloem cells the distribution of WTV antigen was irregular in the cytoplasm .
+2
+#3 cell NOUN cell%1:03:00::,cell%1:06:03::
+#10 irregular ADJ irregular%3:00:01::
+No antigen was detectable in certain dark spherical areas in most cells .
+3
+#6 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 cell NOUN cell%1:03:00::,cell%1:06:03::
+These areas are thought to represent the nuclei .
+1
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+In some tumor sections small spherical bodies , possibly inclusion bodies ( Littau and Black , 1952 ) stained more intensely than the rest of cytoplasm and probably contained more antigen .
+6
+#3 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#8 possibly ADV possibly%4:02:00::
+#18 stain VERB stain%2:30:01::
+#19 more ADV more%4:02:00::
+#23 rest NOUN rest%1:24:00::
+#28 contain VERB contain%2:42:00::,contain%2:42:06::
+In all cases studied tissues of the stem on which the tumor had developed did not contain detectable amounts of WTV antigen .
+6
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#3 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#4 tissue NOUN tissue%1:08:00::
+#7 stem NOUN stem%1:10:01::
+#15 not ADV not%4:02:00::
+#16 contain VERB contain%2:42:00::,contain%2:42:06::
+In both the direct and indirect methods of staining , the conjugates had nonspecifically staining fractions .
+6
+#3 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#5 indirect ADJ indirect%5:00:00:secondary:01
+#8 stain NOUN stain%1:27:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 stain NOUN stain%1:27:00::
+#15 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+In the indirect method , this was evident from the fact that tumor sections were stained light green even when stained with NS and * * f or with * * f only .
+5
+#2 indirect ADJ indirect%5:00:00:secondary:01
+#13 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#15 stain VERB stain%2:30:01::
+#20 stain VERB stain%2:30:01::
+#32 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+In the direct method , * * f , not further treated , stained certain tissues of healthy sweet clover stems nonspecifically and WTV tumor sections were similarly stained by comparable * * f .
+9
+#2 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#9 not ADV not%4:02:00::
+#10 further ADV further%4:02:02::,further%4:02:03::
+#11 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#13 stain VERB stain%2:30:01::
+#15 tissue NOUN tissue%1:08:00::
+#20 stem NOUN stem%1:10:01::
+#25 section NOUN section%1:04:00::,section%1:06:00::,section%1:15:00::,section%1:17:00::
+#28 stain VERB stain%2:30:01::
+After * * f and * * f were passed through Dowex-2-chloride twice and treated twice with healthy sweet clover tissue powder , nonspecific staining was greatly reduced but a disturbing amount of such staining was still present .
+7
+#14 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#20 tissue NOUN tissue%1:08:00::
+#24 stain NOUN stain%1:27:00::
+#27 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#34 stain NOUN stain%1:27:00::
+#36 still ADV still%4:02:00::
+#37 present ADJ present%3:00:02::
+Treatment of the conjugates with ethyl acetate , and the conjugates ( which had been passed through Dowex-2-chloride ) with mouse liver powder , sweet clover crown gall tissue powder , or healthy sweet clover proteins did not satisfactorily remove nonspecifically staining substances in the conjugates .
+7
+#20 mouse NOUN mouse%1:05:00::
+#21 liver NOUN liver%1:13:00::
+#28 tissue NOUN tissue%1:08:00::
+#37 not ADV not%4:02:00::
+#39 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#41 stain NOUN stain%1:27:00::
+#42 substance NOUN substance%1:03:00::,substance%1:27:00::
+Such treatments of the conjugates have usually been successful in eliminating nonspecific staining in several other systems ( Coons , 1958 ) .
+3
+#12 stain NOUN stain%1:27:00::
+#15 other ADJ other%3:00:00::
+#16 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+Schramm and Rottger ( 1959 ) did not report any such nonspecific staining of plant tissues with fluorescein isocyanate labeled antiserum to tobacco mosaic virus .
+3
+#7 not ADV not%4:02:00::
+#8 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#12 stain NOUN stain%1:27:00::
+The reason for the failure of these treatments to eliminate nonspecific staining in the conjugates in our system is not known .
+6
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#4 failure NOUN failure%1:04:00::,failure%1:18:00::
+#11 stain NOUN stain%1:27:00::
+#17 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#19 not ADV not%4:02:00::
+#20 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+In our work the best procedure for removing substances causing nonspecific staining in order to obtain specific conjugates was to pass the conjugates through a DEAE-cellulose column and in some cases to absorb the first and second milliliter fractions with sweet clover tissue powder .
+14
+#2 work NOUN work%1:04:00::,work%1:06:01::
+#4 good ADJ best%3:00:00::,good%3:00:01::
+#7 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#8 substance NOUN substance%1:03:00::,substance%1:27:00::
+#11 stain NOUN stain%1:27:00::
+#15 obtain VERB obtain%2:40:00::
+#16 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#26 column NOUN column%1:06:01::,column%1:25:02::
+#30 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#32 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#34 first ADJ first%3:00:00::,first%4:02:00::
+#36 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#38 fraction NOUN fraction%1:06:00::,fraction%1:23:00::,fraction%1:27:00::
+#42 tissue NOUN tissue%1:08:00::
+The specific staining by both direct and indirect methods showed that WTV antigen was concentrated in the pseudophloem tissue and in a few thick walled cells in the xylem region , but was not detectable in any other tissues of the root and stem tumors .
+12
+#1 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#2 stain NOUN stain%1:27:00::
+#5 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#7 indirect ADJ indirect%5:00:00:secondary:01
+#14 concentrated ADJ concentrated%3:00:02::
+#18 tissue NOUN tissue%1:08:00::
+#23 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#25 cell NOUN cell%1:03:00::,cell%1:06:03::
+#33 not ADV not%4:02:00::
+#37 other ADJ other%3:00:00::
+#38 tissue NOUN tissue%1:08:00::
+#43 stem NOUN stem%1:10:01::
+A study of the distribution of WTV antigen within the pseudophloem cells indicates that it is irregularly distributed in the cytoplasm .
+4
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#11 cell NOUN cell%1:03:00::,cell%1:06:03::
+#12 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#17 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+Wound tumor virus is a leafhopper transmitted virus not easily transmissible by mechanical inoculation ( Black , 1944 ; Brakke et al. , 1954 ) .
+3
+#7 virus NOUN virus%1:05:00::
+#8 not ADV not%4:02:00::
+#9 easily ADV easily%4:02:01::,easily%4:02:06::
+The concentration and apparent localization of the WTV antigen in pseudophloem tissue of the tumor may indicate that the virus preferentially multiplies in the phloem and may need to be directly placed in this tissue in order to infect plants .
+8
+#1 concentration NOUN concentration%1:04:01::
+#11 tissue NOUN tissue%1:08:00::
+#16 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#19 virus NOUN virus%1:05:00::
+#30 directly ADV directly%4:02:05::
+#31 place VERB place%2:31:13::
+#34 tissue NOUN tissue%1:08:00::
+#39 plant NOUN plant%1:03:00::

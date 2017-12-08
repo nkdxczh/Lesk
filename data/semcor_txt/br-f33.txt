@@ -1,0 +1,654 @@
+ In a few school districts one finds a link between school and job .
+5
+#3 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 link NOUN link%1:24:00::
+#10 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#12 job NOUN job%1:04:00::,job%1:06:00::
+In those vocational programs organized with Smith-Hughes money , there may be a close tie between the labor union and a local employer on the one hand and the vocational teacher on the other .
+3
+#4 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#13 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#33 other ADJ other%3:00:00::
+In these cases a graduate may enter directly into an apprentice program , saving a year because of his vocational courses in grades 11 and 12 .
+9
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#4 graduate NOUN graduate%1:18:00::
+#6 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#7 directly ADV directly%4:02:00::,directly%4:02:05::,directly%4:02:07::
+#11 program NOUN program%1:09:00::,program%1:09:01::
+#13 save VERB save%2:30:00::,save%2:40:02::,save%2:40:04::
+#15 year NOUN year%1:28:00::,year%1:28:01::
+#20 course NOUN course%1:04:01::,course%1:14:00::
+#22 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+The apprentice program will involve further education on a part-time basis , usually at night , perhaps using some of the same equipment of the high school .
+4
+#2 program NOUN program%1:09:00::,program%1:09:01::
+#5 further ADJ further%5:00:00:far:00
+#6 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#21 same ADJ same%3:00:00::,same%3:00:02::
+These opportunities are to be found in certain cities in such crafts as auto mechanics , carpentry , drafting , electrical work , tool-and-die work , and sheet-metal work .
+4
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#7 certain ADJ certain%5:00:00:definite:00
+#8 city NOUN city%1:15:00::,city%1:15:01::
+#11 craft NOUN craft%1:09:01::
+Formally organized vocational programs supported by federal funds allow high school students to gain experience in a field of work which is likely to lead to a full-time job on graduation .
+8
+#0 formally ADV formally%4:02:01::
+#4 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#8 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#13 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#17 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#24 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#28 job NOUN job%1:04:00::,job%1:06:00::
+#30 graduation NOUN graduation%1:11:01::
+The " diversified occupations " program is a part-time trade preparatory program conducted over two school years on a cooperative basis between the school and local industrial and business employers .
+6
+#3 occupation NOUN occupation%1:04:00::
+#5 program NOUN program%1:09:00::,program%1:09:01::
+#9 trade NOUN trade%1:04:00::,trade%1:14:00::
+#11 program NOUN program%1:09:00::,program%1:09:01::
+#12 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#23 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The " distributive education " program operates in a similar way , with arrangements between the school and employers in merchandising fields .
+7
+#3 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#5 program NOUN program%1:09:00::,program%1:09:01::
+#6 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#13 arrangement NOUN arrangement%1:09:01::
+#16 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#20 merchandising NOUN merchandising%1:04:00::
+#21 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+In both cases the student attends school half-time and works in a regular job the other half .
+7
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#5 attend VERB attend%2:42:00::
+#6 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#9 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#12 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#13 job NOUN job%1:04:00::,job%1:06:00::
+#15 other ADJ other%3:00:00::
+He receives remuneration for his work .
+1
+#1 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+In a few places cooperative programs between schools and employers in clerical work have shown the same possibilities for allowing the student , while still in school , to develop skills which are immediately marketable upon graduation .
+11
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#5 program NOUN program%1:09:00::,program%1:09:01::
+#7 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#11 clerical ADJ clerical%5:00:00:white-collar:00
+#14 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#16 same ADJ same%3:00:00::,same%3:00:02::
+#19 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#24 still ADV still%4:02:00::
+#26 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#29 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#36 graduation NOUN graduation%1:11:01::
+Adult education courses , work-study programs of various sorts - these are all evidence of a continuing interest of the schools in furthering educational opportunities for out-of-school youth .
+5
+#2 course NOUN course%1:04:01::,course%1:14:00::
+#8 sort NOUN sort%1:09:00::,sort%1:18:00::
+#17 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#27 youth NOUN youth%1:18:00::
+In general , however , it may be said that when a boy or a girl leaves the high school , the school authorities play little or no part in the decision of what happens next .
+9
+#3 however ADV however%4:02:04::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 boy NOUN boy%1:18:03::
+#15 girl NOUN girl%1:18:01::,girl%1:18:03::
+#16 leave VERB leave%2:38:00::,leave%2:41:00::
+#22 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#23 authority NOUN authority%1:18:01::
+#28 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#34 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+If the student drops out of high school , the break with the school is even more complete .
+3
+#10 break NOUN break%1:04:01::
+#13 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#17 complete ADJ complete%5:00:00:skilled:00
+When there is employment opportunity for youth , this arrangement - or lack of arrangement - works out quite well .
+4
+#6 youth NOUN youth%1:18:00::
+#9 arrangement NOUN arrangement%1:09:01::
+#14 arrangement NOUN arrangement%1:09:01::
+#19 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+Indeed , in some periods of our history and in some neighborhoods the job opportunities have been so good that undoubtedly a great many boys who were potential members of the professions quit school at an early age and went to work .
+15
+#0 indeed ADV indeed%4:02:03::
+#4 period NOUN period%1:28:00::,period%1:28:03::
+#7 history NOUN history%1:28:02::
+#13 job NOUN job%1:04:00::,job%1:06:00::
+#17 so ADV so%4:02:03::,so%4:02:07::
+#18 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#22 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#24 boy NOUN boy%1:18:03::
+#28 member NOUN member%1:18:00::,member%1:24:00::
+#31 profession NOUN profession%1:14:00::
+#32 quit VERB quit%2:38:00::
+#33 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#36 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#37 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#41 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Statistically this has represented a loss to the nation , although one must admit that in an individual case the decision in retrospect may have been a wise one .
+4
+#3 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#13 admit VERB admit%2:32:00::
+#17 individual ADJ individual%5:00:00:independent:00
+#18 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+I make no attempt to measure the enduring satisfaction and material well-being of a man who went to work on graduation from high school and was highly successful in the business which he entered .
+7
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#10 material ADJ material%3:00:04::
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#18 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#20 graduation NOUN graduation%1:11:01::
+#33 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+He may or may not be " better off " than his classmate who went on to a college and professional school .
+3
+#18 college NOUN college%1:14:00::,college%1:14:01::
+#20 professional ADJ professional%3:01:01::
+#21 school NOUN school%1:14:00::,school%1:14:03::
+But in the next decades the nation needs to educate for the professions all the potential professional talent .
+3
+#3 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#12 profession NOUN profession%1:14:00::
+#17 talent NOUN talent%1:09:00::,talent%1:18:00::
+In a later chapter dealing with the suburban school , I shall discuss the importance of arranging a program for the academically talented and highly gifted youth in any high school where he is found .
+7
+#3 chapter NOUN chapter%1:10:00::
+#4 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#8 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#16 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#18 program NOUN program%1:09:00::,program%1:09:01::
+#26 youth NOUN youth%1:18:00::
+#34 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+In the Negro neighborhoods and also to some extent in the mixed neighborhoods the problem may be one of identification and motivation .
+1
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+High motivation towards higher education must start early enough so that by the time the boy or girl reaches grade 9 he or she has at least developed those basic skills which are essential for academic work .
+11
+#0 high ADJ high%3:00:02::
+#6 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#13 time NOUN time%1:11:00::
+#15 boy NOUN boy%1:18:03::
+#18 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#19 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#27 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#29 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#33 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#35 academic ADJ academic%3:01:00::
+#36 work NOUN work%1:04:00::
+Undoubtedly far more can be done in the lower grades in this regard in the Negro schools .
+3
+#1 far ADV far%4:02:02::
+#9 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#16 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+However , the teacher can only go so far if the attitude of the community and the family is anti-intellectual .
+6
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#8 far ADV far%4:02:02::
+#14 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#17 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+And the fact remains that there are today few shining examples of Negroes in positions of intellectual leadership .
+3
+#9 shining ADJ shining%5:00:01:bright:00
+#10 example NOUN example%1:09:00::
+#14 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+This is not due to any policy of discrimination on the part of the Northern universities .
+4
+#2 not ADV not%4:02:00::
+#6 policy NOUN policy%1:09:00::,policy%1:10:00::
+#8 discrimination NOUN discrimination%1:04:00::
+#14 northern ADJ northern%3:00:01::,northern%3:00:02::
+Quite the contrary , as I can testify from personal experience as a former university president .
+5
+#0 quite ADV quite%4:02:02::
+#2 contrary NOUN contrary%1:24:01::
+#9 personal ADJ personal%5:00:00:subjective:00
+#13 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#15 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Rather we see here another vicious circle .
+3
+#0 rather ADV rather%4:02:02::
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+The absence of successful Negroes in the world of scholarship and science has tended to tamp down enthusiasm among Negro youth for academic careers .
+6
+#7 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#9 scholarship NOUN scholarship%1:09:00::
+#13 tend VERB tend%2:42:01::
+#17 enthusiasm NOUN enthusiasm%1:07:00::
+#20 youth NOUN youth%1:18:00::
+#22 academic ADJ academic%3:01:00::
+I believe the situation is improving , but the success stories need to be heavily publicized .
+2
+#3 situation NOUN situation%1:26:01::
+#14 heavily ADV heavily%4:02:00::
+Here again we run into the roadblock that Negroes do not like to be designated as Negroes in the press .
+4
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 not ADV not%4:02:00::
+#11 like VERB like%2:37:05::
+#19 press NOUN press%1:10:00::
+How can the vicious circle be broken ?
+1
+#6 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+This is a problem to which leaders of opinion , both Negro and white , should devote far more attention .
+6
+#3 problem NOUN problem%1:09:00::,problem%1:26:00::
+#6 leader NOUN leader%1:18:00::
+#13 white NOUN white%1:06:01::
+#16 devote VERB devote%2:31:00::
+#17 far ADV far%4:02:02::
+#19 attention NOUN attention%1:04:01::,attention%1:04:02::,attention%1:09:02::
+It is at least as important as the more dramatic attempts to break down barriers of inequality in the South .
+2
+#9 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#19 south NOUN south%1:15:01::
+I should like to underline four points I made in my first report with respect to vocational education .
+4
+#6 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#12 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#17 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+First and foremost , vocational courses should not replace courses which are essential parts of the required academic program for graduation .
+7
+#5 course NOUN course%1:04:01::,course%1:14:00::
+#7 not ADV not%4:02:00::
+#8 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#12 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#13 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#20 graduation NOUN graduation%1:11:01::
+Second , vocational courses should be provided in grades 11 and 12 and not require more than half the student 's time in those years ; however , for slow learners and prospective dropouts these courses ought to begin earlier .
+8
+#3 course NOUN course%1:04:01::,course%1:14:00::
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+#8 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+#24 year NOUN year%1:28:01::
+#26 however ADV however%4:02:04::
+#33 dropout NOUN dropout%1:18:01::
+#35 course NOUN course%1:04:01::,course%1:14:00::
+#38 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Third , the significance of the vocational courses is that those enrolled are keenly interested in the work ; they realize the relevance of what they are learning to their future careers , and this sense of purpose is carried over to the academic courses which they are studying at the same time .
+10
+#3 significance NOUN significance%1:07:00::
+#7 course NOUN course%1:04:01::,course%1:14:00::
+#14 interested ADJ interested%3:00:00::
+#17 work NOUN work%1:04:00::
+#20 realize VERB realize%2:31:01::
+#27 learn VERB learn%2:31:01::,learn%2:31:03::
+#35 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#43 academic ADJ academic%3:01:00::
+#44 course NOUN course%1:04:01::,course%1:14:00::
+#48 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+Fourth , the type of vocational training programs should be related to the employment opportunities in the general locality .
+2
+#3 type NOUN type%1:18:00::
+#17 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+This last point is important because if high school pupils are aware that few , if any , graduates who have chosen a certain vocational program have obtained a job as a consequence of the training , the whole idea of relevance disappears .
+11
+#2 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#9 pupil NOUN pupil%1:18:01::
+#18 graduate NOUN graduate%1:18:00::
+#23 certain ADJ certain%5:00:00:definite:00
+#27 obtain VERB obtain%2:40:00::
+#29 job NOUN job%1:04:00::,job%1:06:00::
+#32 consequence NOUN consequence%1:19:00::
+#35 training NOUN training%1:04:00::
+#38 whole ADJ whole%3:00:00::
+#39 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#42 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+Vocational training which holds no hope that the skill developed will be in fact a marketable skill becomes just another school " chore " for those whose interest in their studies has begun to falter .
+9
+#1 training NOUN training%1:04:00::
+#5 hope NOUN hope%1:09:00::,hope%1:18:00::
+#9 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#17 become VERB become%2:30:00::,become%2:42:01::
+#18 just ADV just%4:02:00::,just%4:02:03::
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#27 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#30 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+#32 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Those who , because of population mobility and the reputed desire of employers to train their own employees , would limit vocational education to general rather than specific skills ought to bear in mind the importance of motivation in any kind of school experience .
+6
+#14 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#16 own ADJ own%5:00:00:personal:00
+#22 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#24 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#27 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#42 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+I have been using the word " vocational " as a layman would at first sight think it should be used .
+5
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#11 layman NOUN layman%1:18:00::
+#16 think VERB think%2:31:01::,think%2:31:03::
+#20 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+I intend to include under the term all the practical courses open to boys and girls .
+7
+#1 intend VERB intend%2:31:01::,intend%2:32:00::
+#3 include VERB include%2:31:00::,include%2:41:03::
+#6 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#9 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#10 course NOUN course%1:04:01::,course%1:14:00::
+#11 open ADJ open%3:00:00::,open%5:00:00:susceptible:00,open%5:00:00:unconstricted:00,open%5:00:00:unrestricted:00,open%5:00:00:unsettled:02
+#13 boy NOUN boy%1:18:03::
+These courses develop skills other than those we think of when we use the adjective " academic " .
+4
+#1 course NOUN course%1:04:01::,course%1:14:00::
+#2 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 academic ADJ academic%3:01:00::
+Practically all of these practical skills are of such a nature that a degree of mastery can be obtained in high school sufficient to enable the youth to get a job at once on the basis of the skill .
+10
+#0 practically ADV practically%4:02:00::
+#4 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#10 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#13 degree NOUN degree%1:26:01::
+#15 mastery NOUN mastery%1:09:00::
+#18 obtain VERB obtain%2:40:00::
+#24 enable VERB enable%2:30:00::,enabling%3:00:00::
+#26 youth NOUN youth%1:18:00::
+#28 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#30 job NOUN job%1:04:00::,job%1:06:00::
+They are in this sense skills marketable immediately on graduation from high school .
+2
+#4 sense NOUN sense%1:10:00::
+#9 graduation NOUN graduation%1:11:01::
+To be sure , in tool-and-die work and in the building trades , the first job must be often on an apprentice basis , but two years of halftime vocational training enables the young man thus to anticipate one year of apprentice status .
+8
+#14 first ADJ first%3:00:00::,first%4:02:00::
+#15 job NOUN job%1:04:00::,job%1:06:00::
+#30 training NOUN training%1:04:00::
+#31 enable VERB enable%2:30:00::,enabling%3:00:00::
+#34 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#35 thus ADV thus%4:02:01::
+#37 anticipate VERB anticipate%2:30:00::,anticipate%2:31:01::,anticipate%2:41:00::
+#42 status NOUN status%1:26:00::,status%1:26:01::
+Similarly , a girl who graduates with a good working knowledge of stenography and the use of clerical machines and who is able to get a job at once may wish to improve her skill and knowledge by a year or two of further study in a community college or secretarial school .
+11
+#3 girl NOUN girl%1:18:01::,girl%1:18:03::
+#5 graduate VERB graduate%2:40:00::
+#9 working ADJ working%5:00:00:functioning:00
+#10 knowledge NOUN knowledge%1:03:00::
+#17 clerical ADJ clerical%5:00:00:white-collar:00
+#22 able ADJ able%3:00:00::
+#24 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#26 job NOUN job%1:04:00::,job%1:06:00::
+#36 knowledge NOUN knowledge%1:03:00::
+#43 further ADJ further%5:00:00:far:00
+#44 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+Of course , it can be argued that an ability to write English correctly and with some degree of elegance is a marketable skill .
+6
+#6 argue VERB argue%2:32:02::
+#9 ability NOUN ability%1:09:00::
+#11 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#12 English NOUN english%1:09:00::
+#17 degree NOUN degree%1:26:01::
+#19 elegance NOUN elegance%1:07:00::
+So , too , is the mathematical competence of a college graduate who has majored in mathematics .
+4
+#2 too ADV too%4:02:01::
+#7 competence NOUN competence%1:07:00::
+#10 college NOUN college%1:14:00::,college%1:14:01::
+#11 graduate NOUN graduate%1:18:00::
+In a sense almost all high school and college courses could be considered as vocational to the extent that later in life the student in his vocation ( which may be a profession ) will be called upon to use some of the skills developed and the competence obtained .
+9
+#8 college NOUN college%1:14:00::,college%1:14:01::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#19 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#21 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#32 profession NOUN profession%1:14:00::
+#39 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#44 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#47 competence NOUN competence%1:07:00::
+#48 obtain VERB obtain%2:40:00::
+In spite of the shading of one type of course into another , I believe it is useful to talk about vocational courses as apart from academic courses .
+7
+#4 shading NOUN shading%1:07:00::
+#7 type NOUN type%1:18:00::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#22 course NOUN course%1:04:01::,course%1:14:00::
+#24 apart ADV apart%4:02:01::,apart%4:02:06::
+#26 academic ADJ academic%3:01:00::
+#27 course NOUN course%1:04:01::,course%1:14:00::
+Perhaps a course in typewriting might be regarded as the exception which proves the rule .
+3
+#2 course NOUN course%1:04:01::,course%1:14:00::
+#12 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#14 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+Today many college bound students try to take a course in personal typing , as they feel a certain degree of mastery of this skill is almost essential for one who proposes to do academic work in college and a professional school .
+17
+#2 college NOUN college%1:14:00::,college%1:14:01::
+#3 bound ADJ bound%5:00:00:constipated:00
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 take VERB take%2:31:02::,take%2:34:00::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#11 personal ADJ personal%5:00:00:subjective:00
+#12 typing NOUN typing%1:10:00::
+#18 certain ADJ certain%5:00:00:definite:00
+#19 degree NOUN degree%1:26:01::
+#21 mastery NOUN mastery%1:09:00::
+#27 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#31 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#34 academic ADJ academic%3:01:00::
+#35 work NOUN work%1:04:00::
+#37 college NOUN college%1:14:00::,college%1:14:01::
+#40 professional ADJ professional%3:01:01::
+#41 school NOUN school%1:14:00::,school%1:14:03::
+Most of our largest cities have one or more separate vocational or technical high schools .
+4
+#3 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 city NOUN city%1:15:00::,city%1:15:01::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+In this respect , public education in the large cities differs from education in the smaller cities and consolidated school districts .
+8
+#2 respect NOUN respect%1:09:00::
+#4 public ADJ public%3:00:00::,public%5:00:00:common:02
+#5 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#9 city NOUN city%1:15:00::,city%1:15:01::
+#12 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#16 city NOUN city%1:15:00::,city%1:15:01::
+#19 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The neighborhood high schools are not , strictly speaking , comprehensive schools , because some of the boys and girls may be attending a vocational or technical high school instead of the local school .
+8
+#5 not ADV not%4:02:00::
+#10 comprehensive ADJ comprehensive%3:00:00::
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#17 boy NOUN boy%1:18:03::
+#19 girl NOUN girl%1:18:01::,girl%1:18:03::
+#22 attend VERB attend%2:42:00::
+#26 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#33 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Indeed , one school superintendent in a large city objects to the use of the term comprehensive high school for the senior high schools in his city , because these schools do not offer strictly vocational programs .
+9
+#0 indeed ADV indeed%4:02:03::
+#7 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 city NOUN city%1:15:00::,city%1:15:01::
+#15 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#16 comprehensive ADJ comprehensive%3:00:00::
+#26 city NOUN city%1:15:00::,city%1:15:01::
+#30 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#32 not ADV not%4:02:00::
+#34 strictly ADV strictly%4:02:01::
+He prefers to designate such schools as " general " high schools .
+3
+#1 prefer VERB prefer%2:31:00::
+#5 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#8 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+The suburban high school , it is worth noting , also is not a widely comprehensive high school because of the absence of vocational programs .
+4
+#8 note VERB note%2:32:00::,note%2:39:00::
+#12 not ADV not%4:02:00::
+#14 widely ADV widely%4:02:00::,widely%4:02:02::
+#15 comprehensive ADJ comprehensive%3:00:00::
+The reason is that there is a lack of interest on the part of the community .
+4
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#9 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#12 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#15 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+Therefore employment and education in all the schools in a metropolitan area are related in different ways from those which are characteristic of the comprehensive high school described in my first report .
+10
+#3 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#7 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#10 metropolitan ADJ metropolitan%3:01:00::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#15 different ADJ different%3:00:00::,different%5:00:00:other:00
+#16 way NOUN way%1:07:01::
+#24 comprehensive ADJ comprehensive%3:00:00::
+#27 describe VERB describe%2:32:01::
+#30 first ADJ first%3:00:00::,first%4:02:00::
+#31 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+The separate vocational or technical high schools in the large cities must be reckoned as permanent institutions .
+5
+#4 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#9 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 city NOUN city%1:15:00::,city%1:15:01::
+#13 reckon VERB reckon%2:31:01::
+#16 institution NOUN institution%1:14:00::
+By and large their programs are satisfactorily connected both to the employment situation and to the realities of the apprentice system .
+4
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#12 situation NOUN situation%1:26:01::
+#16 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#20 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+It is not often realized to what degree certain trades are in many communities closed areas of employment , except for a lucky few .
+6
+#2 not ADV not%4:02:00::
+#4 realize VERB realize%2:31:01::
+#8 certain ADJ certain%5:00:00:definite:00
+#13 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#14 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#15 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+One has to talk confidentially with some of the directors of vocational high schools to realize that a boy cannot just say , " I want to be a plumber " , and then , by doing good work , find a job .
+8
+#15 realize VERB realize%2:31:01::
+#18 boy NOUN boy%1:18:03::
+#20 just ADV just%4:02:00::,just%4:02:03::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#33 then ADV then%4:02:00::
+#40 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#42 job NOUN job%1:04:00::,job%1:06:00::
+It is far more difficult in many communities to obtain admission to an apprentice program which involves union approval than to get into the most selective medical school in the nation .
+8
+#2 far ADV far%4:02:02::
+#7 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#9 obtain VERB obtain%2:40:00::
+#10 admission NOUN admission%1:04:00::
+#14 program NOUN program%1:09:00::,program%1:09:01::
+#17 union NOUN union%1:14:01::,union%1:14:02::
+#18 approval NOUN approval%1:26:00::
+#24 most ADV most%4:02:00::
+Two stories will illustrate what I have in mind .
+1
+#1 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+One vocational instructor in a city vocational school , speaking of his course in a certain field , said he had no difficulty placing all students in jobs outside of the city .
+9
+#5 city NOUN city%1:15:00::,city%1:15:01::
+#9 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#12 course NOUN course%1:04:01::,course%1:14:00::
+#15 certain ADJ certain%5:00:00:definite:00
+#16 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 place VERB place%2:32:01::,place%2:40:00::,place%2:40:03::,place%2:41:00::
+#27 job NOUN job%1:04:00::,job%1:06:00::
+#31 city NOUN city%1:15:00::,city%1:15:01::
+In the city , he said , the waiting list for those who want to join the union is so long that unless a boy has an inside track he can n't get in .
+8
+#2 city NOUN city%1:15:00::,city%1:15:01::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#17 union NOUN union%1:14:01::,union%1:14:02::
+#19 so ADV so%4:02:03::,so%4:02:07::
+#20 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#24 boy NOUN boy%1:18:03::
+#25 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In a far distant part of the United States , I was talking to an instructor about a boy who in the twelfth grade was doing special work .
+5
+#2 far ADV far%4:02:00::
+#3 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#4 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#18 boy NOUN boy%1:18:03::
+#23 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+" What does he have in mind to do when he graduates " ?
+1
+#11 graduate VERB graduate%2:40:00::
+" Oh , he 'll be a plumber " , came the answer .
+1
+#10 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+" But is n't it almost impossible to get into the union " ?
+1
+#11 union NOUN union%1:14:01::,union%1:14:02::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" He 'll have no difficulty " , I was told .
+2
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" He has very good connections " .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+In my view , there should be a school which offers significant vocational programs for boys within easy reach of every family in a city .
+6
+#2 view NOUN view%1:09:04::
+#8 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#15 boy NOUN boy%1:18:03::
+#17 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#21 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#24 city NOUN city%1:15:00::,city%1:15:01::
+Ideally these schools should be so located that one or more should be in the area where demand for practical courses is at the highest .
+7
+#0 ideally ADV ideally%4:02:00::
+#2 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#5 so ADV so%4:02:04::
+#15 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#19 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#20 course NOUN course%1:04:01::,course%1:14:00::
+#24 high ADJ high%3:00:02::
+An excellent example of a successful location of a new vocational high school is the Dunbar Vocational High School in Chicago .
+2
+#2 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#9 new ADJ new%3:00:00::
+Located in a bad slum area now undergoing redevelopment , this school and its program are especially tailored to the vocational aims of its students .
+5
+#3 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#14 program NOUN program%1:09:00::,program%1:09:01::
+#21 aim NOUN aim%1:09:00::
+Hardly a window has been broken since Dunbar first was opened ( and vandalism in schools is a major problem in many slum areas ) .
+6
+#2 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#5 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#10 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#15 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#18 major ADJ major%3:00:05::,major%3:00:06::
+#19 problem NOUN problem%1:09:00::,problem%1:26:00::
+I discovered in the course of a visit there that almost all the pupils were Negroes .
+4
+#1 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#4 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#8 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#13 pupil NOUN pupil%1:18:01::
+They were learning trades as diverse as shoe repairing , bricklaying , carpentry , cabinet making , auto mechanics , and airplane mechanics .
+3
+#2 learn VERB learn%2:31:01::,learn%2:31:03::
+#14 cabinet NOUN cabinet%1:06:00::
+#15 making NOUN making%1:06:00::
+The physical facilities at Dunbar are impressive , but more impressive is the attitude of the pupils .
+3
+#1 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#2 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#16 pupil NOUN pupil%1:18:01::

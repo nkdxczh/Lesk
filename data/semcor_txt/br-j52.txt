@@ -1,0 +1,620 @@
+ But neither was the statement empirical , for goodness was not a quality like red or squeaky that could be seen or heard .
+4
+#8 goodness NOUN goodness%1:07:02::
+#10 not ADV not%4:02:00::
+#12 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#20 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+What were they to do , then , with these awkward judgments of value ?
+4
+#6 then ADV then%4:02:02::
+#10 awkward ADJ awkward%5:00:00:difficult:00
+#11 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#13 value NOUN value%1:21:00::,values%1:09:00::
+To find a place for them in their theory of knowledge would require them to revise the theory radically , and yet that theory was what they regarded as their most important discovery .
+5
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#3 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+#10 knowledge NOUN knowledge%1:03:00::
+#15 revise VERB revise%2:32:00::
+#32 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+It appeared that the theory could be saved in one way only .
+3
+#1 appear VERB appear%2:30:00::
+#7 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+If it could be shown that judgments of good and bad were not judgments at all , that they asserted nothing true or false , but merely expressed emotions like " Hurrah " or " Fiddlesticks " , then these wayward judgments would cease from troubling and weary heads could be at rest .
+11
+#4 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#10 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#12 not ADV not%4:02:00::
+#13 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#21 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#23 false ADJ false%3:00:00::
+#27 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#38 then ADV then%4:02:02::
+#41 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#48 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+This is the course the positivists took .
+1
+#3 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+They explained value judgments by explaining them away .
+2
+#3 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#7 away ADV away%4:02:04::
+Now I do not think their view will do .
+4
+#0 now ADV now%4:02:07::
+#3 not ADV not%4:02:00::
+#4 think VERB think%2:31:01::,think%2:31:03::
+#6 view NOUN view%1:09:04::
+But before discussing it , I should like to record one vote of thanks to them for the clarity with which they have stated their case .
+3
+#9 record VERB record%2:32:00::,record%2:32:03::
+#23 state VERB state%2:32:01::,state%2:32:02::
+#25 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+It has been said of John Stuart Mill that he wrote so clearly that he could be found out .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 so ADV so%4:02:03::,so%4:02:07::
+This theory has been put so clearly and precisely that it deserves criticism of the same kind , and this I will do my best to supply .
+4
+#4 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#15 same ADJ same%3:00:00::
+#24 good ADJ best%3:00:00::,good%3:00:01::
+The theory claims to show by analysis that when we say , " That is good " , we do not mean to assert a character of the subject of which we are thinking .
+8
+#4 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#20 not ADV not%4:02:00::
+#21 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#25 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#28 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#33 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+I shall argue that we do mean to do just that .
+3
+#2 argue VERB argue%2:32:02::
+#6 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#9 just ADV just%4:02:05::
+Let us work through an example , and the simpler and commoner the better .
+4
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#9 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#11 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#13 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+There is perhaps no value statement on which people would more universally agree than the statement that intense pain is bad .
+6
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#10 more ADV more%4:02:00::
+#12 agree VERB agree%2:32:00::,agree%2:32:01::
+#17 intense ADJ intense%3:00:00::
+#18 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#20 bad ADJ bad%5:00:00:uncomfortable:00
+Let us take a set of circumstances in which I happen to be interested on the legislative side and in which I think every one of us might naturally make such a statement .
+7
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#4 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#6 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#13 interested ADJ interested%3:00:00::
+#17 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#22 think VERB think%2:31:01::,think%2:31:03::
+#29 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+We come upon a rabbit that has been caught in one of the brutal traps in common use .
+2
+#4 rabbit NOUN rabbit%1:13:00::
+#16 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+There are signs that it has struggled for days to escape and that in a frenzy of hunger , pain , and fear , it has all but eaten off its own leg .
+6
+#2 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#19 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#31 own ADJ own%5:00:00:personal:00
+#32 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+The attempt failed : the animal is now dead .
+3
+#2 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+As we think of the long and excruciating pain it must have suffered , we are very likely to say : " It was a bad thing that the little animal should suffer so " .
+7
+#8 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#12 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#26 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#32 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#33 so ADV so%4:02:03::,so%4:02:07::
+The positivist tells us that when we say this we are only expressing our present emotion .
+5
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#12 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#14 present ADJ present%3:00:01::
+I hold , on the contrary , that we mean to assert something of the pain itself , namely , that it was bad - bad when and as it occurred .
+5
+#1 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#9 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#15 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#23 bad ADJ bad%5:00:00:uncomfortable:00
+#25 bad ADJ bad%5:00:00:uncomfortable:00
+Consider what follows from the positivist view .
+2
+#2 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#6 view NOUN view%1:09:04::
+On that view , nothing good or bad happened in the case until I came on the scene and made my remark .
+7
+#2 view NOUN view%1:09:04::
+#5 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#7 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#8 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#11 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#17 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+For what I express in my remark is something going on in me at the time , and that of course did not exist until I did come on the scene .
+4
+#3 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#22 not ADV not%4:02:00::
+#23 exist VERB exist%2:42:00::
+#30 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+The pain of the rabbit was not itself bad ; nothing evil was happening when that pain was being endured ; badness , in the only sense in which it is involved at all , waited for its appearance till I came and looked and felt .
+13
+#1 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#4 rabbit NOUN rabbit%1:13:00::
+#6 not ADV not%4:02:00::
+#8 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#13 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#16 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#19 endure VERB endure%2:31:00::
+#26 sense NOUN sense%1:10:00::
+#31 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#35 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#38 appearance NOUN appearance%1:11:00::
+#43 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#45 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+Now that this is at odds with our meaning may be shown as follows .
+3
+#0 now ADV now%4:02:07::
+#8 meaning NOUN meaning%1:09:00::
+#11 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+Let us put to ourselves the hypothesis that we had not come on the scene and that the rabbit never was discovered .
+6
+#2 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#10 not ADV not%4:02:00::
+#14 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#18 rabbit NOUN rabbit%1:13:00::
+#19 never ADV never%4:02:00::
+#21 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+Are we prepared to say that in that case nothing bad occurred in the sense in which we said it did ?
+5
+#4 say VERB say%2:32:01::
+#8 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#10 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#14 sense NOUN sense%1:10:00::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Indeed we should say , on the contrary , that the accident of our later discovery made no difference whatever to the badness of the animal 's pain , that it would have been every whit as bad whether a chance passer-by happened later to discover the body and feel repugnance or not .
+10
+#0 indeed ADV indeed%4:02:03::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 accident NOUN accident%1:11:00::
+#15 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#27 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#37 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#42 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#43 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#45 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#50 repugnance NOUN repugnance%1:12:00::
+If so , then it is clear that in saying the suffering was bad we are not expressing our feelings only .
+8
+#3 then ADV then%4:02:02::
+#6 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#16 not ADV not%4:02:00::
+#17 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#19 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#20 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+We are saying that the pain was bad when and as it occurred and before anyone took an attitude toward it .
+4
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#7 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#16 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+The first argument is thus an ideal experiment in which we use the method of difference .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 argument NOUN argument%1:10:02::
+#4 thus ADV thus%4:02:00::
+#6 ideal ADJ ideal%5:00:00:abstract:00
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+It removes our present expression and shows that the badness we meant would not be affected by this , whereas on positivist grounds it should be .
+7
+#1 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#3 present ADJ present%3:00:01::
+#6 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#11 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#13 not ADV not%4:02:00::
+#15 affect VERB affect%2:30:00::,affect%2:42:00::
+#22 ground NOUN ground%1:16:00::
+The second argument applies the method in the reverse way .
+4
+#1 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#2 argument NOUN argument%1:10:02::
+#3 apply VERB apply%2:34:00::
+#9 way NOUN way%1:04:00::,way%1:09:00::
+It ideally removes the past event , and shows that this would render false what we mean to say , whereas on positivist grounds it should not .
+9
+#1 ideally ADV ideally%4:02:00::
+#2 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#8 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#12 render VERB render%2:30:00::
+#13 false ADJ false%3:00:00::
+#16 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 ground NOUN ground%1:16:00::
+#26 not ADV not%4:02:00::
+Let us suppose that the animal did not in fact fall into the trap and did not suffer at all , but that we mistakenly believe it did , and say as before that its suffering was an evil thing .
+8
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#7 not ADV not%4:02:00::
+#10 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#16 not ADV not%4:02:00::
+#17 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#25 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#30 say VERB say%2:32:01::
+#39 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+On the positivist theory , everything I sought to express by calling it evil in the first case is still present in the second .
+6
+#9 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#11 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#16 first ADJ first%3:00:00::,first%4:02:00::
+#17 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#19 still ADV still%4:02:00::
+#20 present ADJ present%3:00:02::
+In the only sense in which badness is involved at all , whatever was bad in the first case is still present in its entirety , since all that is expressed in either case is a state of feeling , and that feeling is still there .
+12
+#3 sense NOUN sense%1:10:00::
+#8 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#14 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#17 first ADJ first%3:00:00::,first%4:02:00::
+#18 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#20 still ADV still%4:02:00::
+#21 present ADJ present%3:00:02::
+#30 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#33 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#38 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#42 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#44 still ADV still%4:02:00::
+And our question is , is such an implication consistent with what we meant ?
+2
+#8 implication NOUN implication%1:09:00::
+#13 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Clearly it is not .
+1
+#3 not ADV not%4:02:00::
+If anyone asked us , after we made the remark that the suffering was a bad thing , whether we should think it relevant to what we said to learn that the incident had never occurred and no pain had been suffered at all , we should say that it made all the difference in the world , that what we were asserting to be bad was precisely the suffering we thought had occurred back there , that if this had not occurred , there was nothing left to be bad , and that our assertion was in that case mistaken .
+18
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#16 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#21 think VERB think%2:31:01::,think%2:31:03::
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 learn VERB learn%2:31:01::,learn%2:31:03::
+#34 never ADV never%4:02:00::
+#38 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#41 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#65 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#71 think VERB think%2:31:01::,think%2:31:03::
+#74 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#75 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#81 not ADV not%4:02:00::
+#87 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#90 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#99 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The suggestion that in saying something evil had occurred we were after all making no mistake , because we had never meant anyhow to say anything about the past suffering , seems to me merely frivolous .
+5
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#22 anyhow ADV anyhow%4:02:00::
+#24 say VERB say%2:32:01::
+If we did not mean to say this , why should we be so relieved on finding that the suffering had not occurred ?
+7
+#3 not ADV not%4:02:00::
+#4 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#14 relieve VERB relieve%2:40:01::
+#16 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#21 not ADV not%4:02:00::
+On the theory before us , such relief would be groundless , for in that suffering itself there was nothing bad at all , and hence in its nonoccurrence there would be nothing to be relieved about .
+4
+#7 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+#20 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#25 hence ADV hence%4:02:00::
+#35 relieve VERB relieve%2:40:01::
+The positivist theory would here distort our meaning beyond recognition .
+2
+#5 distort VERB distort%2:32:00::
+#7 meaning NOUN meaning%1:09:00::
+So far as I can see , there is only one way out for the positivist .
+2
+#5 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+He holds that goodness and badness lie in feelings of approval or disapproval .
+4
+#1 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#3 goodness NOUN goodness%1:07:02::
+#8 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#10 approval NOUN approval%1:26:00::
+And there is a way in which he might hold that badness did in this case precede our own feeling of disapproval without belonging to the pain itself .
+6
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#9 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#15 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#18 own ADJ own%5:00:00:personal:00
+#19 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#26 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+The pain in itself was neutral ; but unfortunately the rabbit , on no grounds at all , took up toward this neutral object an attitude of disapproval and that made it for the first time , and in the only intelligible sense , bad .
+9
+#1 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#5 neutral ADJ neutral%5:00:00:uncharged:00
+#10 rabbit NOUN rabbit%1:13:00::
+#14 ground NOUN ground%1:16:00::
+#22 neutral ADJ neutral%5:00:00:uncharged:00
+#23 object NOUN object%1:03:00::
+#30 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#42 sense NOUN sense%1:10:00::
+#44 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+This way of escape is theoretically possible , but since it has grave difficulties of its own and has not , so far as I know , been urged by positivists , it is perhaps best not to spend time over it .
+8
+#1 way NOUN way%1:04:00::,way%1:09:00::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#16 own ADJ own%5:00:00:personal:00
+#19 not ADV not%4:02:00::
+#25 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#35 good ADJ best%3:00:00::,good%3:00:01::
+#36 not ADV not%4:02:00::
+#39 time NOUN time%1:28:01::,time%1:28:05::
+I come now to a third argument , which again is very simple .
+3
+#2 now ADV now%4:02:02::,now%4:02:07::
+#6 argument NOUN argument%1:10:02::
+#12 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+When we come upon the rabbit and make our remark about its suffering being a bad thing , we presumably make it with some feeling ; the positivists are plainly right in saying that such remarks do usually express feeling .
+10
+#5 rabbit NOUN rabbit%1:13:00::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#16 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#24 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#29 plainly ADV plainly%4:02:01::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#38 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#39 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+But suppose that a week later we revert to the incident in thought and make our statement again .
+3
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#5 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+And suppose that the circumstances have now so changed that the feeling with which we made the remark in the first place has faded .
+8
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#4 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#8 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#11 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#23 fade VERB fade%2:30:01::
+The pathetic evidence is no longer before us ; and we are now so fatigued in body and mind that feeling is , as we say , quite dead .
+6
+#1 pathetic ADJ pathetic%5:00:00:unfortunate:00
+#12 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 so ADV so%4:02:03::,so%4:02:07::
+#20 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#27 quite ADV quite%4:02:02::
+#28 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+In these circumstances , since what was expressed by the remark when first made is , on the theory before us , simply absent , the remark now expresses nothing .
+7
+#2 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#7 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 simply ADV simply%4:02:00::,simply%4:02:02::
+#23 absent ADJ absent%3:00:00::
+#27 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#28 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+It is as empty as the word " Hurrah " would be when there was no enthusiasm behind it .
+2
+#6 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#16 enthusiasm NOUN enthusiasm%1:07:00::
+When we repeat the remark that such suffering was a bad thing , the feeling with which we made it last week may be at or near the vanishing point , but if we were asked whether we meant to say what we did before , we should certainly answer Yes .
+11
+#2 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#10 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#11 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#35 ask VERB ask%2:32:00::,ask%2:32:04::
+#38 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#40 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#44 before ADV before%4:02:03::
+#49 answer VERB answer%2:31:00::,answer%2:32:00::
+We should say that we made our point with feeling the first time and little or no feeling the second time , but that it was the same point we were making .
+11
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#9 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#12 time NOUN time%1:11:00::
+#17 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#20 time NOUN time%1:11:00::
+#27 same ADJ same%3:00:00::,same%3:00:02::
+#28 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+And if we can see that what we meant to say remains the same , while the feeling varies from intensity to near zero , it is not the feeling that we primarily meant to express .
+10
+#4 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#8 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 same ADJ same%3:00:00::,same%3:00:02::
+#17 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#20 intensity NOUN intensity%1:07:00::
+#27 not ADV not%4:02:00::
+#29 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#33 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#35 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+I come now to a fourth consideration .
+1
+#6 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+We all believe that toward acts or effects of a certain kind one attitude is fitting and another not ; but on the theory before us such a belief would not make sense .
+6
+#2 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#5 act NOUN act%1:03:00::
+#7 effect NOUN effect%1:09:00::,effect%1:19:00::
+#15 fitting ADJ fitting%5:00:00:just:00
+#28 belief NOUN belief%1:09:00::,belief%1:09:01::
+#30 not ADV not%4:02:00::
+Broad and Ross have lately contended that this fitness is one of the main facts of ethics , and I suspect they are right .
+4
+#5 contend VERB contend%2:32:01::
+#16 ethics NOUN ethics%1:09:00::
+#20 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#23 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+But that is not exactly my point .
+3
+#3 not ADV not%4:02:00::
+#4 exactly ADV exactly%4:02:02::
+#6 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+My point is this :
+1
+#1 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+whether there is such fitness or not , we all assume that there is , and if we do , we express in moral judgments more than the subjectivists say we do .
+5
+#10 assume VERB assume%2:31:00::
+#21 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#23 moral ADJ moral%3:00:00::
+#24 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#29 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+In his novel The House of the Dead , Dostoevsky tells of his experiences in a Siberian prison camp .
+1
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Whatever the unhappy inmates of such camps are like today , Dostoevsky 's companions were about as grim a lot as can be imagined .
+5
+#6 camp NOUN camp%1:06:01::,camp%1:14:00::
+#13 companion NOUN companion%1:18:00::
+#15 about ADV about%4:02:00::
+#19 lot NOUN lot%1:14:00::,lot%1:14:01::
+#23 imagine VERB imagine%2:31:01::
+" I have heard stories " , he writes , " of the most terrible , the most unnatural actions , of the most monstrous murders , told with the most spontaneous , childishly merry laughter " .
+7
+#4 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#13 most ADV most%4:02:00::
+#17 most ADV most%4:02:00::
+#19 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#23 most ADV most%4:02:00::
+#27 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#30 most ADV most%4:02:00::
+Most of us would say that in this delight at the killing of others or the causing of suffering there is something very unfitting .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 killing NOUN killing%1:04:00::
+#23 unfit ADJ unfit%3:00:01::
+If we were asked why we thought so , we should say that these things involve great evil and are wrong , and that to take delight in what is evil or wrong is plainly unfitting .
+8
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#16 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#20 wrong ADJ wrong%3:00:01::
+#32 wrong ADJ wrong%3:00:01::
+#34 plainly ADV plainly%4:02:01::
+#35 unfit ADJ unfit%3:00:01::
+Now on the subjectivist view , this answer is ruled out .
+1
+#4 view NOUN view%1:09:04::
+For before someone takes up an attitude toward death , suffering , or their infliction , they have no moral quality at all .
+1
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+There is therefore nothing about them to which an attitude of approval or condemnation could be fitting .
+3
+#11 approval NOUN approval%1:26:00::
+#13 condemnation NOUN condemnation%1:10:00::
+#16 fitting ADJ fitting%5:00:00:just:00
+They are in themselves neutral , and , so far as they get a moral quality , they get it only through being invested with it by the attitude of the onlooker .
+2
+#4 neutral ADJ neutral%5:00:00:nonaligned:00
+#20 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+But if that is true , why is any attitude more fitting than any other ?
+3
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#11 fitting ADJ fitting%5:00:00:just:00
+#14 other ADJ other%3:00:00::
+Would applause , for example , be fitting if , apart from the applause , there were nothing good to applaud ?
+3
+#7 fitting ADJ fitting%5:00:00:just:00
+#10 apart ADV apart%4:02:01::,apart%4:02:06::
+#18 good ADJ good%3:00:01::,good%5:00:00:nice:00
+Would condemnation be fitting if , independently of the condemnation , there were nothing bad to condemn ?
+5
+#1 condemnation NOUN condemnation%1:10:00::
+#3 fitting ADJ fitting%5:00:00:just:00
+#6 independently ADV independently%4:02:01::
+#9 condemnation NOUN condemnation%1:10:00::
+#14 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+In such a case , any attitude would be as fitting or unfitting as any other , which means that the notion of fitness has lost all point .
+7
+#3 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#10 fitting ADJ fitting%5:00:00:just:00
+#12 unfit ADJ unfit%3:00:01::
+#15 other ADJ other%3:00:00::
+#21 notion NOUN notion%1:09:02::
+#25 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#27 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+Indeed we are forced to go much farther .
+2
+#0 indeed ADV indeed%4:02:03::
+#3 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+If goodness and badness lie in attitudes only and hence are brought into being by them , those men who greeted death and misery with childishly merry laughter are taking the only sensible line .
+8
+#1 goodness NOUN goodness%1:07:02::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 hence ADV hence%4:02:00::
+#13 being NOUN being%1:26:00::
+#20 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#29 take VERB take%2:31:02::,take%2:34:00::
+#32 sensible ADJ sensible%3:00:04::
+#33 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+If there is nothing evil in these things , if they get their moral complexion only from our feeling about them , why should n't they be greeted with a cheer ?
+6
+#7 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 complexion NOUN complexion%1:09:00::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#18 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#27 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#30 cheer NOUN cheer%1:10:00::
+To greet them with repulsion would turn what before was neutral into something bad ; it would needlessly bring badness into the world ; and even on subjectivist assumptions that does not seem very bright .
+8
+#1 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#4 repulsion NOUN repulsion%1:12:00::
+#8 before ADV before%4:02:03::
+#13 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#22 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#28 assumption NOUN assumption%1:09:00::
+#31 not ADV not%4:02:00::
+#34 bright ADJ bright%5:00:00:intelligent:00
+On the other hand , to greet them with delight would convert what before was neutral into something good ; it would bring goodness into the world .
+6
+#6 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#11 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+#13 before ADV before%4:02:03::
+#18 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#23 goodness NOUN goodness%1:07:02::
+#26 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::

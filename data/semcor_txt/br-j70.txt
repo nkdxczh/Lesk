@@ -1,0 +1,656 @@
+ In the midwest , oxidation ponds are used extensively for the treatment of domestic sewage from suburban areas .
+3
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+#17 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The high cost of land and a few operational problems resulting from excessive loadings have created the need for a wastewater treatment system with the operational characteristics of the oxidation pond but with the ability to treat more organic matter per unit volume .
+12
+#1 high ADJ high%3:00:02::
+#4 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 need NOUN need%1:26:00::
+#22 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#26 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#34 ability NOUN ability%1:09:00::
+#36 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#38 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#39 matter NOUN matter%1:03:00::,matter%1:10:00::
+#41 unit NOUN unit%1:23:00::
+#42 volume NOUN volume%1:07:03::,volume%1:23:00::
+Research at Fayette , Missouri on oxidation ponds has shown that the BOD in the treated effluent varied from 30 to 53 mg / l with loadings from 8 to 120 lb BOD / day / acre .
+5
+#4 Missouri NOUN missouri%1:15:00::
+#9 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#24 L NOUN l%1:10:00::,l%1:23:00::
+#31 pound NOUN pound%1:23:09::,pound%1:23:10::
+#34 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Since experience indicates that effluents from oxidation ponds do not create major problems at these BOD concentrations , the goal for the effluent quality of the accelerated treatment system was the same as from conventional oxidation ponds .
+9
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#9 not ADV not%4:02:00::
+#11 major ADJ major%3:00:05::,major%3:00:06::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#16 concentration NOUN concentration%1:04:01::
+#19 goal NOUN goal%1:09:00::,goal%1:15:00::
+#23 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#28 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#31 same ADJ same%3:00:00::
+Recent studies by Weston and Stack had indicated that a turbine aerator could be added to an oxidation pond to increase the rate of oxygen transfer .
+5
+#0 recent ADJ recent%5:00:00:past:00
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#14 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#22 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#25 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+Their study showed that it was possible to transfer 3 to 4 lb of oxygen / hr / hp .
+4
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#8 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+#12 pound NOUN pound%1:23:09::,pound%1:23:10::
+O'Connor and Eckenfelder discussed the use of aerated lagoons for treating organic wastes .
+3
+#10 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#11 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#12 waste NOUN waste%1:27:00::
+They indicated that a 4 - day retention , aerated lagoon would give 60 to 76 per cent BOD reduction .
+2
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#19 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+Later , Eckenfelder increased the efficiency of treatment to between 75 and 85 per cent in the summer months .
+2
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#17 summer NOUN summer%1:28:00::
+It appeared from the limited information available that the aerated lagoon might offer a satisfactory means of increasing the capacity of existing oxidation ponds as well as providing the same degree of treatment in a smaller volume .
+8
+#1 appear VERB appear%2:30:00::
+#5 information NOUN information%1:09:00::,information%1:10:02::
+#15 means NOUN means%1:06:00::
+#19 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+#27 provide VERB provide%2:34:00::,provide%2:40:00::
+#29 same ADJ same%3:00:00::
+#30 degree NOUN degree%1:26:01::
+#36 volume NOUN volume%1:07:03::,volume%1:23:00::
+With the development of the Red Bridge Subdivision south of Kansas City , Missouri , the developer was faced with the problem of providing adequate sewage disposal .
+5
+#8 south ADV south%4:02:00::
+#13 Missouri NOUN missouri%1:15:00::
+#18 face VERB face%2:32:00::,face%2:32:03::
+#21 problem NOUN problem%1:09:00::,problem%1:26:00::
+#23 provide VERB provide%2:34:00::,provide%2:40:00::
+The sewage system from Kansas City was not expected to serve the Red Bridge area for several years .
+4
+#7 not ADV not%4:02:00::
+#10 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#14 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#17 year NOUN year%1:28:00::,year%1:28:01::
+This necessitated the construction of temporary sewage treatment facilities with an expected life from 5 to 15 yrs. .
+2
+#8 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#12 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+For the initial development an oxidation pond was constructed as shown in Figure 1 .
+2
+#10 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#12 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+The oxidation pond has a surface area of 4.77 acres and a depth of 4 ft .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 depth NOUN depth%1:07:00::,depth%1:07:02::,depth%1:15:00::
+The pond is currently serving 1230 persons or 260 persons per acre .
+3
+#4 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#6 person NOUN person%1:03:00::,person%1:08:00::
+#9 person NOUN person%1:03:00::,person%1:08:00::
+In the summer of 1960 the oxidation pond became completely septic and emitted obnoxious odors .
+4
+#2 summer NOUN summer%1:28:00::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#10 septic ADJ septic%3:00:00::
+#14 odor NOUN odor%1:07:00::
+It was possible to maintain aerobic conditions in the pond by regular additions of sodium nitrate until the temperature decreased and the algae population changed from blue-green to green algae .
+4
+#4 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#6 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#12 addition NOUN addition%1:23:00::
+#24 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+The anaerobic conditions in the existing oxidation pond necessitated examination of other methods for supplying additional oxygen than by sodium nitrate .
+3
+#2 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#9 examination NOUN examination%1:09:03::
+#11 other ADJ other%3:00:00::
+At the same time further expansion in the Red Bridge Subdivision required the construction of additional sewage treatment facilities .
+2
+#4 further ADJ further%5:00:00:far:00
+#18 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+The large land areas required for oxidation ponds made this type of treatment financially unattractive to the developer .
+3
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 type NOUN type%1:18:00::
+It was proposed that aerated lagoons be used to eliminate the problem at the existing oxidation ponds and to provide the necessary treatment for the additional development .
+5
+#2 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#11 problem NOUN problem%1:09:00::,problem%1:26:00::
+#19 provide VERB provide%2:34:00::,provide%2:40:00::
+#21 necessary ADJ necessary%3:00:00::
+The lack of adequate data on the aerated lagoon system prompted the developer to construct an aerated lagoon pilot plant to determine its feasibility for treating domestic sewage .
+6
+#9 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#10 prompt VERB prompt%2:32:00::
+#19 plant NOUN plant%1:06:01::
+#21 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#25 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#26 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+The pilot plant was a circular lagoon 81 ft in diam at the surface and 65 ft in diam at the bottom , 4 ft below the surface , with a volume of 121000 gal .
+6
+#2 plant NOUN plant%1:06:01::
+#5 circular ADJ circular%3:00:00::
+#13 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#21 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+#27 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#31 volume NOUN volume%1:07:03::,volume%1:23:00::
+The side slopes were coated with fiberglas matting coated with asphalt to prevent erosion .
+4
+#1 side NOUN side%1:06:00::,side%1:15:00::
+#2 slope NOUN slope%1:07:00::
+#7 matting NOUN matting%1:06:00::
+#12 prevent VERB prevent%2:41:00::
+The pilot lagoon was located as shown in Figure 1 to serve the area just south of the existing housing area .
+7
+#6 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#8 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#11 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#13 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#15 south ADJ south%3:00:00::
+#19 housing NOUN housing%1:06:00::
+#20 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The major contributor was a shopping center with houses being added to the system as the subdivision developed .
+5
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#10 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#13 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#17 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+The pilot lagoon was designed to handle the wastes from 314 persons with a 4 - day aeration period .
+4
+#6 handle VERB handle%2:41:00::,handle%2:41:03::
+#11 person NOUN person%1:03:00::,person%1:08:00::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 period NOUN period%1:28:00::,period%1:28:03::
+Initially , the wastewater would be entirely from the shopping center with the domestic sewage from the houses increasing over an 18 - month period .
+3
+#13 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+#17 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#24 period NOUN period%1:28:00::,period%1:28:03::
+This operation would permit evaluation of the pilot plant , with a slowly increasing load , over a reasonable period of time .
+4
+#1 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#8 plant NOUN plant%1:06:01::
+#14 load NOUN load%1:06:00::
+#18 reasonable ADJ reasonable%5:00:00:moderate:00
+The pilot plant was equipped with a 3 - hp turbine aerator ( Figure 2 ) .
+2
+#2 plant NOUN plant%1:06:01::
+#13 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+The aerator had a variable speed drive to permit operation through a range of speeds .
+5
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 variable ADJ variable%5:00:00:adaptable:00
+#6 drive NOUN drive%1:06:02::,drive%1:06:03::
+#9 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#12 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The sewage flow into the treatment plant was metered and continuously recorded on 24 - hr charts .
+2
+#6 plant NOUN plant%1:06:01::
+#11 record VERB record%2:32:00::,record%2:32:03::
+The raw sewage was introduced directly under the turbine aerator to insure maximum mixing of the raw sewage with the aeration tank contents .
+6
+#1 raw ADJ raw%5:00:00:unanalyzed:00
+#5 directly ADV directly%4:02:05::
+#11 insure VERB insure%2:32:04::,insure%2:40:00::
+#16 raw ADJ raw%5:00:00:unanalyzed:00
+#21 tank NOUN tank%1:06:00::
+#22 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+The effluent was collected through two pipes and discharged to the Blue River through a surface drainage ditch .
+4
+#3 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#6 pipe NOUN pipe%1:06:00::
+#8 discharge VERB discharge%2:29:00::
+#15 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+Composite samples were collected at weekly intervals .
+3
+#0 composite NOUN composite%1:09:00::
+#3 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#6 interval NOUN interval%1:09:00::
+The long retention period and the complete mixing concept prevented rapid changes in either the mixed liquor or in the effluent .
+4
+#3 period NOUN period%1:28:00::,period%1:28:03::
+#6 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#9 prevent VERB prevent%2:41:00::
+#11 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+Weekly samples would make any changes more readily discernible than daily samples .
+3
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#6 more ADV more%4:02:00::
+The composite samples were normally collected over a 6 - hr period , but an occasional 24 - hr composite was made .
+5
+#1 composite NOUN composite%1:09:00::
+#4 normally ADV normally%4:02:00::
+#5 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#11 period NOUN period%1:28:00::,period%1:28:03::
+#19 composite NOUN composite%1:09:00::
+Examination of the operations of the shopping center permitted correlation of the 6 - hr composite samples with 24 - hr operations .
+4
+#0 examination NOUN examination%1:09:03::
+#3 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#15 composite NOUN composite%1:09:00::
+#21 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+The data indicated that the organic load during the 6 - hr composites was essentially 50 per cent of the 24 - hr organic load .
+7
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#5 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#6 load NOUN load%1:06:00::
+#12 composite NOUN composite%1:09:00::
+#23 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#24 load NOUN load%1:06:00::
+Grab samples were collected from the existing oxidation pond to determine its operating conditions .
+3
+#3 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#10 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#13 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+Efforts were made to take the grab samples at random periods so that the mass of data could be treated as a 6 - hr composite sample .
+7
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 random ADJ random%3:00:00::
+#10 period NOUN period%1:28:00::,period%1:28:03::
+#14 mass NOUN mass%1:07:01::,mass%1:14:02::,mass%1:17:00::,mass%1:23:00::
+#16 data NOUN data%1:14:00::,datum%1:09:00::
+#19 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#25 composite NOUN composite%1:09:00::
+A single 24 - hr composite sample indicated that the sewage flow pattern and characteristics were typical .
+5
+#1 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#5 composite NOUN composite%1:09:00::
+#7 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#14 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+The BOD of the influent to the pilot plant varied between 110 and 710 mg / l with an average of 350 mg / l .
+4
+#8 plant NOUN plant%1:06:01::
+#16 l X l%1:23:00::
+#19 average NOUN average%1:09:01::
+#24 l X l%1:23:00::
+This was equivalent to 240 mg / l BOD on a 24 - hr basis .
+1
+#7 l X l%1:23:00::
+The BOD of the raw sewage was typical of domestic sewage from a subdivision .
+2
+#4 raw ADJ raw%5:00:00:unanalyzed:00
+#9 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+The BOD in the effluent averaged 58 mg / l , a 76 - per cent reduction over the 24 - hr period .
+3
+#9 l X l%1:23:00::
+#16 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#22 period NOUN period%1:28:00::,period%1:28:03::
+Examination of the data in Table 1 , shows that a few samples contributed to raising the effluent BOD .
+4
+#0 examination NOUN examination%1:09:03::
+#3 data NOUN data%1:14:00::,datum%1:09:00::
+#5 table NOUN table%1:14:00::
+#15 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+The periods of high effluent BOD occurred during cold periods when operational problems with the aerator resulted .
+5
+#1 period NOUN period%1:28:00::,period%1:28:03::
+#3 high ADJ high%3:00:02::
+#8 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#9 period NOUN period%1:28:00::,period%1:28:03::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+Ice caused the aerator to overload , straining the drive belts .
+3
+#0 ice NOUN ice%1:27:00::
+#9 drive NOUN drive%1:06:02::,drive%1:06:03::
+#10 belt NOUN belt%1:17:00::
+The slippage of the drive belts caused the aerator to slow down and reduce oxygen transfer as well as the mixing of the raw sewage .
+5
+#4 drive NOUN drive%1:06:02::,drive%1:06:03::
+#5 belt NOUN belt%1:17:00::
+#13 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#15 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#23 raw ADJ raw%5:00:00:unanalyzed:00
+The organic loading on the unit averaged 32 lb of BOD / day or about 2 lb BOD / day 1000 cu ft aeration capacity .
+7
+#1 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#5 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#8 pound NOUN pound%1:23:09::,pound%1:23:10::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#16 pound NOUN pound%1:23:09::,pound%1:23:10::
+#19 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#24 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+Needless to say , the organic load was very low on a volumetric basis , but was 270 lb BOD / day / acre on a surface loading basis .
+7
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#6 load NOUN load%1:06:00::
+#9 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#18 pound NOUN pound%1:23:09::,pound%1:23:10::
+#21 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#26 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+It seems that the aerated lagoon was a very heavily loaded oxidation pond or a lightly loaded activated sludge system .
+5
+#9 heavily ADV heavily%4:02:00::
+#10 loaded ADJ loaded%5:00:00:rich:00
+#15 lightly ADV lightly%4:02:03::
+#16 loaded ADJ loaded%5:00:00:rich:00
+#19 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+The flow rate remained relatively constant during the winter months as shown in Table 1 , .
+1
+#13 table NOUN table%1:14:00::
+With the spring rains the flow rose rapidly due to infiltration in open sewers .
+2
+#2 spring NOUN spring%1:28:00::
+#13 sewer NOUN sewer%1:06:00::
+As construction progresses , the volume of storm drainage will be sharply reduced .
+3
+#5 volume NOUN volume%1:07:03::,volume%1:23:00::
+#7 storm NOUN storm%1:19:00::
+#12 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+The retention period in the aerated lagoon ranged from 9.8 to 2.6 days , averaging 6.4 days .
+4
+#2 period NOUN period%1:28:00::,period%1:28:03::
+#7 range VERB range%2:42:00::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The large amount of vegetable grindings from the grocery store in the shopping center created a suspended solids problem .
+3
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 vegetable NOUN vegetable%1:20:00::
+#18 problem NOUN problem%1:09:00::,problem%1:26:00::
+The vegetables were not readily metabolized by the bacteria in the aeration unit and tended to float on the surface .
+6
+#1 vegetable NOUN vegetable%1:20:00::
+#3 not ADV not%4:02:00::
+#12 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#14 tend VERB tend%2:42:01::
+#16 float VERB float%2:38:01::
+#19 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+A skimming device at the effluent weir prevented loss of most of these light solids .
+4
+#1 skim VERB skim%2:35:01::
+#2 device NOUN device%1:06:00::
+#7 prevent VERB prevent%2:41:00::
+#13 light ADJ light%3:00:05::,light%3:00:08::,light%5:00:00:shallow:02,light%5:00:00:undemanding:01
+The average volatile suspended solids in the effluent was 75 mg / l while MLSS averaged 170 mg / l volatile suspended solids .
+4
+#2 volatile ADJ volatile%3:00:00::
+#12 l X l%1:23:00::
+#19 l X l%1:23:00::
+#20 volatile ADJ volatile%3:00:00::
+The average sludge age based on displacement of solids was calculated to be 14.5 days .
+5
+#3 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#4 base VERB base%2:31:00::
+#6 displacement NOUN displacement%1:04:00::
+#10 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#14 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The oxygen uptake rate in the mixed liquor averaged 0.8 mg / l / hr during the first four months of this study .
+5
+#2 uptake NOUN uptake%1:22:00::
+#3 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#12 l X l%1:23:00::
+#17 first ADJ first%3:00:00::,first%4:02:00::
+#22 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+Variations in aerator speeds during the latter two months of this study caused increased mixing and increased oxygen demand .
+4
+#0 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#3 speed NOUN speed%1:04:00::,speed%1:07:00::
+#6 latter ADJ latter%3:00:00::
+#11 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+The increase in oxygen uptake rates from 1.2 to 2.6 mg / l / hr which followed an increase in rotor speed was believed to be related to resuspension of solids which had settled at the lower rotor speeds .
+7
+#4 uptake NOUN uptake%1:22:00::
+#5 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#12 l X l%1:23:00::
+#16 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#21 speed NOUN speed%1:04:00::,speed%1:07:00::
+#23 believe VERB believe%2:31:03::
+#33 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+It appeared that most of the mixed liquor suspended solids were active microbial solids with the heavier , less active solids settling out .
+5
+#1 appear VERB appear%2:30:00::
+#8 suspend VERB suspend%2:30:01::
+#16 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#18 less ADV less%4:02:00::,less%4:02:01::
+#21 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+The suspended solids discharged in the effluent were found to be the major source of the BOD .
+3
+#3 discharge VERB discharge%2:29:00::
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 major ADJ major%3:00:05::,major%3:00:06::
+Removal of the suspended solids by a membrane filter yielded an average effluent containing only 20 mg / l BOD .
+4
+#9 yield VERB yield%2:36:00::,yield%2:40:00::,yield%2:40:02::
+#13 contain VERB contain%2:42:00::,contain%2:42:06::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#18 l X l%1:23:00::
+The BOD in the drainage ditch receiving the pilot plant effluent averaged 12 mg / l .
+2
+#9 plant NOUN plant%1:06:01::
+#15 l X l%1:23:00::
+This low BOD was due to removal of the excess suspended solids by sedimentation since the only dilution was surface runoff which was very low during this study .
+4
+#1 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#20 runoff NOUN runoff%1:11:00::
+#24 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#27 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+Routine microscopic examinations were made of the mixed liquor as indicated by McKinney and Gram for the various types of protozoa .
+4
+#1 microscopic ADJ microscopic%3:01:00::
+#2 examination NOUN examination%1:09:03::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#18 type NOUN type%1:18:00::
+It was found that the aerated lagoon was an activated sludge system rather than an oxidation pond .
+2
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+At no time were algae found in the mixed liquor .
+1
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The bacteria formed typical activated sludge floc .
+1
+#2 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+The floc particles were all small as the heavier floc settled out .
+3
+#2 particle NOUN particle%1:17:00::,particle%1:27:01::
+#8 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#10 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+Initially , the flagellated protozoa predominated , but they soon gave way to the free swimming ciliated protozoa .
+1
+#9 soon ADV soon%4:02:00::
+As the temperature decreased , the number of free swimming ciliated protozoa decreased .
+1
+#6 number NOUN number%1:10:01::,number%1:23:00::
+When the temperature reached 32 ` F all protozoan activity ceased ; but as the temperature rose , the numbers of protozoa increased rapidly .
+3
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#16 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#19 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Only once were stalked ciliates found in the mixed liquor .
+3
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#1 once ADV once%4:02:00::
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+The predomination of free swimming ciliated protozoa is indicative of a high bacterial population .
+1
+#11 high ADJ high%3:00:02::
+One of the important aspects of this study was to determine the oxygen transfer relationships of the mechanical aerator .
+5
+#4 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#7 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#10 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#13 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#17 mechanical ADJ mechanical%3:01:01::
+Routine determinations were made for dissolved oxygen in the mixed liquor and for oxygen uptake rates .
+4
+#1 determination NOUN determination%1:04:01::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 uptake NOUN uptake%1:22:00::
+#15 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+The data given in Table 2 , show the routine operation of the aerator .
+4
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#2 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#4 table NOUN table%1:14:00::
+#10 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 .
+2
+#6 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#9 high ADJ high%3:00:02::
+An extended cold spell caused ice to build up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water .
+5
+#5 ice NOUN ice%1:27:00::
+#14 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#17 floating ADJ floating%5:00:00:afloat:00
+#18 platform NOUN platform%1:06:01::
+#23 platform NOUN platform%1:06:01::
+The added resistance to the rotor damaged the drive belts and reduced the oxygen transfer capacity .
+6
+#2 resistance NOUN resistance%1:04:00::
+#8 drive NOUN drive%1:06:02::,drive%1:06:03::
+#9 belt NOUN belt%1:17:00::
+#11 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#14 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#15 capacity NOUN capacity%1:04:00::,capacity%1:07:00::,capacity%1:19:00::,capacity%1:23:00::
+It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen .
+3
+#7 belt NOUN belt%1:17:00::
+#8 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate .
+7
+#1 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#5 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#7 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#9 different ADJ different%3:00:00::,different%5:00:00:other:00
+#13 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#16 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#17 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+Five of the tests were conducted with a polyethylene cover to simulate an ice cover .
+5
+#3 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#5 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#9 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#13 ice NOUN ice%1:27:00::
+#14 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+The rate of oxygen transfer at 1.0 - mg / l dissolved oxygen concentration and 10 ` C for various rotor speeds is given in Table 3 , .
+7
+#1 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#4 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#10 l X l%1:23:00::
+#13 concentration NOUN concentration%1:04:01::
+#17 Celsius NOUN celsius_scale%1:24:00::
+#23 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#25 table NOUN table%1:14:00::
+The maximum rate of oxygen transfer at 1.0 mg / l dissolved oxygen was calculated as 220 lb / day at a maximum rate of 9.3 mg / l / hr .
+8
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#5 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#10 l X l%1:23:00::
+#14 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#17 pound NOUN pound%1:23:09::,pound%1:23:10::
+#19 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#28 l X l%1:23:00::
+The actual power requirements indicated 2 lb oxygen transfer / hr / hp .
+2
+#2 power NOUN power%1:19:00::
+#6 pound NOUN pound%1:23:09::,pound%1:23:10::
+The polyethylene cover reduced the oxygen transfer rate by 10 per cent , indicating that the maximum oxygen transfer is at the rotor rather than through the surface .
+7
+#2 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#3 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#6 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#7 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#13 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#18 transfer NOUN transfer%1:04:00::,transfer%1:04:02::,transfer%1:04:03::,transfer%1:18:00::
+#27 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+During this study septic conditions developed in the oxidation pond in the spring when the ice melted .
+7
+#2 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#3 septic ADJ septic%3:00:00::
+#4 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#5 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#12 spring NOUN spring%1:28:00::
+#15 ice NOUN ice%1:27:00::
+#16 melt VERB melt%2:30:00::
+Shortly after this study ended septic conditions resulted which required the addition of sodium nitrate .
+5
+#0 shortly ADV shortly%4:02:01::
+#3 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#5 septic ADJ septic%3:00:00::
+#6 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#11 addition NOUN addition%1:23:00::
+The location of the oxidation pond in a high value residential area makes odor nuisances a sensitive problem for the developer .
+6
+#8 high ADJ high%3:00:02::
+#9 value NOUN value%1:21:00::,values%1:09:00::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 odor NOUN odor%1:07:00::
+#17 problem NOUN problem%1:09:00::,problem%1:26:00::
+The organic concentration in the influent raw sewage ranged from 160 to 270 mg / l of BOD with an average of 230 mg / l .
+6
+#1 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#2 concentration NOUN concentration%1:04:01::
+#6 raw ADJ raw%5:00:00:unanalyzed:00
+#8 range VERB range%2:42:00::
+#15 l X l%1:23:00::
+#25 l X l%1:23:00::
+The BOD data are given in Table 4 , .
+3
+#2 data NOUN data%1:14:00::,datum%1:09:00::
+#4 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#6 table NOUN table%1:14:00::
+A single 24 - hr composite sample had a BOD of 260 mg / l , indicating a typical domestic sewage .
+5
+#1 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#5 composite NOUN composite%1:09:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 l X l%1:23:00::
+#19 domestic ADJ domestic%3:00:01::,domestic%3:01:00::,domestic%5:00:00:tame:01
+The daily sewage volume to the oxidation pond averaged 147000 gpd , giving a retention period of 42 days .
+4
+#3 volume NOUN volume%1:07:03::,volume%1:23:00::
+#12 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#15 period NOUN period%1:28:00::,period%1:28:03::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The organic loading on the pond was slightly under 60 lb BOD / day / acre .
+4
+#1 organic ADJ organic%3:00:01::,organic%5:00:00:wholesome:00
+#7 slightly ADV slightly%4:02:01::
+#10 pound NOUN pound%1:23:09::,pound%1:23:10::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The effluent BOD averaged 34 mg / l , a little lower than that of the study at Fayette indicated for a loading of 60 lb BOD / day / acre .
+4
+#7 l X l%1:23:00::
+#16 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#25 pound NOUN pound%1:23:09::,pound%1:23:10::
+#28 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+The BOD of the effluent ranged from a minimum of 13 to a maximum of 47 mg / l .
+2
+#5 range VERB range%2:42:00::
+#18 l X l%1:23:00::
+Microscopic examination of the effluent showed that minimum BOD occurred when the algae began to decrease with cold weather .
+3
+#0 microscopic ADJ microscopic%3:01:00::
+#1 examination NOUN examination%1:09:03::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+When the algae began to build up again , the effluent BOD rose .
+2
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#12 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+During the two weeks when the algae disappeared from the effluent BOD 's in the effluent were 18 and 16 mg / l .
+1
+#7 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::

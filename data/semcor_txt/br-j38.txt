@@ -1,0 +1,666 @@
+ Unemployed older workers who have no expectation of securing employment in the occupation in which they are skilled should be able to secure counseling and retraining in an occupation with a future .
+7
+#2 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 occupation NOUN occupation%1:04:00::
+#20 able ADJ able%3:00:00::
+#23 counsel NOUN counsel%1:10:00::
+#28 occupation NOUN occupation%1:04:00::
+#31 future NOUN future%1:10:00::,future%1:28:00::
+Some vocational training schools provide such training , but the current need exceeds the facilities .
+4
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 training NOUN training%1:04:00::
+#11 need NOUN need%1:26:00::
+#14 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+The present Federal program of vocational education began in 1917 with the passage of the Smith-Hughes Act , which provided a continuing annual appropriation of $ 7 million to support , on a matching basis , state administered programs of vocational education in agriculture , trades , industrial skills and home economics .
+11
+#1 present ADJ present%3:00:01::
+#3 program NOUN program%1:09:00::,program%1:09:01::
+#6 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#12 passage NOUN passage%1:04:01::
+#19 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#23 appropriation NOUN appropriation%1:21:00::
+#29 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#37 administer VERB administer%2:41:00::
+#38 program NOUN program%1:09:00::,program%1:09:01::
+#41 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+Since 1917 some thirteen supplementary and related acts have extended this Federal program .
+3
+#7 act NOUN act%1:10:01::
+#9 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#12 program NOUN program%1:09:00::,program%1:09:01::
+The George-Barden Act of 1946 raised the previous increases in annual authorizations to $ 29 million in addition to the $ 7 million under the Smith Act .
+2
+#5 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#7 previous ADJ previous%5:00:00:preceding:00
+The Health Amendment Act of 1956 added $ 5 million for practical nurse training .
+2
+#6 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#13 training NOUN training%1:04:00::
+The latest major change in this program was introduced by the National Defense Education Act of 1958 , Title 8 , of which amended the George-Barden Act .
+5
+#1 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+#2 major ADJ major%3:00:05::,major%3:00:06::
+#3 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#6 program NOUN program%1:09:00::,program%1:09:01::
+#8 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+Annual authorizations of $ 15 million were added for area vocational education programs that meet national defense needs for highly skilled technicians .
+6
+#7 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#11 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#12 program NOUN program%1:09:00::,program%1:09:01::
+#14 meet VERB meet%2:41:02::,meet%2:42:01::
+#16 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+The Federal program of vocational education merely provides financial aid to encourage the establishment of vocational education programs in public schools .
+7
+#2 program NOUN program%1:09:00::,program%1:09:01::
+#5 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#13 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#16 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#17 program NOUN program%1:09:00::,program%1:09:01::
+#19 public ADJ public%3:00:00::,public%5:00:00:common:02
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+The initiative , administration and control remain primarily with the local school districts .
+3
+#3 administration NOUN administration%1:04:00::
+#5 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Even the states remain primarily in an assisting role , providing leadership and teacher training .
+3
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 training NOUN training%1:04:00::
+Federal assistance is limited to half of the total expenditure , and the state or local districts must pay at least half .
+2
+#13 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#18 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The state may decide to encourage local programs by paying half of the cost , or the state may require the local district to bear this half or some part of it .
+4
+#1 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#7 program NOUN program%1:09:00::,program%1:09:01::
+#9 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#17 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Throughout the history of the program , state government expenditures in the aggregate have usually matched or exceeded the Federal expenditures , while local districts all together have spent more than either Federal or state governments .
+4
+#2 history NOUN history%1:28:02::
+#5 program NOUN program%1:09:00::,program%1:09:01::
+#12 aggregate NOUN aggregate%1:14:00::
+#15 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+Today , Federal funds account for only one-fifth of the nation 's expenditures for vocational education .
+2
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+The greatest impact of the matching fund principle has been in initially encouraging the poorest states and school districts to spend enough to obtain their full allocation of outside funds .
+7
+#5 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+#14 poor ADJ poor%3:00:00::,poor%3:00:03::
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#17 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#21 enough ADV enough%4:02:00::
+#23 obtain VERB obtain%2:40:00::
+#25 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+National defense considerations have been the major reason behind most Federal training expenditures in recent decades .
+6
+#1 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#2 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#6 major ADJ major%3:00:05::,major%3:00:06::
+#7 reason NOUN reason%1:09:01::,reason%1:16:00::
+#11 training NOUN training%1:04:00::
+#14 recent ADJ recent%5:00:00:past:00
+During World War 2 , about 7.5 million persons were enrolled in courses organized under two special programs administered by state and local school authorities : ( 1 ) Vocational Education for National Defense , and ( 2 ) War Production Training .
+11
+#8 person NOUN person%1:03:00::,person%1:08:00::
+#12 course NOUN course%1:04:01::,course%1:14:00::
+#13 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#17 program NOUN program%1:09:00::,program%1:09:01::
+#18 administer VERB administer%2:41:00::
+#23 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#24 authority NOUN authority%1:18:01::
+#30 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#33 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#40 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#41 training NOUN training%1:04:00::
+The total cost of the five year program was $ 297 million .
+2
+#6 year NOUN year%1:28:00::,year%1:28:01::
+#7 program NOUN program%1:09:00::,program%1:09:01::
+For the Smith-Hughes , George-Barden , and National Defense Act of 1958 , the cumulative total of Federal expenditures in 42 years was only about $ 740 million .
+3
+#21 year NOUN year%1:28:00::,year%1:28:01::
+#23 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#24 about ADV about%4:02:00::
+No comparable measures are available of enrollments and expenditures for private vocational education training .
+3
+#10 private ADJ private%5:00:00:personal:00
+#12 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#13 training NOUN training%1:04:00::
+There are a great number and variety of private commercial schools , trade schools and technical schools .
+6
+#3 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#4 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#8 private ADJ private%5:00:00:personal:00
+#9 commercial ADJ commercial%3:01:00::
+#10 school NOUN school%1:14:00::,school%1:14:03::
+In addition , many large corporations operate their own formal training programs .
+4
+#4 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#6 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#8 own ADJ own%5:00:00:personal:00
+#9 formal ADJ formal%5:00:00:nonrepresentational:00
+A recent study indicated that 85 per cent of the nation 's largest corporations conducted educational programs involving some class meetings and examinations .
+9
+#1 recent ADJ recent%5:00:00:past:00
+#2 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#3 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#16 program NOUN program%1:09:00::,program%1:09:01::
+#19 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#20 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+#22 examination NOUN examination%1:10:00::
+Most skilled industrial workers , nevertheless , still acquire their skills outside of formal training institutions .
+4
+#7 still ADV still%4:02:00::
+#13 formal ADJ formal%5:00:00:nonrepresentational:00
+#14 training NOUN training%1:04:00::
+#15 institution NOUN institution%1:14:00::
+The National Manpower Council of Columbia University has estimated that three out of five skilled workers and one out of five technicians have not been formally trained .
+3
+#23 not ADV not%4:02:00::
+#25 formally ADV formally%4:02:01::
+#26 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+There is little doubt that the students benefit from vocational education .
+1
+#10 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+Employers prefer to hire youth with such training rather than those without , and most graduates of vocational training go to work in jobs related to their training .
+9
+#1 prefer VERB prefer%2:31:00::
+#3 hire VERB hire%2:41:00::
+#4 youth NOUN youth%1:18:00::
+#7 training NOUN training%1:04:00::
+#15 graduate NOUN graduate%1:18:00::
+#18 training NOUN training%1:04:00::
+#21 work NOUN work%1:06:01::
+#23 job NOUN job%1:04:00::,job%1:06:00::
+#27 training NOUN training%1:04:00::
+Vocational educators do not claim that school training alone makes skilled workers , but it provides the essential groundwork for developing skills .
+8
+#3 not ADV not%4:02:00::
+#6 school NOUN school%1:14:00::,school%1:14:03::
+#7 training NOUN training%1:04:00::
+#8 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 provide VERB provide%2:34:00::,provide%2:40:00::
+#17 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#20 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+In most states , trade and industrial training is provided in a minority of the high schools , usually located in the larger cities .
+6
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#7 training NOUN training%1:04:00::
+#9 provide VERB provide%2:34:00::,provide%2:40:00::
+#12 minority NOUN minority%1:07:00::
+#22 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#23 city NOUN city%1:15:00::,city%1:15:01::
+In Arkansas fewer than 6 per cent of the high schools offer trade and industrial courses .
+1
+#15 course NOUN course%1:04:01::,course%1:14:00::
+In Illinois about 13 per cent of the schools have programs , and in Pennsylvania 11 per cent .
+1
+#10 program NOUN program%1:09:00::,program%1:09:01::
+An important recent trend is the development of area vocational schools .
+3
+#2 recent ADJ recent%5:00:00:past:00
+#6 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+For a number of years Kentucky , Louisiana and several other states have been building state sponsored vocational education schools that serve nearby school districts in several counties .
+10
+#2 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#10 other ADJ other%3:00:00::
+#11 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#16 sponsor VERB sponsor%2:40:00::
+#18 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#19 school NOUN school%1:14:00::,school%1:14:03::
+#21 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#23 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+These schools are intended to provide the facilities and specialized curriculum that would not be possible for very small school districts .
+5
+#3 intend VERB intend%2:31:01::,intend%2:32:00::
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#13 not ADV not%4:02:00::
+#19 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Transportation may be provided from nearby school districts .
+3
+#0 transportation NOUN transportation%1:04:00::
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Courses are provided mainly for post high school day programs ; but sometimes arrangements also are made for high school students to attend , and evening extension courses also may be conducted .
+10
+#0 course NOUN course%1:04:01::,course%1:14:00::
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 program NOUN program%1:09:00::,program%1:09:01::
+#13 arrangement NOUN arrangement%1:09:01::
+#16 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 attend VERB attend%2:42:00::
+#25 evening NOUN evening%1:28:00::,evening%1:28:02::
+#27 course NOUN course%1:04:01::,course%1:14:00::
+#31 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+The Title 8 , program of the National Defense Education Act of 1958 was a great spur to this trend toward area schools .
+5
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#15 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 spur NOUN spur%1:10:00::
+#21 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#22 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+By 1960 there were such schools in all but 4 states .
+2
+#5 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#10 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+They were operating in 10 of the 17 major areas of chronic labor surplus and in 10 of the minor areas .
+6
+#2 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#8 major ADJ major%3:00:05::,major%3:00:06::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#19 minor ADJ minor%3:00:07::
+#20 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+An extension of this program into the other distressed areas should be undertaken .
+4
+#1 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#7 other ADJ other%3:00:00::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Some of this trend toward area vocational schools has been related to the problems of persistent labor surplus areas and their desire to attract new industry .
+6
+#5 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#13 problem NOUN problem%1:09:00::,problem%1:26:00::
+#16 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#18 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#24 new ADJ new%3:00:00::
+#25 industry NOUN industry%1:04:00::,industry%1:14:00::
+The major training need of a new industrial plant is a short period of pre employment training for a large number of semi-skilled machine operators .
+8
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#2 training NOUN training%1:04:00::
+#6 new ADJ new%3:00:00::
+#8 plant NOUN plant%1:06:01::
+#11 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#12 period NOUN period%1:28:00::,period%1:28:03::
+#16 training NOUN training%1:04:00::
+#24 operator NOUN operator%1:18:00::
+A few key skilled workers experienced in the company 's type of work usually must be brought in with the plant manager , or hired away from a similar plant elsewhere .
+6
+#8 company NOUN company%1:14:03::
+#10 type NOUN type%1:18:00::
+#12 work NOUN work%1:04:00::,work%1:06:01::
+#20 plant NOUN plant%1:06:01::
+#24 hire VERB hire%2:41:00::
+#29 plant NOUN plant%1:06:01::
+A prospective industry also may be interested in the long-run advantages of training programs in the area to supply future skilled workers and provide supplementary extension courses for its employees .
+5
+#2 industry NOUN industry%1:04:00::,industry%1:14:00::
+#6 interested ADJ interested%3:00:00::
+#16 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#23 provide VERB provide%2:34:00::,provide%2:40:00::
+#26 course NOUN course%1:04:01::,course%1:14:00::
+The existence of a public school vocational training program in trade and industry provides a base from which such needs can be filled .
+3
+#12 industry NOUN industry%1:04:00::,industry%1:14:00::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+#15 base NOUN base%1:06:04::,base%1:09:00::
+Additional courses can readily be added and special cooperative programs worked out with any new industry if the basic facilities , staff and program are in being .
+9
+#1 course NOUN course%1:04:01::,course%1:14:00::
+#9 program NOUN program%1:09:00::,program%1:09:01::
+#14 new ADJ new%3:00:00::
+#15 industry NOUN industry%1:04:00::,industry%1:14:00::
+#18 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#19 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#21 staff NOUN staff%1:14:00::,staff%1:14:01::
+#23 program NOUN program%1:09:00::,program%1:09:01::
+#26 being NOUN being%1:26:00::
+Thus , besides the training provided to youth in school , the existence of the school program can have supplementary benefits to industry which make it an asset to industrial development efforts .
+12
+#0 thus ADV thus%4:02:01::
+#4 training NOUN training%1:04:00::
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+#7 youth NOUN youth%1:18:00::
+#9 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#15 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#16 program NOUN program%1:09:00::,program%1:09:01::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 benefit NOUN benefit%1:07:00::
+#22 industry NOUN industry%1:04:00::,industry%1:14:00::
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#30 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+Few states make effective use of their existing vocational education programs or funds for the purpose of attracting new industry .
+7
+#1 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#3 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#9 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#10 program NOUN program%1:09:00::,program%1:09:01::
+#18 new ADJ new%3:00:00::
+#19 industry NOUN industry%1:04:00::,industry%1:14:00::
+The opportunity exists for states to reserve some of their vocational education funds to apply on an ad hoc flexible basis to subsidize any local preemployment training programs that my be quickly set up in a community to aid a new industrial plant .
+7
+#2 exist VERB exist%2:42:00::
+#4 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#11 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#14 apply VERB apply%2:34:00::
+#36 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#40 new ADJ new%3:00:00::
+#42 plant NOUN plant%1:06:01::
+The major weakness of vocational training programs in labor surplus areas is their focus on serving solely local job demands .
+4
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#8 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#18 job NOUN job%1:04:00::,job%1:06:00::
+This weakness is not unique to labor surplus areas , for it is inherent in the system of local school districts in this country .
+5
+#3 not ADV not%4:02:00::
+#6 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#19 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#23 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Planning of vocational education programs and courses is oriented to local employer needs for trained workers .
+5
+#0 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#3 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#6 course NOUN course%1:04:01::,course%1:14:00::
+#8 orient VERB orient%2:39:00::
+All the manuals for setting up vocational courses stress the importance of first making a local survey of skill needs , of estimating the growth of local jobs , and of consulting with local employers on the types of courses and their content .
+9
+#2 manual NOUN manual%1:10:00::
+#7 course NOUN course%1:04:01::,course%1:14:00::
+#8 stress VERB stress%2:32:00::,stress%2:32:01::
+#13 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#16 survey NOUN survey%1:04:01::
+#24 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#27 job NOUN job%1:04:00::,job%1:06:00::
+#37 type NOUN type%1:18:00::
+#39 course NOUN course%1:04:01::,course%1:14:00::
+Furthermore , there is a cautious conservatism on the part of those making local skill surveys .
+3
+#9 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#12 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#15 survey NOUN survey%1:04:01::
+Local jobs can be seen and counted , while opportunities elsewhere are regarded as more hypothetical .
+4
+#1 job NOUN job%1:04:00::,job%1:06:00::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#6 count VERB count%2:32:00::,count%2:32:01::
+#14 more ADV more%4:02:00::,more%4:02:01::
+While the U. S. Department of Labor has a program of projecting industry and occupational employment trends and publishing current outlook statements , there is little tangible evidence that these projections have been used extensively in local curriculum planning .
+9
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 program NOUN program%1:09:00::,program%1:09:01::
+#11 project VERB project%2:31:00::,project%2:36:00::,project%2:36:01::
+#12 industry NOUN industry%1:04:00::,industry%1:14:00::
+#18 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#20 outlook NOUN outlook%1:04:00::
+#30 projection NOUN projection%1:09:01::
+#33 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#38 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+The U. S. Office of Education continues to stress local surveys rather than national surveys .
+4
+#6 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#8 stress VERB stress%2:32:00::,stress%2:32:01::
+#10 survey NOUN survey%1:04:01::
+#14 survey NOUN survey%1:04:01::
+This procedure is extremely shortsighted in chronic labor surplus areas with a long history of declining employment .
+4
+#7 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 long ADJ long%3:00:02::
+#13 history NOUN history%1:28:02::
+Elaborate studies have been made in labor surplus areas in order to identify sufficient numbers of local job vacancies and future replacement needs for certain skills to justify training programs for those skills .
+10
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#8 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 identify VERB identify%2:31:00::,identify%2:32:00::
+#14 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#17 job NOUN job%1:04:00::,job%1:06:00::
+#18 vacancy NOUN vacancy%1:26:00::
+#24 certain ADJ certain%5:00:00:definite:00
+#27 justify VERB justify%2:32:00::,justify%2:32:01::
+No effort is made in the same studies to present information on regional or national demand trends in these skills or to consider whether regional or national demands for other skills might provide much better opportunities for the youth to be trained .
+10
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 same ADJ same%3:00:00::,same%3:00:02::
+#7 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#9 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#10 information NOUN information%1:09:00::,information%1:10:02::
+#29 other ADJ other%3:00:00::
+#32 provide VERB provide%2:34:00::,provide%2:40:00::
+#34 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#38 youth NOUN youth%1:18:00::
+#41 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+Moreover , the current information on what types of training are needed and possible is too limited and fragmentary .
+4
+#4 information NOUN information%1:09:00::,information%1:10:02::
+#7 type NOUN type%1:18:00::
+#9 training NOUN training%1:04:00::
+#11 need VERB need%2:42:00::
+There simply is not enough material available on the types of job skills that are in demand and the types of training programs that are required or most suitable .
+7
+#1 simply ADV simply%4:02:00::,simply%4:02:02::
+#3 not ADV not%4:02:00::
+#5 material NOUN material%1:06:01::,material%1:10:00::
+#9 type NOUN type%1:18:00::
+#11 job NOUN job%1:04:00::,job%1:06:00::
+#19 type NOUN type%1:18:00::
+#27 most ADV most%4:02:00::
+Much of the available information comes not from the Federal government but from an exchange of experiences among states .
+2
+#6 not ADV not%4:02:00::
+#18 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+State and local agencies in the vocational education field must be encouraged to adopt a wider outlook on future job opportunities .
+4
+#3 agency NOUN agency%1:14:00::,agency%1:14:01::
+#7 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#8 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#19 job NOUN job%1:04:00::,job%1:06:00::
+There is a need for an expanded Federal effort to provide research and information to help guide state education departments and local school boards in existing programs .
+6
+#3 need NOUN need%1:26:00::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+#15 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#16 guide VERB guide%2:38:01::,guide%2:41:00::
+#18 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#26 program NOUN program%1:09:00::,program%1:09:01::
+A related question is whether unemployed workers can be motivated to take the training provided .
+3
+#6 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#13 training NOUN training%1:04:00::
+#14 provide VERB provide%2:34:00::,provide%2:40:00::
+There is little evidence that existing public or private training programs have any great difficulty getting students to enroll in their programs , even though they must pay tuition , receive no subsistence payments , and are not guaranteed a job .
+10
+#6 public ADJ public%3:00:00::,public%5:00:00:common:02
+#8 private ADJ private%5:00:00:personal:00
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#15 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#21 program NOUN program%1:09:00::,program%1:09:01::
+#27 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#32 subsistence NOUN subsistence%1:21:00::
+#37 not ADV not%4:02:00::
+#40 job NOUN job%1:04:00::,job%1:06:00::
+However , there always is some limit to the numbers who will spend the time and effort to acquire training .
+6
+#0 however ADV however%4:02:04::
+#3 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#6 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+#9 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#14 time NOUN time%1:28:01::,time%1:28:05::
+#19 training NOUN training%1:04:00::
+Again , one major difficulty is the local focus .
+1
+#3 major ADJ major%3:00:05::,major%3:00:06::
+A training program in a depressed area may have few enrollees unless there is some apparent prospect for better employment opportunities afterwards , and the prospect may be poor if the training is aimed solely at jobs in the local community .
+10
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 prospect NOUN prospect%1:26:00::
+#18 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#25 prospect NOUN prospect%1:26:00::
+#28 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#31 training NOUN training%1:04:00::
+#33 aim VERB aim%2:31:02::,aim%2:33:00::
+#36 job NOUN job%1:04:00::,job%1:06:00::
+#40 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+If there is adequate information on job opportunities for skilled jobs elsewhere , many more workers can be expected to respond .
+3
+#6 job NOUN job%1:04:00::,job%1:06:00::
+#10 job NOUN job%1:04:00::,job%1:06:00::
+#15 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+Another problem is who will pay for the training .
+3
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#5 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#8 training NOUN training%1:04:00::
+Local school districts are hard pressed financially and unenthusiastic about vocational training .
+2
+#1 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#11 training NOUN training%1:04:00::
+Programs usually are expanded only when outside funds are available or local business leaders demand it .
+2
+#0 program NOUN program%1:09:00::,program%1:09:01::
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Even industrial development leaders find it hard to win local support for training unless a new industry is in sight and requests it .
+9
+#2 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#3 leader NOUN leader%1:18:00::
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#6 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#8 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+#10 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#12 training NOUN training%1:04:00::
+#15 new ADJ new%3:00:00::
+#16 industry NOUN industry%1:04:00::,industry%1:14:00::
+State governments have been taking the lead in establishing area vocational schools , but their focus is still on area job opportunities .
+7
+#4 take VERB take%2:31:02::,take%2:34:00::
+#6 lead NOUN lead%1:04:00::,lead%1:04:01::,lead%1:09:00::
+#8 establish VERB establish%2:36:01::,establish%2:41:00::
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#17 still ADV still%4:02:00::
+#19 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#20 job NOUN job%1:04:00::,job%1:06:00::
+Only the Federal government is likely to be able to take a long-run and nation-wide view and to pay for training to meet national skilled manpower needs .
+7
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 able ADJ able%3:00:00::
+#10 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#15 view NOUN view%1:09:04::
+#18 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#20 training NOUN training%1:04:00::
+#22 meet VERB meet%2:41:02::,meet%2:42:01::
+If only state funds were used to pay for the vocational education , it could be argued that the state should not have to bear the cost of vocational training which would benefit employers in other states .
+9
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#11 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#16 argue VERB argue%2:32:02::
+#19 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#29 training NOUN training%1:04:00::
+#35 other ADJ other%3:00:00::
+#36 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+However , if Federal funds are used , it would be entirely appropriate to train workers for jobs which could be obtained elsewhere as well as for jobs in the area of chronic unemployment .
+8
+#0 however ADV however%4:02:04::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#15 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#17 job NOUN job%1:04:00::,job%1:06:00::
+#21 obtain VERB obtain%2:40:00::
+#27 job NOUN job%1:04:00::,job%1:06:00::
+#30 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Such training would increase the tendency of workers to leave the area and find jobs in other localities .
+7
+#1 training NOUN training%1:04:00::
+#7 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#9 leave VERB leave%2:38:00::,leave%2:41:00::
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#13 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 job NOUN job%1:04:00::,job%1:06:00::
+#16 other ADJ other%3:00:00::
+A further possibility is suggested by the example of the G. I. bills and also by some recent trends in attitudes toward improving college education : that is to provide financial assistance to individuals for vocational training when local facilities are inadequate .
+9
+#1 further ADJ further%5:00:00:far:00
+#7 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#12 bill NOUN bill%1:10:04::
+#17 recent ADJ recent%5:00:00:past:00
+#23 college NOUN college%1:14:00::,college%1:14:01::
+#24 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#29 provide VERB provide%2:34:00::,provide%2:40:00::
+#36 training NOUN training%1:04:00::
+#39 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+This probably would require some support for subsistence as well as for tuition , but the total would be no greater than for the proposals of unemployment compensation or a Youth Conservation Corps .
+4
+#5 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#7 subsistence NOUN subsistence%1:21:00::
+#20 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#24 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+A maximum of $ 600 per year per student would enable many to take training away from home .
+4
+#10 enable VERB enable%2:30:00::,enabling%3:00:00::
+#14 training NOUN training%1:04:00::
+#15 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#17 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+A program of financial assistance would permit placing emphasis on the national interest in training highly skilled labor .
+5
+#1 program NOUN program%1:09:00::,program%1:09:01::
+#7 place VERB place%2:31:13::
+#12 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#14 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#17 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+Instead of being limited to the poor training facilities in remote areas , the student would be able to move to large institutions of concentrated specialized training .
+11
+#6 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#7 training NOUN training%1:04:00::
+#8 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#10 remote ADJ remote%5:00:00:unlikely:00
+#11 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#17 able ADJ able%3:00:00::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#21 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#22 institution NOUN institution%1:14:00::
+#24 concentrated ADJ concentrated%3:00:02::
+#26 training NOUN training%1:04:00::
+Such specialized training institutions could be located near the most rapidly growing industries , where the equipment and job experience exist and where the future employment opportunities are located .
+7
+#2 training NOUN training%1:04:00::
+#3 institution NOUN institution%1:14:00::
+#7 near ADJ near%3:00:00::
+#9 most ADV most%4:02:00::
+#12 industry NOUN industry%1:04:00::,industry%1:14:00::
+#18 job NOUN job%1:04:00::,job%1:06:00::
+#20 exist VERB exist%2:42:00::
+This would heighten possibilities for part-time cooperative , on-the-job and extension training .
+1
+#11 training NOUN training%1:04:00::
+Personal financial assistance would enable more emphasis to be placed on the interests of the individual .
+3
+#0 personal ADJ personal%5:00:00:subjective:00
+#4 enable VERB enable%2:30:00::,enabling%3:00:00::
+#12 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+His aptitudes and preferences could be given more weight in selecting the proper training .
+5
+#1 aptitude NOUN aptitude%1:09:00::
+#3 preference NOUN preference%1:12:00::
+#6 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#12 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#13 training NOUN training%1:04:00::

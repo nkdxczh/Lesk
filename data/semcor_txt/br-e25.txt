@@ -1,0 +1,634 @@
+ Every taxpayer is well aware of the vast size of our annual defense budget and most of our readers also realize that a large portion of these expenditures go for military electronics .
+7
+#3 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#8 size NOUN size%1:07:00::,size%1:07:02::
+#12 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#18 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#20 realize VERB realize%2:31:01::
+#23 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#28 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+We have noted how some electronic techniques , developed for the defense effort , have evenutally been used in commerce and industry .
+6
+#2 note VERB note%2:32:00::,note%2:39:00::
+#8 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#11 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#19 commerce NOUN commerce%1:04:00::
+#21 industry NOUN industry%1:04:00::,industry%1:14:00::
+The host of novel applications of electronics to medical problems is far more thrilling because of their implication in matters concerning our health and vitality .
+8
+#1 host NOUN host%1:13:00::,host%1:14:00::,host%1:14:02::
+#4 application NOUN application%1:04:02::
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+#11 far ADV far%4:02:02::
+#12 more ADV more%4:02:00::
+#17 implication NOUN implication%1:09:00::
+#19 matter NOUN matter%1:09:00::,matter%1:09:01::
+#20 concern VERB concern%2:42:00::,concern%2:42:01::
+When we consider the electronic industry potential for human betterment , the prospect is staggering .
+4
+#4 electronic ADJ electronic%3:01:00::
+#5 industry NOUN industry%1:04:00::,industry%1:14:00::
+#6 potential NOUN potential%1:26:00::
+#12 prospect NOUN prospect%1:26:00::
+The author has recently studied the field of medical electronics and has been convinced that , in this area alone , the application of electronic equipment has enormous possibilities .
+6
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#6 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#18 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#19 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#22 application NOUN application%1:04:02::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The benefits electronics can bring to bio-medicine may be greater by far than any previous medical discovery .
+4
+#1 benefit NOUN benefit%1:07:00::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#14 previous ADJ previous%5:00:00:preceding:00
+#16 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+We use the term " bio-medicine " because of the close interrelation between biology and medical research .
+3
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#3 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#10 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+Electronics has been applied to medicine for many years in the form of such familiar equipment as the x-ray machine , the electrocardiograph , and the diathermy machine .
+3
+#3 apply VERB apply%2:42:00::
+#5 medicine NOUN medicine%1:04:00::
+#14 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+Recently many doctors have installed ultrasonic vibration machines for deep massage of bruises , contusions , and simple bursitis .
+4
+#2 doctor NOUN doctor%1:18:00::
+#4 install VERB install%2:35:00::
+#9 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+#17 simple ADJ simple%3:00:01::,simple%3:00:02::
+Commonly used electronic devices which are found in practically every hospital are closed-circuit TV and audio systems for internal paging and instruction , along with radiation counters , timers , and similar devices .
+8
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 practically ADV practically%4:02:00::
+#10 hospital NOUN hospital%1:06:00::
+#19 page VERB page%2:32:00::
+#21 instruction NOUN instruction%1:10:02::,instruction%1:10:04::
+#25 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#26 counter NOUN counter%1:18:00::
+#32 device NOUN device%1:06:00::
+In this article we will concentrate on the advances in the application of electronics in bio-medical research laboratories because this is where tomorrow 's commonplace equipment originates .
+3
+#2 article NOUN article%1:10:00::
+#8 advance NOUN advance%1:11:00::
+#11 application NOUN application%1:04:02::
+From the wealth of material and the wide variety of different electronic techniques perfected in the past few years we have selected a few examples which appear to be headed for use in the immediate future and which offer completely new tools in medical research .
+8
+#7 wide ADJ wide%5:00:00:large:00
+#8 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#10 different ADJ different%3:00:00::,different%5:00:00:other:00
+#11 electronic ADJ electronic%3:01:00::
+#24 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#26 appear VERB appear%2:30:00::
+#35 future NOUN future%1:10:00::,future%1:28:00::
+#41 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+Many cells , bacteria , and other microorganisms are transparent to visible light and must be stained for microscopic investigation .
+4
+#1 cell NOUN cell%1:03:00::,cell%1:06:03::
+#6 other ADJ other%3:00:00::
+#16 stain VERB stain%2:30:01::
+#18 microscopic ADJ microscopic%3:01:00::
+This stain often disrupts the normal cell activity or else colors only the outside .
+5
+#1 stain NOUN stain%1:27:00::
+#5 normal ADJ normal%3:00:01::,normal%3:00:03::
+#6 cell NOUN cell%1:03:00::,cell%1:06:03::
+#10 color VERB color%2:36:01::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+A completely new insight into living cells and their structure will be possible by use of a new technique which replaces visible light with ultraviolet radiation and combines a microscope with a color - TV system to view the results .
+5
+#2 new ADJ new%3:00:00::
+#6 cell NOUN cell%1:03:00::,cell%1:06:03::
+#20 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#27 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#37 view VERB view%2:39:00::,view%2:39:02::
+Fig. 1 is a simplified block diagram of the ultraviolet microscopy system developed at the Medical Electronics Center of Rockefeller Institute .
+2
+#11 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#12 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+By combining the talents of a medical man , Dr. Aterman , a biophysicist , Mr. Berkely , and an electronics expert , Dr. Zworykin , this novel technique has been developed which promises to open broad avenues to understanding life processes .
+9
+#1 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#3 talent NOUN talent%1:09:00::,talent%1:18:00::
+#31 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#33 promise VERB promise%2:32:02::,promise%2:42:00::
+#36 broad ADJ broad%3:00:04::,broad%5:00:00:large:00
+#37 avenue NOUN avenue%1:04:00::
+#39 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#40 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#41 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+Three different wavelengths of ultraviolet radiation are selected by the variable filters placed in front of the three mercury xenon lights which serve as the ultraviolet sources .
+7
+#1 different ADJ different%3:00:00::,different%5:00:00:other:00
+#2 wavelength NOUN wavelength%1:07:00::
+#10 variable ADJ variable%3:00:00::
+#12 place VERB place%2:31:13::
+#18 mercury NOUN mercury%1:07:00::
+#20 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#22 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+These wavelengths are reflected in sequence through the specimen by the rotating mirror ; the specimen is magnified by the microscope .
+4
+#1 wavelength NOUN wavelength%1:07:00::
+#3 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#5 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#17 magnify VERB magnify%2:30:01::
+Instead of the observer 's eye the image orthicon in the TV camera does the " looking " .
+2
+#5 eye NOUN eye%1:08:00::,eye%1:09:01::
+#16 look NOUN look%1:04:00::,look%1:07:01::
+The microscope and orthicon are both selected to operate well into the ultraviolet spectrum , which means that all lenses must be quartz .
+3
+#8 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#9 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#16 mean VERB mean%2:31:05::,mean%2:42:00::
+The video signal is amplified and then switched , in synchronism with the three ultraviolet light sources which are sequenced by the rotating mirror so that during one-twentieth of a second only one wavelength , corresponding to red , green , or blue , is seen .
+10
+#1 video NOUN video%1:10:01::
+#2 signal NOUN signal%1:19:00::
+#7 switch VERB switch%2:30:03::
+#19 sequence VERB sequence%2:32:00::
+#30 second NOUN second%1:28:00::,second%1:28:01::
+#33 wavelength NOUN wavelength%1:07:00::
+#35 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#37 red NOUN red%1:07:00::
+#39 green ADJ green%5:00:00:chromatic:00
+#45 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+( Note :
+1
+#1 note VERB note%2:32:00::,note%2:39:00::
+Because of light leakage from one ultraviolet source to another , the lights are switched by a commutator like assembly rotated by a synchronous motor .
+3
+#2 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#12 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#19 assembly NOUN assembly%1:06:00::
+This assembly also supplies a 20 - cps switching gate for the electronics circuitry . )
+3
+#1 assembly NOUN assembly%1:06:00::
+#8 switch NOUN switch%1:06:01::
+#9 gate NOUN gate%1:06:01::
+This is the same system as was used in the field sequential color TV system which preceded the present simultaneous system .
+6
+#3 same ADJ same%3:00:00::,same%3:00:02::
+#4 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#18 present ADJ present%3:00:01::
+#20 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+Three separate amplifiers then drive a 21 - inch tricolor tube .
+3
+#4 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+#8 inch NOUN inch%1:23:02::
+#10 tube NOUN tube%1:06:02::
+The result is a color picture of the specimen where the primary colors correspond to the three different ultraviolet wavelengths .
+4
+#12 color NOUN color%1:07:00::,color%1:27:00::
+#13 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#17 different ADJ different%3:00:00::,different%5:00:00:other:00
+#19 wavelength NOUN wavelength%1:07:00::
+Many of the cells and microorganisms which are transparent to visible light , absorb or reflect the much shorter wavelengths of the ultraviolet spectrum .
+5
+#3 cell NOUN cell%1:03:00::,cell%1:06:03::
+#13 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#15 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#18 short ADJ short%3:00:01::
+#19 wavelength NOUN wavelength%1:07:00::
+Different parts of these cells sometimes absorb or reflect different wavelengths so that it is often possible to see internal portions of cells in a different color .
+11
+#0 different ADJ different%3:00:00::,different%5:00:00:other:00
+#1 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#4 cell NOUN cell%1:03:00::,cell%1:06:03::
+#6 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#8 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#9 different ADJ different%3:00:00::,different%5:00:00:other:00
+#10 wavelength NOUN wavelength%1:07:00::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#22 cell NOUN cell%1:03:00::,cell%1:06:03::
+#25 different ADJ different%3:00:00::,different%5:00:00:other:00
+#26 color NOUN color%1:07:00::,color%1:27:00::
+Where the microscope under visible light may show only vague shadows or nothing at all , ultraviolet illumination and subsequent translation into a color TV picture reveal a wealth of detail .
+5
+#7 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#10 shadow NOUN shadow%1:15:00::
+#20 translation NOUN translation%1:10:00::
+#30 detail NOUN detail%1:10:00::,detail%1:24:00::
+At the present time the research team which pioneered this new technique is primarily interested in advancing and perfecting it .
+4
+#2 present ADJ present%3:00:01::
+#3 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#14 interested ADJ interested%3:00:00::
+#16 advance VERB advance%2:30:01::,advance%2:30:09::,advance%2:32:00::,advance%2:33:00::,advance%2:38:00::,advance%2:41:01::
+The medical title of " Lobar Ventilation in Man " by Drs. C. J. Martin and A. C. Young , covers a brief paper which is one part of a much larger effort to apply electronics to the study of the respiratory process .
+8
+#2 title NOUN title%1:10:00::,title%1:10:06::
+#20 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#23 paper NOUN paper%1:10:00::
+#27 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#31 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#34 apply VERB apply%2:34:00::
+#38 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#42 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+At the University of Washington Medical School , the electronics group has developed the " Respiratory Gas Analyzer " shown in Fig. 3 .
+1
+#12 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+This unit , affectionately dubbed " The Monster " , can be wheeled to any convenient location and provides a wealth of information about the patient 's breathing .
+7
+#1 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#4 dub VERB dub%2:32:00::
+#12 wheel VERB wheel%2:38:02::
+#18 provide VERB provide%2:34:00::,provide%2:40:00::
+#22 information NOUN information%1:09:00::,information%1:10:02::
+#25 patient NOUN patient%1:18:00::
+#27 breathing NOUN breathing%1:04:00::
+In the lower center rack an 8 - channel recorder indicates the percentage of carbon dioxide and nitrogen from the upper and lower lobes of one lung , the total volume of inhalation per breath , the flow of air from both lobes , and the pressure of the two lobes with respect to each other .
+7
+#4 rack NOUN rack%1:06:01::
+#9 recorder NOUN recorder%1:06:00::
+#20 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#30 volume NOUN volume%1:07:03::,volume%1:23:00::
+#37 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#39 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#46 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+Usually the patient breathes into a mouthpiece while walking a treadmill , standing still , or in some other medically significant position .
+5
+#2 patient NOUN patient%1:18:00::
+#6 mouthpiece NOUN mouthpiece%1:06:03::
+#8 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#18 other ADJ other%3:00:00::
+#21 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+From the resulting data the doctor can determine lung defects with hitherto unknown accuracy and detail .
+4
+#3 data NOUN data%1:14:00::,datum%1:09:00::
+#5 doctor NOUN doctor%1:18:00::
+#7 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#15 detail NOUN detail%1:10:00::,detail%1:24:00::
+The original electrocardiograph primarily indicates irregularities in the heartbeat , but today 's techniques allow exact measurements of the flow of blood through the aorta , dimensioning of the heart and its chambers , and a much more detailed study of each heartbeat .
+9
+#1 original ADJ original%5:00:01:first:00
+#4 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#14 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#19 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#21 blood NOUN blood%1:04:00::,blood%1:08:00::
+#29 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#32 chamber NOUN chamber%1:08:00::
+#37 more ADV more%4:02:00::
+#39 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+For many of these measurements the chest must be opened , but the blood vessels and the heart itself remain undisturbed .
+2
+#6 chest NOUN chest%1:08:00::,chest%1:08:01::
+#17 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+A group of researchers at the University of Washington have given a paper which briefly outlines some of these techniques .
+3
+#10 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#12 paper NOUN paper%1:10:00::
+#15 outline VERB outline%2:32:00::
+One simple method of measuring the expansion of the heart is to tie a thin rubber tube , filled with mercury , around the heart and record the change in resistance as the tube is stretched .
+14
+#1 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#4 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#9 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#12 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+#14 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#15 rubber NOUN rubber%1:06:02::
+#16 tube NOUN tube%1:06:00::,tube%1:06:02::
+#20 mercury NOUN mercury%1:07:00::
+#24 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#26 record VERB record%2:32:00::,record%2:32:03::
+#28 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#30 resistance NOUN resistance%1:04:00::
+#33 tube NOUN tube%1:06:00::,tube%1:06:02::
+#35 stretch VERB stretch%2:30:00::,stretch%2:30:04::,stretch%2:30:05::,stretch%2:35:00::
+A balanced resistance bridge and a pen recorder are all the electronic instrumentation needed .
+5
+#3 bridge NOUN bridge%1:06:05::
+#6 pen NOUN pen%1:06:00::
+#7 recorder NOUN recorder%1:06:00::
+#11 electronic ADJ electronic%3:01:00::
+#12 instrumentation NOUN instrumentation%1:04:00::
+Sonar can be used to measure the thickness of the heart by placing small crystal transducers at opposite sides of the heart or blood vessel and exciting one with some pulsed ultrasonic energy .
+10
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#7 thickness NOUN thickness%1:07:01::
+#10 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#12 place VERB place%2:31:13::
+#14 crystal NOUN crystal%1:17:00::
+#18 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#21 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#26 excite VERB excite%2:30:01::
+#32 energy NOUN energy%1:19:00::
+The travel time of sound in tissue is about 1500 meters per second thus it takes about 16 | msec. to traverse 25 mm. of tissue .
+9
+#4 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#6 tissue NOUN tissue%1:08:00::
+#8 about ADV about%4:02:00::
+#10 meter NOUN m%1:23:00::
+#12 second NOUN second%1:28:00::,second%1:28:01::
+#13 thus ADV thus%4:02:00::
+#15 take VERB take%2:40:06::,take%2:42:03::
+#21 traverse VERB traverse%2:38:00::
+#25 tissue NOUN tissue%1:08:00::
+A sonar or radar type of pulse generator and time-delay measuring system is required for body tissue evaluation .
+3
+#4 type NOUN type%1:18:00::
+#15 body NOUN body%1:08:00::,body%1:08:02::
+#16 tissue NOUN tissue%1:08:00::
+In addition to the heart and aorta , successful measurements of liver and spleen have also been made by this technique .
+4
+#4 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#11 liver NOUN liver%1:13:00::
+#13 spleen NOUN spleen%1:08:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The Doppler effect , using ultrasonic signals , can be employed to measure the flow of blood without cutting into the blood vessel .
+6
+#6 signal NOUN signal%1:19:00::
+#10 employ VERB employ%2:34:00::
+#12 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#14 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+#16 blood NOUN blood%1:04:00::,blood%1:08:00::
+#18 cut VERB cut%2:35:00::,cut%2:35:10::,cut%5:00:00:abridged:00
+A still more sophisticated system has been devised for determining the effective power of the heart itself .
+7
+#2 more ADV more%4:02:00::
+#3 sophisticated ADJ sophisticated%5:00:00:high-tech:00
+#4 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#7 devise VERB devise%2:36:00::
+#9 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#12 power NOUN power%1:07:00::,power%1:07:02::
+#15 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+It uses both an ultrasonic dimensioning arrangement of the heart and a catheter carrying a thermistor inserted into the bloodstream .
+5
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#9 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#13 carry VERB carry%2:42:03::
+#16 insert VERB insert%2:35:00::,insert%2:35:01::
+The latter measures the heat carried away by the bloodstream as an indication of the velocity of the blood flow .
+5
+#1 latter ADJ latter%3:00:00::
+#2 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#4 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#18 blood NOUN blood%1:04:00::,blood%1:08:00::
+#19 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+It is also possible to utilize a pressure transducer , mounted at the end of a catheter which is inserted into the heart 's left ventricle , to indicate the blood pressure in the heart itself .
+6
+#7 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#13 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#19 insert VERB insert%2:35:00::,insert%2:35:01::
+#22 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#28 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#34 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+This pressure measurement may be made at the same time that the ultrasonic dimensioning measurement is made .
+3
+#1 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+A simplified version of the instrumentation for this procedure is shown in Fig. 2 .
+2
+#2 version NOUN version%1:10:01::
+#5 instrumentation NOUN instrumentation%1:04:00::
+Outputs of the two systems are measured by a pulse timing circuit and a resistance bridge , followed by a simple analogue computer which feeds a multichannel recorder .
+8
+#0 output NOUN output%1:06:00::
+#4 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#6 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#14 resistance NOUN resistance%1:19:01::
+#15 bridge NOUN bridge%1:06:05::
+#17 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#20 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#24 feed VERB feed%2:30:01::,feed%2:34:03::,feed%2:38:04::
+From this doctors can read heart rate , change in diameter , pressure , and effective heart power .
+7
+#2 doctor NOUN doctor%1:18:00::
+#4 read VERB read%2:31:09::,read%2:32:02::
+#8 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#10 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#12 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#16 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#17 power NOUN power%1:07:00::,power%1:07:02::
+Several years ago headlines were made by a small radio transmitter capsule which could be swallowed by the patient and which would then radio internal pressure data to external receivers .
+6
+#11 capsule NOUN capsule%1:06:00::
+#18 patient NOUN patient%1:18:00::
+#25 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#26 data NOUN data%1:14:00::,datum%1:09:00::
+#28 external ADJ external%5:00:00:extrinsic:00
+#29 receiver NOUN receiver%1:06:00::
+This original capsule contained a battery and a transistor oscillator and was about 1 cm. in diameter .
+5
+#1 original ADJ original%5:00:01:first:00
+#2 capsule NOUN capsule%1:06:00::
+#3 contain VERB contain%2:42:00::,contain%2:42:06::
+#5 battery NOUN battery%1:06:00::
+#16 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+Battery life limited the use of this " pill " to about 8 to 30 hours maximum .
+1
+#15 hour NOUN hour%1:07:00::,hours%1:28:01::
+A refinement of this technique has been described by Drs. Zworykin and Farrar and Mr. Berkely of the Medical Electronics Center of the Rockefeller Institute .
+1
+#7 describe VERB describe%2:32:01::
+In this novel arrangement the " pill " is much smaller and contains only a resonant circuit in which the capacitor is formed by a pressure sensing transducer .
+7
+#3 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#12 contain VERB contain%2:42:00::,contain%2:42:06::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 resonant ADJ resonant%5:00:00:reverberant:00
+#16 circuit NOUN circuit%1:06:00::
+#22 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#25 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+As shown in Fig. 4 , an external antenna is placed over or around the patient and excited 3000 times a second with short 400 - kc. bursts .
+8
+#7 external ADJ external%5:00:00:extrinsic:00
+#8 antenna NOUN antenna%1:06:00::
+#10 place VERB place%2:31:13::
+#15 patient NOUN patient%1:18:00::
+#17 excite VERB excite%2:30:01::
+#19 time NOUN time%1:11:00::
+#21 second NOUN second%1:28:00::,second%1:28:01::
+#23 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+The energy received by the " pill " causes the resonant circuit to " ring " on after the burst and this " ringing " takes place at the resonant frequency of the " pill " .
+6
+#1 energy NOUN energy%1:19:00::
+#10 resonant ADJ resonant%5:00:00:reverberant:00
+#11 circuit NOUN circuit%1:06:00::
+#23 ring VERB ring%2:39:00::,ring%2:39:01::
+#29 resonant ADJ resonant%5:00:00:reverberant:00
+#30 frequency NOUN frequency%1:24:00::
+These frequencies are amplified and detected by the FM receiver after each burst of transmitted energy and , after the " pill " has been calibrated , precise internal pressure indications can be obtained .
+4
+#1 frequency NOUN frequency%1:24:00::
+#9 receiver NOUN receiver%1:06:00::
+#29 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#33 obtain VERB obtain%2:40:00::
+One of the advantages of this method is that the " pill " can remain in the patient for several days , permitting observation under natural conditions .
+5
+#17 patient NOUN patient%1:18:00::
+#20 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#25 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#26 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+Applications to organs other than the gastrointestinal tract are planned for future experiments .
+4
+#0 application NOUN application%1:04:02::
+#2 organ NOUN organ%1:14:00::
+#7 tract NOUN tract%1:08:00::
+#9 plan VERB plan%2:31:00::,plan%2:31:01::
+One of the most gratifying applications of an important technique of submarine detection is in the exploration of the human body .
+2
+#3 most ADV most%4:02:00::
+#5 application NOUN application%1:04:02::
+Our readers are familiar with the principles of sonar where sound waves are sent out in water and the echoes then indicate submerged objects .
+5
+#1 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#3 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#6 principle NOUN principle%1:09:00::,principle%1:09:03::
+#19 echo NOUN echo%1:07:00::
+#23 object NOUN object%1:03:00::
+Various methods of pulsing , scanning , and displaying these sound waves are used to detect submarines , map ocean floors , and even communicate under water .
+3
+#5 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#24 communicate VERB communicate%2:32:02::
+In medicine the frequencies are much higher , transducers and the sonar beams themselves are much smaller , and different scanning techniques may be used , but the principles involved are the same as in sonar .
+7
+#1 medicine NOUN medicine%1:04:00::
+#3 frequency NOUN frequency%1:24:00::
+#12 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#19 different ADJ different%5:00:00:unusual:00
+#20 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#24 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#32 same ADJ same%3:00:00::,same%3:00:02::
+Because the body contains so much liquid , transmission of ultrasonic signals proceeds fairly well in muscles and blood vessels .
+8
+#2 body NOUN body%1:08:00::,body%1:08:02::
+#3 contain VERB contain%2:42:00::,contain%2:42:06::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#6 liquid NOUN liquid%1:27:04::
+#8 transmission NOUN transmission%1:04:01::
+#11 signal NOUN signal%1:19:00::
+#13 fairly ADV fairly%4:02:02::
+#16 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+Bones and cartilage transmit poorly and tend to reflect the ultrasonic signals .
+4
+#0 bone NOUN bone%1:08:00::
+#6 tend VERB tend%2:42:01::
+#8 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#11 signal NOUN signal%1:19:00::
+Based on this phenomenon , a number of investigators have used this method to " look through " human organs .
+7
+#0 base VERB base%2:31:00::
+#3 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#6 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#16 through ADV through%4:02:01::
+#19 organ NOUN organ%1:14:00::
+A good example of the results obtainable with ultrasonic radiation is contained in papers presented by Dr. G. Baum who has explored the human eye .
+5
+#9 radiation NOUN radiation%1:04:00::,radiation%1:19:00::
+#11 contain VERB contain%2:42:00::,contain%2:42:06::
+#13 paper NOUN paper%1:10:00::
+#14 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#24 eye NOUN eye%1:08:00::,eye%1:09:01::
+He can diagnose detachment of the retina where conventional methods indicate blindness due to glaucoma .
+2
+#3 detachment NOUN detachment%1:04:00::
+#10 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+The method used to scan the eye ultrasonically is illustrated in Fig. 6 .
+3
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+The transducer is coupled to the body through a water bath , not shown .
+3
+#6 body NOUN body%1:08:00::,body%1:08:02::
+#9 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#10 bath NOUN bath%1:06:00::
+For display , Dr. Baum uses a portion of an * * f , an airborne radar indicator , and then photographs the screen to obtain a permanent record .
+6
+#1 display NOUN display%1:10:00::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 indicator NOUN indicator%1:06:00::
+#23 screen NOUN screen%1:06:03::
+#25 obtain VERB obtain%2:40:00::
+#28 record NOUN record%1:10:03::,record%1:21:00::
+A typical " sonogram " of a human eye , together with a description of the anatomical parts , is shown in Fig. 5 .
+5
+#3 sonogram NOUN sonogram%1:06:00::
+#8 eye NOUN eye%1:08:00::,eye%1:09:01::
+#10 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#13 description NOUN description%1:10:00::,description%1:10:01::
+#17 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+The frequency used for these experiments is 15 mc. and the transducer is a specially cut crystal with an epoxy lens capable of providing beam diameters smaller than one millimeter .
+7
+#1 frequency NOUN frequency%1:24:00::
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 crystal NOUN crystal%1:17:00::
+#21 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#23 provide VERB provide%2:34:00::,provide%2:40:00::
+#24 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#25 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+The transducer itself moves the beam in a sector scan , just like a radar antenna , while the entire transducer structure is moved over a 90 - degree arc in front of the eye to " look into " all corners .
+10
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#5 beam NOUN beam%1:10:00::,beam%1:19:00::,beam%1:19:01::
+#8 sector NOUN sector%1:15:00::
+#11 just ADV just%4:02:05::
+#15 antenna NOUN antenna%1:06:00::
+#23 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#28 degree NOUN degree%1:23:00::
+#29 arc NOUN arc%1:25:00::,arc%1:25:01::
+#34 eye NOUN eye%1:08:00::,eye%1:09:01::
+#41 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+The total picture is only seen by the camera which integrates the many sector scans over the entire 90 - degree rotation period .
+6
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 camera NOUN camera%1:06:00::
+#10 integrate VERB integrate%2:30:01::
+#13 sector NOUN sector%1:15:00::
+#20 degree NOUN degree%1:23:00::
+Drs. Howry and Holmes at the University of Colorado Medical School have applied the same sonar technique to other areas of soft tissue and have obtained extremely good results .
+7
+#12 apply VERB apply%2:34:00::
+#14 same ADJ same%3:00:00::,same%3:00:02::
+#19 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#21 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#22 tissue NOUN tissue%1:08:00::
+#25 obtain VERB obtain%2:40:00::
+#27 good ADJ good%3:00:01::,good%5:00:00:nice:00
+By submerging the patient in a tub and rotating the transducer while the scanning goes on , they have been able to get cross-section views of the neck , as shown in Fig. 7 , as well as many other hitherto impossible insights .
+8
+#3 patient NOUN patient%1:18:00::
+#6 tub NOUN tub%1:06:01::
+#13 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#20 able ADJ able%3:00:00::
+#22 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#24 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#27 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+#39 other ADJ other%3:00:00::
+As mentioned before , bone reflects the sound energy and in Fig. 7 the portion of the spine shows as the black area in the center .
+8
+#2 before ADV before%4:02:03::
+#5 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#7 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#8 energy NOUN energy%1:19:00::
+#17 spine NOUN spine%1:06:00::
+#18 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#21 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#22 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Arteries and veins are apparent by their black , blood-filled centers and the surrounding white walls .
+4
+#2 vein NOUN vein%1:08:00::
+#7 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#10 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#14 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+A cross-section of a normal lower human leg is shown in Fig. 8 with the various parts labeled .
+3
+#4 normal ADJ normal%3:00:01::,normal%3:00:03::
+#7 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#16 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::

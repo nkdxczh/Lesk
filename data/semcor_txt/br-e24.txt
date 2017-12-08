@@ -1,0 +1,765 @@
+ The Russian gymnasts beat the tar out of the American gymnasts in the 1960 Olympics for one reason - they were better .
+2
+#17 reason NOUN reason%1:09:01::,reason%1:16:00::
+#21 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+They were better trained , better looking , better built , better disciplined - and something else - they were better dancers .
+4
+#2 better ADV better%4:02:00::
+#8 better ADV better%4:02:00::
+#11 better ADV better%4:02:00::
+#20 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Our athletes are only just beginning to learn that they must study dance .
+4
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 learn VERB learn%2:31:01::,learn%2:31:03::
+#11 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+The Russians are all trained as dancers before they start to study gymnastics .
+4
+#1 Russian NOUN russian%1:18:00::
+#4 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#9 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#11 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+And is the sport really important ?
+2
+#3 sport NOUN sport%1:04:00::
+#4 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+After all , we did pretty well in some other areas of the Olympics competition .
+3
+#6 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#9 other ADJ other%3:00:00::
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+It is more than just lack of dance training that is our problem , for just as gymnastics can learn from dance , dance has some very important things to learn from gymnastics .
+9
+#2 more ADV more%4:02:00::
+#4 just ADV just%4:02:00::,just%4:02:03::
+#8 training NOUN training%1:04:00::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#15 just ADV just%4:02:05::
+#19 learn VERB learn%2:31:01::,learn%2:31:03::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#28 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#30 learn VERB learn%2:31:01::,learn%2:31:03::
+Taking first things first , let 's understand the sport called gymnastics .
+5
+#0 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#9 sport NOUN sport%1:04:00::
+It is made up of tumbling , which might be said to start with a somersault , run through such stunts as headstands , handstands , cartwheels , backbends , and culminate in nearly impossible combinations of aerial flips and twists and apparatus work .
+10
+#5 tumble NOUN tumble%1:04:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#26 cartwheel NOUN cartwheel%1:04:00::
+#33 nearly ADV nearly%4:02:00::
+#35 combination NOUN combination%1:04:00::,combination%1:14:00::
+#38 flip NOUN flip%1:04:04::
+#40 twist NOUN twist%1:04:04::
+#42 apparatus NOUN apparatus%1:06:00::
+#43 work NOUN work%1:04:00::
+The apparatus used by gymnasts was once a common sight in American gyms , but about 1930 it was in favor of games .
+7
+#1 apparatus NOUN apparatus%1:06:00::
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 once ADV once%4:02:01::
+#8 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#9 sight NOUN sight%1:04:00::,sight%1:10:00::
+#12 gym NOUN gym%1:06:00::
+#22 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+The parallel bars , horse , buck , springboard , horizontal bar , rings , and mats formerly in the school gyms were replaced by baseball , volleyball , basketball and football .
+6
+#4 horse NOUN horse%1:06:01::,horse%1:06:03::
+#6 buck NOUN buck%1:06:01::
+#16 mat NOUN mat%1:06:03::
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#21 gym NOUN gym%1:06:00::
+#23 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+But the Russians use gymnastics as the first step in training for all other sports because it provides training in every basic quality except one , endurance .
+7
+#2 Russian NOUN russian%1:18:00::
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#14 sport NOUN sport%1:04:00::
+#17 provide VERB provide%2:34:00::,provide%2:40:00::
+#18 training NOUN training%1:04:00::
+#21 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+The gymnast must develop strength , flexibility , coordination , timing , rhythm , courage , discipline , persistence and the desire for perfection .
+5
+#3 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#4 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#8 coordination NOUN coordination%1:09:01::
+#10 timing NOUN timing%1:07:00::
+#16 discipline NOUN discipline%1:09:01::
+In short , gymnastics uses every part of the body and requires a great deal of character as well .
+3
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#16 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+The addition of endurance training later , when the body is mature enough to benefit from it without danger of injury , provides that final quality that makes the top athlete , soldier or citizen .
+7
+#4 training NOUN training%1:04:00::
+#5 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#11 mature ADJ mature%5:00:00:developed:00
+#12 enough ADV enough%4:02:00::
+#22 provide VERB provide%2:34:00::,provide%2:40:00::
+#27 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 soldier NOUN soldier%1:18:00::
+Another reason gymnastic study is valuable is that it can be started very early in life .
+3
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#11 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#13 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+( An enterprising teacher or parent could start training a healthy child at the age of seven days .
+4
+#7 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#8 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#14 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#17 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Most Europeans have been exercising newborn infants for centuries . )
+2
+#4 exercise VERB exercise%2:29:00::,exercise%2:29:01::
+#8 century NOUN century%1:28:00::
+In most sports , as in most walks of life , the angels are on the side of those who begin young , and the Russian competitor of 16 has at least thirteen years of training behind him .
+5
+#2 sport NOUN sport%1:04:00::
+#12 angel NOUN angel%1:18:00::
+#20 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#35 training NOUN training%1:04:00::
+The American is very lucky if he has three .
+2
+#1 American NOUN american%1:18:00::,american%1:18:01::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+If a nation wished to get a head start in physical fitness over all other nations , it would start its kindergarten students on a program of gymnastics the day they entered and thus eliminate a large number of the problems that plague American schools .
+7
+#10 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#14 other ADJ other%3:00:00::
+#25 program NOUN program%1:09:00::,program%1:09:01::
+#29 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#31 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#40 problem NOUN problem%1:09:00::,problem%1:26:00::
+#44 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+First of the problems attacked would be fatigue and emotional tension , since action relieves both .
+6
+#0 first ADJ first%3:00:00::,first%4:02:00::
+#3 problem NOUN problem%1:09:00::,problem%1:26:00::
+#7 fatigue NOUN fatigue%1:26:00::
+#10 tension NOUN tension%1:26:00::,tension%1:26:02::
+#13 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#14 relieve VERB relieve%2:40:01::
+Oddly enough , it is proven that there would be less reading difficulty .
+2
+#5 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#11 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+Certainly there would be less anxiety , fewer accidents ( it is the clumsy child who sustains the worst injuries ) , and higher scholastic averages , since alert children work better .
+8
+#8 accident NOUN accident%1:11:01::
+#16 sustain VERB sustain%2:29:00::
+#18 bad ADJ bad%5:00:00:uncomfortable:00
+#23 high ADJ high%3:00:02::
+#24 scholastic ADJ scholastic%3:01:00::
+#25 average NOUN average%1:09:01::
+#30 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#31 better ADV better%4:02:00::
+Russia knows this , and that is why there were over 800000 competing for places as candidates for the Olympic gymnastic team .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+Eighty thousand won top honors and a chance to try for the team itself .
+2
+#2 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+#4 honor NOUN honor%1:07:00::
+We could scarcely find eighty in our great land of over 180 million people .
+3
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#8 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+And what has dancing to do with all this ?
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Russia 's young gymnasts have studied dance before having the rigorous training on apparatus .
+3
+#5 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#11 training NOUN training%1:04:00::
+#13 apparatus NOUN apparatus%1:06:00::
+Well stretched , trained in posture and coordinated movement , and wedded to rhythm , they presented the audiences in Rome with one of the most beautiful sights ever seen at any Olympic contest .
+10
+#0 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#3 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#5 posture NOUN posture%1:07:00::
+#8 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#16 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#18 audience NOUN audience%1:14:01::
+#25 most ADV most%4:02:00::
+#27 sight NOUN sight%1:04:00::,sight%1:10:00::
+#28 ever ADV ever%4:02:05::
+#29 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+American audiences in particular learned two valuable lessons .
+4
+#1 audience NOUN audience%1:14:01::
+#3 particular NOUN particular%1:24:00::
+#4 learn VERB learn%2:31:01::,learn%2:31:03::
+#7 lesson NOUN lesson%1:04:01::
+They saw completely masculine and obviously virile men performing with incredible grace .
+4
+#3 masculine ADJ masculine%3:00:01::
+#8 perform VERB perform%2:36:00::,perform%2:36:01::
+#10 incredible ADJ incredible%3:00:00::
+#11 grace NOUN grace%1:07:01::
+They were further stripped of old wives' tales by seeing the slender , lovely Russian girls performing feats requiring tremendous strength - and with not one bulging muscle .
+7
+#2 further ADV further%4:02:02::,further%4:02:03::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 slender ADJ slender%5:00:00:thin:03
+#15 girl NOUN girl%1:18:01::,girl%1:18:03::
+#20 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#24 not ADV not%4:02:00::
+#27 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+President Kennedy has asked that we become a physically fit nation .
+2
+#6 become VERB become%2:30:00::,become%2:42:01::
+#9 fit ADJ fitter%5:00:00:better:02
+If we wait until children are in junior high or high school , we will never manage it .
+3
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#15 never ADV never%4:02:00::
+#16 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+To be fit , one has to start early with young children , and today the only person who really reaches such children is the teacher of dance .
+6
+#2 fit ADJ fitter%5:00:00:better:02
+#7 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#8 early ADV earlier%4:02:00::
+#17 person NOUN person%1:03:00::,person%1:08:00::
+#19 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#20 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+If the dance teachers of America make it their business to prepare their young charges for the gymnastics that must come some day if our schools are really responsible , we will be that much ahead .
+6
+#9 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#11 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#14 charge NOUN charge%1:04:00::,charge%1:04:03::,charge%1:10:01::,charge%1:18:00::
+#20 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#25 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#27 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+School teachers , all too unprepared for the job they must do , will need demonstrators .
+3
+#8 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#14 need VERB need%2:42:00::
+#15 demonstrator NOUN demonstrator%1:18:02::
+There should be youngsters who know how to do a headstand , and also how to help other children learn it .
+3
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#16 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#19 learn VERB learn%2:31:01::,learn%2:31:03::
+They should know simple exercises that could prepare less fortunate children for the sports we will demand be taught .
+6
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#3 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#4 exercise NOUN exercise%1:04:00::,exercise%1:04:01::,exercise%1:04:02::,exercise%1:04:03::,exercise%1:11:01::
+#7 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#8 less ADV less%4:02:00::,less%4:02:01::
+#13 sport NOUN sport%1:04:00::
+Dance teachers can respond to President Kennedy 's request not only through their regular dance work , but also through the kind of basic gymnastic work that makes for strength and flexibility .
+5
+#13 regular ADJ regular%3:00:00::,regular%3:00:06::,regular%5:00:00:scheduled:00,regular%5:00:00:symmetrical:00
+#15 work NOUN work%1:04:00::
+#23 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#25 work NOUN work%1:04:00::
+#29 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Very little in today 's living provides the strength we need , and nothing provides the flexibility .
+5
+#5 living NOUN living%1:09:00::
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+#8 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#10 need VERB need%2:42:00::
+#14 provide VERB provide%2:34:00::,provide%2:40:00::
+Dancers do have flexibility .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+They often fail , however , to develop real abdominal , back , chest , shoulder and arm strength .
+7
+#2 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#4 however ADV however%4:02:04::
+#7 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#11 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#13 chest NOUN chest%1:08:00::,chest%1:08:01::
+#15 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#18 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Ask any group of ballerinas to do ten push-ups or three chin-ups and the results , considering the amount of physical training they have had , will be very disappointing .
+5
+#0 ask VERB ask%2:32:01::,ask%2:32:05::
+#4 ballerina NOUN ballerina%1:18:00::
+#20 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#21 training NOUN training%1:04:00::
+#24 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Even the boys will not be outstanding in these areas .
+4
+#2 boy NOUN boy%1:18:03::
+#4 not ADV not%4:02:00::
+#6 outstanding ADJ outstanding%5:00:00:superior:02
+#9 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+This is n't surprising when we consider that over 29 percent of the 11 - year old boys in America cannot chin themselves once , and that English school girls outdo them in almost every test ( even dashes and endurance ) .
+5
+#15 year NOUN years%1:28:00::
+#17 boy NOUN boy%1:18:03::
+#23 once ADV once%4:02:00::
+#35 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#38 dash NOUN dash%1:11:00::
+The only area in which American boys hold their own is the baseball throw .
+3
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#6 boy NOUN boy%1:18:03::
+#13 throw NOUN throw%1:04:00::
+For arm and shoulder strength a chinning bar is recommended .
+3
+#3 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#4 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#9 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+It should be installed over a door that is in full view of everyone , and a chair should be placed under it , a little to one side .
+4
+#3 install VERB install%2:35:00::
+#17 chair NOUN chair%1:06:00::,chair%1:06:01::
+#20 place VERB place%2:31:13::
+#28 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+Those children who can chin themselves should be told to do one chin up each time they pass under it .
+3
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 time NOUN time%1:11:00::
+#17 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Those who are too weak , should climb on the chair and , starting at the top of the chin , let themselves slowly down .
+5
+#3 too ADV too%4:02:00::
+#4 weak ADJ weak%5:00:00:powerless:00
+#10 chair NOUN chair%1:06:00::,chair%1:06:01::
+#13 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#16 top NOUN top%1:15:00::,top%1:15:01::
+When they can take ten seconds to accomplish the descent , they will have the strength to chin up .
+5
+#3 take VERB take%2:40:06::,take%2:42:03::
+#5 second NOUN second%1:28:00::,second%1:28:01::
+#9 descent NOUN descent%1:17:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Parents should be informed about this system and encouraged to do the same with the whole family at home .
+6
+#3 inform VERB inform%2:32:00::,inform%2:32:10::
+#6 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#12 same PRON same%3:00:02::
+#15 whole ADJ whole%3:00:00::
+#16 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#18 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Arm , shoulder , chest , upper and lower back strength will be aided with the Horse Kick .
+5
+#2 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#4 chest NOUN chest%1:08:00::,chest%1:08:01::
+#6 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#9 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#10 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Start on hands and feet .
+3
+#0 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#2 hand NOUN hand%1:08:00::,hand%1:10:01::
+#4 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+Keeping the hands in the starting position , run in place to a quick rhythm .
+4
+#0 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#2 hand NOUN hand%1:08:00::,hand%1:10:01::
+#8 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#13 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+After this has become easy , use slower and slower rhythms , kicking higher and higher .
+8
+#3 become VERB become%2:30:00::,become%2:42:01::
+#4 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 slow ADJ slow%3:00:01::
+#9 slow ADJ slow%3:00:01::
+#12 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#13 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#15 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+Follow this by crossing from one corner of the room to the other on all fours , kicking as high as possible .
+7
+#0 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#3 cross VERB cross%2:38:00::
+#6 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#9 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#12 other ADJ other%3:00:00::
+#17 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#19 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+Push-ups are essential , but few have the strength for them at first .
+3
+#2 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Start on the knees in a large circle .
+3
+#0 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#7 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+Fall slowly forward onto the hands and let the body down to rest on the floor .
+4
+#0 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#2 forward ADV forward%4:02:00::,forward%4:02:04::
+#5 hand NOUN hand%1:08:00::,hand%1:10:01::
+#15 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Push back up and repeat .
+3
+#0 push VERB push%2:32:01::,push%2:38:00::
+#2 up ADV up%4:02:00::,up%4:02:02::
+#4 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+Do this exercise six times each class period .
+4
+#2 exercise NOUN exercise%1:04:00::,exercise%1:04:01::,exercise%1:04:02::,exercise%1:04:03::,exercise%1:11:01::
+#4 time NOUN time%1:11:00::
+#6 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#7 period NOUN period%1:28:00::,period%1:28:03::
+As strength improves start in a standing position with legs wide apart and upper body bent forward .
+9
+#1 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#6 standing ADJ standing%3:00:00::
+#7 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+#9 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#10 wide ADV wide%4:02:03::
+#13 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#15 bend VERB bend%2:35:08::,bend%2:38:02::
+#16 forward ADV forward%4:02:00::,forward%4:02:04::
+Start by falling forward to a point close to the feet , and , as strength improves , fall farther and farther out .
+8
+#0 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#2 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#3 forward ADV forward%4:02:00::,forward%4:02:04::
+#6 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#7 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#10 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#15 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#18 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+Try to push back to the stand position from the stretched position without any intermediate pushes from the hands .
+6
+#0 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#2 push VERB push%2:32:01::,push%2:38:00::
+#7 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+#11 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+#15 push NOUN push%1:06:00::
+#18 hand NOUN hand%1:08:00::,hand%1:10:01::
+The push-up itself can be taught by starting at the top of the push-up with legs spread wide .
+4
+#7 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#10 top NOUN top%1:15:00::,top%1:15:01::
+#15 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#17 wide ADV wide%4:02:03::
+Let the body down slowly , taking at least five seconds for the letting down .
+2
+#6 take VERB take%2:40:06::,take%2:42:03::
+#10 second NOUN second%1:28:00::,second%1:28:01::
+Five of these done daily for about a week will develop the strength for one push-up .
+3
+#6 about ADV about%4:02:00::
+#10 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#12 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Handstands come after arms , chest and shoulders have developed at least a minimum of strength .
+6
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#3 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#5 chest NOUN chest%1:08:00::,chest%1:08:01::
+#7 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#9 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#15 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+Of course those who have developed more will find them easier .
+3
+#5 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+Start with the class standing in a circle , with weight on the right foot and the left extended a little way into the circle .
+11
+#0 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#4 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#7 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+#10 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#13 right ADJ right%3:00:00::
+#14 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#17 left ADJ left%5:00:00:unexhausted:00
+#18 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#21 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#24 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+At first each child should do a kick up by himself so that the teacher can determine those ready to work alone , and those who need help .
+6
+#16 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#18 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#20 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#21 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#26 need VERB need%2:42:00::
+#27 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+Drop both hands to the floor and at the same time kick the right foot up in back .
+7
+#2 hand NOUN hand%1:08:00::,hand%1:10:01::
+#5 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#11 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#13 right ADJ right%3:00:00::
+#14 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#15 up ADV up%4:02:00::,up%4:02:02::
+#17 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+The left will follow at once .
+1
+#1 left ADJ left%5:00:00:unexhausted:00
+The right will land first , followed by the left .
+2
+#1 right ADJ right%3:00:00::
+#9 left ADJ left%5:00:00:unexhausted:00
+Return to the standing position .
+3
+#0 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#3 standing ADJ standing%3:00:00::
+#4 position NOUN position%1:04:00::,position%1:07:00::,position%1:07:01::,position%1:15:03::
+Care should be taken to see that the hands are placed on the floor before the kick starts and also that the landing foot is brought as close to the hands as possible .
+10
+#5 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+#10 place VERB place%2:31:13::
+#13 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#16 kick NOUN kick%1:04:00::
+#17 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#22 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#23 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#27 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#30 hand NOUN hand%1:08:00::,hand%1:10:01::
+This will prevent flat falls and toe injuries .
+4
+#2 prevent VERB prevent%2:41:00::
+#3 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#4 fall NOUN fall%1:04:01::,fall%1:11:00::,fall%1:11:02::,fall%1:17:00::
+#6 toe NOUN toe%1:08:01::
+Bare feet are better for such work than any form of slipper .
+5
+#0 bare ADJ bare%3:00:04::
+#1 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#3 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#6 work NOUN work%1:04:00::
+#9 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+Eventually the class will be able to kick up high enough so that the teacher can catch the leading leg .
+7
+#2 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#5 able ADJ able%3:00:00::
+#7 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#9 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#10 enough ADV enough%4:02:00::
+#16 catch VERB catch%2:35:00::
+#19 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+The child should then bring both legs together overhead , point the toes and tighten the seat muscles .
+7
+#3 then ADV then%4:02:00::
+#6 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#7 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#10 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#12 toe NOUN toe%1:08:01::
+#16 seat NOUN seat%1:06:02::,seat%1:08:00::
+#17 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+Be sure that the landing foot is brought close to the hands and that only one foot lands at a time .
+7
+#4 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+#5 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#8 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#17 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+The backbend is of extreme importance to any form of free gymnastics , and , as with all acrobatics , the sooner begun the better the results .
+5
+#4 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#8 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#10 free ADJ free%3:00:00::,free%3:00:02::
+#22 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#24 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Have the class lie supine with knees apart and bent .
+4
+#2 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#3 lie VERB lie%2:35:00::,lie%2:38:00::
+#4 supine ADJ supine%5:00:00:unerect:00
+#9 bent ADJ bent%5:00:02:unerect:00
+Place flat palms on either side of the head a few inches away from the ears , fingers pointing toward the shoulders .
+9
+#0 place VERB place%2:31:13::
+#1 flat ADV flat%4:02:00::
+#2 palm NOUN palm%1:08:00::
+#5 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#8 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 inch NOUN inch%1:23:02::
+#15 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+#18 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#21 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+Arch the back upwards to make a bridge .
+3
+#0 arch VERB arch%2:38:00::
+#2 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#7 bridge NOUN bridge%1:08:00::
+Be sure the head drops backward so that the child looks at the floor rather than toward the ceiling .
+6
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#4 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+#5 backward ADV backward%4:02:03::
+#10 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#13 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#18 ceiling NOUN ceiling%1:06:00::
+As flexibility improves , the feet will move closer to the hands and the bridge rise higher .
+6
+#5 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#7 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#14 bridge NOUN bridge%1:08:00::
+#15 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#16 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+Later this can be combined with the handstand to provide a walkover .
+3
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#9 provide VERB provide%2:34:00::,provide%2:40:00::
+#11 walkover NOUN walkover%1:04:01::
+To further increase back flexibility , work on the back circle .
+2
+#1 further ADV further%4:02:02::,further%4:02:03::
+#3 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+Have the class lie prone .
+3
+#2 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#3 lie VERB lie%2:35:00::,lie%2:38:00::
+#4 prone ADJ prone%5:00:00:unerect:00
+Place the hands in front of the chest .
+3
+#0 place VERB place%2:31:13::
+#2 hand NOUN hand%1:08:00::,hand%1:10:01::
+#7 chest NOUN chest%1:08:00::,chest%1:08:01::
+Keep the legs straight and the toes pointed .
+5
+#0 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#2 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#3 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+#6 toe NOUN toe%1:08:01::
+#7 pointed ADJ pointed%3:00:00::
+Straighten the arms slowly , this arches the back .
+3
+#2 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#6 arch VERB arch%2:38:00::
+#8 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+At the peak of the arch , tip the head back and bend the knees in an effort to touch toes to head .
+7
+#7 tip VERB tip%2:38:04::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#10 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#12 bend VERB bend%2:35:08::,bend%2:38:02::
+#19 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#20 toe NOUN toe%1:08:01::
+#22 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Improvement can be measured by the lessening distance between toes and head .
+4
+#3 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#7 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#9 toe NOUN toe%1:08:01::
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+The last essential to the beginner 's gymnastic program is the somersault , or forward roll .
+3
+#1 last ADJ last%5:00:00:unlikely:00
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#14 forward ADJ forward%3:00:03::
+This used to be part of every child 's bag of tricks , but few children can do it today ; some are actually incapable of rolling forward and are completely confused when not sitting or standing upright .
+7
+#4 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#23 actually ADV actually%4:02:01::
+#24 incapable ADJ incapable%3:00:02::
+#27 forward ADV forward%4:02:00::,forward%4:02:04::
+#34 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#36 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#37 upright ADJ upright%5:00:00:vertical:00
+For most small children , learning a forward roll is simply a matter of copying another child who can .
+5
+#5 learn VERB learn%2:31:01::,learn%2:31:03::
+#7 forward ADJ forward%3:00:03::
+#10 simply ADV simply%4:02:00::,simply%4:02:02::
+#12 matter NOUN matter%1:09:00::,matter%1:09:01::
+#14 copy VERB copy%2:36:00::
+After it has been seen , have the child start on a mat on hands and knees ( a thin , inexpensive mat is quite sufficient for anything that does not require falling ) .
+10
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#9 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#12 mat NOUN mat%1:06:03::
+#14 hand NOUN hand%1:08:00::,hand%1:10:01::
+#19 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#22 mat NOUN mat%1:06:03::
+#24 quite ADV quite%4:02:02::
+#30 not ADV not%4:02:00::
+#32 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+He places the hands on either side of the head , keeping the chin down on the chest .
+7
+#1 place VERB place%2:31:13::
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+#6 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#14 down ADJ down%3:00:00::
+#17 chest NOUN chest%1:08:00::,chest%1:08:01::
+He then pushes his seat into the air and the teacher guides it over .
+5
+#1 then ADV then%4:02:00::
+#2 push VERB push%2:32:01::,push%2:38:00::
+#4 seat NOUN seat%1:06:02::,seat%1:08:00::
+#7 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#11 guide VERB guide%2:38:00::,guide%2:38:01::
+One or two practice runs should be sufficient for solo .
+3
+#3 practice NOUN practice%1:04:02::
+#4 run NOUN run%1:04:00::,run%1:04:04::,run%1:04:06::,run%1:11:03::
+#9 solo NOUN solo%1:04:00::
+If , however , the child is weak , overweight , or afraid , more help will be needed .
+3
+#2 however ADV however%4:02:04::
+#7 weak ADJ weak%5:00:00:powerless:00
+#15 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+When the child raises his seat into the air , the teacher takes hold under both sides of the pelvis ; then no matter what happens , the child 's performance will be controlled .
+7
+#3 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#5 seat NOUN seat%1:06:02::,seat%1:08:00::
+#8 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#16 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#19 pelvis NOUN pelvis%1:08:00::
+#21 then ADV then%4:02:00::
+#33 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+By lifting the seat upwards a little , the weight is taken off the neck and the back is kept rounded .
+6
+#3 seat NOUN seat%1:06:02::,seat%1:08:00::
+#9 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#14 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+#17 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#19 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#20 round ADJ round%3:00:00::
+These are beginnings , but correctly learned they prepare for satisfying and exciting stunts that can be performed by a strong , flexible body ( we are not talking of eccentric extremes ) .
+6
+#6 learn VERB learn%2:31:01::,learn%2:31:03::
+#8 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#20 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#27 not ADV not%4:02:00::
+#30 eccentric ADJ eccentric%5:00:00:unconventional:01
+#31 extreme NOUN extreme%1:07:00::
+Even if gymnastics are not the ultimate goal , the good tumbler will be a better dancer , a better athlete , and a human being with a greater margin of safety in any activity .
+9
+#4 not ADV not%4:02:00::
+#7 goal NOUN goal%1:09:00::,goal%1:15:00::
+#11 tumbler NOUN tumbler%1:18:00::
+#15 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#19 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#28 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#29 margin NOUN margin%1:07:00::
+#31 safety NOUN safety%1:26:00::
+#34 activity NOUN activity%1:04:00::,activity%1:26:00::
+It is very important for parents to understand that early training is imperative .
+4
+#7 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#9 early ADV earlier%4:02:00::
+#10 training NOUN training%1:04:00::
+#12 imperative ADJ imperative%3:00:00::
+And dancing school , so helpful in artistic and psychological development , also contributes to this essential early training - and can contribute even more .
+5
+#4 so ADV so%4:02:03::,so%4:02:07::
+#10 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#16 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#17 early ADV earlier%4:02:00::
+#18 training NOUN training%1:04:00::

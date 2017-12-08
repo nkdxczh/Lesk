@@ -1,0 +1,247 @@
+ For a second month in a row , Multnomah County may be short of general assistance money in its budget to handle an unusually high summer month 's need , the state public welfare commission was told Friday .
+2
+#21 handle VERB handle%2:41:00::,handle%2:41:03::
+#36 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It is the only county in the state so far this month reporting a possible shortage in GA category , for which emergency allotment can be given by the state if necessary .
+2
+#12 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#26 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+William Smythe , director of field service , told the commissioners that Multnomah , as of Aug. 22 , had spent $ 58918 out of its budgeted $ 66000 in the category , leaving only $ 7082 for the rest of the month .
+2
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#33 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+At the rate of need indicated in the early weeks of the month , this could mean a shortage of as high as $ 17000 .
+1
+#5 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+But it probably will be less because of a usual slackening during the last weeks of each month , Smythe said .
+1
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+No request for emergency allotment had yet been received , however .
+1
+#8 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+The commission , meeting for the first time with both of its newly-appointed commissioners , Roy Webster , of Hood River , and Dr. Ennis Keizer , of North Bend , approved a year 's contract for a consultant in the data processing department who has been the center of considerable controversy in the past .
+2
+#3 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#31 approve VERB approve%2:31:00::,approve%2:32:00::
+The contract with Ray Field , who has been converting the agencies electronic data processing program to magnetic tape , would renew his present salary of $ 8 an hour up to a maximum of 200 hours a month .
+1
+#9 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+Acting Administrator Andrew F. Juras said that because of Field 's unique position and knowledge in the program , the agency now would be seriously handicapped if he was not continued for a period .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#30 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+But he emphasized that the agency must train people within its own employ to fulfill what Field handles , and he said he personally " regrets very much that the agency has not done this in the past " .
+4
+#7 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#14 fulfill VERB fulfil%2:36:00::
+#17 handle VERB handle%2:41:00::,handle%2:41:03::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He pointed out to the commissioners that the agency was literally dependent now on the machine processing , " and the whole wheels of the agency would stop if it broke down or the three or four persons directing it were to leave " .
+3
+#27 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#38 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#42 leave VERB leave%2:38:00::,leave%2:41:00::
+Juras said he insisted Field be continued on a consultant basis only and be answerable directly to the administrator of the agency and not to other agencies of the government .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+He also said that the salary , in terms of going rates in the field , was " modest " in terms of the man 's responsibility .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The conversion to magnetic tape is not yet completed , he said , and added Field 's long service in state government and welfare employ gave him familiarity with the welfare program .
+4
+#8 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 add VERB add%2:32:01::
+#25 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+" Do you feel you can stand up to the next legislative session and defend this contract " ? asked Mrs. Grace O. Peck , representative from Multnomah County , of the commission chairman , Joseph E. Harvey Jr. .
+2
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#19 ask VERB ask%2:32:00::,ask%2:32:04::
+" My feeling at the moment " , he said , " is that we have no alternative , irrespective of some of the arguments about him .
+2
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The continued operation of this program depends on having his service " .
+1
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+A publicity release from Oregon Physicians Service , of which Harvey is president , quoted him as saying the welfare office move to Salem , instead of " crippling " the agency , had provided an avenue to correct administrative weaknesses , with the key being improved communications between F + A and the commission staff .
+3
+#14 quote VERB quote%2:32:00::,quote%2:32:02::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#34 provide VERB provide%2:34:00::,provide%2:40:00::
+" I rather resent " , she said , " you speaking to those groups in Portland as though just the move accomplished this .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I think you fell short of the real truth in the matter : That the move is working out through the fine cooperation of the staff and all the people .
+1
+#1 think VERB think%2:31:01::,think%2:31:03::
+The staff deserves a lot of credit working down here under real obstacles " .
+1
+#7 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Harvey said his objective was to create a better public image for welfare " .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The wife of convicted bank robber Lawrence G. Huntley was arrested in Phoenix , Ariz. , last week and will be returned to Portland to face charges of assault and robbery , Portland detectives said Friday .
+4
+#10 arrest VERB arrest%2:35:00::
+#21 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#25 face VERB face%2:32:00::,face%2:32:03::
+#34 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mrs. Lavaughn Huntley is accused of driving the getaway car used in a robbery of the Woodyard Bros . ' Grocery , 2825 E. Burnside St. , in April of 1959 .
+1
+#6 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+Her husband , who was sentenced to 15 years in the federal prison at McNeil Island last April for robbery of the Hillsdale branch of Multnomah Bank , also was charged with the store holdup .
+1
+#30 charge VERB charge%2:32:00::,charge%2:32:02::,charge%2:32:03::
+Secret Grand Jury indictments were returned against the pair last week , Detective Murray Logan reported .
+2
+#5 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#15 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Taylor said Mrs. Huntley and her husband also will be questioned about a series of 15 Portland robberies in spring of 1959 in which the holdup men bound their victims with tape before fleeing .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#27 bind VERB bind%2:35:01::,bind%2:35:07::,bind%2:35:08::
+Mrs. Huntley was held on $ 20000 bond in Phoenix .
+1
+#3 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+She was arrested by Phoenix Police after they received the indictment papers from Portland detectives .
+2
+#2 arrest VERB arrest%2:35:00::
+#8 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+A 12 - year-old girl , Susan Elaine Smith , 9329 NE Schuyler St. was in serious condition Friday at Bess Kaiser Hospital , victim of a bicycle-auto collision in the Gateway Shopping Center , parking area , Deputy Sheriff W. H. Forsyth reported .
+1
+#43 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Funeral for William Joseph Brett , 1926 NE 50 th Ave. , who died Thursday in Portland , will be Monday 1 p. m. at the Riverview Abbey .
+1
+#13 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Mr. Brett , born in Brooklyn , N. Y. , Dec. 15 , 1886 , came to Portland in 1920 .
+1
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He owned a logging equipment business here from 1923 to 1928 , and later became Northwest district manager for Macwhyte Co. .
+2
+#1 own VERB owned%3:00:00::
+#14 become VERB become%2:30:00::,become%2:42:01::
+He retired in 1958 .
+1
+#1 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+The NLRB said that of 11 potentially eligible voters eight voted against the union , two voted for it , and one vote was challenged .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 challenge VERB challenge%2:32:02::,challenge%2:32:03::
+Monte Brooks , 67 , theatrical producer and band leader , collapsed and died Thursday in a Lloyd Center restaurant .
+2
+#11 collapse VERB collapse%2:29:00::
+#13 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+He lived at 6124 N. Willamette Blvd. .
+1
+#1 live VERB live%2:42:08::
+For many years he had provided music and entertainment for functions throughout the Northwest .
+1
+#5 provide VERB provide%2:34:00::,provide%2:40:00::
+These included Oregon State Fair , for which he had been booked on and off , for 30 years .
+2
+#1 include VERB include%2:42:00::
+#11 book VERB book%2:41:01::
+He collaborated with many of the big name entertainers visiting Portland , among the most recent being Jimmy Durante and Phil Silvers .
+1
+#9 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+He had conducted the 20 - piece band in a series of concerts at Blue Lake park during the summer months .
+1
+#2 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+Mr. Brooks was born in New York , and came to Portland in 1920 .
+1
+#9 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He planned at one time to enter the legal profession , but gave up the plan in favor of the entertainment field .
+2
+#1 plan VERB plan%2:31:00::,plan%2:31:01::
+#6 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+Tim Larson , a junior at Wilson High School and president of Spice-Nice , is the young executive who guided his firm to the top-ranking position over the 4500 other Junior Achievement companies in the United States and Canada .
+1
+#19 guide VERB guide%2:38:01::,guide%2:41:00::
+The award is the first such honor in the 11 - year history of JA activities in Portland , according to Ralph Scolatti , local executive director for Junior Achievement .
+1
+#19 accord VERB accord%2:42:00::
+Spice-Nice , counseled by Georgia-Pacific Corp. , had previously taken first-place honors in both local competition and the regional conference at San Francisco .
+1
+#9 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+The " pocket-size " company set records with $ 2170 in sales of its products , a selection of barbecue spices , and paid stockholders a 20 per cent dividend on their investment .
+2
+#5 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#23 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The Junior Achievement program is designed to give teenagers practical experience in business by allowing them actually to form small companies , under the guidance and sponsorship of business firms .
+3
+#7 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#14 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#18 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+The youngsters sell stock , produce and sell a product , pay taxes , and show a profit or loss just like full-scale businesses .
+5
+#2 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#5 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#7 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#11 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#15 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+National competition was the culmination of work which began with the school year last fall and continued until just before summer vacation .
+2
+#8 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Participants in the 27 Portland companies worked one night a week through the school year , guided and counseled by adult advisors drawn from local business and industry .
+3
+#6 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#16 guide VERB guide%2:38:01::,guide%2:41:00::
+#22 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+For winning Larson will receive a $ 100 U. S. Savings Bond from the Junior Achievement national organization .
+2
+#1 win VERB win%2:33:00::
+#4 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+His company , Spice-Nice , will receive a $ 250 award , which will be distributed among the 16 charter members .
+2
+#6 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#15 distribute VERB distribute%2:40:00::
+Other members of the Portland delegation attending the conference in Columbus are : Kathleen Mason , Jefferson high school ; Phil Reifenrath , Madison high school ; Ann Wegener , Madison ; Richard E. Cohn , Grant ; Karen Kolb , Franklin ; and Shelby Carlson , Cleveland .
+1
+#6 attend VERB attend%2:42:00::
+Washington County 's 36 th annual fair will close Saturday evening with 4 - H and FFA awards program at 7 , public dance at 8 and variety show at 8 : 30 .
+1
+#8 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+Attendance continued to run ahead of last year 's during the five-day show , with clear skies helping attract fairgoers .
+3
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#3 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#17 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Exhibition ballroom dancers from the studio of Helen Wick Walters of Hillsboro won the all-county talent contest .
+1
+#12 win VERB win%2:33:00::
+Finalists from the county 's east end failed to place .
+2
+#7 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#9 place VERB place%2:31:00::,place%2:31:01::,place%2:31:03::
+Blue ribbons went to Stephanie Shaw of Hillsboro , Larry Hinton of Beaverton .
+1
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Also winning blue ribbons were Bob Day of Beaverton , Tony Traxel of Beaverton and Steve Hutchins of Banks .
+1
+#1 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+Swine showmanship championship went to Bob Day , with Tom Day and Hutchins winning other blues .
+2
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+In poultry judging , blues were won by John Nyberg of Tualatin , Anne Batchelder of Hillsboro , Jim Shaw of Hillsboro , Stephanie Shaw of Hillsboro and Lynn Robinson of Tigard .
+1
+#6 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+Blue ribbon for one dozen white eggs was taken by Nyberg .
+1
+#8 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+In open class poultry , Donald Wacklin of Sherwood had the champion male and female bird and grand champion bird .
+1
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+John Haase + Son of Corneilus was the only entrant in open class swine and swept all championships .
+1
+#15 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+Millie Jansen , high school senior from Verboort , had the championship dollar dinner , and Jody Jaross of Hillsboro also won a blue ribbon .
+1
+#21 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+Barbara Borland of Tigard took top senior individual home economics honors with a demonstration called filbert hats .
+2
+#4 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#14 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::

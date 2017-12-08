@@ -1,0 +1,239 @@
+What steps have been taken to guard against the one sort of mishap that could trigger the destruction of continents ?
+1
+#4 take VERB take%2:31:02::,take%2:34:00::
+I have just asked these questions in the Pentagon , in the White House , in offices of key scientists across the country and aboard the submarines that prowl for months underwater , with neat rows of green launch tubes which contain Polaris missiles and which are affectionately known as " Sherwood Forest " .
+2
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#41 contain VERB contain%2:42:00::,contain%2:42:06::
+I asked the same questions inside the launch-control rooms of an Atlas missile base in Wyoming , where officers who wear sidearms are manning the " commit buttons " that could start a war - accidentally or by design - and in the command centers where other pistol-packing men could give orders to push such buttons .
+5
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#20 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#31 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+#50 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#53 push VERB push%2:32:01::,push%2:38:00::
+In the command centers there are special clocks ready to tick off the minutes elapsed since " E hour " .
+1
+#10 tick VERB tick%2:39:01::
+There is little time for the men in the command centers to reflect about the implications of these clocks .
+1
+#12 reflect VERB reflect%2:31:00::
+They know little about their machinery beyond mechanical details .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Accidental war is so sensitive a subject that most of the people who could become directly involved in one are told just enough so they can perform their portions of incredibly complex tasks .
+3
+#14 become VERB become%2:30:00::,become%2:42:01::
+#20 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#26 perform VERB perform%2:36:00::,perform%2:41:00::
+Among the policy makers , generals , physicists , psychologists and others charged with controlling the actions of the button pushers and their " hardware " , the answers to my questions varied partly according to a man 's flair for what the professionals in this field call " scenarios " .
+3
+#12 charge VERB charge%2:41:00::
+#14 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#47 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+As an Air Force psychiatrist put it : " You can n't have dry runs on this one " .
+2
+#5 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#12 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+The experts are thus forced to hypothesize sequences of events that have never occurred , probably never will - but possibly might .
+1
+#4 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+Only one rule prevailed in my conversations with these men : The more highly placed they are - that is , the more they know - the more concerned they have become .
+2
+#24 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#31 become VERB become%2:30:00::,become%2:42:01::
+Only recently new " holes " were discovered in our safety measures , and a search is now on for more .
+1
+#7 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+Meanwhile , the experts speak of wars triggered by " false pre-emption " , " escalation " , " unauthorized behavior " and other terms that will be discussed in this report .
+1
+#4 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+They inhabit a secret world centered on " go codes " and " gold phones " .
+1
+#5 center VERB center%2:31:00::
+Their conversations were , almost invariably , accompanied by the same gestures - arms and pointed forefingers darting toward each other in arclike semicircular motions .
+1
+#7 accompany VERB accompany%2:42:00::
+One arm represented our bombers and missiles , the other arm " theirs " .
+1
+#2 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+Unanimously they believe that the world would become a safer place if more of us - and more Russians and Communist Chinese , too - thought about accidental war .
+2
+#2 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 become VERB become%2:30:00::,become%2:42:01::
+His investigations made him the Paul Revere of accidental war , and safety procedures were enormously increased .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+In recent weeks , as a result of a sweeping defense policy reappraisal by the Kennedy Administration , basic United States strategy has been modified - and large new sums allocated - to meet the accidental-war danger and to reduce it as quickly as possible .
+2
+#33 meet VERB meet%2:41:02::,meet%2:42:01::
+#39 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+The chain starts at BMEWS ( Ballistic Missile Early Warning System ) in Thule , Greenland .
+1
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Its radar screens would register Soviet missiles shortly after they are launched against the United States .
+1
+#11 launch VERB launch%2:30:10::,launch%2:35:00::,launch%2:35:02::
+BMEWS intelligence is simultaneously flashed to NORAD ( North American Air Defense Command ) in Colorado Springs , Colorado , for interpretation ; to the SAC command and control post , forty-five feet below the ground at Offutt Air Force Base , near Omaha , Nebraska ; to the Joint War Room of the Joint Chiefs of Staff in the Pentagon and to the President .
+1
+#4 flash VERB flash%2:32:00::,flash%2:39:01::
+Alternate locations exist for all key command centers .
+1
+#2 exist VERB exist%2:42:00::
+Multiple circuits , routings and frequencies make the chain as unbreakable as possible .
+1
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The same principle of " redundancy " applies to all communications on these special networks .
+1
+#7 apply VERB apply%2:42:00::
+Additional codes can be used to challenge and counterchallenge the authentications .
+2
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 challenge VERB challenge%2:32:02::,challenge%2:32:03::
+But what if somebody decides to break it ?
+1
+#6 break VERB break%2:42:00::,break%2:42:04::
+Hundreds of men are required to pass the word to the button pushers and to push the buttons .
+2
+#6 pass VERB pass%2:32:00::,pass%2:32:01::,pass%2:41:02::
+#15 push VERB push%2:32:01::,push%2:38:00::
+What if one or more of them turn irrational or suddenly , coolly , decide to clobber the Russians ?
+1
+#7 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+Or singlehandedly decided to reverse national policy and hit the Soviets without provocation ?
+1
+#8 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+However , the system is designed , ingeniously and hopefully , so that no one man could initiate a thermonuclear war .
+1
+#17 initiate VERB initiate%2:30:00::
+Even the President cannot pick up his telephone and give a " go " order .
+1
+#9 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+Even he does not know the one signal for a nuclear strike - the " go code " .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+In an emergency he would receive available intelligence on the " gold-phone circuit " .
+1
+#5 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+All could help the President make his decision .
+1
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+The talk would not be in code , but neither would it ramble .
+1
+#12 ramble VERB ramble%2:42:00::
+Vital questions would be quickly answered according to a preprepared agenda .
+1
+#5 answer VERB answer%2:31:00::,answer%2:32:00::
+Officers who participate in the continual practice drills assured me that the President 's decision could be made and announced on the gold circuit within minutes after the first flash from BMEWS .
+2
+#2 participate VERB participate%2:33:00::
+#8 assure VERB assure%2:32:01::,assure%2:32:02::
+If communications work , his decision would be instantly known in all command posts that would originate the actual go order .
+2
+#2 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+They include the Navy 's Atlantic Command at Norfolk , Virginia , which is in contact with the Polaris subs ; NATO headquarters in Europe ; Air Force forward headquarters in Europe and in the Pacific , which control tactical fighters on ships and land bases ; and SAC , which controls long-range bombers and Atlas missiles .
+3
+#1 include VERB include%2:42:00::
+#38 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#51 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+Let us look in on one of these nerve centers - SAC at Omaha - and see what must still happen before a wing of B-52 bombers could drop their H-bombs .
+3
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#20 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#28 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+No question ruffles him or causes him to hesitate .
+1
+#2 ruffle VERB ruffle%2:35:02::
+Wisman , who has had the chief controller 's job for four years , calls the signals for a team operating three rows of dull-gray consoles studded with lights , switches and buttons .
+1
+#20 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+In emergencies the SAC commander , Gen. Thomas Power , or his deputies and their staff would occupy a balcony that stretches across the length of the room above Wisman and his staff .
+2
+#17 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#21 stretch VERB stretch%2:42:00::
+General Power would participate in the decision making .
+1
+#3 participate VERB participate%2:33:00::
+Wisman , below , would listen in and act .
+1
+#8 act VERB act%2:33:00::,act%2:41:00::
+His consoles can give him instant contact with more than seventy bases around the world and with every SAC aircraft .
+1
+#3 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+( There are two receivers in case one should be dropped and damaged . )
+1
+#10 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+But Wisman , too , does not know the go code .
+1
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He must take it from " the red box " .
+1
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+In point of fact , this is a beige box with a bright red door , about one and a half feet square and hung from the wall about six feet from the door to Wisman 's right .
+1
+#24 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+The box is internally wired so the door can never be opened without setting off a screeching klaxon ( " It 's real obnoxious " ) .
+2
+#4 wire VERB wire%2:35:00::
+#11 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+Now we must become vague , for we are approaching one of the nation 's most guarded secrets .
+1
+#3 become VERB become%2:30:00::,become%2:42:01::
+The codes in the red box - there are several of them covering various contingencies - are contained in a sealed X-ray-proof " unique device " .
+2
+#12 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#17 contain VERB contain%2:42:00::,contain%2:42:06::
+But even the contents of Wisman 's box cannot start a war .
+1
+#9 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+In addition to the authentication and acknowledgment procedures which precede and follow the sending of the go messages , again in special codes , each message also contains an " internal authenticator " , another specific signal to convince the recipient that he is getting the real thing .
+2
+#27 contain VERB contain%2:42:00::,contain%2:42:06::
+#44 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+I asked Wisman what would happen if he broke out the go codes and tried to start transmitting one .
+4
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#5 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#14 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#16 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+" I 'd wind up full of .38 bullet holes " , he said , and there was no question that he was talking about bullets fired by his coworkers .
+2
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 fire VERB fire%2:33:00::,fire%2:33:02::
+Now let us imagine a wing of B-52 's , on alert near their " positive control ( or fail-safe ) points " , the spots on the map , many miles from Soviet territory , beyond which they are forbidden to fly without specific orders to proceed to their targets .
+2
+#3 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#42 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+As Wisman put it , " They have separate pieces of the pie , and we have the whole pie .
+1
+#2 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+Once we send out the whole pie , they can put their pieces into it .
+1
+#10 put VERB put%2:35:00::,put%2:35:05::
+Unless we send out the whole pie , their pieces mean nothing " .
+1
+#10 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Why does Wisman 's ever-changing code always mesh with the fragments in possession of the button pushers ?
+1
+#7 mesh VERB mesh%2:35:01::
+At any rate , three men out of a six-man B-52 crew are required to copy down Wisman 's go-to-war message .
+1
+#15 copy VERB copy%2:36:03::
+Each must match Wisman 's " pie " with the fragment that he carries with him .
+2
+#2 match VERB match%2:30:01::,match%2:35:08::
+#13 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+All three must compare notes and agree to " go " .
+2
+#3 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#6 agree VERB agree%2:32:00::,agree%2:32:01::
+After that , it requires several minutes of concentrated work , including six separate and deliberate actions by a minimum of three men sitting at three separate stations in a bomber , each with another man beside him to help , for an armed bomb to be released .
+3
+#11 include VERB include%2:42:00::
+#23 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#39 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Unless all gadgets are properly operated - and the wires and seals from the handles removed first - no damage can be done .
+2
+#5 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#15 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::

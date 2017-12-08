@@ -1,0 +1,617 @@
+ In the century from 1815 to 1914 the law of nations became international law .
+2
+#2 century NOUN century%1:28:00::
+#11 become VERB become%2:30:00::,become%2:42:01::
+Several factors contributed to this change .
+2
+#1 factor NOUN factor%1:08:00::,factor%1:18:00::
+#5 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+The Congress of Vienna is a convenient starting point because it both epitomized and symbolized what was to follow .
+2
+#12 epitomize VERB epitomise%2:42:00::
+#18 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+Here in 1815 the great nations assembled to legislate not merely for Europe , but for the world .
+4
+#0 here ADV here%4:02:01::
+#4 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#6 assemble VERB assemble%2:41:03::
+#17 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Thus the Congress marks a formal recognition of the political system that was central to world politics for a century .
+6
+#0 thus ADV thus%4:02:01::
+#3 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#5 formal ADJ formal%5:00:00:nonrepresentational:00
+#13 central ADJ central%5:00:00:important:00
+#15 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#19 century NOUN century%1:28:00::
+International law had to fit the conditions of Europe , and nothing that could not fit this system , or the interests of the great European nations collectively , could possibly emerge as law in any meaningful sense .
+8
+#4 fit VERB fit%2:42:01::
+#6 condition NOUN condition%1:10:01::,condition%1:26:00::
+#14 not ADV not%4:02:00::
+#15 fit VERB fit%2:42:01::
+#24 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#30 possibly ADV possibly%4:02:01::
+#33 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#37 sense NOUN sense%1:10:00::
+Essentially this imposed two conditions : First , international law had to recognize and be compatible with an international political system in which a number of states were competitive , suspicious , and opportunistic in their political alignments with one another ; second , it had to be compatible with the value system that they shared .
+6
+#2 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#4 condition NOUN condition%1:10:01::,condition%1:26:00::
+#12 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#24 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#28 competitive ADJ competitive%3:00:00::
+#37 alignment NOUN alignment%1:07:00::
+In both respects , international law was Europeanized .
+1
+#2 respect NOUN respect%1:09:00::
+It was not always easy to develop theory and doctrine which would square the two conditions .
+6
+#2 not ADV not%4:02:00::
+#3 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#4 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#6 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#12 square VERB square%2:42:00::
+#15 condition NOUN condition%1:10:01::,condition%1:26:00::
+On the one hand , the major European nations had to maintain vis-a-vis each other an emphasis upon sovereignty , independence , formal equality - thus insuring for themselves individually an optimal freedom of action to maintain the " flexibility of alignment " that the system required and to avoid anything approaching a repetition of the disastrous Napoleonic experience .
+10
+#6 major ADJ major%3:00:05::,major%3:00:06::
+#22 formal ADJ formal%5:00:00:nonrepresentational:00
+#25 thus ADV thus%4:02:01::
+#26 insure VERB insure%2:32:04::,insure%2:40:00::
+#34 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#36 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#41 alignment NOUN alignment%1:07:00::
+#45 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#49 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#51 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+But there was no pressing need to maintain these same standards with regard to most of the rest of the world .
+6
+#5 need NOUN need%1:26:00::
+#7 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#9 same ADJ same%3:00:00::,same%3:00:02::
+#10 standard NOUN standard%1:10:00::
+#17 rest NOUN rest%1:24:00::
+#20 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere .
+8
+#0 thus ADV thus%4:02:00::
+#8 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#16 not ADV not%4:02:00::
+#17 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#19 fit VERB fit%2:42:01::
+#20 less ADV less%4:02:00::,less%4:02:01::
+#23 less ADV less%4:02:00::,less%4:02:01::
+#25 society NOUN society%1:14:00::,society%1:14:02::
+Political interference in Africa and Asia and even in Latin America ( though limited in Latin America by the special interest of the United States as expressed in the Monroe Doctrine , itself from the outset related to European politics and long dependent upon the " balance of power " system in Europe ) was necessary in order to preserve both common economic values and the European " balance " itself .
+5
+#1 interference NOUN interference%1:06:00::
+#26 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#50 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#55 necessary ADJ necessary%3:00:00::
+#61 common ADJ common%3:00:02::,common%5:00:00:shared:00
+A nation such as Switzerland could be neutralized by agreement and could be relied upon to protect its neutrality ; more doubtful , but possible , ( with an assist from the North ) was the neutralization of the Latin American countries ; out of the question was the neutralization of Asia and Africa .
+5
+#18 neutrality NOUN neutrality%1:09:00::
+#20 more ADV more%4:02:00::,more%4:02:01::
+#21 doubtful ADJ doubtful%5:00:00:unsettled:02
+#32 north NOUN north%1:15:02::
+#41 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+This Europeanization of the law was made explicit by a number of 19 th century scholars .
+3
+#4 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#14 century NOUN century%1:28:00::
+More emphasis was put upon the fact that international law was the law of " civilized nations " ; Kent and Story , the great early American scholars , repeatedly made use of this phrase , or of " Christian nations " , which is a substantial equivalent .
+3
+#3 put VERB put%2:31:13::,put%2:34:00::
+#12 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#25 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+Wheaton stated that the public law was essentially " limited to the civilized and Christian peoples of Europe or to those of European origin " .
+3
+#1 state VERB state%2:32:01::,state%2:32:02::
+#15 people NOUN people%1:14:01::
+#23 origin NOUN origin%1:15:00::
+Of course it had always been of European origin in fact , but it had maintained a universal outlook under the natural law theory .
+4
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#8 origin NOUN origin%1:15:00::
+#15 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#18 outlook NOUN outlook%1:09:01::
+Now , with virtually every writer , not only was the European origin of public law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others .
+9
+#3 virtually ADV virtually%4:02:02::
+#12 origin NOUN origin%1:15:00::
+#16 acknowledge VERB acknowledge%2:32:00::
+#20 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#24 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#25 thus ADV thus%4:02:01::
+#26 establish VERB establish%2:36:01::,establish%2:41:00::
+#29 advanced ADJ advanced%5:00:00:precocious:00
+#36 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+The European customs on which international law was based were to become , by force and fiat , the customs that others were to accept as law if they were to join this community as sovereign states .
+6
+#2 custom NOUN custom%1:04:00::
+#8 base VERB base%2:31:00::
+#11 become VERB become%2:30:00::,become%2:42:01::
+#14 force NOUN force%1:07:00::
+#19 custom NOUN custom%1:04:00::
+#26 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+Hall , for example , was quite explicit on this point when he said " states outside European civilization must formally enter into the circle of law governed countries .
+9
+#6 quite ADV quite%4:02:02::
+#10 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 formally ADV formally%4:02:01::
+#21 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#24 circle NOUN circle%1:14:00::
+#26 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#27 govern VERB govern%2:41:01::,govern%2:41:02::
+#28 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+They must do something with the acquiescence of the latter , or some of them , which amounts to an acceptance of the law in its entirety beyond all possibility of misconstruction " .
+2
+#9 latter ADJ latter%3:00:00::
+#23 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+During the nineteenth century these views were protested by virtually all the Latin American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today .
+8
+#3 century NOUN century%1:28:00::
+#5 view NOUN view%1:09:04::
+#7 protest VERB protest%2:32:00::,protest%2:41:00::
+#9 virtually ADV virtually%4:02:02::
+#19 just ADV just%4:02:05::
+#22 new ADJ new%3:00:00::
+#28 protest VERB protest%2:32:00::,protest%2:41:00::
+#33 effect NOUN effect%1:09:00::,effect%1:19:00::
+A number of other nineteenth century developments contributed to the transmutation of the law of nations into international law ; that is , from aspects of a universal system of Justice into particular rules governing the relations of sovereign states .
+11
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#3 other ADJ other%3:00:00::
+#5 century NOUN century%1:28:00::
+#6 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#24 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#28 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#30 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#32 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#33 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#34 govern VERB govern%2:41:01::,govern%2:41:02::
+#36 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+The difference is important , for although the older law of nations did cover relationships among sovereigns , this was by no means its exclusive domain .
+4
+#8 old ADJ old%3:00:01::
+#13 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#16 sovereign NOUN sovereign%1:18:00::
+#24 exclusive ADJ exclusive%5:00:00:unshared:00
+The law of nature governed sovereigns in their relationship to their own citizens , to foreigners , and to each other in a conceptually unified system .
+4
+#4 govern VERB govern%2:41:01::,govern%2:41:02::
+#5 sovereign NOUN sovereign%1:18:00::
+#11 own ADJ own%5:00:00:personal:00
+#25 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+The theory of international law , which in the nineteenth century became common to virtually all writers in Europe and America , broke this unity and this universality .
+6
+#10 century NOUN century%1:28:00::
+#11 become VERB become%2:30:00::,become%2:42:01::
+#12 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#14 virtually ADV virtually%4:02:02::
+#22 break VERB break%2:30:11::,break%2:35:01::,break%2:41:09::
+#24 unity NOUN unity%1:07:00::,unity%1:26:00::
+It lost sight of the individual almost entirely and confined itself to rules limiting the exercise of state power for reasons essentially unconnected with justice or morality save as these values might affect international relations .
+9
+#1 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#2 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#12 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#15 exercise NOUN exercise%1:04:03::
+#18 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#20 reason NOUN reason%1:09:01::,reason%1:16:00::
+#30 value NOUN value%1:07:00::
+#32 affect VERB affect%2:30:00::,affect%2:42:00::
+#34 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+No longer did the sovereign look to the law of nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action .
+3
+#12 determine VERB determine%2:31:02::,determine%2:32:03::
+#24 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#31 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+To appreciate this development , we must relate it to other aspects of nineteenth century philosophy .
+6
+#1 appreciate VERB appreciate%2:31:00::
+#3 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#7 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#10 other ADJ other%3:00:00::
+#11 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#14 century NOUN century%1:28:00::
+First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity .
+5
+#3 most ADV most%4:02:00::
+#29 other ADJ other%3:00:00::
+#30 tie NOUN tie%1:06:04::
+#32 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#33 solidarity NOUN solidarity%1:07:00::
+National identification was not new , but it was accelerating in intensity and scope throughout Europe as new unifications occurred .
+5
+#3 not ADV not%4:02:00::
+#4 new ADJ new%3:00:00::
+#11 intensity NOUN intensity%1:07:00::
+#13 scope NOUN scope%1:07:00::
+#17 new ADJ new%3:00:00::
+It reached its ultimate philosophical statement in notions of " state will " put forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes .
+8
+#1 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#4 philosophical ADJ philosophical%3:01:00::
+#7 notion NOUN notion%1:09:02::
+#10 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#11 will NOUN will%1:09:01::,willpower%1:07:00::
+#17 German NOUN german%1:18:00::
+#19 especially ADV especially%4:02:00::
+#29 origin NOUN origin%1:15:00::
+National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection .
+8
+#3 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#6 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#9 incorporate VERB incorporate%2:42:00::
+#15 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#17 domestic ADJ domestic%3:00:00::
+#21 simply ADV simply%4:02:00::,simply%4:02:02::
+#24 formal ADJ formal%5:00:00:nonrepresentational:00
+#25 reflection NOUN reflection%1:19:00::
+In the international community this reduced law to Jellinek 's auto limitation .
+3
+#3 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#5 reduce VERB reduce%2:37:00::,reduce%2:41:00::
+#6 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+A state , the highest form of human organization in fact and theory , could be subjected to Law only by a manifestation of self-will , or consent .
+3
+#16 subject VERB subject%2:41:00::
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#19 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+According to the new theories , the nineteenth century corporate sovereign was " sovereign " in a quite new and different sense from his historical predecessors .
+7
+#3 new ADJ new%3:00:00::
+#8 century NOUN century%1:28:00::
+#10 sovereign NOUN sovereign%1:18:00::
+#17 quite ADV quite%4:02:02::
+#18 new ADJ new%3:00:00::
+#20 different ADJ different%3:00:00::,different%5:00:00:other:00
+#21 sense NOUN sense%1:10:00::
+He no longer sought to find the law ; he made it ; he could be subjected to law only because he agreed to be .
+5
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#7 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#16 subject VERB subject%2:41:00::
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#19 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+There was no law , domestic or international , except that willed by , acknowledged by , or consented to by states .
+3
+#3 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#5 domestic ADJ domestic%3:00:00::
+#11 will VERB will%2:32:00::
+Hidden behind Hegelian abstractions were more practical reasons for a changing jurisprudence .
+3
+#5 more ADV more%4:02:00::,more%4:02:01::
+#6 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#7 reason NOUN reason%1:09:01::,reason%1:16:00::
+Related to , but distinguishable from , nationalism was the growth of democracy in one form or another .
+2
+#10 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#15 form NOUN form%1:09:01::,form%1:10:00::
+Increased participation in politics and the demands of various groups for status and recognition had dramatic effects upon law institutions .
+5
+#11 status NOUN status%1:26:00::,status%1:26:01::
+#15 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#16 effect NOUN effect%1:09:00::,effect%1:19:00::
+#18 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#19 institution NOUN institution%1:14:00::
+The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions .
+11
+#4 interest NOUN interest%1:07:01::
+#7 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#13 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#15 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#17 conjunction NOUN conjunction%1:07:00::
+#24 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#29 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#36 means NOUN means%1:06:00::
+#38 policy NOUN policy%1:09:00::,policy%1:10:00::
+#45 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#48 institution NOUN institution%1:14:00::
+Law became a conscious process , something more than simply doing justice and looking to local customs and a common morality for applicable norms .
+8
+#0 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#1 become VERB become%2:30:00::,become%2:42:01::
+#4 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#9 simply ADV simply%4:02:00::,simply%4:02:02::
+#11 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#16 custom NOUN custom%1:04:00::
+#19 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#23 norm NOUN norm%1:24:00::
+Particularly was this true when the norms previously applied were no longer satisfactory to many , when customs were rapidly changing as the forces of the new productivity were harnessed .
+9
+#0 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#6 norm NOUN norm%1:24:00::
+#8 apply VERB apply%2:34:00::
+#17 custom NOUN custom%1:04:00::
+#20 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#23 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#26 new ADJ new%3:00:00::
+#29 harness VERB harness%2:34:00::
+The old way of doing things , which depended on a relatively stable community with stable ideas dealing with familiar situations , was no longer adequate to the task .
+8
+#1 old ADJ old%3:00:01::
+#2 way NOUN way%1:04:00::,way%1:09:00::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#13 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#16 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#17 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#19 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#20 situation NOUN situation%1:26:01::
+First was the period of codification of existing law : the Code Napoleon in France and the peculiar codification that , in fact , resulted from Austin 's restatement and ordering of the Common Law in England .
+4
+#0 first ADJ first%3:00:00::,first%4:02:00::
+#3 period NOUN period%1:28:00::,period%1:28:03::
+#8 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#17 peculiar ADJ peculiar%5:00:00:characteristic:00
+Codification was followed in all countries by a growing amount of legislation , some changing and adjusting the older law , much dealing with entirely new situations .
+7
+#2 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#5 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#14 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#16 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#19 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#25 new ADJ new%3:00:00::
+#26 situation NOUN situation%1:26:01::
+The legislative mills have been grinding ever since , and when its cumbersome processes were no longer adequate to the task , a limited legislative authority was delegated in one form or another , to the executive .
+7
+#2 mill NOUN mill%1:06:00::
+#5 grind VERB grind%2:35:00::
+#6 ever ADV ever%4:02:00::
+#13 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#25 authority NOUN authority%1:18:01::
+#30 form NOUN form%1:09:01::,form%1:10:00::
+#36 executive NOUN executive%1:14:01::
+Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with law .
+6
+#3 century NOUN century%1:28:00::
+#7 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#10 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#20 century NOUN century%1:28:00::
+#23 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#27 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific .
+7
+#0 indeed ADV indeed%4:02:03::
+#4 positivism NOUN positivism%1:09:00::
+#9 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#11 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#16 generally ADV generally%4:02:02::
+#18 become VERB become%2:30:00::,become%2:42:01::
+#20 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary .
+7
+#4 tend VERB tend%2:42:01::
+#10 positivism NOUN positivism%1:09:00::
+#14 movement NOUN movement%1:04:03::
+#17 policy NOUN policy%1:09:00::,policy%1:10:00::
+#21 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#27 representative NOUN representative%1:18:00::
+#34 more ADV more%4:02:00::,more%4:02:01::
+When the power of the latter was made both limited and explicit - when norms were clarified and made more precise and the creation of new norms was placed exclusively in parliamentary hands - two purposes were served : Government was made subservient to an institutionalized popular will , and law became a rational system for implementing that will , for serving conscious goals , for embodying the " public policy " .
+26
+#2 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#5 latter ADJ latter%3:00:00::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 norm NOUN norm%1:24:00::
+#16 clarify VERB clarify%2:32:00::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 more ADV more%4:02:00::,more%4:02:01::
+#23 creation NOUN creation%1:06:00::
+#25 new ADJ new%3:00:00::
+#26 norm NOUN norm%1:24:00::
+#28 place VERB place%2:31:13::
+#32 hand NOUN hand%1:09:00::
+#37 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#39 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#41 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#45 institutionalized ADJ institutionalized%5:00:00:institutional:00
+#47 will NOUN will%1:09:01::,willpower%1:07:00::
+#50 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#51 become VERB become%2:30:00::,become%2:42:01::
+#53 rational ADJ rational%3:00:00::
+#54 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#58 will NOUN will%1:09:01::,willpower%1:07:00::
+#63 goal NOUN goal%1:09:00::,goal%1:15:00::
+#66 embody VERB embody%2:42:02::
+#69 public ADJ public%3:00:00::,public%5:00:00:common:02
+#70 policy NOUN policy%1:09:00::,policy%1:10:00::
+It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy .
+8
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#11 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#19 inhibit VERB inhibit%2:41:04::
+#21 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#22 flow NOUN flow%1:14:00::,flow%1:22:00::
+#26 good NOUN good%1:07:02::
+#29 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#37 policy NOUN policy%1:09:00::,policy%1:10:00::
+Law was seen as an emanation of the " sovereign will " .
+3
+#0 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#2 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#10 will NOUN will%1:09:01::,willpower%1:07:00::
+However , the sovereign was not Hobbes ' absolute monarch but rather the parliamentary sovereign of Austin .
+7
+#0 however ADV however%4:02:04::
+#3 sovereign NOUN sovereign%1:18:00::
+#5 not ADV not%4:02:00::
+#8 absolute ADJ absolute%5:00:00:unequivocal:00
+#9 monarch NOUN monarch%1:18:00::
+#11 rather ADV rather%4:02:02::
+#14 sovereign NOUN sovereign%1:18:00::
+It was , too , an optimistic philosophy , and , though it separated law from morality , it was by no means an immoral or amoral one .
+2
+#3 too ADV too%4:02:01::
+#14 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+Man , through democratic institutions of government and economic freedom , was master of his destiny .
+6
+#0 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#3 democratic ADJ democratic%3:00:00::
+#4 institution NOUN institution%1:14:00::
+#6 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#8 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#12 master NOUN master%1:18:04::
+The theory did not require , though it unfortunately might acquire , a Hegelian mystique .
+1
+#3 not ADV not%4:02:00::
+It was merely a rationalization and ordering of new institutions of popular government .
+3
+#8 new ADJ new%3:00:00::
+#9 institution NOUN institution%1:14:00::
+#12 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+It was not opposed to either justice or morality ; it merely wished to minimize subjective views of officials who wielded public authority .
+7
+#2 not ADV not%4:02:00::
+#3 opposed ADJ opposed%3:00:00::
+#6 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#15 subjective ADJ subjective%3:00:00::
+#16 view NOUN view%1:09:04::
+#21 public ADJ public%3:00:00::,public%5:00:00:common:02
+#22 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+Particularly was this true as laissez-faire capitalism became the dominant credo of Western society .
+5
+#0 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#7 become VERB become%2:30:00::,become%2:42:01::
+#12 western ADJ western%3:00:01::
+#13 society NOUN society%1:14:00::,society%1:14:02::
+To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .
+20
+#5 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#8 major ADJ major%3:00:05::,major%3:00:06::
+#9 objective NOUN objective%1:09:00::
+#12 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#17 objective NOUN objective%1:09:00::
+#21 authority NOUN authority%1:18:01::
+#38 old ADJ old%3:00:01::
+#39 custom NOUN custom%1:04:00::
+#41 inhibit VERB inhibit%2:41:04::
+#47 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#49 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#54 notion NOUN notion%1:09:02::
+#61 automatic ADJ automatic%5:00:00:involuntary:02
+#65 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#66 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#71 status NOUN status%1:26:00::,status%1:26:01::
+#77 new ADJ new%3:00:00::
+#81 new ADJ new%3:00:00::
+#82 economics NOUN economics%1:09:00::
+#85 away ADV away%4:02:04::
+Contract - conceived as the free bargain of formal equals - replaced the implied obligations of a more static and status conscious society .
+9
+#2 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#5 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#6 bargain NOUN bargain%1:10:00::
+#8 formal ADJ formal%5:00:00:nonrepresentational:00
+#11 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#17 more ADV more%4:02:00::,more%4:02:01::
+#18 static ADJ static%5:00:00:nonmoving:00
+#20 status NOUN status%1:26:00::,status%1:26:01::
+#22 society NOUN society%1:14:00::,society%1:14:02::
+Indeed , contract was the dominant legal theme of the century , the touchstone of the free society .
+6
+#0 indeed ADV indeed%4:02:03::
+#6 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#7 theme NOUN theme%1:10:02::
+#10 century NOUN century%1:28:00::
+#16 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#17 society NOUN society%1:14:00::,society%1:14:02::
+Government itself was based upon contract ; business organization - the corporation - was analyzed in contractual terms ; trade was based on freedom of contract , and money was lent and borrowed on contractual terms ; even marriage and the family was seen as a contractual arrangement .
+10
+#0 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#3 base VERB base%2:31:00::
+#17 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#21 base VERB base%2:31:00::
+#30 lend VERB lend%2:40:00::
+#35 term NOUN term%1:10:01::,term%1:10:02::
+#38 marriage NOUN marriage%1:04:00::,marriage%1:14:00::,marriage%1:26:00::
+#41 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#43 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#47 arrangement NOUN arrangement%1:09:01::
+It is not surprising that the international obligations of states were also viewed in terms of contract .
+1
+#2 not ADV not%4:02:00::
+In fact , some - Anzilotti is the principle example - went so far as to say that all international law could be traced to the single legal norm , Pacta sunt Servanda .
+8
+#9 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#11 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#12 so ADV so%4:02:03::,so%4:02:07::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 trace VERB trace%2:31:00::,trace%2:38:00::,trace%2:38:03::
+#26 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#27 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#28 norm NOUN norm%1:24:00::
+The displacement ( at least to a considerable extent ) of the ethical jurisprudence of the seventeenth and eighteenth centuries by positivism reshaped both international law theory and doctrine .
+4
+#1 displacement NOUN displacement%1:04:00::
+#12 ethical ADJ ethical%5:00:00:right:01
+#19 century NOUN century%1:28:00::
+#21 positivism NOUN positivism%1:09:00::
+In the first place the new doctrine brought a formal separation of international from municipal law , rejecting the earlier view that both were parts of a universal legal system .
+6
+#5 new ADJ new%3:00:00::
+#9 formal ADJ formal%5:00:00:nonrepresentational:00
+#15 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#19 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#20 view NOUN view%1:09:04::
+#24 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+One result was to nationalize much that had been regarded as the law of nations .
+1
+#4 nationalize VERB nationalise%2:30:00::
+Admiralty law , the law merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law of Nations and made dependent on the several national laws .
+9
+#9 host NOUN host%1:13:00::,host%1:14:00::,host%1:14:02::
+#11 problem NOUN problem%1:09:00::,problem%1:26:00::
+#13 arise VERB arise%2:30:00::,arise%2:42:01::
+#20 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#23 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#24 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#30 old ADJ old%3:00:01::
+#35 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#41 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+Private international law ( which Americans call the " conflict of laws " ) was thus segregated from international law proper , or , as it is often called , public international law .
+7
+#5 American NOUN american%1:18:00::,american%1:18:01::
+#6 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#11 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#15 thus ADV thus%4:02:00::
+#20 proper ADJ proper%3:00:00::,proper%5:00:00:real:02,proper%5:00:00:specific:00
+#28 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#30 public ADJ public%3:00:00::,public%5:00:00:common:02
+States were free to enact , within broad though ( perhaps ) determinate limits , their own rules as to the application of foreign law by their courts , to vary the law merchant , and to enact legislation with regard to many claims arising on the high seas .
+13
+#0 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#2 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#4 enact VERB enact%2:41:00::
+#7 broad ADJ broad%5:00:00:comprehensive:00,broad%5:00:00:general:00
+#13 limit NOUN limit%1:23:00::,limit%1:28:00::
+#16 own ADJ own%5:00:00:personal:00
+#17 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#21 application NOUN application%1:04:02::
+#23 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#24 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#27 court NOUN court%1:06:02::,court%1:06:05::
+#37 enact VERB enact%2:41:00::
+#44 arise VERB arise%2:30:00::,arise%2:42:01::
+The change was not quite so dramatic as it sounds because in fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations .
+13
+#1 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#3 not ADV not%4:02:00::
+#4 quite ADV quite%4:02:02::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#9 sound VERB sound%2:39:06::
+#13 common ADJ common%3:00:02::,common%5:00:00:shared:00
+#14 norm NOUN norm%1:24:00::
+#15 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#21 court NOUN court%1:06:02::,court%1:06:05::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#26 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#35 situation NOUN situation%1:26:01::

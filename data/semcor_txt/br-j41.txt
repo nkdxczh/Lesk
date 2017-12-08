@@ -1,0 +1,711 @@
+ Wage price policies of industry are the result of a complex of forces - no single explanation has been found which applies to all cases .
+9
+#1 price NOUN price%1:07:01::,price%1:21:00::
+#2 policy NOUN policy%1:09:00::,policy%1:10:00::
+#4 industry NOUN industry%1:04:00::,industry%1:14:00::
+#10 complex NOUN complex%1:06:00::
+#12 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#15 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#19 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#21 apply VERB apply%2:42:00::
+#24 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The purpose of this paper is to analyze one possible force which has not been treated in the literature , but which we believe makes a significant contribution to explaining the wage price behavior of a few very important industries .
+8
+#4 paper NOUN paper%1:10:00::
+#10 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#13 not ADV not%4:02:00::
+#15 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#23 believe VERB believe%2:31:03::
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 price NOUN price%1:07:01::,price%1:21:00::
+#39 industry NOUN industry%1:04:00::,industry%1:14:00::
+While there may be several such industries to which the model of this paper is applicable , the authors make particular claim of relevance to the explanation of the course of wages and prices in the steel industry of the United States since World War 2 , .
+9
+#6 industry NOUN industry%1:04:00::,industry%1:14:00::
+#10 model NOUN model%1:09:00::,model%1:18:01::
+#13 paper NOUN paper%1:10:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 particular ADJ particular%5:00:00:uncommon:00
+#21 claim NOUN claim%1:10:02::
+#29 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#33 price NOUN price%1:07:01::,price%1:21:00::
+#37 industry NOUN industry%1:04:00::,industry%1:14:00::
+Indeed , the apparent stiffening of the industry 's attitude in the recent steel strike has a direct explanation in terms of the model here presented .
+9
+#0 indeed ADV indeed%4:02:03::
+#7 industry NOUN industry%1:04:00::,industry%1:14:00::
+#12 recent ADJ recent%5:00:00:past:00
+#14 strike NOUN strike%1:04:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#23 model NOUN model%1:09:00::,model%1:18:01::
+#24 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#25 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+The model of this paper considers an industry which is not characterized by vigorous price competition , but which is so basic that its wage price policies are held in check by continuous critical public scrutiny .
+9
+#1 model NOUN model%1:09:00::,model%1:18:01::
+#4 paper NOUN paper%1:10:00::
+#7 industry NOUN industry%1:04:00::,industry%1:14:00::
+#10 not ADV not%4:02:00::
+#20 so ADV so%4:02:03::,so%4:02:07::
+#25 price NOUN price%1:07:01::,price%1:21:00::
+#26 policy NOUN policy%1:09:00::,policy%1:10:00::
+#32 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#33 critical ADJ critical%3:00:01::
+Where the industry 's product price has been kept below the " profit maximizing " and " entry limiting " prices due to fears of public reaction , the profit seeking producers have an interest in offering little real resistance to wage demands .
+11
+#2 industry NOUN industry%1:04:00::,industry%1:14:00::
+#4 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#5 price NOUN price%1:07:01::,price%1:21:00::
+#8 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#17 entry NOUN entry%1:04:00::,entry%1:04:01::,entry%1:06:00::
+#20 price NOUN price%1:07:01::,price%1:21:00::
+#31 producer NOUN producer%1:11:00::
+#32 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#34 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#38 real ADJ real%3:00:00::,real%5:00:00:true:00
+#39 resistance NOUN resistance%1:04:00::
+The contribution of this paper is a demonstration of this proposition , and an exploration of some of its implications .
+4
+#4 paper NOUN paper%1:10:00::
+#7 demonstration NOUN demonstration%1:10:03::
+#10 proposition NOUN proposition%1:10:00::
+#19 implication NOUN implication%1:09:00::
+In order to focus clearly upon the operation of this one force , which we may call the effect of " public limit pricing " on " key " wage bargains , we deliberately simplify the model by abstracting from other forces , such as union power , which may be relevant in an actual situation .
+18
+#3 focus VERB focus%2:31:00::
+#7 operation NOUN operation%1:04:03::
+#11 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#16 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#18 effect NOUN effect%1:09:00::,effect%1:19:00::
+#21 public ADJ public%3:00:00::,public%5:00:00:common:02
+#22 limit NOUN limit%1:23:00::,limit%1:28:00::
+#23 price NOUN price%1:07:01::,price%1:21:00::
+#30 bargain NOUN bargain%1:10:00::
+#33 deliberately ADV deliberately%4:02:00::
+#36 model NOUN model%1:09:00::,model%1:18:01::
+#38 abstract VERB abstract%2:31:00::
+#40 other ADJ other%3:00:00::
+#41 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#45 union NOUN union%1:14:01::,union%1:14:02::
+#46 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#54 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#55 situation NOUN situation%1:26:01::
+For expository purposes , this is best treated as a model which spells out the conditions under which an important industry affected with the public interest would find it profitable to raise wages even in the absence of union pressures for higher wages .
+11
+#7 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#10 model NOUN model%1:09:00::,model%1:18:01::
+#15 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#20 industry NOUN industry%1:04:00::,industry%1:14:00::
+#21 affected ADJ affected%3:00:00::
+#25 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#27 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#29 profitable ADJ profitable%3:00:00::
+#31 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#38 union NOUN union%1:14:01::,union%1:14:02::
+#39 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+Part 1 , below describes this abstract model by spelling out its assumptions .
+4
+#0 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#4 describe VERB describe%2:32:01::
+#7 model NOUN model%1:09:00::,model%1:18:01::
+#12 assumption NOUN assumption%1:09:00::
+Part 2 , discusses the operation of the model and derives some significant conclusions .
+4
+#0 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#5 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#8 model NOUN model%1:09:00::,model%1:18:01::
+#13 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+Part 3 , discusses the empirical relevance and policy implications of the conclusions .
+4
+#0 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#8 policy NOUN policy%1:09:00::,policy%1:10:00::
+#9 implication NOUN implication%1:09:00::
+#12 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+Part 4 , is a brief summary .
+1
+#0 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+The Mathematical Appendix presents the rigorous argument , but is best read after Part 1 , in order that the assumptions underlying the equations may be explicit .
+7
+#2 appendix NOUN appendix%1:10:00::
+#3 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#6 argument NOUN argument%1:10:02::
+#11 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#13 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#20 assumption NOUN assumption%1:09:00::
+#23 equation NOUN equation%1:10:00::
+The industry with which this model is concerned is a basic industry , producing a substantial share of gross national product .
+5
+#1 industry NOUN industry%1:04:00::,industry%1:14:00::
+#5 model NOUN model%1:09:00::,model%1:18:01::
+#11 industry NOUN industry%1:04:00::,industry%1:14:00::
+#15 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#16 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+For the purposes of setting the product price , the industry behaves as a single entity .
+6
+#4 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#6 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#7 price NOUN price%1:07:01::,price%1:21:00::
+#10 industry NOUN industry%1:04:00::,industry%1:14:00::
+#11 behave VERB behave%2:41:00::,behave%2:41:01::
+#14 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+In wage negotiations , the industry bargains as a unit with a single union .
+4
+#5 industry NOUN industry%1:04:00::,industry%1:14:00::
+#9 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#12 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#13 union NOUN union%1:14:01::,union%1:14:02::
+We are concerned with aggregate demand for the industry 's product .
+2
+#8 industry NOUN industry%1:04:00::,industry%1:14:00::
+#10 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+The manner in which this is shared among firms is taken as given .
+3
+#1 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#10 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#12 given NOUN giving%1:10:00::
+In any given time period , the aggregate demand for the industry 's product is determined by two things : the price charged by the industry , and the level of GNP .
+9
+#2 given ADJ give%2:32:03::
+#11 industry NOUN industry%1:04:00::,industry%1:14:00::
+#13 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#15 determine VERB determine%2:31:02::,determine%2:32:03::
+#18 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#21 price NOUN price%1:07:01::,price%1:21:00::
+#22 charge VERB charge%2:40:01::,charge%2:40:03::
+#25 industry NOUN industry%1:04:00::,industry%1:14:00::
+#29 level NOUN level%1:26:00::,level%1:26:01::
+For the purposes of this discussion , the problem of relative prices is encompassed in these two variables , since GNP includes other prices .
+7
+#8 problem NOUN problem%1:09:00::,problem%1:26:00::
+#10 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#11 price NOUN price%1:07:01::,price%1:21:00::
+#13 encompass VERB encompass%2:42:00::
+#21 include VERB include%2:42:00::
+#22 other ADJ other%3:00:00::
+#23 price NOUN price%1:07:01::,price%1:21:00::
+( We abstract here from technological progress and assume that prices of all other products change proportionately . )
+7
+#2 abstract VERB abstract%2:31:00::
+#3 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#8 assume VERB assume%2:31:00::
+#10 price NOUN price%1:07:01::,price%1:21:00::
+#13 other ADJ other%3:00:00::
+#14 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#15 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+The form of the industry demand function is one which makes quantity demanded vary inversely with the product price , and vary directly with the level of GNP .
+7
+#4 industry NOUN industry%1:04:00::,industry%1:14:00::
+#6 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#17 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#18 price NOUN price%1:07:01::,price%1:21:00::
+#25 level NOUN level%1:26:00::,level%1:26:01::
+The industry of this model is so important that its wage and price policies are affected with a public interest .
+8
+#1 industry NOUN industry%1:04:00::,industry%1:14:00::
+#4 model NOUN model%1:09:00::,model%1:18:01::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#12 price NOUN price%1:07:01::,price%1:21:00::
+#13 policy NOUN policy%1:09:00::,policy%1:10:00::
+#15 affect VERB affect%2:30:00::,affect%2:42:00::
+#18 public ADJ public%3:00:00::,public%5:00:00:common:02
+#19 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+Because of its importance , and because the lack of price competition is well recognized , the industry is under considerable public pressure not to raise its price any more than could be justified by cost increases .
+7
+#17 industry NOUN industry%1:04:00::,industry%1:14:00::
+#22 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#23 not ADV not%4:02:00::
+#25 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#27 price NOUN price%1:07:01::,price%1:21:00::
+#29 more ADV more%4:02:01::
+#33 justify VERB justify%2:32:00::,justify%2:32:01::
+The threat of effective anti-trust action , provoked by " gouging the public " through price increases not justified by cost increases , and fears of endangering relations with customers , Congress , the general public and the press , all operate to keep price increases in some relation to cost increases .
+16
+#1 threat NOUN threat%1:10:00::,threat%1:26:00::
+#3 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#10 gouge VERB gouge%2:40:00::
+#15 price NOUN price%1:07:01::,price%1:21:00::
+#17 not ADV not%4:02:00::
+#18 justify VERB justify%2:32:00::,justify%2:32:01::
+#27 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#29 customer NOUN customer%1:18:00::
+#31 congress NOUN congress%1:14:00::,congress%1:14:01::
+#34 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#38 press NOUN press%1:10:00::
+#41 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#43 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#44 price NOUN price%1:07:01::,price%1:21:00::
+#48 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+For the industry of this model , the effect of such public pressures in the past has been to hold the price well below the short-run profit maximizing price ( given the wage rate and the level of GNP ) , and even below the entry limited price ( but not below average cost ) .
+15
+#2 industry NOUN industry%1:04:00::,industry%1:14:00::
+#5 model NOUN model%1:09:00::,model%1:18:01::
+#8 effect NOUN effect%1:09:00::,effect%1:19:00::
+#12 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#15 past NOUN past%1:28:01::
+#19 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+#21 price NOUN price%1:07:01::,price%1:21:00::
+#22 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#28 price NOUN price%1:07:01::,price%1:21:00::
+#30 given ADP given%1:09:00::
+#33 rate NOUN rate%1:21:00::
+#36 level NOUN level%1:26:00::,level%1:26:01::
+#45 entry NOUN entry%1:04:00::,entry%1:04:01::,entry%1:06:00::
+#47 price NOUN price%1:07:01::,price%1:21:00::
+#50 not ADV not%4:02:00::
+For such an industry , it is only " safe " to raise its price if such an increase is manifestly " justified " by rising costs ( due to rising wages , etc . ) .
+8
+#3 industry NOUN industry%1:04:00::,industry%1:14:00::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#12 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#14 price NOUN price%1:07:01::,price%1:21:00::
+#22 justify VERB justify%2:32:00::,justify%2:32:01::
+#25 rising ADJ rising%5:00:00:ascending:00
+#30 rising ADJ rising%5:00:00:ascending:00
+Thus , if public pressure sets the effective limit to the price that the industry may charge , this pressure is itself a function of the wage rate .
+11
+#0 thus ADV thus%4:02:00::
+#4 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#5 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#7 effective ADJ effective%3:00:00::,effective%5:00:00:competent:00,effective%5:00:00:efficacious:00
+#8 limit NOUN limit%1:23:00::,limit%1:28:00::
+#11 price NOUN price%1:07:01::,price%1:21:00::
+#14 industry NOUN industry%1:04:00::,industry%1:14:00::
+#16 charge VERB charge%2:40:01::,charge%2:40:03::
+#19 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#23 function NOUN function%1:24:00::
+#27 rate NOUN rate%1:21:00::
+In this model , we abstract from all non wage sources of cost changes , so that the " public limit price " only rises as the wage rate rises .
+11
+#2 model NOUN model%1:09:00::,model%1:18:01::
+#5 abstract VERB abstract%2:31:00::
+#13 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#15 so CONJ so%4:02:10::
+#19 public ADJ public%3:00:00::,public%5:00:00:common:02
+#20 limit NOUN limit%1:23:00::,limit%1:28:00::
+#21 price NOUN price%1:07:01::,price%1:21:00::
+#23 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#24 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#28 rate NOUN rate%1:21:00::
+#29 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate .
+5
+#2 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#13 industry NOUN industry%1:04:00::,industry%1:14:00::
+#15 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#20 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#22 rate NOUN rate%1:21:00::
+Since marginal costs rise when the wage rate rises , the profit maximizing price also rises when the public limit price is elevated , and is likely to remain well above the latter .
+11
+#3 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#7 rate NOUN rate%1:21:00::
+#8 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#13 price NOUN price%1:07:01::,price%1:21:00::
+#15 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#18 public ADJ public%3:00:00::,public%5:00:00:common:02
+#19 limit NOUN limit%1:23:00::,limit%1:28:00::
+#20 price NOUN price%1:07:01::,price%1:21:00::
+#26 likely ADJ likely%3:00:00::
+#29 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#32 latter ADJ latter%3:00:00::
+The entry limiting price will also be raised for potential domestic competition , but unless general inflation permits profit margins to increase proportionately throughout the economy , we might expect the public limit price to approach the entry limit price .
+14
+#1 entry NOUN entry%1:04:00::,entry%1:04:01::,entry%1:06:00::
+#3 price NOUN price%1:07:01::,price%1:21:00::
+#7 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#10 domestic ADJ domestic%3:00:00::
+#15 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#16 inflation NOUN inflation%1:22:00::
+#25 economy NOUN economy%1:14:00::
+#31 public ADJ public%3:00:00::,public%5:00:00:common:02
+#32 limit NOUN limit%1:23:00::,limit%1:28:00::
+#33 price NOUN price%1:07:01::,price%1:21:00::
+#35 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#37 entry NOUN entry%1:04:00::,entry%1:04:01::,entry%1:06:00::
+#38 limit NOUN limit%1:23:00::,limit%1:28:00::
+#39 price NOUN price%1:07:01::,price%1:21:00::
+The foreign entry limit price would be approached more rapidly , since domestic wage rates do not enter foreign costs directly .
+10
+#1 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#2 entry NOUN entry%1:04:00::,entry%1:04:01::,entry%1:06:00::
+#3 limit NOUN limit%1:23:00::,limit%1:28:00::
+#4 price NOUN price%1:07:01::,price%1:21:00::
+#7 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#8 more ADV more%4:02:00::,more%4:02:01::
+#12 domestic ADJ domestic%3:00:00::
+#14 rate NOUN rate%1:21:00::
+#16 not ADV not%4:02:00::
+#18 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in " resisting " the wage pressures of a powerful union , requesting tariff relief after it has " reluctantly " acceded to the union pressure .
+10
+#2 approach NOUN approach%1:04:02::,approach%1:06:00::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#4 critical ADJ critical%3:00:03::,critical%5:00:00:crucial:00,critical%5:00:00:indispensable:00
+#7 industry NOUN industry%1:04:00::,industry%1:14:00::
+#12 put VERB put%2:31:13::,put%2:34:00::
+#28 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#32 union NOUN union%1:04:00::,union%1:14:01::,union%1:26:00::,union%1:26:02::
+#43 accede VERB accede%2:32:01::
+#46 union NOUN union%1:04:00::,union%1:14:01::,union%1:26:00::,union%1:26:02::
+#47 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends upon the extent to which the public limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase .
+13
+#7 industry NOUN industry%1:04:00::,industry%1:14:00::
+#9 interest NOUN interest%1:21:03::
+#11 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#13 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#15 rate NOUN rate%1:21:00::
+#17 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#26 public ADJ public%3:00:00::,public%5:00:00:common:02
+#27 limit NOUN limit%1:23:00::,limit%1:28:00::
+#28 price NOUN price%1:07:01::,price%1:21:00::
+#29 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#34 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#40 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#49 accompany VERB accompany%2:42:00::
+The extent to which the public limit price is raised by a given increase in the basic wage rate is itself a function of three things : the passage of time , the level of GNP , and the size of the wage increase .
+12
+#5 public ADJ public%3:00:00::,public%5:00:00:common:02
+#6 limit NOUN limit%1:23:00::,limit%1:28:00::
+#7 price NOUN price%1:07:01::,price%1:21:00::
+#9 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#12 given ADJ give%2:32:03::
+#16 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#18 rate NOUN rate%1:21:00::
+#22 function NOUN function%1:24:00::
+#25 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#28 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#30 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#33 level NOUN level%1:26:00::,level%1:26:01::
+We are abstracting from the fact of strikes here , but it should be obvious that the extent to which the public limit price is raised by a given increase in the basic wage rate is also a function of the show of resistance put up by the industry .
+14
+#2 abstract VERB abstract%2:31:00::
+#7 strike NOUN strike%1:04:00::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#21 public ADJ public%3:00:00::,public%5:00:00:common:02
+#22 limit NOUN limit%1:23:00::,limit%1:28:00::
+#23 price NOUN price%1:07:01::,price%1:21:00::
+#25 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#28 given ADJ give%2:32:03::
+#32 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#34 rate NOUN rate%1:21:00::
+#38 function NOUN function%1:24:00::
+#41 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#43 resistance NOUN resistance%1:04:00::
+#48 industry NOUN industry%1:04:00::,industry%1:14:00::
+The industry may deliberately take a strike , not to put pressure on the union , but in order to " educate " the government and the customers of the industry .
+10
+#1 industry NOUN industry%1:04:00::,industry%1:14:00::
+#3 deliberately ADV deliberately%4:02:00::
+#4 take VERB take%2:31:02::,take%2:34:00::
+#6 strike NOUN strike%1:04:00::
+#8 not ADV not%4:02:00::
+#11 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#14 union NOUN union%1:14:01::,union%1:14:02::
+#24 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#27 customer NOUN customer%1:18:00::
+#30 industry NOUN industry%1:04:00::,industry%1:14:00::
+As a strike continues , these parties increase their pressure on the industry to reach an agreement .
+6
+#2 strike NOUN strike%1:04:00::
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#6 party NOUN party%1:14:02::,party%1:18:00::
+#9 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#12 industry NOUN industry%1:04:00::,industry%1:14:00::
+#14 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+They become increasingly willing to accept the price increase that the industry claims the wage bargain would entail .
+5
+#1 become VERB become%2:30:00::,become%2:42:01::
+#7 price NOUN price%1:07:01::,price%1:21:00::
+#11 industry NOUN industry%1:04:00::,industry%1:14:00::
+#15 bargain NOUN bargain%1:10:00::
+#17 entail VERB entail%2:42:01::
+Public indignation and resistance to wage price increases is obviously much less when the increases are on the order of 3 % per annum than when the increases are on the order of 3 % per month .
+2
+#3 resistance NOUN resistance%1:04:00::
+#6 price NOUN price%1:07:01::,price%1:21:00::
+The simple passage of an additional eleven months ' time makes the second 3 % boost more acceptable .
+4
+#1 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#2 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 more ADV more%4:02:00::,more%4:02:01::
+Thus , the public limit price is raised further by a given wage increase the longer it has been since the previous price increase .
+8
+#0 thus ADV thus%4:02:01::
+#3 public ADJ public%3:00:00::,public%5:00:00:common:02
+#4 limit NOUN limit%1:23:00::,limit%1:28:00::
+#5 price NOUN price%1:07:01::,price%1:21:00::
+#7 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#11 given ADJ give%2:32:03::
+#21 previous ADJ previous%5:00:00:preceding:00
+#22 price NOUN price%1:07:01::,price%1:21:00::
+Notice , however , that the passage of time does not permit the raising of prices per se , without an accompanying wage increase .
+6
+#2 however ADV however%4:02:04::
+#6 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#8 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#10 not ADV not%4:02:00::
+#13 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#15 price NOUN price%1:07:01::,price%1:21:00::
+Similarly , higher levels of GNP do not , in themselves , provide grounds for raising prices , but they do relax some of the pressure on the industry so that it can raise prices higher for a given wage increase .
+14
+#2 high ADJ high%3:00:02::
+#3 level NOUN level%1:26:00::,level%1:26:01::
+#7 not ADV not%4:02:00::
+#12 provide VERB provide%2:34:00::,provide%2:40:00::
+#13 ground NOUN ground%1:16:00::
+#15 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#16 price NOUN price%1:07:01::,price%1:21:00::
+#21 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+#25 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#28 industry NOUN industry%1:04:00::,industry%1:14:00::
+#33 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#34 price NOUN price%1:07:01::,price%1:21:00::
+#35 high ADJ high%3:00:02::
+#38 given ADJ give%2:32:03::
+This is not extended to anticipated levels of GNP , however - only the current level of GNP affects the public pressure against wage price increases .
+8
+#2 not ADV not%4:02:00::
+#3 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#6 level NOUN level%1:26:00::,level%1:26:01::
+#10 however ADV however%4:02:04::
+#15 level NOUN level%1:26:00::,level%1:26:01::
+#18 affect VERB affect%2:30:00::,affect%2:42:00::
+#21 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#24 price NOUN price%1:07:01::,price%1:21:00::
+Finally , since the public requires some restraint on the part of the companies , larger wage increases call for less than proportionately larger price increases ( e. g. , if a wage increase of 5 % allows a price increase of 7 % , a wage increase of 10 % allows a price increase of something less than 14 % ) .
+10
+#7 restraint NOUN restraint%1:09:00::
+#10 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#13 company NOUN company%1:14:03::
+#15 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#23 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#24 price NOUN price%1:07:01::,price%1:21:00::
+#37 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#39 price NOUN price%1:07:01::,price%1:21:00::
+#51 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#53 price NOUN price%1:07:01::,price%1:21:00::
+We assume that average total unit cost in the relevant region of operation is constant with respect to quantity produced ( the average cost curve is horizontal , and therefore is identical with the marginal cost curve ) , and is the same for every firm ( and therefore for the industry ) .
+8
+#1 assume VERB assume%2:31:00::
+#12 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#18 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+#19 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#26 horizontal ADJ horizontal%3:00:00::
+#31 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#42 same ADJ same%3:00:00::,same%3:00:02::
+#51 industry NOUN industry%1:04:00::,industry%1:14:00::
+The level of this average cost is determined by factor prices , technology , and so forth .
+3
+#1 level NOUN level%1:26:00::,level%1:26:01::
+#7 determine VERB determine%2:31:02::,determine%2:32:03::
+#10 price NOUN price%1:07:01::,price%1:21:00::
+As we have noted , however , we are abstracting from changes in all determinants of this level except for changes in the wage rate .
+7
+#5 however ADV however%4:02:04::
+#9 abstract VERB abstract%2:31:00::
+#11 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#14 determinant NOUN determinant%1:09:00::
+#17 level NOUN level%1:26:00::,level%1:26:01::
+#20 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#24 rate NOUN rate%1:21:00::
+The level of average cost ( equal to marginal cost ) is thus strictly a function of the wage rate .
+6
+#1 level NOUN level%1:26:00::,level%1:26:01::
+#6 equal ADJ equal%3:00:00::
+#12 thus ADV thus%4:02:00::
+#13 strictly ADV strictly%4:02:01::
+#15 function NOUN function%1:24:00::
+#19 rate NOUN rate%1:21:00::
+The single union which faces the industry does not restrict its membership , and there is an adequate supply of labor available to the firms of the industry at the going wage rate .
+9
+#1 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#2 union NOUN union%1:14:01::,union%1:14:02::
+#4 face VERB face%2:32:00::,face%2:32:03::
+#6 industry NOUN industry%1:04:00::,industry%1:14:00::
+#8 not ADV not%4:02:00::
+#20 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#27 industry NOUN industry%1:04:00::,industry%1:14:00::
+#30 going ADJ gone%5:00:00:dead:01
+#32 rate NOUN rate%1:21:00::
+The union does not regard unemployment of its own members as a matter of concern when setting its own wage policy - its concern with employment makes itself felt in pressure upon the government to maintain full employment .
+14
+#1 union NOUN union%1:14:01::,union%1:14:02::
+#8 own ADJ own%5:00:00:personal:00
+#9 member NOUN member%1:18:00::,member%1:24:00::
+#12 matter NOUN matter%1:09:00::,matter%1:09:01::
+#14 concern NOUN concern%1:09:00::
+#16 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#18 own ADJ own%5:00:00:personal:00
+#20 policy NOUN policy%1:09:00::,policy%1:10:00::
+#23 concern NOUN concern%1:09:00::
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#30 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#33 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#35 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#36 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+The union vigorously demands wage increases from productivity increases , and wage increases to offset cost-of-living increases , but we abstract from these forces here .
+5
+#1 union NOUN union%1:14:01::,union%1:14:02::
+#14 offset VERB offset%2:40:01::
+#20 abstract VERB abstract%2:31:00::
+#23 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#24 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+For our present purposes we assume that the sole subject of bargaining is the basic wage rate ( not including productivity improvement factors or cost-of-living adjustments ) , and it is this basic wage rate which determines the level of costs .
+13
+#2 present ADJ present%3:00:01::
+#5 assume VERB assume%2:31:00::
+#9 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#11 bargain NOUN bargain%1:10:00::
+#14 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#16 rate NOUN rate%1:21:00::
+#18 not ADV not%4:02:00::
+#19 include VERB include%2:42:00::
+#22 factor NOUN factor%1:08:00::,factor%1:18:00::
+#32 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#34 rate NOUN rate%1:21:00::
+#36 determine VERB determine%2:31:02::,determine%2:32:03::
+#38 level NOUN level%1:26:00::,level%1:26:01::
+Productivity is something of an amorphous concept and the amount of productivity increase in a given time period is not even well known to the industry , much less to the union or to the public .
+4
+#15 given ADJ give%2:32:03::
+#19 not ADV not%4:02:00::
+#25 industry NOUN industry%1:04:00::,industry%1:14:00::
+#31 union NOUN union%1:14:01::,union%1:14:02::
+Disagreement on the amount of productivity increase exacerbates the problem of agreeing how an increase in profit margins related to a productivity increase should be shared .
+1
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+The existence of conflict and of vigorous union demand for an increase in money wages does not contradict the assumption that the union is willing to settle for cost-of-living and productivity share increases as distinct from a cost raising increase in the basic wage rate .
+9
+#7 union NOUN union%1:14:01::,union%1:14:02::
+#16 not ADV not%4:02:00::
+#19 assumption NOUN assumption%1:09:00::
+#22 union NOUN union%1:14:01::,union%1:14:02::
+#26 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#31 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#34 distinct ADJ distinct%5:00:00:separate:00
+#42 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#44 rate NOUN rate%1:21:00::
+We assume further that the union recognizes the possibility that price level increases may offset wage rate increases , and it does not entirely disregard the effect of price increases arising from its own wage increases upon the " real " wage rate .
+15
+#1 assume VERB assume%2:31:00::
+#2 further ADV further%4:02:02::,further%4:02:03::
+#5 union NOUN union%1:14:01::,union%1:14:02::
+#6 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#10 price NOUN price%1:07:01::,price%1:21:00::
+#11 level NOUN level%1:26:00::,level%1:26:01::
+#14 offset VERB offset%2:40:01::
+#16 rate NOUN rate%1:21:00::
+#22 not ADV not%4:02:00::
+#26 effect NOUN effect%1:09:00::,effect%1:19:00::
+#28 price NOUN price%1:07:01::,price%1:21:00::
+#30 arise VERB arise%2:30:00::,arise%2:42:01::
+#33 own ADJ own%5:00:00:personal:00
+#39 real ADJ real%3:00:00::,real%5:00:00:true:00
+#42 rate NOUN rate%1:21:00::
+For internal political reasons , the union asks for ( and accepts ) increases in the basic wage rate , and would vigorously oppose a reduction in this rate , but the adjustment of the basic wage rate upwards is essentially up to the discretion of the companies of the industry .
+12
+#3 reason NOUN reason%1:09:01::,reason%1:16:00::
+#6 union NOUN union%1:14:01::,union%1:14:02::
+#7 ask VERB ask%2:32:01::,ask%2:32:05::
+#16 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#18 rate NOUN rate%1:21:00::
+#25 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#28 rate NOUN rate%1:21:00::
+#35 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#37 rate NOUN rate%1:21:00::
+#44 discretion NOUN discretion%1:26:00::
+#47 company NOUN company%1:14:03::
+#50 industry NOUN industry%1:04:00::,industry%1:14:00::
+Changes in the basic wage rate are cost raising , and they constitute an argument for raising prices .
+7
+#0 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#3 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#5 rate NOUN rate%1:21:00::
+#12 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#14 argument NOUN argument%1:10:02::
+#16 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#17 price NOUN price%1:07:01::,price%1:21:00::
+However , it is not known to either the union or the public precisely how much of a cost increase is caused by a given change in the basic wage rate , although the companies are presumed to have reliable estimates of this magnitude .
+10
+#0 however ADV however%4:02:04::
+#4 not ADV not%4:02:00::
+#9 union NOUN union%1:14:01::,union%1:14:02::
+#24 given ADJ give%2:32:03::
+#25 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#28 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#30 rate NOUN rate%1:21:00::
+#34 company NOUN company%1:14:03::
+#36 presume VERB presume%2:31:00::
+#38 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In this model , then , the industry is presumed to realize that they could successfully resist a change in the basic wage rate , but since such a change is the only effective means to raising prices they may , in circumstances to be spelled out in Part 2 , below , find it to their advantage to allow the wage rise .
+16
+#2 model NOUN model%1:09:00::,model%1:18:01::
+#7 industry NOUN industry%1:04:00::,industry%1:14:00::
+#9 presume VERB presume%2:31:00::
+#11 realize VERB realize%2:31:01::
+#18 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#21 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#23 rate NOUN rate%1:21:00::
+#29 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#33 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#34 means NOUN means%1:06:00::
+#36 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#37 price NOUN price%1:07:01::,price%1:21:00::
+#48 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#53 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#59 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#62 rise NOUN rise%1:07:02::
+Thus , for non negative changes in the basic wage rate , the industry becomes the active wage setter , since any increase in the basic wage rate can occur only by reason of industry acquiescence .
+10
+#4 negative ADJ negative%3:00:05::,negative%5:00:00:minus:00
+#5 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#8 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#10 rate NOUN rate%1:21:00::
+#13 industry NOUN industry%1:04:00::,industry%1:14:00::
+#14 become VERB become%2:30:00::,become%2:42:01::
+#25 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#30 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#32 reason NOUN reason%1:09:01::,reason%1:16:00::
+#34 industry NOUN industry%1:04:00::,industry%1:14:00::
+The presumption in the literature would appear to be that the basic wage rate would be unchanged in this case , on the grounds that it is " clearly " not in the interest of the industry to raise wages gratuitously .
+9
+#1 presumption NOUN presumption%1:09:00::
+#6 appear VERB appear%2:30:00::
+#11 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#19 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#23 ground NOUN ground%1:16:00::
+#30 not ADV not%4:02:00::
+#33 interest NOUN interest%1:04:01::,interest%1:07:01::,interest%1:09:00::
+#36 industry NOUN industry%1:04:00::,industry%1:14:00::
+#38 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+From this presumption it is an easy step to the conclusion that any observed increases in the basic wage rate must be due to union behavior different and more aggressive than assumed in our model .
+10
+#2 presumption NOUN presumption%1:09:00::
+#6 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#7 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#10 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#17 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#24 union NOUN union%1:14:01::,union%1:14:02::
+#26 different ADJ different%5:00:00:unusual:00
+#28 more ADV more%4:02:00::,more%4:02:01::
+#31 assume VERB assume%2:31:00::
+#34 model NOUN model%1:09:00::,model%1:18:01::
+It is this conclusion that we challenge ; we do so by disproving the presumption on which it is based .
+5
+#3 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#6 challenge VERB challenge%2:32:02::,challenge%2:32:03::
+#10 so ADV so%4:02:04::
+#14 presumption NOUN presumption%1:09:00::
+#19 base VERB base%2:31:00::
+It is convenient to assume that the union industry contract is of one year 's duration .
+4
+#4 assume VERB assume%2:31:00::
+#7 union NOUN union%1:14:01::,union%1:14:02::
+#8 industry NOUN industry%1:04:00::,industry%1:14:00::
+#13 year NOUN year%1:28:00::,year%1:28:01::

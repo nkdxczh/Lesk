@@ -1,0 +1,258 @@
+ This is the period during the melancholy days of autumn when universities and colleges schedule what they call " Homecoming Day " .
+1
+#17 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+It is true , of course , the uncertainties of life being what they are , that as now and then the Christian killed the lion , homecoming days have been ruined by a visiting team .
+2
+#23 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#31 ruin VERB ruin%2:35:01::
+Even with all possible precaution , homecomings are usually rather cruel and sad , and only the perpetually ebullient and the continually optimistic are made happy by them .
+1
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+More often than not , as the Old Grad wanders along the old paths , his memory of happy days when he strolled one of the paths with a coed beside him becomes an ache and a pain .
+1
+#32 become VERB become%2:30:00::,become%2:42:01::
+He can smell again the perfume she wore and recall the lilting sound of laughter , and can smell again the aroma of autumn - fallen leaves , the wine of cool air , and the nostalgia of woodsmoke which blows through all the winds of fall .
+4
+#2 smell VERB smell%2:31:00::,smell%2:39:01::
+#7 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#9 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#18 smell VERB smell%2:31:00::,smell%2:39:01::
+It is at precisely such moments that he encounters a couple of undergraduates , faces alight , holding hands and talking happily as they come along , oblivious of him , or throwing him the most fleeting and casual of glances , such as they would give a tethered goat .
+2
+#17 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#32 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+He feels , suddenly , the weight of the fat is on him .
+1
+#1 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+His bridgework or his plates feel loose and monstrous .
+1
+#5 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+His legs suddenly feel heavy and unaccountably weary , as if he had walked for miles , instead of strolling a few hundred yards along the old campus paths .
+2
+#3 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#13 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+It is not much better if he meets with old classmates .
+1
+#7 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Too often , unless he hails them , they pass him by .
+2
+#5 hail VERB hail%2:32:01::
+#9 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+He recalls with a wry smile the wit who said , on returning from a homecoming reunion , that he would never go again because all his class had changed so much they did n't even recognize him .
+6
+#1 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#22 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#29 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#36 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+If they do meet and recognize one another , slap backs and embrace , the moment soon is done .
+2
+#3 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#5 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+After all , when one has asked whatever became of old Joe and Charlie ; when one has inquired who it was Sue Brown married and where it is they now live ; when questions are asked and answered about families and children ; and old professors ; when the game and its probable outcome has been exhausted ; that does it .
+8
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#18 inquire VERB inquire%2:32:01::
+#24 marry VERB marry%2:41:00::,marry%2:41:01::
+#31 live VERB live%2:42:08::
+#36 ask VERB ask%2:32:00::,ask%2:32:04::
+#38 answer VERB answer%2:31:00::,answer%2:32:00::
+#57 exhaust VERB exhaust%2:34:00::
+By then one begins to notice the middle-age spread ; the gray hairs , the eyeglasses , bodies that are too thin or too heavy ; the fading signs of old beauty ; the athlete of by-gone years who wears a size 46 suit and puffs when he has finished a sentence of any length ; then , it is time to break it up and move on .
+4
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#39 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#45 puff VERB puff%2:34:00::
+#49 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+He sits in the stands and he does n't like that .
+1
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+Enough of his life was spent there on the field for him never to like watching the game as a spectator in the crowd .
+1
+#15 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+He always feels lonely .
+1
+#2 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+A team feels something .
+1
+#2 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+He sits there remembering the tense moment before the ball was snapped ; the churning of straining feet , the rasp of the canvas pants ; the smell and feel of hot , wet woolen sleeves across his face .
+2
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#11 snap VERB snap%2:35:03::
+Since the obvious is not always true , the Republican National Committee wisely analyzed its defeat of last autumn and finds that it occurred , as suspected , in the larger cities .
+2
+#20 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#26 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+Of 40 cities with populations of 300000 and more , Mr. Kennedy carried 26 and Mr. Nixon 14 .
+1
+#12 carry VERB carry%2:33:01::,carry%2:33:02::
+In 1952 Mr. Eisenhower won all but Missouri .
+1
+#4 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+Mr. Nixon , despite a very earnest effort to capture the minority groups , failed to do so .
+1
+#14 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+His visit to Warsaw , Poland , after the Russian journey in the summer of 1959 was expected to win the Polish vote which , in several cities , is substantial .
+1
+#19 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+Yet , the GOP breakdown discovered that in Philadelphia Mr. Nixon received but 21 per cent of the so-called " Polish " vote ; 30 per cent of the " Irish " vote , and 18 per cent of the " Negro " vote .
+2
+#5 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+A GOP " task force ' committee will seek to find out how its party may win support from the ethnic and minority groups in cities .
+1
+#16 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+This error was compounded by declaring the recession to be " a statistical one " , and not a reality .
+2
+#3 compound VERB compound%2:30:01::
+#5 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+The almost six million persons without jobs and the two million working part-time do not consider themselves and their plight as statistical .
+1
+#11 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+They did not view the tour of the distressed cities and towns by Secretary of Labor Goldberg as politics , which the GOP declared it to be .
+1
+#23 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+The people visited were glad to have a government with heart enough to take an interest in their misery .
+3
+#2 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+Senator Mundt 's gross distortion of President Eisenhower 's conversation into a denunciation of President Kennedy as too left wing , a statement Mr. Eisenhower declared to be entirely false , is another case in point .
+1
+#25 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+The present Republican leadership as practiced by Mundt , Goldwater , Bridges , Dirksen , et al , is repeating the errors of the party leadership of the 1930 s .
+2
+#5 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+#19 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+In that decade the partisan zeal to defend Mr. Hoover , and the party 's failure to anticipate or cope with the depression , caused a great majority of Americans to see the Republican party as cold and lacking in any sympathy for the problems of human beings caught up in the distress and suffering brought on by the economic crash .
+2
+#17 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+#31 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+The Republican party was not lacking in humanity , but it permitted its extremely partisan leadership to make it appear devoid of any consideration for people in trouble .
+2
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 appear VERB appear%2:30:00::
+Farmers called their mule-drawn pickup trucks " Hoover carts " .
+1
+#1 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Smokers reduced to " the makings " , spoke of the sack tobacco as " Hoover dust " .
+2
+#1 reduce VERB reduce%2:37:00::,reduce%2:41:00::
+#8 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+One may be sure the present Republican congressional leadership has n't meant to repeat this error .
+1
+#13 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+But it is in the process of so doing because it apparently gives priority to trying to downgrade John F. Kennedy .
+2
+#12 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+That this is not good politics is underscored by the latest poll figures which show that 72 per cent of the people like the way in which the new President is conducting the nation 's business .
+3
+#14 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#22 like VERB like%2:37:05::
+#31 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+The most articulate Republicans are those who , in their desire to get back at Mr. Kennedy , already have created the image of a Republican leadership which is reluctant to assist the distressed and the unemployed , and which is even more unwilling to help old people who need medical care .
+2
+#45 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#49 need VERB need%2:42:00::
+It will early know why the party won n't win back city votes .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Every legislator from Brasstown Bald to Folkston is going to have his every vote subjected to the closest scrutiny as a test of his political allegiances , not his convictions .
+1
+#14 subject VERB subject%2:33:00::
+And just how far can the Legislature go toward setting up a self-insurance system for the state in the midst of a governor 's race " ?
+1
+#7 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+The situation already was bad because the Legislature moved the governor 's race forward a few months , causing the campaigning to get started earlier than usual .
+1
+#8 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+But when former Gov. Marvin Griffin and Lt. Gov. Byrd accepted the invitations of the Georgia State Chamber of Commerce to join the tour next November , the situation was aggravated .
+2
+#10 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#30 aggravate VERB aggravate%2:30:00::
+Neither had a choice other than to accept the invitation .
+1
+#7 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+And it may be that one or both men actually welcomed the opportunity , when the bravado comments are cast aside .
+1
+#10 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+The Georgia State Chamber of Commerce tried to guard against the danger of eliminating potential candidates .
+1
+#6 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+It wanted the State Democratic Executive Committee to pick the " serious candidates " .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 pick VERB pick%2:31:00::
+But State Party Chairman James Gray of Albany said no , and he did n't mince any words .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" They are just asking too much " , he said .
+2
+#4 ask VERB ask%2:32:01::,ask%2:32:05::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+We can n't think of anyone else who would want to separate serious candidates from other candidates , either .
+1
+#9 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+" If an opponent accuses you of lying , do n't deny it .
+1
+#11 deny VERB deny%2:32:00::,deny%2:32:01::
+Say he is a horse thief " , runs an old adage .
+1
+#0 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+If either one ever started making promises , there is no telling where the promises would end .
+2
+#4 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Why not have them travel the state in November debating ?
+1
+#4 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+It would present a forum for them in almost every community .
+1
+#2 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+But further thought brings the shuddery visions of a governor 's race being run in the next Legislature , the spectre of big spending programs , the ooze of mudslinging before the campaign should even begin .
+2
+#13 run VERB run%2:33:06::
+#35 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The Chamber has not arranged a pre-legislative forum .
+1
+#4 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+It has arranged a campaign for governor .
+1
+#2 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+If it will simply delay the debates until the qualifications are closed next spring , and then carry all the candidates on a tour of debates , it can provide a service to the state .
+3
+#11 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+#17 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#29 provide VERB provide%2:34:00::,provide%2:40:00::
+But the Legislature should be granted the opportunity to complete its work before choosing up sides for the race .
+2
+#5 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#9 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+Former British Prime Minister Attlee says Eisenhower was not a " great soldier " .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Both won a pretty fair-sized war with a modest assist from British strategy .
+1
+#1 win VERB win%2:33:00::
+Congressmen returning from recess say the people admire President Kennedy so much , they 're even willing to heed his call to sacrifice - and give up his program .
+2
+#1 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Slogan of the John Birch Society : " Paddle your own canoe .
+1
+#8 paddle VERB paddle%2:38:00::
+The guy who makes the motor boats may be a Communist " .
+1
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+A Republican survey says Kennedy won the ' 60 election on the religious issue .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 win VERB win%2:33:00::
+Too many people were afraid if the GOP won , they 'd have to spend all their time praying .
+2
+#8 win VERB win%2:33:00::
+#12 have VERB have%2:42:08::

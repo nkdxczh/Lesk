@@ -1,0 +1,504 @@
+ The plant was located west of the Battenkill and south of the location of the former electric light plant .
+5
+#1 plant NOUN plant%1:06:01::
+#4 west ADJ west%3:00:00::
+#9 south ADJ south%3:00:00::
+#15 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#18 plant NOUN plant%1:06:01::
+The Manchester Depot Sewer Company issued 214 shares of stock at $ 10 each for construction of a sewer in that locality , and assessments were made for its maintenance .
+5
+#5 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#7 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#9 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#18 sewer NOUN sewer%1:06:00::
+#29 maintenance NOUN maintenance%1:04:00::
+It has given considerable trouble at times and empties right into the Battenkill .
+2
+#4 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#9 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+Fire District No. 1 discussed its possible purchase in 1945 , but considered it an unwise investment .
+2
+#7 purchase NOUN purchase%1:04:00::
+#16 investment NOUN investment%1:21:00::
+The sewer on Bonnet Street was constructed when there were only a few houses on the street .
+3
+#1 sewer NOUN sewer%1:06:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+as new homes were built they were connected so that all residences south of School Street are served by it .
+4
+#1 new ADJ new%3:00:00::
+#2 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#12 south ADV south%4:02:00::
+#17 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+B. J. Connell is the present treasurer and manager .
+1
+#5 present ADJ present%3:00:01::
+The 1946 town meeting voted to have the Selectmen appoint a committee to investigate and report on the feasibility of some system of sewage disposal and a disposal plant to serve Manchester Center , Depot , and Way 's Lane .
+6
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#9 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#11 committee NOUN committee%1:14:00::
+#15 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#21 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#30 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+The committee submitted a report signed by Louis Martin and Leon Wiley with a map published in the 1946 town report .
+7
+#1 committee NOUN committee%1:14:00::
+#2 submit VERB submit%2:32:00::,submit%2:32:01::
+#4 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#5 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#14 map NOUN map%1:06:00::
+#15 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#20 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+No figures were submitted with the report and no action was taken on it by the town .
+5
+#1 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#3 submit VERB submit%2:32:00::,submit%2:32:01::
+#6 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#9 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#11 take VERB take%2:31:02::,take%2:34:00::
+The 1958 town meeting directed town authorities to seek federal and state funds with which to conduct a preliminary survey of a proposed sewage plant with its attendant facilities .
+5
+#6 authority NOUN authority%1:18:01::
+#16 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#19 survey NOUN survey%1:04:01::
+#24 plant NOUN plant%1:06:01::
+#28 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+The final step was a vote for a $ 230000 bond issue for the construction of a sewage system by the 1959 town meeting , later confirmed by a two-thirds vote at a special town meeting June 21 , 1960 .
+5
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#10 bond NOUN bond%1:21:02::,bond%1:21:03::
+#11 issue NOUN issue%1:04:01::,issue%1:10:00::
+#25 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#26 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+There the matter stands with the prospect that soon Manchester may be removed from the roster of towns contributing raw sewage to its main streams .
+7
+#0 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#2 matter NOUN matter%1:09:00::,matter%1:09:01::
+#3 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+#6 prospect NOUN prospect%1:26:00::
+#8 soon ADV soon%4:02:00::
+#19 raw ADJ raw%5:00:00:unanalyzed:00
+#24 stream NOUN stream%1:17:00::
+Manchester 's unusual interest in telegraphy has often been attributed to the fact that the Rev. J. D. Wickham , headmaster of Burr and Burton Seminary , was a personal friend and correspondent of the inventor , Samuel F. B. Morse .
+3
+#3 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#29 personal ADJ personal%5:00:00:subjective:00
+#30 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+At any rate , Manchester did not lag far behind the first commercial system which was set up in 1844 between Baltimore and Washington .
+7
+#6 not ADV not%4:02:00::
+#7 lag VERB lag%2:38:00::
+#8 far ADV far%4:02:02::
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#12 commercial ADJ commercial%3:01:00::
+#13 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#23 Washington NOUN washington%1:15:01::
+In 1846 Matthew B. Goodwin , jeweler and watchmaker , became the town 's first telegrapher in a dwelling he built for himself and his business " two doors north of the Equinox House " or " one door north of the Bank , Manchester , Vermont " .
+5
+#10 become VERB become%2:30:00::,become%2:42:01::
+#14 first ADJ first%3:00:00::,first%4:02:00::
+#25 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#29 north ADJ north%3:00:00::
+#39 north ADV north%4:02:00::
+Shares of capital stock at $ 15 each in the latter company were payable at the Bank of Manchester or at various other Vermont banks .
+4
+#0 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#10 latter ADJ latter%3:00:00::
+#11 company NOUN company%1:14:03::
+#24 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+A message of less than fifteen words to Bennington cost twenty-five cents .
+4
+#1 message NOUN message%1:10:00::,message%1:10:01::
+#6 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#9 cost VERB cost%2:42:00::,cost%2:42:01::
+#11 cent NOUN cent%1:23:00::
+By 1871 L. C. Orvis , manager of the " Western Union Telegraph Company " , expressed willingness to send emergency telegrams on Sundays from his Village drugstore .
+2
+#16 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#19 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Orvis even needed to hire an assistant , Clark J. Wait .
+1
+#4 hire VERB hire%2:41:00::
+The Manchester Journal commented editorially on the surprising amount of local telegraphic business .
+2
+#11 telegraphic ADJ telegraphic%3:01:00::
+#12 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+In the fall of 1878 , the " Popular Telegraph Line " was established between Manchester and Factory Point by the owners , Paul W. Orvis , Henry Gray , J. N. Hard , and Clark J. Wait .
+2
+#2 fall NOUN fall%1:11:03::
+#13 establish VERB establish%2:36:01::,establish%2:41:00::
+The line soon lived up to its name , as local messages of moderate length could be sent for a dime and the company was quickly able to declare very liberal dividends on its capital stock .
+10
+#1 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#2 soon ADV soon%4:02:00::
+#7 name NOUN name%1:10:00::,name%1:26:00::
+#11 message NOUN message%1:10:00::,message%1:10:01::
+#14 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#17 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#23 company NOUN company%1:14:03::
+#26 able ADJ able%3:00:00::
+#30 liberal ADJ liberal%5:00:00:generous:01
+#31 dividend NOUN dividend%1:21:00::
+In 1879 the same Clark Wait , with H. H. Holley of South Dorset , formed the " American Telegraph Line " , extending from Manchester Depot via Factory Point and South Dorset to Dorset .
+3
+#3 same PRON same%3:00:02::
+#15 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#23 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+Besides being most convenient , the line " soon proved a good investment for the owners " .
+6
+#2 most ADV most%4:02:00::
+#6 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#8 soon ADV soon%4:02:00::
+#9 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#11 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#12 investment NOUN investment%1:21:00::
+Telegraphers at the Depot at this time were Aaron C. Burr and Mark Manley of " Burr and Manley " , dealers in lumber and dry goods .
+2
+#21 dealer NOUN dealer%1:18:02::
+#23 lumber NOUN lumber%1:27:00::
+Early equipment was very flimsy ; the smallest gusts of wind toppled poles , making communications impossible .
+4
+#10 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#12 pole NOUN pole%1:06:02::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 communication NOUN communication%1:03:00::,communication%1:10:01::
+But companies continued to spring up .
+2
+#1 company NOUN company%1:14:03::
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+By 1883 the " Battenkill Telegraph Company " was in existence and Alvin Pettibone was its president .
+1
+#16 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Operating in 1887 was the " Valley Telegraph Line " , officers of which were E. C. Orvis , president ; H. K. Fowler , vice-president and secretary ; J. N. Hard , treasurer ; F. H. Walker , superintendent ; H. S. Walker , assistant superintendent .
+3
+#0 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#11 officer NOUN officer%1:18:02::,officer%1:18:03::
+#19 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Two companies now had headquarters with Clark J. Wait , who by then had his own drugstore at Factory Point - the " Northern Union Telegraph Company " and the " Western Union " .
+6
+#1 company NOUN company%1:14:03::
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 then ADV then%4:02:01::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 own ADJ own%5:00:00:personal:00
+Operators were Arthur Koop and Norman Taylor .
+1
+#0 operator NOUN operator%1:18:00::
+Still existing on a " Northern Union " telegraph form is a typical peremptory message from Peru grocer J. J. Hapgood to Burton and Graves ' store in Manchester - " Get and send by stage sure four pounds best Porterhouse or sirloin steak , for Mrs. Hapgood send six sweet oranges " .
+9
+#0 still ADV still%4:02:00::
+#1 exist VERB exist%2:42:00::
+#14 message NOUN message%1:10:00::,message%1:10:01::
+#26 store NOUN store%1:06:00::
+#33 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#35 stage NOUN stage%1:06:01::
+#38 pound NOUN pound%1:23:09::,pound%1:23:10::
+#39 good ADJ best%3:00:00::,good%3:00:01::
+#48 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+About 1888 J. E. McNaughton of Barnumville and E. G. Bacon became proprietors of the " Green Mountain Telegraph Company " , connecting all offices on the Western Union line and extending over the mountain from Barnumville to Peru , Londonderry , South Londonderry , Lowell Lake , Windham , North Windham , Grafton , Cambridgeport , Saxton 's River , and Bellows Falls .
+4
+#11 become VERB become%2:30:00::,become%2:42:01::
+#24 office NOUN office%1:06:00::
+#29 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#31 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+From 1896 until 1910 John H. Whipple was manager of Western Union at the Center in the drugstore he purchased from Clark Wait .
+1
+#19 purchase VERB purchase%2:40:00::
+The Village office of Western Union with George Towsley as manager and telegrapher continued in Hard 's drugstore until 1905 .
+2
+#2 office NOUN office%1:06:00::
+#13 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+During the summers , Towsley often needed the assistance of a company operator .
+2
+#2 summer NOUN summer%1:28:00::
+#6 need VERB need%2:42:00::
+These were the years when people flocked to Manchester not only to play golf , which had come into vogue , but also to witness the Ekwanok Country Club tournaments .
+6
+#3 year NOUN year%1:28:01::
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#12 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#13 golf NOUN golf%1:04:00::
+#24 witness VERB witness%2:39:00::,witness%2:39:01::
+#29 tournament NOUN tournament%1:11:00::
+New Yorkers were kept informed of scores by reporters who telegraphed fifteen to twenty thousand words daily to the metropolitan newspapers .
+4
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#6 score NOUN score%1:14:00::
+#15 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#19 metropolitan ADJ metropolitan%3:01:00::
+This boosted local telegraph business and Manchester basked in all the free advertising .
+1
+#4 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+In 1914 when the town was chosen for the U. S. Amateur Golf tournament , a representative hurried here from the Boston manager 's office .
+5
+#13 tournament NOUN tournament%1:11:00::
+#16 representative NOUN representative%1:18:00::
+#18 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#21 Boston NOUN boston%1:15:00::
+#24 office NOUN office%1:06:00::
+In his wake came the District Traffic Supervisor and the cream of the telegraphic profession , ten of Boston 's best , chosen for their long experience and thorough knowledge of golf .
+9
+#2 wake NOUN wake%1:11:00::
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#10 cream NOUN cream%1:14:00::
+#13 telegraphic ADJ telegraphic%3:01:00::
+#14 profession NOUN profession%1:14:00::
+#18 Boston NOUN boston%1:15:00::
+#20 good ADJ best%3:00:00::,good%3:00:01::
+#29 knowledge NOUN knowledge%1:03:00::
+#31 golf NOUN golf%1:04:00::
+During that tournament alone , some 250000 words winged their way out of Manchester .
+3
+#2 tournament NOUN tournament%1:11:00::
+#3 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#7 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+The old Morse system was replaced locally by the Simplex modern automatic method in 1929 , when Ellamae Heckman ( Wilcox ) was manager of the Western Union office .
+5
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#3 system NOUN system%1:07:00::,system%1:09:00::,system%1:09:01::,system%1:09:02::
+#5 replace VERB replace%2:30:00::,replace%2:40:00::,replace%2:41:00::
+#11 automatic ADJ automatic%3:00:00::
+#28 office NOUN office%1:06:00::
+During summers , business was so brisk that Mrs. Wilcox had two assistants and a messenger .
+4
+#1 summer NOUN summer%1:28:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 messenger NOUN messenger%1:18:00::
+She was succeeded by Clarence Goyette .
+1
+#2 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+Since that time the telegraph office has shifted in location from the railroad station at the Depot and shops at the Center back to the town clerk 's office and drugstore at the Village .
+3
+#5 office NOUN office%1:06:00::
+#18 shop NOUN shop%1:06:00::
+#28 office NOUN office%1:06:00::
+After being located for some years in the Village at the Equinox Pharmacy under the supervision of Mrs. Harry Mercier , it is presently located in the Hill and Dale Shop , Manchester Center .
+2
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#23 presently ADV presently%4:02:00::
+The first known telephone line in Manchester was established in July 1883 between Burr and Manley 's store at Manchester Depot and the Kent and Root Marble Company in South Dorset .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#8 establish VERB establish%2:36:01::,establish%2:41:00::
+#17 store NOUN store%1:06:00::
+This was extended the following year to include the railroad station agent 's office and Thayer 's Hotel at Factory Point .
+7
+#2 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#4 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#7 include VERB include%2:42:00::
+#11 agent NOUN agent%1:18:02::,agent%1:18:03::
+#13 office NOUN office%1:06:00::
+#17 hotel NOUN hotel%1:06:00::
+In November 1887 a line connecting several dwelling houses in Dorset was extended to Manchester Depot .
+3
+#1 November NOUN november%1:28:00::
+#4 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#12 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+Telephone wires from Louis Dufresne 's house in East Manchester to the Dufresne lumber job near Bourn Pond were up about 1895 .
+3
+#6 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#13 lumber NOUN lumber%1:27:00::
+#15 near ADV nearer%4:02:00::
+Eber L. Taylor of Manchester Depot recorded the setting of phone poles in East Dorset and Barnumville in his diary for 1906 .
+4
+#6 record VERB record%2:32:00::,record%2:32:03::
+#8 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#10 phone NOUN phone%1:06:00::
+#11 pole NOUN pole%1:06:02::
+These must have been for local calls strictly , as in May 1900 the " only long distance telephone " in town was transferred from C. B. Carleton 's to Young 's shoe store .
+5
+#7 strictly ADV strictly%4:02:01::
+#16 long ADJ long%3:00:01::
+#17 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#18 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#23 transfer VERB transfer%2:35:00::,transfer%2:38:01::,transfer%2:38:05::,transfer%2:40:01::,transfer%2:41:00::
+A small single switchboard was installed in the Village over Woodcock 's hardware store ( later E. H. Hemenway 's ) .
+2
+#5 install VERB install%2:35:00::
+#15 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+George Woodcock was manager and troubleshooter ; Elizabeth Way was the first operator ; and a night operator was also employed .
+4
+#11 first ADJ first%3:00:00::,first%4:02:00::
+#12 operator NOUN operator%1:18:00::
+#17 operator NOUN operator%1:18:00::
+#20 employ VERB employ%2:34:00::,employ%2:41:00::
+Anyone fortunate enough to have one of those early phones advertised the fact along with the telephone number in the Manchester Journal .
+4
+#2 enough ADV enough%4:02:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#9 phone NOUN phone%1:06:00::
+In 1918 the New England Telephone Company began erecting a building to house its operations on the corner of U. S. Rte. 7 and what is now Memorial Avenue at Manchester Center .
+6
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#10 building NOUN building%1:06:00::
+#12 house VERB house%2:42:02::
+#14 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#17 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#26 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Service running through Barnumville and to Bennington County towns east of the mountains was in the hands of the " Gleason Telephone Company " in 1925 , but major supervision of telephone lines in Manchester was with the New England Telephone and Telegraph Company , which eventually gained all control .
+6
+#1 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#9 east ADJ east%3:00:00::
+#16 hand NOUN hand%1:09:00::
+#28 major ADJ major%3:00:05::,major%3:00:06::
+#47 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#49 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+More aerial and underground equipment was installed as well as office improvements to take care of the expanding business .
+3
+#6 install VERB install%2:35:00::
+#10 office NOUN office%1:06:00::
+#18 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+In 1931 Mrs. F. H. Briggs , agent and chief operator , who was to retire in 1946 with thirty years ' service , led agency offices in sales for the year with $ 2490 .
+8
+#7 agent NOUN agent%1:18:02::,agent%1:18:03::
+#10 operator NOUN operator%1:18:00::
+#15 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+#20 year NOUN year%1:28:00::,year%1:28:01::
+#24 lead VERB lead%2:36:00::,lead%2:38:00::,lead%2:42:01::
+#26 office NOUN office%1:06:00::
+#28 sale NOUN sale%1:04:00::,sale%1:04:02::
+#31 year NOUN year%1:28:00::,year%1:28:01::
+William Hitchcock , who retired in 1938 , was a veteran of thirty-four years ' local service .
+2
+#4 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+#13 year NOUN year%1:28:00::,year%1:28:01::
+Another veteran telephone operator was Edith Fleming Blackmer , who had been in the office forty years at the time of her death in 1960 .
+2
+#14 office NOUN office%1:06:00::
+#16 year NOUN year%1:28:00::,year%1:28:01::
+In 1932 Dorset received its own exchange , which made business easier for the Manchester office , but it was not until February 1953 that area service was extended to include Manchester and Dorset .
+8
+#5 own ADJ own%5:00:00:personal:00
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#15 office NOUN office%1:06:00::
+#20 not ADV not%4:02:00::
+#25 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#28 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#30 include VERB include%2:42:00::
+Within a month , calls were up seventy per cent .
+1
+#4 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+Electricity plays such an important part in community life today that it is difficult to envision a time when current was not available for daily use .
+4
+#0 electricity NOUN electricity%1:19:01::
+#5 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#8 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#21 not ADV not%4:02:00::
+Yet one has to go back only some sixty years .
+2
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+The first mention of an electric plant in Manchester seems to be one installed in Reuben Colvin 's and Houghton 's gristmill on the West Branch in Factory Point .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#5 electric ADJ electric%3:01:00::
+#6 plant NOUN plant%1:06:01::
+No records are available as to the date or extent of installation , but it may have been in 1896 .
+3
+#1 record NOUN record%1:10:03::,record%1:21:00::
+#7 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#11 installation NOUN installation%1:04:00::
+On June 14 , 1900 the Manchester Journal reported that an electrical engineer was installing an electric light plant for Edward S. Isham at " Ormsby Hill " .
+2
+#8 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#18 plant NOUN plant%1:06:01::
+This was working by the end of August and giving satisfactory service .
+3
+#2 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#5 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#9 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+In November 1900 surveying was done under John Marsden on the east mountains to ascertain if it would be possible to get sufficient water and fall to operate an electric power plant .
+8
+#1 November NOUN november%1:28:00::
+#3 survey NOUN survey%1:04:01::
+#11 east ADJ east%3:00:00::
+#21 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#23 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#25 fall NOUN fall%1:17:00::,fall%1:28:00::
+#27 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#29 electric ADJ electric%3:01:00::
+Nothing came of it , perhaps due to lack of opportunity for water storage .
+2
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#12 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+The next step was construction by the Manchester Light and Power Company of a plant on the west bank of the Battenkill south of Union Street bridge .
+5
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#14 plant NOUN plant%1:06:01::
+#18 bank NOUN bank%1:17:01::
+#22 south ADV south%4:02:00::
+#26 bridge NOUN bridge%1:08:00::
+This was nearly completed May 23 , 1901 with a promise of lights by June 10 , but the first light did not go on until September 28 .
+6
+#2 nearly ADV nearly%4:02:00::
+#3 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#12 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#19 first ADJ first%3:00:00::,first%4:02:00::
+#20 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#22 not ADV not%4:02:00::
+It was at the end of the sidewalk in front of the Dellwood Cemetery cottage .
+1
+#4 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+The first directors of the Manchester Light and Power Company were John Marsden , M. L. Manley , William F. Orvis , George Smith , and John Blackmer .
+1
+#1 first ADJ first%3:00:00::,first%4:02:00::
+The officers were John Marsden , president ; John C. Blackmer , vice-president ; George Smith , treasurer ; and William F. Orvis , secretary .
+2
+#1 officer NOUN officer%1:18:02::,officer%1:18:03::
+#6 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Marsden was manager of the company for ten years and manager of its successor company , the Colonial Light and Power Company , for one year .
+4
+#5 company NOUN company%1:14:03::
+#8 year NOUN year%1:28:00::,year%1:28:01::
+#14 company NOUN company%1:14:03::
+#25 year NOUN year%1:28:00::,year%1:28:01::
+At about the time the Marsden enterprise was getting under way , the Vail Light and Lumber Company started construction of a chair stock factory on the site of the present Bennington Co-operative Creamery , intending to use its surplus power for generating electricity .
+10
+#6 enterprise NOUN enterprise%1:14:00::
+#8 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#22 chair NOUN chair%1:06:00::,chair%1:06:01::
+#23 stock NOUN stock%1:05:00::,stock%1:06:00::,stock%1:21:01::
+#24 factory NOUN factory%1:06:00::
+#27 site NOUN site%1:15:00::,site%1:15:02::
+#30 present ADJ present%3:00:01::
+#37 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#40 power NOUN power%1:19:00::
+#43 electricity NOUN electricity%1:19:01::
+Manchester then had two competing power companies until 1904 , when the Manchester Light and Power Company purchased the transmission system of the Vail Company .
+4
+#1 then ADV then%4:02:01::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 purchase VERB purchase%2:40:00::
+#20 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+This was fortunate , as the Vail plant burned in 1905 .
+2
+#7 plant NOUN plant%1:06:01::
+#8 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+The Colonial Light and Power Company was succeeded by the Vermont Hydro-Electric Corporation , which in turn was absorbed by the Central Vermont Public Service Corporation .
+2
+#7 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+#18 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+The latter now furnishes the area with electricity distributed from a modern sub-station at Manchester Depot which was put into operation February 19 , 1930 and was improved in January 1942 by the installation of larger transformers .
+11
+#1 latter ADJ latter%3:00:00::
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#7 electricity NOUN electricity%1:19:01::
+#8 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+#12 substation NOUN substation%1:06:00::
+#18 put VERB put%2:31:13::,put%2:34:00::
+#20 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#33 installation NOUN installation%1:04:00::
+#35 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#36 transformer NOUN transformer%1:06:00::
+For a time following the abandonment of the local plant , electric current for Manchester was brought in from the south with an emergency tie-in with the Vermont Marble Company system to the north .
+2
+#9 plant NOUN plant%1:06:01::
+#30 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::

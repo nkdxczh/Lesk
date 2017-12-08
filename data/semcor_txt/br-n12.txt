@@ -1,0 +1,800 @@
+ When several minutes had passed and Curt had n't emerged from the livery stable , Brenner re-entered the hotel and faced Summers across the counter .
+5
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#4 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#18 hotel NOUN hotel%1:06:00::
+#20 face VERB face%2:38:00::,face%2:42:00::
+#24 counter NOUN counter%1:06:00::
+" I have a little job for you , Charlie .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+I 'm sure you won n't mind doing me a small favor " .
+2
+#6 mind VERB mind%2:32:00::
+#11 favor NOUN favor%1:04:00::
+Brenner 's voice was oily , but Summers was n't fooled .
+2
+#2 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#4 oily ADJ oily%5:00:00:insincere:00
+He moistened his lips uneasily .
+1
+#3 lip NOUN lip%1:08:00::,lip%1:20:00::
+" It 's very simple .
+1
+#4 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+I just want you to take a message to Diane Molinari .
+4
+#1 just ADV just%4:02:00::,just%4:02:03::
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#7 message NOUN message%1:10:00::,message%1:10:01::
+Tell her to come here to the hotel " .
+3
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 hotel NOUN hotel%1:06:00::
+Vastly relieved , Summers nodded and started toward the door .
+1
+#4 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" One thing , Summers " , Brenner said .
+2
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You 're not to mention my name .
+2
+#3 not ADV not%4:02:00::
+#7 name NOUN name%1:14:00::
+Tell her Curt Adams wants to see her " .
+2
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+" I do n't know , Mr. Brenner " , he said haltingly , beginning to get an inkling of Brenner 's plans .
+4
+#4 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#22 plan NOUN plan%1:09:01::
+" It does n't seem quite right , telling her a thing like that .
+3
+#6 right ADJ right%3:00:01::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Could n't I just " - His voice trailed off into silence .
+4
+#3 just ADV just%4:02:00::,just%4:02:03::
+#7 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#8 trail VERB trail%2:38:01::
+#9 off ADV off%4:02:04::
+Brenner continued to smile , but his eyes were cold .
+3
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#7 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 cold ADJ cold%3:00:02::,cold%5:00:00:cool:03,cold%5:00:00:inhumane:00,cold%5:00:00:unenthusiastic:00,cold%5:00:00:unloving:00
+He turned and looked around at the lobby as though seeing things he had n't before noticed .
+4
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#7 lobby NOUN lobby%1:06:00::
+#11 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#15 before ADV before%4:02:03::
+" You know , Summers " , he said thoughtfully .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Eagle 's Nest ought to have a fire company .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+If someone were to drop a match in here , this place would go up like a haystack " .
+4
+#4 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#6 match NOUN match%1:06:00::
+#8 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#11 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+He started toward the stairway , then turned to add , " Tell her to come to Adams 's room , that Adams is in trouble .
+5
+#6 then ADV then%4:02:00::
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#9 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#15 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#19 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+His face pale , Summers headed for the street .
+2
+#2 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#5 head VERB head%2:38:00::,head%2:38:01::
+Curt 's visit to the livery stable had been merely a precaution in case anyone should be watching .
+1
+#17 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+He paused only long enough to ascertain that Jess 's buckskin was still missing and that his own gray was all right , then climbed through a back window and dropped to the ground outside .
+12
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 enough ADV enough%4:02:00::
+#10 buckskin NOUN buckskin%1:05:00::
+#12 still ADV still%4:02:00::
+#17 own ADJ own%5:00:00:personal:00
+#18 gray NOUN gray%1:05:00::
+#23 then ADV then%4:02:00::
+#27 back ADJ back%5:00:00:posterior:00
+#28 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#30 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+#33 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#34 outside ADV outside%4:02:01::
+The fact that Jess 's horse had not been returned to its stall could indicate that Diane 's information had been wrong , but Curt did n't interpret it this way .
+9
+#5 horse NOUN horse%1:05:00::,horse%1:14:00::
+#7 not ADV not%4:02:00::
+#9 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#12 stall NOUN stall%1:06:03::
+#14 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#18 information NOUN information%1:09:00::,information%1:10:02::
+#21 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#27 interpret VERB interpret%2:32:00::
+#30 way NOUN way%1:04:00::,way%1:09:00::
+A man like Jess would want to have a ready means of escape in case it was needed .
+5
+#5 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 ready ADJ ready%3:00:00::,ready%5:00:00:intelligent:00,ready%5:00:01:available:00
+#10 means NOUN means%1:06:00::
+#17 need VERB need%2:42:00::
+Probably his horse would be close to where he was hiding .
+2
+#2 horse NOUN horse%1:05:00::,horse%1:14:00::
+#5 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+From the back of the barn it was a simple matter to reach Black 's house without using the street .
+7
+#2 back NOUN back%1:06:00::,back%1:15:02::
+#5 barn NOUN barn%1:06:00::
+#9 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#10 matter NOUN matter%1:09:00::,matter%1:09:01::
+#12 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#15 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Curt approached the place cautiously , and watched it several minutes from the protection of a grove of trees .
+5
+#1 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#3 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#7 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#10 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#18 tree NOUN tree%1:20:00::
+There was a light in Black 's front room , but drawn curtains prevented any view of the interior .
+4
+#3 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#13 prevent VERB prevent%2:41:00::
+#15 view NOUN view%1:04:00::,view%1:06:00::,view%1:09:01::
+#18 interior NOUN interior%1:15:00::
+Curt circled the house and located a barn out back .
+3
+#3 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#7 barn NOUN barn%1:06:00::
+#9 back NOUN back%1:06:00::,back%1:15:02::
+He could hear horses moving around inside , and nothing else .
+3
+#3 horse NOUN horse%1:05:00::,horse%1:14:00::
+#4 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#6 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+There was no lock on the door , only an iron hook which he unfastened .
+3
+#3 lock NOUN lock%1:06:01::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 hook NOUN hook%1:06:01::
+He opened the door and went in , pulling it shut behind him .
+2
+#1 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#8 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+Again he stood in the darkness listening , but there was only the scrape of a shod hoof on a plank floor .
+6
+#2 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#5 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 scrape NOUN scrape%1:10:00::
+#20 plank NOUN plank%1:27:00::
+#21 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+He moved ahead carefully , his left hand in front of him , and came to a wooden partition .
+3
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#17 wooden ADJ wooden%5:00:00:woody:00
+Horse smell was very strong , and he could hear the crunch of grain being ground between strong jaws .
+6
+#0 horse NOUN horse%1:05:00::,horse%1:14:00::
+#4 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#11 crunch NOUN crunch%1:11:00::
+#13 grain NOUN grain%1:20:00::
+#15 grind VERB grind%2:30:00::
+#17 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+He found a match in his pocket and lit it .
+4
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#3 match NOUN match%1:06:00::
+#6 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#8 light VERB light%2:34:00::,light%2:43:00::
+There were two horses in the barn , a sway-backed dun and Jess Crouch 's buckskin .
+3
+#3 horse NOUN horse%1:05:00::,horse%1:14:00::
+#6 barn NOUN barn%1:06:00::
+#15 buckskin NOUN buckskin%1:05:00::
+Curt snuffed out the match .
+1
+#4 match NOUN match%1:06:00::
+It was certain now that Jess was in the house , but also , presumably , was Stacey Black .
+3
+#2 certain ADJ certain%3:00:01::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+Curt wanted to get Jess alone , without interference from anyone , even as spineless a person as the store owner .
+7
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#5 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#8 interference NOUN interference%1:06:00::
+#14 spineless ADJ spineless%5:00:00:weak:00
+#16 person NOUN person%1:03:00::,person%1:08:00::
+#19 store NOUN store%1:06:00::
+He studied the problem for a few seconds and thought of a means by which it might be solved .
+3
+#3 problem NOUN problem%1:09:00::,problem%1:26:00::
+#7 second NOUN second%1:28:00::,second%1:28:01::
+#12 means NOUN means%1:06:00::
+Reaching across the side of the stall , he slapped the buckskin on the rump .
+4
+#0 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#6 stall NOUN stall%1:06:03::
+#11 buckskin NOUN buckskin%1:05:00::
+#14 rump NOUN rump%1:08:00::
+The startled animal let out a terrified squeal and thrashed around in the stall .
+1
+#13 stall NOUN stall%1:06:03::
+As Curt had hoped , the house door banged open .
+3
+#6 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#8 bang VERB bang%2:38:00::
+#9 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+He slapped the buckskin again and it kicked wildly , its hoofs rattling the side of the stall .
+4
+#3 buckskin NOUN buckskin%1:05:00::
+#7 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#12 rattle VERB rattle%2:38:00::
+#17 stall NOUN stall%1:06:03::
+Curt moved over beside the door and waited .
+1
+#7 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Presently he heard footsteps crossing the yard , and Jess 's smothered curses .
+2
+#4 cross VERB cross%2:38:00::
+#12 curse NOUN curse%1:10:00::
+The door swung open , and Jess said sourly , " What the hell 's the matter with you ? "
+3
+#2 swing VERB swing%2:38:00::,swing%2:38:03::
+#3 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The horse continued to snort .
+2
+#1 horse NOUN horse%1:05:00::,horse%1:14:00::
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Curt doubted that any animal belonging to Jess would find much reassurance in its owner 's voice .
+4
+#1 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#5 belong VERB belong%2:40:00::,belong%2:42:02::
+#9 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#16 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+Jess cursed again , and entered the barn .
+3
+#1 curse VERB curse%2:32:00::,curse%2:32:02::
+#5 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#7 barn NOUN barn%1:06:00::
+A match flared , and he reached above his head to light a lantern which hung from a wire loop .
+8
+#1 match NOUN match%1:06:00::
+#2 flare VERB flare%2:43:01::
+#6 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 light VERB light%2:34:00::,light%2:43:00::
+#13 lantern NOUN lantern%1:06:00::
+#15 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#19 loop NOUN loop%1:25:00::
+As he crossed to the side of the stall , Curt drew his gun and clicked back the hammer .
+6
+#2 cross VERB cross%2:38:00::
+#8 stall NOUN stall%1:06:03::
+#11 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#15 click VERB click%2:35:00::
+#16 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#18 hammer NOUN hammer%1:06:00::
+" Before you try anything " , he said .
+2
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Remember what happened to Gruller " .
+1
+#3 happen VERB happen%2:30:02::,happen%2:41:00::
+Jess caught his breath in surprise .
+2
+#1 catch NOUN catch%1:10:00::
+#5 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+He started to reach for his gun , but apparently hammer it .
+1
+#3 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+" That 's the stuff " , Curt said .
+2
+#4 stuff NOUN stuff%1:07:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Just hold it that way " .
+3
+#1 just ADV just%4:02:00::,just%4:02:03::
+#2 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#5 way NOUN way%1:04:00::,way%1:09:00::
+He reached out to pull the door shut and fasten it with a sliding bolt .
+2
+#4 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#14 bolt NOUN bolt%1:06:00::
+You won n't be needing this " .
+1
+#4 need VERB need%2:42:00::
+He moved up and lifted Jess 's pistol out of its holster .
+2
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#7 pistol NOUN pistol%1:06:00::
+" Damn you , Adams " - Jess was beginning to recover from his initial shock .
+3
+#1 damn VERB damn%2:32:00::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#15 shock NOUN shock%1:26:00::
+If I do n't come back in the house , Breed 's going to " -
+1
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+" Your trigger-happy brother is n't in the house .
+2
+#3 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+About now he 's probably having supper .
+2
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+That long ride the four of you took must 've given him a good appetite .
+4
+#1 long ADJ long%3:00:01::
+#2 ride NOUN ride%1:04:00::
+#7 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#10 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Now turn around so I can see your face " .
+3
+#3 so CONJ so%4:02:06::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Jess turned .
+1
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+There was raw fury in his eyes , and the veins of his neck were swollen .
+5
+#2 raw ADJ raw%5:00:00:unprocessed:00
+#3 fury NOUN fury%1:12:00::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#10 vein NOUN vein%1:08:00::
+#13 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+" You 're about as dumb as they come , Adams .
+2
+#5 dumb ADJ dumb%5:00:00:stupid:00
+#8 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+I do n't know what you 're up to , but when Brenner " -
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" You can forget about Brenner , too " , Curt said .
+2
+#7 too ADV too%4:02:01::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I do n't know nothin ' about him " .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I suppose you do n't know anything about a piece of two-by-four , either ; one with blood all over it , Arbuckle 's blood " .
+4
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 blood NOUN blood%1:04:00::,blood%1:08:00::
+#24 blood NOUN blood%1:04:00::,blood%1:08:00::
+Curt 's fingers put a little more pressure on the trigger of his gun .
+2
+#3 put VERB put%2:31:13::,put%2:34:00::
+#7 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+" So help me , Crouch , I 'd like to kill you where you stand , but , before I do , I 'm going to hear you admit killing him .
+5
+#1 so ADV so%4:02:03::,so%4:02:07::
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#11 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#29 admit VERB admit%2:32:00::
+#30 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Who told you to do it ?
+1
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Curt was holding Jess 's gun in his left hand .
+1
+#2 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+He drew back his arm to slash the gunbarrel across Jess 's face , but did n't finish the motion .
+4
+#4 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#12 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#17 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#19 motion NOUN motion%1:04:01::,motion%1:10:00::,motion%1:11:00::
+Pistol whipping an unarmed man might come easy to someone like Jess , but Curt could n't bring himself to do it .
+4
+#0 pistol NOUN pistol%1:06:00::
+#1 whipping NOUN whipping%1:04:00::
+#6 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#7 easy ADV easy%4:02:01::
+Apparently sensing this , and realizing that it gave him an advantage , Jess became bold .
+4
+#5 realize VERB realize%2:31:01::
+#8 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#14 become VERB become%2:30:00::,become%2:42:01::
+#15 bold ADJ bold%3:00:00::
+" Having all the guns makes you a big man , do n't it , Adams ?
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+If we was both armed , you would n't talk so tough " .
+3
+#4 armed ADJ armed%3:00:03::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 tough ADJ tough%3:00:01::,tough%3:00:02::,tough%3:00:03::,tough%5:00:00:rugged:00,tough%5:00:00:violent:00,tough%5:00:01:difficult:00
+Curt reached out and dropped Jess 's pistol back into the holster .
+1
+#7 pistol NOUN pistol%1:06:00::
+He retreated a step and holstered his own .
+2
+#3 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+#7 own ADJ own%5:00:00:personal:00
+" All right , Crouch ; we 're on even terms .
+2
+#9 even ADJ even%5:00:01:equal:00
+#10 term NOUN term%1:10:01::,term%1:10:02::
+Now draw " !
+1
+#1 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+Sweat bubbled out on Jess 's swarthy face .
+2
+#0 sweat NOUN sweat%1:04:00::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+The fingers of his right hand twisted into a claw , but he did n't reach for the gun .
+2
+#6 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#15 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+Curt , angry enough to be a little reckless , raised his hands shoulder high .
+4
+#10 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#12 hand NOUN hand%1:08:00::,hand%1:10:01::
+#13 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#14 high ADV high%4:02:02::
+" Does this make it any easier , coward " ?
+2
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+" I ai n't drawin ' against you " , Jess said thickly .
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You 're the kind of bastard who sneaks up on a man from behind and hits him with a club .
+4
+#5 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+#13 behind ADV behind%4:02:00::
+#15 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#19 club NOUN club%1:06:01::
+I just wanted to hear you say so " .
+4
+#1 just ADV just%4:02:00::,just%4:02:03::
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+Jess stared at him without answering and let his hands fall to his sides .
+5
+#5 answer VERB answer%2:31:00::,answer%2:32:00::
+#7 let VERB let%2:30:01::,let%2:41:00::
+#9 hand NOUN hand%1:08:00::,hand%1:10:01::
+#10 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#13 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+He had found Curt 's weakness , or what to Jess was a weakness , and was smart enough to take advantage of it .
+2
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#17 smart ADJ smart%3:00:00::
+Somewhere in the distance , a woman screamed .
+1
+#3 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+Curt was too involved in his own problems to pay much attention .
+4
+#6 own ADJ own%5:00:00:personal:00
+#7 problem NOUN problem%1:09:00::,problem%1:26:00::
+#9 pay VERB pay%2:41:00::
+#11 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+He had to make Jess talk , and he had to do it before Stacey Black got curious and came to investigate .
+4
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#17 curious ADJ curious%3:00:00::,curious%5:00:00:interested:00
+#19 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Once more he lifted Jess 's gun from its holster , only this time he tossed it into the stall with the frightened buckskin .
+5
+#11 only CONJ only%4:02:04::
+#13 time NOUN time%1:11:00::
+#15 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#19 stall NOUN stall%1:06:03::
+#23 buckskin NOUN buckskin%1:05:00::
+He dropped his own beside it .
+1
+#3 own ADJ own%5:00:00:personal:00
+" We 'll do it another way , then " , he said harshly .
+3
+#6 way NOUN way%1:04:00::,way%1:09:00::
+#8 then ADV then%4:02:02::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Jess 's coarse features twisted in a surprised grin which was smashed out of shape by Curt 's fist .
+4
+#2 coarse ADJ coarse%3:00:00::
+#3 feature NOUN feature%1:08:00::,feature%1:09:01::
+#4 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#11 smash VERB smash%2:30:10::
+With a roar of pain and fury Jess made his attack .
+3
+#4 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#6 fury NOUN fury%1:12:00::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Curt managed to duck beneath the man 's flailing fist , and drove home a solid left to Jess 's mid section .
+3
+#1 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#3 duck VERB duck%2:38:00::
+#16 left NOUN left%1:08:00::
+It was like hitting a sack of salt .
+3
+#3 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#5 sack NOUN sack%1:06:00::
+#7 salt NOUN salt%1:09:00::
+Pain shout up Curt 's arm clear to the shoulder , but Jess seemed hardly aware that he had been hit .
+6
+#0 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#5 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#6 clear ADV clear%4:02:03::
+#9 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#14 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#20 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+He slammed into the wall , bounced back , and caught Curt with a roundhouse right which sent him spinning .
+7
+#6 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+#7 back ADV back%4:02:05::
+#10 catch VERB catch%2:35:13::
+#14 roundhouse NOUN roundhouse%1:06:00::
+#15 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#17 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#19 spin VERB spin%2:38:01::
+An inch lower and it would have knocked him out .
+2
+#1 inch NOUN inch%1:23:02::
+#7 knock VERB knock%2:35:04::
+As it was , his vision blurred and for a moment he was unable to move .
+3
+#5 vision NOUN vision%1:09:01::,vision%1:09:02::,vision%1:09:03::
+#10 moment NOUN moment%1:28:00::,moment%1:28:01::
+#15 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+When his eyes began to focus , he saw Jess charging at him with a pitchfork .
+5
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 focus VERB focus%2:30:00::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 charge VERB charge%2:33:00::,charge%2:38:00::
+Curt twisted to one side , and the tines of the fork bit into the floor .
+4
+#1 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#4 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#11 fork NOUN fork%1:06:00::
+#15 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Jess wasted a few seconds trying to yank them loose .
+3
+#1 waste VERB waste%2:34:05::,waste%2:40:00::
+#4 second NOUN second%1:28:00::,second%1:28:01::
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+It gave Curt time to stagger to his feet .
+3
+#1 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#5 stagger VERB stagger%2:38:01::
+#8 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+The tines broke off under Jess 's twisting , and he swung the handle in an attempt to knock Curt 's brains out .
+4
+#7 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#11 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#13 handle NOUN handle%1:06:00::
+#21 brain NOUN brain%1:08:00::,brain%1:13:00::
+His aim was hurried ; so the pitchfork whistled over Curt 's head .
+3
+#1 aim NOUN aim%1:04:00::
+#8 whistle VERB whistle%2:39:00::
+#12 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+By now Curt was seeing clearly again .
+2
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He stepped inside Jess 's guard and landed two blows to the big man 's belly , putting everything he had behind them .
+4
+#1 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#5 guard NOUN guard%1:04:03::,guard%1:07:00::
+#9 blow NOUN blow%1:04:01::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+When his head came down , Curt grabbed him by the hair and catapulted him head first into the wall .
+4
+#2 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#7 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#11 hair NOUN hair%1:08:00::
+#15 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+The building shook , setting the lantern to swaying , and the buckskin to pitching again .
+6
+#1 building NOUN building%1:06:00::
+#2 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#4 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#6 lantern NOUN lantern%1:06:00::
+#12 buckskin NOUN buckskin%1:05:00::
+#14 pitch VERB pitch%2:38:03::
+Even Black 's old crowbait began to snort , and from the house Black yelled , " Jess !
+2
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#12 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+What 's going on out there " ?
+2
+#4 out ADV out%4:02:04::
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He lurched drunkenly to his feet , lowered his head , and took one step away from the wall .
+5
+#7 lower VERB lower%2:30:01::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#12 take VERB take%2:31:02::,take%2:34:00::
+#14 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+#15 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Curt caught him flush on the nose with a blow which started at the floor .
+5
+#1 catch VERB catch%2:35:13::
+#6 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#9 blow NOUN blow%1:04:01::
+#11 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#14 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Jess had had enough .
+2
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 enough ADV enough%4:02:00::
+Blood gushed from his nose , and he backed off as rapidly as he could , stumbling over his own feet in his frantic haste to get away from Curt 's fists .
+5
+#0 blood NOUN blood%1:04:00::,blood%1:08:00::
+#1 gush VERB gush%2:38:00::
+#4 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#19 own ADJ own%5:00:00:personal:00
+#20 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+Curt was in almost as bad shape , but he would n't quit .
+3
+#5 bad ADJ bad%5:00:00:uncomfortable:00
+#6 shape NOUN shape%1:03:00::,shape%1:08:00::,shape%1:09:01::
+#12 quit VERB quit%2:38:00::
+He backed Jess into a corner , grabbed a handful of the man 's shirtfront , and drew back his right fist .
+4
+#5 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#7 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#9 handful NOUN handful%1:23:00::
+#20 right ADJ right%3:00:00::
+You killed him , did n't you " ?
+1
+#1 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+" It was Brenner 's idea " , Jess mumbled , dabbing at his nose .
+4
+#5 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#9 mumble VERB mumble%2:32:00::
+#11 dab VERB dab%2:35:01::
+#14 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+He wanted to show the town what happened to anyone who tried to start trouble " .
+6
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#7 happen VERB happen%2:30:02::,happen%2:41:00::
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+#14 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+" You mean anyone who stood up for his rights " , Curt said .
+3
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#9 right NOUN right%1:07:00::,right%1:21:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He let go of the shirt , and Jess slumped to the floor .
+2
+#9 slump VERB slump%2:38:00::
+#12 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Turning his back , Curt crossed to the stall , reached over to untie the buckskin 's halter rope , and waved his hand in the animal 's face .
+10
+#0 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#2 back NOUN back%1:06:01::,back%1:06:02::,back%1:08:00::,back%1:08:01::
+#5 cross VERB cross%2:38:00::
+#8 stall NOUN stall%1:06:03::
+#10 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#15 buckskin NOUN buckskin%1:05:00::
+#17 halter NOUN halter%1:06:01::
+#21 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#23 hand NOUN hand%1:08:00::,hand%1:10:01::
+#28 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+The buckskin bolted out of the stall .
+2
+#1 buckskin NOUN buckskin%1:05:00::
+#6 stall NOUN stall%1:06:03::
+He shook loose straw out of the action , and placed the gun in his holster .
+5
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#2 loose ADJ loose%5:00:00:unofficial:00
+#3 straw NOUN straw%1:27:00::
+#7 action NOUN action%1:04:02::,action%1:06:00::
+#10 place VERB place%2:31:13::
+Leaving Jess 's where it lay , he left the stall .
+3
+#0 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#8 leave VERB leave%2:38:00::,leave%2:41:00::
+#10 stall NOUN stall%1:06:03::
+We 're going someplace " .
+1
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Jess painfully got to his feet as someone rattled the door .
+3
+#2 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#5 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#8 rattle VERB rattle%2:38:00::
+Black called fearfully .
+2
+#1 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#2 fearfully ADV fearfully%4:02:01::
+Curt opened the door , grabbed Black by the shoulder , and pulled him into the barn .
+5
+#1 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#5 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#9 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#12 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#16 barn NOUN barn%1:06:00::
+" You 're staying right here for a while .
+3
+#3 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#4 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+This dirty coward just admitted killing Arbuckle .
+2
+#4 admit VERB admit%2:32:00::
+#5 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+I 'm going to let him tell it to somebody else " .
+2
+#4 let VERB let%2:30:01::,let%2:41:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He shoved Black toward the stall , and pointed his pistol at Jess .
+3
+#5 stall NOUN stall%1:06:03::
+#8 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#10 pistol NOUN pistol%1:06:00::
+" Get out of here .
+1
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+You 're coming along peacefully , or I 'll put a bullet in your leg " .
+4
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 put VERB put%2:35:00::,put%2:35:05::
+#11 bullet NOUN bullet%1:06:00::
+#14 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+Curt followed , reaching behind him to shut the door and hook it .
+3
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#3 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#11 hook VERB hook%2:35:00::
+Black would have little trouble getting out , but it might delay him a few minutes .
+3
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#15 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+Jess asked worriedly .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" We 're going to Marshal Woods 's house .
+2
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+Maybe if the marshal hears this himself , it 'll make a difference .
+2
+#3 marshal NOUN marshal%1:18:00::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Somebody in this town must still have some backbone " .
+3
+#5 still ADV still%4:02:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 backbone NOUN backbone%1:09:00::

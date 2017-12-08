@@ -1,0 +1,639 @@
+ Some experiments are composed of repetitions of independent trials , each with two possible outcomes .
+2
+#7 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#8 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+The binomial probability distribution may describe the variation that occurs from one set of trials of such a binomial experiment to another .
+5
+#5 describe VERB describe%2:32:01::
+#7 variation NOUN variation%1:04:00::,variation%1:04:01::,variation%1:11:01::,variation%1:18:00::,variation%1:19:00::,variation%1:25:00::
+#12 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#14 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#18 binomial ADJ binomial%3:01:00::
+We devote a chapter to the binomial distribution not only because it is a mathematical model for an enormous variety of real life phenomena , but also because it has important properties that recur in many other probability models .
+8
+#1 devote VERB devote%2:31:00::
+#15 model NOUN model%1:09:00::,model%1:18:01::
+#19 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#23 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#31 property NOUN property%1:07:00::,property%1:09:00::
+#36 other ADJ other%3:00:00::
+#38 model NOUN model%1:09:00::,model%1:18:01::
+We begin with a few examples of binomial experiments .
+3
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#7 binomial ADJ binomial%3:01:00::
+A trained marksman shooting five rounds at a target , all under practically the same conditions , may hit the bull's-eye from 0 to 5 times .
+8
+#3 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#5 round NOUN round%1:06:01::
+#8 target NOUN target%1:06:00::
+#12 practically ADV practically%4:02:00::
+#14 same ADJ same%3:00:00::,same%3:00:02::
+#15 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#18 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#25 time NOUN time%1:11:00::
+In repeated sets of five shots his numbers of bull's-eyes vary .
+3
+#1 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+#2 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#5 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+What can we say of the probabilities of the different possible numbers of bull's-eyes ?
+1
+#3 say VERB say%2:32:01::
+In litters of eight mice from similar parents , the number of mice with straight instead of wavy hair is an integer from 0 to 8 .
+7
+#1 litter NOUN litter%1:06:00::
+#4 mouse NOUN mouse%1:05:00::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#12 mouse NOUN mouse%1:05:00::
+#14 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+#18 hair NOUN hair%1:08:00::
+#21 integer NOUN integer%1:23:00::
+What probabilities should be attached to these possible outcomes ?
+1
+#4 attach VERB attach%2:35:00::,attach%2:35:01::
+When three dice are tossed repeatedly , what is the probability that the number of aces is 0 ( or 1 , or 2 , or 3 ) ?
+2
+#4 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#13 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+More generally , suppose that an experiment consists of a number of independent trials , that each trial results in either a " success " or a " non success " ( " failure " ) , and that the probability of success remains constant from trial to trial .
+9
+#1 generally ADV generally%4:02:02::
+#3 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#12 independent ADJ independent%3:00:00::
+#13 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#17 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#33 failure NOUN failure%1:04:00::,failure%1:18:00::
+#46 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#48 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+In the examples above , the occurrence of a bull's-eye , a straight haired mouse , or an ace could be called a " success " .
+4
+#2 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#12 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+#14 mouse NOUN mouse%1:05:00::
+#21 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+The major question in this chapter is : What is the probability of exactly x successes in n trials ?
+3
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#5 chapter NOUN chapter%1:10:00::
+#18 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+In Chapters 3 and 4 we answered questions like those in the examples , usually by counting points in a sample space .
+4
+#1 chapter NOUN chapter%1:10:00::
+#12 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#16 count VERB count%2:32:00::,count%2:32:01::
+#17 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+Fortunately , a general formula of wide applicability solves all problems of this kind .
+4
+#3 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#4 formula NOUN formula%1:10:03::
+#6 wide ADJ wide%5:00:00:large:00
+#10 problem NOUN problem%1:09:00::,problem%1:26:00::
+Before deriving this formula , we explain what we mean by " problems of this kind " .
+3
+#3 formula NOUN formula%1:10:03::
+#9 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+Experiments are often composed of several identical trials , and sometimes experiments themselves are repeated .
+3
+#6 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#7 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#14 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+In the marksmanship example , a trial consists of " one round shot at a target " with outcome either one bull's-eye ( success ) or none ( failure ) .
+5
+#3 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#6 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#12 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#15 target NOUN target%1:06:00::
+#28 failure NOUN failure%1:04:00::,failure%1:18:00::
+Further , an experiment might consist of five rounds , and several sets of five rounds might be regarded as a super experiment composed of several repetitions of the five round experiment .
+5
+#0 further ADV further%4:02:02::,further%4:02:03::
+#8 round NOUN round%1:28:01::
+#12 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#15 round NOUN round%1:28:01::
+#23 compose VERB compose%2:42:00::
+If three dice are tossed , a trial is one toss of one die and the experiment is composed of three trials .
+4
+#4 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#7 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#13 die NOUN die%1:06:00::
+#21 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+Or , what amounts to the same thing , if one die is tossed three times , each toss is a trial , and the three tosses form the experiment .
+6
+#6 same ADJ same%3:00:00::
+#11 die NOUN die%1:06:00::
+#13 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#15 time NOUN time%1:11:00::
+#21 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#27 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+Mathematically , we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times .
+6
+#4 not ADV not%4:02:00::
+#11 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#12 once ADV once%4:02:00::
+#17 die NOUN die%1:06:00::
+#18 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#20 time NOUN time%1:11:00::
+These examples are illustrative of the use of the words " trial " and " experiment " as they are used in this chapter , but they are quite flexible words and it is well not to restrict them too narrowly .
+10
+#1 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#9 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#11 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#20 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 chapter NOUN chapter%1:10:00::
+#30 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#34 well ADJ well%5:00:00:advisable:00
+#35 not ADV not%4:02:00::
+#39 too ADV too%4:02:00::
+#40 narrowly ADV narrowly%4:02:00::
+Ten students act as managers for a high-school football team , and of these managers a proportion p are licensed drivers .
+1
+#20 driver NOUN driver%1:18:00::,driver%1:18:02::
+Each Friday one manager is chosen by lot to stay late and load the equipment on a truck .
+5
+#7 lot NOUN lot%1:06:00::
+#9 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#10 late ADV late%4:02:00::
+#12 load VERB load%2:35:01::
+#17 truck NOUN truck%1:06:00::,truck%1:06:01::
+On three Fridays the coach has needed a driver .
+3
+#4 coach NOUN coach%1:18:00::,coach%1:18:01::
+#6 need VERB need%2:42:00::
+#8 driver NOUN driver%1:18:00::,driver%1:18:02::
+Considering only these Fridays , what is the probability that the coach had drivers all 3 times ?
+5
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 coach NOUN coach%1:18:00::,coach%1:18:01::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 driver NOUN driver%1:18:00::,driver%1:18:02::
+#16 time NOUN time%1:11:00::
+Exactly 2 times ?
+1
+#2 time NOUN time%1:11:00::
+1 time ?
+1
+#1 time NOUN time%1:11:00::
+0 time ?
+1
+#1 time NOUN time%1:11:00::
+Note that there are 3 trials of interest .
+3
+#0 note VERB note%2:32:00::,note%2:39:00::
+#5 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#7 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+Each trial consists of choosing a student manager at random .
+1
+#1 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+The 2 possible outcomes on each trial are " driver " or " nondriver " .
+2
+#6 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#9 driver NOUN driver%1:18:00::,driver%1:18:02::
+Since the choice is by lot each week , the outcomes of different trials are independent .
+4
+#5 lot NOUN lot%1:06:00::
+#12 different ADJ different%3:00:00::,different%5:00:00:other:00
+#13 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#15 independent ADJ independent%3:00:00::
+The managers stay the same , so that * * f is the same for all weeks .
+3
+#2 stay VERB stay%2:42:02::
+#4 same ADJ same%3:00:00::,same%3:00:02::
+#13 same ADJ same%3:00:00::,same%3:00:02::
+We now generalize these ideas for general binomial experiments .
+4
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#6 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#7 binomial ADJ binomial%3:01:00::
+For an experiment to qualify as a binomial experiment , it must have four properties : ( 1 ) there must be a fixed number of trials , ( 2 ) each trial must result in a " success " or a " failure " ( a binomial trial ) , ( 3 ) all trials must have identical probabilities of success , ( 4 ) the trials must be independent of each other .
+16
+#4 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+#7 binomial ADJ binomial%3:01:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 property NOUN property%1:07:00::,property%1:09:00::
+#23 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#24 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#26 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#32 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#43 failure NOUN failure%1:04:00::,failure%1:18:00::
+#47 binomial ADJ binomial%3:01:00::
+#48 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#55 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#57 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#58 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#67 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#70 independent ADJ independent%3:00:00::
+Below we use our earlier examples to describe and illustrate these four properties .
+5
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#7 describe VERB describe%2:32:01::
+#12 property NOUN property%1:07:00::,property%1:09:00::
+We also give , for each property , an example where the property is absent .
+5
+#2 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#6 property NOUN property%1:07:00::,property%1:09:00::
+#9 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#12 property NOUN property%1:07:00::,property%1:09:00::
+#14 absent ADJ absent%3:00:00::
+The language and notation introduced are standard throughout the chapter .
+4
+#3 notation NOUN notation%1:10:00::
+#4 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#6 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+#9 chapter NOUN chapter%1:10:00::
+For the marksman , we study sets of five shots ( * * f ) ; for the mice , we restrict attention to litters of eight ( * * f ) ; and for the aces , we toss three dice ( * * f ) .
+7
+#5 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#6 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#9 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#18 mouse NOUN mouse%1:05:00::
+#22 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#24 litter NOUN litter%1:06:00::
+#39 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+Toss a die until an ace appears .
+3
+#0 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#2 die NOUN die%1:06:00::
+#6 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+Here the number of trials is a random variable , not a fixed number .
+5
+#2 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#4 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#10 not ADV not%4:02:00::
+#12 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#13 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+Each of the n trials is either a success or a failure .
+2
+#4 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#11 failure NOUN failure%1:04:00::,failure%1:18:00::
+" Success " and " failure " are just convenient labels for the two categories of outcomes when we talk about binomial trials in general .
+6
+#5 failure NOUN failure%1:04:00::,failure%1:18:00::
+#8 just ADV just%4:02:00::,just%4:02:03::
+#10 label NOUN label%1:10:02::
+#14 category NOUN category%1:14:00::
+#21 binomial ADJ binomial%3:01:00::
+#22 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+These words are more expressive than labels like " A " and " not - A " .
+3
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#6 label NOUN label%1:10:02::
+#13 not ADV not%4:02:00::
+It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse .
+9
+#2 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+#9 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#18 mouse NOUN mouse%1:05:00::
+#19 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#24 category NOUN category%1:14:00::
+#25 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#27 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+#28 hair NOUN hair%1:08:00::
+#31 mouse NOUN mouse%1:05:00::
+The word " binomial " means " of two names " or " of two terms " , and both usages apply in our work : the first to the names of the two outcomes of a binomial trial , and the second to the terms p and * * f that represent the probabilities of " success " and " failure " .
+13
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#3 binomial NOUN binomial%1:09:00::
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#9 name NOUN name%1:14:00::
+#15 term NOUN term%1:09:00::
+#21 apply VERB apply%2:42:00::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+#30 name NOUN name%1:14:00::
+#37 binomial ADJ binomial%3:01:00::
+#38 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#45 term NOUN term%1:09:00::
+#52 represent VERB represent%2:32:02::,represent%2:32:12::,represent%2:36:01::,represent%2:36:02::
+#61 failure NOUN failure%1:04:00::,failure%1:18:00::
+Sometimes when there are many outcomes for a single trial , we group these outcomes into two classes , as in the example of the die , where we have arbitrarily constructed the classes " ace " and " not ace " .
+7
+#8 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#9 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#17 class NOUN class%1:14:00::,class%1:14:02::
+#22 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#25 die NOUN die%1:06:00::
+#33 class NOUN class%1:14:00::,class%1:14:02::
+#39 not ADV not%4:02:00::
+We classify mice as " straight haired " or " wavy haired " , but a hairless mouse appears .
+4
+#2 mouse NOUN mouse%1:05:00::
+#5 straight ADJ straight%3:00:01::,straight%3:00:03::,straight%5:00:00:continuous:01
+#17 mouse NOUN mouse%1:05:00::
+#18 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+We can escape from such a difficulty by ruling out the animal as not constituting a trial , but such a solution is not always satisfactory .
+6
+#13 not ADV not%4:02:00::
+#14 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#16 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#21 solution NOUN solution%1:09:00::,solution%1:10:00::
+#23 not ADV not%4:02:00::
+#24 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+Each die has probability * * f of producing an ace ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye .
+5
+#1 die NOUN die%1:06:00::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 produce VERB produce%2:39:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Note that we need not know the value of p , for the experiment to be binomial .
+5
+#0 note VERB note%2:32:00::,note%2:39:00::
+#4 not ADV not%4:02:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 value NOUN value%1:09:00::
+#16 binomial ADJ binomial%3:01:00::
+During a round of target practice the sun comes from behind a cloud and dazzles the marksman , lowering his chance of a bull's-eye .
+5
+#7 sun NOUN sun%1:17:00::,sun%1:17:01::
+#8 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#12 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#18 lower VERB lower%2:30:01::
+#20 chance NOUN chance%1:07:00::,chance%1:26:00::
+Strictly speaking , this means that the probability for each possible outcome of the experiment can be computed by multiplying together the probabilities of the possible outcomes of the single binomial trials .
+4
+#20 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#29 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#30 binomial ADJ binomial%3:01:00::
+#31 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+Thus in the three dice example * * f , * * f , and the independence assumption implies that the probability that the three dice fall ace , not ace , ace in that order is ( 1 6 ) ( 5 6 ) ( 1 6 ) .
+6
+#0 thus ADV thus%4:02:00::
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#17 assumption NOUN assumption%1:09:00::
+#26 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#29 not ADV not%4:02:00::
+#35 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+Experimentally , we expect independence when the trials have nothing to do with one another .
+2
+#7 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+A family of five plans to go together either to the beach or to the mountains , and a coin is tossed to decide .
+5
+#1 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#4 plan VERB plan%2:31:00::,plan%2:31:01::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#21 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+We want to know the number of people going to the mountains .
+4
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+When this experiment is viewed as composed of five binomial trials , one for each member of the family , the outcomes of the trials are obviously not independent .
+8
+#6 compose VERB compose%2:42:00::
+#9 binomial ADJ binomial%3:01:00::
+#10 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#15 member NOUN member%1:18:00::,member%1:24:00::
+#18 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#24 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#27 not ADV not%4:02:00::
+#28 independent ADJ independent%3:00:00::
+Indeed , the experiment is better viewed as consisting of one binomial trial for the entire family .
+5
+#0 indeed ADV indeed%4:02:03::
+#5 better ADV better%4:02:00::
+#11 binomial ADJ binomial%3:01:00::
+#12 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#16 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+The following is a less extreme example of dependence .
+4
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#4 less ADV less%4:02:00::,less%4:02:01::
+#5 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#6 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+Consider couples visiting an art museum .
+2
+#1 couple NOUN couple%1:14:00::,couple%1:17:00::
+#2 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+Each person votes for one of a pair of pictures to receive a popular prize .
+3
+#1 person NOUN person%1:03:00::,person%1:08:00::
+#11 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#13 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+Voting for one picture may be called " success " , for the other " failure " .
+3
+#6 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#13 other ADJ other%3:00:00::
+#15 failure NOUN failure%1:04:00::,failure%1:18:00::
+An experiment consists of the voting of one couple , or two trials .
+2
+#8 couple NOUN couple%1:14:00::,couple%1:17:00::
+#12 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+In repetitions of the experiment from couple to couple , the votes of the two persons in a couple probably agree more often than independence would imply , because couples who visit the museum together are more likely to have similar tastes than are a random pair of people drawn from the entire population of visitors .
+13
+#6 couple NOUN couple%1:14:00::,couple%1:17:00::
+#8 couple NOUN couple%1:14:00::,couple%1:17:00::
+#15 person NOUN person%1:03:00::,person%1:08:00::
+#18 couple NOUN couple%1:14:00::,couple%1:17:00::
+#21 more ADV more%4:02:00::
+#29 couple NOUN couple%1:14:00::,couple%1:17:00::
+#31 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#34 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#39 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#41 taste NOUN taste%1:09:01::,taste%1:12:02::
+#45 random ADJ random%3:00:00::
+#48 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#49 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+Table 7 - 1 illustrates the point .
+2
+#0 table NOUN table%1:14:00::
+#6 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+The table shows that 0.6 of the boys and 0.6 of the girls vote for picture A .
+3
+#1 table NOUN table%1:14:00::
+#7 boy NOUN boy%1:18:03::
+#12 girl NOUN girl%1:18:01::,girl%1:18:03::
+Therefore , under independent voting , * * f or 0.36 of the couples would cast two votes for picture A , and * * f or 0.16 would cast two votes for picture B .
+4
+#3 independent ADJ independent%3:00:00::
+#13 couple NOUN couple%1:14:00::,couple%1:17:00::
+#15 cast VERB cast%2:35:00::
+#29 cast VERB cast%2:35:00::
+Thus in independent voting , * * f or 0.52 of the couples would agree .
+4
+#0 thus ADV thus%4:02:00::
+#2 independent ADJ independent%3:00:00::
+#12 couple NOUN couple%1:14:00::,couple%1:17:00::
+#14 agree VERB agree%2:32:00::,agree%2:32:01::
+But Table 7 - 1 shows that * * f or 0.70 agree , too many for independent voting .
+5
+#1 table NOUN table%1:14:00::
+#5 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#12 agree VERB agree%2:32:00::,agree%2:32:01::
+#14 too ADV too%4:02:00::
+#17 independent ADJ independent%3:00:00::
+Each performance of an n-trial binomial experiment results in some whole number from 0 through n as the value of the random variable X , where * * f .
+2
+#5 binomial ADJ binomial%3:01:00::
+#18 value NOUN value%1:09:00::
+We want to study the probability function of this random variable .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+For example , we are interested in the number of bull's-eyes , not which shots were bull's-eyes .
+4
+#5 interested ADJ interested%3:00:00::
+#8 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#12 not ADV not%4:02:00::
+#14 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+A binomial experiment can produce random variables other than the number of successes .
+3
+#1 binomial ADJ binomial%3:01:00::
+#4 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+For example , the marksman gets 5 shots , but we take his score to be the number of shots before his first bull's-eye , that is , 0 , 1 , 2 , 3 , 4 ( or 5 , if he gets no bull's-eye ) .
+7
+#7 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#11 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#13 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#19 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#22 first ADJ first%3:00:00::,first%4:02:00::
+#43 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Thus we do not score the number of bull's-eyes , and the random variable is not the number of successes .
+5
+#3 not ADV not%4:02:00::
+#4 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#6 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 not ADV not%4:02:00::
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+The constancy of p and the independence are the conditions most likely to give trouble in practice .
+4
+#9 condition NOUN condition%1:10:01::,condition%1:26:00::
+#10 most ADV most%4:02:00::
+#13 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#14 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Obviously , very slight changes in p do not change the probabilities much , and a slight lack of independence may not make an appreciable difference .
+7
+#3 slight ADJ slight%5:00:00:insignificant:00
+#4 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#8 not ADV not%4:02:00::
+#9 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#16 slight ADJ slight%5:00:00:insignificant:00
+#21 not ADV not%4:02:00::
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+( For instance , see Example 2 of Section 5 - 5 , on red cards in hands of 5 . )
+4
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#8 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#14 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#15 card NOUN cards%1:04:00::
+On the other hand , even when the binomial model does not describe well the physical phenomenon being studied , the binomial model may still be used as a baseline for comparative purposes ; that is , we may discuss the phenomenon in terms of its departures from the binomial model .
+14
+#8 binomial ADJ binomial%3:01:00::
+#9 model NOUN model%1:09:00::,model%1:18:01::
+#11 not ADV not%4:02:00::
+#12 describe VERB describe%2:32:01::
+#18 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#21 binomial ADJ binomial%3:01:00::
+#22 model NOUN model%1:09:00::,model%1:18:01::
+#24 still ADV still%4:02:00::
+#26 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#29 baseline NOUN baseline%1:15:01::
+#31 comparative ADJ comparative%3:01:00::
+#41 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#49 binomial ADJ binomial%3:01:00::
+#50 model NOUN model%1:09:00::,model%1:18:01::
+A binomial experiment consists of * * f independent binomial trials , all with the same probability * * f of yielding a success .
+6
+#1 binomial ADJ binomial%3:01:00::
+#8 independent ADJ independent%3:00:00::
+#9 binomial ADJ binomial%3:01:00::
+#10 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#15 same ADJ same%3:00:00::,same%3:00:02::
+#21 yield VERB yield%2:36:00::,yield%2:40:00::,yield%2:40:02::
+The random variable X takes the values * * f with probabilities * * f or , more briefly * * f .
+2
+#4 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#6 value NOUN value%1:09:00::
+We shall find a formula for the probability of exactly x successes for given values of p and n .
+3
+#4 formula NOUN formula%1:10:03::
+#13 given ADJ give%2:32:03::
+#14 value NOUN value%1:09:00::
+When each number of successes x is paired with its probability of occurrence * * f , the set of pairs * * f , is a probability function called a binomial distribution .
+2
+#2 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#18 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+The choice of p and n determines the binomial distribution uniquely , and different choices always produce different distributions ( except when * * f ; then the number of successes is always 0 ) .
+6
+#6 determine VERB determine%2:31:02::,determine%2:32:03::
+#15 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#26 then ADV then%4:02:02::
+#28 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#32 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+The set of all binomial distributions is called the family of binomial distributions , but in general discussions this expression is often shortened to " the binomial distribution " , or even " the binomial " when the context is clear .
+7
+#1 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#7 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#9 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#16 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#19 expression NOUN expression%1:10:02::,expression%1:10:03::
+#34 binomial ADJ binomial%3:01:00::
+#40 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+Binomial distributions were treated by James Bernoulli about 1700 , and for this reason binomial trials are sometimes called Bernoulli trials .
+5
+#3 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#13 reason NOUN reason%1:09:01::,reason%1:16:00::
+#14 binomial ADJ binomial%3:01:00::
+#15 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#20 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+Each binomial trial of a binomial experiment produces either 0 or 1 success .
+4
+#1 binomial ADJ binomial%3:01:00::
+#2 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#5 binomial ADJ binomial%3:01:00::
+#7 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Therefore each binomial trial can be thought of as producing a value of a random variable associated with that trial and taking the values 0 and 1 , with probabilities q and p respectively .
+7
+#2 binomial ADJ binomial%3:01:00::
+#3 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#9 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#11 value NOUN value%1:09:00::
+#19 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#21 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#23 value NOUN value%1:09:00::
+The several trials of a binomial experiment produce a new random variable X , the total number of successes , which is just the sum of the random variables associated with the single trials .
+9
+#2 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#5 binomial ADJ binomial%3:01:00::
+#7 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#9 new ADJ new%3:00:00::
+#16 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#22 just ADV just%4:02:00::,just%4:02:03::
+#24 sum NOUN sum%1:06:00::,sum%1:21:00::
+#32 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#33 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+The marksman gets two bull's-eyes , one on his third shot and one on his fifth .
+2
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#10 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+The numbers of successes on the five individual shots are , then , 0 , 0 , 1 , 0 , 1 .
+4
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#7 individual ADJ individual%5:00:00:independent:00
+#8 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#11 then ADV then%4:02:02::
+The number of successes on each shot is a value of a random variable that has values 0 or 1 , and there are 5 such random variables here .
+5
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#9 value NOUN value%1:09:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 value NOUN value%1:09:00::
+Their sum is X , the total number of successes , which in this experiment has the value * * f .
+4
+#1 sum NOUN sum%1:06:00::,sum%1:21:00::
+#7 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 value NOUN value%1:09:00::

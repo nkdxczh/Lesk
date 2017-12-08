@@ -1,0 +1,668 @@
+ Knowing specifically what the many feed additives can do and how and when to feed them can make a highly competitive business more profitable for beef , dairy , and sheep men .
+8
+#0 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#5 feed NOUN feed%1:13:00::
+#14 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 competitive ADJ competitive%3:00:00::
+#21 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#22 more ADV more%4:02:00::
+#23 profitable ADJ profitable%3:00:00::
+The target chart quickly and briefly tells you which additives do what .
+1
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+All the additives listed here are sanctioned for use by the Food and Drug Administration of the federal government .
+3
+#3 list VERB list%2:32:00::,list%2:41:00::
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#6 sanction VERB sanction%2:41:01::
+All comments concerning effectiveness and use of drugs have been carefully reviewed by a veterinary medical officer with FDA .
+3
+#2 concern VERB concern%2:42:00::,concern%2:42:01::
+#11 review VERB review%2:31:00::,review%2:32:00::
+#16 officer NOUN officer%1:18:02::,officer%1:18:03::
+This article assumes that the rations you are feeding your beef , dairy cattle , and sheep are adequately balanced with protein , vitamins , and minerals .
+6
+#1 article NOUN article%1:10:00::
+#2 assume VERB assume%2:31:00::
+#8 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#10 beef NOUN beef%1:13:00::
+#16 sheep NOUN sheep%1:05:00::
+#26 mineral NOUN mineral%1:27:00::
+The drug 's chemical name is listed , since most states require feed processors to use this name instead of the trade name on the feed tag .
+6
+#6 list VERB list%2:32:00::,list%2:41:00::
+#10 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#12 feed NOUN feed%1:13:00::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#25 feed NOUN feed%1:13:00::
+#26 tag NOUN tag%1:10:01::
+In some instances , the trade name is shown in parentheses following the chemical name .
+3
+#2 instance NOUN instance%1:09:00::
+#8 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#14 name NOUN name%1:14:00::
+This indicates that this drug is being marketed under one trade name only or state regulatory organizations have approved its use on the feed tag .
+7
+#1 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#16 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#18 approve VERB approve%2:31:00::,approve%2:32:00::
+#23 feed NOUN feed%1:13:00::
+#24 tag NOUN tag%1:10:01::
+Increases rate of gain and improves feed efficiency , aids in the prevention or treatment ( depending on level fed ) of the early stages of shipping fever , prevents or treats bacterial diarrhea , and aids in reducing incidence of bloat and liver abscesses .
+11
+#1 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#6 feed NOUN feed%1:13:00::
+#18 level NOUN level%1:26:00::,level%1:26:01::
+#19 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#23 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#24 stage NOUN stage%1:04:00::,stage%1:26:00::
+#29 prevent VERB prevent%2:41:00::
+#31 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#38 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#39 incidence NOUN incidence%1:24:00::
+#43 liver NOUN liver%1:13:00::
+Milk production may be increased by the anti infective properties of this drug .
+2
+#1 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#9 property NOUN property%1:07:00::,property%1:09:00::
+To increase rate of gain and improve feed efficiency , feed 75 milligrams per head in daily supplement .
+5
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#7 feed NOUN feed%1:13:00::
+#10 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#14 head NOUN head%1:05:00::
+#17 supplement NOUN supplement%1:07:00::
+To increase rate of gain and improve feed efficiency , feed 10 to 25 grams per ton of complete feed .
+7
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#7 feed NOUN feed%1:13:00::
+#10 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#14 gram NOUN g%1:23:00::
+#16 ton NOUN ton%1:23:01::
+#18 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#19 feed NOUN feed%1:13:00::
+As an aid in the prevention of bacterial diarrhea ( scours ) , feed 50 grams per ton of complete feed .
+6
+#10 scour NOUN scours%1:26:00::
+#13 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#15 gram NOUN g%1:23:00::
+#17 ton NOUN ton%1:23:01::
+#19 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#20 feed NOUN feed%1:13:00::
+For the treatment of bacterial scours , feed 100 - 200 grams .
+3
+#5 scour NOUN scours%1:26:00::
+#7 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#11 gram NOUN g%1:23:00::
+For prevention or treatment of bacterial scours , feed 0.1 to 5 milligrams per pound of body weight daily .
+3
+#6 scour NOUN scours%1:26:00::
+#8 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#14 pound NOUN pound%1:23:09::,pound%1:23:10::
+As an aid in reducing incidence and severity of bloat , provide 75 milligrams of oxytetracycline hydrochloride per animal daily .
+2
+#4 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#5 incidence NOUN incidence%1:24:00::
+To reduce incidence of liver abscesses , supply 75 milligrams of oxytetracycline activity per head daily .
+5
+#1 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#2 incidence NOUN incidence%1:24:00::
+#4 liver NOUN liver%1:13:00::
+#12 activity NOUN activity%1:22:00::,activity%1:26:01::
+#14 head NOUN head%1:05:00::
+To prevent or treat bacterial diarrhea , furnish 0.1 to 5 milligrams per pound of body weight daily .
+3
+#1 prevent VERB prevent%2:41:00::
+#3 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#13 pound NOUN pound%1:23:09::,pound%1:23:10::
+For the prevention or treatment of the early stages of shipping fever complex , increase feeding level to 0.5 to 2 grams per head per day .
+7
+#7 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#8 stage NOUN stage%1:04:00::,stage%1:26:00::
+#12 complex NOUN complex%1:27:00::
+#16 level NOUN level%1:26:00::,level%1:26:01::
+#21 gram NOUN g%1:23:00::
+#23 head NOUN head%1:05:00::
+#25 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+For the best results , feed this level to cattle 3 to 5 days preceding shipment and / or 3 to 5 days following their arrival in your feed lot .
+6
+#2 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#5 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#7 level NOUN level%1:26:00::,level%1:26:01::
+#9 cattle NOUN cattle%1:05:00::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#22 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+For treatment of shipping fever , this level should be fed at the onset of the disease symptoms until symptoms disappear .
+3
+#7 level NOUN level%1:26:00::,level%1:26:01::
+#10 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#20 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+To increase rate of gain and improve feed efficiency , feed 10 to 20 grams per ton .
+5
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#7 feed NOUN feed%1:13:00::
+#10 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#14 gram NOUN g%1:23:00::
+#16 ton NOUN ton%1:23:01::
+As an aid in the prevention of bacterial diarrhea ( scours ) , feed 50 grams per ton .
+4
+#10 scour NOUN scours%1:26:00::
+#13 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#15 gram NOUN g%1:23:00::
+#17 ton NOUN ton%1:23:01::
+Increases gains , improves feed efficiency , and reduces losses from bacterial infections listed under " how to feed " section .
+5
+#4 feed NOUN feed%1:13:00::
+#8 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#13 list VERB list%2:32:00::,list%2:41:00::
+#18 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#20 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+Milk production may be increased by the anti infective properties of this drug .
+2
+#1 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#9 property NOUN property%1:07:00::,property%1:09:00::
+Not less than 70 milligrams of Aureomycin per head daily to aid in the prevention of liver abscesses in feed-lot beef cattle .
+3
+#1 less ADV less%4:02:00::,less%4:02:01::
+#8 head NOUN head%1:05:00::
+#16 liver NOUN liver%1:13:00::
+Prevention of bacterial pneumonia , shipping fever , as an aid in reduction of losses due to respiratory infections ( infectious rhinotracheitis - shipping fever complex ) .
+2
+#12 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#25 complex NOUN complex%1:27:00::
+Feed at level of 70 milligrams per head per day .
+4
+#0 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#2 level NOUN level%1:26:00::,level%1:26:01::
+#7 head NOUN head%1:05:00::
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+350 milligrams per head per day for 30 days only .
+4
+#3 head NOUN head%1:05:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+For prevention of these diseases during periods of stress such as shipping , excessive handling , vaccination , extreme weather conditions : 350 milligrams per head per day for 30 days only .
+8
+#6 period NOUN period%1:28:00::,period%1:28:03::
+#8 stress NOUN stress%1:19:00::,stress%1:26:01::
+#11 shipping NOUN shipping%1:06:00::
+#18 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#25 head NOUN head%1:05:00::
+#27 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#30 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#31 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+As an aid in reducing bacterial diarrhea and preventing foot rot , feed not less than 0.1 milligram per pound of body weight daily .
+5
+#4 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#8 prevent VERB prevent%2:41:00::
+#12 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#14 less ADV less%4:02:00::,less%4:02:01::
+#19 pound NOUN pound%1:23:09::,pound%1:23:10::
+To aid in the prevention of anaplasmosis , feed not less than 0.5 milligram per pound of body weight daily .
+3
+#8 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#10 less ADV less%4:02:00::,less%4:02:01::
+#15 pound NOUN pound%1:23:09::,pound%1:23:10::
+For calves , feed not less than 50 grams of Aureomycin per ton complete feed as an aid in preventing bacterial diarrhea and foot rot .
+8
+#1 calf NOUN calf%1:05:00::
+#3 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#5 less ADV less%4:02:00::,less%4:02:01::
+#8 gram NOUN g%1:23:00::
+#12 ton NOUN ton%1:23:01::
+#13 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#14 feed NOUN feed%1:13:00::
+#19 prevent VERB prevent%2:41:00::
+For cows , feed providing an intake of 0.1 milligram of Aureomycin per pound of body weight daily aids in the reduction of bacterial diarrhea , in the prevention of foot rot , and in the reduction of losses due to respiratory infection ( infectious rhinotracheitis - shipping fever complex ) .
+7
+#3 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+#6 intake NOUN intake%1:04:00::
+#13 pound NOUN pound%1:23:09::,pound%1:23:10::
+#21 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#36 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#49 complex NOUN complex%1:27:00::
+As an aid in reducing losses due to enterotoxemia ( overeating disease ) , feed a complete ration containing not less than 20 and not more than 50 grams of Aureomycin per ton .
+7
+#4 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#14 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#16 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#18 contain VERB contain%2:42:00::,contain%2:42:06::
+#20 less ADV less%4:02:00::,less%4:02:01::
+#28 gram NOUN g%1:23:00::
+#32 ton NOUN ton%1:23:01::
+To reduce vibrionic abortion in breeding sheep , feed 80 milligrams per head daily .
+5
+#1 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#3 abortion NOUN abortion%1:04:00::
+#6 sheep NOUN sheep%1:05:00::
+#8 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#12 head NOUN head%1:05:00::
+An aid in getting cattle and sheep on full feed , in improving feed conversion and growth , in reducing bloat and founder , and in controlling scours .
+10
+#4 cattle NOUN cattle%1:05:00::
+#6 sheep NOUN sheep%1:05:00::
+#9 feed NOUN feed%1:13:00::
+#13 feed NOUN feed%1:13:00::
+#14 conversion NOUN conversion%1:04:00::
+#16 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#19 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#22 founder NOUN founder%1:26:00::
+#26 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#27 scour NOUN scours%1:26:00::
+0.2 gram Dynafac per head daily ( 1 gram of premix per head daily ) for promoting growth , feed conversion , bloom , and full feed earlier .
+10
+#1 gram NOUN g%1:23:00::
+#4 head NOUN head%1:05:00::
+#8 gram NOUN g%1:23:00::
+#12 head NOUN head%1:05:00::
+#16 promote VERB promote%2:32:00::,promote%2:41:01::
+#17 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#19 feed NOUN feed%1:13:00::
+#20 conversion NOUN conversion%1:04:00::
+#22 bloom NOUN bloom%1:28:01::
+#26 feed NOUN feed%1:13:00::
+.0044 % Dynafac in a complete ration or 0.3 to 0.4 gram per head per day ( 200 grams of premix per ton complete ration or equivalent .
+7
+#5 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#11 gram NOUN g%1:23:00::
+#13 head NOUN head%1:05:00::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 gram NOUN g%1:23:00::
+#22 ton NOUN ton%1:23:01::
+#23 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+Animals consuming 20 pounds feed daily receive 2 grams Dynafac ) .
+4
+#3 pound NOUN pound%1:23:09::,pound%1:23:10::
+#4 feed NOUN feed%1:13:00::
+#6 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#8 gram NOUN g%1:23:00::
+Aids in minimizing the occurrence of feed-lot bloat due to high consumption of concentrates .
+2
+#10 high ADJ high%3:00:02::
+#11 consumption NOUN consumption%1:04:00::
+1.0 gram premix per head per day for promoting growth , feed conversion , and getting lambs on full feed earlier .
+8
+#1 gram NOUN g%1:23:00::
+#4 head NOUN head%1:05:00::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#8 promote VERB promote%2:32:00::,promote%2:41:01::
+#9 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#11 feed NOUN feed%1:13:00::
+#12 conversion NOUN conversion%1:04:00::
+#19 feed NOUN feed%1:13:00::
+Increases rate of gain and improves feed efficiency .
+2
+#1 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#6 feed NOUN feed%1:13:00::
+10 milligrams of diethylstilbestrol per head daily .
+1
+#5 head NOUN head%1:05:00::
+This may be incorporated in complete feeds at the level of 0.4 milligram of diethylstilbestrol per pound of ration - assuming animal consumes about 25 pounds daily .
+7
+#3 incorporate VERB incorporate%2:42:00::
+#5 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#6 feed NOUN feed%1:13:00::
+#9 level NOUN level%1:26:00::,level%1:26:01::
+#16 pound NOUN pound%1:23:09::,pound%1:23:10::
+#20 assume VERB assume%2:31:00::
+#25 pound NOUN pound%1:23:09::,pound%1:23:10::
+The drug is also incorporated in supplements .
+2
+#4 incorporate VERB incorporate%2:42:00::
+#6 supplement NOUN supplement%1:07:00::
+These are to be fed at a rate to provide 10 milligrams DES per head daily .
+4
+#4 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#7 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#9 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 head NOUN head%1:05:00::
+The recommended 10 - milligram daily intake level should be maintained .
+3
+#6 intake NOUN intake%1:04:00::
+#7 level NOUN level%1:26:00::,level%1:26:01::
+#10 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+It may be incorporated into cattle creep feeds in levels from 1.0 to 1.5 milligrams of diethylstilbestrol per pound of feed .
+5
+#3 incorporate VERB incorporate%2:42:00::
+#5 cattle NOUN cattle%1:05:00::
+#9 level NOUN level%1:26:00::,level%1:26:01::
+#18 pound NOUN pound%1:23:09::,pound%1:23:10::
+#20 feed NOUN feed%1:13:00::
+The recommended level for sheep is 2 milligrams daily , and this level should be maintained .
+4
+#2 level NOUN level%1:26:00::,level%1:26:01::
+#4 sheep NOUN sheep%1:05:00::
+#12 level NOUN level%1:26:00::,level%1:26:01::
+#15 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+Include supplement containing 0.4 to 2 milligrams per pound to provide 2 milligrams per head per day .
+7
+#0 include VERB include%2:31:00::,include%2:41:03::
+#1 supplement NOUN supplement%1:07:00::
+#2 contain VERB contain%2:42:00::,contain%2:42:06::
+#8 pound NOUN pound%1:23:09::,pound%1:23:10::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 head NOUN head%1:05:00::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Discontinue medication 48 hours before slaughter .
+1
+#3 hour NOUN hour%1:07:00::,hours%1:28:01::
+Improves growth rate and feed efficiency of fattening beef animals .
+2
+#4 feed NOUN feed%1:13:00::
+#8 beef NOUN beef%1:13:00::
+At the rate of 2 - 1 2 milligrams per head per day .
+3
+#2 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#10 head NOUN head%1:05:00::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Drug elevates the metabolic rate of the cow .
+1
+#4 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+Fed to dairy cattle to increase milk production and butterfat percentage .
+1
+#7 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+1 to 1 - 1 2 grams per 100 pounds of body weight .
+2
+#6 gram NOUN g%1:23:00::
+#9 pound NOUN pound%1:23:09::,pound%1:23:10::
+Cows receiving drug may not be officially tested under breed registry testing programs .
+5
+#1 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#4 not ADV not%4:02:00::
+#10 registry NOUN registry%1:10:00::
+#11 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#12 program NOUN program%1:09:00::,program%1:09:01::
+( These enzyme preparations appear on today 's feed tags as fermentation extracts of Bacillus subtilis , Apergillus orzae , Niger , and Flavus . )
+4
+#4 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#8 feed NOUN feed%1:13:00::
+#9 tag NOUN tag%1:10:01::
+#12 extract NOUN extract%1:27:00::
+Improves utilization of low moisture corn ( less than 14 % ) .
+3
+#3 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#5 corn NOUN corn%1:20:02::
+#7 less ADV less%4:02:00::,less%4:02:01::
+Greatest benefits have been associated with feeding low moisture corn in beef feeding programs .
+7
+#1 benefit NOUN benefit%1:07:00::
+#6 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#7 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#9 corn NOUN corn%1:20:02::
+#11 beef NOUN beef%1:13:00::
+#12 feed NOUN feed%1:13:00::
+#13 program NOUN program%1:09:00::,program%1:09:01::
+Several firms are merchandising enzyme preparation through feed manufacturers .
+1
+#7 feed NOUN feed%1:13:00::
+Effectively controls cattle grubs which damage hides and can reduce gains .
+5
+#1 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#2 cattle NOUN cattle%1:05:00::
+#3 grub NOUN grub%1:05:00::
+#6 hide NOUN hide%1:05:00::
+#9 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Drug is added to either a protein or mineral supplement for a period of 7 or 14 days .
+4
+#8 mineral NOUN mineral%1:27:00::
+#9 supplement NOUN supplement%1:07:00::
+#12 period NOUN period%1:28:00::,period%1:28:03::
+#17 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Follow manufacturer 's recommendation carefully .
+1
+#0 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+Do not feed to dairy cows and do not feed within 60 days of slaughter .
+5
+#1 not ADV not%4:02:00::
+#2 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#8 not ADV not%4:02:00::
+#9 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Aids in preventing foamy bloat .
+1
+#2 prevent VERB prevent%2:41:00::
+For prevention of foamy bloat , feed at a rate of 0.5 to 2 milligrams per head per day in mineral or salt or feed .
+7
+#6 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#9 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#16 head NOUN head%1:05:00::
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 mineral NOUN mineral%1:27:00::
+#22 salt NOUN salt%1:09:00::
+#24 feed NOUN feed%1:13:00::
+For treatment of bloat , drug is fed at a higher level .
+3
+#7 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#10 high ADJ high%3:00:02::
+#11 level NOUN level%1:26:00::,level%1:26:01::
+Reduces losses from stomach , hookworm , and nodular worms by interfering with reproduction of the female worm by reducing the number of eggs laid and essentially rendering all laid eggs sterile .
+13
+#0 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#3 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+#9 worm NOUN worm%1:05:00::
+#11 interfere VERB interfere%2:41:00::
+#17 worm NOUN worm%1:05:00::
+#19 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#21 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#23 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#24 lay VERB lay%2:35:02::
+#27 render VERB render%2:30:00::
+#29 lay VERB lay%2:35:02::
+#30 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#31 sterile ADJ sterile%3:00:00::
+Also , aids in the control of horn flies by preventing them from hatching in the droppings .
+3
+#5 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#10 prevent VERB prevent%2:41:00::
+#13 hatch VERB hatch%2:29:01::
+Treat cattle with 10 grams per 100 pounds body weight with a maximum of 70 grams per animal .
+5
+#0 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#1 cattle NOUN cattle%1:05:00::
+#4 gram NOUN g%1:23:00::
+#7 pound NOUN pound%1:23:09::,pound%1:23:10::
+#15 gram NOUN g%1:23:00::
+Then , for the above parasites , feed continuously at these levels :
+3
+#0 then ADV then%4:02:00::
+#7 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#11 level NOUN level%1:26:00::,level%1:26:01::
+Feeder cattle - 2 - 5 grams of phenothiazine daily ; beef calves - .5 to 1.5 grams daily depending on weight of animal .
+7
+#0 feeder NOUN feeder%1:05:01::
+#1 cattle NOUN cattle%1:05:00::
+#6 gram NOUN g%1:23:00::
+#11 beef NOUN beef%1:13:00::
+#12 calf NOUN calf%1:05:00::
+#17 gram NOUN g%1:23:00::
+#21 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+Treat lambs with 12 grams per head for lambs weighing up to 50 pounds ; treat lambs over 50 pounds and adults with 24 grams per animal .
+8
+#0 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#4 gram NOUN g%1:23:00::
+#6 head NOUN head%1:05:00::
+#9 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#13 pound NOUN pound%1:23:09::,pound%1:23:10::
+#15 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#19 pound NOUN pound%1:23:09::,pound%1:23:10::
+#24 gram NOUN g%1:23:00::
+For continuous control , feed 1 part phenothiazine to 9 parts minerals or salts .
+7
+#1 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#2 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#4 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#6 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#10 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#11 mineral NOUN mineral%1:27:00::
+#13 salt NOUN salt%1:09:00::
+To include in feed , add phenothiazine to supply 0.5 to 1 gram per sheep daily .
+4
+#1 include VERB include%2:42:00::
+#3 feed NOUN feed%1:13:00::
+#12 gram NOUN g%1:23:00::
+#14 sheep NOUN sheep%1:05:00::
+Continuous administration is not recommended for lactating cows .
+4
+#0 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#1 administration NOUN administration%1:04:01::
+#3 not ADV not%4:02:00::
+#4 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+Following single dose treatment , milk should be discarded for 4 days following treatment .
+1
+#11 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Aids in reducing the incidence and severity of bloat in beef or dairy cattle on legume pasture .
+4
+#2 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#4 incidence NOUN incidence%1:24:00::
+#10 beef NOUN beef%1:13:00::
+#16 pasture NOUN pasture%1:15:00::
+Feed 75000 units or 75 milligrams per head daily .
+3
+#0 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#2 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#7 head NOUN head%1:05:00::
+For the prevention of acetonemia ( ketosis ) feed 1 4 pound per day beginning at calving and continuing for 6 weeks .
+3
+#8 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#11 pound NOUN pound%1:23:09::,pound%1:23:10::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+For the treatment of ketosis feed 1 4 to 1 2 pound per day for 10 days .
+4
+#5 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#11 pound NOUN pound%1:23:09::,pound%1:23:10::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#16 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Helps control shipping dysentery and coccidiosis in lambs .
+2
+#1 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#2 shipping NOUN shipping%1:06:00::
+feed at .05 % level for 2 or 3 days .
+3
+#0 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#4 level NOUN level%1:26:00::,level%1:26:01::
+#9 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Stimulates rumen activity .
+1
+#2 activity NOUN activity%1:22:00::,activity%1:26:01::
+Incorporated in commercially prepared feed at proper levels .
+3
+#4 feed NOUN feed%1:13:00::
+#6 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#7 level NOUN level%1:26:00::,level%1:26:01::
+Prevents and treats acetonemia ( ketosis ) in dairy cows .
+2
+#0 prevent VERB prevent%2:41:00::
+#2 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+For prevention of ketosis , feed 1 4 pound per head daily for 6 weeks commencing at calving time .
+4
+#5 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#8 pound NOUN pound%1:23:09::,pound%1:23:10::
+#10 head NOUN head%1:05:00::
+#18 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+For treatment of ketosis , feed 1 2 pound daily until symptoms disappear .
+3
+#5 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#8 pound NOUN pound%1:23:09::,pound%1:23:10::
+#12 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+Then , feed preventive dose until 6 weeks after calving .
+2
+#0 then ADV then%4:02:00::
+#2 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+A tranquilizer fed to cattle ( other than lactating dairy cows ) prior to their being subjected to stress conditions such as vaccinating , shipping , weaning calves , and excessive handling .
+6
+#2 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#4 cattle NOUN cattle%1:05:00::
+#16 subject VERB subject%2:33:00::
+#18 stress NOUN stress%1:19:00::,stress%1:26:01::
+#24 shipping NOUN shipping%1:06:00::
+#27 calf NOUN calf%1:05:00::
+Not less than .75 milligram but not more than 1.25 milligrams of additive per pound of body weight .
+2
+#1 less ADV less%4:02:00::,less%4:02:01::
+#14 pound NOUN pound%1:23:09::,pound%1:23:10::
+Additive should not be fed 72 hours before animals are slaughtered .
+3
+#2 not ADV not%4:02:00::
+#4 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+#6 hour NOUN hour%1:07:00::,hours%1:28:01::
+There are three principal feed bunk types for dairy and beef cattle : ( 1 ) Fence-line bunks - cattle eat from one side while feed is put in from the opposite side of the fence by self unloading wagons ; ( 2 ) Mechanized bunks - they sit within the feed lot , are filled by a mechanical conveyor above feeding surface ; ( 3 ) Special bunks - as discussed here , they permit cattle to eat from all sides .
+10
+#3 principal ADJ principal%5:00:00:important:00
+#6 type NOUN type%1:18:00::
+#19 cattle NOUN cattle%1:05:00::
+#25 feed NOUN feed%1:13:00::
+#35 fence NOUN fence%1:06:00::
+#48 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#58 mechanical ADJ mechanical%3:01:01::
+#62 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#72 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#76 cattle NOUN cattle%1:05:00::
+Feed is put in with an elevator .
+2
+#0 feed NOUN feed%1:13:00::
+#6 elevator NOUN elevator%1:06:00::
+Several materials or combinations of materials can be used to construct a satisfactory feed bunk .
+4
+#1 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#3 combination NOUN combination%1:04:00::,combination%1:14:00::
+#5 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The selection of materials depends on skills of available labor for installation , cost of materials available locally , and your own preference .
+7
+#1 selection NOUN selection%1:22:00::
+#3 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#9 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#11 installation NOUN installation%1:04:00::
+#15 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#21 own ADJ own%5:00:00:personal:00
+#22 preference NOUN preference%1:12:00::
+No one material is best for all situations .
+3
+#2 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#4 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#7 situation NOUN situation%1:26:01::
+Selecting bunks by economic comparison is usually an individual problem .
+3
+#4 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#8 individual ADJ individual%5:00:00:independent:00
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+Animals eat only from one side , so the fence-line bunk must be twice as long as the mechanical bunk .
+3
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 long ADJ long%3:00:01::
+#18 mechanical ADJ mechanical%3:01:01::
+These bunks also serve as a fence , so part of the additional cost must be attributed to the fence .
+4
+#3 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#6 fence NOUN fence%1:06:00::
+#9 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#19 fence NOUN fence%1:06:00::
+Because of their location , on the edge of the feed lot , fence-line bunks are not in the way of mechanical manure removal .
+3
+#7 edge NOUN edge%1:06:01::
+#16 not ADV not%4:02:00::
+#21 mechanical ADJ mechanical%3:01:01::
+Filling these bunks by the same self unloading wagons used to fill silos spreads cost of the wagons over more time and operations .
+6
+#5 same ADJ same%3:00:00::,same%3:00:02::
+#9 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 silo NOUN silo%1:06:00::
+#13 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#20 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+#22 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+All-weather roads must be provided next to the feeding floor so access will be possible all year .
+4
+#1 road NOUN road%1:04:00::,road%1:06:00::
+#4 provide VERB provide%2:34:00::,provide%2:40:00::
+#9 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#11 access NOUN access%1:07:00::
+This will be a problem in areas of heavy snowfall .
+3
+#4 problem NOUN problem%1:09:00::,problem%1:26:00::
+#6 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#8 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01

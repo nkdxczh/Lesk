@@ -1,0 +1,353 @@
+It was dark and , I sensed , very large ; only the counter at one end was lighted by a long fluorescent tube suspended directly above it .
+1
+#24 suspend VERB suspend%2:35:00::
+Sometimes I was aware of people moving about in the darkness .
+1
+#6 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+I would turn away from my writing in the hope of getting a good look at them but I never quite succeeded .
+2
+#2 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#21 succeed VERB succeed%2:41:00::
+Drifting here and there .
+1
+#0 drift VERB drift%2:38:01::
+Squatting , as if waiting .
+2
+#0 squat VERB squat%2:35:00::
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Since they could see me but I not them , their presence in the hall disturbed me .
+1
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+This impressed me , until I realized how limited was his sphere of influence .
+2
+#1 impress VERB impress%2:37:01::
+#6 realize VERB realize%2:31:01::
+His job simply consisted in registering new men .
+1
+#5 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+When the phone rang he answered it .
+1
+#3 ring VERB ring%2:39:00::,ring%2:39:01::
+None of the men hanging around the hall bothered to speak to him .
+2
+#8 bother VERB bother%2:41:00::
+#10 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+He spoke to me in a gruff voice , an affectation which quite belied his personality .
+1
+#13 belie VERB belie%2:42:00::
+He wore his white shirt open at the neck , revealing a bit of scrawny pale chest underneath .
+1
+#1 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+It was obvious that he wished himself different from the sort of person he thought he was .
+1
+#14 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+But it was not easy for him and he often slipped .
+1
+#10 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+When one of the men in the hall behind us spat on the floor and scraped his boot over the gob of spittle I noticed how the clerk winced .
+2
+#10 spit VERB spit%2:32:00::
+#15 scrape VERB scrape%2:35:02::
+I felt certain he was really a spineless little man .
+1
+#1 feel VERB feel%2:31:00::,feel%2:39:00::
+hung on a hook on the wall , and underneath it I could see his tie , knotted , ready to be slipped over his head , a black badge of frayed respectability that ought never to have left his neck .
+3
+#0 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#22 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+Once , pressing him , I learned that his job was only part-time , in the afternoons when nothing went on in the hall .
+2
+#2 press VERB press%2:32:00::,press%2:32:01::,press%2:41:12::,press%2:42:00::
+#6 learn VERB learn%2:31:01::,learn%2:31:03::
+Noticing my disappointment he attempted to salvage what scraps and shreds of authority he felt might still be clinging to his person .
+1
+#14 feel VERB feel%2:31:00::,feel%2:39:00::
+With distaste I saw him assume a pompous air .
+2
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 assume VERB assume%2:36:00::,assume%2:41:00::
+When he saw me coming he turned his radio off .
+2
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He made a show of rearranging my forms on the shelf .
+1
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+What limited knowledge he possessed he forced upon me .
+2
+#4 possess VERB possess%2:40:00::,possess%2:42:00::
+#6 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+In the mornings , I was informed , fluorescent tubes , similar to the one above the counter , illuminated the entire hall .
+2
+#6 inform VERB inform%2:32:00::,inform%2:32:10::
+#19 illuminate VERB illuminate%2:30:03::
+They , and the two large fans which I could dimly see as daylight filtered through their vents , down at the far end of the hall , could be turned on by a master switch situated inside the office .
+2
+#11 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 filter VERB filter%2:38:00::
+He pointed out the switch to me and for a moment I foolishly believed that he would let deed follow words .
+2
+#17 let VERB let%2:30:01::,let%2:41:00::
+#19 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+I was shown , instead , a batch of white tickets of the sort handed out , he told me , every morning .
+2
+#2 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#18 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Now , here was something of obvious importance to me , yet when I reached for the tickets he snatched them away from my hand .
+1
+#14 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+He could n't afford to have anyone mess around with them , he said .
+2
+#3 afford VERB afford%2:34:00::,afford%2:42:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I withdrew my hand .
+1
+#1 withdraw VERB withdraw%2:30:01::,withdraw%2:32:01::,withdraw%2:40:00::,withdraw%2:40:01::
+Later I would remember what this pompous little man had told me about the worth of a ticket .
+1
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Having nothing else to do except wait for my forms to be processed , I gave myself over to speculations concerning the hall itself .
+3
+#6 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#12 process VERB process%2:31:00::
+#20 concern VERB concern%2:42:00::,concern%2:42:01::
+The presence of the two exhaust fans seemed to indicate that the hall could become crowded for air .
+2
+#9 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#14 become VERB become%2:30:00::,become%2:42:01::
+One afternoon , upon receiving permission and the necessary instructions from the clerk , I had visited the toilet adjoining the hall .
+2
+#4 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#16 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+By counting the number of stalls and urinals I attempted to form a loose estimate of how many men the hall would hold at one time .
+2
+#11 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#22 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+For although I had crossed a corner of the hall on my way to the toilet I still could not tell for sure how far to the rear the darkness extended .
+3
+#4 cross VERB cross%2:38:00::
+#20 tell VERB tell%2:31:00::,tell%2:31:01::
+#30 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+I could observe the two fans down at the end , but their size in themselves meant nothing to me as long as I had no measure of comparison .
+3
+#2 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#16 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+I had for some time been hoping , in vain , for one of the dim figures to pass between the fan vents and myself .
+1
+#18 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+I knew that three or four of them were almost always present in the hall , but what they were doing , and exactly where , I could not tell .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#29 tell VERB tell%2:31:00::,tell%2:31:01::
+It was , I felt , possible that they were men who , having received no tickets for that day , had remained in the hall , to sleep perhaps , in the corners farthest removed from the counter with its overhead light .
+3
+#4 feel VERB feel%2:31:00::,feel%2:39:00::
+#14 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#28 sleep VERB sleep%2:29:00::
+This light did not penetrate very far back into the hall , and my eyes were hindered rather than aided by the dim daylight entering through the fan vents when I tried to pick out whatever might be lying , or squatting , on the floor below .
+4
+#24 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#31 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#38 lie VERB lie%2:35:00::,lie%2:38:00::
+#41 squat VERB squat%2:35:00::
+Also the clerk appeared to disapprove of my frequent curious glances back over my shoulder .
+1
+#3 appear VERB appear%2:30:00::
+No sooner would I turn my head away from the counter before he would address me , at times quite sharply , in order to bring back my attention .
+2
+#4 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#14 address VERB address%2:32:00::,address%2:32:02::,address%2:41:08::
+And I had hardly finished my business in the toilet on the aforementioned occasion when the lights in that place , like the hall lights controlled from the switch in the office , flicked off and on impatiently .
+2
+#4 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#25 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+I felt certain it was self-appointed .
+1
+#1 feel VERB feel%2:31:00::,feel%2:39:00::
+It sprang from a type of mentality I 'd encountered often enough but certainly had not expected to find here .
+2
+#1 spring VERB spring%2:29:00::
+#18 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+I decided to see no more of the clerk until the processing of my papers was completed .
+1
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+I felt strongly attached to the hall , however , and hardly a day passed when I did not go to look at it from a distance .
+4
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#14 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#19 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#21 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+I lived in a state of suspense because of it .
+1
+#1 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+I had signed it off on the forms .
+1
+#2 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+My future lay solely with the hall , yet what did I know about the hall at this point ?
+2
+#2 lie VERB lie%2:42:03::
+#12 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Although I had been inside it I had not yet seen it functioning .
+1
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+I wished to prepare myself but did not even know what sort of clothes I ought to be wearing .
+3
+#3 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+Though only a relatively short walk separated it from my own part of town , its character was wholly foreign to me .
+1
+#6 separate VERB separate%2:35:00::,separate%2:35:01::,separate%2:38:00::,separate%2:41:01::,separate%2:41:02::,separated%5:00:00:distributed:00
+Large warehouses flanked the street on which the hall fronted .
+1
+#9 front VERB front%2:33:00::
+The river was only a few blocks away but an unbroken line of piers prevented me from seeing it .
+2
+#14 prevent VERB prevent%2:41:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Sometimes I noticed the tops of ships ' masts and funnels reaching above the pier roofs .
+1
+#11 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+The sounds issuing from beyond - winches whirring , men shouting - indicated great activity and excited me .
+4
+#2 issue VERB issue%2:30:00::
+#10 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#12 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#16 excite VERB excite%2:39:00::
+The hall , on the other hand , appeared lifeless and deserted on these long waterfront afternoons .
+1
+#8 appear VERB appear%2:30:00::
+It resembled nothing I 'd ever seen before .
+1
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+I kept circling the block hoping to see , from the street behind it , the rear of the hall .
+2
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+For weeks I wandered about this neighborhood of warehouses and garages , truck terminals and taxi repair shops , gasoline pumps and longshoremen 's lunch counters , yet never did I cease to feel myself a stranger there .
+1
+#33 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+I returned to the hall , despite my dislike for the clerk .
+1
+#1 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Meanwhile spring had passed well into summer .
+1
+#3 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+At last , when I put it to him directly , the clerk was forced to admit that the delay in my case was unusual .
+3
+#5 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#14 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#16 admit VERB admit%2:32:00::
+When I asked him what , if anything , I could do about it , he surprised me by referring me to the director of the hall .
+2
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#19 refer VERB refer%2:32:12::,refer%2:38:00::
+The clerk impressed this upon me : that I should not arrive in the hall before ten o ' clock .
+1
+#2 impress VERB impress%2:31:00::
+When I went for my interview with the director I saw why .
+1
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Although it was dark as usual I could see that the hall had only recently contained a great many people .
+2
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 contain VERB contain%2:42:00::,contain%2:42:06::
+Cigarette butts littered the floor .
+1
+#2 litter VERB litter%2:35:00::
+The big fans were going , drawing from the large room the remnants of stale smoke which drifted about in pale strata underneath the ceiling .
+3
+#4 go VERB go%2:35:00::,go%2:42:07::
+#6 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#17 drift VERB drift%2:38:01::
+I had felt the draft they were making while mounting the stairs .
+3
+#2 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 mount VERB mount%2:35:07::,mount%2:38:00::,mount%2:38:01::
+The staircase itself seemed still to be echoing the heavy footfalls of many men .
+1
+#7 echo VERB echo%2:39:00::
+I stopped by the counter .
+1
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+No one was behind it , but in the rear wall of the office I noticed , for the first time , a door which had been left partially open .
+1
+#27 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Past it I could see part of a desk , a flag in a corner , a rug on the floor .
+1
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+I rapped my knuckles on the counter .
+1
+#1 rap VERB rap%2:35:00::
+The director came to the door .
+1
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He was a man in his late forties , with graying hair , of medium height ; he looked dapper in a lightweight summer suit , brown silk tie and green-tinted soft collar .
+1
+#18 look VERB look%2:39:01::,look%2:42:02::
+He wore perforated , white-topped shoes ; they somehow made me expect to see him launch into a vaudeville tapdance routine any moment .
+3
+#1 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 launch VERB launch%2:30:10::,launch%2:35:00::,launch%2:35:02::
+But he came toward me sedately enough , showed me around the counter , offered me a seat inside his office , then walked to a file cabinet and got out my application .
+3
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#8 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#23 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+I had the impression that he had read my forms , perhaps several times .
+1
+#7 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+He did not look at them now .
+1
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+As he lowered himself on the chair behind his desk I wondered what this dapper , slightly ridiculous man could possibly have to do with the workings of the hall .
+2
+#11 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#21 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+He spoke , in a voice as immaculate as his appearance .
+1
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+Why had I registered ?
+1
+#3 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+Begging my pardon , he must express his astonishment over seeing a person of my background applying at the hall .
+3
+#0 beg VERB beg%2:40:00::
+#6 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#16 apply VERB apply%2:32:00::
+He had looked over my forms and was impressed by what he had seen there ; indeed , my scholastic qualifications were such that he , a college graduate himself , must envy me them .
+3
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 impress VERB impress%2:37:01::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Was I sure , he asked , that I knew what I was applying for ?
+2
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+#13 apply VERB apply%2:32:00::
+What sort of men I would come into contact with , at the hall ?
+1
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+These questions did not surprise me ; I felt certain that the director , like the afternoon clerk , seldom moved beyond the counter , that the hall , to them , was a jungle , a dark and unwelcome place .
+2
+#8 feel VERB feel%2:31:00::,feel%2:39:00::
+#20 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Though I doubted that he would understand me , I told the director my motives for applying .
+4
+#2 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#6 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#16 apply VERB apply%2:32:00::
+I had always , I said , hankered after working hard with my hands .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+This desire , I went on , growing voluble as my conviction was aroused , had mounted at such a rate recently that I now found its realization necessary not only to my physical but also to my spiritual wellbeing .
+4
+#7 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#13 arouse VERB arouse%2:37:00::
+#16 mount VERB mount%2:30:00::
+#25 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::

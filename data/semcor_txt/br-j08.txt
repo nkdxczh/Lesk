@@ -1,0 +1,623 @@
+ Biological warfare is the intentional use of living microorganisms or their toxic products for the purpose of destroying or reducing the military effectiveness of man .
+4
+#11 toxic ADJ toxic%3:00:00::
+#12 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#19 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#24 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+It is the exploitation of the inherent potential of infectious disease agents by scientific research and development , resulting in the production of BW weapons systems .
+4
+#3 exploitation NOUN exploitation%1:04:00::
+#7 potential NOUN potential%1:26:00::
+#11 agent NOUN agent%1:10:00::,agent%1:17:00::
+#21 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+Man may also be injured secondarily by damage to his food crops or domestic animals .
+3
+#0 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#7 damage NOUN damage%1:04:00::
+#11 crop NOUN crop%1:20:01::
+The major reason for this is that it has no quick kill effect .
+6
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#2 reason NOUN reason%1:09:01::,reason%1:16:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#11 kill NOUN kill%1:04:01::
+#12 effect NOUN effect%1:09:00::,effect%1:19:00::
+The incubation period of infectious disease , plus a variable period of illness even before a lethal effect , render this weapon unsuitable for hand-to-hand encounter .
+4
+#9 variable ADJ variable%3:00:00::
+#10 period NOUN period%1:28:00::,period%1:28:03::
+#17 effect NOUN effect%1:09:00::,effect%1:19:00::
+#19 render VERB render%2:30:00::
+A man can be an effective fighting machine throughout the incubation period of most infectious diseases .
+2
+#1 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#5 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+Thus , an enemy would probably use this weapon for attack on static population centers such as large cities .
+5
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 static ADJ static%5:00:00:nonmoving:00
+#14 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#17 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#18 city NOUN city%1:15:00::,city%1:15:01::
+An important operational procedure in BW for an enemy would be to create an aerosol or cloud of agent over the target area .
+2
+#16 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#18 agent NOUN agent%1:10:00::,agent%1:17:00::
+This concept has stimulated much basic research concerning the behavior of particulate biological materials , the pathogenesis of respiratory infections , the medical management of such diseases and defense against their occurrence .
+5
+#5 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#7 concern VERB concern%2:42:00::,concern%2:42:01::
+#13 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#23 management NOUN management%1:04:00::,management%1:14:00::
+#28 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+The biological and physical properties of infectious particles have been studied intensively during the past fifteen years .
+2
+#7 particle NOUN particle%1:17:00::,particle%1:27:01::
+#10 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+Much new equipment and many unique techniques have been developed for the quantitative exposure of experimental animals to aerosols of infectious agents contained in particles of specified dimensional characteristics .
+7
+#1 new ADJ new%3:00:00::
+#9 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#13 exposure NOUN exposure%1:26:01::
+#21 agent NOUN agent%1:10:00::,agent%1:17:00::
+#22 contain VERB contain%2:42:00::,contain%2:42:06::
+#24 particle NOUN particle%1:17:00::,particle%1:27:01::
+#28 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+Much information has been gathered relative to quantitative sampling and assessment techniques .
+3
+#4 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#5 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#8 sampling NOUN sampling%1:04:00::
+Much of the older experimental work on respiratory infections was accomplished by very artificial procedures .
+3
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#5 work NOUN work%1:04:00::
+#13 artificial ADJ artificial%3:00:00::
+The intra nasal instillation of a fluid suspension of infectious agent in an anesthetized animal is far different from exposure , through natural respiration , to aerosolized organisms .
+6
+#2 nasal ADJ nasal%3:01:00::
+#7 suspension NOUN suspension%1:27:00::
+#10 agent NOUN agent%1:10:00::,agent%1:17:00::
+#17 different ADJ different%3:00:00::,different%5:00:00:other:00
+#19 exposure NOUN exposure%1:26:01::
+#22 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+The importance of particle size in such aerosols has been thoroughly demonstrated .
+4
+#3 particle NOUN particle%1:17:00::,particle%1:27:01::
+#4 size NOUN size%1:07:00::,size%1:07:02::
+#10 thoroughly ADV thoroughly%4:02:00::
+#11 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+The natural anatomical and physiological defensive features of the upper respiratory tract , such as the turbinates of the nose and the cilia of the trachea and larger bronchi , are capable of impinging out the larger particles to which we are ordinarily exposed in our daily existence .
+10
+#1 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#5 defensive ADJ defensive%3:00:00::
+#6 feature NOUN feature%1:08:00::,feature%1:09:01::
+#9 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#19 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#27 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#31 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#36 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#37 particle NOUN particle%1:17:00::,particle%1:27:01::
+#42 ordinarily ADV ordinarily%4:02:00::
+Very small particles , however , in a size range of 1 to 4 microns in diameter are capable of passing these impinging barriers and entering the alveolar bed of the lungs .
+8
+#2 particle NOUN particle%1:17:00::,particle%1:27:01::
+#4 however ADV however%4:02:04::
+#8 size NOUN size%1:07:00::,size%1:07:02::
+#9 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#16 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+#18 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#20 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#25 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+This area is highly susceptible to infection .
+2
+#1 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#4 susceptible ADJ susceptible%5:00:00:impressionable:00
+The entrance and retention of infectious particles in the alveoli amounts almost to an intra tissue inoculation .
+2
+#6 particle NOUN particle%1:17:00::,particle%1:27:01::
+#15 tissue NOUN tissue%1:08:00::
+The relationship between particle size and infectious dose is illustrated in Table 1 .
+3
+#3 particle NOUN particle%1:17:00::,particle%1:27:01::
+#4 size NOUN size%1:07:00::,size%1:07:02::
+#11 table NOUN table%1:14:00::
+In considering BW defense , it must be recognized that a number of critical meteorological parameters must be met for an aerosol to exhibit optimum effect .
+6
+#3 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#11 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 critical ADJ critical%3:00:03::,critical%5:00:00:crucial:00,critical%5:00:00:indispensable:00
+#18 meet VERB meet%2:41:02::,meet%2:42:01::
+#23 exhibit VERB exhibit%2:39:00::,exhibit%2:39:01::,exhibit%2:42:00::
+#25 effect NOUN effect%1:09:00::,effect%1:19:00::
+For example , bright sunlight is rapidly destructive for living microorganisms suspended in air .
+2
+#3 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#13 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+There are optimal humidity requirements for various agents when airborne .
+1
+#7 agent NOUN agent%1:10:00::,agent%1:17:00::
+Neutral or inversion meteorological conditions are necessary for a cloud to travel along the surface .
+5
+#0 neutral ADJ neutral%5:00:00:uncharged:00
+#2 inversion NOUN inversion%1:10:00::
+#6 necessary ADJ necessary%3:00:00::
+#9 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#14 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+It will rise during lapse conditions .
+1
+#2 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+There are , of course , certain times during the 24 - hour daily cycle when most of these conditions will be met .
+3
+#12 hour NOUN hour%1:07:00::,hours%1:28:01::
+#14 cycle NOUN cycle%1:28:00::
+#22 meet VERB meet%2:41:02::,meet%2:42:01::
+Certain other properties of small particles , in addition to those already mentioned in connection with penetration of the respiratory tract , are noteworthy in defense considerations .
+7
+#1 other ADJ other%3:00:00::
+#2 property NOUN property%1:07:00::,property%1:09:00::
+#5 particle NOUN particle%1:17:00::,particle%1:27:01::
+#11 already ADV already%4:02:00::
+#16 penetration NOUN penetration%1:04:03::
+#25 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#26 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+The smaller the particle the further it will travel downwind before settling out .
+3
+#3 particle NOUN particle%1:17:00::,particle%1:27:01::
+#8 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#11 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+An aerosol of such small particles .
+1
+#5 particle NOUN particle%1:17:00::,particle%1:27:01::
+moreover , diffuses through structures in much the same manner as a gas .
+3
+#8 same ADJ same%3:00:00::
+#9 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#12 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+There may be a number of secondary effects resulting from diffusion through buildings such as widespread contamination of kitchens , restaurants , food stores , hospitals , etc. .
+7
+#4 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#6 secondary ADJ secondary%5:00:00:incidental:00
+#7 effect NOUN effect%1:09:00::,effect%1:19:00::
+#12 building NOUN building%1:06:00::
+#18 kitchen NOUN kitchen%1:06:00::
+#23 store NOUN store%1:06:00::
+#25 hospital NOUN hospital%1:06:00::
+Depending on the organism , there may be multiplication in some food or beverage products , i.e. , in milk for example .
+1
+#14 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+The secondary consequences from this could be very serious and must be taken into consideration in planning for defense .
+5
+#1 secondary ADJ secondary%5:00:00:incidental:00
+#2 consequence NOUN consequence%1:19:00::
+#14 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#16 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#18 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+Something of the behavior of clouds of small particles can be illustrated by the following field trials :
+3
+#5 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#8 particle NOUN particle%1:17:00::,particle%1:27:01::
+#14 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+In the first trial an inert substance was disseminated from a boat travelling some ten miles off shore under appropriately selected meteorological conditions .
+6
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#3 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#6 substance NOUN substance%1:03:00::,substance%1:27:00::
+#11 boat NOUN boat%1:06:00::
+#12 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#17 shore NOUN shore%1:17:00::
+Zinc cadmium sulfide in particles of 2 microns in size were disseminated .
+2
+#4 particle NOUN particle%1:17:00::,particle%1:27:01::
+#9 size NOUN size%1:07:00::,size%1:07:02::
+This material fluoresces under ultraviolet light which facilitates its sampling and assessment .
+2
+#1 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#9 sampling NOUN sampling%1:04:00::
+Four hundred and fifty pounds was disseminated while the ship was traveling a distance of 156 miles .
+3
+#4 pound NOUN pound%1:23:09::,pound%1:23:10::
+#11 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#13 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+Figure 1 describes the results obtained in this trial .
+4
+#0 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#2 describe VERB describe%2:32:01::
+#5 obtain VERB obtain%2:40:00::
+#8 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+The particles traveled a maximum detected distance of some 450 miles .
+3
+#1 particle NOUN particle%1:17:00::,particle%1:27:01::
+#2 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#6 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+From these dosage isopleths it can be seen that an area of over 34000 square miles was covered .
+2
+#7 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#17 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+These dosages could have been increased by increasing the source strength which was small in this case .
+2
+#10 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#16 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The behavior of a biological aerosol , on a much smaller scale , is illustrated by a specific field trial conducted with a non pathogenic organism .
+3
+#11 scale NOUN scale%1:24:01::,scale%1:24:03::
+#17 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#20 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+An aqueous suspension of the spores of B. subtilis , var. niger , generally known as Bacillus globigii , was aerosolized using commercially available nozzles .
+3
+#2 suspension NOUN suspension%1:27:00::
+#13 generally ADV generally%4:02:01::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+A satisfactory cloud was produced even though these nozzles were only about 5 per cent efficient in producing an initial cloud in the size range of 1 to 5 microns .
+6
+#2 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#17 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#20 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#23 size NOUN size%1:07:00::,size%1:07:02::
+#24 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+In this test , 130 gallons of a suspension , having a count of * * f organisms per ml , or a total of approximately * * f spores , was aerosolized .
+5
+#2 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#5 gallon NOUN gallon%1:23:01::
+#8 suspension NOUN suspension%1:27:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 count NOUN count%1:23:00::
+The spraying operation was conducted from the rear deck of a small Naval vessel , cruising two miles off-shore and vertical to an on-shore breeze .
+8
+#1 spray NOUN spray%1:06:00::
+#2 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#4 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#8 deck NOUN deck%1:06:02::
+#13 vessel NOUN vessel%1:06:00::
+#18 offshore ADV offshore%3:00:00::
+#20 vertical ADJ vertical%3:00:00::
+#24 breeze NOUN breeze%1:19:00::
+Spraying continued along a two mile course .
+3
+#0 spray NOUN spray%1:06:00::
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#6 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+This operation was started at 5 : 00 p.m. and lasted for 29 minutes .
+3
+#1 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#10 last VERB last%2:42:00::
+#13 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+There was a slight lapse condition , a moderate fog , and 100 per cent relative humidity .
+3
+#3 slight ADJ slight%5:00:00:insignificant:00
+#5 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#9 fog NOUN fog%1:26:01::
+A network of sampling stations had been set up on shore .
+2
+#1 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#10 shore NOUN shore%1:17:00::
+These were located at the homes of Government employees , in Government Offices , buildings and reservations within the trial area .
+5
+#5 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#7 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#14 building NOUN building%1:06:00::
+#19 trial NOUN trial%1:04:00::,trial%1:04:03::,trial%1:11:01::
+#20 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+A rough attempt was made to characterize the vertical profile of the cloud by taking samples from outside the windows on the first , ninth , and fifteenth floors of a Government office building .
+12
+#1 rough ADJ rough%3:00:00::,rough%5:00:00:unpolished:00,rough%5:00:00:unrefined:01,rough%5:00:00:unskilled:00
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 characterize VERB characterise%2:32:00::
+#8 vertical ADJ vertical%3:00:00::
+#9 profile NOUN profile%1:10:01::
+#12 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#14 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#17 outside ADV outside%4:02:01::
+#19 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#22 first ADJ first%3:00:00::,first%4:02:00::
+#28 floor NOUN floor%1:06:01::
+#33 building NOUN building%1:06:00::
+All samplers were operated for a period of two hours except one , which was operated for four hours .
+6
+#1 sampler NOUN sampler%1:06:01::
+#3 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#6 period NOUN period%1:28:00::,period%1:28:03::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#15 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#18 hour NOUN hour%1:07:00::,hours%1:28:01::
+In this instance , there was a dosage of 562 during the first two hours and a total dosage of 1980 for the four hour period , a four-fold increase .
+5
+#2 instance NOUN instance%1:09:00::
+#12 first ADJ first%3:00:00::,first%4:02:00::
+#14 hour NOUN hour%1:07:00::,hours%1:28:01::
+#24 hour NOUN hour%1:07:00::,hours%1:28:01::
+#25 period NOUN period%1:28:00::,period%1:28:03::
+This suggests that the sampling period , particularly at the more distant locations , should have been increased .
+4
+#4 sampling NOUN sampling%1:04:00::
+#5 period NOUN period%1:28:00::,period%1:28:03::
+#7 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#11 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+As can be seen from Figure 2 , an extensive area was covered by this aerosol .
+4
+#5 figure NOUN figure%1:04:00::,figure%1:07:00::,figure%1:10:00::,figure%1:25:00::
+#9 extensive ADJ extensive%5:00:00:large:00
+#10 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#12 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+The maximum distance sampled was 23 miles from the source .
+1
+#2 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+As can be seen from these dosage isopleths , approximately 100 square miles was covered within the area sampled .
+2
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#14 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+It is quite likely that an even greater area was covered , particularly downwind .
+4
+#3 likely ADJ likely%3:00:00::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#10 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#12 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+The dosages in the three levels of the vertical profile were : * * f This was not , of course , enough sampling to give a satisfactory description of the vertical diffusion of the aerosol .
+6
+#5 level NOUN level%1:26:00::,level%1:26:01::
+#8 vertical ADJ vertical%3:00:00::
+#9 profile NOUN profile%1:10:01::
+#22 enough ADV enough%4:02:00::
+#28 description NOUN description%1:10:00::,description%1:10:01::
+#31 vertical ADJ vertical%3:00:00::
+A number of unique medical problems might be created when man is exposed to an infectious agent through the respiratory route rather than by the natural portal of entry .
+7
+#1 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#10 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#16 agent NOUN agent%1:10:00::,agent%1:17:00::
+#25 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#26 portal NOUN portal%1:06:01::
+#28 entry NOUN entry%1:04:00::,entry%1:04:01::,entry%1:06:00::
+Some agents have been shown to be much more toxic or infectious to experimental animals when exposed to aerosols of optimum particle size than by the natural portal .
+6
+#1 agent NOUN agent%1:10:00::,agent%1:17:00::
+#9 toxic ADJ toxic%3:00:00::
+#21 particle NOUN particle%1:17:00::,particle%1:27:01::
+#22 size NOUN size%1:07:00::,size%1:07:02::
+#26 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#27 portal NOUN portal%1:06:01::
+Botulinal toxin , for example , is several thousand-fold more toxic by this route than when given per os .
+2
+#10 toxic ADJ toxic%3:00:00::
+#16 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+In some instances a different clinical disease picture may result from this route of exposure , making diagnosis difficult .
+5
+#2 instance NOUN instance%1:09:00::
+#5 clinical ADJ clinical%3:01:00::
+#14 exposure NOUN exposure%1:26:01::
+#16 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 diagnosis NOUN diagnosis%1:04:00::
+In tularemia produced by aerosol exposure , one would not expect to find the classical ulcer of " rabbit fever " on a finger .
+4
+#2 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#5 exposure NOUN exposure%1:26:01::
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#14 classical ADJ classical%5:00:00:standard:03
+An enemy would obviously choose an agent that is believed to be highly infectious .
+2
+#6 agent NOUN agent%1:10:00::,agent%1:17:00::
+#9 believe VERB believe%2:31:03::
+Agents that are known to cause frequent infections among laboratory workers such as those causing Q fever , tularemia , brucellosis , glanders , coccidioidomycosis , etc. , belong in this category .
+4
+#0 agent NOUN agent%1:10:00::,agent%1:17:00::
+#10 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#28 belong VERB belong%2:42:00::,belong%2:42:01::,belong%2:42:03::
+#31 category NOUN category%1:14:00::
+An agent would likely be selected which would possess sufficient viability and virulence stability to meet realistic minimal logistic requirements .
+4
+#1 agent NOUN agent%1:10:00::,agent%1:17:00::
+#8 possess VERB possess%2:40:00::,possess%2:42:00::
+#15 meet VERB meet%2:41:02::,meet%2:42:01::
+#17 minimal ADJ minimal%3:00:00::
+It is , obviously , a proper goal of research to improve on this property .
+2
+#6 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#7 goal NOUN goal%1:09:00::,goal%1:15:00::
+In this connection it should be capable of being disseminated without excessive destruction .
+2
+#2 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#6 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+Moreover , it should not be so fastidious in its growth requirements as to make production on a militarily significant scale improbable .
+5
+#4 not ADV not%4:02:00::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#10 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#15 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#20 scale NOUN scale%1:24:01::,scale%1:24:03::
+An aggressor would use an agent against which there was a minimal naturally acquired or artificially induced immunity in a target population .
+6
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 agent NOUN agent%1:10:00::,agent%1:17:00::
+#11 minimal ADJ minimal%3:00:00::
+#12 naturally ADV naturally%4:02:00::,naturally%4:02:01::,naturally%4:02:02::
+#16 induce VERB induce%2:32:00::,induce%2:36:00::,induce%2:36:03::
+#20 target NOUN target%1:06:00::
+A solid immunity is the one effective circumstance whereby attack by a specific agent can be neutralized .
+4
+#6 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#7 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#12 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#13 agent NOUN agent%1:10:00::,agent%1:17:00::
+It must be remembered , however , that there are many agents for which there is no solid immunity and a partial or low-grade immunity may be broken by an appropriate dose of agent .
+4
+#5 however ADV however%4:02:04::
+#11 agent NOUN agent%1:10:00::,agent%1:17:00::
+#21 partial ADJ partial%5:00:00:incomplete:00
+#33 agent NOUN agent%1:10:00::,agent%1:17:00::
+There is a broad spectrum of organisms from which selection for a specified military purpose might be made .
+4
+#3 broad ADJ broad%5:00:00:comprehensive:00,broad%5:00:00:general:00
+#4 spectrum NOUN spectrum%1:07:00::
+#9 selection NOUN selection%1:22:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+An enemy might choose an acutely debilitating microorganism , a chronic disease producer or one causing a high rate of lethality .
+4
+#5 acutely ADV acutely%4:02:03::
+#12 producer NOUN producer%1:11:00::
+#17 high ADJ high%3:00:02::
+#18 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+It is possible that certain mutational forms may be produced such as antibiotic resistant strains .
+4
+#6 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+#9 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#13 resistant ADJ resistant%5:00:00:unsusceptible:00
+#14 strain NOUN strain%1:14:00::
+Mutants may also be developed with changes in biochemical properties that are of importance in identification .
+3
+#4 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#6 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#9 property NOUN property%1:07:00::,property%1:09:00::
+All of these considerations are of critical importance in considering defense and medical management .
+4
+#3 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#6 critical ADJ critical%3:00:03::,critical%5:00:00:crucial:00,critical%5:00:00:indispensable:00
+#10 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#13 management NOUN management%1:04:00::,management%1:14:00::
+Biological agents are , of course , highly host specific .
+2
+#1 agent NOUN agent%1:10:00::,agent%1:17:00::
+#9 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+They do not destroy physical structures as is true of high explosives .
+1
+#8 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+This may be of overriding importance in considering military objectives .
+2
+#4 overriding ADJ overriding%5:00:00:dominant:01
+#9 objective NOUN objective%1:09:00::
+Only a limited effort has been devoted to this problem .
+3
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 devote VERB devote%2:31:00::
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+Some of those who question the value of BW have assumed that the only potential would be in the establishment of epidemics .
+4
+#6 value NOUN value%1:21:00::,values%1:09:00::
+#10 assume VERB assume%2:31:00::
+#14 potential NOUN potential%1:26:00::
+#19 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+They then point out that with our present lack of knowledge of all the factors concerned in the rise and fall of epidemics , it is unlikely that a planned episode could be initiated .
+6
+#7 present ADJ present%3:00:01::
+#10 knowledge NOUN knowledge%1:03:00::
+#14 factor NOUN factor%1:08:00::,factor%1:18:00::
+#18 rise NOUN rise%1:17:00::
+#20 fall NOUN fall%1:11:01::
+#33 initiate VERB initiate%2:30:00::
+They argue further ( and somewhat contradictorily ) that our knowledge and resources in preventive medicine would make it possible to control such an outbreak of disease .
+4
+#1 argue VERB argue%2:32:02::
+#2 further ADV further%4:02:02::,further%4:02:03::
+#10 knowledge NOUN knowledge%1:03:00::
+#21 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+this is why this approach to BW defense has not been given major attention .
+6
+#4 approach NOUN approach%1:04:02::,approach%1:06:00::
+#7 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#9 not ADV not%4:02:00::
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#12 major ADJ major%3:00:05::,major%3:00:06::
+#13 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+Our major problem is what an enemy might accomplish in an initial attack on a target .
+3
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+#15 target NOUN target%1:06:00::
+This , of course , does not eliminate from consideration for this purpose agents that are associated naturally with epidemic disease .
+2
+#9 consideration NOUN consideration%1:07:00::,consideration%1:09:01::
+#13 agent NOUN agent%1:10:00::,agent%1:17:00::
+A hypothetical example will illustrate this point .
+2
+#2 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#6 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+Let us assume that it would be possible for an enemy to create an aerosol of the causative agent of epidemic typhus ( Rickettsia prowazwki ) over City A and that a large number of cases of typhus fever resulted therefrom .
+4
+#2 assume VERB assume%2:31:00::
+#18 agent NOUN agent%1:10:00::,agent%1:17:00::
+#27 city NOUN city%1:15:00::,city%1:15:01::
+#35 case NOUN case%1:18:03::,case%1:18:04::,case%1:26:02::
+No epidemic was initiated nor was one expected because the population in City A was not lousy .
+3
+#3 initiate VERB initiate%2:30:00::
+#12 city NOUN city%1:15:00::,city%1:15:01::
+#16 lousy ADJ lousy%5:00:00:bad:00
+In this case , then , the military objective was accomplished with an epidemic agent solely through the results secured in the initial attack .
+4
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#4 then ADV then%4:02:02::
+#8 objective NOUN objective%1:09:00::
+#14 agent NOUN agent%1:10:00::,agent%1:17:00::
+This was done with full knowledge that there would be no epidemic .
+2
+#4 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#5 knowledge NOUN knowledge%1:03:00::
+On the other hand , a similar attack might have been made on City B whose population was known to be lousy .
+2
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 lousy ADJ lousy%5:00:00:bad:00
+One might expect some spread of the disease in this case resulting in increased effectiveness of the attack .
+2
+#4 spread NOUN spread%1:11:00::
+#10 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+The major defensive problems are concerned with the possibility of overt military delivery of biological agents from appropriate disseminating devices .
+6
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#2 defensive ADJ defensive%3:00:00::
+#3 problem NOUN problem%1:09:00::,problem%1:26:00::
+#12 delivery NOUN delivery%1:04:00::
+#15 agent NOUN agent%1:10:00::,agent%1:17:00::
+#19 device NOUN device%1:06:00::
+It should be no more difficult to deliver such devices than other weapons .
+3
+#7 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#9 device NOUN device%1:06:00::
+#11 other ADJ other%3:00:00::
+The same delivery vehicles - whether they be airplanes , submarines or guided missiles - should be usable .
+3
+#1 same ADJ same%3:00:00::,same%3:00:02::
+#2 delivery NOUN delivery%1:04:04::
+#3 vehicle NOUN vehicle%1:06:00::
+If it is possible for an enemy to put an atomic bomb on a city , it should be equally possible to put a cloud of biological agent over that city .
+7
+#8 put VERB put%2:35:00::,put%2:35:05::
+#14 city NOUN city%1:15:00::,city%1:15:01::
+#19 equally ADV equally%4:02:01::
+#22 put VERB put%2:35:00::,put%2:35:05::
+#24 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#27 agent NOUN agent%1:10:00::,agent%1:17:00::
+#30 city NOUN city%1:15:00::,city%1:15:01::
+Biological agents are , moreover , suitable for delivery through enemy sabotage which imposes many problems in defense .
+5
+#1 agent NOUN agent%1:10:00::,agent%1:17:00::
+#8 delivery NOUN delivery%1:04:00::
+#13 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#15 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+A few obvious target areas of great importance might be mentioned .
+1
+#6 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+The air conditioning and ventilating systems of large buildings are subject to attack .
+2
+#7 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#8 building NOUN building%1:06:00::
+America is rapidly becoming a nation that uses processed , precooked and even predigested foods .
+2
+#3 become VERB become%2:30:00::,become%2:42:01::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+This is an enormous industry that is subject to sabotage .
+1
+#4 industry NOUN industry%1:04:00::,industry%1:14:00::
+One must include the preparation of soft drinks and the processing of milk and milk products .
+3
+#2 include VERB include%2:42:00::
+#10 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#15 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+Huge industries are involved also in the production of biological products , drugs and cosmetics which are liable to this type of attack .
+4
+#1 industry NOUN industry%1:04:00::,industry%1:14:00::
+#7 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#10 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+#17 liable ADJ liable%5:00:00:susceptible:00

@@ -1,0 +1,673 @@
+ A Texas halfback who does n't even know the team 's plays , Eldon Moritz , ranks fourth in Southwest Conference scoring after three games .
+5
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+#16 rank VERB rank%2:31:00::
+#21 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#24 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+Time stands still every time Moritz , a 26 - year old Army Signal Corps veteran , goes into the field .
+2
+#10 year NOUN years%1:28:00::
+#20 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+Although he never gets to play while the clock is running , he gets a big kick - several every Saturday , in fact - out of football .
+5
+#5 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#8 clock NOUN clock%1:06:00::
+#15 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#16 kick NOUN kick%1:09:00::
+#27 football NOUN football%1:04:00::
+Moritz does n't even have a nose guard or hip pads but he 's one of the most valuable members of the Longhorn team that will be heavily favored Saturday over Oklahoma in the cotton bowl .
+7
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#7 guard NOUN guard%1:06:00::
+#17 most ADV most%4:02:00::
+#19 member NOUN member%1:18:00::,member%1:24:00::
+#27 heavily ADV heavily%4:02:00::
+#28 favor VERB favor%2:31:00::,favor%2:41:00::
+That 's because he already has kicked 14 extra points in 15 tries .
+2
+#4 already ADV already%4:02:00::
+#6 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+He ran his string of successful conversions this season to 13 straight before one went astray last Saturday night in the 41 - 8 slaughter of Washington State .
+6
+#1 run VERB run%2:30:07::,run%2:42:03::,run%2:42:05::
+#3 string NOUN string%1:14:00::
+#6 conversion NOUN conversion%1:04:02::
+#15 astray ADV astray%4:02:00::
+#16 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#18 night NOUN night%1:28:00::
+Moritz is listed on the Longhorn roster as a right halfback , the position at which he lettered on the 1956 team .
+4
+#2 list VERB list%2:32:00::,list%2:41:00::
+#9 right ADJ right%3:00:00::
+#13 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#17 letter VERB letter%2:36:00::
+But ask coach Darrell Royal what position he plays and you 'll get the quick response , " place kicker " .
+6
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#2 coach NOUN coach%1:18:00::,coach%1:18:01::
+#6 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#8 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#12 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#14 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+A 208 - pound , 6 - foot 1 - inch senior from Stamford , Moritz practices nothing but place-kicking .
+4
+#3 pound NOUN pound%1:23:09::,pound%1:23:10::
+#7 foot NOUN foot%1:23:00::
+#10 inch NOUN inch%1:23:02::
+#16 practice VERB practice%2:31:00::
+Last year , when he worked out at halfback all season , he did n't get into a single game .
+4
+#0 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#18 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#19 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+" This year , coach Royal told me if I 'd work on my place-kicking he thought he could use me " , said Moritz .
+6
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#4 coach NOUN coach%1:18:00::,coach%1:18:01::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#16 think VERB think%2:31:01::,think%2:31:03::
+#19 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" So I started practicing on it in spring training .
+2
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#4 practice VERB practice%2:31:00::
+Moritz was bothered during the first two games this year by a pulled muscle in the thigh of his right ( kicking ) leg and , as a result , several of his successful conversions have gone barely far enough .
+13
+#2 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+#5 first ADJ first%3:00:00::,first%4:02:00::
+#7 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#9 year NOUN year%1:28:00::,year%1:28:01::
+#12 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#13 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+#19 right ADJ right%3:00:00::
+#21 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#23 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#34 conversion NOUN conversion%1:04:02::
+#36 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#37 barely ADV barely%4:02:00::
+#39 enough ADV enough%4:02:00::
+Moritz said Monday his leg feels fine and , as a result , he hopes to start practicing field goals this week .
+4
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#16 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#17 practice VERB practice%2:31:00::
+He kicked several while playing at Stamford High School , including one that beat Anson , 3 - 0 , in a 1953 district game .
+5
+#1 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#4 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#10 include VERB include%2:42:00::
+#13 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#24 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+" I kicked about 110 extra points in 135 tries during three years in high school " , he said , " and made 26 in a row at one time .
+5
+#2 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#3 about ADV about%4:02:00::
+#12 year NOUN year%1:28:00::,year%1:28:01::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#30 time NOUN time%1:11:00::
+I never did miss one in a playoff game - I kicked about 20 in the five playoff games my last two years " .
+5
+#1 never ADV never%4:02:00::
+#3 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#11 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#12 about ADV about%4:02:00::
+#22 year NOUN year%1:28:00::,year%1:28:01::
+Moritz came to Texas in 1954 but his freshman football efforts were hampered by a knee injury .
+2
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 football NOUN football%1:04:00::
+He missed the 1955 season because of an operation on the ailing knee , then played 77 minutes in 1956 .
+5
+#1 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+#8 operation NOUN operation%1:04:00::
+#14 then ADV then%4:02:00::
+#15 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#17 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+His statistical record that year , when Texas won only one game and lost nine , was far from impressive : he carried the ball three times for a net gain of 10 yards , punted once for 39 yards and caught one pass for 13 yards .
+16
+#2 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#8 win VERB win%2:33:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#13 lose VERB lose%2:30:03::,lose%2:33:00::
+#22 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#24 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#26 time NOUN time%1:11:00::
+#29 net ADJ net%3:00:00::
+#33 yard NOUN yard%1:23:00::,yard%1:23:01::
+#35 punt VERB punt%2:35:01::
+#36 once ADV once%4:02:00::
+#39 yard NOUN yard%1:23:00::,yard%1:23:01::
+#43 pass NOUN pass%1:04:00::
+#46 yard NOUN yard%1:23:00::,yard%1:23:01::
+He went into the Army in March , 1957 , and returned two years later .
+3
+#11 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#13 year NOUN year%1:28:00::,year%1:28:01::
+#14 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+But he was scholastically ineligible in 1959 and merely present last season .
+2
+#9 present ADJ present%3:00:02::
+#10 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Place kicking is largely a matter of timing , Moritz declared .
+3
+#5 matter NOUN matter%1:09:00::,matter%1:09:01::
+#7 timing NOUN timing%1:07:00::
+#10 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+" Once you get the feel of it , there 's not much to it .
+2
+#1 once CONJ once%4:02:02::
+#5 feel NOUN feel%1:04:00::
+I 've tried to teach some of the other boys to kick and some of them can't seem to get the feel .
+5
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#8 other ADJ other%3:00:00::
+#9 boy NOUN boy%1:18:00::,boy%1:18:01::
+#11 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#21 feel NOUN feel%1:04:00::
+Practice helps you to get your timing down .
+4
+#0 practice NOUN practice%1:04:02::
+#1 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 timing NOUN timing%1:07:00::
+" It 's kind of like golf - if you do n't swing a club very often , your timing gets off " .
+6
+#6 golf NOUN golf%1:04:00::
+#12 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#14 club NOUN club%1:06:01::
+#19 timing NOUN timing%1:07:00::
+#20 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#21 off ADJ off%5:00:00:inactive:08
+Moritz , however , kicks only about 10 or 12 extra points during each practice session .
+3
+#2 however ADV however%4:02:04::
+#4 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+" If you kick too much , your leg gets kinda dead " , he explained .
+4
+#3 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#8 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#9 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#11 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+In their first three games , the Longhorns have had the ball 41 times and scored 16 times , or 40 per cent their total passing yardage in three games , 447 on 30 completions in 56 attempts , is only 22 yards short of their total passing yardage in 1959 , when they made 469 on 37 completions in 86 tries .
+14
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#4 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#13 time NOUN time%1:11:00::
+#15 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#17 time NOUN time%1:11:00::
+#25 passing NOUN passing%1:04:02::
+#26 yardage NOUN yardage%1:07:00::
+#29 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#40 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#42 yard NOUN yard%1:23:00::,yard%1:23:01::
+#47 passing NOUN passing%1:04:02::
+#48 yardage NOUN yardage%1:07:00::
+Tailback James Saxton already has surpassed his rushing total for his brilliant sophomore season , when he netted 271 yards on 55 carries ; he now has 273 yards in 22 tries during three games .
+10
+#3 already ADV already%4:02:00::
+#7 rush NOUN rush%1:04:00::
+#11 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#17 net VERB net%2:35:00::
+#19 yard NOUN yard%1:23:00::,yard%1:23:01::
+#22 carry NOUN carry%1:04:00::
+#25 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#28 yard NOUN yard%1:23:00::,yard%1:23:01::
+#34 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+Saxton has made only one second-half appearance this season and that was in the Washington State game , for four plays : he returned the kickoff 30 yards , gained five yards through the line and then uncorked a 56 - yard touchdown run before retiring to the bench .
+13
+#2 make VERB make%2:38:00::,make%2:38:02::,make%2:40:02::
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 appearance NOUN appearance%1:11:00::
+#16 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#20 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+#23 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#27 yard NOUN yard%1:23:00::,yard%1:23:01::
+#29 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#31 yard NOUN yard%1:23:00::,yard%1:23:01::
+#41 yard NOUN yard%1:23:00::,yard%1:23:01::
+#42 touchdown NOUN touchdown%1:04:00::
+#45 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+#48 bench NOUN bench%1:06:02::
+Wingback Jack Collins injured a knee in the Washington State game but insists he 'll be ready for Oklahoma .
+3
+#0 wingback NOUN wingback%1:04:00::
+#10 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#16 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+Last week , when Royal was informed that three Longhorns were among the conference 's top four in rushing , he said : " That won't last long " .
+6
+#0 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#6 inform VERB inform%2:32:00::,inform%2:32:10::
+#13 conference NOUN conference%1:14:01::
+#18 rush NOUN rush%1:04:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 last VERB last%2:42:00::
+It did n't ; Monday , he had four Longhorns in the top four .
+1
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+A good feeling prevailed on the SMU coaching staff Monday , but attention quickly turned from Saturday 's victory to next week 's problem : Rice University .
+6
+#1 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#2 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#7 coach VERB coach%2:32:00::
+#8 staff NOUN staff%1:14:00::,staff%1:14:01::
+#12 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#14 turn VERB turn%2:30:00::,turn%2:32:14::,turn%2:38:14::
+The Mustangs do n't play this week .
+1
+#4 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+" We 're just real happy for the players " , Coach Bill Meek said of the 9 - 7 victory over the Air Force Academy .
+5
+#3 just ADV just%4:02:00::,just%4:02:03::
+#5 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#8 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#11 coach NOUN coach%1:18:00::,coach%1:18:01::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I think the big thing about the game was that our kids for the third straight week stayed in there pitching and kept the pressure on .
+9
+#2 think VERB think%2:31:01::,think%2:31:03::
+#4 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#8 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#12 kid NOUN kid%1:18:00::
+#18 stay VERB stay%2:42:02::
+#20 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#21 pitch VERB pitch%2:35:13::
+#23 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#25 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+It was the first time we 've been ahead this season ( when John Richey kicked what proved to be the winning field goal ) " .
+5
+#3 first ADJ first%3:00:00::,first%4:02:00::
+#4 time NOUN time%1:11:00::
+#15 kick VERB kick%2:32:00::,kick%2:33:05::,kick%2:35:01::,kick%2:38:00::
+#17 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#21 winning ADJ winning%5:00:01:successful:00
+Assistant coach John Cudmore described victory as " a good feeling , I think , on the part of the coaches and the players .
+7
+#1 coach NOUN coach%1:18:00::,coach%1:18:01::
+#4 describe VERB describe%2:32:01::
+#9 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#10 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#13 think VERB think%2:31:01::,think%2:31:03::
+#20 coach NOUN coach%1:18:00::,coach%1:18:01::
+#23 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+We needed it and we got it " .
+2
+#1 need VERB need%2:42:00::
+#5 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Meek expressed particular gratification at the defensive performances of end Happy Nelson and halfback Billy Gannon .
+4
+#1 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#2 particular ADJ particular%5:00:00:uncommon:00
+#6 defensive ADJ defensive%3:00:00::
+#9 end NOUN end%1:18:00::
+Both turned in top jobs for the second straight game .
+3
+#4 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#7 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#9 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+" Nelson played magnificent football " , Meek praised .
+3
+#2 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#3 magnificent ADJ magnificent%5:00:00:impressive:00
+#4 football NOUN football%1:04:00::
+" He knocked down the interference and made key stops lots of times .
+3
+#5 interference NOUN interference%1:06:00::
+#7 make VERB make%2:38:00::,make%2:38:02::,make%2:40:02::
+#12 time NOUN time%1:11:00::
+And he caused the fumble that set up our touchdown .
+1
+#9 touchdown NOUN touchdown%1:04:00::
+He broke that boy ( Air Force fullback Nick Arshinkoff ) in two and knocked him loose from the football " .
+5
+#3 boy NOUN boy%1:18:00::,boy%1:18:01::
+#7 fullback NOUN fullback%1:18:00::
+#14 knock VERB knock%2:35:04::
+#16 loose ADJ loose%5:00:00:unofficial:00
+#19 football NOUN football%1:06:00::
+Gannon contributed saving plays on the Falcons ' aerial thrusts in the late stages .
+4
+#3 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+#9 thrust NOUN thrust%1:04:01::
+#12 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#13 stage NOUN stage%1:04:00::,stage%1:26:00::
+One was on a fourth down screen pass from the Mustang 21 after an incomplete pass into Gannon 's territory .
+3
+#5 down NOUN down%1:04:00::
+#15 pass NOUN pass%1:04:00::
+#19 territory NOUN territory%1:15:01::
+" As soon as it started to form , Gannon spotted it " , Meek said .
+4
+#5 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#7 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+#10 spot VERB spot%2:39:00::,spot%2:39:02::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" He timed it just right and broke through there before the boy ( halfback Terry Isaacson ) had time to turn around .
+5
+#2 time VERB time%2:30:01::
+#9 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#12 boy NOUN boy%1:18:00::,boy%1:18:01::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+He really crucified him .
+2
+#1 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#2 crucify VERB crucify%2:41:00::
+He nailed it for a yard loss " .
+2
+#1 nail VERB nail%2:35:00::
+#5 yard NOUN yard%1:23:00::,yard%1:23:01::
+The Air Force's , and the game 's , final play , was a long pass by quarterback Bob McNaughton which Gannon intercepted on his own 44 and returned 22 yards .
+7
+#6 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#10 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+#14 long ADJ long%3:00:01::
+#15 pass NOUN pass%1:04:00::
+#25 own ADJ own%5:00:00:personal:00
+#28 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#30 yard NOUN yard%1:23:00::,yard%1:23:01::
+" He just lay back there and waited for it " , Meek said .
+4
+#2 just ADV just%4:02:00::,just%4:02:03::
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#7 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" He almost brought it back all the way " .
+1
+#5 back ADV back%4:02:05::
+Except for sophomore center Mike Kelsey and fullback Mike Rice , Meek expects the squad to be physically sound for Rice .
+3
+#3 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#7 fullback NOUN fullback%1:18:00::
+#18 sound ADJ sound%3:00:01::
+" Kelsey is very doubtful for the Rice game " , Meek said .
+3
+#4 doubtful ADJ doubtful%5:00:00:unsettled:02
+#8 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He got hit from the blind side by the split end coming back on the second play of the game .
+4
+#2 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#15 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#16 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+#19 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+There is definitely some ligament damage in his knee " .
+1
+#5 damage NOUN damage%1:04:00::
+Rice has not played since injuring a knee in the opener with Maryland .
+2
+#3 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#10 opener NOUN opener%1:11:00::
+" He 's looking a lot better , and he 's able to run " , Meek explained .
+3
+#3 look VERB look%2:39:01::,look%2:42:02::
+#11 able ADJ able%3:00:00::
+#13 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+" We 'll let him do a lot of running this week , but I do n't know if he 'll be able to play " .
+3
+#17 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#22 able ADJ able%3:00:00::
+#24 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+The game players saw the Air Force film Monday , ran for 30 minutes , then went in , while the reserves scrimmaged for 45 minutes .
+7
+#1 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#2 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#7 film NOUN film%1:10:00::,film%1:10:01::
+#15 then ADV then%4:02:00::
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#21 reserve NOUN reserve%1:21:00::
+#25 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+" We 'll work hard Tuesday , Wednesday and Thursday " , Meek said , " and probably will have a good scrimmage Friday .
+5
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#4 hard ADV hard%4:02:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#22 scrimmage NOUN scrimmage%1:04:01::
+We 'll work out about an hour on Saturday , then we 'll work Monday and Tuesday of next week , then taper off " .
+4
+#6 hour NOUN hour%1:07:00::,hours%1:28:01::
+#10 then ADV then%4:02:00::
+#13 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#21 then ADV then%4:02:00::
+SMU will play the Owls at Rice Stadium in Houston in a night game Saturday , Oct. 21 .
+1
+#2 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+- Held out of Texas Tech 's sweat suits drill Monday at Lubbock was tackle Richard Stafford , who is undergoing treatment for a leg injury suffered in the Raiders ' 38 - 7 loss to Texas A+M .
+3
+#14 tackle NOUN tackle%1:04:02::
+#24 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#26 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+Because of its important game with Arkansas coming up Saturday , Baylor worked out in the rain Monday - mud or no mud .
+3
+#4 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#19 mud NOUN mud%1:27:00::
+#22 mud NOUN mud%1:27:00::
+End Gene Raesz , who broke a hand in the Owl 's game with LSU , was back working out with Rice Monday , and John Nichols , sophomore guard , moved back into action after a week 's idleness with an ankle injury .
+7
+#0 end NOUN end%1:18:00::
+#5 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#7 hand NOUN hand%1:08:00::,hand%1:10:01::
+#12 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#17 back ADV back%4:02:05::
+#29 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+#34 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+The Texas Aggies got a day off Monday - a special gift from Coach Jim Myers for its conference victory last Saturday night , but Myers announced that halfback George Hargett , shaken up in the Tech game , would not play against Trinity Saturday .
+8
+#3 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#11 gift NOUN gift%1:04:00::
+#13 coach NOUN coach%1:18:00::,coach%1:18:01::
+#18 conference NOUN conference%1:14:01::
+#20 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#22 night NOUN night%1:28:00::
+#37 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#41 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+The Dallas Texans were back home Monday with their third victory in four American Football League starts - a 19 - 12 triumph over the Denver Broncos - but their visit will be a short one .
+4
+#4 back ADV back%4:02:05::
+#16 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#22 triumph NOUN triumph%1:12:00::
+#34 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+The Texans have two more road games - at Buffalo and Houston - before they play for the home folks again , and it looks as if coach Hank Stram 's men will meet the Bills just as they are developing into the kind of team they were expected to be in pre-season reckonings .
+7
+#2 have VERB have%2:42:08::
+#15 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#24 look VERB look%2:39:01::,look%2:42:02::
+#27 coach NOUN coach%1:18:00::,coach%1:18:01::
+#31 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#33 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#40 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Buffalo coach Buster Ramsey , who has become one of the game 's greatest collectors of quarterbacks , apparently now has found a productive pair in two ex National Football Leaguers , M. C. Reynolds and Warren Rabb .
+6
+#1 coach NOUN coach%1:18:00::,coach%1:18:01::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#11 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#13 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#14 collector NOUN collector%1:18:01::
+#19 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Rabb , the former Louisiana State field general , came off the bench for his debut with the Bills Sunday and directed his new team to a 22 - 12 upset victory over the Houston Oilers , defending league champions .
+6
+#3 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#12 bench NOUN bench%1:06:02::
+#21 direct VERB direct%2:36:00::,direct%2:36:02::,direct%2:38:00::,direct%2:41:00::
+#23 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#38 league NOUN league%1:14:01::
+#39 champion NOUN champion%1:18:01::
+" Just our luck " ! exclaimed Stram .
+1
+#1 just ADV just%4:02:05::
+" Buster would solve that quarterback problem just as we head that way " .
+3
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+#10 head VERB head%2:38:00::,head%2:38:01::
+#12 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+Ramsey has a thing or two to mutter about himself , for the Dallas defensive unit turned in another splendid effort against Denver , and the Texans were able to whip the dangerous Broncs without the fullbacking of a top star , Jack Spikes , though he did the team 's place-kicking while nursing a knee injury .
+7
+#3 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 defensive ADJ defensive%3:00:00::
+#15 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#28 able ADJ able%3:00:00::
+#30 whip VERB whip%2:35:00::
+#40 star NOUN star%1:18:02::
+#53 nurse VERB nurse%2:29:00::
+" Our interior line and our linebackers played exceptionally well " , said Stram Monday after he and his staff reviewed movies of the game .
+8
+#2 interior ADJ interior%3:00:00::
+#3 line NOUN line%1:06:08::,line%1:10:06::,line%1:14:00::,line%1:14:01::,line%1:14:02::,line%1:14:03::
+#7 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#9 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 staff NOUN staff%1:14:00::,staff%1:14:01::
+#20 review VERB review%2:31:00::,review%2:32:00::
+#24 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+" In fact our whole defensive unit did a good job " .
+5
+#4 whole ADJ whole%3:00:00::
+#5 defensive ADJ defensive%3:00:00::
+#6 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#9 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#10 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+The Texans won the game through ball control , with Quarterback Cotton Davidson throwing only 17 passes .
+7
+#2 win VERB win%2:33:00::
+#4 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#6 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#7 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#13 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 pass NOUN pass%1:04:00::
+" We always like to keep the ball as much as we can against Denver because they have such an explosive attack " , explained Stram .
+5
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#3 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#5 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#7 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" They can be going along , doing little damage , then bang , bang - they can hit a couple of passes on you for touchdowns and put you in trouble " .
+5
+#9 damage NOUN damage%1:04:00::
+#11 then ADV then%4:02:00::
+#22 pass NOUN pass%1:04:00::
+#26 touchdown NOUN touchdown%1:04:00::
+#28 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+The Broncs did hit two quick strikes in the final period against the Texans , but Dallas had enough of a lead to hold them off .
+4
+#5 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#6 strike NOUN strike%1:04:05::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 lead NOUN lead%1:07:02::,lead%1:15:00::,lead%1:23:00::
+The principal tactic in controlling the ball was giving it to Abner Haynes , the flashy halfback .
+4
+#1 principal ADJ principal%5:00:00:important:00
+#4 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#6 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#8 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+He was called upon 26 times - more than all of the other ball carriers combined - and delivered 145 yards .
+5
+#5 time NOUN time%1:11:00::
+#12 other ADJ other%3:00:00::
+#13 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#14 carrier NOUN carrier%1:18:03::
+#20 yard NOUN yard%1:23:00::,yard%1:23:01::
+The Texans made themselves a comforting break on the opening kickoff when Denver 's Al Carmichael was jarred loose from the ball when Dave Grayson , the speedy halfback , hit him and Guard Al Reynolds claimed it for Dallas .
+9
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 break NOUN break%1:04:01::
+#9 opening ADJ opening%3:00:00::
+#17 jar VERB jar%2:38:00::
+#18 loose ADJ loose%5:00:00:unofficial:00
+#21 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#27 speedy ADJ speedy%5:00:00:fast:01
+#30 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#33 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+A quick touchdown resulted .
+2
+#1 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#2 touchdown NOUN touchdown%1:04:00::
+" That permitted us to start controlling the ball right away " , said Stram , quipping , " I think I 'll put that play in the book " .
+7
+#5 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#6 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#8 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 think VERB think%2:31:01::,think%2:31:03::
+#23 put VERB put%2:35:00::,put%2:35:05::
+#25 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+The early Southwest Conference football leaders - Texas , Arkansas and Texas A+M - made a big dent in the statistics last week .
+6
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#4 football NOUN football%1:04:00::
+#5 leader NOUN leader%1:18:00::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#16 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#21 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Texas ' 545 - yard spree against Washington State gave the Longhorns a 3 - game total offense of 1512 yards ( 1065 rushing and 447 passing ) a new SWC high .
+9
+#4 yard NOUN yard%1:23:00::,yard%1:23:01::
+#9 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#15 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#17 offense NOUN offense%1:14:00::
+#20 yard NOUN yard%1:23:00::,yard%1:23:01::
+#23 rush NOUN rush%1:04:00::
+#26 passing NOUN passing%1:04:02::
+#29 new ADJ new%3:00:00::,new%5:00:00:original:00
+#31 high NOUN high%1:15:00::
+Arkansas combined 280 yards rushing with 64 yards passing ( on 5 completions in 7 tosses ) and a tough defense to whip TCU , and A+M , with a 38 - point bulge against Texas Tech ran up its biggest total loop play since 1950 .
+10
+#3 yard NOUN yard%1:23:00::,yard%1:23:01::
+#4 rush NOUN rush%1:04:00::
+#7 yard NOUN yard%1:23:00::,yard%1:23:01::
+#8 pass NOUN pass%1:04:00::
+#19 tough ADJ tough%3:00:01::,tough%3:00:02::,tough%3:00:03::,tough%5:00:00:rugged:00,tough%5:00:00:violent:00,tough%5:00:01:difficult:00
+#20 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#22 whip VERB whip%2:35:00::
+#32 point NOUN point%1:10:01::,point%1:23:01::
+#40 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#43 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+Completing 12 of 15 passes for 174 yards , the Aggies had a total offense of 361 yards .
+6
+#0 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#4 pass NOUN pass%1:04:00::
+#7 yard NOUN yard%1:23:00::,yard%1:23:01::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 offense NOUN offense%1:14:00::
+#17 yard NOUN yard%1:23:00::,yard%1:23:01::
+Texas leads in per game rushing averages , 355 yards , and passing 149 ( to Baylor 's 126 ) , but idle Baylor has the best defensive record ( 187.5 yards per game to Texas ' 189 ) .
+12
+#1 lead VERB lead%2:36:00::,lead%2:38:00::,lead%2:42:01::
+#4 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#5 rush NOUN rush%1:04:00::
+#6 average NOUN average%1:09:01::
+#9 yard NOUN yard%1:23:00::,yard%1:23:01::
+#12 pass NOUN pass%1:04:00::
+#22 idle ADJ idle%3:00:00::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#26 good ADJ best%3:00:00::,good%3:00:01::
+#27 defensive ADJ defensive%3:00:00::
+#31 yard NOUN yard%1:23:00::,yard%1:23:01::
+#33 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+A+M has the best defense against passes , 34.7 yards per game .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 good ADJ best%3:00:00::,good%3:00:01::
+#4 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#6 pass NOUN pass%1:04:00::
+#9 yard NOUN yard%1:23:00::,yard%1:23:01::
+#11 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+Not satisfied with various unofficial checks on the liveliness of baseballs currently in use , the major leagues have ordered their own tests , which are in progress at Massachusetts Institute of Technology .
+5
+#0 not ADV not%4:02:00::
+#5 check NOUN check%1:09:00::
+#19 order VERB order%2:32:00::
+#21 own ADJ own%5:00:00:personal:00
+#22 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::

@@ -1,0 +1,285 @@
+ The Providence Journal editorial ( Jan. 25 ) entitled " East Greenwich Faces a Housing Development Problem " points to a dilemma that faces communities such as ours .
+2
+#18 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#23 face VERB face%2:32:00::,face%2:32:03::
+The demand for these lots can be met for some time to come .
+2
+#7 meet VERB meet%2:41:02::,meet%2:42:01::
+#12 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+This would seem to indicate that we are trying neither " to halt an influx of migrants " nor are we " setting up such standards for development that only the well-to-do could afford to buy land and build in the new sites " .
+5
+#4 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#8 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#12 halt VERB halt%2:38:01::
+#33 afford VERB afford%2:34:00::,afford%2:42:00::
+#35 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+What we are attempting to do is achieve and maintain a balance between medium density and low density residential areas and industrial and commercial development .
+1
+#9 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+It is in fact entirely consistent with your suggestion of modest industrial development to help pay governmental costs .
+2
+#14 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#15 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The wisdom of granting such tax exemptions is another matter , but this particular instance is , in my opinion , completely satisfactory .
+1
+#3 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+The 1960 tax book for East Greenwich indicates a valuation for this property in excess of two million dollars .
+1
+#7 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+With our current $ 3 per hundred tax rate , it is safe to assume that this will qualify when you suggest a community should " try to develop a modest industrial plant " as the best way to meet these problems .
+5
+#14 assume VERB assume%2:31:00::
+#18 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+#26 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#28 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#39 meet VERB meet%2:41:02::,meet%2:42:01::
+In order to attract additional industry that is compatible with this community it is all the more important to present to the industrial prospect an orderly balance in the tax structure .
+1
+#19 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+As this tax base grows so then can your medium and low density residential areas grow .
+2
+#4 grow VERB grow%2:30:04::
+#15 grow VERB grow%2:30:04::
+Mr. Richard Preston , executive director of the New Hampshire State Planning and Development Commission , in his remarks to the Governors Conference on Industrial Development at Providence on October 8 , 1960 , warned against the fallacy of attempting to attract industry solely to reduce the tax rate or to underwrite municipal services such as schools when he said : " If this is the fundamental reason for a community 's interest or if this is the basic approach , success if any will be difficult to obtain " .
+3
+#45 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#59 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#88 obtain VERB obtain%2:40:00::
+He went on to say : " In the first place , industry per se is not dedicated to the role of savior of foundering municipalities .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+It is not in business for the purpose of absorbing increased municipal costs no matter how high a purpose that may be " .
+1
+#9 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+While Councilman Olson cited the anticipated increase in school costs in answer to a direct question from a taxpayer , the impact upon a school system does not have to be measured only in increased taxes to find alarm in uncontrolled growth .
+3
+#3 cite VERB cite%2:32:01::,cite%2:32:05::,cite%2:32:06::,cite%2:36:00::
+#28 have VERB have%2:42:08::
+#37 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+We in East Greenwich have the example of two neighboring communities , one currently utilizing double sessions in their schools , and the other facing this prospect next year .
+2
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 face VERB face%2:32:00::,face%2:32:03::
+It has already been reported in your newspapers that the East Greenwich School Committee is considering additions to at least one elementary school and to the high school to insure future accommodations for a school population that we know will increase .
+3
+#4 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#29 insure VERB insure%2:32:04::,insure%2:40:00::
+#38 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+If they are to be commended for foresight in their planning , what then is the judgment of a town council that compounds this problem during the planning stage ?
+2
+#5 commend VERB commend%2:32:00::
+#22 compound VERB compound%2:30:01::
+I submit that it cannot be dismissed simply by saying we are not facing the facts of life .
+3
+#1 submit VERB submit%2:32:00::,submit%2:32:01::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 face VERB face%2:32:00::,face%2:32:03::
+The " fruitful course " of metropolitanization that you recommend is currently practiced by the town of East Greenwich and had its inception long before we learned what it was called .
+4
+#9 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#12 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+#20 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#26 learn VERB learn%2:31:01::,learn%2:31:03::
+The East Greenwich Fire District services parts of Warwick as well as East Greenwich .
+1
+#5 service VERB service%2:30:00::
+The taxpayers of East Greenwich appropriate sums of money , as do other Kent County communities , for the support of the Kent County Memorial Hospital , a regional facility .
+1
+#5 appropriate VERB appropriate%2:31:00::
+The East Greenwich Free Library receives financial support from the town of East Greenwich and the City of Warwick to supplement its endowment .
+1
+#5 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+Feelers were put out last year to the City of Warwick , as reported in your newspapers , suggesting investigation of a common rubbish disposal area to service the Potowomut and Cowessett areas of Warwick along with East Greenwich .
+2
+#13 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#27 service VERB service%2:30:00::
+East Greenwich was one of the first Rhode Island towns to enter into contract agreement with the Rhode Island Development Council for planning services we could not provide for ourselves .
+2
+#11 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#27 provide VERB provide%2:34:00::,provide%2:40:00::
+The education program for retarded children conducted by the East Greenwich school system has pupils from at least one neighboring community .
+2
+#6 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+I feel compelled to write this because I am greatly concerned with the problem of community growth rate and the relation between types of growth in a town such as East Greenwich .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#4 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+I believe it is an area in which professional planners have failed to set adequate guide posts ; and yet they cannot ignore this problem because it concerns the implementation of nearly all the planning programs they have devised .
+5
+#1 believe VERB believe%2:31:03::
+#11 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#13 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#27 concern VERB concern%2:42:00::,concern%2:42:01::
+#38 devise VERB devise%2:36:00::
+These programs are volumes of waste paper and lost hours if the citizens of a community must stand aside while land developers tell them when , where , and in what manner the community shall grow .
+2
+#22 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#35 grow VERB grow%2:30:04::
+We have far less to fear in the migrant family than we have in the migrant developer under these conditions .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Until professional planners meet this situation squarely and update the concepts of zoning in a manner acceptable to the courts , I hope we in East Greenwich can continue to shape our own destiny .
+2
+#3 meet VERB meet%2:41:02::,meet%2:42:01::
+#28 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+I would like very much , on behalf of my husband and myself , to send our eternal thanks to all the wonderful people responsible for the Gabrielle Fund .
+2
+#2 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#15 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+It is indeed true , as stated in the famous novel of our day , " For Whom the Bell Tolls " , that " no man is an island , entirely of itself ; every man is a piece of the continent , a part of the main " .
+1
+#6 state VERB state%2:32:01::,state%2:32:02::
+Thanks to the generosity of Mr. Irving J. Fain , president of the Temple Beth El ; Rev. DeWitt Clemens , pastor of the Mathewson Street Methodist Church ; Mr. Felix Miranda , of the Imperial Knife Co. ; and to Mrs. Rozella Switzer , regional director of The National Conference of Christians and Jews , who asked them to serve as a committee for the fund .
+1
+#57 ask VERB ask%2:32:01::,ask%2:32:05::
+It is through them that we have become aware of the divine humanity in man , and therefore , that most people are noble , helpful and good .
+1
+#7 become VERB become%2:30:00::,become%2:42:01::
+Bless you my friends , for it is through love and service that brotherhood becomes a reality .
+1
+#14 become VERB become%2:30:00::,become%2:42:01::
+My future plans are to become a language teacher .
+1
+#5 become VERB become%2:30:00::,become%2:42:01::
+Of course , having this desire , I am very interested in education .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+A few weeks ago , I read in the Bulletin that there were to be given Chinese classes in Cranston .
+1
+#6 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+The article also said that a person had to be 18 years old or over , and must not be going to high school to attend these classes .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 attend VERB attend%2:42:00::
+The following week , I read in the Sunday paper that the students of Russia begin European and Asian languages in the seventh grade .
+2
+#5 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#15 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+I wish you could see the situation as I see it .
+2
+#4 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#9 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+If Russian pupils have to take these languages , how come American students have a choice whether or not to take a language , but have to face so many exceptions ?
+5
+#3 have VERB have%2:42:08::
+#5 take VERB take%2:31:02::,take%2:34:00::
+#20 take VERB take%2:31:02::,take%2:34:00::
+#25 have VERB have%2:42:08::
+#27 face VERB face%2:32:00::,face%2:32:03::
+I do not think that America is like Russia , not in the least !
+1
+#3 think VERB think%2:31:01::,think%2:31:03::
+I am proud of my country , the small city I live in , my wonderful parents , my friends and my school ; but I am also a young , able and willing girl who wants to study the Chinese language but is not old enough .
+3
+#11 live VERB live%2:42:08::
+#36 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#38 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+Then people wonder why Russian pupils are more advanced than American students .
+1
+#2 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+Well , there lies your answer .
+1
+#3 lie VERB lie%2:42:03::
+At the height of the first snowstorm we had , it was impossible for me to get medical attention needed during an emergency .
+2
+#8 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#16 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Words cannot tell of the undivided attention and comfort their service gave to me .
+2
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+The concern they felt for me was such as I shall never forget and for which I will always be grateful .
+1
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+Had they not gotten me to the hospital when they did , perhaps I would not be here to commend them at this time .
+2
+#3 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#19 commend VERB commend%2:32:00::
+The Providence Sunday Journal article ( Jan. 29 ) asking whether American taxpayers are being victimized by a gigantic giveaway to pay for the care of war veterans who have non-service-connected disabilities sounds as though The Providence Journal is desperate for news .
+2
+#9 ask VERB ask%2:32:00::,ask%2:32:04::
+#21 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Usually a veteran has to hang himself to get space on the front page .
+3
+#3 have VERB have%2:42:08::
+#5 hang VERB hang%2:41:00::
+#8 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+On the question of admission to Veterans Administration hospitals of service-connected and non-service-connected disabled veterans , it must be recognized that there are many men who are greatly affected by war service .
+1
+#19 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+It can manifest itself before discharge from service , or it can come out years later .
+1
+#2 manifest VERB manifest%2:30:00::
+There is one other point we should never lose sight of : Many veterans who enter VA hospitals as non-service cases later qualify as service-connected .
+3
+#8 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#15 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#22 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+No psychiatrist could tell me that the experience in a war can not have its effect in the ensuing years .
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#13 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The arguments advanced by those individuals and groups who oppose the system in force and who would drastically curtail or do away entirely with hospital care for the non-service-connected case , seem to be coldly impractical and out-of-step with the wishes of the general public .
+1
+#2 advance VERB advance%2:30:01::,advance%2:30:09::,advance%2:32:00::,advance%2:33:00::,advance%2:38:00::,advance%2:41:01::
+But I do n't believe we should close the door on nonservice-connected patients .
+2
+#4 believe VERB believe%2:31:03::
+#7 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+Some critics say that the length of stay in a hospital is too long .
+1
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+First of all , the admitting physician in the VA hospital gets the patient as a new patient .
+1
+#11 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+He has no experience with this veteran 's previous medical record .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+If the doctor is conscientious , he wants to study the patient .
+2
+#7 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#9 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+As a result , it takes a little longer than it would on the outside where the family physician knows about the patient .
+2
+#5 take VERB take%2:40:06::,take%2:42:03::
+#19 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Secondly , the VA physician knows that when the patient leaves the hospital , he is no longer going to have a chance to visit his patient .
+3
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 leave VERB leave%2:38:00::,leave%2:41:00::
+#24 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+So he keeps the veteran in until he can observe the effects of treatment or surgery .
+1
+#9 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+The American public must be presented with the facts concerning VA hospitalization .
+1
+#5 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+The public should understand that whether they support a state hospital or a VA hospital , the tax dollar has to be paid one way or the other .
+2
+#7 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#22 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+The responsibility is still going to be there whether they pay for a VA hospital or the tax dollar is spent for the state hospital .
+1
+#10 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+An adequate system of VA hospitals is better equipped to care for the veterans than any 50 state hospitals .
+1
+#10 care VERB care%2:41:13::
+The American Medical Association is once again grinding out its tear-soaked propaganda based upon the high cost of the Veterans Administration medical program to the American taxpayer .
+1
+#12 base VERB base%2:31:00::
+We veterans acknowledge the fact that as time passes the demand for medical care at VA hospitals will grow proportionately as age fosters illness .
+3
+#8 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+#18 grow VERB grow%2:30:04::
+#22 foster VERB foster%2:41:00::
+Nevertheless , we wonder at the stand of the A. M. A. on the health problem confronting the aged .
+1
+#3 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+They opposed the Forand bill , which would have placed the major burden of financial support upon the individual himself through compulsory payroll deduction ; yet they supported the Eisenhower administration which will cost a small state like ours approximately five million dollars ( matched incidentally by a federal grant ) to initiate .
+4
+#9 place VERB place%2:31:13::
+#27 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#33 cost VERB cost%2:42:00::,cost%2:42:01::
+#52 initiate VERB initiate%2:30:00::

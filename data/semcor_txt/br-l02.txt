@@ -1,0 +1,369 @@
+" Okay " , I said to the attendant , " I 'll let you know if I close the deal on the office in this building " .
+4
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 let VERB let%2:32:00::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+I walked with him back to the entrance .
+1
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+He gave me a ticket on the agency car and parked it .
+1
+#1 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+" Forgot to get something out of the car " , I told him , showing him my ticket .
+2
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+He started to say something as I walked in and then suddenly grinned and said , " Oh , yes .
+4
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" That 's right " , I told him .
+1
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He consulted the parking ticket , then looked at a notation and said , " You 're in the third row back toward the rear .
+2
+#7 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Can you find it all right " ?
+1
+#2 find VERB find%2:38:10::,find%2:39:05::,find%2:40:02::
+" Sure " , I told him .
+1
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+I always keep a set in the car .
+1
+#2 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+I put in new batteries so as to be certain I 'd have plenty of power and on my way out walked over to the regular parking stalls and stood looking at them thoughtfully .
+4
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#29 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#30 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+I waited until the parking attendant was busy with a customer , then slipped around the back of the car with license number JYM 114 , attached the electronic bug to the rear bumper and walked out .
+3
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#13 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#26 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+The attendant waved me on .
+1
+#2 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+One of the hardest chores a detective has is hanging around on a city street , trying to make himself inconspicuous , keeping an eye on the entrance of an office building and waiting .
+3
+#16 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#33 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+After a while , however , a person 's mind gets fed up and that magnifies all of the disagreeable physical symptoms which go with that sort of an assignment .
+2
+#10 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#15 magnify VERB magnify%2:30:01::
+You want to sit down .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Your leg muscles and back muscles feel weary .
+1
+#6 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+I waited a solid two hours before my man came out of the office building .
+1
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+I was n't far behind him when he entered the parking lot and hurried over to his car .
+1
+#8 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+The attendant recognized me once more and said , " What did you do about that office " ?
+2
+#2 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I have n't made up my mind yet " , I said .
+1
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" That curb parking is undependable and annoying , particularly when it rains " , he said .
+1
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I kept trying to get him to take my money .
+3
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+" Okay " , I told him .
+1
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+I know where the car is .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Want me to drive it out " ?
+2
+#0 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+" I 'll have one of the boys get it " , he said .
+2
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Regulars drive out their own cars " .
+1
+#1 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+" Make it as snappy as you can , will you " ?
+1
+#7 can VERB can%2:41:00::
+" Oh , that 's all right " , he said .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You do n't want to lease a place way out in the sticks .
+1
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+You get business where the business is , not where it is n't " .
+1
+#1 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+I grinned at him , handed him a couple of dollars and said , " By the time you get the parking charge figured up , there should be a cigar in it for you " .
+4
+#5 hand VERB hand%2:40:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#23 figure VERB figure%2:31:01::
+I hurried over to the agency heap , jumped in , started the motor and was just in time to see the car I wanted to shadow turn to the left .
+4
+#11 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+#20 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#26 shadow VERB shadow%2:38:00::
+#27 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+I was held up a bit trying to make a left turn .
+1
+#6 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+By the time I 'd made it he was gone .
+1
+#5 make VERB make%2:38:00::,make%2:38:02::,make%2:40:02::
+I stayed half a block behind him , letting lots of cars keep in between us , listening to the steady beep beep beep .
+2
+#8 let VERB let%2:30:01::,let%2:41:00::
+#12 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+After fifteen minutes of traffic driving he turned to the left .
+1
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+I could n't see him , but the electric bugging device gave steady beeps when it was straight ahead , short half beeps when the car I was following was to the left , and long drawn-out beeps when it turned to the right .
+4
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+#28 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#40 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+If it ever got behind me , the beep turned to a buzz .
+2
+#3 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#9 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+I turned left too soon and got a signal showing that I was still behind him but he was to the right .
+3
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#6 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#9 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+After a while the signal became a buzz and I knew he was behind me .
+2
+#5 become VERB become%2:30:00::,become%2:42:01::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+That meant he 'd parked someplace .
+1
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+I found a parking place half a block away , sat in the car and waited .
+3
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#10 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#15 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Then he came out and started driving toward the beach .
+2
+#5 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#6 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+I could get up close to him where there was traffic but had to drop far behind when there was n't traffic .
+1
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+My lights would have been a giveaway if I 'd tried to shadow him in the conventional manner .
+2
+#10 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#12 shadow VERB shadow%2:38:00::
+Moreover , I 'd have lost him if it had n't been for the electronic shadowing device .
+1
+#5 lose VERB lose%2:33:01::,lose%2:35:00::,lose%2:39:00::,lose%2:39:01::
+His signal was coming loud and clear and then all of a sudden it turned to a buzz .
+2
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#14 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+I sat where I could watch the exit and realized I was hungry .
+3
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#9 realize VERB realize%2:31:01::
+I sat there with the faint odor of charcoal-broiled steaks tantalizing my nostrils and occasionally catching the aroma of coffee .
+2
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#15 catch VERB catch%2:35:07::,catch%2:36:12::,catch%2:39:01::,catch%2:39:12::
+My man came out an hour later , drove to the beach , turned right and after half a mile went to the Swim and Tan Motel .
+3
+#8 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#13 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#20 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+I waited until my man was coming out of the office with the key to a cabin before I went in to register .
+2
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#22 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+The card the man I was shadowing had filled out was still on the counter .
+1
+#6 shadow VERB shadow%2:38:00::
+I noticed that he was in Unit 12 and that he had registered under the name of Oscar L. Palmer and wife , giving a San Francisco address .
+2
+#12 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+#23 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+He had written out the license number of his car but had transposed the last two figures , an old dodge which is still good .
+2
+#2 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#12 transpose VERB transpose%2:30:02::
+Ninety-nine times out of a hundred the motel manager does n't check the license number on the plates against the license number the tenant writes out .
+2
+#11 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#24 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+I used the alias of Robert C. Richards , gave the first three letters and the first and last figure of the license number on the agency heap , but a couple of phony numbers in between .
+2
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+I could have written anything .
+1
+#3 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+The manager of the motel was a woman who apparently did n't care .
+1
+#12 care VERB care%2:37:00::,care%2:37:12::
+She was complying with the law in regard to registrations but she certainly was n't checking license numbers or bothering the tenants .
+2
+#15 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#19 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+" You mean you 're all alone , Mr. Richards " ?
+1
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+" If you expect her to show up " , she said , " you 'd better put ' and wife ' on there .
+2
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 put VERB put%2:35:00::,put%2:35:05::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Not to you " , she said smiling .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+There are three soft-drink vending machines , and if you should be joined by - anybody - try to keep things quiet , if you will .
+2
+#17 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#19 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+We like to run a nice quiet place " .
+1
+#3 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+" Thank you " , I told her .
+1
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+I took another sidelong glance at the other registration card , then took the key to Unit 13 that she had given me and went down long enough to park the car .
+3
+#1 take VERB take%2:31:02::,take%2:34:00::
+#12 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#21 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+The construction was reasonably solid ; not like the cracker-box construction of so many of the motel units that have stucco all over the outside but walls that are thin enough so you can hear every movement of the people in the adjoining apartment .
+1
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+I put a small electric amplifier against the wall on the side I wanted to case .
+2
+#1 put VERB put%2:35:00::,put%2:35:05::
+#15 case VERB case%1:06:02::
+With the aid of that I could hear my man moving around , heard him cough a couple of times , heard the toilet flush , heard the sound of water running .
+3
+#10 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#24 flush VERB flush%2:30:01::
+#31 run VERB run%2:30:01::,run%2:38:01::,run%2:38:08::
+She knew where to come .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+I was so hungry my stomach felt all lines of communication had been severed .
+1
+#6 feel VERB feel%2:31:00::,feel%2:39:00::
+It 's one thing to go without food when you 're occupied with some work or when you 're simply postponing a meal , but when you 're dependent on someone else and know that you can n't eat until he 's bedded down for the night , hunger can be a gnawing torture .
+2
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#33 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The batteries on the bugging device I had put on the car were still fresh enough to send out good strong signals .
+1
+#8 put VERB put%2:35:00::,put%2:35:05::
+The powerful microphone I could press against the wall between my motel unit and that occupied by the man would bring in the sound of any conversation , and I was positively nauseated I was so hungry .
+2
+#5 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#15 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+I got in the car , drove down to the drive-in and ordered a couple of hamburgers with everything included , a cup of coffee and the fastest service possible .
+2
+#6 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#12 order VERB order%2:32:00::
+The place was n't particularly busy at that time of night , and the girl who was waiting on me , who was clothed in the tightest-fitting pair of slacks I had ever seen on a woman and a sweater that showed everything there was - and there was lots of it - wanted to be sociable .
+4
+#17 wait VERB wait%2:41:00::
+#33 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#41 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#53 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+" You really in a hurry , Handsome " ? she asked .
+1
+#11 ask VERB ask%2:32:00::,ask%2:32:04::
+" There may not be any women left " , I said .
+1
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She gave a little pout and said , " I do n't get off work until eleven o ' clock .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 'll be here at ten-fifty-five " , I said .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" That 's what they all say .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+What 's that thing going buzz-buzz-buzz in your car " ?
+1
+#4 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+I said " Darn it , that 's the automatic signal that shows when the ignition key is on .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+I reached over and switched off the electronic bugging device .
+1
+#1 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+She went in to get the hamburgers , and I switched on the device again and kept the signal from Dowling 's car coming in steady and clear until I saw her starting back with the hamburgers .
+3
+#16 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#30 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#32 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+She wanted to hang around while I was eating .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+" Do n't you think it 's selfish to have dinner before you go to pick her up " ?
+3
+#4 think VERB think%2:31:01::,think%2:31:03::
+#9 have VERB have%2:40:03::,have%2:40:05::
+#13 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+" No " , I said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You see , she 's on a diet .
+1
+#1 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+She 'll eat just a pineapple and cottage cheese salad and I 'm to have one with her so she won n't feel out of place " .
+2
+#14 have VERB have%2:40:03::,have%2:40:05::
+#22 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+" diets can be terrible " , the girl said .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Not a bit " , I said , " but she 's keeping her figure in hand " .
+2
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+She looked at me provocatively .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+" Good figures should be kept in hand " , she said , and walked away with an exaggerated wiggle .
+3
+#5 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+When I switched on the lights for her to come and get the check , I had the exact change plus a dollar tip .
+2
+#9 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::

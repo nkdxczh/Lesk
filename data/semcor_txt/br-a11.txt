@@ -1,0 +1,557 @@
+ The Orioles tonight retained the distinction of being the only winless team among the eighteen Major-League clubs as they dropped their sixth straight spring exhibition decision , this one to the Kansas City Athletics by a score of 5 to 3 .
+4
+#19 drop VERB drop%2:33:00::,drop%2:40:00::
+#23 spring NOUN spring%1:28:00::
+#24 exhibition NOUN exhibition%1:14:00::
+#36 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+Indications as late as the top of the sixth were that the Birds were to end their victory drought as they coasted along with a 3 - to-o advantage .
+2
+#5 top NOUN top%1:28:00::
+#21 coast VERB coast%2:38:00::
+Over the first five frames , Jack Fisher , the big righthander who figures to be in the middle of Oriole plans for a drive on the 1961 American League pennant , held the A 's scoreless while yielding three scattered hits .
+7
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#4 frame NOUN frame%1:04:01::,frame%1:28:00::
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#21 plan NOUN plan%1:09:01::
+#24 drive NOUN drive%1:04:02::
+#30 pennant NOUN pennant%1:10:00::
+#41 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+Then Dick Hyde , submarine ball hurler , entered the contest and only five batters needed to face him before there existed a 3 - to 3 deadlock .
+8
+#0 then ADV then%4:02:00::
+#6 hurler NOUN hurler%1:18:00::
+#8 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 batter NOUN batter%1:18:00::
+#17 face VERB face%2:32:00::,face%2:32:03::
+#21 exist VERB exist%2:42:00::
+#27 deadlock NOUN deadlock%1:26:00::
+A two run homer by Norm Siebern and a solo blast by Bill Tuttle tied the game , and single runs in the eighth and ninth gave the Athletics their fifth victory in eight starts .
+8
+#2 run NOUN run%1:04:01::
+#3 homer NOUN homer%1:04:00::
+#14 tie VERB tie%2:33:00::
+#16 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#19 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#20 run NOUN run%1:04:01::
+#26 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#34 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+With one down in the eighth , Marv Throneberry drew a walk and stole second as Hyde fanned Tuttle .
+4
+#9 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#11 walk NOUN walk%1:04:01::
+#13 steal VERB steal%2:33:00::,steal%2:40:00::
+#17 fan VERB fan%2:35:01::
+Catcher Frank House 's throw in an effort to nab Throneberry was wide and in the dirt .
+2
+#4 throw NOUN throw%1:04:00::
+#12 wide ADJ wide%5:00:00:inaccurate:00
+Then Heywood Sullivan , Kansas City catcher , singled up the middle and Throneberry was across with what proved to be the winning run .
+7
+#0 then ADV then%4:02:00::
+#8 single VERB single%2:35:00::
+#9 up ADV up%4:02:00::,up%4:02:02::
+#11 middle NOUN middle%1:28:00::
+#18 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#22 winning ADJ winning%5:00:01:successful:00
+#23 run NOUN run%1:04:01::
+Rookie southpaw George Stepanovich relieved Hyde at the start of the ninth and gave up the A 's fifth tally on a walk to second baseman Dick Howser , a wild pitch , and Frank Cipriani 's single under Shortstop Jerry Adair 's glove into center .
+5
+#4 relieve VERB relieve%2:32:01::
+#19 tally NOUN tally%1:10:00::
+#22 walk NOUN walk%1:04:01::
+#37 single NOUN single%1:04:00::
+#45 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+The Orioles once again performed at the plate in powderpuff fashion , gathering only seven blows off the offerings of three Kansas City pitchers .
+6
+#7 plate NOUN plate%1:06:02::,plate%1:06:04::,plate%1:06:05::,plate%1:08:00::,plate%1:17:00::
+#10 fashion NOUN fashion%1:07:00::
+#12 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 blow NOUN blow%1:04:01::
+#23 pitcher NOUN pitcher%1:18:00::
+Three were doubles , Brooks Robinson getting a pair and Marv Breeding one .
+2
+#2 double NOUN double%1:09:00::
+#6 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Bill Kunkel , Bob Hartman and Ed Keegan did the mound chores for the club down from West Palm Beach to play the game before 767 paying customers in Miami Stadium .
+6
+#10 mound NOUN mound%1:06:00::
+#14 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#15 down ADV down%4:02:00::,down%4:02:02::
+#21 play VERB play%2:33:00::,play%2:33:01::,play%2:33:03::,play%2:33:09::,play%2:33:12::
+#23 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#27 customer NOUN customer%1:18:00::
+The Birds got five hits and all three of their runs off Kunkel before Hartman took over in the top of the fourth .
+4
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#4 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#10 run NOUN run%1:04:01::
+#19 top NOUN top%1:28:00::
+Hartman , purchased by the A 's from the Milwaukee Braves last fall , allowed no hits in his scoreless three inning appearance , and merited the triumph .
+5
+#2 purchase VERB purchase%2:40:00::
+#12 fall NOUN fall%1:11:03::
+#16 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#22 appearance NOUN appearance%1:11:00::
+#27 triumph NOUN triumph%1:12:00::
+Keegan , a 6 - foot - 3 - inch 158 - pounder , gave up the Orioles ' last two safeties over the final three frames , escaping a load of trouble in the ninth when the Birds threatened but failed to tally .
+10
+#5 foot NOUN foot%1:23:00::
+#9 inch NOUN inch%1:23:02::
+#12 pounder NOUN pounder%1:23:00::
+#19 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#21 safety NOUN safety%1:04:01::
+#26 frame NOUN frame%1:04:01::,frame%1:28:00::
+#28 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#30 load NOUN load%1:19:00::
+#32 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#43 tally NOUN tally%1:10:00::
+In the ninth , Robinson led off with his second double of the night , a blast off the fence 375 feet deep into left .
+7
+#9 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#10 double NOUN double%1:09:00::
+#13 night NOUN night%1:28:00::
+#19 fence NOUN fence%1:06:00::
+#21 foot NOUN foot%1:23:00::
+#22 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#24 left NOUN left%1:08:00::
+Whitey Herzog , performing in right as the Orioles fielded possibly their strongest team of the spring , worked Keegan for a base on balls .
+3
+#5 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#12 strong ADJ strong%3:00:00::,strong%5:00:00:forceful:00,strong%5:00:00:intense:00
+#16 spring NOUN spring%1:28:00::
+Then three consecutive pinch hitters failed to produce .
+2
+#0 then ADV then%4:02:00::
+#7 produce VERB produce%2:39:00::
+Pete Ward was sent in for House and , after failing in a bunt attempt , popped to Howser on the grass back of short .
+6
+#3 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#10 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#13 bunt NOUN bunt%1:04:00::
+#16 pop VERB pop%2:35:00::
+#21 grass NOUN grass%1:20:00::
+#22 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+John Powell , batting for Adair , fanned after fouling off two 2 - and 2 pitches , and Buddy Barker , up for Stepanovich , bounced out sharply to Jerry Lumpe at second to end the 2 - hour and - 27 - minute contest .
+7
+#3 bat VERB bat%2:35:01::
+#7 fan VERB fan%2:35:01::
+#9 foul VERB foul%2:33:00::
+#16 pitch NOUN pitch%1:04:03::
+#33 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#39 hour NOUN hour%1:07:00::,hours%1:28:01::
+#44 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+The Orioles got a run in the first inning when Breeding , along with Robinson , the two Birds who got a pair of hits , doubled to right center , moved to third on Russ Snyder 's single to right and crossed on Kunkel 's wild pitch into the dirt in front of the plate .
+12
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#4 run NOUN run%1:04:01::
+#7 first ADJ first%3:00:00::,first%4:02:00::
+#20 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#24 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#26 double VERB double%2:40:03::
+#28 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#29 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#31 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#38 single NOUN single%1:04:00::
+#40 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#55 plate NOUN plate%1:06:02::,plate%1:06:04::,plate%1:06:05::,plate%1:08:00::,plate%1:17:00::
+The Flock added a pair of tallies in the third on three straight hits after two were out .
+4
+#2 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#6 tally NOUN tally%1:10:00::
+#13 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#17 out ADJ out%3:00:02::,out%5:00:00:dead:02
+Jackie Brandt singled deep into the hole at short to start the rally .
+3
+#2 single VERB single%2:35:00::
+#3 deep ADJ deep%3:00:01::,deep%3:00:02::,deep%5:00:00:thick:01
+#6 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+Jim Gentile bounced a hard shot off Kunkel 's glove and beat it out for a single , and when Lumpe grabbed the ball and threw it over first baseman Throneberry 's head Brandt took third and Gentile second on the error .
+9
+#2 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+#4 hard ADJ hard%3:00:06::
+#5 shot NOUN shot%1:04:06::,shot%1:04:08::,shot%1:26:00::
+#16 single NOUN single%1:04:00::
+#21 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#23 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#25 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#32 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#38 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+Then Robinson slammed a long double to left center to score both runners .
+6
+#0 then ADV then%4:02:00::
+#4 long ADJ long%3:00:01::
+#5 double NOUN double%1:09:00::
+#8 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#10 score VERB score%2:31:05::,score%2:33:00::,score%2:33:01::,score%2:35:01::
+#12 runner NOUN runner%1:18:03::
+When Robinson tried to stretch his blow into a triple , he was cut down in a close play at third , Tuttle to Andy Carey .
+5
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 stretch VERB stretch%2:30:00::,stretch%2:30:04::,stretch%2:30:05::,stretch%2:35:00::
+#9 triple NOUN triple%1:04:00::
+#17 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#18 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+The detailed rundown on the Kansas City scoring in the sixth went like this :
+2
+#2 rundown NOUN rundown%1:10:00::
+#11 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+Lumpe worked a walk as the first batter to face Hyde and romped around as Siebern blasted Hyde 's next toss 415 feet over the scoreboard in right center .
+10
+#1 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#3 walk NOUN walk%1:04:01::
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#7 batter NOUN batter%1:18:00::
+#9 face VERB face%2:32:00::,face%2:32:03::
+#16 blast VERB blast%2:35:00::
+#19 next ADJ next%5:00:00:close:01
+#22 foot NOUN foot%1:23:00::
+#27 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#28 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+Carey singled on a slow bouncing ball to short which Robinson cut across to field and threw wide to first .
+6
+#1 single VERB single%2:35:00::
+#4 slow ADJ slow%3:00:01::
+#5 bouncing ADJ bouncing%1:11:00::
+#6 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#16 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#17 wide ADJ wide%5:00:00:inaccurate:00
+It was ruled a difficult chance and a hit .
+3
+#2 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+#5 chance NOUN chance%1:07:00::,chance%1:26:00::
+#8 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+Then Throneberry rapped into a fast double play .
+3
+#0 then ADV then%4:02:00::
+#2 rap VERB rap%2:35:00::
+#5 fast ADJ fast%3:00:01::
+Breeding to Adair to Gentile , setting up Tuttle 's 390 - foot homer over the wall in left center .
+4
+#12 foot NOUN foot%1:23:00::
+#13 homer NOUN homer%1:04:00::
+#18 left ADJ left%5:00:00:unexhausted:00
+#19 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+If the Orioles are to break their losing streak within the next two days , it will have to be at the expense of the American League champion New York Yankees , who come in here tomorrow for a night game and a single test Sunday afternoon .
+7
+#5 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#27 champion NOUN champion%1:18:01::
+#33 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#35 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#43 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#44 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+The flavor of Baltimore 's Florida Grapefruit League news ripened considerably late today when the Orioles were advised that Ron Hansen has fulfilled his obligations under the Army 's military training program and is ready for belated spring training .
+4
+#1 flavor NOUN flavor%1:09:00::
+#11 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#22 fulfill VERB fulfil%2:36:00::
+#34 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+Hansen , who slugged the 1960 Oriole high of 22 homers and drove in 86 runs on a .255 freshman average , completes the Birds ' spring squad at 49 players .
+8
+#3 slug VERB slug%2:35:00::
+#7 high NOUN high%1:15:00::
+#10 homer NOUN homer%1:04:00::
+#15 run NOUN run%1:04:01::
+#20 average NOUN average%1:09:01::
+#22 complete VERB complete%2:30:00::,complete%2:32:00::
+#26 spring NOUN spring%1:28:00::
+#30 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+The big , 22 - year old shortstop , the 1960 American league " rookie of the year " , flew here late this afternoon from Baltimore , signed his contract for an estimated $ 15000 and was a spectator at tonight 's 5 - to 3 loss to Kansas City - the winless Birds ' sixth setback in a row .
+6
+#1 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#20 fly VERB fly%2:35:00::,fly%2:38:01::,fly%2:38:04::,fly%2:38:05::,fly%2:38:07::
+#21 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#22 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#28 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#57 setback NOUN setback%1:11:01::
+The 6 - foot 3 inch Hansen checked in close to 200 pounds , 15 pounds lighter than his reporting weight last spring .
+7
+#3 foot NOUN foot%1:23:00::
+#5 inch NOUN inch%1:23:02::
+#12 pound NOUN pound%1:23:09::,pound%1:23:10::
+#15 pound NOUN pound%1:23:09::,pound%1:23:10::
+#16 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#21 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#22 spring NOUN spring%1:28:00::
+He hopes to melt off an additional eight pounds before the Flock breaks camp three weeks hence .
+2
+#8 pound NOUN pound%1:23:09::,pound%1:23:10::
+#16 hence ADV hence%4:02:01::
+When he was inducted into the Army at Fort Knox , Ky. , Hansen 's weight had dropped to 180 - " too light for me to be at my best " he said .
+7
+#3 induct VERB induct%2:41:00::
+#15 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#17 drop VERB drop%2:29:01::,drop%2:38:01::
+#22 too ADV too%4:02:00::
+#23 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#30 best NOUN best%1:18:00::
+#33 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I feel good physically " , Hansen added , " but I think I 'll move better carrying a little less weight than I'm carrying now " .
+8
+#8 add VERB add%2:32:01::
+#13 think VERB think%2:31:01::,think%2:31:03::
+#16 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#17 better ADV better%4:02:00::
+#18 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#22 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+#25 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#26 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The rangy , Albany ( Cal. ) native , a surprise slugging sensation for the Flock last year as well as a defensive whiz , set " improved fielding " as his 1961 goal .
+9
+#1 rangy ADJ rangy%5:00:00:tall:00
+#10 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#12 sensation NOUN sensation%1:26:00::
+#16 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#22 defensive ADJ defensive%3:00:00::
+#23 whiz NOUN whiz%1:18:00::
+#25 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#28 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#33 goal NOUN goal%1:09:00::,goal%1:15:00::
+" I think I can do a better job with the glove , now that I know the hitters around the league a little better " , he said .
+7
+#2 think VERB think%2:31:01::,think%2:31:03::
+#8 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#13 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#16 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#21 league NOUN league%1:14:01::
+#24 better ADV better%4:02:00::
+#28 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Hansen will engage in his first workout at Miami Stadium prior to the opening tomorrow night of a two game weekend series with the New York Yankees .
+6
+#2 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#5 first ADJ first%3:00:00::,first%4:02:00::
+#13 opening NOUN opening%1:10:00::
+#15 night NOUN night%1:28:00::
+#19 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#21 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+Skinny Brown and Hoyt Wilhelm , the Flock 's veteran knuckleball specialists , are slated to oppose the American League champions in tomorrow 's 8 P.M. contest .
+2
+#14 slate VERB slate%2:31:00::
+#20 champion NOUN champion%1:18:01::
+Ryne Duren and Roland Sheldon , a rookie righthander who posted a 15 - 1 record last year for the Yanks ' Auburn ( N.Y. ) farm club of the Class - D New York-Pennsylvania League , are the probable rival pitchers .
+3
+#16 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#30 class NOUN class%1:14:00::,class%1:14:02::
+#41 pitcher NOUN pitcher%1:18:00::
+Twenty-one year old Milt Pappas and Jerry Walker , 22 , are scheduled to share the Oriole mound chores against the Bombers ' Art Ditmar in Sunday 's 2 P.M. encounter .
+1
+#17 mound NOUN mound%1:06:00::
+Ralph Houk , successor to Casey Stengel at the Yankee helm , plans to bring the entire New York squad here from St. Petersburg , including Joe Dimaggio and large crowds are anticipated for both weekend games .
+7
+#10 helm NOUN helm%1:06:00::
+#12 plan VERB plan%2:31:00::,plan%2:31:01::
+#20 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#25 include VERB include%2:42:00::
+#29 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#32 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+#36 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+The famed Yankee Clipper , now retired , has been assisting as a batting coach .
+2
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 retired ADJ retired%5:00:00:inactive:08
+Pitcher Steve Barber joined the club one week ago after completing his hitch under the Army 's accelerated wintertime military course , also at Fort Knox , Ky. .
+5
+#0 pitcher NOUN pitcher%1:18:00::
+#5 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#10 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#12 hitch NOUN hitch%1:28:00::
+#20 course NOUN course%1:04:01::,course%1:14:00::
+The 22 - year old southpaw enlisted earlier last fall than did Hansen .
+2
+#8 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#9 fall NOUN fall%1:11:03::
+Baltimore 's bulky spring training contingent now gradually will be reduced as Manager Paul Richards and his coaches seek to trim it down to a more streamlined and workable unit .
+5
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#17 coach NOUN coach%1:18:00::,coach%1:18:01::
+#25 more ADV more%4:02:00::
+#29 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+" Take a ride on this one " , Brooks Robinson greeted Hansen as the Bird third sacker grabbed a bat , headed for the plate and bounced a third inning two run double off the left centerfield wall tonight .
+10
+#1 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#11 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#18 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#20 bat NOUN bat%1:06:02::
+#22 head VERB head%2:38:00::,head%2:38:01::
+#25 plate NOUN plate%1:06:02::,plate%1:06:04::,plate%1:06:05::,plate%1:08:00::,plate%1:17:00::
+#27 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+#32 run NOUN run%1:04:01::
+#33 double NOUN double%1:09:00::
+#36 left ADJ left%5:00:00:unexhausted:00
+It was the first of two doubles by Robinson , who was in a mood to celebrate .
+4
+#3 first ADJ first%3:00:00::,first%4:02:00::
+#6 double NOUN double%1:09:00::
+#14 mood NOUN mood%1:12:00::
+#16 celebrate VERB celebrate%2:41:00::,celebrate%2:41:02::
+Just before game time , Robinson 's pretty wife , Connie informed him that an addition to the family can be expected late next summer .
+6
+#2 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#3 time NOUN time%1:11:00::
+#11 inform VERB inform%2:32:00::,inform%2:32:10::
+#18 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#22 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+#24 summer NOUN summer%1:28:00::
+Unfortunately , Brooks ' teammates were not in such festive mood as the Orioles expired before the seven hit pitching of three Kansas City rookie hurlers .
+5
+#6 not ADV not%4:02:00::
+#10 mood NOUN mood%1:12:00::
+#18 hit NOUN hit%1:04:00::,hit%1:04:03::,hit%1:04:04::,hit%1:11:01::
+#19 pitch NOUN pitch%1:04:03::
+#25 hurler NOUN hurler%1:18:00::
+Hansen arrived just before nightfall , two hours late , in company with Lee MacPhail ; J. A. W. Iglehart , chairman of the Oriole board of directors , and Public Relations Director Jack Dunn .
+4
+#7 hour NOUN hour%1:07:00::,hours%1:28:01::
+#8 late ADJ late%3:00:00::
+#11 company NOUN company%1:14:00::,company%1:18:00::,company%1:26:00::
+#21 chairman NOUN chairman%1:18:01::
+Their flight was delayed , Dunn said , when a boarding ramp inflicted some minor damage to the wing of the plane .
+8
+#1 flight NOUN flight%1:04:00::,flight%1:14:00::,flight%1:19:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 boarding NOUN boarding%1:04:00::
+#11 ramp NOUN ramp%1:06:00::
+#14 minor ADJ minor%3:00:07::
+#15 damage NOUN damage%1:04:00::
+#18 wing NOUN wing%1:06:00::
+#21 plane NOUN plane%1:06:01::
+Ex Oriole Clint Courtney , now catching for the A 's is all for the American League 's 1961 expansion to the West Coast .
+2
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 catch NOUN catch%1:04:00::
+" But they shouldda brought in Tokyo , too " , added Old Scrapiron .
+2
+#8 too ADV too%4:02:01::
+#11 add VERB add%2:32:01::
+" Then we 'd really have someplace to go " .
+3
+#1 then ADV then%4:02:02::
+#4 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Gaining her second straight victory , Norman B. Small , Jr. 's Garden Fresh , a 3 - year old filly , downed promising colts in the $ 4500 St. Patrick's Day Purse , featured seventh race here today , and paid $ 7.20 straight .
+5
+#0 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#2 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#36 race NOUN race%1:06:00::
+#37 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#41 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+Toying with her field in the early stages , Garden Fresh was asked for top speed only in the stretch by Jockey Philip Grimm and won by a length and a half in 1.24 3 - 5 for the 7 furlongs .
+8
+#6 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#7 stage NOUN stage%1:04:00::,stage%1:26:00::
+#12 ask VERB ask%2:32:01::,ask%2:32:05::
+#15 speed NOUN speed%1:28:00::
+#16 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 stretch NOUN stretch%1:17:00::
+#25 win VERB win%2:33:00::
+#28 length NOUN length%1:07:02::,length%1:07:03::
+Richard M. Forbes 's Paget , which had what seemed to be a substantial lead in the early stages , tired rapidly nearing the wire and was able to save place money only a head in front of Glen T. Hallowell 's Milties Miss .
+9
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#17 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#18 stage NOUN stage%1:04:00::,stage%1:26:00::
+#24 wire NOUN wire%1:06:00::,wire%1:06:01::,wire%1:15:00::
+#27 able ADJ able%3:00:00::
+#30 place NOUN place%1:09:00::,place%1:10:02::,place%1:26:02::
+#32 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#34 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+A bright sun and brisk wind had the track in a fast condition for the first time this week and 8280 St. Patty Day celebrants bet $ 842617 on the well prepared program .
+7
+#1 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#5 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#8 track NOUN track%1:17:00::
+#11 fast ADJ fast%3:00:01::
+#24 celebrant NOUN celebrant%1:18:01::
+#32 program NOUN program%1:09:00::,program%1:09:01::
+Prior to the featured race , the stewards announced that apprentice James P. Verrone is suspended ten days for crowding horses and crossing the field sharply in two races on Wednesday .
+7
+#4 race NOUN race%1:06:00::
+#15 suspend VERB suspend%2:30:00::,suspend%2:30:02::,suspend%2:41:00::,suspend%2:42:00::
+#17 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#19 crowd VERB crowd%2:42:00::
+#20 horse NOUN horse%1:05:00::,horse%1:14:00::
+#22 cross VERB cross%2:38:00::
+#28 race NOUN race%1:06:00::
+Garden Fresh , the result of a mating of Better Self and Rosy Fingered , seems to improve with each start and appeared to win the St. Patrick's Day Purse with some speed in reserve .
+3
+#20 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#22 appear VERB appear%2:30:00::
+#24 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+She was moving up to the allowance department after winning a $ 10000 claiming event .
+1
+#9 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+George Kerr , the swift striding Jamaican , set a meet record in the 600 - yard run in the Knights of Columbus track meet tonight , beating Purdue 's Dave Mills in a hot duel in 1.10.1 .
+6
+#8 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#11 record NOUN record%1:04:00::,record%1:23:00::
+#16 yard NOUN yard%1:23:00::,yard%1:23:01::
+#17 run NOUN run%1:04:00::,run%1:04:04::,run%1:04:06::,run%1:11:03::
+#27 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#34 hot ADJ hot%3:00:02::,hot%5:00:00:sexy:00,hot%5:00:00:skilled:00
+Kerr , who set the world record earlier this month in New York with a clocking of 1.09.3 , wiped out Mills 's early pace and beat the young Big 10 quarter-mile king by 5 yards .
+8
+#3 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#7 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#15 clock NOUN clock%1:06:00::
+#23 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#24 pace NOUN pace%1:28:00::
+#26 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+#32 king NOUN king%1:18:01::,king%1:26:00::
+#35 yard NOUN yard%1:23:00::,yard%1:23:01::
+Both were under the meet mark of 1.10.8 set in 1950 by Mal Whitfield .
+1
+#8 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+Mills shot out in front and kept the lead through two thirds of the race .
+3
+#1 shoot VERB shoot%2:32:05::,shoot%2:38:00::,shoot%2:38:01::,shoot%2:38:03::,shoot%2:39:00::
+#8 lead NOUN lead%1:07:02::,lead%1:15:00::,lead%1:23:00::
+#14 race NOUN race%1:06:00::
+Then Kerr , a graduate student from Illinois , moved past him on a straightaway and held off Mills 's challenge on the final turn .
+4
+#0 then ADV then%4:02:00::
+#9 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#20 challenge NOUN challenge%1:10:00::
+#24 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+Mills was timed in 1.10.4 .
+1
+#2 time VERB time%2:30:00::
+The crowd at the twenty-first annual K. of C. Games , final indoor meet of the season , got a thrill a few minutes earlier when a slender , bespectacled woman broke the one week old world record in the half-mile run .
+5
+#23 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#24 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#27 slender ADJ slender%5:00:00:thin:03
+#31 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#41 run NOUN run%1:04:00::,run%1:04:04::,run%1:04:06::,run%1:11:03::
+Mrs. Grace Butcher , of nearby Chardon , a 27 - year old housewife who has two children , finished in 2.21.6 .
+3
+#13 housewife NOUN housewife%1:18:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+She snapped five tenths of a second off the mark set by Helen Shipley , of Wellsley College , in the National A.A.U. meet in Columbus , Ohio .
+4
+#1 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+#6 second ADJ second%1:28:00::,second%1:28:01::
+#10 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#25 Columbus NOUN columbus%1:15:00::
+Bobby Waters of Sylvania , Ga. , relief quarterback for the San Francisco 49ers of the National Football League , will undergo a knee operation tomorrow at Franklin Hospital here .
+3
+#7 relief NOUN relief%1:18:00::
+#24 operation NOUN operation%1:04:00::
+#29 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Waters injured his left knee in the last game of the 1960 season .
+3
+#3 left ADJ left%5:00:00:unexhausted:00
+#7 last ADJ last%5:00:00:unlikely:00
+#8 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+While working out in Sylvania a swelling developed in the knee and he came here to consult the team physician .
+4
+#6 swelling NOUN swelling%1:26:00::
+#7 develop VERB develop%2:32:00::,develop%2:36:01::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#14 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::

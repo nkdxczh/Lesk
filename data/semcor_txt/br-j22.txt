@@ -1,0 +1,683 @@
+ These societies can expect to face difficult times .
+3
+#1 society NOUN society%1:14:00::,society%1:14:02::
+#5 face VERB face%2:32:00::,face%2:32:03::
+#7 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+As the historic processes of modernization gradually gain momentum , their cohesion will be threatened by divisive forces , the gaps between rulers and subjects , town and country , will widen ; new aspirants for power will emerge whose ambitions far exceed their competence ; old rulers may lose their nerve and their sense of direction .
+13
+#2 historic ADJ historic%5:00:00:important:00
+#7 gain VERB gain%2:30:01::,gain%2:33:00::
+#8 momentum NOUN momentum%1:07:01::
+#17 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#20 gap NOUN gap%1:04:00::
+#22 ruler NOUN ruler%1:18:00::
+#24 subject NOUN subject%1:18:00::
+#28 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#33 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#41 far ADV far%4:02:02::
+#44 competence NOUN competence%1:07:00::
+#47 ruler NOUN ruler%1:18:00::
+#49 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+National leaders will have to display the highest skills of statesmanship to guide their people through times of uncertainty and confusion which destroy men 's sense of identity .
+6
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#16 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#20 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#23 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#25 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#27 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+Feelings of a community of interest will have to be recreated - in some of the new nations , indeed , they must be built for the first time - on a new basis which looks toward the future and does not rely only on shared memories of the past .
+11
+#0 feeling NOUN feeling%1:09:03::
+#3 community NOUN community%1:21:00::,community%1:26:00::
+#5 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#16 new ADJ new%3:00:00::
+#19 indeed ADV indeed%4:02:03::
+#35 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#38 future NOUN future%1:10:00::,future%1:28:00::
+#41 not ADV not%4:02:00::
+#43 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#46 memory NOUN memory%1:09:00::,memory%1:09:02::
+#49 past NOUN past%1:28:01::
+Nevertheless , with foresight and careful planning , some of the more disruptive and dangerous consequences of social change which have troubled other countries passing through this stage can be escaped .
+9
+#6 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#11 more ADV more%4:02:00::
+#15 consequence NOUN consequence%1:19:00::
+#17 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#18 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#22 other ADJ other%3:00:00::
+#23 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#27 stage NOUN stage%1:04:00::,stage%1:26:00::
+#30 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+The United States can help by communicating a genuine concern with the problems these countries face and a readiness to provide technical and other appropriate forms of assistance where possible .
+11
+#4 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#6 communicate VERB communicate%2:32:02::
+#9 concern NOUN concern%1:09:00::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#14 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#15 face VERB face%2:32:00::,face%2:32:03::
+#18 readiness NOUN readiness%1:07:01::
+#20 provide VERB provide%2:34:00::,provide%2:40:00::
+#21 technical ADJ technical%3:00:00::,technical%3:01:03::
+#23 other ADJ other%3:00:00::
+#25 form NOUN form%1:07:00::,form%1:09:01::,form%1:14:02::
+Our central goal should be to provide the greatest positive incentive for these societies to tackle boldly the tasks which they face .
+7
+#1 central ADJ central%5:00:00:important:00
+#2 goal NOUN goal%1:09:00::,goal%1:15:00::
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+#8 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#9 positive ADJ positive%3:00:01::,positive%3:00:04::,positive%3:00:05::,positive%3:01:00::,positive%5:00:00:confident:00
+#13 society NOUN society%1:14:00::,society%1:14:02::
+#21 face VERB face%2:32:00::,face%2:32:03::
+At the same time , we should recognize that the obstacles to change and the lack of cohesion and stability which characterize these countries may make them particularly prone to diversions and external adventures of all sorts .
+6
+#12 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#23 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#25 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#28 prone ADJ prone%5:00:00:inclined:02
+#32 external ADJ external%5:00:00:extrinsic:00
+#36 sort NOUN sort%1:09:00::,sort%1:18:00::
+It may seem to some of them that success can be purchased much less dearly by fishing in the murky waters of international politics than by facing up to the intractable tasks at home .
+4
+#11 purchase VERB purchase%2:40:00::
+#13 less ADV less%4:02:00::,less%4:02:01::
+#14 dearly ADV dearly%4:02:00::
+#16 fish VERB fish%2:33:00::
+We should do what we can to discourage this conclusion , both by offering assistance for their domestic needs and by reacting firmly to irresponsible actions on the world scene .
+5
+#9 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+#17 domestic ADJ domestic%3:00:00::
+#25 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#28 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#29 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+When necessary , we should make it clear that countries which choose to derive marginal advantages from the cold war or to exploit their potential for disrupting the security of the world will not only lose our sympathy but also risk their own prospects for orderly development .
+11
+#1 necessary ADJ necessary%3:00:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#9 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#24 potential NOUN potential%1:26:00::
+#28 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#31 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#35 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#37 sympathy NOUN sympathy%1:09:00::,sympathy%1:24:00::
+#43 prospect NOUN prospect%1:26:00::
+#46 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+As a nation , we feel an obligation to assist other countries in their development ; but this obligation pertains only to countries which are honestly seeking to become responsible members of a stable and forward-moving world community .
+9
+#10 other ADJ other%3:00:00::
+#11 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#14 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#20 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#25 honestly ADV honestly%4:02:01::
+#28 become VERB become%2:30:00::,become%2:42:01::
+#30 member NOUN member%1:18:00::,member%1:24:00::
+#36 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+When we look at countries like Iran , Iraq , Pakistan , and Burma , where substantial progress has been made in creating a minimum supply of modern men and of social overhead capital , and where institutions of centralized government exist , we find a second category of countries with a different set of problems and hence different priorities for policy .
+17
+#4 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#16 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#31 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#32 overhead NOUN overhead%1:21:00::
+#33 capital NOUN capital%1:21:00::,capital%1:21:01::
+#37 institution NOUN institution%1:14:00::
+#40 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#41 exist VERB exist%2:42:00::
+#44 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#47 category NOUN category%1:14:00::
+#49 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#52 different ADJ different%5:00:00:unusual:00
+#53 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#55 problem NOUN problem%1:09:00::,problem%1:26:00::
+#57 hence ADV hence%4:02:00::
+#61 policy NOUN policy%1:09:00::,policy%1:10:00::
+The men in power are committed in principle to modernization , but economic and social changes are proceeding only erratically .
+6
+#3 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#5 commit VERB commit%2:32:01::
+#12 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#14 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#15 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Isolated enterprises have been launched , but they are not yet related to each other in a meaningful pattern .
+3
+#1 enterprise NOUN enterprise%1:04:00::
+#4 launch VERB launch%2:35:00::,launch%2:35:04::
+#18 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+The society is likely to be characterized by having a fairly modernized urban sector and a relatively untouched rural sector , with very poor communications between the two .
+9
+#1 society NOUN society%1:14:00::,society%1:14:02::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 fairly ADV fairly%4:02:02::
+#12 urban ADJ urban%3:01:00::
+#13 sector NOUN sector%1:15:00::
+#17 untouched ADJ untouched%5:00:00:unaffected:00
+#19 sector NOUN sector%1:15:00::
+#23 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#24 communication NOUN communication%1:03:00::,communication%1:10:01::
+Progress is impeded by psychological inhibitions to effective action among those in power and by a failure on their part to understand how local resources , human and material , can be mobilized to achieve the national goals of modernization already symbolically accepted .
+11
+#7 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#8 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#12 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#19 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#21 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#24 resource NOUN resource%1:07:00::,resource%1:21:00::
+#28 material ADJ material%3:00:04::
+#32 mobilize VERB mobilise%2:30:02::
+#37 goal NOUN goal%1:09:00::,goal%1:15:00::
+#40 already ADV already%4:02:00::
+#42 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+Most countries in this second category share the difficulty of having many of the structures of a modern political and social system without the modern standards of performance required to make them effective .
+6
+#1 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#5 category NOUN category%1:14:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 performance NOUN performance%1:04:01::,performance%1:10:00::
+#30 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+In these rapidly changing societies there is also too little appreciation of the need for effort to achieve goals .
+5
+#4 society NOUN society%1:14:00::,society%1:14:02::
+#8 too ADV too%4:02:00::
+#10 appreciation NOUN appreciation%1:04:01::
+#13 need NOUN need%1:26:00::
+#18 goal NOUN goal%1:09:00::,goal%1:15:00::
+The colonial period has generally left people believing that government can , if it wishes , provide all manner of services for them - and that with independence free men do not have to work to realize the benefits of modern life .
+13
+#1 colonial ADJ colonial%3:01:00::
+#2 period NOUN period%1:28:00::,period%1:28:03::
+#4 generally ADV generally%4:02:02::
+#5 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#6 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#9 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#16 provide VERB provide%2:34:00::,provide%2:40:00::
+#18 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#31 not ADV not%4:02:00::
+#34 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#38 benefit NOUN benefit%1:07:00::
+#41 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+For example , in accordance with the fashion of the times , most transitional societies have announced economic development plans of varying numbers of years ; such is the mystique of planning that people expect that fulfillment of the plan will follow automatically upon its announcement .
+13
+#7 fashion NOUN fashion%1:09:00::
+#10 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#14 society NOUN society%1:14:00::,society%1:14:02::
+#17 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#18 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#19 plan NOUN plan%1:09:00::
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#24 year NOUN year%1:28:00::,year%1:28:01::
+#31 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#33 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#36 fulfillment NOUN fulfillment%1:04:00::
+#39 plan NOUN plan%1:09:00::
+#41 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+The civil services in such societies are generally inadequate to deal competently with the problems facing them ; and their members often equate a government career with security and status rather than with sacrifice , self-discipline , and competence .
+10
+#5 society NOUN society%1:14:00::,society%1:14:02::
+#7 generally ADV generally%4:02:02::
+#10 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+#15 face VERB face%2:32:00::,face%2:32:03::
+#20 member NOUN member%1:18:00::,member%1:24:00::
+#24 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#27 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#29 status NOUN status%1:26:00::,status%1:26:01::
+#38 competence NOUN competence%1:07:00::
+American policy should press constantly the view that until these governments demand efficiency and effectiveness of their bureaucracies there is not the slightest hope that they will either modernize of democratize their societies .
+8
+#1 policy NOUN policy%1:09:00::,policy%1:10:00::
+#3 press VERB press%2:32:00::,press%2:32:01::,press%2:41:12::,press%2:42:00::
+#6 view NOUN view%1:09:04::
+#10 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#20 not ADV not%4:02:00::
+#22 slight ADJ slight%5:00:00:insignificant:00
+#23 hope NOUN hope%1:09:00::,hope%1:18:00::
+#32 society NOUN society%1:14:00::,society%1:14:02::
+We should spread the view that planning and national development are serious matters which call for effort as well as enthusiasm .
+6
+#2 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#4 view NOUN view%1:09:04::
+#6 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#9 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#12 matter NOUN matter%1:09:00::,matter%1:09:01::
+#20 enthusiasm NOUN enthusiasm%1:07:00::
+Above all , we should seek to encourage the leaders of these societies to accept the unpleasant fact that they are responsible for their fates .
+4
+#9 leader NOUN leader%1:18:00::
+#12 society NOUN society%1:14:00::,society%1:14:02::
+#14 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#24 fate NOUN fate%1:18:00::
+Only within the framework of a mature relationship characterized by honest appraisals of performance can we provide telling assistance .
+4
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 mature ADJ mature%5:00:00:developed:00
+#13 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#16 provide VERB provide%2:34:00::,provide%2:40:00::
+With respect to those countries whose leaders prefer to live with their illusions , we can afford to wait , for in time their comparative lack of progress will become clear for all to see .
+10
+#4 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#6 leader NOUN leader%1:18:00::
+#7 prefer VERB prefer%2:31:00::
+#9 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#16 afford VERB afford%2:34:00::,afford%2:42:00::
+#18 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#24 comparative ADJ comparative%3:00:00::
+#29 become VERB become%2:30:00::,become%2:42:01::
+#30 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#34 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Our technical assistance to these countries should place special emphasis on inducing the central governments to assume the role of advisor and guide which at an earlier stage foreign experts assumed in dealing with the central governments .
+13
+#5 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#7 place VERB place%2:31:13::
+#11 induce VERB induced%3:00:00::
+#13 central ADJ central%5:00:00:important:00
+#14 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#16 assume VERB assume%2:40:00::,assume%2:40:01::
+#22 guide NOUN guide%1:18:02::
+#26 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#27 stage NOUN stage%1:04:00::,stage%1:26:00::
+#28 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#32 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#35 central ADJ central%5:00:00:important:00
+#36 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+We should encourage the governments to develop their own technical assistance to communities , state and provincial governments , rural communities , and other smaller groups , making certain that no important segment of the economy is neglected .
+13
+#4 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#6 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#8 own ADJ own%5:00:00:personal:00
+#9 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#12 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#16 provincial ADJ provincial%3:00:00::
+#17 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#20 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#23 other ADJ other%3:00:00::
+#27 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#28 certain ADJ certain%3:00:01::
+#32 segment NOUN segment%1:06:00::
+#35 economy NOUN economy%1:14:00::
+Simultaneously we should be underlining the interrelationships of technical progress in various fields , showing how agricultural training can be introduced into education , how health affects labor productivity , how small business can benefit the rural farm community , and , above all , how progress in each field relates to national progress .
+10
+#8 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#12 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#17 training NOUN training%1:04:00::
+#22 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#26 affect VERB affect%2:30:00::,affect%2:42:00::
+#27 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#32 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#38 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#49 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#50 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+Efforts such as the Community Development Program in the Philippines have demonstrated that transitional societies can work toward balanced national development .
+4
+#11 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+#14 society NOUN society%1:14:00::,society%1:14:02::
+#16 work VERB work%2:38:00::
+#20 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+To achieve this goal of balanced development , communications between the central government and the local communities must be such that the needs and aspirations of the people themselves are effectively taken into account .
+8
+#3 goal NOUN goal%1:09:00::,goal%1:15:00::
+#6 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#8 communication NOUN communication%1:03:00::,communication%1:10:01::
+#11 central ADJ central%5:00:00:important:00
+#12 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#16 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#24 aspiration NOUN aspiration%1:12:00::
+#27 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+If modernization programs are imposed from above , without the understanding and cooperation of the people , they will encounter grave difficulties .
+3
+#2 program NOUN program%1:09:00::,program%1:09:01::
+#4 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#15 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Land reform is likely to be a pressing issue in many of these countries .
+3
+#3 likely ADJ likely%3:00:00::
+#8 issue NOUN issue%1:09:00::,issue%1:09:00::;1:09:01::,issue%1:09:01::
+#13 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+It should be American policy not only to encourage effective land reform programs but also to underline the relation of such reforms to the economic growth and modernization of the society .
+7
+#4 policy NOUN policy%1:09:00::,policy%1:10:00::
+#9 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#12 program NOUN program%1:09:00::,program%1:09:01::
+#18 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#24 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#25 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#30 society NOUN society%1:14:00::,society%1:14:02::
+As an isolated policy , land reform is likely to be politically disruptive ; as part of a larger development effort , however , it may gain wide acceptance .
+7
+#3 policy NOUN policy%1:09:00::,policy%1:10:00::
+#8 likely ADJ likely%3:00:00::
+#15 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#19 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#22 however ADV however%4:02:04::
+#26 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#27 wide ADJ wide%5:00:00:large:00
+It should also be recognized that the problem of rural tenancy cannot be solved by administrative decrees alone .
+2
+#7 problem NOUN problem%1:09:00::,problem%1:26:00::
+#17 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+Land reform programs need to be supplemented with programs for promoting rural credits and technical assistance in agriculture .
+5
+#2 program NOUN program%1:09:00::,program%1:09:01::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#10 promote VERB promote%2:32:00::,promote%2:41:01::
+#12 credit NOUN credit%1:09:00::,credit%1:21:02::
+#14 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+Lastly , governmental and private planners will at this stage begin to see large capital requirements looming ahead .
+7
+#4 private ADJ private%5:00:00:personal:00
+#5 planner NOUN planner%1:18:00::
+#9 stage NOUN stage%1:04:00::,stage%1:26:00::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#12 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#13 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 capital NOUN capital%1:21:00::,capital%1:21:01::
+By holding out prospects for external capital assistance , the United States can provide strong incentives to prepare for the concerted economic drive necessary to achieve self-sustaining growth .
+10
+#3 prospect NOUN prospect%1:26:00::
+#5 external ADJ external%5:00:00:extrinsic:00
+#6 capital NOUN capital%1:21:00::,capital%1:21:01::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+#14 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#20 concerted ADJ concerted%5:00:00:joint:00
+#21 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#22 drive NOUN drive%1:04:02::
+#23 necessary ADJ necessary%3:00:00::
+#27 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+At a third stage in the modernization process are such countries as India , Brazil , the Philippines , and Taiwan , which are ready and committed to move into the stage of self-sustaining growth .
+8
+#3 stage NOUN stage%1:04:00::,stage%1:26:00::
+#7 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#10 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#14 Brazil NOUN brazil%1:15:00::
+#24 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#26 commit VERB commit%2:32:01::
+#31 stage NOUN stage%1:04:00::,stage%1:26:00::
+#34 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+They must continue to satisfy basic capital needs ; and there persists the dual problem of maintaining operational unity around a national program of modernization while simultaneously decentralizing participation in the program to wider and wider groups .
+11
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#5 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#6 capital NOUN capital%1:21:00::,capital%1:21:01::
+#13 dual ADJ dual%5:00:00:multiple:00
+#14 problem NOUN problem%1:09:00::,problem%1:26:00::
+#16 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#18 unity NOUN unity%1:07:00::,unity%1:26:00::
+#22 program NOUN program%1:09:00::,program%1:09:01::
+#31 program NOUN program%1:09:00::,program%1:09:01::
+#33 wide ADJ wide%5:00:00:large:00
+#35 wide ADJ wide%5:00:00:large:00
+But these countries have made big strides toward developing the necessary human and social overhead capital ; they have established reasonably stable and effective governmental institutions at national and local levels ; and they have begun to develop a capacity to deal realistically and simultaneously with all the major sectors of their economies .
+19
+#2 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#6 stride NOUN stride%1:23:00::
+#8 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#10 necessary ADJ necessary%3:00:00::
+#13 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#14 overhead NOUN overhead%1:21:00::
+#15 capital NOUN capital%1:21:00::,capital%1:21:01::
+#19 establish VERB establish%2:36:01::,establish%2:41:00::
+#23 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#25 institution NOUN institution%1:14:00::
+#30 level NOUN level%1:26:00::,level%1:26:01::
+#35 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#37 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#39 capacity NOUN capacity%1:07:00::
+#41 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#49 sector NOUN sector%1:15:00::
+#52 economy NOUN economy%1:14:00::
+On the economic front , the first priority of these countries is to mobilize a vastly increased volume of resources .
+7
+#2 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#3 front NOUN front%1:06:00::,front%1:14:00::,front%1:15:00::,front%1:19:00::,front%1:26:00::
+#6 first ADJ first%5:00:00:best:00
+#10 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#13 mobilize VERB mobilise%2:30:02::
+#17 volume NOUN volume%1:07:03::,volume%1:23:00::
+#19 resource NOUN resource%1:07:00::,resource%1:21:00::
+Several related tasks must be carried out if self-sustaining growth is to be achieved .
+1
+#9 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+These countries must formulate a comprehensive , long-term program covering the objectives of both the private and the public sectors of the economy .
+9
+#1 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#5 comprehensive ADJ comprehensive%3:00:00::
+#8 program NOUN program%1:09:00::,program%1:09:01::
+#9 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#11 objective NOUN objective%1:09:00::
+#15 private ADJ private%5:00:00:personal:00
+#18 public ADJ public%3:00:00::,public%5:00:00:common:02
+#19 sector NOUN sector%1:15:00::
+#22 economy NOUN economy%1:14:00::
+They must in their planning be able to count on at least tentative commitments of foreign capital assistance over periods of several years .
+7
+#4 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#6 able ADJ able%3:00:00::
+#13 commitment NOUN commitment%1:04:00::
+#15 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#16 capital NOUN capital%1:21:00::,capital%1:21:01::
+#19 period NOUN period%1:28:00::,period%1:28:03::
+#22 year NOUN year%1:28:00::,year%1:28:01::
+Capital imports drawn from a number of sources must be employed and combined skillfully enough to permit domestic investment programming to go forward .
+9
+#0 capital NOUN capital%1:21:00::,capital%1:21:01::
+#1 import NOUN import%1:06:00::
+#2 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#5 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#10 employ VERB employ%2:34:00::
+#12 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#14 enough ADV enough%4:02:00::
+#17 domestic ADJ domestic%3:00:00::
+#18 investment NOUN investment%1:21:00::
+Capital flows must be coordinated with national needs and planning .
+4
+#0 capital NOUN capital%1:21:00::,capital%1:21:01::
+#1 flow NOUN flow%1:14:00::,flow%1:22:00::
+#4 coordinate VERB coordinate%2:30:01::
+#9 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+Finally , a balance must be effected among project finance , utilization of agricultural surpluses , and general balance of payments support .
+4
+#3 balance NOUN balance%1:07:00::,balance%1:26:00::
+#8 project NOUN project%1:04:00::,project%1:09:00::
+#17 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#21 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+Thus , although the agenda of external assistance in the economic sphere are cumulative , and many of the policies suggested for nations in the earlier stages remain relevant , the basic purpose of American economic policy during the later stages of development should be to assure that movement into a stage of self-sustaining growth is not prevented by lack of foreign exchange .
+17
+#0 thus ADV thus%4:02:00::
+#4 agenda NOUN agenda%1:09:00::
+#6 external ADJ external%5:00:00:extrinsic:00
+#10 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#11 sphere NOUN sphere%1:09:00::
+#19 policy NOUN policy%1:09:00::,policy%1:10:00::
+#25 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#26 stage NOUN stage%1:04:00::,stage%1:26:00::
+#31 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#40 stage NOUN stage%1:04:00::,stage%1:26:00::
+#42 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#46 assure VERB assure%2:31:00::,assure%2:32:03::
+#48 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#51 stage NOUN stage%1:04:00::,stage%1:26:00::
+#54 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#56 not ADV not%4:02:00::
+#57 prevent VERB prevent%2:41:00::
+There remain many political and administrative problems to be solved .
+1
+#6 problem NOUN problem%1:09:00::,problem%1:26:00::
+For one thing , although considerable numbers of men have been trained , bureaucracies are still deficient in many respects ; even the famed Indian Civil Service is not fully adequate to the tremendous range of tasks it has undertaken .
+8
+#6 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#15 still ADV still%4:02:00::
+#19 respect NOUN respect%1:09:00::
+#28 not ADV not%4:02:00::
+#29 fully ADV fully%4:02:04::
+#34 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+Technical assistance in training middle - and upper-level management personnel is still needed in many cases .
+4
+#0 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#3 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#11 still ADV still%4:02:00::
+#15 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+There are also more basic problems .
+3
+#3 more ADV more%4:02:00::
+#4 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+This is the stage at which democratic developments must take place if the society is to become an open community of creative people .
+8
+#3 stage NOUN stage%1:04:00::,stage%1:26:00::
+#6 democratic ADJ democratic%3:00:00::
+#7 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#13 society NOUN society%1:14:00::,society%1:14:02::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#18 open ADJ open%3:00:07::,open%5:00:00:ingenuous:00,open%5:00:00:public:00
+#19 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#22 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Nevertheless , impulses still exist among the ruling elite to rationalize and thus to perpetuate the need for centralized and authoritarian practices .
+7
+#3 still ADV still%4:02:00::
+#4 exist VERB exist%2:42:00::
+#8 elite NOUN elite%1:14:00::
+#10 rationalize VERB rationalise%2:32:00::
+#12 thus ADV thus%4:02:00::
+#16 need NOUN need%1:26:00::
+#21 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+Another great danger is that the emerging middle class will feel itself increasingly alienated from the political leaders who still justify their dominance by reference to the struggle for independence or the early phase of nationalism .
+7
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#13 alienate VERB alienate%2:37:01::
+#19 still ADV still%4:02:00::
+#20 justify VERB justify%2:32:00::,justify%2:32:01::
+#24 reference NOUN reference%1:10:02::,reference%1:10:03::,reference%1:10:07::
+#32 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#33 phase NOUN phase%1:07:00::,phase%1:28:00::
+The capacity of intellectuals and members of the new professional classes to contribute creatively to national development is likely to be destroyed by a constraining sense of inferiority toward both their own political class and their colleagues and professional counterparts in the West .
+11
+#1 capacity NOUN capacity%1:07:00::
+#5 member NOUN member%1:18:00::,member%1:24:00::
+#8 new ADJ new%3:00:00::
+#9 professional ADJ professional%3:01:01::
+#16 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#18 likely ADJ likely%3:00:00::
+#25 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#31 own ADJ own%5:00:00:personal:00
+#38 professional ADJ professional%3:01:01::
+#39 counterpart NOUN counterpart%1:09:00::
+#42 west NOUN west%1:15:00::,west%1:15:01::
+Particularly when based upon a single dominant party , governments may respond to such a situation by claiming a monopoly of understanding about the national interest .
+7
+#0 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#2 base VERB base%2:31:00::
+#5 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#7 party NOUN party%1:14:02::
+#9 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#15 situation NOUN situation%1:26:01::
+#19 monopoly NOUN monopoly%1:26:02::
+Convinced of the wisdom of their own actions , and reassured by the promises of their economic development programs , governments may fail to push outward to win more and more people to the national effort , becoming instead rigid and inflexible in their policies .
+14
+#6 own ADJ own%5:00:00:personal:00
+#7 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#16 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#17 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#18 program NOUN program%1:09:00::,program%1:09:01::
+#20 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#22 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#25 outward ADJ outward%5:00:00:outgoing:00
+#27 win VERB win%2:33:00::,win%2:40:00::,win%2:41:04::
+#31 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#37 become VERB become%2:30:00::,become%2:42:01::
+#39 rigid ADJ rigid%5:00:00:unadaptable:00
+#41 inflexible ADJ inflexible%5:00:00:unadaptable:00
+#44 policy NOUN policy%1:09:00::,policy%1:10:00::
+American policy toward such societies should stress our sympathy for the emerging social and professional classes .
+6
+#1 policy NOUN policy%1:09:00::,policy%1:10:00::
+#4 society NOUN society%1:14:00::,society%1:14:02::
+#6 stress VERB stress%2:32:00::,stress%2:32:01::
+#8 sympathy NOUN sympathy%1:09:00::,sympathy%1:24:00::
+#12 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#14 professional ADJ professional%3:01:01::
+It should attempt to communicate both an appreciation of professional standards and an understanding of the tremendous powers and potentialities of genuinely open and pluralistic societies .
+6
+#4 communicate VERB communicate%2:32:02::
+#7 appreciation NOUN appreciation%1:04:01::
+#10 standard NOUN standard%1:10:00::
+#17 power NOUN power%1:18:00::
+#22 open ADJ open%3:00:07::,open%5:00:00:ingenuous:00,open%5:00:00:public:00
+#25 society NOUN society%1:14:00::,society%1:14:02::
+We have every obligation to take seriously their claims to being democratic and free countries ; we also have , in consequence , the duty to appraise realistically and honestly their performance and to communicate our judgments to their leaders in frank but friendly ways .
+13
+#5 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#8 claim NOUN claim%1:10:02::
+#11 democratic ADJ democratic%3:00:00::
+#13 free ADJ free%3:00:00::,free%3:00:01::,free%5:00:00:unpaid:00
+#14 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#21 consequence NOUN consequence%1:19:00::
+#24 duty NOUN duty%1:04:00::,duty%1:04:02::
+#29 honestly ADV honestly%4:02:01::
+#31 performance NOUN performance%1:04:00::,performance%1:04:03::,performance%1:22:00::
+#34 communicate VERB communicate%2:32:02::
+#36 judgment NOUN judgment%1:04:00::,judgment%1:09:01::,judgment%1:09:04::
+#39 leader NOUN leader%1:18:00::
+#44 way NOUN way%1:04:00::,way%1:09:00::
+We have emphasized that the modernizing process in each society will take a considerable period of time .
+3
+#6 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#9 society NOUN society%1:14:00::,society%1:14:02::
+#11 take VERB take%2:40:06::,take%2:42:03::
+With the exception of treaty making , foreign relations were historically concerned for the most part with conditions of short or at least measurable duration .
+6
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#7 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#8 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#11 concern VERB concern%2:42:00::,concern%2:42:01::
+#17 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#19 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+Foreign policy now takes on a different perspective and must become skilled not merely at response but also at projection .
+6
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#6 different ADJ different%3:00:00::,different%5:00:00:other:00
+#7 perspective NOUN perspective%1:09:00::
+#10 become VERB become%2:30:00::,become%2:42:01::
+#12 not ADV not%4:02:00::
+#19 projection NOUN projection%1:09:01::
+American and free-world policies can marginally affect the pace of transition ; but basically that pace depends on changes in the supply of resources and in the human attitudes , political institutions , and social structure which each society must generate .
+8
+#3 policy NOUN policy%1:09:00::,policy%1:10:00::
+#6 affect VERB affect%2:30:00::,affect%2:42:00::
+#8 pace NOUN pace%1:28:00::
+#15 pace NOUN pace%1:28:00::
+#18 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#23 resource NOUN resource%1:07:00::,resource%1:21:00::
+#31 institution NOUN institution%1:14:00::
+#38 society NOUN society%1:14:00::,society%1:14:02::
+It follows that any effective policy toward the underdeveloped countries must have a realistically long working horizon .
+6
+#1 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#4 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+#5 policy NOUN policy%1:09:00::,policy%1:10:00::
+#9 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#15 working ADJ working%5:00:00:employed:00
+#16 horizon NOUN horizon%1:07:00::
+It must be marked by a patience and persistence which have not always been its trademark .
+4
+#3 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#6 patience NOUN patience%1:07:00::
+#11 not ADV not%4:02:00::
+#12 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+This condition affects not only the conception but also the legislative and financial support of foreign policy , especially in the context of economic aid .
+5
+#2 affect VERB affect%2:30:00::,affect%2:42:00::
+#6 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#13 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#18 especially ADV especially%4:02:00::
+#23 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00

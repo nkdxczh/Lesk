@@ -1,0 +1,732 @@
+ " Dammit , Phil , are you trying to wreck my career ?
+1
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Griffith had confronted Hoag on the building 's front steps - Hoag had been permitted no further - and backed him against a wrought-iron railing .
+4
+#6 building NOUN building%1:06:00::
+#8 front ADJ front%3:00:00::
+#9 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#24 rail NOUN rail%1:06:02::
+His rage had built up as he made his way here from the second floor , helped by the quantity of champagne he had consumed .
+5
+#10 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#13 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#14 floor NOUN floor%1:06:01::
+#16 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#19 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+Hoag said , " I did n't send for you , Leigh .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+I want the captain in charge .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+" Phil , for God 's sake , go away .
+1
+#4 God NOUN god%1:18:00::
+I told you there 's nothing between Midge and me , nothing .
+1
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It 's all in your mind " .
+1
+#5 mind NOUN mind%1:09:00::,mind%1:09:04::
+A couple of sobs escaped him , followed by a sentiment that revealed his emotional state .
+3
+#4 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#7 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#10 sentiment NOUN sentiment%1:09:00::
+" Why , I 'm not fit to touch the hem of her garment " .
+4
+#5 not ADV not%4:02:00::
+#6 fit ADJ fit%3:00:02::
+#8 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#10 hem NOUN hem%1:06:00::
+It 's not about you or Midge .
+1
+#2 not ADV not%4:02:00::
+I have some security information about the prime minister " .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#4 information NOUN information%1:09:00::,information%1:10:02::
+Griffith looked at him suspiciously through red-rimmed eyes .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 eye NOUN eye%1:08:00::,eye%1:09:01::
+You mean it , Phil ?
+1
+#1 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+I did get you on the platform this morning " .
+1
+#8 morning NOUN morning%1:28:00::,morning%1:28:01::
+" I 'm not pulling your leg .
+1
+#3 not ADV not%4:02:00::
+Will you call that captain " ?
+1
+#2 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+" No use , he won n't come " .
+1
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He peered closely at Hoag in the gathering darkness .
+2
+#1 peer VERB peer%2:39:00::
+#8 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+" What happened to your head " ?
+2
+#2 happen VERB happen%2:30:02::,happen%2:41:00::
+#5 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" I was hit - knocked out .
+1
+#3 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+Now will you get him " ?
+1
+#3 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+" He says I 'm to take the message " .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 message NOUN message%1:10:00::,message%1:10:01::
+" Who 'd hit you in the head " ?
+2
+#3 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#7 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" It does n't matter .
+1
+#4 matter VERB matter%2:42:00::
+You get back to the captain and tell him this : Somebody 's going to take a shot at the prime minister , and Mahzeer is in on the plot .
+4
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 take VERB take%2:31:02::,take%2:34:00::
+#17 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#29 plot NOUN plot%1:09:00::
+Tell him under no circumstances to trust the prime minister with Mahzeer " .
+2
+#4 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#6 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+Griffith said , " That 's impossible .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Nevertheless it 's true " .
+1
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+Griffith was trying to clear his head of the champagne fuzz that encased it .
+2
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" I 'll show you how wrong you are .
+2
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#6 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+Mahzeer and the prime minister are alone right now " .
+3
+#6 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#7 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+He nodded triumphantly .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" So that proves it " !
+1
+#3 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+Hoag looked terrified .
+1
+#1 look VERB look%2:39:01::,look%2:42:02::
+" Where 'd you expect , the john ?
+1
+#7 john NOUN john%1:06:00::
+Mahzeer 's office " .
+1
+#2 office NOUN office%1:06:00::
+" Facing us , two flights up .
+3
+#1 face VERB face%2:38:00::,face%2:42:00::
+#5 flight NOUN flight%1:06:00::
+#6 up ADV up%4:02:00::,up%4:02:02::
+They won n't even let you in the front door .
+1
+#4 let VERB let%2:30:01::,let%2:41:00::
+So why do n't you be a good boy and " -
+1
+#7 good ADJ good%3:00:01::,good%5:00:01:sound:00
+Hoag grabbed him by the shoulders .
+2
+#1 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#5 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+If you want to spend another day in the State Department - another day - you get in there and tell that captain what I told you " .
+5
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#25 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He bit out the words .
+1
+#4 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+" And you know I can do it " .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Griffith raised placating hands .
+2
+#1 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+I was just going .
+1
+#3 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+I 'm on my way " .
+1
+#4 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+He turned and fled into the house and made his way up the marble stairs without once looking back .
+5
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#6 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#11 up ADV up%4:02:00::,up%4:02:02::
+#13 marble NOUN marble%1:06:01::
+#16 once ADV once%4:02:00::
+On the second landing he paused to look for Docherty , did n't see him , and accepted a glass of champagne .
+5
+#2 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#3 landing NOUN landing%1:06:01::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#17 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#19 glass NOUN glass%1:23:00::
+He took several large swallows , recollected that Docherty had gone up another flight , and decided he would be wise to cover himself by finding him .
+6
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#3 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 swallow NOUN swallow%1:04:00::
+#13 flight NOUN flight%1:06:00::
+#22 cover VERB cover%2:32:00::,cover%2:41:01::
+#25 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+The way Hoag was , no telling what he might say or do .
+2
+#1 way NOUN way%1:04:00::,way%1:09:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He finished his champagne and climbed uncertainly to the next landing .
+4
+#1 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#5 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#9 next ADJ next%5:00:00:close:01
+#10 landing NOUN landing%1:06:01::
+At the top a uniformed officer blocked further progress .
+5
+#2 top NOUN top%1:15:00::,top%1:15:01::
+#4 uniform ADJ uniform%3:00:00::
+#5 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#6 block VERB block%2:33:00::
+#7 further ADJ further%5:00:00:far:00
+he asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" I want Captain Docherty " .
+1
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+He spotted Docherty coming out of a room at the far end of the corridor and called to him .
+4
+#1 spot VERB spot%2:39:00::,spot%2:39:02::
+#7 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#11 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#16 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Docherty said , " It 's okay , Bonfiglio , let him by " .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 OK ADJ okay%5:00:00:satisfactory:00
+#10 let VERB let%2:30:01::,let%2:41:00::
+They walked toward each other .
+1
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Griffith said , " Hoag told me to tell you " - he waited until they were close ; it was hideously embarrassing - " not to let the prime minister be alone with Mahzeer " .
+7
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#13 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#17 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#27 let VERB let%2:30:01::,let%2:41:00::
+#32 alone ADJ alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+Griffith looked half crocked to the captain ; it would be just like him .
+1
+#11 just ADV just%4:02:05::
+" He claims Mahzeer 's in a plot to kill the P.M . " .
+2
+#7 plot NOUN plot%1:09:00::
+#9 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Docherty went taut : was it possible ?
+2
+#1 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+#2 taut ADJ taut%5:00:00:tense:03
+Could the ambassador himself be the man on this side the prime minister feared ?
+2
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+Not possible , he thought ; the prime minister knew who his enemy was here ; he was n't going to allow himself to be led meekly to the slaughter .
+4
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#25 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+And if by some wild chance Mahzeer was the man , he would n't dare try anything now - not after Docherty had looked in on the two of them to see that all was well .
+7
+#4 wild ADJ wild%3:00:02::,wild%5:00:00:enthusiastic:00,wild%5:00:00:insane:00,wild%5:00:00:passionate:00,wild%5:00:00:stormy:00,wild%5:00:00:unsupported:02,wild%5:00:01:uncontrolled:00
+#5 chance NOUN chance%1:07:00::,chance%1:26:00::
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 dare VERB dare%2:41:01::
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#17 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#35 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+Docherty was damned if he would make a fool of himself again the way he had earlier over the laundry truck .
+5
+#2 damned ADJ damned%5:00:00:cursed:00
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#8 fool NOUN fool%1:18:00::,fool%1:18:01::,fool%1:18:01::;1:18:00::,fool%1:18:02::
+#13 way NOUN way%1:04:00::,way%1:09:00::
+#16 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+One more muddleheaded play like that one and they 'd be leading him away .
+2
+#11 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#13 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Still , this had to be checked out .
+1
+#0 still ADV still%4:02:04::
+" Where 'd your friend Hoag get his information " ?
+1
+#4 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+he asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Have n't the faintest , Captain " .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 faint ADJ faint%5:00:00:perceptible:00
+" Would you mind sending him up here ?
+1
+#4 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Troubled , he continued along the corridor , poking his head into the next office for a careful look around .
+6
+#8 poke VERB poke%2:35:01::
+#10 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#13 next ADJ next%5:00:00:close:01
+#14 office NOUN office%1:06:00::
+#18 look NOUN look%1:04:00::,look%1:07:01::
+#19 around ADV around%4:02:06::,around%4:02:07::
+But Hoag had not stayed on the front steps when Griffith disappeared into the building .
+5
+#3 not ADV not%4:02:00::
+#7 front ADJ front%3:00:00::
+#8 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#11 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#14 building NOUN building%1:06:00::
+He was unwilling to rely on Griffith 's carrying his message , and he had no confidence the police would act on it .
+2
+#8 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#10 message NOUN message%1:10:00::,message%1:10:01::
+If Mahzeer was alone with the prime minister he could be arranging his execution while Hoag stood out here shivering in the darkening street .
+7
+#3 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#11 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#13 execution NOUN execution%1:04:00::
+#16 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#17 out ADV out%4:02:04::
+#18 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#19 shiver VERB shiver%2:29:00::
+The door opened and three men and a woman in a sari swept past him and down the stairs .
+3
+#2 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+In the lighted interior he saw other men and women struggling into their wraps .
+5
+#3 interior NOUN interior%1:15:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#6 other ADJ other%3:00:00::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 wrap NOUN wrap%1:06:00::
+These were the early departures ; in half an hour the reception would be over .
+2
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#11 reception NOUN reception%1:14:00::
+If Mahzeer was planning to set up the prime minister for Muller he would have to do it in the next few minutes .
+3
+#3 plan VERB plan%2:31:00::,plan%2:31:01::
+#20 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#22 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+Hoag descended the stone steps to the street and looked up at the building .
+6
+#1 descend VERB descend%2:38:00::
+#3 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#4 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#9 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#10 up ADV up%4:02:00::,up%4:02:02::
+#13 building NOUN building%1:06:00::
+Wide windows with many small leaded panes swept across the upper stories .
+5
+#0 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#1 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#7 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#10 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#11 story NOUN story%1:06:00::
+On the second floor he saw the animated faces of the party guests ; the scene looked like a Christmas card .
+6
+#3 floor NOUN floor%1:06:01::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 animated ADJ animated%3:00:00::
+#8 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#11 party NOUN party%1:14:00::
+#15 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+On the third floor one of the two windows was lighted ; it was framed in maroon drapes , and no faces were visible .
+5
+#3 floor NOUN floor%1:06:01::
+#8 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#17 drape NOUN drape%1:06:01::
+#21 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#23 visible ADJ visible%3:00:00::
+This would be Mahzeer 's office .
+1
+#5 office NOUN office%1:06:00::
+He and the prime minister would be back from the window , seated at Mahzeer 's desk ; they would be going over papers Mahzeer had saved as excuse for just such a meeting .
+7
+#7 back ADV back%4:02:05::
+#10 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#23 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#26 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+#28 excuse NOUN excuse%1:10:00::
+#30 just ADV just%4:02:05::
+#33 meeting NOUN meeting%1:14:00::,meeting%1:14:01::
+In a minute , or five minutes , the business would be done ; Mahzeer would stand up , the prime minister would follow .
+3
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#6 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#9 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+Mahzeer would direct the prime minister 's attention to something out the window and would guide him forward and then step to one side .
+8
+#2 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+#7 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#10 out ADV out%4:02:04::
+#12 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#15 guide VERB guide%2:38:00::,guide%2:38:01::
+#17 forward ADV forward%4:02:00::,forward%4:02:04::
+#20 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#23 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+The single shot would come ; Hoag would carry its sound to his grave .
+5
+#1 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#8 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#10 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#13 grave NOUN grave%1:06:00::
+How was he to suspect that an assassin had been lurking somewhere across the street waiting for just such a chance ?
+2
+#4 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#15 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Hoag turned .
+1
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+Where was Muller waiting with the rifle ?
+1
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Narrow four story buildings ran the length of the block like books tightly packed on a shelf .
+8
+#0 narrow ADJ narrow%3:00:00::
+#2 story NOUN story%1:06:00::
+#3 building NOUN building%1:06:00::
+#4 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#6 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#9 block NOUN block%1:15:00::
+#11 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#13 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+Most of them could be eliminated ; Muller 's would have to be one of the half dozen almost directly opposite .
+1
+#19 directly ADV directly%4:02:05::
+The legation was generously set back from the building line ; if the angle of fire were too great the jutting buildings on either side would interfere .
+9
+#1 legation NOUN legation%1:14:00::
+#4 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#5 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#13 angle NOUN angle%1:25:00::
+#15 fire NOUN fire%1:04:00::,fire%1:10:00::
+#18 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#21 building NOUN building%1:06:00::
+#24 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#26 interfere VERB interfere%2:41:00::
+Would the shot come from a roof ?
+2
+#2 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+He ran his eye along the roof copings ; almost at once a figure bulked up .
+3
+#1 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#13 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+But dully glinting on the dark form were the buttons and badge of a policeman .
+1
+#6 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+With a cop patrolling the road Muller would have to be inside a building - if he was here at all , and not waiting for the prime minister somewhere between this street and the terminal building at La Guardia Airport .
+8
+#2 cop NOUN cop%1:18:00::
+#5 road NOUN road%1:04:00::,road%1:06:00::
+#13 building NOUN building%1:06:00::
+#18 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#23 not ADV not%4:02:00::
+#24 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#35 terminal NOUN terminal%1:06:00::
+#36 building NOUN building%1:06:00::
+Hoag crossed the narrow street , squeezing between parked cars to reach the sidewalk .
+4
+#1 cross VERB cross%2:38:00::
+#3 narrow ADJ narrow%3:00:00::
+#6 squeeze VERB squeeze%2:35:01::,squeeze%2:35:03::,squeeze%2:35:05::,squeeze%2:41:01::
+#11 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+From this side he could see farther into the legation 's third story window , but he saw no faces ; the room 's occupants were still seated or they had been called into the hallway by an alarmed police captain .
+9
+#2 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 story NOUN story%1:06:00::
+#13 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#22 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#26 still ADV still%4:02:00::
+#32 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+If only the latter were true .
+2
+#3 latter ADJ latter%3:00:00::
+#5 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+He walked rapidly along the buildings scanning their facades : one was a club - that was out ; two others he ruled out because all their windows were lighted .
+5
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#5 building NOUN building%1:06:00::
+#6 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#17 out ADJ out%5:00:00:impossible:00
+#27 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+That left three , possibly four , one looking much like the next .
+3
+#1 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#4 possibly ADV possibly%4:02:00::
+#8 look VERB look%2:39:01::,look%2:42:02::
+He climbed the steps of the first and opened the door to the vestibule .
+5
+#1 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#3 step NOUN step%1:06:00::,step%1:06:01::,step%1:23:00::
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#8 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#13 vestibule NOUN vestibule%1:06:00::
+He quickly closed it again .
+1
+#2 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+He had assumed that all these buildings had been divided into apartments , but this one , from a glance at the hall furnishings , was obviously still a functioning town house , and its owners were in residence ; that made it doubtful as the hiding place of a man whose plans had to be made in advance .
+12
+#2 assume VERB assume%2:31:00::
+#6 building NOUN building%1:06:00::
+#9 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#19 glance NOUN glance%1:04:00::
+#22 hall NOUN hall%1:06:03::,hall%1:06:05::
+#23 furnishing NOUN furnishing%1:06:00::
+#27 still ADV still%4:02:00::
+#41 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#43 doubtful ADJ doubtful%5:00:00:unsettled:02
+#50 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#52 plan NOUN plan%1:09:01::
+#56 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He went on to the next building and found what he expected - the mingled cooking aromas of a public vestibule .
+5
+#5 next ADJ next%5:00:00:close:01
+#6 building NOUN building%1:06:00::
+#15 cooking NOUN cooking%1:04:00::
+#19 public ADJ public%3:00:00::,public%5:00:00:common:02
+#20 vestibule NOUN vestibule%1:06:00::
+On one wall was the brass front of a row of mailboxes ; there were six apartments .
+2
+#6 front NOUN front%1:06:00::,front%1:15:00::,front%1:15:02::
+#9 row NOUN row%1:14:00::
+The names on the mailboxes meant nothing to him .
+2
+#1 name NOUN name%1:14:00::
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+This was senseless - he had no idea what to look for .
+2
+#2 senseless ADJ senseless%5:00:00:unreasonable:00
+#7 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+He peered in the boxes themselves ; all were empty except one , and that one was jammed with letters and magazines .
+4
+#1 peer VERB peer%2:39:00::
+#9 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#19 letter NOUN letter%1:10:00::
+#21 magazine NOUN magazine%1:10:00::
+The occupants of Apartment Number 3 were probably away for a few days , and not likely to return on a Friday .
+5
+#4 number NOUN number%1:10:01::,number%1:23:00::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#15 not ADV not%4:02:00::
+#16 likely ADJ likely%3:00:00::
+#18 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Had Muller made the same deduction ?
+3
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#4 same ADJ same%3:00:00::,same%3:00:02::
+#5 deduction NOUN deduction%1:09:00::
+Muller was attracted to the lore of mailboxes .
+1
+#5 lore NOUN lore%1:09:00::
+He opened the inner door ; the cooking odors were stronger - all over the city , at this hour , housewives would be fussing over stoves .
+8
+#1 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#3 inner ADJ inner%3:00:00::,inner%5:00:00:exclusive:00
+#7 cooking NOUN cooking%1:04:00::
+#8 odor NOUN odor%1:07:00::
+#10 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+#15 city NOUN city%1:15:00::,city%1:15:01::
+#19 hour NOUN hour%1:28:01::,hour%1:28:02::
+#21 housewife NOUN housewife%1:18:00::
+He climbed , as quickly as he could urge his body , up the two unbroken flights to the third floor , pulling himself along on a delicate balustrade , all that remained of the building 's beauty .
+7
+#1 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#10 body NOUN body%1:08:00::,body%1:08:02::
+#16 flight NOUN flight%1:06:00::
+#20 floor NOUN floor%1:06:01::
+#22 pull VERB pull%2:35:00::,pull%2:38:01::,pull%2:38:02::
+#35 building NOUN building%1:06:00::
+#37 beauty NOUN beauty%1:07:00::
+He paused on the landing to steady his breathing and then bent to examine the single door by the light of the weak bulb overhead .
+10
+#4 landing NOUN landing%1:06:01::
+#6 steady VERB steady%2:35:00::
+#8 breathing NOUN breathing%1:04:00::
+#11 bend VERB bend%2:35:08::,bend%2:38:02::
+#13 examine VERB examine%2:31:00::,examine%2:32:01::
+#15 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#19 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#22 weak ADJ weak%5:00:00:diluted:00
+#23 bulb NOUN bulb%1:06:00::
+#24 overhead ADJ overhead%3:00:00::
+Now he was certain : the lock had not yielded to Muller 's collection of keys ; fresh scars showed that the door had been prized open .
+8
+#3 certain ADJ certain%3:00:01::
+#6 lock NOUN lock%1:06:01::
+#8 not ADV not%4:02:00::
+#9 yield VERB yield%2:30:00::,yield%2:33:00::,yield%2:38:00::,yield%2:40:01::,yield%2:42:00::
+#13 collection NOUN collection%1:14:00::
+#15 key NOUN key%1:06:00::,key%1:06:02::,key%1:10:01::,key%1:10:02::
+#18 scar NOUN scar%1:26:00::
+#26 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+It had been shut again , but the lock was broken ; he noted with a thrill of fear that the door moved under his touch .
+5
+#8 lock NOUN lock%1:06:01::
+#10 broken ADJ broken%5:00:00:incomplete:00
+#13 note VERB note%2:32:00::,note%2:39:00::
+#22 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#25 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+What was he to do now ?
+1
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+He had thought no further than finding Muller .
+3
+#2 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#4 further ADV further%4:02:02::,further%4:02:03::
+#6 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+He realized now he had more than half hoped he would n't find him - that Muller would not be here , that the attempt would be scheduled for somewhere beyond Hoag 's control .
+6
+#1 realize VERB realize%2:31:01::
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#18 not ADV not%4:02:00::
+#20 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#33 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+He could not break in on an armed man .
+3
+#2 not ADV not%4:02:00::
+#7 armed ADJ armed%3:00:03::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He would have to climb back down to the street and signal a cop .
+1
+#13 cop NOUN cop%1:18:00::
+Was there time ?
+1
+#2 time NOUN time%1:28:01::,time%1:28:05::
+His thoughts were scattered by the sharp report of a rifle from the other side of the door .
+4
+#1 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#6 sharp ADJ sharp%3:00:00::,sharp%3:00:04::,sharp%5:00:00:high:03,sharp%5:00:00:unpleasant:00
+#7 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#13 other ADJ other%3:00:00::
+Hoag pushed open the door : at the far end of the long dark room Muller was faintly silhouetted against the window , the rifle still raised ; he stood with his feet apart on a kitchen table he had dragged to the sill .
+10
+#1 push VERB push%2:32:01::,push%2:38:00::
+#2 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#9 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#12 long ADJ long%3:00:01::
+#13 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#14 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#21 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#25 still ADV still%4:02:00::
+#26 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#40 drag VERB drag%2:32:00::,drag%2:35:00::,drag%2:35:01::,drag%2:35:02::,drag%2:38:06::,drag%2:38:10::
+He turned his head to the source of the disturbance and instantly back to the window and his rifle sight , dismissing Hoag for the moment with the same contempt he had shown in their encounter at Hoag 's apartment .
+8
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 instantly ADV instantly%4:02:00::
+#12 back ADV back%4:02:01::,back%4:02:04::
+#15 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#19 sight NOUN sight%1:06:00::
+#28 same ADJ same%3:00:00::,same%3:00:02::
+#32 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+Hoag stretched his left hand to the wall and fumbled for the switch : evil flourishes in the dark .
+4
+#1 stretch VERB stretch%2:29:01::,stretch%2:29:02::
+#12 switch NOUN switch%1:06:01::
+#15 flourish VERB flourish%2:30:01::
+#18 dark NOUN dark%1:26:00::,dark%1:28:00::
+The room was bathed in light at the instant Muller 's second shot came .
+6
+#1 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#3 bathe VERB bathe%2:35:00::
+#5 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#8 instant NOUN instant%1:28:00::
+#12 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Muller , nakedly exposed at the bright window like a deer pinned in a car 's headlights , threw down the rifle and turned to jump from the table ; his face wore a look of outrage .
+10
+#6 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#7 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#18 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#19 down ADV down%4:02:00::,down%4:02:02::
+#23 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#25 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+#28 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#31 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#32 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#34 look NOUN look%1:04:00::,look%1:07:01::
+A shot caught him and straightened him up in screaming pain ; a following volley of shots shattered glass , ripped the ceiling , and sent him lurching heavily from the table .
+12
+#2 catch VERB catch%2:35:13::
+#10 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#13 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#14 volley NOUN volley%1:04:00::
+#16 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#17 shatter VERB shatter%2:30:01::
+#18 glass NOUN glass%1:27:00::
+#20 rip VERB rip%2:35:00::
+#22 ceiling NOUN ceiling%1:06:00::
+#25 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#28 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+#31 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+He was dead before his body made contact with the floor .
+4
+#2 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#5 body NOUN body%1:08:00::,body%1:08:02::
+#7 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#10 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+Hoag stumbled back into the hall , leaned against the wall , and started to retch .
+2
+#2 back ADV back%4:02:01::,back%4:02:04::
+#5 hall NOUN hall%1:06:03::,hall%1:06:05::
+After Captain Docherty sent Arleigh Griffith for Hoag he was able to complete his detailed inspection of the third floor and to receive a report from his man covering the floors above before Griffith returned , buoyed up by a brief stop for another glass of champagne .
+10
+#3 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#10 able ADJ able%3:00:00::
+#12 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#19 floor NOUN floor%1:06:01::
+#22 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#24 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#27 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#30 floor NOUN floor%1:06:01::
+#34 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#41 stop NOUN stop%1:10:01::

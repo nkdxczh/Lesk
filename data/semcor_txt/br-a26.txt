@@ -1,0 +1,272 @@
+ Probably THE hottest thing that has hit the Dallas investment community in years was the Morton Foods stock issue , which was sold to the public during the past week .
+2
+#6 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#22 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+For many reasons , the demand to buy shares in the Dallas-headquartered company was tremendous .
+1
+#7 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+It was not a case of the investment bankers having to sell the stock ; it was more one of allotting a few shares to a number of customers and explaining to others why they had no more to sell .
+3
+#11 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#35 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#39 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+Investors who wanted 100 shares in many cases ended up with 25 , and customers who had put in a bid to buy 400 shares found themselves with 100 and counted themselves lucky to get that many .
+4
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#22 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#25 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#34 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+In fact , very few customers , anywhere in the nation , were able to get more than 100 shares .
+1
+#15 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Some Dallas investment firms got only 100 shares , for all of their customers .
+1
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+A measure of how hot the stock was , can be found in what happened to it on the market as soon as trading began .
+3
+#11 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#24 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The stock was sold in the underwriting at a price of $ 12.50 a share .
+1
+#3 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+The first over-the-counter trade Wednesday afternoon at Eppler , Guerin + Turner , the managing underwriter , was at $ 17 a share .
+1
+#14 manage VERB manage%2:41:00::,manage%2:41:01::,manage%2:41:03::
+And from that the stock moved right on up until it was trading Thursday morning at around $ 22 a share .
+1
+#12 trade VERB trade%2:42:00::
+Indeed , from the moment the reports of the coming issue first started circulating in Dallas last January , the inquiries and demand for the stock started building up .
+3
+#12 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#13 circulate VERB circulate%2:32:00::
+#26 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Letters by the reams came in from investment firms all over the nation , all of them wanting to get a part of the shares that would be sold ( 185000 to the public at $ 12.50 , with another 5000 reserved for Morton Foods employes at $ 11.50 a share ) .
+3
+#17 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#28 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+There was even a cable in French from a bank in Switzerland that had somehow learned about the Dallas stock offering .
+1
+#15 learn VERB learn%2:31:01::,learn%2:31:03::
+" We subscribe 500 shares of Morton Foods of Texas .
+1
+#2 subscribe VERB subscribe%2:40:04::
+Cable confirmation " , it said translated .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+But E. G. T. could not let the Swiss bank have even 10 shares .
+2
+#6 let VERB let%2:30:01::,let%2:41:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+After it allotted shares to 41 underwriters and 52 selling group members from coast to coast there were not many shares for anyone .
+1
+#9 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+But the result of it all was , E. G. T. partner Dean Guerin believes , an effective distribution of the stock to owners all over the nation .
+1
+#14 believe VERB believe%2:31:03::
+" I feel confident the stock will qualify for the ' national list " ' , he said , meaning its market price would be quoted regularly in newspapers all over the country .
+5
+#2 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#7 qualify VERB qualify%2:32:02::,qualify%2:42:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#25 quote VERB quote%2:32:00::,quote%2:32:13::
+He was also pleased with the wide distribution because he thought it proved again his argument that Dallas investment men can do just as good a job as the big New York investment bankers claim only they can do .
+2
+#10 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#12 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+But what made the Morton Foods stock issue such a hot one ?
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+First , the general stock market has been boiling upward for the last few months , driving stocks of all kinds up .
+1
+#16 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+As a result , it is not easy to find a stock priced as the Morton issue was priced ( at roughly 10 times 1960 earnings , to yield a little over 5 per cent on the 64 c anticipated dividend ) .
+2
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#28 yield VERB yield%2:36:00::,yield%2:40:00::,yield%2:40:02::
+Second , the " potato chip industry " has caught the fancy of investors lately , and until Morton Foods came along there were only two potato chip stocks - Frito and H. W. Lay - on the market .
+1
+#9 catch VERB catch%2:35:07::,catch%2:36:12::,catch%2:39:01::,catch%2:39:12::
+Both of those have had dynamic run-ups in price on the market in recent months , both were selling at higher price-earnings and yield bases than Morton was coming to market at , and everyone who knew anything about it expected the Morton stock to have a fast run-up .
+4
+#4 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#18 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#36 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#45 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+Foods , which long had been considered " recession resistant " but hardly dynamic stocks , have been acting like growth stocks , going to higher price-earnings ratios .
+1
+#18 act VERB act%2:29:00::,act%2:41:00::
+The potato chip industry these days is growing , not only as a result of population increase and public acceptance of convenience foods , but also because of a combination of circumstances that has led to growth by merger .
+2
+#7 grow VERB grow%2:30:04::
+#34 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+Those that remain are those that were headed by strong executives , men with the abilities to last almost 30 years in the competitive survival of the fittest .
+2
+#7 head VERB head%2:38:02::,head%2:41:00::
+#17 last VERB last%2:42:01::
+But today many of those men are reaching retirement age and suddenly realizing that they face an estate tax problem with their closely held companies and also that they have no second-echelon management in their firms .
+5
+#7 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#12 realize VERB realize%2:31:01::
+#15 face VERB face%2:32:00::,face%2:32:03::
+#23 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+So they go looking for mergers with other firms that have publicly quoted stock , and almost daily they pound on the doors of firms like Frito .
+2
+#12 quote VERB quote%2:32:00::,quote%2:32:13::
+#19 pound VERB pound%2:35:00::
+All those things combined to make the Morton Foods stock the hot issue that it was and is .
+2
+#3 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Now , if Morton 's newest product , a corn chip known as Chip-o 's , turns out to sell as well as its stock did , the stock may turn out to be worth every cent of the prices that the avid buyers bid it up to .
+2
+#19 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#44 bid VERB bid%2:40:00::
+Dallas and North Texas is known world-wide as the manufacturing and distribution center of cotton gin machinery and supplies , valued in the millions of dollars .
+1
+#20 value VERB value%2:31:02::
+It is no coincidence that the Texas Cotton Ginner 's Association is meeting here this week for the 46 th time in their 52 - year history .
+1
+#12 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+It weighs in the tons , so the proximity of factory and exhibition area makes it possible for an outstanding exhibit each year .
+2
+#1 weigh VERB weigh%2:42:00::,weigh%2:42:01::,weigh%2:42:04::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+A modern cotton gin plant costs in the neighborhood of $ 250000 , and it 's a safe assumption that a large percentage of new gins in the U. S. and foreign countries contain machinery made in this area .
+3
+#5 cost VERB cost%2:42:00::,cost%2:42:01::
+#33 contain VERB contain%2:42:00::,contain%2:42:06::
+#35 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+They 've occupied a 22 - acre site since the early 1900 's .
+1
+#2 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+More than 700 employes make gin machinery that 's sold anywhere cotton is grown .
+3
+#4 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#9 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#13 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+Murray makes a complete line of ginning equipment except for driers and cleaners , and this machinery is purchased from a Dallas-based firm .
+2
+#1 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#18 purchase VERB purchase%2:40:00::
+The Continental Gin Co. began operations in Dallas in 1899 .
+1
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The company sells a complete line of gin machinery all over the cotton-growing world .
+1
+#2 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+Hardwicke-Etter Co. of Sherman makes a full line of gin machinery and equipment .
+1
+#4 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The company began operation in 1900 with hardware and oil mill supplies .
+1
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+In 1930 , they began making cotton processing equipment .
+2
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Presently , Hardwicke-Etter employs 300 - 450 people , depending on the season of the year .
+1
+#3 employ VERB employ%2:34:00::,employ%2:41:00::
+The Lummus Cotton Gin Co. has had a sales and service office in Dallas since 1912 .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The district office here employs about 65 .
+1
+#4 employ VERB employ%2:34:00::,employ%2:41:00::
+The Moss Gordin Lint Cleaner Co. and Gordin Unit System of Ginning have joint headquarters here .
+1
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The cleaner equipment firm began operations in 1953 and the unit system , which turns out a complete ginning system , began operations in 1959 .
+2
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#21 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The John E. Mitchell Co. began work in Dallas in 1928 .
+1
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+The firm is prominent in making equipment for cleaning seed cotton , driers , and heaters , and they lay claim to being the first maker ( 1910 ) of boil extraction equipment .
+1
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The increase in mechanical harvesting of cotton makes cleaning and drying equipment a must for modern gin operation .
+1
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Mitchell employs a total of about 400 people .
+1
+#1 employ VERB employ%2:34:00::,employ%2:41:00::
+This includes driers , cleaners , burr extractors , separators and piping that 's located above gin stands in a complete gin .
+1
+#1 include VERB include%2:42:00::
+The firm began operations back in 1925 and sells equipment in the central cotton belt , including the Mississippi Delta .
+3
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#16 include VERB include%2:31:00::,include%2:41:03::
+The Cen-Tennial Gin Supply Co. has home offices and factory facilities here .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+They make gin saws and deal in parts , supplies and some used gin machinery .
+2
+#1 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#5 deal VERB deal%2:40:00::,deal%2:40:11::,deal%2:41:13::
+The Stacy Co. makes cleaning and drying equipment for sale largely in Texas .
+1
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Cotton Belt Gin Service , Inc. of Dallas makes gin saws and started here 14 years ago .
+1
+#8 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+They distribute equipment in 11 states .
+1
+#1 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+The firm also handles gin and oil mill supplies such as belting , bearings , etc. .
+1
+#3 handle VERB handle%2:41:00::,handle%2:41:03::
+New car sales in Dallas County during March showed slight signs of recovering from the doldrums which have characterized sales this year .
+3
+#8 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#12 recover VERB recover%2:40:01::
+#18 characterize VERB characterise%2:32:00::
+Totaling 3399 , sales jumped 14 per cent over February 's 2963 .
+2
+#0 total VERB total%2:32:00::,total%2:42:00::
+#4 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+However , compared with March 1960 new car sales of 4441 , this March was off 23 per cent .
+1
+#2 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+This year-to-year decline for Dallas County closely follows the national trend - estimated sales of domestic cars in the U. S. for first three months of 1961 were about 1212000 or 80 per cent of the total in the first quarter a year earlier .
+1
+#7 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+The March gain plus this optimism has been encouraging enough to prompt auto makers to boost production schedules for the next quarter .
+1
+#11 prompt VERB prompt%2:32:00::
+On the local level , compacts continue to grab a larger share of the market at the expense of lower-priced standard models and foreign cars .
+1
+#6 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Only three standard models - Buick , Chrysler , and Mercury - had slight year-to-year gains in March sales in the county .
+1
+#12 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The top 3 students from 11 participating Dallas County high schools will be honored by the Dallas Sales Executives Club at a banquet at 6 p. m. Tuesday in the Sam Houston Room of the Sheraton-Dallas Hotel as the club winds up its annual Distributive Education project .
+1
+#13 honor VERB honor%2:41:01::
+Now in its third year , the program is designed to provide a laboratory for those youngsters seeking careers in marketing and salesmanship .
+1
+#11 provide VERB provide%2:34:00::,provide%2:40:00::
+Business firms provide 20 weeks of practical employment to supplement classroom instruction in these fields .
+1
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+Principal address will be delivered by Gerald T. Owens , national sales manager for Isodine Pharmical Corp. of New York .
+1
+#4 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+The 33 honored students are : Mike Trigg , Raymond Arrington , and Ronald Kaminsky of Bryan Adams , Janice Whitney , Fil Terral , and Carl David Page of W. H. Adamson ; Bill Burke , Tommie Freeman , and Lawrence Paschall of N. R. Crozier Tech. Paulah Thompson , Gerald Kestner , and Nancy Stephenson of Hillcrest ; Arnold Hayes , Mary Ann Shay , and Lloyd Satterfield of Thomas Jefferson ;
+1
+#2 honor VERB honor%2:41:01::
+The Kennedy administration 's new housing and urban renewal proposals , particularly their effect on the Federal Housing Administration , came under fire in Dallas last week .
+1
+#20 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+The Administration 's proposals , complex and sweeping as they are , all deal with fringe areas of the housing market rather than its core , stated Caron S. Stallard , first vice-president of the Mortgage Bankers Association of America .
+2
+#13 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#26 state VERB state%2:32:01::,state%2:32:02::

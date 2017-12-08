@@ -1,0 +1,654 @@
+ Roy Mason is essentially a landscape painter whose style and direction has a kinship with the English watercolorists of the early nineteenth century , especially the beautifully patterned art of John Sell Cotman .
+10
+#5 landscape NOUN landscape%1:15:00::
+#6 painter NOUN painter%1:18:00::
+#8 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#10 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#22 century NOUN century%1:28:00::
+#24 especially ADV especially%4:02:00::
+#27 pattern VERB pattern%2:36:00::
+#28 art NOUN art%1:04:00::,art%1:06:00::
+And like this English master , Mason realizes his subjects in large , simplified masses which , though they seem effortless , are in reality the result of skilled design born of hard work and a thorough distillation of the natural form that inspired them .
+10
+#7 realize VERB realize%2:36:00::,realize%2:36:07::
+#9 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#11 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#29 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#32 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#33 work NOUN work%1:04:00::,work%1:06:01::
+#37 distillation NOUN distillation%1:22:00::
+#40 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#41 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#43 inspire VERB inspire%2:32:00::,inspire%2:32:01::,inspire%2:36:00::,inspire%2:37:00::
+As a boy Roy Mason began the long process of extracting the goodness of the out-of-doors , its tang of weather , its change of seasons , its variable moods .
+8
+#2 boy NOUN boy%1:18:03::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 long ADJ long%3:00:02::
+#12 goodness NOUN goodness%1:07:02::
+#18 tang NOUN tang%1:09:00::
+#23 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#28 variable ADJ variable%3:00:00::
+#29 mood NOUN mood%1:12:00::
+His father , a professional engraver and an amateur landscape painter , took his sons on numerous hunting expeditions , and imparted to them his knowledge and love of nature .
+8
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#4 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#9 landscape NOUN landscape%1:15:00::
+#10 painter NOUN painter%1:18:00::
+#12 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#25 knowledge NOUN knowledge%1:03:00::
+#27 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#29 nature NOUN nature%1:18:00::,nature%1:26:00::
+Out of this background of hunting and fishing , it was only natural that Roy first painted subjects he knew best : hunters in the field , fishermen in the stream , ducks and geese on the wing - almost always against a vast backdrop of weather landscape .
+14
+#3 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+#5 hunt NOUN hunt%1:04:01::
+#7 fish VERB fish%2:33:00::
+#12 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+#16 paint VERB paint%2:36:01::
+#17 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#19 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#22 hunter NOUN hunter%1:18:00::
+#25 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#30 stream NOUN stream%1:17:00::
+#32 duck NOUN duck%1:05:00::
+#34 goose NOUN goose%1:13:00::
+#40 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#47 landscape NOUN landscape%1:15:00::
+It is this subject matter that has brought Mason a large and enthusiastic following among sportsmen , but it is his exceptional performance with this motif that commends him to artists and discerning collectors .
+4
+#10 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#13 following NOUN following%1:14:00::
+#27 commend VERB commend%2:32:00::
+#33 collector NOUN collector%1:18:01::
+Mason had to earn the privilege of devoting himself exclusively to painting .
+1
+#7 devote VERB devote%2:31:00::
+Like many others , he had to work hard , long hours in a struggling family business which , though it was allied to art of a kind - the design and production of engraved seals - bore no relation to the painting of pictures .
+8
+#7 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#8 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#11 hour NOUN hour%1:28:00::
+#30 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#32 production NOUN production%1:04:00::,production%1:06:00::,production%1:23:00::
+#35 seal NOUN seal%1:10:01::
+#37 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+#39 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+But it did teach Roy the basic techniques of commercial art , and later , for twelve years , he and his sister Nina conducted an advertising art studio in Philadelphia .
+5
+#6 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#13 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#22 sister NOUN sister%1:18:00::,sister%1:18:01::,sister%1:18:02::
+#24 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#28 studio NOUN studio%1:06:02::
+On the death of their father , they returned to their home in Batavia , New York .
+3
+#5 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#8 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#11 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+After more years of concentrated effort , Roy and his brother Max finally established a thriving family business at the old stand .
+5
+#4 concentrated ADJ concentrated%3:00:02::
+#10 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#13 establish VERB establish%2:36:01::,establish%2:41:00::
+#20 old ADJ old%3:00:01::,old%3:00:02::
+#21 stand NOUN stand%1:15:00::
+During all this time Roy continued to paint , first only on weekends , and then , as the family business permitted , for longer periods .
+3
+#5 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#25 period NOUN period%1:28:00::,period%1:28:03::
+Gradually he withdrew from the shop altogether , and for the past thirty years , he has worked independently as a painter , except for his continued hunting and fishing expeditions .
+7
+#2 withdraw VERB withdraw%2:30:00::,withdraw%2:38:00::,withdraw%2:40:01::,withdraw%2:41:00::,withdraw%2:41:01::
+#17 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#18 independently ADV independently%4:02:01::
+#21 painter NOUN painter%1:18:00::
+#27 hunt NOUN hunt%1:04:01::
+#29 fish VERB fish%2:33:00::
+#30 expedition NOUN expedition%1:04:00::
+But even on these , the palette often takes over while the shotgun cools off !
+1
+#12 shotgun NOUN shotgun%1:06:00::
+Except for a rich friendship with the painter , Chauncey Ryder who gave him the only professional instruction he ever had - and this was limited to a few lessons , though the two artists often went on painting trips together - Roy developed his art by himself .
+11
+#7 painter NOUN painter%1:18:00::
+#12 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#16 professional ADJ professional%3:01:01::
+#17 instruction NOUN instruction%1:04:01::
+#19 ever ADV ever%4:02:05::
+#29 lesson NOUN lesson%1:04:01::
+#36 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#39 trip NOUN trip%1:04:00::
+#40 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#43 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#45 art NOUN art%1:04:00::,art%1:06:00::
+In the best tradition , he first taught himself to see , then to draw with accuracy and assurance , and then to paint .
+7
+#2 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#3 tradition NOUN tradition%1:09:01::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 then ADV then%4:02:00::
+#14 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#18 assurance NOUN assurance%1:09:00::
+#23 paint VERB paint%2:36:01::
+He worked in oil for years before beginning his work in watercolor , and his first public recognition and early honors , including his election to the Academy , were for his essays in the heavier medium .
+11
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#3 oil NOUN oil%1:06:01::
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#9 work NOUN work%1:04:00::
+#15 first ADJ first%3:00:00::,first%4:02:00::
+#19 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#20 honor NOUN honor%1:07:00::
+#22 include VERB include%2:42:00::
+#32 essay NOUN essay%1:04:00::
+#35 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#36 medium NOUN medium%1:10:01::
+Gradually watercolor claimed his greater affection until today it has become his major , if not exclusive , technique .
+4
+#5 affection NOUN affection%1:12:00::
+#10 become VERB become%2:30:00::,become%2:42:01::
+#12 major ADJ major%3:00:05::,major%3:00:06::
+#15 not ADV not%4:02:00::
+It has been my privilege to paint with Roy Mason on numerous occasions , mostly in the vicinity of Batavia .
+2
+#6 paint VERB paint%2:36:01::
+#12 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+More often than not I have found easy excuse to leave my own work and stand at a respectable distance where I could watch this man transform raw nature into a composed , not imitative , painting .
+13
+#7 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#8 excuse NOUN excuse%1:10:00::
+#10 leave VERB leave%2:38:00::,leave%2:41:00::
+#12 own ADJ own%5:00:00:personal:00
+#13 work NOUN work%1:06:01::
+#19 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#23 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#25 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#27 raw ADJ raw%5:00:00:unanalyzed:00
+#28 nature NOUN nature%1:18:00::,nature%1:26:00::
+#33 not ADV not%4:02:00::
+#34 imitative ADJ imitative%3:00:02::
+#36 painting NOUN painting%1:04:01::,painting%1:04:02::,painting%1:06:00::
+What I have observed time and time again is a process of integration , integration that begins as abstract design and gradually takes on recognizable form ; color patterns that are made to weave throughout the whole composition ; and that over all , amazing control of large washes which is the Mason stylemark .
+15
+#3 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#10 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#12 integration NOUN integration%1:04:00::,integration%1:04:02::
+#14 integration NOUN integration%1:04:00::,integration%1:04:02::
+#16 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#19 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#25 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#27 color NOUN color%1:07:02::,color%1:07:03::,color%1:07:04::;1:07:03::,color%1:27:00::
+#28 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#33 weave VERB weave%2:36:00::
+#36 whole ADJ whole%3:00:00::
+#45 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#47 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#48 wash NOUN wash%1:06:02::
+Finally come those little flicks of a rigger brush and the job is done .
+5
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#4 flick NOUN flick%1:11:00::
+#7 rigger NOUN rigger%1:06:00::
+#8 brush NOUN brush%1:05:00::,brush%1:06:00::
+#11 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+But for the technical fact , we have the artist 's own testimony :
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 own ADJ own%5:00:00:personal:00
+" Of late years , I find that I like best to work out-of-doors .
+2
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#12 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+First I make preliminary watercolor sketches in quarter scale ( approximately * * f inches ) in which I pay particular attention to the design principles of three simple values - the lightest light , the middle tone , and the darkest dark - by reducing the forms of my subject to these large patterns .
+20
+#2 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#5 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#7 quarter NOUN quarter%1:28:00::
+#8 scale NOUN scale%1:24:01::,scale%1:24:03::
+#14 inch NOUN inch%1:23:02::
+#19 pay VERB pay%2:41:00::
+#20 particular ADJ particular%5:00:00:uncommon:00
+#21 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#24 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#25 principle NOUN principle%1:09:00::,principle%1:09:03::
+#28 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#29 value NOUN value%1:07:01::
+#37 tone NOUN tone%1:07:00::
+#41 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#42 dark NOUN dark%1:28:00::
+#45 reduce VERB reduce%2:30:06::
+#47 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#50 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#53 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#54 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+If a human figure or wild life are to be part of the projected final picture , I try to place them in the initial sketch .
+5
+#3 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#10 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#18 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#20 place VERB place%2:31:13::
+#25 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+For me , these will belong more completely to their surroundings if they are conceived in this early stage , though I freely admit that I do not hesitate to add or eliminate figures on the full sheet when it serves my final purpose .
+11
+#5 belong VERB belong%2:42:00::,belong%2:42:01::,belong%2:42:03::
+#6 more ADV more%4:02:00::
+#14 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+#17 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#18 stage NOUN stage%1:04:00::,stage%1:26:00::
+#23 admit VERB admit%2:32:00::
+#27 not ADV not%4:02:00::
+#33 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#36 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#37 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+#40 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+" I am thoroughly convinced that most watercolors suffer because the artist expects nature will do his composing for him ; as a result , such pictures are only a literal translation of what the artist finds in the scene before him .
+7
+#3 thoroughly ADV thoroughly%4:02:01::
+#8 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#13 nature NOUN nature%1:18:00::,nature%1:26:00::
+#28 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#31 translation NOUN translation%1:10:00::
+#36 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#39 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+Just because a tree or other object appears in a certain spot is absolutely no reason to place it in the same position in the painting , unless the position serves the design of the whole composition .
+14
+#0 just ADV just%4:02:00::,just%4:02:03::
+#3 tree NOUN tree%1:20:00::
+#5 other ADJ other%3:00:00::
+#6 object NOUN object%1:03:00::
+#7 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#10 certain ADJ certain%5:00:00:definite:00
+#11 spot NOUN spot%1:10:01::,spot%1:15:01::
+#15 reason NOUN reason%1:09:01::,reason%1:16:00::
+#17 place VERB place%2:31:13::
+#21 same ADJ same%3:00:00::,same%3:00:02::
+#25 painting NOUN painting%1:04:01::,painting%1:04:02::,painting%1:06:00::
+#30 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+#32 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#35 whole ADJ whole%3:00:00::
+If the artist would study his work more thoroughly and move certain units in his design , often only slightly , finer pictures would result .
+11
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#6 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#7 more ADV more%4:02:00::
+#8 thoroughly ADV thoroughly%4:02:00::
+#10 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#11 certain ADJ certain%5:00:00:definite:00
+#12 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#15 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 slightly ADV slightly%4:02:01::
+#21 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+Out of long experience I have found that incidental figures and other objects like trees , logs , and bushes can be traced from the original sketch and moved about in the major areas on the final sheet until they occupy the right position , which I call ' clicking ' .
+18
+#2 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#8 incidental ADJ incidental%5:00:00:inessential:00
+#9 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#11 other ADJ other%3:00:00::
+#12 object NOUN object%1:03:00::
+#14 tree NOUN tree%1:20:00::
+#16 log NOUN log%1:27:01::
+#19 bush NOUN bush%1:20:00::
+#22 trace VERB trace%2:35:00::
+#25 original ADJ original%5:00:01:first:00
+#26 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#28 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#32 major ADJ major%3:00:05::,major%3:00:06::
+#33 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#37 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+#40 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#42 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+#47 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+" Speed in painting a picture is valid only when it imparts spontaneity and crispness , but unless the artist has lots of experience so that he can control rapid execution , he would do well to take these first sketches and soberly reorder their design to achieve a unified composition .
+12
+#1 speed NOUN speed%1:04:00::,speed%1:07:00::
+#3 paint VERB paint%2:36:01::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 lot PRON lots%1:23:00::
+#28 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#30 execution NOUN execution%1:04:03::
+#37 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#39 first ADJ first%3:00:00::,first%4:02:00::
+#40 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#43 reorder VERB reorder%1:10:00::
+#45 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+" If I have seemed to emphasize the structure of the composition , I mean to project equal concern for color .
+5
+#14 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#16 project VERB project%2:31:00::,project%2:32:00::,project%2:35:01::
+#17 equal ADJ equal%3:00:00::
+#18 concern NOUN concern%1:09:00::
+#20 color NOUN color%1:07:00::,color%1:27:00::
+Often , in working out-of-doors under all conditions of light and atmosphere , a particular passage that looked favorable in relation to the subject will be too bright , too dull , or too light , or too dark when viewed indoors in a mat .
+18
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#7 condition NOUN condition%1:10:01::,condition%1:26:00::,condition%1:26:01::
+#9 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#11 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#14 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#15 passage NOUN passage%1:10:00::,passage%1:10:01::
+#17 look VERB look%2:39:01::,look%2:42:02::
+#18 favorable ADJ favorable%5:00:00:propitious:00
+#23 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#26 too ADV too%4:02:00::
+#27 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#29 too ADV too%4:02:00::
+#30 dull ADJ dull%5:00:00:unsaturated:03
+#33 too ADV too%4:02:00::
+#37 too ADV too%4:02:00::
+#38 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#40 view VERB view%2:39:00::,view%2:39:02::
+#44 matte NOUN mat%1:06:04::
+When this occurs , I make the change on the sketch or on the final watercolor - if I have been working on a full sheet in the field .
+7
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#10 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#21 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#24 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#25 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+#28 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+" When working from one of my sketches I square it up and project its linear form freehand to the watercolor sheet with charcoal .
+5
+#2 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#7 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#15 linear ADJ linear%3:00:01::
+#16 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#21 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+When this linear draft is completed , I dust it down to a faint image .
+6
+#2 linear ADJ linear%3:00:01::
+#3 draft NOUN draft%1:06:01::
+#5 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#8 dust VERB dust%2:35:00::
+#13 faint ADJ faint%5:00:00:perceptible:00
+#14 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+From this point , I paint in as direct a manner as possible , by flowing on the washes with as pure a color mixture as I can manage .
+6
+#2 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#8 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#10 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#18 wash NOUN wash%1:06:02::
+#23 color NOUN color%1:07:00::,color%1:27:00::
+#28 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+However , first I thoughtfully study my sketch for improvement of color and design along the lines I have described .
+7
+#0 however ADV however%4:02:04::
+#5 study VERB study%2:31:00::
+#7 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#11 color NOUN color%1:07:00::,color%1:27:00::
+#13 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#16 line NOUN line%1:04:00::,line%1:04:01::,line%1:09:01::,line%1:14:02::
+#19 describe VERB describe%2:32:01::
+Then I plan my attack : the parts I will finish first , the range of values , the accenting of minor details - all in all , mechanics of producing the finished job with a maximum of crispness .
+11
+#0 then ADV then%4:02:00::
+#2 plan VERB plan%2:31:00::,plan%2:31:01::
+#10 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#14 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#16 value NOUN value%1:07:01::
+#19 accent NOUN accent%1:26:00::
+#21 minor ADJ minor%3:00:07::
+#22 detail NOUN detail%1:10:00::,detail%1:24:00::
+#28 mechanics NOUN mechanic%1:18:01::
+#30 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#33 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+The longer I work , the more I am sure that for me , at least , a workmanlike method is important .
+1
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Trial and error are better placed in the preliminary sketch than in hoping for miracles in the final painting .
+4
+#4 better ADV better%4:02:00::
+#5 place VERB place%2:31:13::
+#9 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#18 painting NOUN painting%1:04:01::,painting%1:04:02::,painting%1:06:00::
+" As for materials , I use the best available .
+3
+#3 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+I work on a watercolor easel in the field , and frequently resort to a large garden umbrella to protect my eyes from undue strain .
+8
+#1 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#8 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#12 resort VERB resort%2:38:00::
+#15 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#16 garden NOUN garden%1:06:00::
+#17 umbrella NOUN umbrella%1:06:00::
+#21 eye NOUN eye%1:08:00::,eye%1:09:01::
+#24 strain NOUN strain%1:26:02::
+In my studio I work at a tilt-top table , but leave the paper unfixed so that I can move it freely to control the washes .
+5
+#2 studio NOUN studio%1:06:02::
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#23 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#25 wash NOUN wash%1:06:02::
+I have used a variety of heavy-weight hand-made papers , but prefer an English make , rough surface , in 400 - pound weight .
+9
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#4 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#8 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#11 prefer VERB prefer%2:31:00::
+#14 make NOUN make%1:09:00::
+#16 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#17 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#22 pound NOUN pound%1:23:09::,pound%1:23:10::
+#23 weight NOUN weight%1:06:00::,weight%1:07:00::,weight%1:12:00::,weight%1:23:00::,weight%1:23:01::
+After selecting a sheet and inspecting it for flaws ( even the best sometimes has foreign ' nubbins ' on its surface ) , I sponge it thoroughly on both sides with clean , cold water .
+10
+#3 sheet NOUN sheet%1:10:00::,sheet%1:10:01::,sheet%1:17:00::
+#8 flaw NOUN flaw%1:26:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 foreign ADJ foreign%3:00:01::,foreign%5:00:00:extrinsic:00
+#21 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#25 sponge VERB sponge%2:35:00::
+#27 thoroughly ADV thoroughly%4:02:00::
+#32 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#34 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#35 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Then I dry the sheet under mild pressure so that it will lie flat as a board .
+7
+#0 then ADV then%4:02:00::
+#2 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#4 sheet NOUN sheet%1:06:03::,sheet%1:10:00::
+#7 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#12 lie VERB lie%2:35:00::,lie%2:38:00::
+#13 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#16 board NOUN board%1:06:00::,board%1:06:03::,board%1:27:00::
+" In addition to the usual tools , I make constant use of cleansing tissue , not only to wipe my brushes , but to mop up certain areas , to soften edges , and to open up lights in dark washes .
+10
+#6 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 tissue NOUN tissue%1:27:02::
+#19 wipe VERB wipe%2:35:00::
+#21 brush NOUN brush%1:05:00::,brush%1:06:00::
+#27 certain ADJ certain%5:00:00:definite:00
+#28 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#32 edge NOUN edge%1:06:00::,edge%1:07:00::,edge%1:25:00::
+#40 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#41 wash NOUN wash%1:06:02::
+The great absorbency of this tissue and the fact that it is easier to control than a sponge makes it an ideal tool for the watercolorist .
+8
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#5 tissue NOUN tissue%1:27:02::
+#12 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#14 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#17 sponge NOUN sponge%1:05:00::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#21 ideal ADJ ideal%5:00:00:abstract:00
+#22 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+I also use a small electric hand blower to dry large washes in the studio .
+6
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 electric ADJ electric%3:01:00::
+#9 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#10 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#11 wash NOUN wash%1:06:02::
+#14 studio NOUN studio%1:06:02::
+" My brushes are different from those used by most watercolorists , for I combine the sable and the bristle .
+5
+#2 brush NOUN brush%1:05:00::,brush%1:06:00::
+#4 different ADJ different%5:00:00:unusual:00
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#16 sable NOUN sable%1:27:00::
+The red sables are 8 ; two riggers , 6 and 10 ; and a very large , flat wash brush .
+7
+#1 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#2 sable NOUN sable%1:27:00::
+#7 rigger NOUN rigger%1:06:00::
+#16 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#18 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#19 wash NOUN wash%1:06:02::
+#20 brush NOUN brush%1:05:00::,brush%1:06:00::
+The bristles are a Fitch 2 and a one-half inch brush shaved to a sharp chisel edge .
+3
+#9 inch NOUN inch%1:23:02::
+#10 brush NOUN brush%1:05:00::,brush%1:06:00::
+#11 shave VERB shave%2:35:00::
+" My usual palette consists of top-quality colors :
+1
+#7 color NOUN color%1:07:00::,color%1:27:00::
+alizarin crimson , orange , raw sienna , raw umber , burnt sienna , sepia , cerulean blue , cobalt blue , French ultramarine blue , Winsor green , Hooker's green 2 , cadmium yellow pale , yellow ochre , Payne's gray , charcoal gray , Davy's gray , and ivory black " .
+2
+#3 orange NOUN orange%1:07:00::
+#35 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+In analyzing the watercolors of Roy Mason , the first thing that comes to mind is their essential decorativeness , yet this word has such a varied connotation that it needs some elaboration here .
+6
+#9 first ADJ first%3:00:00::,first%4:02:00::
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#17 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#22 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#30 need VERB need%2:42:00::
+True , a Mason watercolor is unmistakably a synthesis of nature rather than a detailed inventory .
+2
+#10 nature NOUN nature%1:18:00::,nature%1:26:00::
+#11 rather ADV rather%4:02:02::
+Unlike many decorative patterns that present a static flat convention , this artist 's pictures are full of atmosphere and climate .
+6
+#3 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#5 present VERB present%2:32:04::,present%2:36:08::,present%2:42:00::
+#7 static ADJ static%5:00:00:nonmoving:00
+#8 flat ADJ flat%3:00:03::,flat%5:00:00:dull:02,flat%5:00:00:inactive:02,flat%5:00:00:noneffervescent:00,flat%5:00:00:unerect:00,flat%5:00:00:unstimulating:00
+#9 convention NOUN convention%1:09:00::
+#16 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+Long observation has taught Mason that most landscape can be reduced to three essential planes : a foreground in sharp focus - either a light area with dark accents or a dark one with lights ; a middle distance often containing the major motif ; and a background , usually a silhouetted form foiled against the sky .
+15
+#1 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#7 landscape NOUN landscape%1:15:00::
+#10 reduce VERB reduce%2:30:06::
+#13 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#14 plane NOUN plane%1:06:00::
+#19 sharp ADJ sharp%5:00:00:distinct:00,sharp%5:00:00:pointed:00
+#20 focus NOUN focus%1:07:01::
+#25 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#27 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#28 accent NOUN accent%1:26:00::
+#31 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#40 contain VERB contain%2:42:00::,contain%2:42:06::
+#42 major ADJ major%3:00:05::,major%3:00:06::
+#47 background NOUN background%1:06:00::,background%1:09:00::,background%1:11:00::,background%1:11:01::
+#52 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+In following this general principle , Mason provides the observer with a natural eye progression from foreground to background , and the illusion of depth is instantly created .
+6
+#3 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#7 provide VERB provide%2:34:00::,provide%2:40:00::
+#12 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#13 eye NOUN eye%1:08:00::,eye%1:09:01::
+#18 background NOUN background%1:06:00::,background%1:09:00::,background%1:11:00::,background%1:11:01::
+#26 instantly ADV instantly%4:02:00::
+When painting , Mason 's physical eyes are half closed , while his mind's eye is wide open , and this circumstance accounts in part for the impression he wishes to convey .
+6
+#1 paint VERB paint%2:36:01::
+#5 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#21 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#27 impression NOUN impression%1:07:00::
+He does not insist on telling all he knows about any given subject ; rather his pictures invite the observer to draw on his memory , his imagination , his nostalgia .
+8
+#2 not ADV not%4:02:00::
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 given ADJ give%2:32:03::
+#12 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#14 rather ADV rather%4:02:02::
+#21 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#24 memory NOUN memory%1:09:00::,memory%1:09:02::
+It is for this reason that Roy avoids selecting subjects that require specific recognition of place for their enjoyment .
+5
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+#7 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#9 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#12 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#18 enjoyment NOUN enjoyment%1:04:00::
+His pictures generalize , though they are inspired by a particular locale ; they universalize in terms of weather , skies , earth , and people .
+4
+#7 inspire VERB inspire%2:32:00::,inspire%2:32:01::,inspire%2:36:00::,inspire%2:37:00::
+#10 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#22 earth NOUN earth%1:15:00::,earth%1:17:01::
+#25 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+By dealing with common landscape in an uncommon way , Roy Mason has found a particular niche in American landscape art .
+7
+#1 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#3 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#4 landscape NOUN landscape%1:15:00::
+#8 way NOUN way%1:04:00::,way%1:09:00::
+#15 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#19 landscape NOUN landscape%1:15:00::
+#20 art NOUN art%1:04:00::,art%1:06:00::
+Living with his watercolors is a vicarious experience of seeing nature distilled through the eyes of a sensitive interpretor , a breath and breadth of the outdoor world to help man honor the Creator of it all .
+9
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 nature NOUN nature%1:18:00::,nature%1:26:00::
+#11 distill VERB distil%2:30:02::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+#17 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#27 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#29 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#30 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#31 honor VERB honor%2:41:01::
+The artist was born in Gilbert Mills , New York , in 1886 , and until two years ago when he and his wife moved to California , he lived in western New York , in Batavia .
+1
+#24 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+When I looked up the actual date of his birth and found it to be March 15 th , I realized that Roy was born under the right zodiacal sign for a watercolorist :
+4
+#5 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#6 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#20 realize VERB realize%2:31:01::
+#27 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+the water sign of Pisces ( February 18 - March 20 ) .
+2
+#1 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#4 Pisces NOUN pisces%1:15:00::
+And how very often a water plane is featured in his landscapes , and how appropriate that he should appear in American Artist again , in his natal month of March !
+4
+#6 plane NOUN plane%1:06:00::
+#11 landscape NOUN landscape%1:15:00::
+#19 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#27 natal ADJ natal%3:01:00::
+Over the years , beginning in 1929 , Mason has been awarded seventeen major prizes including two gold medals ; two Ranger Fund purchase awards ; the Joseph Pennell Memorial Medal ; two American Watercolor Society prizes ; the Blair Purchase Prize for watercolor , Art Institute of Chicago ; and others in Buffalo , New York , Chautauqua , New Haven , Rochester , Rockport , and most recently , the $ 300 prize for a watercolor at the Laguna Beach Art Association ,
+4
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#13 major ADJ major%3:00:05::,major%3:00:06::
+#15 include VERB include%2:31:00::,include%2:41:03::
+#17 gold NOUN gold%1:21:00::
+He was elected to the National Academy of Design as an Associate in the oil class in 1931 ( after receiving his first Ranger Fund Purchase Prize at the Academy in 1930 ) , and elevated to Academicianship in 1940 .
+4
+#14 oil NOUN oil%1:06:01::
+#15 class NOUN class%1:14:00::,class%1:14:02::
+#20 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#22 first ADJ first%3:00:00::,first%4:02:00::
+Other memberships include the American Watercolor Society , Philadelphia Water Color Club , Allied Artists of America , Audubon Artists , Baltimore Watercolor Society .
+2
+#0 other ADJ other%3:00:00::
+#2 include VERB include%2:42:00::

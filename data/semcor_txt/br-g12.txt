@@ -1,0 +1,704 @@
+ Nothing like Godot , he arrived before the hour .
+1
+#8 hour NOUN hour%1:07:00::,hours%1:28:01::
+His letter had suggested we meet at my hotel at noon on Sunday , and I came into the lobby as the clock struck twelve .
+7
+#1 letter NOUN letter%1:10:00::
+#5 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#8 hotel NOUN hotel%1:06:00::
+#16 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#19 lobby NOUN lobby%1:06:00::
+#22 clock NOUN clock%1:06:00::
+#23 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+He was waiting .
+1
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+My wish to meet Samuel Beckett had been prompted by simple curiosity and interest in his work .
+5
+#3 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#8 prompt VERB prompt%2:32:00::
+#11 curiosity NOUN curiosity%1:09:00::
+#13 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#16 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+American newspaper reviewers like to call his plays nihilistic .
+3
+#3 like VERB like%2:37:05::
+#5 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#7 play NOUN play%1:10:01::,play%1:10:03::
+They find deep pessimism in them .
+2
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#2 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+Even so astute a commentator as Harold Clurman of The Nation has said that " Waiting for Godot " is " the concentrate of the contemporary European mood of despair " .
+3
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 contemporary ADJ contemporary%5:00:00:modern:00
+#27 mood NOUN mood%1:12:00::
+But to me Beckett 's writing had seemed permeated with love for human beings and with a kind of humor that I could reconcile neither with despair nor with nihilism .
+2
+#10 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#19 humor NOUN humor%1:07:01::,humor%1:08:01::
+Could it be that my own eyes and ears had deceived me ?
+3
+#5 own ADJ own%5:00:00:personal:00
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#8 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+Is his a literature of defeat , irrelevant to the social crises we face ?
+2
+#10 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#13 face VERB face%2:32:00::,face%2:32:03::
+Or is it relevant because it teaches us something useful to know about ourselves ?
+1
+#11 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I knew that a conversation with the author would not settle such questions , because a man is not the same as his writing : in the last analysis , the questions had to be settled by the work itself .
+7
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 not ADV not%4:02:00::
+#10 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#18 not ADV not%4:02:00::
+#20 same ADJ same%3:00:00::
+#35 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#38 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+Nevertheless I was curious .
+1
+#3 curious ADJ curious%3:00:00::,curious%5:00:00:interested:00
+My curiosity was sharpened a day or two before the interview by a conversation I had with a well-informed teacher of literature , a Jesuit father , at a conference on religious drama near Paris .
+4
+#1 curiosity NOUN curiosity%1:09:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#29 conference NOUN conference%1:14:00::
+#34 Paris NOUN paris%1:15:00::
+When Beckett 's name came into the discussion , the priest grew loud and told me that Beckett " hates life " .
+3
+#10 priest NOUN priest%1:18:00::
+#11 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+That , I thought , is at least one thing I can find out when we meet .
+3
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#16 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Beckett 's appearance is rough-hewn Irish .
+1
+#2 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+The features of his face are distinct , but not fine .
+3
+#1 feature NOUN feature%1:08:00::,feature%1:09:01::
+#9 not ADV not%4:02:00::
+#10 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+They look as if they had been sculptured with an unsharpened chisel .
+1
+#1 look VERB look%2:39:01::,look%2:42:02::
+Unruly hair goes straight up from his forehead , standing so high that the top falls gently over , as if to show that it really is hair and not bristle .
+9
+#1 hair NOUN hair%1:08:00::
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#4 up ADV up%4:02:00::,up%4:02:02::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#15 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#17 over ADV over%4:02:02::
+#22 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#25 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+One might say it combines the man ; own pride and humility .
+5
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 own ADJ own%5:00:00:personal:00
+#9 pride NOUN pride%1:12:01::
+For he has the pride that comes of self acceptance and the humility , perhaps of the same genesis , not to impose himself upon another .
+3
+#4 pride NOUN pride%1:12:01::
+#17 same ADJ same%3:00:00::,same%3:00:02::
+#22 impose VERB impose%2:32:00::
+His light blue eyes , set deep within the face , are actively and continually looking .
+6
+#1 light ADJ light%3:00:05::,light%5:00:00:pure:02
+#2 blue ADJ blue%5:00:00:chromatic:00
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#5 set NOUN set%1:09:00::,set%1:09:01::
+#14 continually ADV continually%4:02:01::
+#15 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+He seems , by some unconscious division of labor , to have given them that one function and no other , leaving communication to the rest of the face .
+7
+#6 division NOUN division%1:04:00::,division%1:04:02::
+#8 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#16 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#19 other ADJ other%3:00:00::
+#21 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#22 communication NOUN communication%1:03:00::,communication%1:10:01::
+#25 rest NOUN rest%1:24:00::
+The voice is light in timbre , with a rough edge that corresponds to his visage .
+5
+#1 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#3 light ADJ light%3:00:01::,light%3:00:08::
+#9 rough ADJ rough%3:00:00::,rough%5:00:00:cacophonous:00
+#10 edge NOUN edge%1:06:00::,edge%1:07:00::,edge%1:25:00::
+#12 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+The Irish accent is , as one would expect , combined with slight inflections from the French .
+4
+#2 accent NOUN accent%1:10:01::
+#10 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#12 slight ADJ slight%5:00:00:insignificant:00
+#16 French NOUN french%1:10:00::
+His tweed suit was a baggy gray and green .
+3
+#2 suit NOUN suit%1:06:00::
+#6 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#8 green ADJ green%5:00:00:chromatic:00
+He wore a brown knit sports shirt with no tie .
+2
+#1 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#9 tie NOUN tie%1:06:01::
+We walked down the Rue de L ' Arcade , thence along beside the Madeleine and across to a sidewalk cafe opposite that church .
+3
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#20 cafe NOUN cafe%1:06:00::
+#21 opposite ADJ opposite%3:00:00::,opposite%5:00:00:different:00,opposite%5:00:01:other:00
+The conversation that ensued may have been engrossing but it could hardly be called world shattering .
+2
+#11 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#13 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+For one thing , the world that Beckett sees is already shattered .
+2
+#5 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#10 already ADV already%4:02:00::
+His talk turns to what he calls " the mess " , or sometimes " this buzzing confusion " .
+2
+#6 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#9 mess NOUN mess%1:26:02::
+I reconstruct his sentences from notes made immediately after our conversation .
+3
+#3 sentence NOUN sentence%1:10:00::
+#5 note NOUN note%1:10:00::,note%1:10:02::
+#6 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+What appears here is shorter than what he actually said but very close to his own words .
+6
+#1 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#8 actually ADV actually%4:02:01::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 own ADJ own%5:00:00:personal:00
+#16 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+" The confusion is not my invention .
+2
+#2 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#4 not ADV not%4:02:00::
+We cannot listen to a conversation for five minutes without being acutely aware of the confusion .
+2
+#8 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#15 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+It is all around us and our only chance now is to let it in .
+3
+#2 all ADV all%4:02:00::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#12 let VERB let%2:30:01::,let%2:41:00::
+The only chance of renovation is to open our eyes and see the mess .
+2
+#2 chance NOUN chance%1:07:00::,chance%1:26:00::
+#13 mess NOUN mess%1:26:02::
+It is not a mess you can make sense of " .
+4
+#2 not ADV not%4:02:00::
+#4 mess NOUN mess%1:26:02::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#8 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+I suggested that one must let it in because it is the truth , but Beckett did not take to the word truth .
+3
+#5 let VERB let%2:30:01::,let%2:41:00::
+#17 not ADV not%4:02:00::
+#21 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+" What is more true than anything else ?
+2
+#3 more ADV more%4:02:00::
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+To swim is true , and to sink is true .
+3
+#1 swim VERB swim%2:38:00::
+#3 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#9 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+One is not more true than the other .
+4
+#2 not ADV not%4:02:00::
+#3 more ADV more%4:02:00::
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#7 other ADJ other%3:00:00::
+One cannot speak anymore of being , one must speak only of the mess .
+4
+#2 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#9 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 mess NOUN mess%1:26:02::
+When Heidegger and Sartre speak of a contrast between being and existence , they may be right , I do n't know , but their language is too philosophical for me .
+5
+#4 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#25 language NOUN language%1:10:01::,language%1:10:02::,language%1:10:03::
+#27 too ADV too%4:02:00::
+#28 philosophical ADJ philosophical%3:01:00::
+I am not a philosopher .
+1
+#2 not ADV not%4:02:00::
+One can only speak of what is in front of him , and that now is simply the mess " .
+5
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#14 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#16 simply ADV simply%4:02:00::,simply%4:02:02::
+#18 mess NOUN mess%1:26:02::
+Then he began to speak about the tension in art between the mess and form .
+5
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#7 tension NOUN tension%1:26:00::,tension%1:26:02::
+#12 mess NOUN mess%1:26:02::
+#14 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+Until recently , art has withstood the pressure of chaotic things .
+2
+#7 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+It realized that to admit them was to jeopardize form .
+3
+#1 realize VERB realize%2:31:01::
+#4 admit VERB admit%2:40:00::,admit%2:41:00::,admit%2:41:01::
+#9 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+" How could the mess be admitted , because it appears to be the very opposite of form and therefore destructive of the very thing that art holds itself to be " ?
+5
+#4 mess NOUN mess%1:26:02::
+#6 admit VERB admit%2:40:00::,admit%2:41:00::,admit%2:41:01::
+#10 appear VERB appear%2:30:00::
+#17 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#27 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+But now we can keep it out no longer , because we have come into a time when " it invades our experience at every moment .
+4
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#13 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+#16 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#25 moment NOUN moment%1:28:00::,moment%1:28:01::
+I granted this might be so , but found the result to be even more attention to form than was the case previously .
+4
+#1 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#15 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#21 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+How , I asked , could chaos be admitted to chaos ?
+2
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#8 admit VERB admit%2:40:00::,admit%2:41:00::,admit%2:41:01::
+Would not that be the end of thinking and the end of art ?
+4
+#1 not ADV not%4:02:00::
+#5 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#7 thinking NOUN thinking%1:09:00::
+#10 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+If we look at recent art we find it preoccupied with form .
+2
+#4 recent ADJ recent%5:00:00:past:00
+#11 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+Beckett 's own work is an example .
+3
+#2 own ADJ own%5:00:00:personal:00
+#3 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#6 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+Plays more highly formalized than " Waiting for Godot " , " Endgame " , and " Krapp 's Last Tape " would be hard to find .
+4
+#0 play NOUN play%1:10:01::,play%1:10:03::
+#1 more ADV more%4:02:00::
+#24 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#26 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+" What I am saying does not mean that there will henceforth be no form in art .
+4
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 not ADV not%4:02:00::
+#7 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#14 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+It only means that there will be new form , and that this form will be of such a type that it admits the chaos and does not try to say that the chaos is really something else .
+9
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#8 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#13 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#19 type NOUN type%1:18:00::
+#27 not ADV not%4:02:00::
+#28 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#30 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#35 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+The form and the chaos remain separate .
+1
+#1 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+The latter is not reduced to the former .
+4
+#1 latter ADJ latter%3:00:00::
+#3 not ADV not%4:02:00::
+#4 reduce VERB reduce%2:37:00::,reduce%2:41:00::
+#7 former ADJ former%3:00:00::
+That is why the form itself becomes a preoccupation , because it exists as a problem separate from the material it accommodates .
+5
+#4 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#6 become VERB become%2:30:00::,become%2:42:01::
+#12 exist VERB exist%2:42:00::
+#15 problem NOUN problem%1:09:00::,problem%1:26:00::
+#19 material NOUN material%1:06:01::,material%1:10:00::
+To find a form that accommodates the mess , that is the task of the artist now " .
+4
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#3 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#7 mess NOUN mess%1:26:02::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Yet , I responded , could not similar things be said about the art of the past ?
+4
+#6 not ADV not%4:02:00::
+#8 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 past NOUN past%1:28:01::
+Is it not characteristic of the greatest art that it confronts us with something we cannot clarify , demanding that the viewer respond to it in his own never predictable way ?
+5
+#2 not ADV not%4:02:00::
+#16 clarify VERB clarify%2:32:00::
+#21 viewer NOUN viewer%1:18:01::
+#27 own ADJ own%5:00:00:personal:00
+#30 way NOUN way%1:04:00::,way%1:09:00::
+What is the history of criticism but the history of men attempting to make sense of the manifold elements in art that will not allow themselves to be reduced to a single philosophy or a single aesthetic theory ?
+10
+#3 history NOUN history%1:28:00::
+#8 history NOUN history%1:28:00::
+#10 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#13 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#14 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+#18 element NOUN element%1:06:00::,element%1:09:00::
+#23 not ADV not%4:02:00::
+#28 reduce VERB reduce%2:37:00::,reduce%2:41:00::
+#31 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#35 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+" Not this " , he said , and gestured toward the Madeleine .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The classical lines of the church which Napoleon thought of as a Temple of Glory , dominated all the scene where we sat .
+5
+#1 classical ADJ classical%5:00:01:classical:00
+#2 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#12 temple NOUN temple%1:06:02::
+#19 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#22 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+The Boulevard de la Madeleine , the Boulevard Malesherbes , and the Rue Royale ran to it with graceful flattery , bearing tidings of the Age of Reason .
+2
+#14 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#21 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+This does not allow the mystery to invade us .
+3
+#2 not ADV not%4:02:00::
+#3 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#5 mystery NOUN mystery%1:09:00::
+With classical art , all is settled .
+1
+#1 classical ADJ classical%5:00:01:classical:00
+But it is different at Chartres .
+1
+#3 different ADJ different%5:00:00:unusual:00
+There is the unexplainable , and there art raises questions that it does not attempt to answer " .
+2
+#8 raise VERB raise%2:32:01::,raise%2:37:08::
+#13 not ADV not%4:02:00::
+I asked about the battle between life and death in his plays .
+3
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#6 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#11 play NOUN play%1:10:01::,play%1:10:03::
+Didi and Gogo hover on the edge of suicide ; Hamm 's world is death and Clov may or may not get out of it to join the living child outside .
+3
+#6 edge NOUN edge%1:06:01::
+#12 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#30 outside ADV outside%4:02:01::
+Is this life death question a part of the chaos ?
+1
+#6 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+If life and death did not both present themselves to us , there would be no inscrutability .
+2
+#5 not ADV not%4:02:00::
+#7 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+If there were only darkness , all would be clear .
+3
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#9 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+It is because there is not only darkness but also light that our situation becomes inexplicable .
+3
+#7 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#13 situation NOUN situation%1:26:01::
+#14 become VERB become%2:30:00::,become%2:42:01::
+Take Augustine 's doctrine of grace given and grace withheld : have you pondered the dramatic qualities in this theology ?
+6
+#0 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#5 grace NOUN grace%1:07:03::
+#6 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#8 grace NOUN grace%1:07:03::
+#15 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#16 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+Two thieves are crucified with Christ , one saved and the other damned .
+4
+#3 crucify VERB crucify%2:41:00::
+#5 Christ NOUN christ%1:18:00::
+#11 other ADJ other%3:00:00::
+#12 damned ADJ damned%5:00:00:lost:02
+How can we make sense of this division ?
+2
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#4 sense NOUN sense%1:09:03::,sense%1:09:04::,sense%1:09:06::
+In classical drama , such problems do not arise .
+5
+#1 classical ADJ classical%5:00:00:standard:03
+#2 drama NOUN drama%1:10:00::,drama%1:10:01::
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#7 not ADV not%4:02:00::
+#8 arise VERB arise%2:30:00::,arise%2:42:01::
+The destiny of Racine 's Phedre is sealed from the beginning : she will proceed into the dark .
+2
+#7 seal VERB seal%2:31:00::
+#17 dark NOUN dark%1:26:00::,dark%1:28:00::
+As she goes , she herself will be illuminated .
+2
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 illuminate VERB illuminate%2:30:03::
+At the beginning of the play she has partial illumination and at the end she has complete illumination , but there has been no question but that she moves toward the dark .
+7
+#5 play NOUN play%1:10:01::,play%1:10:03::
+#8 partial ADJ partial%5:00:00:incomplete:00
+#9 illumination NOUN illumination%1:10:00::
+#13 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#16 complete ADJ complete%5:00:00:skilled:00
+#17 illumination NOUN illumination%1:10:00::
+#31 dark NOUN dark%1:26:00::,dark%1:28:00::
+That is the play .
+1
+#3 play NOUN play%1:10:01::,play%1:10:03::
+Within this notion clarity is possible , but for us who are neither Greek nor Jansenist there is not such clarity .
+4
+#2 notion NOUN notion%1:09:02::
+#12 neither ADV neither%5:00:00:incomplete:00
+#13 Greek NOUN greek%1:18:00::
+#18 not ADV not%4:02:00::
+The question would also be removed if we believed in the contrary - total salvation .
+4
+#5 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#8 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#11 contrary NOUN contrary%1:24:01::
+#13 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+But where we have both dark and light we have also the inexplicable .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The key word in my plays is ' perhaps " ' .
+2
+#2 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#5 play NOUN play%1:10:01::,play%1:10:03::
+Given a theological lead , I asked what he thinks about those who find a religious significance to his plays .
+6
+#3 lead NOUN lead%1:04:00::,lead%1:04:01::,lead%1:09:00::
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#9 think VERB think%2:31:01::,think%2:31:03::
+#13 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#16 significance NOUN significance%1:09:01::
+#19 play NOUN play%1:10:01::,play%1:10:03::
+" Well , really there is none at all .
+1
+#3 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+Once I had a religious emotion .
+1
+#0 once ADV once%4:02:00::
+It was at my first Communion .
+2
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#5 communion NOUN communion%1:04:01::
+My mother was deeply religious .
+1
+#1 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+So was my brother .
+1
+#3 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+He knelt down at his bed as long as he could kneel .
+2
+#2 down ADV down%4:02:00::,down%4:02:02::
+#5 bed NOUN bed%1:06:00::
+My father had none .
+2
+#1 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The family was Protestant , but for me it was only irksome and I let it go .
+3
+#1 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 let VERB let%2:30:01::,let%2:41:00::
+My brother and mother got no value from their religion when they died .
+5
+#1 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#3 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 value NOUN value%1:21:00::,values%1:09:00::
+#12 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+At the moment of crisis it had no more depth than an old school tie .
+6
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 depth NOUN depth%1:07:01::,depth%1:07:02::
+#12 old ADJ old%3:00:01::,old%3:00:02::
+#13 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#14 tie NOUN tie%1:06:01::
+Irish Catholicism is not attractive , but it is deeper .
+2
+#3 not ADV not%4:02:00::
+#9 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+When you pass a church on an Irish bus , all the hands flurry in the sign of the cross .
+3
+#2 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#8 bus NOUN bus%1:06:00::
+#12 hand NOUN hand%1:08:00::,hand%1:10:01::
+One day the dogs of Ireland will do that too and perhaps also the pigs " .
+4
+#1 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#3 dog NOUN dog%1:05:00::
+#9 too ADV too%4:02:01::
+#14 pig NOUN pig%1:18:00::
+But do the plays deal with the same facets of experience religion must also deal with ?
+3
+#4 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#7 same ADJ same%3:00:00::,same%3:00:02::
+#14 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+" Yes , for they deal with distress .
+2
+#5 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#7 distress NOUN distress%1:26:00::
+Some people object to this in my writing .
+2
+#1 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 writing NOUN writing%1:10:02::
+At a party an English intellectual - so-called - asked me why I write always about distress .
+5
+#2 party NOUN party%1:14:00::
+#9 ask VERB ask%2:32:00::,ask%2:32:04::
+#13 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#14 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#16 distress NOUN distress%1:26:00::
+He wanted to know if my father had beaten me or my mother had run away from home to give me an unhappy childhood .
+6
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#12 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#17 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#19 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+I told him no , that I had had a very happy childhood .
+3
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#11 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+Then he thought me more perverse than ever .
+1
+#7 ever ADV ever%4:02:05::
+I left the party as soon as possible and got into a taxi .
+3
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+#3 party NOUN party%1:14:00::
+#5 soon ADV soon%4:02:00::
+On the glass partition between me and the driver were three signs :
+2
+#8 driver NOUN driver%1:18:00::,driver%1:18:02::
+#11 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+one asked for help for the blind , another help for orphans , and the third for relief for the war refugees .
+5
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#3 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#6 blind NOUN blind%1:14:00::
+#9 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#11 orphan NOUN orphan%1:18:00::
+One does not have to look for distress .
+3
+#2 not ADV not%4:02:00::
+#3 have VERB have%2:42:08::
+#7 distress NOUN distress%1:26:00::
+It is screaming at you even in the taxis of London " .
+1
+#8 taxi NOUN taxi%1:06:00::
+Lunch was over , and we walked back to the hotel with the light and dark of Paris screaming at us .
+5
+#6 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#7 back ADV back%4:02:01::,back%4:02:04::
+#10 hotel NOUN hotel%1:06:00::
+#15 dark NOUN dark%1:26:00::,dark%1:28:00::
+#17 Paris NOUN paris%1:15:00::
+The personal quality of Samuel Beckett is similar to qualities I had found in the plays .
+4
+#2 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#9 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#15 play NOUN play%1:10:01::,play%1:10:03::
+He says nothing that compresses experience within a closed pattern .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#9 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+" Perhaps " stands in place of commitment .
+1
+#7 commitment NOUN commitment%1:04:00::
+At the same time , he is plainly sympathetic , clearly friendly .
+2
+#7 plainly ADV plainly%4:02:01::
+#8 sympathetic ADJ sympathetic%3:00:00::,sympathetic%5:00:00:kind:00
+If there were only the mess , all would be clear ; but there is also compassion .
+1
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+As a Christian , I know I do not stand where Beckett stands , but I do see much of what he sees .
+6
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 not ADV not%4:02:00::
+#9 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#12 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#17 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#22 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+As a writer on the theater , I have paid close attention to the plays .
+1
+#14 play NOUN play%1:10:01::,play%1:10:03::
+Harold Clurman is right to say that " Waiting for Godot " is a reflection ( he calls it a distorted reflection ) " of the impasse and disarray of Europe 's present politics , ethic , and common way of life " .
+4
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#20 distorted ADJ distorted%5:00:00:disingenuous:00
+#32 present ADJ present%3:00:01::
+Yet it is not only Europe the play refers to .
+4
+#3 not ADV not%4:02:00::
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 play NOUN play%1:10:01::,play%1:10:03::
+#8 refer VERB refer%2:32:00::,refer%2:42:00::
+" Waiting for Godot " sells even better in America than in France .
+2
+#5 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#7 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+The consciousness it mirrors may have come earlier to Europe than to America , but it is the consciousness that most " mature " societies arrive at when their successes in technological and economic systematization propel them into a time of examining the not strictly practical ends of culture .
+11
+#6 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#22 mature ADJ mature%5:00:00:developed:00
+#24 society NOUN society%1:14:00::,society%1:14:02::
+#33 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#39 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#41 examine VERB examine%2:31:00::,examine%2:32:01::
+#43 not ADV not%4:02:00::
+#44 strictly ADV strictly%4:02:01::
+#45 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#46 end NOUN end%1:09:02::,end%1:11:00::
+#48 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+America is now joining Europe in this " mature " phase of development .
+4
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 mature ADJ mature%5:00:00:developed:00
+#10 phase NOUN phase%1:07:00::,phase%1:28:00::
+#12 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+Whether any of us remain in it long will depend on what happens as a result of the technological and economic revolutions now going on in the countries of Asia and Africa , and also of course on how long the cold war remains cold .
+7
+#12 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#20 economic ADJ economic%3:01:00::,economic%3:01:01::,economic%5:00:00:worldly:00
+#21 revolution NOUN revolution%1:04:00::
+#22 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#27 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#39 long ADJ long%3:00:02::
+#44 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00

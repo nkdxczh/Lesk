@@ -1,0 +1,300 @@
+ Emory University 's Board of Trustees announced Friday that it was prepared to accept students of any race as soon as the state 's tax laws made such a step possible .
+3
+#11 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#13 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" Emory University 's charter and by-laws have never required admission or rejection of students on the basis of race " , board chairman Henry L. Bowden stated .
+1
+#27 state VERB state%2:32:01::,state%2:32:02::
+But an official statement adopted by the 33 - man Emory board at its annual meeting Friday noted that state taxing requirements at present are a roadblock to accepting Negroes .
+3
+#17 note VERB note%2:32:00::,note%2:39:00::
+#20 tax VERB tax%2:40:00::
+#28 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+The statement explained that under the Georgia Constitution and state law , tax-exempt status is granted to educational institutions only if they are segregated .
+1
+#15 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+" Emory could not continue to operate according to its present standards as an institution of higher learning , of true university grade , and meet its financial obligations , without the tax-exemption privileges which are available to it only so long as it conforms to the aforementioned constitutional and statutory provisions " , the statement said .
+5
+#4 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#6 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#7 accord VERB accord%2:42:00::
+#25 meet VERB meet%2:41:02::,meet%2:42:01::
+#56 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The statement did not mention what steps might be taken to overcome the legal obstacles to desegregation .
+1
+#9 take VERB take%2:31:02::,take%2:34:00::
+An Emory spokesman indicated , however , that the university itself did not intend to make any test of the laws .
+3
+#3 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#13 intend VERB intend%2:31:01::,intend%2:32:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The Georgia Constitution gives the Legislature the power to exempt colleges from property taxation if , among other criteria , " all endowments to institutions established for white people shall be limited to white people , and all endowments to institutions established for colored people shall be limited to colored people " .
+2
+#25 establish VERB establish%2:36:01::,establish%2:41:00::
+#41 establish VERB establish%2:36:01::,establish%2:41:00::
+At least two private colleges in the Atlanta area now or in the past have had integrated student bodies , but their tax-exempt status never has been challenged by the state .
+2
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 challenge VERB challenge%2:32:02::,challenge%2:32:03::
+Some church leaders , both clerical and lay , have criticized the university for not taking the lead in desegregation .
+2
+#10 criticize VERB criticise%2:32:00::
+#15 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+" From its beginning " , the trustees ' statement said Friday , " Emory University has assumed as its primary commitment a dedication to excellence in Christian higher learning .
+2
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 assume VERB assume%2:40:00::,assume%2:40:01::
+Teaching , research and study , according to highest standards , under Christian influence , are paramount in the Emory University policy .
+1
+#6 accord VERB accord%2:42:00::
+" As a private institution , supported by generous individuals , Emory University will recognize no obligation and will adopt no policy that would conflict with its purpose to promote excellence in scholarship and Christian education .
+2
+#6 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#14 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+" There is not now , nor has there ever been in Emory University 's charter or by-laws any requirement that students be admitted or rejected on the basis of race , color or creed .
+1
+#23 admit VERB admit%2:40:00::,admit%2:41:00::,admit%2:41:01::
+Insofar as its own governing documents are concerned , Emory University could now consider applications from prospective students , and others seeking applications from prospective students , and others seeking the opportunity to study or work at the university , irrespective of race , color or creed .
+3
+#7 concern VERB concern%2:42:00::,concern%2:42:01::
+#33 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#35 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+" When and if it can do so without jeopardizing constitutional and statutory tax-exemption privileges essential to the maintenance of its educational program and facilities , Emory University will consider applications of persons desiring to study or work at the University without regard to race , color or creed , continuing university policy that all applications shall be considered on the basis of intellectual and moral standards and other criteria designed to assure the orderly and effective conduct of the university and the fulfillment of its mission as an institution of Christian higher education " .
+4
+#35 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#37 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#50 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#72 assure VERB assure%2:31:00::,assure%2:32:03::
+A young man was killed and two others injured at midnight Friday when the car they were riding slid into a utility pole on Lake Avenue near Waddell Street , NE , police said .
+3
+#4 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#17 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#33 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The dead youth was identified as Robert E. Sims , 19 , of 1688 Oak Knoll Cir. , SE .
+1
+#4 identify VERB identify%2:31:00::,identify%2:32:00::
+Patrolman G. E. Hammons said the car evidently slid out of control on rain-slick streets and slammed into the pole .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The other occupants were James Willard Olvey , 18 , of 963 Ponce de Leon Ave. , NE , and Larry Coleman Barnett , 19 , of 704 Hill St. , SE , both of whom were treated at Grady Hospital for severe lacerations and bruises .
+1
+#37 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+The Atlanta Negro student movement renewed its demands for movie theater integration Friday and threatened picketing and " stand-ins " if negotiations failed .
+1
+#22 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+" We intend to attend the downtown theaters before the first of the year " , the identically worded letters said .
+4
+#2 intend VERB intend%2:31:01::,intend%2:32:00::
+#4 attend VERB attend%2:42:00::
+#18 word VERB word%2:32:00::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The letters set a Nov. 15 deadline for the start of negotiations .
+1
+#2 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+They indicated that stand-ins and picketing would be started if theater owners failed to cooperate .
+2
+#1 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#12 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+Downtown and art theater managers and owners , contacted Friday night for comment on the COAHR request , said they had no knowledge of such a letter , and that it was not in the Friday mail .
+2
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+However , three of the managers did say that they would agree to attend the proposed meeting if all of the other managers decided to attend .
+4
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 agree VERB agree%2:32:00::,agree%2:32:01::
+#13 attend VERB attend%2:42:00::
+#25 attend VERB attend%2:42:00::
+The COAHR letter comes on the eve of a large gathering of theater managers and owners scheduled to begin here Sunday .
+2
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#18 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Several theater operators said , however , that there is little likelihood of the subject being discussed during the three-day affair .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Student leaders began sporadic efforts to negotiate theater integration several months ago .
+2
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#6 negotiate VERB negotiate%2:32:00::
+Charles A. Black , COAHR chairman , said Friday that three theater representatives had agreed to meet with the students on Oct. 31 but had failed to show up .
+4
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 agree VERB agree%2:32:00::,agree%2:32:01::
+#16 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#25 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+He declined to name the three .
+2
+#1 decline VERB decline%2:40:00::
+#3 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+Friday 's letters asked for a Nov. 15 meeting .
+1
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+Failure to attend the meeting or explain inability to attend , the letters said , would be considered a " sign of indifference " .
+3
+#2 attend VERB attend%2:42:00::
+#9 attend VERB attend%2:42:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Black said COAHR " hoped to be able to integrate the theaters without taking direct action , but we are pledged to using every legal and nonviolent means at our disposal " .
+5
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 integrate VERB integrate%2:41:00::
+#13 take VERB take%2:31:02::,take%2:34:00::
+#20 pledge VERB pledge%2:32:00::
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+A prepared statement released by the student group Friday stated that " extensive research by COAHR into techniques and methods of theater integration in other cities indicated that the presence of picket lines and stand-ins before segregated theaters causes a drop in profits " .
+3
+#3 release VERB release%2:32:00::,release%2:41:01::
+#9 state VERB state%2:32:01::,state%2:32:02::
+#26 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+Raymond E. Killingsworth , 72 , died Sunday at his home at 357 Venable St. , NW .
+1
+#6 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Survivors include two brothers , C. E. Killingsworth , Atlanta , and John Killingsworth , Warren , Ohio ; and two sisters , Miss Minnie Kililngsworth and Mrs. Bessie Bloom , both of Gettysburg , Pa. .
+1
+#1 include VERB include%2:42:00::
+John William Ball , 68 , of 133 Marietta St. NW , Apartment 101 B , died Sunday at his home .
+1
+#16 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Survivors include his sister , Mrs. Emma B. Odom of Atlanta .
+1
+#1 include VERB include%2:42:00::
+Mrs. Lola M. Harris , a native of Atlanta , died Sunday at her home in Garland , Tex. .
+1
+#10 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Survivors include a son , Charles R. Fergeson , Memphis , Tenn. ; two daughters , Mrs. Gene F. Stoll and Miss Nancy Harris , both of Garland ; her father , H. T. Simpson , Greenville , S. C. , and three sisters , Mrs. W. E. Little and Mrs. Hal B. Wansley , both of Atlanta , and Mrs. Bill Wallace , Wilmington , N. C. .
+1
+#1 include VERB include%2:42:00::
+A 24 - year-old Atlanta man was arrested Sunday after breaking into the home of relatives in search of his wife , hitting his uncle with a rock and assaulting two police officers who tried to subdue him , police said .
+5
+#7 arrest VERB arrest%2:35:00::
+#10 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#22 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#34 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#40 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Patrolmen J. W. Slate and A. L. Crawford Jr. said they arrested Ronald M. Thomas , of 1671 Nakoma St. , NW , after he assaulted the officers .
+2
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 arrest VERB arrest%2:35:00::
+The officers gave this account :
+1
+#2 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+The younger Thomas ripped a screen door , breaking the latch , and after an argument struck his uncle with a rock , scratching his face .
+4
+#3 rip VERB rip%2:35:00::
+#8 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#16 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#23 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+He also struck his aunt and wife , and during the melee the baby also suffered scratches .
+2
+#2 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#15 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+When police arrived the man was still violent , Slate said .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+About five minutes later he jumped up , Slate said , and struck the two policemen again .
+3
+#5 jump VERB jump%2:30:05::,jump%2:31:00::,jump%2:33:00::,jump%2:33:03::,jump%2:38:00::,jump%2:38:01::,jump%2:38:04::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+He was then subdued and placed in the police car to be taken to Grady Hospital for treatment of scratches received in the melee .
+2
+#5 place VERB place%2:31:13::
+#20 receive VERB receive%2:31:00::,receive%2:39:03::,receive%2:39:15::,receive%2:40:00::,receive%2:42:00::
+Then he attacked the two officers again and was again restrained , Slate related .
+1
+#13 relate VERB relate%2:32:00::
+Slate said he and Crawford received cuts and scratches and their uniforms were badly torn .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 receive VERB receive%2:31:00::,receive%2:39:03::,receive%2:39:15::,receive%2:40:00::,receive%2:42:00::
+#14 tear VERB tear%2:35:00::,tear%2:35:01::
+Thomas was charged with four counts of assault and battery .
+1
+#2 charge VERB charge%2:32:00::,charge%2:32:02::,charge%2:32:03::
+Two counts of assault on an officer , resisting arrest , disturbance and cursing , police said .
+2
+#13 curse VERB curse%2:32:00::,curse%2:32:02::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+A hearing was set for 8 : 30 a. m. Tuesday .
+1
+#3 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+Mrs. Mary Self , who knows more than any other person about the 5000 city employes for whom she has kept personnel records over the years , has closed her desk and retired .
+3
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 keep VERB keep%2:32:00::,keep%2:34:00::
+#32 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+After 18 years in the personnel office , she has taken a disability pension on advice of her doctors .
+1
+#10 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+As personnel clerk , she handled thousands of entries , ranging from appointments to jobs , to transfers to other employments , to pensions .
+2
+#5 handle VERB handle%2:41:00::,handle%2:41:03::
+#10 range VERB range%2:42:00::
+" I have enjoyed it and will feel a bit lost at least for a while " , she said wistfully Friday .
+3
+#3 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#7 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+One of the largest crowds in the club 's history turned out to pay tribute to Mrs. Self and her service .
+1
+#13 pay VERB pay%2:41:00::
+Georgia 's Department of Agriculture is intensifying its fire ant eradication program in an effort to stay ahead of the fast-spreading pest .
+1
+#6 intensify VERB intensify%2:30:00::
+The department is planning to expand its eradication program soon to four additional counties - Troup , Pierce , Bryan and Bulloch - to treat 132000 acres infested by the ants , according to W. E. Blasingame state entomologist .
+3
+#3 plan VERB plan%2:31:00::,plan%2:31:01::
+#24 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#32 accord VERB accord%2:42:00::
+Low-flying planes will spread a granular-type chemical , heptachlor , over 30000 acres in Troup , 37000 acres in Pierce and 65000 acres in Bulloch and Bryan counties .
+1
+#3 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+The eradication effort is being pushed in Bibb and Jones counties , over 37679 acres .
+1
+#5 push VERB push%2:32:00::,push%2:40:00::,push%2:41:10::
+The department has just finished treating 20000 acres in urban areas of Macon .
+2
+#4 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#5 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+Also being treated are Houston , Bleckley , Tift , Turner and Dodge counties , Blasingame said .
+2
+#2 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The fire ant is thought to infest approximately two million acres of land in Georgia , attacking crops , young wildlife and livestock and can be a serious health menace to humans who are allergic to its venom , Blasingame said .
+1
+#40 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The north-bound entrance to the Expressway at 14 th Street will be closed during the afternoon rush traffic hours this week .
+1
+#12 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+Students have been using electric computers and high speed movie cameras during the study .
+1
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+It is followed by Cain Street and Piedmont Avenue , NE ; the junction of the Northeast and Northwest Expressways and Jones Avenue and Marietta Street , NW .
+1
+#2 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Four persons died in Georgia weekend traffic crashes , two of them in a fiery crash near Snellville , the State Patrol said Sunday .
+2
+#2 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The latest death reported was that of 4 - year-old Claude Douglas Maynor of Calvary .
+1
+#3 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Troopers said the child ran into the path of a passing car a half-mile north of Calvary on Georgia 111 in Grady County .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+That death occurred at 6 : 50 p. m. Friday and was reported Sunday , the patrol said .
+2
+#12 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+An auto overturned , skidding into a stopped tractor-trailer and burst into flames near Snellville , the patrol said .
+4
+#2 overturn VERB overturned%5:00:00:turned:00
+#4 skid VERB skid%2:38:02::
+#7 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Bobby Bester Hammett , 21 , of Rte. 3 , Lawrenceville , and Mrs. Lucille Herrington Jones , 23 , of Lawrenceville , died in the flaming car , the patrol said .
+2
+#23 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#31 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::

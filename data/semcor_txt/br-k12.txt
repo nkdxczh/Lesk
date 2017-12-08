@@ -1,0 +1,690 @@
+ She was a child too much a part of her environment , too eager to grow and learn and experience .
+6
+#4 too ADV too%4:02:00::
+#7 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#10 environment NOUN environment%1:15:00::,environment%1:26:00::
+#12 too ADV too%4:02:00::
+#15 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#17 learn VERB learn%2:31:01::,learn%2:31:03::
+Once , they were at Easthampton for the summer ( again , Fritzie said , a good place , even though they were being robbed ) .
+4
+#0 once ADV once%4:02:00::
+#8 summer NOUN summer%1:28:00::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+One soft evening - that marvelous sea blessed time when the sun 's departing warmth lingers and a smell of spume and wrack haunts everything - Amy had picked herself off the floor and begun to walk .
+8
+#1 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+#2 evening NOUN evening%1:28:00::,evening%1:28:02::
+#7 blessed ADJ blessed%5:00:01:holy:00
+#11 sun NOUN sun%1:18:00::,sun%1:19:00::
+#28 pick VERB pick%2:35:01::
+#32 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#34 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#36 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Fritzie was on the couch reading ; Laura was sitting in an easy chair about eight feet away .
+5
+#4 couch NOUN couch%1:06:00::
+#5 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#9 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#16 foot NOUN foot%1:23:00::
+#17 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+The infant , in white terry-cloth bathrobe , her face intense and purposeful , had essayed a few wobbly steps toward her father .
+5
+#4 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#10 intense ADJ intense%5:00:00:sharp:04
+#19 step NOUN step%1:04:00::,step%1:04:03::,step%1:23:00::,step%1:23:01::,steps%1:17:00::
+#22 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+" Y'all wanna walk - walk " , he said .
+3
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#5 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Then , gently , he shoved her behind toward Laura .
+1
+#0 then ADV then%4:02:00::
+Amy walked - making it halfway across the cottage floor .
+2
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#9 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+She lost not a second , picking herself up and continuing her pilgrimage to Laura .
+4
+#1 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#2 not ADV not%4:02:00::
+#4 second NOUN second%1:28:00::,second%1:28:01::
+#10 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Then Laura took her gently and shoved her off again , toward Fritzie :
+2
+#0 then ADV then%4:02:00::
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+Amy did not laugh - this was work , concentration , achievement .
+3
+#7 work NOUN work%1:06:01::
+#9 concentration NOUN concentration%1:07:01::,concentration%1:09:00::
+#11 achievement NOUN achievement%1:04:00::
+In a few minutes she was making the ten foot hike unaided ; soon she was parading around the house , flaunting her new skill .
+6
+#3 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 foot NOUN foot%1:23:00::
+#10 hike NOUN hike%1:04:00::
+#13 soon ADV soon%4:02:00::
+#19 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+Some liar 's logic , a wisp of optimism as fragile as the scent of tropical blossoms that came through the window ( a euphoria perhaps engendered by the pill Fritzie had given her ) , consoled her for a moment .
+7
+#3 logic NOUN logic%1:09:00::
+#8 optimism NOUN optimism%1:12:00::
+#13 scent NOUN scent%1:09:01::
+#15 tropical ADJ tropical%3:01:00::
+#21 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#32 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#40 moment NOUN moment%1:28:00::,moment%1:28:01::
+Amy had to be safe , had to come back to them - if only to reap that share of life 's experiences that were her due , if only to give her parents another chance to do better by her .
+5
+#18 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#20 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#26 due NOUN due%1:07:00::
+#31 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#38 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+Through the swathings of terror , she jabbed deceit 's sharp point - Amy would be reborn , a new child , with new parents , living under new circumstances .
+5
+#4 terror NOUN terror%1:04:00::
+#10 sharp ADJ sharp%3:00:00::,sharp%3:00:04::,sharp%5:00:00:high:03,sharp%5:00:00:unpleasant:00
+#11 point NOUN point%1:06:00::,point%1:25:00::
+#26 live VERB live%2:42:08::
+#29 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+The comfort was short-lived , yet she found herself returning to the assurance whenever her imagination forced images on her too awful to contemplate without the prop of illusion .
+5
+#9 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#16 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#17 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#20 too ADV too%4:02:00::
+#21 awful ADJ awful%5:00:00:alarming:00
+Gazing at her husband 's drugged body , his chest rising and falling in mindless rhythms , she saw the grandeur of his fictional world , that lush garden from which he plucked flowers and herbs .
+9
+#6 body NOUN body%1:08:00::,body%1:08:02::
+#9 chest NOUN chest%1:08:00::,chest%1:08:01::
+#10 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#12 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#24 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#28 garden NOUN garden%1:06:00::
+#32 pluck VERB pluck%2:35:01::
+#33 flower NOUN flower%1:20:00::,flower%1:28:00::
+#35 herb NOUN herb%1:20:00::
+In the darkness , she saw him stirring .
+3
+#2 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 stir VERB stir%2:36:00::,stir%2:38:01::,stir%2:38:04::
+He seemed to be muttering , his voice surprisingly clear .
+1
+#7 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" Y'all should have let me take that money out " , Andrus said .
+1
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" ' Nother minute I 'd have been fine .
+2
+#3 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#8 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+Laura touched his hand .
+2
+#1 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+" Yes , I know , Fritzie .
+1
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The heat intensified on Tuesday .
+2
+#1 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#2 intensify VERB intensify%2:30:00::
+Southern California gasped and blinked under an autumn hot spell , drier , more enervating , more laden with man 's contrived impurities than the worst days of the summer past .
+6
+#4 blink VERB blink%2:29:00::
+#11 dry ADJ dry%3:00:01::
+#19 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#25 worst ADJ worst%3:00:00::
+#26 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#29 summer NOUN summer%1:28:00::
+It could continue this way , hitting 106 and more in the Valley , Joe McFeeley knew , into October .
+4
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#6 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#16 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He and Irvin Moll were sipping coffee at the breakfast bar .
+2
+#6 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#10 bar NOUN bar%1:06:04::,bar%1:06:05::
+Both had been up since 7 : 00 - Irv on the early morning watch , McFeeley unable to sleep during his four hour relief .
+5
+#3 up ADV up%4:02:00::,up%4:02:02::
+#12 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#14 watch NOUN watch%1:28:00::
+#19 sleep VERB sleep%2:29:00::
+#23 hour NOUN hour%1:07:00::,hours%1:28:01::
+The night before , they had telephoned the Andrus maid , Selena Masters , and she had arrived early , bursting her vigorous presence into the silent house with an assurance that amused McFeeley and confounded Moll .
+6
+#2 before ADV before%4:02:03::
+#18 early ADV earlier%4:02:00::
+#27 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#30 assurance NOUN assurance%1:09:00::
+#32 amuse VERB amuse%2:32:00::
+#35 confound VERB confound%2:31:02::
+The latter , thanking her for the coffee , had winked and muttered , " Sure ' nuff , honey " .
+3
+#1 latter ADJ latter%3:00:00::
+#7 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#19 honey NOUN honey%1:18:00::
+Selena was the wrong woman for these crudities .
+2
+#3 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#7 crudity NOUN crudity%1:07:00::
+With a hard eye , she informed Moll : " Do n't sure ' nuff me , officer .
+4
+#2 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#6 inform VERB inform%2:32:00::,inform%2:32:10::
+#17 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+I'm honey only to my husband , understand " ?
+3
+#1 honey NOUN honey%1:18:00::
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Sergeant Moll understood .
+1
+#2 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+The maid was very black and very energetic , trim in a yellow pique uniform .
+3
+#4 black ADJ black%3:00:02::
+#12 yellow ADJ yellow%5:00:00:chromatic:00
+#14 uniform NOUN uniform%1:06:00::
+Her speech was barren of southernisms ; she was one of Eliot Sparling 's neutralized minorities , adopting the rolling R 's and constricted vowels of Los Angeles .
+3
+#1 speech NOUN speech%1:09:00::,speech%1:10:00::,speech%1:10:05::
+#15 minority NOUN minority%1:07:00::
+#19 rolling ADJ rolled%5:00:00:coiled:00
+Not seeing her dark intelligent face , one would have gauged the voice as that of a Westwood Village matron , ten years out of Iowa .
+6
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#10 gauge VERB gauge%2:32:00::
+#12 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#19 matron NOUN matron%1:18:00::
+#22 year NOUN year%1:28:00::,year%1:28:01::
+After she had served the detectives coffee and toast ( they politely declined eggs , uncomfortable about their tenancy ) , she settled down with a morning newspaper and began reading the stock market quotations .
+7
+#3 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#6 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#8 toast NOUN toast%1:13:00::
+#13 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#29 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#30 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#34 quotation NOUN quotation%1:10:02::
+While she was thus engaged , McFeeley questioned her about her whereabouts the previous day , any recollections she had of people hanging around , of overcurious delivery boys or repairmen , of strange cars cruising the neighborhood .
+7
+#3 thus ADV thus%4:02:01::
+#4 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#13 previous ADJ previous%5:00:00:preceding:00
+#14 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#19 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#21 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#33 strange ADJ strange%3:00:01::,strange%5:00:01:unfamiliar:00
+She answered him precisely , missing not a beat in her scrutiny of the financial reports .
+2
+#1 answer VERB answer%2:31:00::,answer%2:32:00::
+#15 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+Selena Masters , Joe realized , was her own woman .
+2
+#4 realize VERB realize%2:31:01::
+#8 own ADJ own%5:00:00:personal:00
+She was the only kind of Negro Laura Andrus would want around : independent , unservile , probably charging double what ordinary maids did for housework - and doubly efficient .
+6
+#10 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#11 around ADV around%4:02:01::
+#13 independent ADJ independent%3:00:00::,independent%5:00:00:nonpartisan:00
+#18 charge VERB charge%2:40:01::,charge%2:40:03::
+#19 double ADJ double%5:00:02:multiple:00
+#21 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+When the parents emerged from the bedroom a few minutes later , the maid greeted them quietly .
+3
+#9 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#10 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#14 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+" I'm awful sorry about what 's happened " , Selena said .
+3
+#3 sorry ADJ sorry%3:00:02::
+#7 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Maybe today 'll be a good news day " .
+2
+#6 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+She charged off to the bedrooms .
+1
+#1 charge VERB charge%2:33:00::,charge%2:38:00::
+Moll took his coffee into the nursery .
+2
+#1 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#3 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+During the night , a phone company technician had deadened the bells and installed red blinkers on the phones .
+6
+#2 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#11 bell NOUN bell%1:28:00::
+#13 install VERB install%2:35:00::
+#14 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#15 blinker NOUN blinker%1:10:00::
+#18 phone NOUN phone%1:06:00::
+Someone would have to remain in the office continually .
+2
+#7 office NOUN office%1:06:00::
+#8 continually ADV continually%4:02:01::
+McFeeley greeted the parents , then studied his notebook .
+2
+#1 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#5 then ADV then%4:02:00::
+He wanted to take the mother to headquarters at once and start her on the mug file .
+3
+#3 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#5 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#11 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+" Sleep well " ? he asked .
+3
+#1 sleep VERB sleep%2:29:00::
+#2 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+Andrus did not answer him .
+2
+#2 not ADV not%4:02:00::
+#3 answer VERB answer%2:31:00::,answer%2:32:00::
+His face was bloated with drugging , redder than normal .
+3
+#1 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#7 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#9 normal ADJ normal%3:00:01::,normal%3:00:03::
+The woman had the glassy look of an invalid , as if she had not slept at all .
+5
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 glassy ADJ glassy%5:00:00:empty:00
+#5 look NOUN look%1:07:00::
+#14 not ADV not%4:02:00::
+#15 sleep VERB sleep%2:29:00::
+" Oh - we managed " , she said .
+2
+#4 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Did anything happen during the night " ?
+2
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#5 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+" Few crank calls " , McFeeley said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" A couple of tips we 're running down - nothing promising .
+1
+#4 tip NOUN tip%1:21:00::
+We can expect more of the same .
+1
+#6 same ADJ same%3:00:00::
+Too bad your number is in the directory " .
+3
+#0 too ADV too%4:02:00::
+#3 number NOUN number%1:10:01::,number%1:23:00::
+#7 directory NOUN directory%1:10:00::
+" Did n't occur to me my child would be kidnaped when I had it listed " , Andrus muttered .
+1
+#15 list VERB list%2:32:00::,list%2:41:00::
+He settled on the sofa with his coffee , warming his hands on the cup , although the room was heavy with heat .
+6
+#7 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#14 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#18 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#20 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#22 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+The three had little to say to each other .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The previous night 's horror - the absolute failure , overcast with the intrusions of the press , had left them all with a wan sense of uselessness , of play-acting .
+8
+#1 previous ADJ previous%5:00:00:preceding:00
+#4 horror NOUN horror%1:12:01::
+#7 absolute ADJ absolute%5:00:00:unequivocal:00
+#8 failure NOUN failure%1:04:00::,failure%1:18:00::
+#13 intrusion NOUN intrusion%1:11:00::
+#16 press NOUN press%1:10:00::
+#19 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#25 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+Sipping their coffee , discussing the weather , the day 's shopping , Fritzie 's commitments at the network ( all of which he would cancel ) , they avoided the radio , the morning TV news show , even the front page of the Santa Luisa Register , resting on the kitchen bar .
+10
+#2 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#11 shop NOUN shop%1:06:00::
+#15 commitment NOUN commitment%1:04:00::
+#18 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#25 cancel VERB cancel%2:41:03::
+#29 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#41 front ADJ front%3:00:00::
+#42 page NOUN page%1:10:00::
+#52 kitchen NOUN kitchen%1:06:00::
+#53 bar NOUN bar%1:06:04::,bar%1:06:05::
+Kidnapper Spurns Ransom ; Amy Still Missing .
+1
+#5 still ADV still%4:02:00::
+Once , Andrus walked by it , hastily scanned the bold black headline and the five column lead of the article ( by Duane Bosch , staff correspondent - age not given ) , and muttered : " We a buncha national celebrities " .
+11
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#8 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#10 bold ADJ bold%5:00:00:steep:00
+#11 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#16 column NOUN column%1:10:00::,column%1:14:01::,column%1:25:02::
+#17 lead NOUN lead%1:04:01::,lead%1:10:00::,lead%1:18:00::
+#20 article NOUN article%1:10:00::
+#26 staff NOUN staff%1:14:00::,staff%1:14:01::
+#29 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#30 not ADV not%4:02:00::
+#31 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+McFeeley told the parents he would escort them to police headquarters in a half hour .
+2
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#14 hour NOUN hour%1:07:00::,hours%1:28:01::
+He did not want to bring the Andruses to the station house too early - Rheinholdt had summoned a press conference , and he did n't want them subjected to the reporters again .
+5
+#2 not ADV not%4:02:00::
+#12 too ADV too%4:02:00::
+#13 early ADV earlier%4:02:00::
+#26 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#28 subject VERB subject%2:33:00::
+He could think of nothing else to tell them : no assurances , no hopeful hints at great discoveries that day .
+5
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 assurance NOUN assurance%1:10:00::
+#17 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#18 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#20 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+When the detective left , Andrus phoned his secretary to cancel his work and to advise the network to get a substitute director for his current project .
+6
+#3 leave VERB leave%2:38:00::,leave%2:41:00::
+#10 cancel VERB cancel%2:41:03::
+#12 work NOUN work%1:06:01::
+#17 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#19 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#26 project NOUN project%1:04:00::,project%1:09:00::
+Mrs. Andrus was talking to the maid , arranging for her to come in every day , instead of the four days she now worked .
+5
+#8 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+#12 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#21 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#24 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Outside , only a handful of reporters remained .
+3
+#0 outside ADV outside%4:02:01::
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#4 handful NOUN handful%1:23:00::
+The bulk of the press corps was covering Rheinholdt 's conference .
+2
+#7 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#10 conference NOUN conference%1:14:00::
+In contrast to the caravan of the previous night , there were only four cars parked across the street .
+4
+#4 caravan NOUN caravan%1:14:00::
+#7 previous ADJ previous%5:00:00:preceding:00
+#8 night NOUN night%1:28:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Two men he did not recognize were sipping coffee and munching sweet rolls .
+4
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#4 not ADV not%4:02:00::
+#5 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#8 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+He did not see Sparling , or DeGroot , or Ringel , or any of the feverish crew that had so harassed him twelve hours ago .
+5
+#2 not ADV not%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#17 crew NOUN crew%1:14:00::,crew%1:14:03::
+#20 so ADV so%4:02:03::,so%4:02:07::
+#24 hour NOUN hour%1:07:00::,hours%1:28:01::
+However , the litter remained , augmented by several dozen lunchroom suppers .
+2
+#0 however ADV however%4:02:04::
+#3 litter NOUN litter%1:27:00::
+The street cleaner had not yet been around .
+1
+#7 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+One of the reporters called to him : " Anything new , Lieutenant " ?
+1
+#4 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+And he ignored him , skirting the parked cars and walking up the path to the Skopas house .
+2
+#10 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#17 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+When McFeeley was halfway to the door , the proprietor emerged - a mountainous , dark man , his head thick with resiny black hair , his eyes like two of the black olives he imported in boatloads .
+7
+#15 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#16 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#23 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#24 hair NOUN hair%1:08:00::
+#27 eye NOUN eye%1:08:00::,eye%1:09:01::
+#35 import VERB import%2:40:00::
+McFeeley identified himself .
+1
+#1 identify VERB identify%2:31:00::,identify%2:32:00::
+The master of the house , his nourished face unrevealing , consented to postpone his departure a few minutes to talk to the detective .
+4
+#1 master NOUN master%1:18:04::
+#4 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#8 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#18 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+Inside , as soon as Mr. Skopas had disclosed - in a hoarse whisper - the detective 's errand , his family gathered in a huddle , forming a mass of dark flesh on and around a brocaded sofa which stood at one side of a baroque fireplace .
+7
+#0 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#21 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#22 gather VERB gather%2:30:00::
+#27 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#29 mass NOUN mass%1:07:01::,mass%1:14:02::,mass%1:17:00::,mass%1:23:00::
+#31 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#43 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+Flanked by marble urns and alabaster lamps , they seemed to be posing for a tribal portrait .
+4
+#2 marble NOUN marble%1:06:01::
+#3 urn NOUN urn%1:06:00::
+#12 pose VERB pose%2:39:00::
+#16 portrait NOUN portrait%1:06:00::
+It was amazing how they had herded together for protection : an enormous matriarch in a quilted silk wrapper , rising from the breakfast table ; a gross boy in his teens , shuffling in from the kitchen with a sandwich in his hands ; a girl in her twenties , fat and sullen , descending the marble staircase ; then all four gathering on the sofa to face the inquisitor .
+16
+#6 herd VERB herd%2:42:00::
+#7 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#18 wrapper NOUN wrapper%1:06:01::
+#20 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#27 gross ADJ gross%5:00:00:fat:01
+#28 boy NOUN boy%1:18:03::
+#33 shuffle VERB shuffle%2:38:00::
+#34 in ADV in%4:02:01::
+#37 kitchen NOUN kitchen%1:06:00::
+#43 hand NOUN hand%1:08:00::,hand%1:10:01::
+#46 girl NOUN girl%1:18:01::,girl%1:18:03::
+#55 descend VERB descend%2:38:00::
+#57 marble NOUN marble%1:06:01::
+#60 then ADV then%4:02:00::
+#63 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#68 face VERB face%2:38:00::,face%2:42:00::
+They answered him in monosyllables , nods , occasionally muttering in Greek to one another , awaiting the word from Papa , who restlessly cracked his knuckles , anxious to stuff himself into his white Cadillac and burst off to the freeway .
+7
+#1 answer VERB answer%2:31:00::,answer%2:32:00::
+#11 Greek NOUN greek%1:10:00::
+#18 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#24 crack VERB crack%2:35:00::
+#28 anxious ADJ anxious%5:00:00:troubled:00
+#30 stuff VERB stuff%2:30:02::
+#34 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+No , they had n't seen anyone around ; no , they did n't know the Andrus family ; yes , they had read about the case ; yes , they had let some reporters use their phone , but they would no longer .
+8
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#17 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#23 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#26 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#32 let VERB let%2:30:01::,let%2:41:00::
+#35 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#37 phone NOUN phone%1:06:00::
+They offered no opinions , volunteered nothing , betrayed no emotions .
+1
+#8 betray VERB betray%2:32:01::
+Studying them , McFeeley could not help make comparison with the Andrus couple .
+4
+#0 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#5 not ADV not%4:02:00::
+#8 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#12 couple NOUN couple%1:14:00::,couple%1:17:00::
+The Skopas people seemed to him of that breed of human beings whose insularity frees them from tragedy .
+2
+#2 people NOUN people%1:14:01::
+#17 tragedy NOUN tragedy%1:11:00::
+He imagined they were the kind whose tax returns were never examined ( if they were , they were never penalized ) , whose children had no unhappy romances , whose names never knew scandal .
+6
+#1 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#11 examine VERB examine%2:31:00::,examine%2:32:01::
+#25 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#28 romance NOUN romance%1:10:02::
+#31 name NOUN name%1:10:00::,name%1:26:00::
+#33 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+The equation was simple : wealth brought them happiness , and their united front to the world was their warning that they meant to keep everything they had , let no one in on the secrets .
+6
+#1 equation NOUN equation%1:26:00::
+#3 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#13 front NOUN front%1:09:00::
+#22 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#24 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#27 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+By comparison , Fritzie and Laura Andrus were quivering fledglings .
+1
+#1 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+They possessed no outer fortifications , no hard shells of confidence ; they had enough difficulty getting from day to day , let alone having an awful crime thrust upon them .
+8
+#1 possess VERB possess%2:40:00::,possess%2:42:00::
+#7 hard ADJ hard%3:00:02::,hard%3:00:03::,hard%5:00:00:strong:00
+#8 shell NOUN shell%1:17:01::
+#13 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#14 enough ADV enough%5:00:00:sufficient:00
+#18 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#20 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#26 awful ADJ awful%5:00:00:alarming:00
+Skopas expressed no curiosity over the case , offered no expression of sympathy , made no move to escort McFeeley to the door .
+6
+#1 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#3 curiosity NOUN curiosity%1:09:00::
+#6 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#10 expression NOUN expression%1:10:02::,expression%1:10:04::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#15 no DET no%4:02:01::
+All four remained impacted on the sofa until he had left .
+2
+#3 impacted ADJ impacted%5:00:00:compact:00
+#10 leave VERB leave%2:38:00::,leave%2:41:00::
+He had spoken to Mrs. Emerson the previous day .
+2
+#7 previous ADJ previous%5:00:00:preceding:00
+#8 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+There remained a family named Kahler , owners of a two story Tudor style house on the south side of the Andrus home .
+6
+#3 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#4 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#11 story NOUN story%1:06:00::
+#13 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#14 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#22 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Their names had not come up in any discussions with Laura , and he had no idea what they would be like .
+4
+#1 name NOUN name%1:14:00::
+#3 not ADV not%4:02:00::
+#14 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#16 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+McFeeley noted the immaculate lawn and gardens : each blade of grass cropped , bright and firm ; each shrub glazed with good health .
+9
+#1 note VERB note%2:32:00::,note%2:39:00::
+#4 lawn NOUN lawn%1:15:00::
+#6 garden NOUN garden%1:06:00::
+#9 blade NOUN blade%1:20:00::
+#11 grass NOUN grass%1:20:00::
+#14 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#16 firm ADJ firm%5:00:00:forceful:00,firm%5:00:00:hard:01,firm%5:00:00:resolute:00,firm%5:00:00:secure:02
+#19 shrub NOUN shrub%1:20:00::
+#20 glaze VERB glaze%2:35:00::
+The door was answered by a slender man in his sixties - straight backed , somewhat clerical in manner , wearing rimless glasses .
+5
+#3 answer VERB answer%2:31:02::
+#6 slender ADJ slender%5:00:00:thin:03
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#18 manner NOUN manner%1:07:01::;1:07:02::
+#20 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+When Joe identified himself , he nodded , unsmiling , and ushered him into a sedate living room .
+3
+#2 identify VERB identify%2:31:00::,identify%2:32:00::
+#6 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#11 usher VERB usher%2:38:00::
+She had a dried-out quality - a gray , lean woman , not unattractive .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 lean ADJ lean%3:00:04::
+#12 not ADV not%4:02:00::
+Both were dressed rather formally .
+2
+#3 rather ADV rather%4:02:00::,rather%4:02:04::
+#4 formally ADV formally%4:02:00::
+The man wore a vest and a tie , the woman had on a dark green dress and three strands of pearls .
+8
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#7 tie NOUN tie%1:06:01::
+#14 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#15 green ADJ green%5:00:00:chromatic:00
+#16 dress NOUN dress%1:06:00::
+#19 strand NOUN strand%1:06:02::
+#21 pearl NOUN pearl%1:07:00::
+" Funny thing " , Mr. Kahler said , when they were seated , " when I heard you ringing , I figured it was that guy down the block , Hausman " .
+7
+#1 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#2 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 ring VERB ring%2:39:00::,ring%2:39:01::
+#22 figure VERB figure%2:31:01::,figure%2:31:02::
+#26 guy NOUN guy%1:18:00::
+#29 block NOUN block%1:15:00::
+McFeeley looked puzzled .
+1
+#1 look VERB look%2:39:01::,look%2:42:02::
+Kahler continued : " I fixed his dog the other day and I guess he 's sore , so I expected him to come barging in " .
+5
+#1 continue VERB continue%2:32:00::,continue%2:42:01::
+#7 dog NOUN dog%1:05:00::
+#9 other ADJ other%3:00:00::
+#10 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#23 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+The dog refused to be scared off , so Kahler had purchased some small firecrackers .
+2
+#1 dog NOUN dog%1:05:00::
+#11 purchase VERB purchase%2:40:00::
+He would lay in wait in the garage , and when the terrier came scratching around , he 'd let fly with a cherry bomb .
+4
+#7 garage NOUN garage%1:06:00::
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#14 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#15 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+" Scared the hell out of him " , Kahler grinned .
+1
+#1 scare VERB scare%2:37:00::
+" I hit him in the ass once " .
+2
+#6 ass NOUN arse%1:08:00::
+#7 once ADV once%4:02:00::
+" Finally , all I needed was to throw a little piece of red wood that looked like a firecracker and that dumb dog would run ki-yi-ing for his life " .
+7
+#8 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#13 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#14 wood NOUN wood%1:06:02::
+#22 dumb ADJ dumb%5:00:00:stupid:00
+#23 dog NOUN dog%1:05:00::
+#25 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#29 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::

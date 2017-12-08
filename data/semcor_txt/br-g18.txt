@@ -1,0 +1,640 @@
+ Among the recipients of the Nobel Prize for Literature more than half are practically unknown to readers of English .
+2
+#13 practically ADV practically%4:02:00::
+#16 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+Of these there are surely few that would be more rewarding discoveries than Verner von Heidenstam , the Swedish poet and novelist who received the award in 1916 and whose centennial was celebrated two years ago .
+6
+#4 surely ADV surely%4:02:00::
+#9 more ADV more%4:02:00::
+#11 discovery NOUN discovery%1:04:00::,discovery%1:10:00::
+#23 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#32 celebrate VERB celebrate%2:41:00::,celebrate%2:41:02::
+#34 year NOUN year%1:28:00::,year%1:28:01::
+Equally a master of prose and verse , he recreates the glory of Sweden in the past and continues it into the present .
+6
+#0 equally ADV equally%4:02:02::
+#4 prose NOUN prose%1:10:00::
+#11 glory NOUN glory%1:07:00::
+#16 past NOUN past%1:28:01::
+#18 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#22 present NOUN present%1:10:00::,present%1:28:00::
+In the following sketch we shall present a brief outline of his life and let him as much as possible speak for himself .
+6
+#2 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#3 sketch NOUN sketch%1:06:00::,sketch%1:10:03::
+#6 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#9 outline NOUN outline%1:10:00::
+#12 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#14 let VERB let%2:30:01::,let%2:41:00::
+Heidenstam was born in 1859 , of a prosperous family .
+1
+#9 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+On his father 's side he was of German descent , on his mother 's he came of the old Swedish nobility .
+6
+#2 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#4 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#9 descent NOUN descent%1:14:00::
+#13 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#19 old ADJ old%3:00:01::
+#21 nobility NOUN nobility%1:14:00::
+The family estate was situated near Vadstena on Lake Va ^ ttern in south central Sweden .
+4
+#1 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#2 estate NOUN estate%1:21:02::
+#13 south ADJ south%3:00:00::
+#14 central ADJ central%3:00:01::,central%5:00:00:important:00
+It is a lonely , rather desolate region , but full of legendary and historic associations .
+4
+#5 rather ADV rather%4:02:00::,rather%4:02:04::
+#10 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#12 legendary ADJ legendary%5:00:00:unreal:00
+#14 historic ADJ historic%5:00:00:important:00
+As a boy in a local school he was shy and solitary , absorbed in his fondness for nature and his visions of Sweden 's ancient glory .
+5
+#2 boy NOUN boy%1:18:03::
+#6 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#9 shy ADJ shy%5:00:00:wary:00
+#18 nature NOUN nature%1:18:00::,nature%1:26:00::
+#26 glory NOUN glory%1:07:00::
+He liked to fancy himself as a chieftain and to dress for the part .
+3
+#1 like VERB like%2:37:05::
+#10 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#13 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+Being somewhat delicate in health , at the age of sixteen he was sent to Southern Europe , for which he at once developed a passion , so that he spent nearly all of the following ten years abroad , at first in Italy , then in Greece , Egypt , Asia Minor , and Palestine .
+9
+#2 delicate ADJ delicate%5:00:00:breakable:00
+#8 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#23 develop VERB develop%2:32:00::,develop%2:36:01::
+#25 passion NOUN passion%1:12:00::
+#31 nearly ADV nearly%4:02:00::
+#35 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#37 year NOUN year%1:28:00::,year%1:28:01::
+#38 abroad ADV abroad%4:02:00::
+#45 then ADV then%4:02:00::
+In one of his summers at home he married , to the great disapproval of his father , who objected because of his extreme youth .
+7
+#4 summer NOUN summer%1:28:00::
+#6 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#8 marry VERB marry%2:41:00::,marry%2:41:01::
+#12 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#23 extreme ADJ extreme%5:00:00:immoderate:00,extreme%5:00:00:intense:00,extreme%5:00:01:immoderate:00
+#24 youth NOUN youth%1:07:00::,youth%1:26:00::,youth%1:28:00::,youth%1:28:01::
+Deciding to become a painter , he entered the studio of Gerome in Paris , where he enjoyed the life of the artists , but soon found that whatever talent he might have did not lie in that direction .
+13
+#2 become VERB become%2:30:00::,become%2:42:01::
+#4 painter NOUN painter%1:18:00::
+#7 enter VERB enter%2:36:00::,enter%2:41:06::,enter%2:42:00::
+#9 studio NOUN studio%1:06:02::
+#13 Paris NOUN paris%1:15:00::
+#17 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#19 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#25 soon ADV soon%4:02:00::
+#26 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#29 talent NOUN talent%1:09:00::,talent%1:18:00::
+#32 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#34 not ADV not%4:02:00::
+#38 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+He gives us an account of this in his lively and humorous poem , " The Happy Artists " .
+2
+#1 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#4 account NOUN account%1:10:03::
+" I scanned the world through printed symbol swart , And through the beggar 's rags I strove to see The inner man .
+6
+#2 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#4 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#13 beggar NOUN beggar%1:18:00::
+#15 rag NOUN rag%1:06:00::
+#21 inner ADJ inner%5:00:00:inward:00
+#22 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+I looked unceasingly With my cold mind and with my burning heart " .
+4
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 cold ADJ cold%3:00:02::,cold%5:00:00:cool:03,cold%5:00:00:inhumane:00,cold%5:00:00:unenthusiastic:00,cold%5:00:00:unloving:00
+#6 mind NOUN mind%1:09:00::,mind%1:09:04::
+#11 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+In this final line , we have the key to his nature .
+4
+#3 line NOUN line%1:10:02::,line%1:25:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 key NOUN key%1:09:00::,key%1:10:01::,key%1:10:02::,key%1:10:03::
+#11 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+Few writers have better understood their deepest selves .
+3
+#3 better ADV better%4:02:00::
+#4 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#6 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+Heidenstam could never be satisfied by surface .
+1
+#6 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+It may , however , be noted that his gift for color and imagery must have been greatly stimulated by his stay in Paris .
+5
+#6 note VERB note%2:32:00::,note%2:39:00::
+#9 gift NOUN gift%1:09:00::
+#11 color NOUN color%1:07:02::,color%1:07:03::,color%1:07:04::;1:07:03::,color%1:27:00::
+#21 stay NOUN stay%1:04:00::
+#23 Paris NOUN paris%1:15:00::
+The first result of Heidenstam 's long sojourn abroad was a volume of poems , Pilgrimage and Wander Years ( Vallfart och vandringsar ) , published in 1888 .
+5
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#6 long ADJ long%3:00:02::
+#8 abroad ADV abroad%4:02:00::
+#11 volume NOUN volume%1:06:00::,volume%1:10:00::
+#25 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+It was a brilliant debut , so much so indeed that it aroused a new vitality in the younger poets , as did Byron 's Childe Harold .
+4
+#3 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#9 indeed ADV indeed%4:02:02::,indeed%4:02:03::
+#12 arouse VERB arouse%2:37:00::
+#14 new ADJ new%3:00:00::,new%5:00:00:original:00
+Professor Fredrik Bo ^ o ^ k , Sweden 's foremost critic of the period , acclaims it as follows : " In this we have the verse of a painter ; strongly colorful , plastic , racy , vivid .
+7
+#11 critic NOUN critic%1:18:00::
+#14 period NOUN period%1:28:00::,period%1:28:03::
+#25 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#30 painter NOUN painter%1:18:00::
+#33 colorful ADJ colorful%3:00:03::
+#35 plastic ADJ plastic%5:00:00:constructive:00
+#39 vivid ADJ vivid%5:00:00:realistic:00
+In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively .
+4
+#15 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#17 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#22 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#24 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+The young poet painter reproduces the French life of the streets ; he tells stories of the Thousand and One Nights , and conjures up before us the bazaars of Damascus .
+4
+#3 painter NOUN painter%1:18:00::
+#7 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#13 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#14 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+In the care-free indolence of the East he sees the last reflection of the old happy existence , and for that reason he loves it .
+7
+#6 east NOUN east%1:15:02::
+#8 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#10 last ADJ last%5:00:00:unlikely:00
+#11 reflection NOUN reflection%1:19:00::
+#14 old ADJ old%3:00:01::
+#15 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#21 reason NOUN reason%1:09:01::,reason%1:16:00::
+And yet amid all the gay hedonism in Pilgrimage and Wander-Years is a cycle of short poems , " Thoughts in Loneliness " , filled with brooding , melancholy , and sombre longing " .
+2
+#15 short ADJ short%3:00:01::,short%5:00:00:discourteous:00,short%5:00:00:improvident:00,short%5:00:00:insufficient:00
+#32 longing NOUN longing%1:12:00::
+Of the longer pieces of the volume none is so memorable as " Nameless and Immortal " , which at once took rank among the finest poems ever written in the Swedish language .
+6
+#2 long ADJ long%3:00:01::
+#6 volume NOUN volume%1:06:00::,volume%1:10:00::
+#22 rank NOUN rank%1:26:00::,rank%1:26:01::
+#25 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#27 ever ADV ever%4:02:05::
+#32 language NOUN language%1:10:00::
+It celebrates the unknown architect who designed the temple of Neptune at Paestum , next to the Parthenon the noblest example of Grecian classic style now in existence .
+7
+#1 celebrate VERB celebrate%2:41:00::
+#8 temple NOUN temple%1:06:02::
+#10 Neptune NOUN neptune%1:18:00::
+#19 noble ADJ noble%3:00:01::
+#20 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#24 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#25 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+On the eve of his return to their native Naxos he speaks with his wife of the masterpiece which rises before them in its completed perfection .
+4
+#5 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#8 native ADJ native%3:00:02::
+#11 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#24 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+The supreme object of their lives is now fulfilled , says the wife , her husband has achieved immortality .
+5
+#2 object NOUN object%1:09:00::,object%1:09:02::,object%1:10:00::
+#5 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 fulfill VERB fulfil%2:34:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Not so , he answers , it is not the architect but the temple that is immortal .
+3
+#1 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+#4 answer VERB answer%2:31:00::,answer%2:32:00::
+#13 temple NOUN temple%1:06:02::
+" The man 's true reputation is his work " .
+2
+#2 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#4 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+The short poems grouped at the end of the volume as " Thoughts in Loneliness " is , as Professor Bo ^ o ^ k indicated , in sharp contrast with the others .
+5
+#1 short ADJ short%3:00:01::,short%5:00:00:discourteous:00,short%5:00:00:improvident:00,short%5:00:00:insufficient:00
+#6 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#9 volume NOUN volume%1:06:00::,volume%1:10:00::
+#25 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#28 sharp ADJ sharp%5:00:00:distinct:00,sharp%5:00:00:pointed:00
+It consists of fragmentary personal revelations , such as " The Spark " :
+1
+#5 revelation NOUN revelation%1:10:02::
+" There is a spark dwells deep within my soul .
+2
+#5 dwell VERB dwell%2:42:00::
+#9 soul NOUN soul%1:12:00::,soul%1:18:00::
+To get it out into the daylight 's glow Is my life 's aim both first and last , the whole .
+4
+#6 daylight NOUN daylight%1:19:00::
+#13 aim NOUN aim%1:09:00::
+#17 last ADJ last%5:00:00:unlikely:00
+#20 whole NOUN whole%4:02:00::
+That little spark is all the wealth I know , That little spark is my life 's misery " .
+1
+#8 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+A dominant motive is the poet 's longing for his homeland and its boyhood associations : " Not men folk , but the fields where I would stray , The stones where as a child I used to play " .
+8
+#2 motive NOUN motive%1:06:00::
+#7 longing NOUN longing%1:12:00::
+#14 association NOUN association%1:09:00::,association%1:24:00::,association%1:26:02::
+#17 not ADV not%4:02:00::
+#18 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 folk NOUN folk%1:14:00::
+#30 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#38 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+What he really wants is to find " a sacred cause " to which he can honestly devote himself .
+6
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 cause NOUN cause%1:04:01::
+#16 honestly ADV honestly%4:02:01::
+#17 devote VERB devote%2:31:00::
+This restless individualism found its answer when he returned to live nearly all the rest of his life in Sweden .
+5
+#2 individualism NOUN individualism%1:09:00::
+#8 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#10 live VERB live%2:42:08::
+#11 nearly ADV nearly%4:02:00::
+#14 rest NOUN rest%1:24:00::
+His cause was to commemorate the glory of her past and to incite her people to perpetuate it in the present .
+4
+#1 cause NOUN cause%1:04:01::
+#6 glory NOUN glory%1:07:00::
+#9 past NOUN past%1:28:01::
+#20 present NOUN present%1:10:00::,present%1:28:00::
+He did not , however , find himself at once .
+1
+#2 not ADV not%4:02:00::
+His next major work , completed in 1892 , was a long fantastic epic in prose , entitled Hans Alienus , which Professor Bo ^ o ^ k describes as a monument on the grave of his carefree and indolent youth .
+11
+#1 next ADJ next%5:00:00:close:01
+#2 major ADJ major%3:00:05::,major%3:00:06::
+#3 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#5 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#12 fantastic ADJ fantastic%5:00:00:unrealistic:00
+#15 prose NOUN prose%1:10:00::
+#17 entitle VERB entitle%2:32:00::,entitle%2:41:01::
+#28 describe VERB describe%2:32:01::
+#34 grave NOUN grave%1:06:00::
+#39 indolent ADJ indolent%5:00:00:idle:00
+#40 youth NOUN youth%1:07:00::,youth%1:26:00::,youth%1:28:00::,youth%1:28:01::
+The hero , who is himself , is represented as a pilgrim in the storied lands of the East , a sort of Faustus type , who , to quote from Professor Bo ^ o ^ k again , " even in the pleasure gardens of Sardanapalus can not cease from his painful search after the meaning of life .
+11
+#1 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#8 represent VERB represent%2:41:02::,represent%2:42:00::,represent%2:42:01::
+#14 storied ADJ storied%5:00:00:high-rise:00
+#15 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+#18 east NOUN east%1:15:02::
+#24 type NOUN type%1:18:00::
+#29 quote VERB quote%2:32:00::,quote%2:32:02::
+#44 garden NOUN garden%1:06:00::
+#48 not ADV not%4:02:00::
+#56 meaning NOUN meaning%1:09:00::
+#58 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+He is driven back by his yearning to the wintry homeland of his fathers in the forest of Tiveden " .
+2
+#2 drive VERB drive%2:35:11::,drive%2:38:01::
+#13 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+From this time on Heidenstam proceeded to find his deeper self .
+3
+#2 time NOUN time%1:11:00::
+#7 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#9 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+By the death of his father in 1888 he had come into possession of the family estate and had re-assumed its traditions .
+5
+#5 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#12 possession NOUN possession%1:15:00::
+#15 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#16 estate NOUN estate%1:21:02::
+#21 tradition NOUN tradition%1:09:01::
+He did not , however , settle back into acquiescence with things as they were .
+2
+#2 not ADV not%4:02:00::
+#11 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Like his friend and contemporary August Strindberg he had little patience with collective mediocrity .
+2
+#2 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#10 patience NOUN patience%1:07:00::
+He saw Sweden as a country of smug and narrow provincialism , indifferent to the heroic spirit of its former glory .
+7
+#5 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#9 narrow ADJ narrow%3:00:02::,narrow%3:00:06::,narrow%5:00:00:careful:00
+#10 provincialism NOUN provincialism%1:09:01::
+#12 indifferent ADJ indifferent%5:00:00:uninterested:00
+#16 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#19 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#20 glory NOUN glory%1:07:00::
+Strindberg 's remedy for this condition was to tear down the old structures and build anew from the ground up .
+5
+#2 remedy NOUN remedy%1:06:00::
+#5 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#11 old ADJ old%3:00:01::,old%3:00:02::
+#18 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#19 up ADV up%4:02:00::,up%4:02:02::
+Heidenstam 's conception , on the contrary , was to revive the present by the memories of the past .
+4
+#2 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#12 present NOUN present%1:10:00::,present%1:28:00::
+#15 memory NOUN memory%1:09:00::,memory%1:09:02::
+#18 past NOUN past%1:28:01::
+Whether in prose or poetry , all of Heidenstam 's later work was concerned with Sweden .
+2
+#2 prose NOUN prose%1:10:00::
+#11 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+With the first of a group of historical novels , The Charles Men ( Karolinerna ) , published in 1897 - 8 , he achieved the masterpiece of his career .
+1
+#17 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+In scope and power it can only be compared to Tolstoy 's War and Peace .
+4
+#1 scope NOUN scope%1:07:00::
+#3 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+About one-third as long , it is less intimate and detailed , but better coordinated , more concise and more dramatic .
+6
+#0 about ADV about%4:02:00::
+#3 long ADJ long%3:00:01::
+#8 intimate ADJ intimate%5:00:00:experienced:00
+#13 better ADV better%4:02:00::
+#14 coordinate VERB coordinate%2:30:01::
+#20 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+Though it centers around the brilliant and enigmatic figure of Charles 12 , , the true hero is not finally the king himself .
+7
+#2 center VERB center%2:31:00::
+#5 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#8 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#15 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#16 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#18 not ADV not%4:02:00::
+#21 king NOUN king%1:18:01::,king%1:26:00::
+Hence the title of the book , referring to the soldiers and subjects of the king ; on the fatal battlefield of Poltava , to quote from the novel , " the wreath he twined for himself slipped down upon his people " .
+9
+#0 hence ADV hence%4:02:00::
+#2 title NOUN title%1:10:00::,title%1:10:06::
+#5 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#7 refer VERB refer%2:32:00::,refer%2:42:00::
+#10 soldier NOUN soldier%1:18:00::
+#12 subject NOUN subject%1:18:00::
+#15 king NOUN king%1:18:01::,king%1:26:00::
+#25 quote VERB quote%2:32:00::,quote%2:32:02::
+#38 down ADV down%4:02:00::,down%4:02:02::
+The Charles Men consists not of a connected narrative but of a group of short stories , each depicting a special phase of the general subject .
+4
+#4 not ADV not%4:02:00::
+#21 phase NOUN phase%1:07:00::,phase%1:28:00::
+#24 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#25 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+Somewhat uneven in interest for an average reader , eight or ten of these are among the finest of their kind in literature .
+3
+#3 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#7 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#17 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+They comprise a great variety of scene and interest : grim episodes of war , idyllic interludes , superb canvases of world-shaking events , and delightfully humorous sketches of odd characters .
+5
+#3 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#4 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#18 superb ADJ superb%5:00:00:superior:02
+#29 odd ADJ odd%5:00:00:strange:00
+#30 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+The general effect is tragic .
+3
+#1 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#4 tragic ADJ tragic%5:00:00:sad:00
+Almost nothing is said of Charles ' spectacular victories , the central theme being the heroic loyalty of the Swedish people to their idolized king in misfortune and defeat .
+4
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 central ADJ central%5:00:00:important:00
+#12 theme NOUN theme%1:10:02::
+#24 king NOUN king%1:18:01::,king%1:26:00::
+To carry out this exalted conception the author has combined the vivid realism and imaginative power we have noticed in his early poetry and carried them out on a grand scale .
+9
+#4 exalted ADJ exalted%5:00:00:noble:01
+#5 conception NOUN conception%1:09:00::,conception%1:09:03::,conception%1:11:00::
+#9 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#11 vivid ADJ vivid%5:00:00:realistic:00
+#12 realism NOUN realism%1:07:00::
+#15 power NOUN power%1:18:00::
+#21 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#29 grand ADJ grand%5:00:00:large:00
+#30 scale NOUN scale%1:24:01::,scale%1:24:03::
+His peculiar gift , as had been suggested before , is his intensity .
+4
+#1 peculiar ADJ peculiar%5:00:00:characteristic:00
+#2 gift NOUN gift%1:09:00::
+#8 before ADV before%4:02:03::
+#12 intensity NOUN intensity%1:07:00::
+George Meredith has said that fervor is the core of style .
+3
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 core NOUN core%1:17:00::
+#10 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+Of few authors is this more true than of Heidenstam .
+1
+#6 true ADJ true%5:00:00:accurate:00,true%5:00:00:even:01,true%5:00:00:geographic:00,true%5:00:00:harmonious:00
+The Charles Men has a tremendous range of characters , of common folk even more than of major figures .
+7
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#8 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#11 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#12 folk NOUN folk%1:14:00::
+#17 major ADJ major%3:00:05::,major%3:00:06::
+#18 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+His ideal was Alexander of Macedon , as Napoleon 's was Julius Caesar .
+1
+#1 ideal ADJ ideal%5:00:00:abstract:00
+His purpose , however , was not to establish an empire , but to assert the principle of divine justice .
+6
+#3 however ADV however%4:02:04::
+#6 not ADV not%4:02:00::
+#8 establish VERB establish%2:36:01::,establish%2:41:00::
+#10 empire NOUN empire%1:14:01::
+#18 divine ADJ divine%5:00:00:heavenly:00
+#19 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+Each aspired to be a god in human form , but with each it was a different kind of god .
+2
+#8 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#16 different ADJ different%5:00:00:unusual:00
+Each failed catastrophically in an invasion of Russia and each brought ruin on the country that worshipped him .
+2
+#1 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#14 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Each is still glorified as a national hero .
+3
+#2 still ADV still%4:02:00::
+#3 glorify VERB glorify%2:32:00::
+#7 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+The first half of The Charles Men , ending on the climax of the battle of Poltava in 1709 , is more dramatically coherent than the second .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#21 more ADV more%4:02:00::
+#23 coherent ADJ coherent%3:00:00::
+After the collapse of that desperate and ill-fated campaign the character of the king degenerated for a time into a futility that was not merely pitiable but often ridiculous .
+4
+#10 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#13 king NOUN king%1:18:01::,king%1:26:00::
+#17 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#23 not ADV not%4:02:00::
+Like Napoleon , he was the worst of losers .
+1
+#6 worst ADJ worst%3:00:00::
+There are , however , some wonderful chapters at the beginning of the second part , concerning the reactions of the Swedes in adversity .
+4
+#3 however ADV however%4:02:04::
+#7 chapter NOUN chapter%1:10:00::
+#14 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#16 concern VERB concern%2:42:00::,concern%2:42:01::
+Then more than ever before did they show their fortitude and patient cheerfulness .
+2
+#0 then ADV then%4:02:01::
+#3 ever ADV ever%4:02:05::
+This comes out in " When the Bells Ring " , which describes the rallying of the peasants in southern Sweden to repel an invasion by the Danes .
+4
+#12 describe VERB describe%2:32:01::
+#14 rally NOUN rally%1:14:00::
+#19 southern ADJ southern%5:00:01:south:00,southern%5:00:02:south:00
+#22 repel VERB repel%2:35:00::
+In " The King 's Ride " , Charles breaks out of a long period of petulance and inertia , regains his old self , escapes from Turkey , and finally reaches his own land after an absence of eighteen years .
+9
+#13 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#14 period NOUN period%1:28:00::,period%1:28:03::
+#18 inertia NOUN inertia%1:07:01::
+#22 old ADJ old%3:00:01::
+#25 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#31 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#33 own ADJ own%5:00:00:personal:00
+#34 land NOUN land%1:15:02::,land%1:15:02::;1:15:01::,land%1:26:00::
+#40 year NOUN year%1:28:00::,year%1:28:01::
+He finds it in utter misery and desolation .
+1
+#1 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+All his people ask for is no more war .
+2
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+#6 no ADV no%4:02:01::
+But he plunges into yet another , this time with Norway , and is killed in an assault on the fortress of Fredrikshall , being only thirty-six years of age when he died .
+6
+#4 yet ADV yet%4:02:03::
+#8 time NOUN time%1:11:00::
+#14 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#17 assault NOUN assault%1:04:01::
+#25 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#32 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+He had become king at fifteen .
+2
+#2 become VERB become%2:30:00::,become%2:42:01::
+#3 king NOUN king%1:18:01::,king%1:26:00::
+Then suddenly there was a tremendous revulsion of popular feeling .
+3
+#6 revulsion NOUN revulsion%1:12:00::
+#8 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#9 feeling NOUN feeling%1:09:03::
+From being a hated tyrant and madman he was now the symbol of all that was noblest and best in the history of Sweden .
+5
+#4 tyrant NOUN tyrant%1:18:00::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#16 noble ADJ noble%3:00:01::
+#18 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#21 history NOUN history%1:28:02::
+This is brought out in the next to last chapter of the book , " A Hero 's Funeral " , written in the form of an impassioned prose poem .
+4
+#9 chapter NOUN chapter%1:10:00::
+#12 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#21 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#24 form NOUN form%1:09:01::,form%1:10:00::
+Slowly the procession of warriors and statesmen passes through the snow beside the black water and into the brilliantly lighted cathedral , the shrine of so many precious memories .
+7
+#2 procession NOUN procession%1:04:00::
+#10 snow NOUN snow%1:19:00::
+#13 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#14 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#25 so ADV so%4:02:03::,so%4:02:07::
+#27 precious ADJ precious%5:00:00:valuable:00
+#28 memory NOUN memory%1:09:00::,memory%1:09:02::
+The guns are fired , the hymns are sung , and the body of Charles is carried down to the vault and laid beside the tombs of his ancestors .
+7
+#3 fire VERB fire%2:33:00::,fire%2:33:02::
+#8 sing VERB sing%2:32:08::,sing%2:36:01::
+#12 body NOUN body%1:08:00::,body%1:08:02::
+#16 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#17 down ADV down%4:02:00::,down%4:02:02::
+#20 vault NOUN vault%1:06:01::
+#22 lay VERB lay%2:35:01::
+As he had longed to be , he became the echo of a saga .
+3
+#3 long VERB long%2:37:02::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#10 echo NOUN echo%1:07:02::
+Heidenstam wrote four other works of fiction about earlier figures revered in Swedish memory .
+6
+#1 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#3 other ADJ other%3:00:00::
+#4 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#8 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#9 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#13 memory NOUN memory%1:09:00::,memory%1:09:02::
+Excellent in their way , they lack the wide appeal of The Charles Men , and need not detain us here .
+5
+#3 way NOUN way%1:04:00::,way%1:09:00::
+#8 wide ADJ wide%5:00:00:large:00
+#9 appeal NOUN appeal%1:07:00::
+#17 not ADV not%4:02:00::
+#20 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+It is different with his volume The Swedes and Their Chieftains ( Svenskarna och deras ho ^ vdingar ) , a history intended for the general reader and particularly suited for high school students .
+7
+#2 different ADJ different%5:00:00:unusual:00
+#5 volume NOUN volume%1:06:00::,volume%1:10:00::
+#21 history NOUN history%1:28:02::
+#22 intend VERB intend%2:31:01::
+#25 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#26 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#28 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+Admirably written , it is a perfect introduction to Swedish history for readers of other countries .
+7
+#1 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#6 perfect ADJ perfect%3:00:00::
+#7 introduction NOUN introduction%1:10:00::
+#10 history NOUN history%1:28:00::
+#12 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#14 other ADJ other%3:00:00::
+#15 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Some of the earlier episodes have touches of the supernatural , as suited to the legendary background .
+6
+#3 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 touch NOUN touch%1:07:01::,touch%1:09:03::,touch%1:23:00::
+#12 suit VERB suit%2:42:00::
+#15 legendary ADJ legendary%5:00:00:unreal:00
+#16 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+Especially touching is the chapter , " The Little Sister " , about a king 's daughter who became a nun in the convent of St. Birgitta .
+4
+#0 especially ADV especially%4:02:00::
+#4 chapter NOUN chapter%1:10:00::
+#14 king NOUN king%1:18:01::,king%1:26:00::
+#18 become VERB become%2:30:00::,become%2:42:01::
+The record teems with romance and adventure .
+3
+#1 record NOUN record%1:10:03::,record%1:21:00::
+#2 teem VERB teem%2:38:00::
+#4 romance NOUN romance%1:10:02::
+Gustaf Vasa is a superb example , and Charles 10 , , the conqueror of Denmark , hardly less so .
+5
+#4 superb ADJ superb%5:00:00:superior:02
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#17 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#18 little ADV little%4:02:00::
+#19 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::

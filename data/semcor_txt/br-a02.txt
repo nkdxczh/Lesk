@@ -1,0 +1,546 @@
+ Committee approval of Gov. Price Daniel 's " abandoned property " act seemed certain Thursday despite the adamant protests of Texas bankers .
+7
+#0 committee NOUN committee%1:14:00::
+#1 approval NOUN approval%1:26:00::
+#8 abandoned ADJ abandoned%5:00:00:uninhabited:00
+#9 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#11 act NOUN act%1:10:01::
+#13 certain ADJ certain%3:00:01::
+#18 protest NOUN protest%1:10:00::
+Daniel personally led the fight for the measure , which he had watered down considerably since its rejection by two previous Legislatures , in a public hearing before the House Committee on Revenue and Taxation .
+4
+#1 personally ADV personally%4:02:03::
+#7 measure NOUN measure%1:04:01::,measure%1:10:02::
+#20 previous ADJ previous%5:00:00:preceding:00
+#26 hearing NOUN hearing%1:26:00::
+Under committee rules , it went automatically to a subcommittee for one week .
+2
+#1 committee NOUN committee%1:14:00::
+#2 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+But questions with which committee members taunted bankers appearing as witnesses left little doubt that they will recommend passage of it .
+4
+#8 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#10 witness NOUN witness%1:18:00::
+#17 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#18 passage NOUN passage%1:04:01::
+Daniel termed " extremely conservative " his estimate that it would produce 17 million dollars to help erase an anticipated deficit of 63 million dollars at the end of the current fiscal year next Aug. 31 .
+3
+#11 produce VERB produce%2:39:00::
+#16 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#27 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+He told the committee the measure would merely provide means of enforcing the escheat law which has been on the books " since Texas was a republic " .
+6
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#3 committee NOUN committee%1:14:00::
+#5 measure NOUN measure%1:04:01::,measure%1:10:02::
+#8 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#9 means NOUN means%1:06:00::
+#14 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+It permits the state to take over bank accounts , stocks and other personal property of persons missing for seven years or more .
+5
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#12 other ADJ other%5:00:02:past:00
+#16 person NOUN person%1:03:00::,person%1:08:00::
+#17 missing ADJ missing%5:00:00:lost:01
+The bill , which Daniel said he drafted personally , would force banks , insurance firms , pipeline companies and other corporations to report such property to the state treasurer .
+9
+#1 bill NOUN bill%1:10:04::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 draft VERB draft%2:36:05::
+#8 personally ADV personally%4:02:03::
+#11 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+#12 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#20 other ADJ other%3:00:00::
+#23 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#25 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+The escheat law cannot be enforced now because it is almost impossible to locate such property , Daniel declared .
+4
+#2 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#15 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#18 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+Dewey Lawrence , a Tyler lawyer representing the Texas Bankers Association , sounded the opposition keynote when he said it would force banks to violate their contractual obligations with depositors and undermine the confidence of bank customers .
+9
+#6 represent VERB represent%2:41:00::
+#12 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#15 keynote NOUN keynote%1:10:01::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+#22 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#31 undermine VERB undermine%2:41:00::
+#35 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#36 customer NOUN customer%1:18:00::
+" If you destroy confidence in banks , you do something to the economy " , he said .
+3
+#6 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#13 economy NOUN economy%1:14:00::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You take out of circulation many millions of dollars " .
+2
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#5 circulation NOUN circulation%1:10:00::
+Rep. Charles E. Hughes of Sherman , sponsor of the bill , said a failure to enact it would " amount to making a gift out of the taxpayers ' pockets to banks , insurance and pipeline companies " .
+8
+#7 sponsor NOUN sponsor%1:18:01::
+#10 bill NOUN bill%1:10:04::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 failure NOUN failure%1:04:00::
+#16 enact VERB enact%2:41:00::
+#24 gift NOUN gift%1:04:00::
+#30 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#32 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+His contention was denied by several bankers , including Scott Hudson of Sherman , Gaynor B. Jones of Houston , J. B. Brady of Harlingen and Howard Cox of Austin .
+3
+#1 contention NOUN contention%1:10:02::
+#8 include VERB include%2:42:00::
+#29 Austin NOUN austin%1:15:00::
+Cox argued that the bill is " probably unconstitutional " since , he said , it would impair contracts .
+3
+#1 argue VERB argue%2:32:02::
+#4 bill NOUN bill%1:10:04::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He also complained that not enough notice was given on the hearing , since the bill was introduced only last Monday .
+8
+#4 not ADV not%4:02:00::
+#6 notice NOUN notice%1:10:03::
+#8 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#11 hearing NOUN hearing%1:26:00::
+#15 bill NOUN bill%1:10:04::
+#17 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+#18 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Senators unanimously approved Thursday the bill of Sen. George Parkhouse of Dallas authorizing establishment of day schools for the deaf in Dallas and the four other largest counties .
+5
+#2 approve VERB approve%2:31:00::,approve%2:32:00::
+#5 bill NOUN bill%1:10:04::
+#13 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#25 other ADJ other%5:00:02:past:00
+#26 large ADJ large%3:00:00::,large%5:00:00:significant:00
+The bill is designed to provide special schooling for more deaf students in the scholastic age at a reduced cost to the state .
+4
+#1 bill NOUN bill%1:10:04::
+#5 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#14 scholastic ADJ scholastic%3:01:00::
+#15 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+There was no debate as the Senate passed the bill on to the House .
+1
+#9 bill NOUN bill%1:10:04::
+It would authorize the Texas Education Agency to establish county-wide day schools for the deaf in counties of 300000 or more population , require deaf children between 6 and 13 years of age to attend the day schools , permitting older ones to attend the residential Texas School for the Deaf here .
+4
+#8 establish VERB establish%2:36:01::,establish%2:41:00::
+#34 attend VERB attend%2:42:00::
+#43 attend VERB attend%2:42:00::
+#51 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Operating budget for the day schools in the five counties of Dallas , Harris , Bexar , Tarrant and El Paso would be $ 451500 , which would be a savings of $ 157460 yearly after the first year 's capital outlay of $ 88000 was absorbed , Parkhouse told the Senate .
+5
+#30 saving NOUN saving%1:04:00::
+#37 first ADJ first%3:00:00::,first%4:02:00::
+#40 capital NOUN capital%1:21:00::,capital%1:21:01::
+#46 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+#49 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+The TEA estimated there would be 182 scholastics to attend the day school in Dallas County , saving them from coming to Austin to live in the state deaf school .
+7
+#7 scholastic NOUN scholastic%1:18:00::
+#9 attend VERB attend%2:42:00::
+#17 save NOUN save%1:04:00::
+#20 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#22 Austin NOUN austin%1:15:00::
+#27 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#29 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Dallas may get to hear a debate on horse race parimutuels soon between Reps. V. E. Red Berry and Joe Ratcliff .
+1
+#11 soon ADV soon%4:02:00::
+While details are still be to worked out , Ratcliff said he expects to tell home folks in Dallas why he thinks Berry 's proposed constitutional amendment should be rejected .
+6
+#1 detail NOUN detail%1:10:00::,detail%1:24:00::
+#3 still ADV still%4:02:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#21 think VERB think%2:31:01::,think%2:31:03::
+#25 constitutional ADJ constitutional%3:00:00::
+" We 're getting more ' pro ' letters than ' con ' on horse race betting " , said Ratcliff .
+3
+#8 letter NOUN letter%1:10:00::
+#11 con NOUN con%1:04:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" But I believe if people were better informed on this question , most of them would oppose it also .
+4
+#3 believe VERB believe%2:31:03::
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 better ADV better%4:02:00::
+#8 inform VERB inform%2:32:00::,inform%2:32:10::
+I'm willing to stake my political career on it " .
+1
+#3 stake VERB stake%2:33:00::
+Rep. Berry , an ex gambler from San Antonio , got elected on his advocacy of betting on the ponies .
+1
+#19 pony NOUN pony%1:05:01::
+A House committee which heard his local option proposal is expected to give it a favorable report , although the resolution faces hard sledding later .
+8
+#2 committee NOUN committee%1:14:00::
+#8 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#12 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#15 favorable ADJ favorable%3:00:02::
+#16 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#20 resolution NOUN resolution%1:07:00::,resolution%1:10:01::
+#21 face VERB face%2:32:00::,face%2:32:03::
+#24 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+The House passed finally , and sent to the Senate , a bill extending the State Health Department 's authority to give planning assistance to cities .
+8
+#2 pass VERB pass%2:41:02::
+#6 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#12 bill NOUN bill%1:10:04::
+#13 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#19 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+#21 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#22 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+#25 city NOUN city%1:15:00::,city%1:15:01::
+The Senate quickly whipped through its meager fare of House bills approved by committees , passing the three on the calendar .
+4
+#10 bill NOUN bill%1:10:04::
+#11 approve VERB approve%2:31:00::,approve%2:32:00::
+#13 committee NOUN committee%1:14:00::
+#15 pass VERB pass%2:41:02::
+One validated acts of school districts .
+1
+#4 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Another enlarged authority of the Beaumont Navigation District .
+1
+#2 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+The third amended the enabling act for creation of the Lamar county Hospital District , for which a special constitutional amendment previously was adopted .
+2
+#7 creation NOUN creation%1:06:00::
+#19 constitutional ADJ constitutional%3:00:00::
+Without dissent , senators passed a bill by Sen. A. R. Schwartz of Galveston authorizing establishment in the future of a school for the mentally retarded in the Gulf Coast district .
+5
+#4 pass VERB pass%2:41:02::
+#6 bill NOUN bill%1:10:04::
+#15 establishment NOUN establishment%1:04:00::,establishment%1:14:00::
+#18 future NOUN future%1:10:00::,future%1:28:00::
+#21 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Money for its construction will be sought later on but in the meantime the State Hospital board can accept gifts and donations of a site .
+4
+#16 board NOUN board%1:14:00::
+#18 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#19 gift NOUN gift%1:04:00::
+#24 site NOUN site%1:15:00::,site%1:15:02::
+Two tax revision bills were passed .
+3
+#1 tax NOUN tax%1:21:00::
+#3 bill NOUN bill%1:10:04::
+#5 pass VERB pass%2:41:02::
+One , by Sen. Louis Crump of San Saba , would aid more than 17000 retailers who pay a group of miscellaneous excise taxes by eliminating the requirement that each return be notarized .
+2
+#17 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#30 return NOUN return%1:10:01::
+Instead , retailers would sign a certificate of correctness , violation of which would carry a penalty of one to five years in prison , plus a $ 1000 fine .
+4
+#4 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+#14 carry VERB carry%2:42:03::
+#16 penalty NOUN penalty%1:07:01::
+#29 fine NOUN fine%1:21:00::
+It was one of a series of recommendations by the Texas Research League .
+1
+#5 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+The other bill , by Sen. A. M. Aikin Jr. of Paris , would relieve real estate brokers , who pay their own annual licensing fee , from the $ 12 annual occupation license on brokers in such as stocks and bonds .
+7
+#1 other ADJ other%3:00:00::
+#2 bill NOUN bill%1:10:04::
+#14 relieve VERB relieve%2:40:00::
+#20 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#22 own ADJ own%5:00:00:personal:00
+#39 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#41 bond NOUN bond%1:21:02::,bond%1:21:03::
+Natural gas public utility companies would be given the right of eminent domain , under a bill by Sen. Frank Owen /3 , of El Paso , to acquire sites for underground storage reservoirs for gas .
+6
+#4 company NOUN company%1:14:03::
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#9 right NOUN right%1:07:00::,right%1:21:00::
+#16 bill NOUN bill%1:10:04::
+#29 site NOUN site%1:15:00::,site%1:15:02::
+#35 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+Marshall Formby of Plainview , former chairman of the Texas Highway Commission , suggested a plan to fill by appointment future vacancies in the Legislature and Congress , eliminating the need for costly special elections .
+7
+#5 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#6 chairman NOUN chairman%1:18:01::
+#15 plan NOUN plan%1:09:00::
+#19 appointment NOUN appointment%1:18:00::
+#20 future NOUN future%1:10:00::,future%1:28:00::
+#21 vacancy NOUN vacancy%1:26:00::
+#30 need NOUN need%1:26:00::
+Under Formby 's plan , an appointee would be selected by a board composed of the governor , lieutenant governor , speaker of the House , attorney general and chief justice of the Texas Supreme Court .
+6
+#3 plan NOUN plan%1:09:00::
+#12 board NOUN board%1:14:00::
+#13 compose VERB compose%2:42:00::
+#16 governor NOUN governor%1:18:00::
+#21 speaker NOUN speaker%1:18:01::
+#24 house NOUN house%1:14:02::
+State representatives decided Thursday against taking a poll on what kind of taxes Texans would prefer to pay .
+5
+#0 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#1 representative NOUN representative%1:18:00::
+#12 tax NOUN tax%1:21:00::
+#15 prefer VERB prefer%2:31:00::
+#17 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+An adverse vote of 81 to 65 kept in the State Affairs Committee a bill which would order the referendum on the April 4 ballot , when Texas votes on a U.S. senator .
+1
+#14 bill NOUN bill%1:10:04::
+Rep. Wesley Roberts of Seminole , sponsor of the poll idea , said that further delay in the committee can kill the bill .
+8
+#6 sponsor NOUN sponsor%1:18:01::
+#9 poll NOUN poll%1:04:00::
+#10 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 further ADJ further%5:00:00:far:00
+#18 committee NOUN committee%1:14:00::
+#20 kill VERB kill%2:30:00::,kill%2:30:02::,kill%2:30:03::,kill%2:34:00::,kill%2:35:05::,kill%2:35:06::,kill%2:41:01::
+#22 bill NOUN bill%1:10:04::
+The West Texan reported that he had finally gotten Chairman Bill Hollowell of the committee to set it for public hearing on Feb. 22 .
+4
+#3 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#14 committee NOUN committee%1:14:00::
+#16 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#20 hearing NOUN hearing%1:26:00::
+The proposal would have to receive final legislative approval , by two-thirds majorities , before March 1 to be printed on the April 4 ballot , Roberts said .
+6
+#1 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#5 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#8 approval NOUN approval%1:26:00::
+#12 majority NOUN majority%1:07:00::,majority%1:23:00::
+#19 print VERB print%2:36:03::
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Opponents generally argued that the ballot could n't give enough information about tax proposals for the voters to make an intelligent choice .
+3
+#2 argue VERB argue%2:32:02::
+#12 tax NOUN tax%1:21:00::
+#13 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+All Dallas members voted with Roberts , except Rep. Bill Jones , who was absent .
+2
+#2 member NOUN member%1:18:00::,member%1:24:00::
+#14 absent ADJ absent%3:00:00::
+Paradise lost to the alleged water needs of Texas ' big cities Thursday .
+3
+#5 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#10 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#11 city NOUN city%1:15:00::,city%1:15:01::
+Rep. James Cotten of Weatherford insisted that a water development bill passed by the Texas House of Representatives was an effort by big cities like Dallas and Fort Worth to cover up places like Paradise , a Wise County hamlet of 250 people .
+6
+#10 bill NOUN bill%1:10:04::
+#11 pass VERB pass%2:41:02::
+#22 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#23 city NOUN city%1:15:00::,city%1:15:01::
+#32 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#42 people NOUN people%1:14:01::
+When the shouting ended , the bill passed , 114 to 4 , sending it to the Senate , where a similar proposal is being sponsored by Sen. George Parkhouse of Dallas .
+6
+#2 shout NOUN shout%1:10:00::
+#6 bill NOUN bill%1:10:04::
+#7 pass VERB pass%2:41:02::
+#13 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#22 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#25 sponsor VERB sponsor%2:40:00::,sponsor%2:40:01::
+The bill would increase from $ 5000000 to $ 15000000 the maximum loan the state could make to a local water project .
+2
+#1 bill NOUN bill%1:10:04::
+#14 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Cotten construed this as a veiled effort by Parkhouse to help Dallas and other large cities get money which Cotten felt could better be spent providing water for rural Texas .
+8
+#10 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#13 other ADJ other%5:00:02:past:00
+#14 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#15 city NOUN city%1:15:00::,city%1:15:01::
+#20 feel VERB feel%2:31:00::,feel%2:39:00::
+#22 better ADV better%4:02:00::
+#25 provide VERB provide%2:34:00::,provide%2:40:00::
+#26 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Statements by other legislators that Dallas is paying for all its water program by local bonds , and that less populous places would benefit most by the pending bill , did not sway Cotten 's attack .
+7
+#2 other ADJ other%3:00:00::
+#7 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#15 bond NOUN bond%1:21:02::,bond%1:21:03::
+#19 little ADJ little%3:00:01::,little%3:00:03::,little%5:00:00:young:00
+#21 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#24 most ADV most%4:02:00::
+#28 bill NOUN bill%1:10:04::
+The bill 's defenders were mostly small-town legislators like J. W. Buchanan of Dumas , Eligio ( Kika ) de la Garza of Mission , Sam F. Collins of Newton and Joe Chapman of Sulphur Springs .
+1
+#1 bill NOUN bill%1:10:04::
+" This is a poor boy 's bill " , said Chapman .
+3
+#4 poor ADJ poor%3:00:00::,poor%3:00:03::
+#7 bill NOUN bill%1:10:04::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Dallas and Fort Worth can vote bonds .
+1
+#7 bond NOUN bond%1:21:02::,bond%1:21:03::
+This would help the little peanut districts " .
+1
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+A Houston teacher , now serving in the Legislature , proposed Thursday a law reducing the time spent learning " educational methods " .
+7
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#10 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#13 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#14 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#16 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#18 learn VERB learn%2:31:01::,learn%2:31:03::
+Rep. Henry C. Grover , who teaches history in the Houston public schools , would reduce from 24 to 12 semester hours the so-called " teaching methods " courses required to obtain a junior or senior high school teaching certificate .
+4
+#7 history NOUN history%1:28:00::
+#15 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#28 course NOUN course%1:04:01::,course%1:14:00::
+#31 obtain VERB obtain%2:40:00::
+A normal year 's work in college is 30 semester hours .
+3
+#1 normal ADJ normal%3:00:01::,normal%3:00:03::
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#6 college NOUN college%1:14:00::,college%1:14:01::
+Grover also would require junior senior high teachers to have at least 24 semester hours credit in the subject they are teaching .
+3
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 credit NOUN credit%1:04:00::,credit%1:10:00::
+#18 subject NOUN subject%1:09:00::
+The remainder of the 4 - year college requirement would be in general subjects .
+3
+#1 remainder NOUN remainder%1:24:00::
+#7 college NOUN college%1:14:00::,college%1:14:01::
+#13 subject NOUN subject%1:09:00::
+" A person with a master's degree in physics , chemistry , math or English , yet who has not taken Education courses , is not permitted to teach in the public schools " , said Grover .
+8
+#2 person NOUN person%1:03:00::,person%1:08:00::
+#8 physics NOUN physics%1:09:00::
+#10 chemistry NOUN chemistry%1:09:00::
+#20 take VERB take%2:31:02::,take%2:34:00::
+#21 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#22 course NOUN course%1:04:01::,course%1:14:00::
+#25 not ADV not%4:02:00::
+#35 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+College teachers in Texas are not required to have the Education courses .
+5
+#0 college NOUN college%1:14:00::,college%1:14:01::
+#5 not ADV not%4:02:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#11 course NOUN course%1:04:01::,course%1:14:00::
+Fifty-three of the 150 representatives immediately joined Grover as co-signers of the proposal .
+2
+#4 representative NOUN representative%1:18:00::
+#12 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+The board of regents of Paris Junior College has named Dr. Clarence Charles Clark of Hays , Kan. as the school 's new president .
+2
+#9 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#23 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+Dr. Clark will succeed Dr. J. R. McLemore , who will retire at the close of the present school term .
+4
+#3 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+#11 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+#14 close NOUN close%1:28:00::
+#17 present ADJ present%3:00:01::
+Dr. Clark holds an earned Doctor of Education degree from the University of Oklahoma .
+2
+#2 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#8 degree NOUN degree%1:10:00::
+He also received a Master of Science degree from Texas A+I College and a Bachelor of Science degree from Southwestern State College , Weatherford , Okla. .
+3
+#2 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#7 degree NOUN degree%1:10:00::
+#17 degree NOUN degree%1:10:00::
+In addition , Dr. Clark has studied at Rhode Island State College and Massachusetts Institute of Technology .
+1
+#6 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+During his college career , Dr. Clark was captain of his basketball team and was a football letterman .
+2
+#2 college NOUN college%1:14:00::,college%1:14:01::
+#16 football NOUN football%1:04:00::
+Dr. Clark has served as teacher and principal in Oklahoma high schools , as teacher and athletic director at Raymondville , Texas , High School , as an instructor at the University of Oklahoma , and as an associate professor of education at Fort Hays , Kan. , State College .
+4
+#3 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#7 principal NOUN principal%1:18:00::
+#16 athletic ADJ athletic%3:01:00::
+#41 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+He has served as a border patrolman and was in the Signal Corps of the U. S. Army .
+1
+#2 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+Principals of the 13 schools in the Denton Independent School District have been re-elected for the 1961 - 62 session upon the recommendation of Supt. Chester O. Strickland .
+2
+#0 principal NOUN principal%1:18:00::
+#4 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+State and federal legislation against racial discrimination in employment was called for yesterday in a report of a " blue ribbon " citizens committee on the aid to dependent children program .
+5
+#0 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#6 discrimination NOUN discrimination%1:04:00::
+#15 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#28 dependent ADJ dependent%3:00:02::
+#30 program NOUN program%1:09:00::,program%1:09:01::
+The report , culminating a year long study of the ADC program in Cook county by a New York City welfare consulting firm , listed 10 long range recommendations designed to reduce the soaring ADC case load .
+5
+#1 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#7 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#11 program NOUN program%1:09:00::,program%1:09:01::
+#24 list VERB list%2:32:00::,list%2:41:00::
+#31 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+The report called racial discrimination in employment " one of the most serious causes of family breakdown , desertion , and ADC dependency " .
+8
+#1 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#2 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#4 discrimination NOUN discrimination%1:04:00::
+#11 most ADV most%4:02:00::
+#13 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#15 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#16 breakdown NOUN breakdown%1:26:01::
+#22 dependency NOUN dependency%1:26:00::
+The monthly cost of ADC to more than 100000 recipients in the county is 4.4 million dollars , said C. Virgil Martin , president of Carson Pirie Scott + Co. , committee chairman .
+4
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#31 committee NOUN committee%1:14:00::
+#32 chairman NOUN chairman%1:18:01::
+" We must solve the problems which have forced these people to depend upon ADC for subsistence " , Martin said .
+5
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#8 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#16 subsistence NOUN subsistence%1:21:00::
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The volume of ADC cases will decrease , Martin reported , when the community is able to deal effectively with two problems : Relatively limited skills and discrimination in employment because of color .
+8
+#1 volume NOUN volume%1:07:03::,volume%1:23:00::
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#9 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#15 able ADJ able%3:00:00::
+#17 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#21 problem NOUN problem%1:09:00::,problem%1:26:00::
+#27 discrimination NOUN discrimination%1:04:00::
+#32 color NOUN color%1:07:00::,color%1:14:00::
+These , he said , are " two of the principal underlying causes for family breakups leading to ADC " .
+5
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 principal ADJ principal%5:00:00:important:00
+#12 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#14 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#16 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+Other recommendations made by the committee are :
+3
+#0 other ADJ other%5:00:02:past:00
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 committee NOUN committee%1:14:00::
+Extension of the ADC program to all children in need living with any relatives , including both parents , as a means of preserving family unity .
+9
+#0 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#9 need NOUN need%1:26:01::
+#10 live VERB live%2:42:08::
+#13 relative NOUN relative%1:18:00::
+#15 include VERB include%2:42:00::
+#21 means NOUN means%1:06:00::
+#24 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#25 unity NOUN unity%1:07:00::,unity%1:26:00::
+Research projects as soon as possible on the causes and prevention of dependency and illegitimacy .
+4
+#1 project NOUN project%1:04:00::,project%1:09:00::
+#3 soon ADV soon%4:02:00::
+#8 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#12 dependency NOUN dependency%1:26:00::

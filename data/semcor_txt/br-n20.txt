@@ -1,0 +1,772 @@
+ They were west of the Sabine , but only God knew where .
+1
+#2 west NOUN west%1:24:00::,west%1:24:02::
+For three days , their stolid oxen had plodded up a blazing valley as flat and featureless as a dead sea .
+4
+#2 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 valley NOUN valley%1:17:00::
+#14 flat ADJ flat%5:00:00:even:01,flat%5:00:00:horizontal:00,flat%5:00:00:planar:00,flat%5:00:00:unqualified:02
+#19 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+Molten glare singed their eyelids an angry crimson ; suffocating air sapped their strength and strained their nerves to snapping ; dust choked their throats and lay like acid in their lungs .
+9
+#1 glare NOUN glare%1:07:00::
+#10 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#11 sap VERB sap%2:40:00::
+#13 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#15 strain VERB strain%2:33:00::
+#19 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+#21 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#22 choke VERB choke%2:29:04::
+#28 acid NOUN acid%1:27:00::
+And the valley stretched endlessly out ahead , scorched and baked and writhing in its heat , until it vanished into the throbbing wall of fiery orange brown haze .
+5
+#2 valley NOUN valley%1:17:00::
+#10 baked ADJ baked%5:00:00:cooked:00
+#15 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#19 vanish VERB vanish%2:30:01::
+#28 haze NOUN haze%1:19:00::
+Ben Prime extended his high-stepped stride until he could lay his goad across the noses of the oxen .
+4
+#2 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#5 stride NOUN stride%1:23:00::
+#9 lay VERB lay%2:35:00::,lay%2:36:00::
+#14 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+" Hoa-whup " ! he commanded from his raw throat , and felt the pain of movement in his cracked , black burned lips .
+7
+#5 command VERB command%2:32:00::,command%2:32:01::,command%2:41:00::,command%2:42:00::
+#8 raw ADJ raw%5:00:00:injured:00
+#14 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#16 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#19 cracked ADJ cracked%5:00:01:rough:00
+#21 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#23 lip NOUN lip%1:08:00::,lip%1:20:00::
+He removed his hat to let the trapped sweat cut rivulets through the dust film upon his gaunt face .
+7
+#1 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#5 let VERB let%2:30:01::,let%2:41:00::
+#8 sweat NOUN sweat%1:04:00::
+#9 cut VERB cut%2:36:00::,cut%2:36:01::,cut%2:36:11::
+#13 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#14 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+#18 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He spat .
+1
+#1 spit VERB spit%2:32:00::
+The dust thick saliva came from his mouth like balled cotton .
+5
+#1 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#2 thick ADJ thick%3:00:02::
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#7 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#10 cotton NOUN cotton%1:06:01::
+He moved back to the wheel and stood there blowing , grasping the top of a spoke to still the trembling of his played-out limbs .
+6
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#2 back ADV back%4:02:05::
+#9 blow VERB blow%2:39:01::
+#13 top NOUN top%1:15:00::,top%1:15:01::
+#20 tremble NOUN tremble%1:04:00::
+#24 limb NOUN limb%1:06:00::
+The burning air dried his sweat soaked clothes in salt edged patches .
+6
+#2 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#3 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#5 sweat NOUN sweat%1:04:00::
+#7 clothes NOUN clothes%1:06:00::
+#9 salt NOUN salt%1:27:00::
+#11 patch NOUN patch%1:06:00::
+He cleared his throat and wet his lips .
+2
+#1 clear VERB clear%2:30:01::,clear%2:30:02::,clear%2:30:10::,clear%2:31:00::,clear%2:38:00::
+#7 lip NOUN lip%1:08:00::,lip%1:20:00::
+As cheerfully as possible , he said , " Well , I guess we could all do with a little drink " .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He unlashed the dipper and drew water from a barrel .
+4
+#3 dipper NOUN dipper%1:06:00::
+#5 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#6 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#9 barrel NOUN barrel%1:06:00::
+They could no longer afford the luxury of the canvas sweat bag that cooled it by evaporation .
+1
+#4 afford VERB afford%2:34:00::,afford%2:42:00::
+The water was warm and stale and had a brackish taste .
+4
+#1 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#3 warm ADJ warm%3:00:01::,warm%3:00:03::,warm%5:00:00:fresh:01
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 taste NOUN taste%1:09:02::,taste%1:09:04::,taste%1:11:00::,taste%1:13:00::
+But it was water .
+1
+#3 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+Thank the Lord , they still had water !
+3
+#5 still ADV still%4:02:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+He cleansed his mouth with a small quantity .
+2
+#3 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#7 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+He took a long but carefully controlled draught .
+2
+#3 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#7 draft NOUN draft%1:04:00::
+He replenished the dipper and handed it to his young wife riding the hurricane deck .
+3
+#3 dipper NOUN dipper%1:06:00::
+#5 hand VERB hand%2:40:00::
+#11 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+She took it grudgingly , her dark eyes baleful as they met his .
+3
+#1 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#7 eye NOUN eye%1:08:00::,eye%1:09:01::
+#11 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+She drank and pushed back her gingham bonnet to wet a kerchief and wipe her face .
+6
+#1 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#3 push VERB push%2:32:01::,push%2:38:00::
+#4 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#7 bonnet NOUN bonnet%1:06:00::
+#13 wipe VERB wipe%2:35:00::
+#15 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+She set the dipper on the edge of the deck , leaving it for him to stretch after it while she looked on scornfully .
+5
+#1 set VERB set%2:35:00::
+#3 dipper NOUN dipper%1:06:00::
+#6 edge NOUN edge%1:06:01::
+#11 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#16 stretch VERB stretch%2:29:01::,stretch%2:29:02::
+" What happens when there 's no more water " ? she asked smolderingly .
+4
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#6 no ADV no%4:02:01::
+#8 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#12 ask VERB ask%2:32:00::,ask%2:32:04::
+She was like charcoal , he thought - dark , opaque , explosive .
+1
+#6 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Her thick hair was the color and texture of charcoal .
+2
+#2 hair NOUN hair%1:08:00::
+#5 color NOUN color%1:07:00::,color%1:27:00::
+Her temper sparked like charcoal when it first lights up .
+1
+#1 temper NOUN temper%1:12:00::
+And all the time , she had the heat of hatred in her , like charcoal that is burning on its under side , but not visibly .
+4
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 heat NOUN heat%1:07:02::
+#18 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#25 not ADV not%4:02:00::
+A ripple ran through the muscles of his jaws , but he kept control upon his voice .
+4
+#1 ripple NOUN ripple%1:11:00::
+#5 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+#13 control NOUN control%1:04:00::,control%1:06:00::,control%1:07:00::,control%1:07:01::;1:07:00::
+#16 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" There must be some water under there " .
+1
+#5 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+He tilted his homely face toward the dry bed of the river .
+5
+#1 tilt VERB tilt%2:38:00::
+#3 homely ADJ homely%5:00:00:unattractive:00
+#4 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#7 dry ADJ dry%3:00:01::
+#8 bed NOUN bed%1:17:00::
+" We can get it if we dig " , he said patiently .
+2
+#7 dig VERB dig%2:35:01::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" And add fever to our troubles " ? she scoffed .
+3
+#2 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#6 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#10 scoff VERB scoff%2:32:01::
+" Or do you want to see if I can stand fever , too " ?
+2
+#10 stand VERB stand%2:42:00::,stand%2:42:02::
+#13 too ADV too%4:02:01::
+" We can boil it " , he said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" We 're lost and burning up already " , she bit out tensely .
+2
+#3 lost ADJ lost%3:00:01::
+#7 already ADV already%4:02:00::
+" The tires are rattling on the wheels now .
+2
+#4 rattle VERB rattle%2:38:00::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+They 'll roll off in another day .
+3
+#2 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+#3 off ADV off%4:02:00::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+There was no valley like this on your map .
+1
+#8 map NOUN map%1:06:00::
+" Hettie " , he said as gently as he could , " we 're still headed west .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 still ADV still%4:02:00::
+Somewhere , we 'll hit a trail " .
+2
+#4 hit VERB hit%2:33:01::,hit%2:38:00::,hit%2:38:07::,hit%2:39:00::,hit%2:40:05::
+#6 trail NOUN trail%1:06:00::
+" Somewhere ! " she repeated .
+1
+#5 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+" Maybe in time to make a cross and dig our graves " .
+3
+#7 cross NOUN cross%1:04:00::
+#9 dig VERB dig%2:35:01::
+#11 grave NOUN grave%1:06:00::
+His wide mouth compressed .
+2
+#1 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#2 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+He had picked out this pathless trail , instead of the common one , in a moment of romantic fancy , to give them privacy on their honeymoon .
+5
+#6 trail NOUN trail%1:06:00::
+#16 moment NOUN moment%1:28:00::,moment%1:28:01::
+#18 romantic ADJ romantic%5:00:01:loving:00
+#19 fancy NOUN fancy%1:09:01::
+#22 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+It was n't the roughness and crudity and discomfort of the trip that had frightened her .
+2
+#6 crudity NOUN crudity%1:26:00::
+#11 trip NOUN trip%1:04:00::
+She had hated the whole idea before they started .
+3
+#4 whole ADJ whole%3:00:00::
+#5 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#8 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Actually , she had hated him before she ever saw him .
+1
+#0 actually ADV actually%4:02:00::,actually%4:02:02::
+It had been five days too late before he learned that she 'd gone through the wedding ceremony in a semitrance of laudanum , administered by her mother .
+4
+#4 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 late ADJ late%3:00:00::
+#9 learn VERB learn%2:31:01::,learn%2:31:03::
+#27 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+The bitterness of their wedding night still ripped within him like an open wound .
+5
+#1 bitterness NOUN bitterness%1:12:00::
+#6 still ADV still%4:02:00::
+#7 rip VERB rip%2:35:00::
+#12 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#13 wound NOUN wound%1:26:00::
+She had jumped away from his shy touch like a cat confronted by a sidewinder .
+6
+#2 jump VERB jump%2:30:05::,jump%2:31:00::,jump%2:33:00::,jump%2:33:03::,jump%2:38:00::,jump%2:38:01::,jump%2:38:04::
+#3 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#6 shy ADJ shy%5:00:00:wary:00
+#7 touch NOUN touch%1:04:00::,touch%1:07:00::,touch%1:09:01::,touch%1:09:03::,touch%1:10:00::,touch%1:11:00::
+#10 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#14 sidewinder NOUN sidewinder%1:05:00::
+He had left her inviolate , thinking familiarity would gentle her in time .
+2
+#2 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#6 think VERB think%2:31:01::,think%2:31:03::
+He stared at the dipper , turning it over and over in his wide , calloused hands .
+4
+#4 dipper NOUN dipper%1:06:00::
+#6 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#13 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#16 hand NOUN hand%1:08:00::,hand%1:10:01::
+" I suppose " , he muttered , " I can sell the outfit for enough to send you home to your folks , once we find a settlement " .
+7
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#11 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#17 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#22 folk NOUN folk%1:14:00::
+#24 once CONJ once%4:02:02::
+#26 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#28 settlement NOUN settlement%1:14:01::
+" Do n't try to be noble " !
+2
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 noble ADJ noble%3:00:01::
+Her laugh was hard .
+1
+#1 laugh NOUN laugh%1:10:00::
+" They would n't have sold me in the first place if there 'd been food enough to go around " .
+1
+#5 sell VERB sell%2:40:00::
+" Hettie , they did n't sell you " , he said miserably .
+2
+#6 sell VERB sell%2:40:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" They knew I was a good sharecrop farmer back in Carolina , but out West was a chance to build a real farm of our own .
+4
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 good ADJ best%3:00:00::,good%3:00:01::
+#15 west NOUN west%1:15:00::,west%1:15:01::
+#22 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+They thought it would be a chance for you to make a life out where nobody will be thought any better than the next except for just what 's inside of them .
+4
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#18 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#20 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#26 just ADV just%4:02:00::,just%4:02:03::
+Without money or property , what would you have had at Baton Rouge " ?
+2
+#3 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" I might have starved , but at least I would n't be fried to a crisp and soaked with dirt " !
+3
+#4 starve VERB starve%2:34:00::
+#13 fry VERB fry%2:30:00::
+#16 crisp NOUN crisp%1:13:00::
+He darkened under his heavy burn .
+1
+#4 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+His blue eyes sought the shimmering sea of haze ahead .
+3
+#1 blue ADJ blue%5:00:00:chromatic:00
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+#8 haze NOUN haze%1:19:00::
+To his puzzlement , there suddenly was no haze .
+1
+#8 haze NOUN haze%1:19:00::
+The valley lay clear , and open to the eye , right up to the sharp limbed line of gaunt , scoured hills that formed the horizon twenty miles ahead .
+7
+#6 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#9 eye NOUN eye%1:08:00::,eye%1:09:01::
+#11 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#17 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#22 hill NOUN hill%1:06:01::,hill%1:17:00::
+#24 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#26 horizon NOUN horizon%1:15:00::
+Then he noticed the clouds racing upon them - heavy , ominous , leaden clouds that formed even as they sliced over the crests of the surrounding hills .
+8
+#0 then ADV then%4:02:00::
+#4 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#5 race VERB race%2:38:00::
+#9 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#14 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#20 slice VERB slice%2:35:00::
+#23 crest NOUN crest%1:15:01::
+#27 hill NOUN hill%1:06:01::,hill%1:17:00::
+He had never seen clouds like them before , but he had the primitive feel of danger that gripped a man before a hurricane in Carolina .
+9
+#2 never ADV never%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#7 before ADV before%4:02:03::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 primitive ADJ primitive%5:00:00:noncivilized:00,primitive%5:00:00:untrained:00,primitive%5:00:02:early:02
+#14 feel NOUN feel%1:04:00::
+#18 grip VERB grip%2:37:00::
+#20 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+He hollered hoarsely , " Hang on " ! and goaded the oxen as he yelled .
+1
+#10 goad VERB goad%2:35:00::
+He wanted to turn them , putting the wagon against the storm .
+3
+#3 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#6 put VERB put%2:35:00::,put%2:35:05::
+#11 storm NOUN storm%1:19:00::
+Too late , he realized that in turning , he had wheeled them onto a patch of sandy ground , instead of atop a grade or ridge .
+8
+#1 late ADV late%4:02:00::
+#4 realize VERB realize%2:31:01::
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#11 wheel VERB wheel%2:38:02::
+#15 patch NOUN patch%1:06:00::
+#17 sandy ADJ sandy%3:00:02::
+#18 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#24 grade NOUN grade%1:07:01::
+He swung up over the wheel .
+1
+#1 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+" You had better get inside " , he warned her .
+2
+#4 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#5 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+But she sat on in stubborn silence .
+1
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+The clouds bulged downward and burst suddenly into a great black funnel .
+3
+#1 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#9 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#10 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+Frozen , they stared at it whirling down the valley , gouging and spitting out boulders and chunks of earth like a starving hound dog cracking marrowbones .
+4
+#7 down ADV down%4:02:00::,down%4:02:02::
+#11 gouge VERB gouge%2:35:01::
+#19 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#25 crack VERB crack%2:30:02::
+The six ton Conestoga began to whip and shake .
+4
+#2 ton NOUN ton%1:23:01::
+#4 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#6 whip VERB whip%2:38:00::
+#8 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+Their world turned black .
+2
+#1 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#2 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+It was filled with dust and wind and sound and violence .
+3
+#4 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#6 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+#8 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+The heavens opened , pelting them with hail the size of walnuts .
+2
+#7 hail NOUN hail%1:19:00::
+#11 walnut NOUN walnut%1:13:00::
+And then came the water - not rain , but solid sheets that sluiced down like water slopping from a bucket .
+8
+#2 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#4 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#6 not ADV not%4:02:00::
+#11 sheet NOUN sheet%1:17:00::
+#14 down ADV down%4:02:00::,down%4:02:02::
+#16 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#17 slop VERB slop%2:35:00::
+#20 bucket NOUN bucket%1:23:00::
+Walls of water rushed down the slopes and filled the hollows like the crests of flash floods .
+4
+#3 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+#4 down ADV down%4:02:00::,down%4:02:02::
+#6 slope NOUN slope%1:07:00::
+#13 crest NOUN crest%1:15:01::
+Through the splash of the rising waters , they could hear the roar of the river as it raged through its canyon , gnashing big chunks out of the banks .
+3
+#5 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#24 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#29 bank NOUN bank%1:17:01::
+The jetting , frothing surface of the river reached the level of the runoff .
+4
+#4 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#8 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#10 level NOUN level%1:07:00::
+#13 runoff NOUN runoff%1:11:00::
+The dangerous current upon the prairie ceased , but the water stood and kept on rising .
+4
+#5 prairie NOUN prairie%1:15:00::
+#10 water NOUN water%1:08:03::,water%1:13:00::,water%1:17:00::
+#11 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#15 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+They cringed under sodden covers , listening to the waves slop against the bottom .
+4
+#4 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#9 wave NOUN wave%1:04:02::,wave%1:11:01::,wave%1:11:02::,wave%1:25:00::
+#10 slop VERB slop%2:35:00::
+#13 bottom NOUN bottom%1:06:00::,bottom%1:15:00::,bottom%1:15:01::,bottom%1:17:00::,bottom%1:17:01::
+They were engulfed by the weird silence , broken only by the low , angry murmur of the river .
+2
+#8 break VERB break%2:30:03::,break%2:30:09::,break%2:32:04::,break%2:32:13::,break%2:33:00::,break%2:38:02::,break%2:38:15::,break%2:41:01::,break%2:42:04::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Then the darkness thinned , and there was light again , and then bright sunlight .
+4
+#0 then ADV then%4:02:00::
+#2 darkness NOUN darkness%1:07:03::,darkness%1:15:00::
+#8 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#13 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+Beaten with fear and sound and wet and chill , they crawled to the hurricane deck and looked out haggardly at a world of water that reached clear to the surrounding hills .
+8
+#0 beaten ADJ beaten%3:44:00::
+#6 wet NOUN wet%1:26:00::
+#8 chill NOUN chill%1:07:00::
+#11 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#17 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#26 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#27 clear ADV clear%4:02:03::
+#31 hill NOUN hill%1:06:01::,hill%1:17:00::
+The water level was higher than their hubs .
+1
+#7 hub NOUN hub%1:06:00::
+Only the heavy bones of the oxen kept them anchored .
+5
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#3 bone NOUN bone%1:08:00::
+#7 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#9 anchor VERB anchor%2:35:00::
+There was no real sign of the river now , just a roiling , oily ribbon of liquid movement through muddy waters that reached everywhere .
+7
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 just ADV just%4:02:00::,just%4:02:03::
+#14 oily ADJ oily%5:00:00:coated:00
+#15 ribbon NOUN ribbon%1:06:00::
+#17 liquid ADJ liquid%3:00:00::
+#18 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#23 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Clumps of brush rode down the ribbon .
+5
+#0 clump NOUN clump%1:14:01::
+#2 brush NOUN brush%1:14:00::
+#3 ride VERB ride%2:38:02::,ride%2:42:02::
+#4 down ADV down%4:02:00::,down%4:02:02::
+#6 ribbon NOUN ribbon%1:06:00::
+Now and then , the glistening side of a half swamped object showed as it swept past .
+3
+#11 object NOUN object%1:03:00::
+#12 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#15 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+The girl crawled out into the renewing warmth of the sunshine , hugging her shoulders and still trembling .
+5
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#2 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#3 out ADV out%4:02:04::
+#14 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#16 still ADV still%4:02:00::
+Her face was pale but set and her dark eyes smoldered with blame for Ben .
+4
+#1 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#3 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#5 set ADJ set%5:00:00:arranged:00
+#9 eye NOUN eye%1:08:00::,eye%1:09:01::
+Out of compulsion to say something cheery , Ben Prime blurted , " Well , we were lucky to be on soft ground when the first floodheads hit .
+6
+#2 compulsion NOUN compulsion%1:16:01::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#22 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#25 first ADJ first%3:00:00::,first%4:02:00::
+#27 hit VERB hit%2:33:00::,hit%2:35:05::,hit%2:41:00::
+At least , the wheels dug in .
+1
+#4 wheel NOUN wheel%1:06:00::,wheel%1:06:02::,wheel%1:07:00::
+The soaking will put life back in the wagon , too " .
+5
+#1 soaking NOUN soaking%1:04:01::
+#3 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#4 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#5 back ADV back%4:02:05::
+#10 too ADV too%4:02:01::
+She was watching a tree ride wildly down that roiling current .
+3
+#2 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#4 tree NOUN tree%1:20:00::
+#7 down ADV down%4:02:00::,down%4:02:02::
+Somebody was riding the tree .
+2
+#2 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#4 tree NOUN tree%1:20:00::
+It raced closer and they could see a woman with white hair , sitting astride an upright branch .
+6
+#1 race VERB race%2:38:00::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#11 hair NOUN hair%1:08:00::
+#13 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#16 upright ADJ upright%5:00:00:vertical:00
+She did not call out .
+1
+#2 not ADV not%4:02:00::
+But as the tree passed , she lifted an arm in gesture of better luck and farewell .
+6
+#3 tree NOUN tree%1:20:00::
+#4 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#7 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+#9 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#13 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#16 farewell NOUN farewell%1:04:00::
+They watched the tree until it twisted sharply on a bend .
+3
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 tree NOUN tree%1:20:00::
+#6 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+It speared up into the air , then sinking back , the up jutting branch turned slowly .
+3
+#7 then ADV then%4:02:00::
+#9 back ADV back%4:02:00::,back%4:02:01::,back%4:02:04::
+#15 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+The pale blob of the woman disappeared .
+2
+#1 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#6 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+" There 's the one who 's lucky " ! the girl murmured harshly .
+1
+#11 girl NOUN girl%1:18:01::,girl%1:18:03::
+Ben 's eyes strained with the bitter hurt , his homely face slashed with gray and crimson .
+6
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+#3 strain VERB strain%2:33:00::
+#6 bitter ADJ bitter%5:00:00:intolerable:00
+#10 homely ADJ homely%5:00:00:unattractive:00
+#11 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#14 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+Then he took off his wet boots and dropped down into the water to talk with the beasts , needing their comfort more than they needed his .
+7
+#0 then ADV then%4:02:00::
+#5 wet ADJ wet%3:00:01::,wet%3:00:05::
+#6 boot NOUN boot%1:06:00::
+#19 need VERB need%2:42:00::
+#21 comfort NOUN comfort%1:04:00::
+#22 more ADV more%4:02:00::,more%4:02:01::
+#25 need VERB need%2:42:00::
+It was nearly sundown and he went to the back of the wagon , half swimming his way , for he was not a tall man .
+6
+#2 nearly ADV nearly%4:02:00::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 back NOUN back%1:06:00::,back%1:15:02::
+#15 swim VERB swim%2:38:00::
+#17 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#24 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+He let down the tailgate and was knocked over by the sluice of water .
+2
+#11 sluice NOUN sluice%1:06:00::
+#13 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+He sputtered back to his feet and scrambled madly to pull his bags of seed grain forward .
+4
+#7 scramble VERB scramble%2:38:00::
+#10 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#12 bag NOUN bag%1:06:00::
+#16 forward ADV forward%4:02:00::,forward%4:02:04::
+They were already swollen to bursting .
+1
+#2 already ADV already%4:02:00::
+Of all their worldly belongings , next to the oxen and his gun , the seed grain had been the most treasured .
+1
+#20 most ADV most%4:02:00::
+It was spoiled now for seed , and it would sour and mold in three days if they failed to find a place and fuel to dry it .
+8
+#2 spoil VERB spoil%2:35:00::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 seed NOUN seed%1:20:00::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#20 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#22 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#26 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+The oxen might as well enjoy it .
+1
+#5 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+He examined the water marks on the iron tires when the animals were finished .
+2
+#1 examine VERB examine%2:31:00::,examine%2:32:01::
+#13 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+The waters lay muddy but placid , without a ripple of movement against the wheels ; there was not a match width of damp mark to show they were receding .
+3
+#9 ripple NOUN ripple%1:11:00::
+#11 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#14 wheel NOUN wheel%1:06:00::,wheel%1:06:02::,wheel%1:07:00::
+He doubted if a man could wade as far as the desolate , dry hills that rimmed the valley .
+5
+#1 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 dry ADJ dry%3:00:01::
+#14 hill NOUN hill%1:06:01::,hill%1:17:00::
+#16 rim VERB rim%2:42:00::
+A terrible , numbing sense of futility swept over him .
+1
+#4 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+He gripped the wheel hard to fight the despondency of defeat .
+3
+#1 grip VERB grip%2:35:00::
+#3 wheel NOUN wheel%1:06:00::,wheel%1:06:01::,wheel%1:06:03::,wheel%1:06:05::,wheel%1:07:00::
+#4 hard ADV hard%4:02:00::
+Then he noticed that the dry wood of the wheels had swollen .
+4
+#0 then ADV then%4:02:00::
+#5 dry ADJ dry%3:00:01::
+#6 wood NOUN wood%1:06:02::
+#9 wheel NOUN wheel%1:06:00::,wheel%1:06:02::,wheel%1:07:00::
+The spokes were tight again , the iron tires gripped onto the wheels as if of one piece .
+3
+#3 tight ADJ tight%5:00:00:invulnerable:00
+#9 grip VERB grip%2:35:00::
+#12 wheel NOUN wheel%1:06:00::,wheel%1:06:02::,wheel%1:07:00::
+He swung toward the front to give the news to Hettie , then stopped , barred from her by the vehemence of her blame and hate .
+6
+#1 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+#4 front NOUN front%1:06:00::,front%1:15:00::,front%1:15:02::
+#6 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#12 then ADV then%4:02:00::
+#13 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#15 bar VERB bar%2:32:00::
+Still , he felt better .
+2
+#0 still ADV still%4:02:04::
+#3 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+A tight wagon meant so much .
+2
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#4 so ADV so%4:02:03::,so%4:02:07::
+He got a small fire started and put on bacon and coffee .
+2
+#4 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#11 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+He poured the water off the sourdough and off the flour , salvaging the chunky , watery messes for biscuits of a sort .
+6
+#3 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#6 sourdough NOUN sourdough%1:27:00::
+#14 chunky ADJ chunky%5:00:00:unshapely:00
+#17 mess NOUN mess%1:26:00::
+#19 biscuit NOUN biscuit%1:13:00::
+#22 sort NOUN sort%1:09:00::,sort%1:18:00::
+Their jams and jellies had not suffered .
+3
+#1 jam NOUN jam%1:13:00::
+#5 not ADV not%4:02:00::
+#6 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+He found a jar of preserved tomatoes and one of eggs that they had meant to save .
+5
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#3 jar NOUN jar%1:06:00::
+#6 tomato NOUN tomato%1:13:00::
+#10 egg NOUN egg%1:05:00::,egg%1:13:00::,eggs%1:13:00::
+#16 save VERB save%2:30:00::,save%2:32:04::,save%2:40:00::,save%2:40:01::
+Now he broke them open , hoping a good meal might lessen this depression crushing Hettie .
+5
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#9 meal NOUN meal%1:28:00::
+#13 depression NOUN depression%1:28:00::
+#14 crush VERB crush%2:37:00::
+His long nose wiggled at the smells of frizzling bacon and heating java , but the fire was low , and he wanted to waste no time .
+7
+#1 long ADJ long%3:00:01::
+#2 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#8 frizzle VERB frizzle%2:30:00::
+#16 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#18 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#22 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#24 waste VERB waste%2:34:05::,waste%2:40:00::
+He furled the slashed sides of the canvas tarpaulins , leaving the ribs and wagon open .
+4
+#4 side NOUN side%1:06:00::,side%1:15:00::
+#8 tarpaulin NOUN tarpaulin%1:06:00::
+#12 rib NOUN rib%1:08:02::
+#15 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+He looked thoughtfully at his wife 's trunk , holding her meager treasures .
+3
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 trunk NOUN trunk%1:06:00::
+#9 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+He said hesitantly , " Hettie , I do n't figure your things got wet too much .
+5
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 figure VERB figure%2:31:01::,figure%2:31:02::
+#12 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+#13 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#14 wet ADJ wet%3:00:01::,wet%3:00:05::
+That 's a good trunk .
+2
+#3 good ADJ best%3:00:00::,good%3:00:01::
+#4 trunk NOUN trunk%1:06:00::
+She said without turning her head , " After that rain beating in atop the dust , there is n't a thing that won n't be streaked " .
+6
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#3 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#5 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 beat VERB beat%2:35:00::,beat%2:35:01::,beat%2:35:10::,beat%2:35:12::,beat%2:36:00::,beat%2:38:04::,beat%2:39:00::
+#15 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#21 thing NOUN thing%1:06:00::,thing%1:06:01::,thing%1:09:02::,thing%1:12:00::,thing%1:26:00::
+He drew a long breath and opened the trunk and hung out her clothes and spoilables upon the wagon ribs .
+6
+#1 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#3 long ADJ long%3:00:02::
+#6 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#8 trunk NOUN trunk%1:06:00::
+#13 clothes NOUN clothes%1:06:00::
+#19 rib NOUN rib%1:08:02::

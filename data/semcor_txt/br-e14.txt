@@ -1,0 +1,384 @@
+ Do start fires one or two hours ahead of time to obtain a lasting bed of glowing coals .
+1
+#11 obtain VERB obtain%2:40:00::
+Keep ashes from one barbecue to the next to sprinkle over coals if they are too hot , and to stop flames that arise from melting grease .
+5
+#0 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#9 sprinkle VERB sprinkle%2:35:00::
+#20 stop VERB stop%2:30:05::,stop%2:33:00::,stop%2:38:01::,stop%2:41:00::
+#23 arise VERB arise%2:30:00::,arise%2:42:01::
+#25 melt VERB melt%2:30:00::
+Do line barbecue fire bowl with heavy foil to reflect heat .
+2
+#1 line VERB line%2:30:01::
+#9 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+Do n't forget to buy a plastic pastry brush for basting with sauces .
+2
+#4 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#10 baste VERB baste%2:30:00::
+Do n't fail to shorten cooking time by the use of aluminum foil cut slightly larger than the surface of steaks and chops .
+1
+#2 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+Sear on both sides then cover meat loosely with heat reflecting foil for juiciest results .
+1
+#5 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Do avoid puncturing or cutting into meats to test them .
+2
+#1 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#2 puncture VERB puncture%2:35:02::
+If doubtful about a steak , boldly cut it in half .
+1
+#7 cut VERB cut%2:35:00::,cut%2:35:13::,cut%2:35:14::
+If necessary to replace both halves on grill , sear cuts and allot extra time .
+1
+#3 replace VERB replace%2:35:00::
+For roasts , insert meat thermometer diagonally so it does not rest on bone .
+1
+#3 insert VERB insert%2:35:00::,insert%2:35:01::
+Also make sure thermometer does not touch the revolving spit or hit the coals .
+3
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#11 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+Do n't practice a new recipe on guests .
+1
+#2 practice VERB practice%2:31:00::
+Have a test-run on the family first , to be sure timing and seasoning are right .
+1
+#0 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+Do buy meat the day or the day before you intend to cook it .
+3
+#1 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#10 intend VERB intend%2:31:01::,intend%2:32:00::
+#12 cook VERB cook%2:30:00::,cook%2:30:03::
+Keep it no longer than 36 hours before cooking , and keep it in the coldest ( but non-freezing ) compartment of the refrigerator .
+3
+#0 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+#8 cook VERB cook%2:30:00::,cook%2:30:03::
+#11 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+Do n't plan meals that are too complicated .
+1
+#2 plan VERB plan%2:31:00::,plan%2:31:01::
+Keep the desserts simple ; fruit does nicely .
+1
+#0 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Do whatever kitchen work , such as fixing a salad , preparing garlic bread , or making a marinade sauce , ahead of time .
+3
+#7 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+#11 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#16 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+When you start the outdoor performance , you can stay outdoors without a dozen running trips into the kitchen .
+1
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+( This goes for getting a drink tray ready , and for having a big cooler full of ice on hand long before the party begins . )
+2
+#4 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#25 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+Do n't think you have to start with the most expensive equipment in the world .
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#6 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+The simplest grill ( pan type ) or inexpensive hibachi can make you a chef .
+1
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+You need tongs to handle meat ; long forks for turning potatoes and corn ; heavy foil on hand at all times .
+3
+#1 need VERB need%2:42:00::
+#4 handle VERB handle%2:35:00::,handle%2:41:00::,handle%2:41:03::
+#10 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+Do keep the grill high enough above the fire so that when fat from meat drips down and flares up , flames cannot reach the meat .
+2
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#23 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Do n't forget to have a supply of Melamine plates , bowls , cups , saucers , and platters for outdoor use .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Made of the world 's toughest unbreakable plastic , Melamine dinnerware comes in almost 400 different patterns and dozens of colors .
+2
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#11 come VERB come%2:30:01::
+There is even one set that has " barbecue " written on it .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+It 's cheaper to buy Wall-Tex and cover your outdoor table .
+2
+#4 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#7 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+Or buy half a dozen lengths of oilcloth and change patterns for different kinds of barbecues .
+2
+#1 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#9 change VERB change%2:30:04::,change%2:30:05::,change%2:30:06::,change%2:38:00::,change%2:40:00::
+Oilcloth only costs about 79 c a yard for the very best .
+1
+#2 cost VERB cost%2:42:00::,cost%2:42:01::
+Tougher than plastic , it wears well .
+1
+#5 wear VERB wear%2:42:00::
+Do n't forget - when you take to the hills or the beach - that your cooler , which you might have used for wine - or beer-cooling on your terrace or back yard , is indispensable for carrying liquid refreshments .
+2
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#38 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+There are many varieties of coolers and they serve many purposes .
+1
+#8 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+With them , you can carry steaks and hamburgers at refrigerator temperatures , and also get your frozen food for stews and chowders , to the marina or picnic , in A-1 condition .
+2
+#5 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#15 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+Do use paper napkins ; lots of them .
+1
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Except when you prepare " do it yourself " shish kebob or a lobster roast .
+1
+#3 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+Then you 'll want terry cloth towels for mopping up .
+1
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Do n't think barbecue cooking is just sometimes , or seasonal .
+1
+#2 think VERB think%2:31:01::,think%2:31:03::
+In the winter , hibachi in the kitchen or grill over the logs of the fireplace .
+1
+#9 grill VERB grill%2:30:00::
+Even use your portable electric or gas grill in the winter , inside .
+1
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+You 'll find , once your technique is perfected , that you can cook on a boat with a simple Bernz-O-Matic .
+2
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#13 cook VERB cook%2:30:00::,cook%2:30:03::
+Do buy all-purpose mugs or cups .
+1
+#1 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+Get copper or earthenware mugs that keep beer chilled or soup hot .
+2
+#0 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Be sure to get a few more than you need .
+1
+#9 need VERB need%2:42:00::
+You will discover you keep the sauce for basting meat in one , use six for drinks , serve soup or coffee in another half-dozen - and need one more to mix the salad dressing .
+6
+#2 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#8 baste VERB baste%2:30:00::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+#27 need VERB need%2:42:00::
+If you travel over the vast U. S. A. you will , no doubt , discover that feeding is an expensive business .
+2
+#2 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#15 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+Turn off at any one of the marked picnic areas ( gasoline companies have touring service bureaus that issue booklets on national parks to tell you where you have barbecue facilities ) and - with soft drinks cooled from morning loading up , hamburger , buns , an array of relishes , and fresh fruit - your lunch is 75 % cheaper than at a restaurant , and 100 % more fun .
+4
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#24 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+You need a little stove , a coffee pot and a stew pot ; maybe a skillet , a basket of essentials like salt , pepper , plates , forks , knives and a can opener .
+1
+#1 need VERB need%2:42:00::
+As you pull out of your motel or national park home-for-the-night , visit a market and buy just what you need for the next meal .
+3
+#12 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#16 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#20 need VERB need%2:42:00::
+For 25 c load up the cooler with ice and keep cool pop in the car .
+1
+#10 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+You only have to think of franks and sausages to know what I mean .
+2
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Go a step further and list all the wonderful barbecue basics - cervelat , salami , Vienna sausages , mettwurst , bratwurst , bockwurst , knackwurst , Bologna , pepperoni , blutwurst - and you have a long list of easy specialties .
+3
+#0 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#5 list VERB list%2:32:00::,list%2:41:00::
+#35 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Threaded on a skewer with new boiled potatoes , a bit of green pepper , a fresh white mushroom - any one of these spiced meats makes a man a cook , and a meal a feast .
+1
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+A story goes that a certain Herr Feuchtwanger of St. Louis , around 1883 served his sausages ( grilled ) and mustard to his fancy customers .
+2
+#2 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#14 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+So that his customers should not soil their hands , Feuchtwanger issued white gloves .
+2
+#6 soil VERB soil%2:35:00::
+#11 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+Discovery that the gloves frequently left with the customers made the wise peddler of spiced sausage-meat come upon a compromise .
+1
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+He had a bakery make buns sized to fit his franks .
+3
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#8 fit VERB fit%2:42:02::,fit%2:42:03::,fit%2:42:04::
+Years later , franks-in-buns were accepted as the " first to go " at the New York Polo Grounds .
+1
+#5 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+The nations 's number one picnic treat is the skinless frankfurter - toasted over a bonfire on the beach or , more sedately , charcoal broiled on a portable grill .
+1
+#12 toast VERB toast%2:30:00::
+Either way it 's hard to beat in flavor as well as ease of preparation .
+1
+#6 beat VERB beat%2:31:00::,beat%2:35:03::,beat%2:42:00::
+To make the picnic frank come close to perfection , remember these tips :
+1
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+- Score each frankfurter in four or five places about a third of the way through .
+1
+#1 score VERB score%2:32:00::
+This permits the juices to permeate the meat during cooking .
+1
+#9 cook VERB cook%2:30:00::,cook%2:30:03::
+- Using a portable grill permits you to toast the buns , too .
+2
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 toast VERB toast%2:30:00::
+Watch closely while browning them , as it does n't take long .
+2
+#0 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#10 take VERB take%2:40:06::,take%2:42:03::
+Broil or toast as usual .
+1
+#2 toast VERB toast%2:30:00::
+Contrary to popular opinion , " a la mode " does n't mean " with ice cream " - it just means , in the latest style .
+2
+#12 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#21 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Here are a couple of the latest , highly styled ways to fix skinless franks in your own back yard !
+1
+#12 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+You 'll have the neighbor 's eyes popping as well as their mouths watering !
+3
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 pop VERB pop%2:39:06::
+#13 water VERB water%2:30:04::
+1 cup chili sauce 1 3 cup water 1 tablespoon barbecue sauce 2 teaspoons prepared mustard 1 2 pound chipped , spiced ham 6 sandwich buns , heated Combine first 4 ingredients in saucepan ; heat thoroughly .
+1
+#28 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+Add ham ; heat .
+1
+#0 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Serve on buns .
+1
+#0 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Makes 6 barbecues .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+You 'll never hear " sayonara " , the Japanese word for goodbye , from your guests when you give a hibachi party .
+1
+#19 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+The fun of toasting their own sausages over the small Oriental charcoal burners and dipping them in tasty sauces will keep your group busy - try it and see !
+4
+#3 toast VERB toast%2:30:00::
+#14 dip VERB dip%2:36:00::
+#20 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#25 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Also spear pineapple chunks and place in separate bowl .
+1
+#5 place VERB place%2:31:13::
+Make sauces ahead .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Sweet-sour sauce can be kept warm over a second hibachi or chafing dish while charcoal in broiler is reaching glowing coal stage .
+2
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#18 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Mustard cream , used as alternate dip for franks and pineapple tidbits , tastes best when served at room temperature .
+2
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+For sweet-sour sauce , cook onion in oil until soft .
+1
+#4 cook VERB cook%2:30:00::,cook%2:30:03::
+Add remaining ingredients and bring to a boil .
+1
+#0 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Simmer about 10 minutes , and keep warm for serving .
+2
+#6 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#9 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+To prepare mustard cream , blend mustard with enough water to make a thin paste .
+2
+#1 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Fold into whipped cream and add a dash of salt and sprinkling of paprika .
+1
+#5 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+A back-yard picnic with grilled frankfurters and a selection of frankfurter trimmings is a fine way to entertain guests this summer .
+1
+#17 entertain VERB entertain%2:41:00::
+Be sure to have plenty of frankfurters and buns on hand .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Serve the chili and kraut hot with the franks .
+1
+#0 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Chili con carne : use canned chili con carne .
+1
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Coney Island sauce : finely chop several onions and add enough catsup to moisten well ; add prepared mustard to suit taste .
+3
+#9 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#16 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#20 suit VERB suit%2:42:00::
+Savory sauerkraut : add several tablespoons of brown sugar to a can of sauerkraut .
+1
+#3 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Add a few caraway seeds , too , if you 'd like .
+1
+#0 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+1 2 cup minced celery 1 4 cup minced onion 1 2 cup tomato ketchup 1 2 cup water 1 4 cup vinegar 2 tablespoons brown sugar 1 tablespoon Worcestershire sauce 1 tablespoon prepared mustard 1 2 teaspoon salt 8 frankfurters Combine first 9 ingredients in skillet .
+1
+#41 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+Prick frankfurters with fork ; place in sauce .
+2
+#0 prick VERB prick%2:37:00::
+#5 place VERB place%2:31:13::
+Cover ; simmer 15 minutes , stirring occasionally , until sauce is of desired consistency .
+2
+#0 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#6 stir VERB stir%2:35:00::,stir%2:35:04::
+Serve in frankfurter buns or as a meat dish .
+1
+#0 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Makes 8 sandwiches or 4 servings .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Stick 4 or 5 cloves in each frank , ham fashion .
+1
+#0 stick VERB stick%2:36:03::
+Make a paste of brown sugar and mustard and spread lightly over scored surface .
+1
+#0 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+If desired , sprinkle with 1 teaspoon drained crushed pineapple .
+1
+#3 sprinkle VERB sprinkle%2:35:00::
+Place on rectangle of foil and pinch edges together tightly .
+2
+#0 place VERB place%2:31:13::
+#6 pinch VERB pinch%2:35:00::
+Roast on grill over coals 15 - 20 minutes .
+1
+#0 roast VERB roast%2:30:00::
+Blend 2 cups biscuit mix with 2 3 cup milk to make a soft dough .
+1
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Spread dough with a mixture of 3 tablespoons chili sauce , 1 teaspoon horse-radish and 2 teaspoons mustard .
+1
+#0 spread VERB spread%2:35:12::,spread%2:35:13::,spread%2:42:00::
+Twist one strip diagonally around each skinless frankfurter , pinching dough at ends to seal it .
+1
+#9 pinch VERB pinch%2:35:00::
+Brush frankfurter twists with about 1 2 cup melted butter and toast slowly over glowing coals until dough is golden brown .
+2
+#0 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#11 toast VERB toast%2:30:00::
+Serves 12 .
+1
+#0 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+1 pound ground beef 2 teaspoons grated onion Dash of pepper 1 2 teaspoon salt 1 2 cup chopped walnuts 1 4 cup ice cold bourbon Combine ingredients ; form into patties and barbecue 5 minutes on each side .
+1
+#26 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::

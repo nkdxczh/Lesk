@@ -1,0 +1,309 @@
+What Gabriel was being asked to do now , however , was to re-examine all his basic assumptions , make value-judgments on them , and give them new and different powers in his mind to govern his motives .
+3
+#4 ask VERB ask%2:32:01::,ask%2:32:05::
+#25 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#35 govern VERB govern%2:41:01::,govern%2:41:02::
+This is not wholly a reasoning process - a computer cannot do it all - and even in an Angel it takes time .
+1
+#21 take VERB take%2:40:06::,take%2:42:03::
+( Or , perhaps , especially in an Angel , whose assumptions had mostly been fixed millions of years ago . )
+1
+#15 fix VERB fix%2:30:00::,fix%2:30:02::,fix%2:32:03::,fix%2:36:01::
+Being reasonably sure of the reason for the long pause , however , did not make it seem any less long to Jack .
+1
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He had already become used to Hesperus ' snapping back answers to questions almost before Jack could get them asked .
+4
+#3 become VERB become%2:30:00::,become%2:42:01::
+#8 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+#17 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#19 ask VERB ask%2:32:00::,ask%2:32:04::
+There was nothing he could do but wait .
+1
+#7 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+The dice were cast .
+1
+#3 cast VERB cast%2:35:00::
+At last Gabriel spoke .
+1
+#3 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+" We misjudged you " , he said slowly .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" We had concluded that no race as ephemeral as yours could have had time to develop a sense of justice .
+1
+#3 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+Of course we have before us the example of the great races at the galactic center ; individually they are nearly as mortal as you - the difference does not seem very marked to us , where it exists .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#38 exist VERB exist%2:42:00::
+We shall recommend to them that they shorten your trial period by half .
+1
+#2 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+You may reclaim your property , and the penalty on Hesperus is lifted .
+2
+#2 reclaim VERB reclaim%2:30:04::
+#12 lift VERB lift%2:32:00::
+Hesperus , you may speak " .
+1
+#4 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+" I did not perceive this essential distinction either , First-Born " , Hesperus said at once , " I was only practicing a concept that Jack taught me , called a deal " .
+3
+#4 perceive VERB perceive%2:31:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+" It 's a kind of agreement in which each party gives something to the other " , Jack said .
+2
+#11 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" We regard it as fair only when each party feels that what he has received is as valuable , or more valuable , than what he has given " .
+3
+#10 feel VERB feel%2:31:00::,feel%2:39:00::
+#15 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#28 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+His heart , he discovered , was pounding .
+2
+#4 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#7 pound VERB pound%2:35:00::
+" For instance , Hesperus agreed to help me find my property , and I agreed to take him to Earth .
+5
+#5 agree VERB agree%2:32:00::,agree%2:32:01::
+#7 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#15 agree VERB agree%2:32:00::,agree%2:32:01::
+#17 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+Between individuals , this process is called bargaining .
+1
+#6 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+When it is done between races or nations , it is called making a treaty .
+1
+#11 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Recovering the property was much less important " .
+1
+#0 recover VERB recover%2:40:01::
+" Strange " , Gabriel said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Though it might be that we would have much to give you , you have nothing to give us " .
+4
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+" Hesperus and Lucifer " , Jack said , " show that we do " .
+2
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+But you should understand , Jack , that Hesperus and Lucifer are not long out of the nursery .
+1
+#3 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Visiting the Earth would not be an offering of worth to those of us who are older " .
+1
+#0 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+" All the more reason , then " , Jack said , " why we must have a treaty .
+2
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We will gladly entertain your young and give them proper living quarters , in return for their help in running our fusion reactors .
+3
+#3 entertain VERB entertain%2:41:00::
+#7 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#19 run VERB run%2:35:00::,run%2:35:04::,run%2:36:01::
+But we must know if this is in accordance with your customs , and must have your agreement they will not misuse the power we put in their hands , to our hurt " .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 put VERB put%2:31:13::,put%2:34:00::
+" But this simply requires that they behave in accordance with the dictates of their own natures , and respect yours in turn .
+1
+#7 behave VERB behave%2:41:00::,behave%2:41:01::
+Jack felt a wave of complete elation , but in a second it had vanished without a trace .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#14 vanish VERB vanish%2:30:01::
+What Gabriel was asking was that mankind forego all its parochial moral judgments , and contract to let the Angels serve on Earth as it is in Heaven regardless of the applicable Earth laws .
+5
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+#7 forgo VERB forego%2:42:00::
+#15 contract VERB contract%2:32:00::
+#17 let VERB let%2:30:01::,let%2:41:00::
+#20 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+The Angels in turn would exercise similar restraints in respect for the natural preferences and natures of the Earthmen - but they had no faintest notion of man 's perverse habit of passing and enforcing laws which were contrary to his own preferences and violations of his nature .
+3
+#5 exercise VERB exercise%2:34:00::
+#22 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#32 pass VERB pass%2:41:02::
+The simple treaty principle that Gabriel was asking him to ratify , in short , was nothing less than total trust .
+1
+#7 ask VERB ask%2:32:01::,ask%2:32:05::
+Nothing less would serve .
+1
+#3 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+And it might be , considering the uncomfortable custom the Angels had of thinking of everything in terms of absolutes , that the proposal of anything less might well amount instead to something like a declaration of war .
+1
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Furthermore , even the highly trained law clerk who was a part of Jack 's total make-up could not understand how the principle could ever be codified .
+1
+#19 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Almost the whole experience of mankind pointed toward suspicion , not trust , as the safest and sanest attitude toward all outsiders .
+1
+#6 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+The history of disarmament agreements , for instance , had been unreassuringly dismal ; but the United States and the Union of Soviet Socialist Republics nevertheless did eventually agree on an atomic bomb test ban , and a sort of provisional acceptance of each other 's good intentions on this limited question .
+1
+#28 agree VERB agree%2:32:00::,agree%2:32:01::
+Out of that agreement , though not by any easy road , eventually emerged the present world hegemony of the United Nations ; suspicion between member states still existed , but it was of about the same low order of virulence as the twentieth-century rivalry between Arizona and California over water supplies .
+1
+#28 exist VERB exist%2:42:00::
+The trouble with them was that they almost never worked , and in fact an agreement " in principle " historically turned out to be a sure sign that neither party really wanted the quarrel settled .
+2
+#9 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#32 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Suppose that this one were to work ?
+2
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#6 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+It was worth trying .
+1
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+In fact , it had to be tried .
+1
+#7 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+It would be at once the most tentative and most final treaty that Earth had ever signed .
+1
+#16 sign VERB sign%2:32:00::,sign%2:41:00::,sign%2:41:01::
+Secretary Hart had taught Jack , at least partially , to be content with small beginnings in all diplomatic matters ; but there was no small way to handle this one .
+1
+#28 handle VERB handle%2:41:00::,handle%2:41:03::
+For a moment he could make no sense at all of what he saw .
+1
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Gradually , he realized that the pentagon of Angel elders had vanished , and that the ritual learning dance of the nursery had been broken up .
+2
+#3 realize VERB realize%2:31:01::
+#11 vanish VERB vanish%2:30:01::
+What 's happened " ?
+1
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+I do n't see them .
+1
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" You can n't see them yet , Jack .
+1
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Jack scanned the skies , the boards , and the skies again .
+1
+#1 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+No - there was a tiny pip on the radar ; and it was getting bigger rapidly .
+1
+#14 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Through the telescope , Jack could see that both spacesuits were still attached to it .
+1
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+It was a startling , almost numenous sight ; but even more awesome was the fact that it was trailing an enormous comet 's - tail of Angels .
+1
+#19 trail VERB trail%2:38:00::
+The skiff was not heading for the nursery , however .
+1
+#4 head VERB head%2:38:00::,head%2:38:01::
+It seemed unlikely that her crew , if either of them were alive , could even see the Ariadne , for they were passing her at a distance of nearly a light-year .
+2
+#16 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#23 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+And there would be no chance of signaling them - without the Nernst generator Jack could not send a call powerful enough to get through all the static , and by the time he could rebuild his fusion power the skiff would be gone .
+1
+#17 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Fuming , helpless , he watched them pass him .
+2
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#7 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+The sail , ragged though it was , still had enough surface to catch some of the ocean of power being poured out from the nursery stars .
+2
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 catch VERB catch%2:35:00::
+He would never have believed , without seeing it , that the bizarre little vessel could go so fast .
+3
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+But where was it going ?
+1
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+There was only one possible answer , but Jack 's horrified mind refused to believe it until he had fed the radar plots of the skiff 's course into the computer .
+2
+#14 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#19 feed VERB feed%2:30:01::,feed%2:34:03::,feed%2:38:04::
+The skiff was headed for the very center of the nebula - toward that place which , Jack knew now , could hold nothing less important than the very core of the Angel 's life and religion .
+3
+#3 head VERB head%2:38:00::,head%2:38:01::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#22 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+It was clear that Langer had at last found a way to attract the Angel 's attention .
+1
+#8 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Langer would have to be headed off , whether he knew where he was going or not .
+1
+#14 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Almost surely he did ; after all , he had had the same set of facts as Jack had had to work from , and he was an almost frighteningly observant man .
+3
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+But it did n't matter now whether he meant to invade the Holy of Holies , or was simply headed in that direction by accident .
+3
+#4 matter VERB matter%2:42:00::
+#8 mean VERB mean%2:31:00::,mean%2:31:05::,mean%2:42:03::
+#19 head VERB head%2:38:00::,head%2:38:01::
+Jack crawled under the boards and restored the six feet of lead line he had excised from the Nernst generator switch .
+2
+#1 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#15 excise VERB excise%2:30:02::
+He had to have fusion power to catch up with the skiff , and he had to have it fast .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" I 'm going to turn my generator back on , as I promised to do .
+1
+#13 promise VERB promise%2:32:00::,promise%2:32:01::
+But I can n't take you to Earth yet .
+1
+#4 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+First I 've got to intercept my brothers before they get any deeper into trouble .
+1
+#10 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Will you obstruct this , or will you help ?
+1
+#8 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+I know it 's not part of the bargain , and your elders might not like it " .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Nobody else can live in your hearth while I am in it " , Hesperus said promptly .
+2
+#4 live VERB live%2:42:08::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" As for my elders , they have already admitted that they were wrong .
+1
+#9 admit VERB admit%2:32:00::
+If because of this incident they become angry with Earth , I will not be permitted to go there at all .
+2
+#6 become VERB become%2:30:00::,become%2:42:01::
+#17 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Therefore of course I will help " .
+1
+#5 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+With a short-lived sigh of relief , Jack plugged the fuses back in and threw the switch .
+1
+#14 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+Always before , it had taken five minutes to -
+1
+#5 take VERB take%2:40:06::,take%2:42:03::
+From here on out , the Ariadne was going to be hotter than any space cruiser man had ever dreamed of .
+1
+#19 dream VERB dream%2:36:00::
+But since he had failed to anticipate it , he lost the five minutes anyhow , in plotting an intercept orbit .
+3
+#6 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+#10 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#17 plot VERB plot%2:36:03::
+" Hesperus , do n't use this t-tau vector trick of yours , please .
+1
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::

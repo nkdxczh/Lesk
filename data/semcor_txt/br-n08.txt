@@ -1,0 +1,307 @@
+After they had finished eating , Melissa took Sprite the kitten under her arm - " so that Auntie Grace can teach it about the whistle " - and climbed into the station wagon beside her mother .
+2
+#3 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#7 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+She had offered to walk , but Pamela knew she would not feel comfortable about her child until she had personally confided her to the care of the little pink woman who chose to be called " Auntie " .
+3
+#4 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#12 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+When they reached their neighbor 's house , Pamela said a few polite words to Grace and kissed Melissa lightly on the forehead , the impulse prompted by a stray thought - of the type to which she was frequently subject these days - that they might never see one another again .
+4
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 prompt VERB prompt%2:32:00::
+#48 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Then she turned the station wagon around and headed it back down the hill , with the village as her ostensible destination .
+2
+#2 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#8 head VERB head%2:38:00::,head%2:38:01::
+As she drove , she thought about her plan .
+1
+#2 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+So simple , in fact , that it might even work - although Pamela , now , in her new frame of mind , was careful not to pretend too much assurance .
+1
+#10 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+That mistake , she thought , had cost her dearly these past few days , and she wanted to avoid falling into any more of the traps that the mountain might set for her .
+6
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 cost VERB cost%2:42:00::,cost%2:42:01::
+#17 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#20 fall VERB fall%2:30:00::,fall%2:30:08::,fall%2:40:08::,fall%2:42:03::
+#31 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+When the station wagon drew abreast of the dusty dirt road that led up to the porch of the Culver house , Pamela turned the wheel , guiding the car to its familiar parking spot close to the house , and stopped .
+4
+#4 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#23 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#27 guide VERB guide%2:38:00::,guide%2:38:01::
+#41 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+All of her movements were careful and methodical , partaking of the stealth of a criminal who has plotted his felony for months in advance and knows exactly which step to take next in the course of the final execution of his crime .
+3
+#18 plot VERB plot%2:31:00::
+#26 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#31 take VERB take%2:31:02::,take%2:34:00::
+She locked the ignition , removed the keys , stepped out of the car and went into the house .
+3
+#1 lock VERB lock%2:35:00::,lock%2:35:02::,lock%2:35:03::
+#5 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#9 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+Here , she dropped the keys on a small table beside the door and went upstairs to her bedroom .
+1
+#14 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+On her bureau lay a small , brass ornament of simple design and faded engraving - an object which , Pamela believed now , had been the property of her great-grandfather , Major Hiram Munroe Culver .
+1
+#21 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+If she , Pamela , were being held responsible for his crimes , then hers must be the final act of expiation .
+1
+#7 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+She would return this symbol to the mountain , as one pours seed back into the soil every Spring & & & or as ancient fertility cults demand annual human sacrifice .
+1
+#2 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+Slowly and thoughtfully , she slipped the ornament into the pocket of her slacks , moved down the stairs and out of the house .
+2
+#5 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#15 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+There was only one place where the mountain might receive her - that unnamed , unnameable pool harbored in its secret bosom .
+2
+#9 receive VERB receive%2:32:00::,receive%2:35:00::,receive%2:41:00::
+#17 harbor VERB harbor%2:39:00::
+Atonement , if atonement were possible , could only be made at that sacred , sacrificial basin .
+1
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It was there that she would have to enact her renunciation , beg forgiveness .
+2
+#8 enact VERB enact%2:41:00::
+#12 beg VERB beg%2:40:00::
+Perhaps it was all a vividly conceived dream .
+1
+#6 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+But she was caught in it , and she faced the terrible possibility that , if it were a dream , it was one from which she might never awaken .
+2
+#3 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#9 face VERB face%2:32:00::,face%2:32:03::
+Facing the forest now , she who had not dared to enter it before , walked between two trees at random and headed in what she believed was the direction of the pool .
+6
+#0 face VERB face%2:38:00::,face%2:42:00::
+#9 dare VERB dare%2:41:01::
+#11 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#15 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#22 head VERB head%2:38:00::,head%2:38:01::
+#26 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+She remembered little of her previous journey there with Grace , and she could but hope that her dedication to her mission would enable her to accomplish it .
+1
+#23 enable VERB enable%2:30:00::,enabling%3:00:00::
+The forest was open and freely welcoming , extending an enchanted hand .
+1
+#8 extend VERB extend%2:29:01::,extend%2:40:05::
+It was not , thought Pamela , such an evil place after all .
+1
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Perhaps she had no reason to fear these trees that whispered their secrets above her head as she passed .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Was it not possible , after all , that the forest was in league with her and her child , that its sympathy lay with the Culvers , that she had erred in failing to understand this ?
+2
+#23 lie VERB lie%2:42:03::
+#35 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Pamela felt calm and peaceful as she walked along .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#7 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+The slight flutter that had disturbed the motion of her heart when she entered the forest was gone now , and even the dim groves of trees through which she occasionally passed did not reawaken her fear .
+2
+#13 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#31 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+Having persisted too long in deliberate ignorance and denial of the forces that threatened her , Pamela was relieved now to admit their potency and to be taking definite steps toward grappling with them .
+2
+#21 admit VERB admit%2:32:00::
+#31 grapple VERB grapple%2:41:00::
+A few days ago , she would have thought such an expedition as this utterly ridiculous ; today , on the contrary , it seemed utterly reasonable .
+1
+#8 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+She did not pause to consider what she would do if her plan should fail ; she directed all of her mental and physical energy toward achieving this one goal .
+2
+#14 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#17 direct VERB direct%2:31:01::,direct%2:32:01::,direct%2:32:02::,direct%2:33:00::,direct%2:33:01::,direct%2:38:01::
+If , as she walked , her steps fumbled from time to time , she chose to ignore that omen .
+1
+#4 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+If the slope grew steeper and the groves more dim , she tried not to heed .
+2
+#3 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Success depended upon maintaining her equanimity ; she must be poised and proud and unafraid in order to prove to the mountain that she was in earnest .
+2
+#3 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#18 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+It did not care what sort of person prowled its woods , plucked at its bark or stripped the berries from its bushes .
+3
+#3 care VERB care%2:37:00::,care%2:37:12::
+#12 pluck VERB pluck%2:35:01::
+#17 strip VERB strip%2:35:00::
+Red man or white man , pacifist or killer , the forest would accept them all - knowing that it could thrive equally well on slaughter and beneficence ; knowing that its ageless mass would always dwarf the short span of time allotted to any man .
+2
+#17 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#29 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Pamela shook her head .
+1
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+In her grim pursuit of tranquillity , Pamela focused her thoughts on her husband .
+1
+#8 focus VERB focus%2:31:00::
+If , when this was all over , she found the words to tell him about it , she wondered if he would ever understand .
+4
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#13 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#24 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+How could he comprehend her need when he himself was innocent ?
+1
+#3 comprehend VERB comprehend%2:31:00::
+His bright , daylight mind would whistle away such images ; they would not dare to face his scoffing .
+1
+#16 face VERB face%2:32:00::,face%2:32:03::
+His presence would have interfered with her duty .
+1
+#4 interfere VERB interfere%2:41:00::
+The mountainside grew steeper and she slipped once or twice on the smooth pine needles .
+2
+#2 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#6 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+Bushes and vines abetted the rocks in forming thorny detours for the struggling stranger , and without the direct light of the sun to act as compass , Pamela could no longer be positive of her direction .
+1
+#7 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+Nevertheless , she continued to move upward .
+2
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#5 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+She was sure she would reach the pool by climbing , and she clung to that belief despite the increasing number of obstacles .
+2
+#5 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#9 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+The forest had become an alien world where she strove , alone , unprotected , unguided , to deal with whatever hindrances were offered .
+2
+#3 become VERB become%2:30:00::,become%2:42:01::
+#18 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+It was a bold , dark castle of pine boughs that stood like a medieval fortress , eclipsing the sun and human time .
+1
+#11 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+Silence walked at Pamela 's side , its presence numbingly close , yet too far for her to hear .
+1
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Silence stood in front of her , waiting , and in back of her , blocking her retreat .
+3
+#1 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#7 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#15 block VERB block%2:33:00::
+In spite of her attempt to preserve her balance , she fell , bruising her arm on a naked stone .
+1
+#11 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+For a moment , she could not catch her breath and then , her breath returning in short , frightened spasms , she lifted herself to her feet laboriously .
+3
+#7 catch VERB catch%2:35:00::
+#15 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#23 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+She started to brush the dirt and bits of leaves off her clothes .
+2
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+Her arm bled slightly , and the offended skin cried out in pain .
+1
+#2 bleed VERB bleed%2:38:00::
+She seemed to have come such a long distance - too far for her destination which had wilfully been swallowed up in the greedy gloom of the trees .
+1
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+She stood quite still , trying to focus upon a direction in which to turn , a path to follow , a clue to guide her .
+6
+#1 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 focus VERB focus%2:31:00::
+#14 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#19 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#24 guide VERB guide%2:38:00::,guide%2:38:01::
+She was standing in a thick grove .
+1
+#2 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+The earth smelled moist and pungent as it might in a cave deprived of the cleansing effect of the sun 's rays .
+1
+#2 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+She had the feeling that , under the mouldering leaves , there would be the bodies of dead animals , quietly decaying and giving their soil back to the mountain .
+2
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#23 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+The thought made Pamela shudder .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+A terrible chill swept through the grove .
+1
+#3 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+Not a breeze exactly , but a pocket of icy air that settled with a loathsome familiarity upon the deep confines of the grove , catching Pamela in a leering embrace .
+2
+#12 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+#25 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+There was a peculiar density about it , a thick substance that could be sensed but never identified , never actually perceived .
+2
+#17 identify VERB identify%2:31:00::,identify%2:32:00::
+#21 perceive VERB perceive%2:31:00::
+Where before had she felt or dreamt or imagined such a scene ?
+3
+#4 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#6 dream VERB dream%2:36:00::,dream%2:39:00::
+#8 imagine VERB imagine%2:31:01::
+She already knew this unwholesome , chilling atmosphere that was somehow grotesquely alive .
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+It enclosed her clammy hands and twined around her ankles .
+1
+#1 enclose VERB enclose%2:42:00::
+It crept into the open neck of her blouse and slid down her body , seeping into her flesh through all the quivering pores of her skin .
+1
+#1 creep VERB creep%2:38:00::
+It crawled across her breasts , suffocating the life in her nipples .
+1
+#1 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+It entered her body with the ghastly intimacy of an incubus , and its particles , spreading , creeping , crawling , joined themselves into steel bands that constricted her knees so tightly that they ached ; stifled her lungs so that her breath came in harsh gasps ; clutched her throat and sucked up the moisture in her mouth so that her tongue was dry and hard and stuck to the roof of her mouth and her teeth were clenched together in the rigid fixture of her jaws .
+7
+#1 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#16 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#18 creep VERB creep%2:38:00::
+#20 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#35 ache VERB ache%2:39:00::
+#37 stifle VERB stifle%2:35:03::
+#44 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+But she did not know which way to go .
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+The shadows of the trees engulfed her , foreclosing every possible exit from the grove .
+1
+#8 foreclose VERB foreclose%2:41:00::
+Pamela groped blindly .
+1
+#1 grope VERB grope%2:35:01::
+She had to escape .
+1
+#3 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+She had to move in some direction - any direction that would take her away from this evil place .
+2
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+She thrust forward through the shadows and the trees that resisted her and tried to fling her back .
+1
+#13 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Her own body protested , aching painfully where the blood in her veins had congealed , where cold demon wisps still clung and caressed .
+2
+#3 protest VERB protest%2:32:00::,protest%2:41:00::
+#5 ache VERB ache%2:39:00::
+Every movement she made seemed unnecessarily noisy .
+1
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Twigs cracked loudly under her feet ; bushes swished and scratched at her slacks ; tree branches snapped as she pushed them ruthlessly away from her .
+4
+#8 swish VERB swish%2:39:00::
+#10 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#17 snap VERB snap%2:30:00::,snap%2:32:00::,snap%2:35:02::,snap%2:35:04::,snap%2:37:00::,snap%2:38:00::,snap%2:39:00::
+#20 push VERB push%2:32:01::,push%2:38:00::

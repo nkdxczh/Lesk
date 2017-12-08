@@ -1,0 +1,620 @@
+ But they all said , " No , your time will come .
+3
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 time NOUN time%1:11:00::
+#11 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+Enjoy being a bride while you can " .
+1
+#0 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+There was no room for company in the tiny Weaning House ( where the Albright boys always took their brides , till they could get a house and a farm of their own ) .
+7
+#3 room NOUN room%1:26:00::
+#5 company NOUN company%1:14:00::,company%1:18:00::,company%1:26:00::
+#15 boy NOUN boy%1:18:00::,boy%1:18:01::
+#16 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#17 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#24 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#26 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+So when the Big House filled up and ran over , the sisters-in-law found beds for everyone in their own homes .
+4
+#13 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 bed NOUN bed%1:06:00::
+#19 own ADJ own%5:00:00:personal:00
+#20 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+And there was still not anything that Linda Kay could do .
+2
+#3 still ADV still%4:02:00::
+#4 not ADV not%4:02:00::
+So Linda Kay gave up asking , and accepted her reprieve .
+1
+#8 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+Without saying so , she was really grateful ; for to attend the dying was something she had never experienced , and certainly had not imagined when she thought of the duties she would have as Bobby Joe 's wife .
+7
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#11 attend VERB attend%2:39:00::,attend%2:41:00::,attend%2:41:12::
+#18 never ADV never%4:02:00::
+#24 not ADV not%4:02:00::
+#25 imagine VERB imagine%2:31:01::
+#34 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+She had made curtains for all the windows of her little house , and she had kept it spotless and neat , shabby as it was , and cooked good meals for Bobby Joe .
+8
+#2 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#7 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#16 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#20 neat ADJ neat%5:00:00:tidy:00
+#28 cook VERB cook%2:30:00::,cook%2:30:03::
+#29 good ADJ good%3:00:01::
+#30 meal NOUN meal%1:28:00::
+She had done all the things she had promised herself she would do , but she had not thought of this .
+3
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#8 promise VERB promise%2:32:00::,promise%2:32:01::
+#17 not ADV not%4:02:00::
+People died , she would have said , in hospitals , or in cars on the highway at night .
+5
+#0 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#1 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 hospital NOUN hospital%1:06:00::
+#18 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+Bobby Joe was gone all day now , not coming in for dinner and sometimes not for supper .
+3
+#3 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+When they first married he had been working in the fields all day , and she would get in the car and drive to wherever he was working , to take him a fresh hot meal .
+10
+#3 marry VERB marry%2:41:00::,marry%2:41:01::
+#7 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#10 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#22 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#27 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#30 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#33 fresh ADJ fresh%3:00:01::,fresh%3:00:02::,fresh%5:00:00:new:00,fresh%5:00:00:rested:00
+#34 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#35 meal NOUN meal%1:28:00::
+Now there was no work in the fields , nor would there be till it rained , and she did not know where he went .
+4
+#7 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#20 not ADV not%4:02:00::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Not that she complained , or had any cause to .
+2
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+Four or five of the cousins from East Texas were about his age , so naturally they ran around together .
+4
+#10 about ADV about%4:02:00::
+#12 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#15 naturally ADV naturally%4:02:00::
+#19 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+There was no reason for her to ask what they did .
+2
+#3 reason NOUN reason%1:09:01::,reason%1:16:00::
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+Thus a new pattern of days began to develop , for Granny Albright did not die .
+5
+#3 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#6 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#14 not ADV not%4:02:00::
+#15 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+She lay still on the bed , her head hardly denting the pillow ; sometimes she opened her eyes and looked around , and sometimes she took a little milk or soup .
+7
+#5 bed NOUN bed%1:06:00::
+#8 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#9 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#16 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#18 eye NOUN eye%1:08:00::,eye%1:09:01::
+#26 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#31 soup NOUN soup%1:13:00::
+They stopped expecting her to die the next minute , but only in the next day or two .
+7
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#5 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#7 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#8 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Those who had driven hundreds of miles for the burial would not go home , for she might die any time ; but they might as well unpack their suitcases , for she might linger on .
+3
+#3 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#11 not ADV not%4:02:00::
+#18 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+So the pattern was established .
+2
+#2 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#4 establish VERB establish%2:36:01::,establish%2:41:00::
+When Linda Kay had put up her breakfast dishes and mopped her linoleum rugs , she would go to the Big House .
+1
+#8 dish NOUN dish%1:06:00::
+There was not anything she could do there , but that was where everyone was , or would be .
+2
+#2 not ADV not%4:02:00::
+#7 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Bobby Joe and the boys would come by , say " How 's Granny " ? and sit on the porch a while .
+4
+#4 boy NOUN boy%1:18:00::,boy%1:18:01::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#22 while NOUN while%1:28:00::
+The older men would be there at noon , and maybe rest for a time before they took their guns off to the creek or drove down the road towards town .
+8
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#2 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#11 rest VERB rest%2:29:00::,rest%2:32:00::,rest%2:32:01::,rest%2:41:00::
+#17 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#25 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#26 down ADJ down%3:00:00::
+#28 road NOUN road%1:04:00::,road%1:06:00::
+The women , keeping their voices low as they worked around the house or sat in the living room , sounded like chickens shut up in a coop for the night .
+9
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#5 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#6 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#9 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#12 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#14 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#20 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#22 chicken NOUN chicken%1:13:00::
+#30 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+The children had to play away from the house ( in the barn loft or the pasture behind the barn ) , to maintain a proper quietness .
+9
+#4 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#5 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#12 barn NOUN barn%1:06:00::
+#13 loft NOUN loft%1:06:00::
+#16 pasture NOUN pasture%1:15:00::
+#19 barn NOUN barn%1:06:00::
+#23 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#25 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+Off and on , all day , someone would be wiping at the powdery gray dust that settled over everything .
+5
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 wipe VERB wipe%2:35:00::
+#14 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#15 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#17 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+The evaporative cooler had been moved to Granny 's room , and her door was kept shut ; so that the rest of the house stayed open , though there was a question as to whether it was hotter or cooler that way .
+10
+#5 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#15 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#21 rest NOUN rest%1:24:00::
+#24 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#25 stay VERB stay%2:42:02::
+#26 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#38 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#40 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#42 way NOUN way%1:07:01::
+The dust clogged their throats , and the heat parched them , so that the women were always making ice water .
+4
+#1 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#8 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#17 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#18 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+They had cleaned up an old ice box and begun to buy fifty pound blocks of ice in town , as the electric refrigerator came nowhere near providing enough ice for the crowds who ate and drank there .
+10
+#5 old ADJ old%3:00:01::,old%3:00:02::
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#11 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#13 pound NOUN pound%1:23:09::,pound%1:23:10::
+#14 block NOUN block%1:06:00::,block%1:06:04::,block%1:25:01::
+#16 ice NOUN ice%1:27:00::
+#27 provide VERB provide%2:34:00::,provide%2:40:00::
+#29 ice NOUN ice%1:27:00::
+#36 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#37 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+One afternoon , as the women sat clucking softly , a new carload of people pulled up at the gate .
+2
+#6 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#19 gate NOUN gate%1:06:00::
+It was a Cadillac , black grayed with the dust of the road , its windows closed tight so you knew that the people who climbed out of it would be cool and unwrinkled .
+9
+#5 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#6 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#9 dust NOUN dust%1:27:00::,dust%1:27:01::,dust%1:27:02::
+#12 road NOUN road%1:04:00::,road%1:06:00::
+#15 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#16 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#20 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#25 climb VERB climb%2:38:01::
+#31 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+They were an old fat couple ( as Linda Kay described them to herself ) , a thick middle-aged man , and a girl about ten or twelve .
+5
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#5 couple NOUN couple%1:14:00::,couple%1:17:00::
+#10 describe VERB describe%2:32:01::
+#17 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+There was much embracing , much exclaiming .
+1
+#3 embrace NOUN embrace%1:04:00::
+" About the same , John , about the same " .
+2
+#3 same ADJ same%3:00:00::,same%3:00:02::
+#9 same ADJ same%3:00:00::,same%3:00:02::
+All the women got up and offered their chairs , and when they were all seated again , the guests made their inquiries and their explanations .
+2
+#8 chair NOUN chair%1:06:00::,chair%1:06:01::
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" We were on our vacation in Canada " , Howard explained , in a muffled voice that must have been used to booming , " and the news did n't catch up with us till we were nearly home .
+4
+#5 vacation NOUN vacation%1:28:00::
+#16 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#23 boom VERB boom%2:39:01::
+#38 nearly ADV nearly%4:02:00::
+There was the suggestion of ice water , and - in spite of the protest " We 're not really thirsty " - Linda Kay , to escape the stuffy air and the smothering soft voices , hurried to the kitchen .
+7
+#14 protest NOUN protest%1:10:00::
+#18 not ADV not%4:02:00::
+#27 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#30 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#34 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+#35 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#40 kitchen NOUN kitchen%1:06:00::
+She filled a big pitcher and set it , with glasses , on a tray .
+4
+#3 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#4 pitcher NOUN pitcher%1:06:00::,pitcher%1:23:00::
+#6 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#10 glass NOUN glass%1:06:00::,glass%1:06:02::,glass%1:06:04::,glass%1:27:00::
+Carrying it to the living room , she imagined the picture she made : tall and roundly slim , a bit sophisticated in her yellow sheath , with a graceful swingy walk that she had learned as a twirler with the school band .
+11
+#0 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#8 imagine VERB imagine%2:31:01::
+#14 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#16 roundly ADV roundly%4:02:00::
+#17 slim ADJ slim%5:00:00:thin:03
+#21 sophisticated ADJ sophisticated%5:00:00:high-tech:00
+#24 yellow ADJ yellow%5:00:00:chromatic:00
+#31 walk NOUN walk%1:04:00::
+#35 learn VERB learn%2:31:01::,learn%2:31:03::
+#41 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#42 band NOUN band%1:14:00::,band%1:14:01::,band%1:14:02::
+Almost immediately she was ashamed of herself for feeling vain , at such a time , in such a place , and she tossed back her long yellow hair , smiling shyly as she entered the room .
+7
+#8 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#9 vain ADJ vain%5:00:00:proud:00
+#26 long ADJ long%3:00:01::
+#27 yellow ADJ yellow%5:00:00:chromatic:00
+#28 hair NOUN hair%1:08:00::
+#34 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#36 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+Howard ( the thick middle-aged man ) was looking at her .
+3
+#3 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#8 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+She felt the look and looked back because she could not help it , seeing that he was neither as old nor as thick as she had at first believed .
+9
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#3 look NOUN look%1:04:00::,look%1:07:01::
+#5 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#10 not ADV not%4:02:00::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#18 neither ADV neither%5:00:00:incomplete:00
+#20 old ADJ old%3:00:01::,old%3:00:02::
+#23 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#29 believe VERB believe%2:31:03::
+" And who is this " ? he asked , when she passed him a glass .
+2
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#15 glass NOUN glass%1:06:00::,glass%1:06:02::,glass%1:06:04::,glass%1:27:00::
+" Oh that 's Linda Kay " , Mama Albright said fondly .
+1
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" She married our baby boy , Bobby Joe , this summer " .
+4
+#2 marry VERB marry%2:41:00::,marry%2:41:01::
+#4 baby NOUN baby%1:05:00::
+#5 boy NOUN boy%1:18:03::
+#11 summer NOUN summer%1:28:00::
+" Let 's see " , Cousin Ada said .
+3
+#1 let VERB let%2:32:00::
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" He 's a right smart younger than the rest " ?
+1
+#9 rest NOUN rest%1:24:00::
+" Oh yes " , Mama laughed .
+1
+#5 mama NOUN mama%1:18:00::
+This joke was not funny to Linda Kay , and she blushed , as she always did ; then , hearing the muffled boom of Howard 's laughter , blushed redder .
+6
+#3 not ADV not%4:02:00::
+#4 funny ADJ funny%5:00:00:humorous:00,funny%5:00:00:questionable:00
+#15 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#18 then ADV then%4:02:00::
+#23 boom NOUN boom%1:11:01::
+#30 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+" Who is Howard , anyway " ? she asked Bobby Joe that night .
+2
+#9 ask VERB ask%2:32:00::,ask%2:32:04::
+#13 night NOUN night%1:28:00::
+" He makes me uncomfortable " .
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He got in the oil business out at Odessa and lucked into some money " .
+1
+#8 Odessa NOUN odessa%1:15:01::
+" Gosh , I do n't know .
+1
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He 's been married and got this half grown kid .
+3
+#3 married ADJ married%3:01:00::
+#5 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#9 kid NOUN kid%1:18:00::
+If he bothers you , do n't pay him any mind .
+3
+#2 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+#7 pay VERB pay%2:41:00::
+#10 mind NOUN mind%1:09:00::,mind%1:09:06::
+He 's just a big windbag " .
+2
+#2 just ADV just%4:02:00::,just%4:02:03::
+#4 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+" Say , did you know they 're fixing to have a two day antelope season on the Double X " ?
+3
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+" Listen , I never had a chance to kill an antelope .
+3
+#4 never ADV never%4:02:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+There never was a season before , but now they want to thin 'em out on account of the drouth " .
+3
+#1 never ADV never%4:02:00::
+#5 before ADV before%4:02:03::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+" Did he ever visit here when he was a kid " ?
+4
+#3 ever ADV ever%4:02:05::
+#4 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#5 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 kid NOUN kid%1:18:00::
+Linda Kay asked .
+1
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+" Hell , I do n't know .
+1
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+When he was a kid I was n't around " .
+2
+#4 kid NOUN kid%1:18:00::
+#8 around ADV around%4:02:01::
+Bobby Joe took a gun from behind the door , and with a quick " Bye now " was gone for the day .
+4
+#2 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#13 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#19 gone ADJ gone%5:00:00:dead:01,gone%5:00:00:destroyed:00,gone%5:00:00:lost:01
+#22 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+" We 're going after ice " , Howard said , " and thought maybe you 'd go along and keep us company " .
+2
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+There was really no reason to refuse , and Linda Kay had never ridden in a Cadillac .
+4
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#4 reason NOUN reason%1:09:01::,reason%1:16:00::
+#12 never ADV never%4:02:00::
+#13 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+Driving along the caliche-topped road to town , Howard talked .
+2
+#0 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#4 road NOUN road%1:04:00::,road%1:06:00::
+Finally he said , " Tell me about yourself " , and Linda Kay told him , because she thought herself that she had had an interesting life .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#27 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+In her sophomore year she had started going steady with Bobby Joe , who was a football player , Future Homemakers sweetheart , and president of Future Farmers .
+2
+#6 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#24 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+It was easy to see that they were made for each other , and they knew what they wanted .
+3
+#2 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Bobby Joe would be a senior this year , and he planned to graduate .
+3
+#7 year NOUN year%1:28:00::,year%1:28:01::
+#11 plan VERB plan%2:31:00::,plan%2:31:01::
+#13 graduate VERB graduate%2:40:00::
+But there was no need for Linda Kay to go on , since all she wanted in life was to make a home for Bobby Joe and ( blushing ) raise his children .
+6
+#4 need NOUN need%1:26:00::
+#15 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#17 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#20 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#22 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#30 raise VERB raise%2:36:03::
+" You lucky kids " , he said .
+2
+#3 kid NOUN kid%1:18:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 'd give anything if I could have found a girl like you " .
+3
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#11 girl NOUN girl%1:18:01::,girl%1:18:03::
+Then he told Linda Kay about himself .
+2
+#0 then ADV then%4:02:00::
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Of course he could n't say much , really , because of Debora , but Linda Kay could imagine what kind of woman his wife had been and what a raw deal he had got .
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#18 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+She was going to tell Bobby Joe about how mistaken she had been , but he brought one of the cousins home for supper , and all they did was talk about antelope .
+1
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Bobby Joe was trying to get Linda Kay to say she would cook one if he brought it home .
+4
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 cook VERB cook%2:30:00::,cook%2:30:03::
+" Why , I could n't even cook a piece of antelope steak ; I never even saw any " .
+3
+#7 cook VERB cook%2:30:00::,cook%2:30:03::
+#15 never ADV never%4:02:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+I want to roast the whole thing , and have it for the boys " .
+3
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 roast VERB roast%2:30:00::
+#13 boy NOUN boy%1:18:00::,boy%1:18:01::
+Linda Kay told him he could n't do anything like that with his Grandma dying , and he said well they had to eat , did n't they , they were n't all dying .
+4
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#14 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#33 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Linda Kay felt like going off to the bedroom to cry ; but they were going up to the Big House after supper , and she had to put on a clean dress and fix her hair a little .
+4
+#31 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#32 dress NOUN dress%1:06:00::
+#34 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+#36 hair NOUN hair%1:08:00::
+Every night they all went to Mama and Papa Albright 's , and sat on the open front porch , where they could get the breeze .
+6
+#6 mama NOUN mama%1:18:00::
+#8 papa NOUN papa%1:18:00::
+#13 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#16 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#23 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#25 breeze NOUN breeze%1:19:00::
+It was full-of-the-moon ( or a little past ) , and nearly light as day .
+3
+#11 nearly ADV nearly%4:02:00::
+#12 light ADJ light%3:00:06::
+#14 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+They all sat around and drank ice water , and the men smoked , and everybody had a good time .
+6
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#5 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#11 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 smoke VERB smoke%2:34:00::
+#16 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 time NOUN time%1:11:00::
+Once in a while they said what a shame it was , with Granny dying , but they all agreed she would n't have wanted it any other way .
+5
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#19 agree VERB agree%2:32:00::,agree%2:32:01::
+#24 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#27 other ADJ other%3:00:00::
+That night the older men got to talking about going possum hunting on a moonlight night .
+5
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#9 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 possum NOUN possum%1:05:01::
+#15 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+Bobby Joe and two or three of the other boys declared they had never been possum hunting , and Uncle Bill Farnworth ( from Mama Albright 's side of the family ) said he would just get up from there and take them , right then .
+12
+#8 other ADJ other%3:00:00::
+#10 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#13 never ADV never%4:02:00::
+#15 possum NOUN possum%1:05:01::
+#27 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#30 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#32 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#35 just ADV just%4:02:00::,just%4:02:03::
+#39 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#41 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#44 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#45 then ADV then%4:02:01::
+After they had left , some of the people moved around , to find more comfortable places to sit .
+8
+#3 leave VERB leave%2:38:00::,leave%2:41:00::
+#8 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#9 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#10 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+#13 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#14 more ADV more%4:02:00::
+#15 comfortable ADJ comfortable%3:00:01::
+#18 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+There were not many chairs , so that some preferred to sit on the edge of the porch , resting their feet on the ground , and others liked to sit where they could lean back against the wall .
+8
+#2 not ADV not%4:02:00::
+#4 chair NOUN chair%1:06:00::,chair%1:06:01::
+#9 prefer VERB prefer%2:31:00::
+#11 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#14 edge NOUN edge%1:06:01::
+#21 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#24 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#30 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+Howard , who had been sitting against the wall , said he needed more fresh air , and took the spot on the edge of the porch where Bobby Joe had been sitting .
+7
+#5 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 need VERB need%2:42:00::
+#15 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#20 spot NOUN spot%1:10:01::,spot%1:15:01::
+#23 edge NOUN edge%1:06:01::
+#32 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+" You 'll be a darn sight more comfortable there , Howard " , Ernest said , laughing , and they all laughed .
+4
+#7 more ADV more%4:02:00::
+#8 comfortable ADJ comfortable%3:00:01::
+#9 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Linda Kay felt that she was not exactly more comfortable .
+4
+#6 not ADV not%4:02:00::
+#7 exactly ADV exactly%4:02:02::
+#8 more ADV more%4:02:00::
+#9 comfortable ADJ comfortable%3:00:01::
+Bobby Joe had been sitting close to her , touching her actually , and holding her hand from time to time , but it seemed at once that Howard sat much closer .
+5
+#4 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#14 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#16 hand NOUN hand%1:08:00::,hand%1:10:01::
+#29 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+Perhaps it was just that he had so much more flesh , so that more of it seemed to come in contact with hers ; but she had never been so aware of anyone 's flesh before .
+8
+#3 just ADV just%4:02:00::,just%4:02:03::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#9 more ADV more%4:02:00::,more%4:02:01::
+#21 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#28 never ADV never%4:02:00::
+#30 so ADV so%4:02:03::,so%4:02:07::
+#36 before ADV before%4:02:03::
+Still she was not sorry he sat by her , but in fact was flattered .
+4
+#0 still ADV still%4:02:04::
+#3 not ADV not%4:02:00::
+#4 sorry ADJ sorry%3:00:02::
+#6 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+He had become the center of the company , such stories he had to tell .
+4
+#2 become VERB become%2:30:00::,become%2:42:01::
+#10 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He had sold oil stock to Bob Hope and Bing Crosby in person ; he had helped fight an oil-well fire that raged six days and nights .
+7
+#2 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+#3 oil NOUN oil%1:27:00::
+#4 stock NOUN stock%1:21:00::,stock%1:21:02::,stock%1:26:00::
+#16 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#20 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#24 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#26 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::

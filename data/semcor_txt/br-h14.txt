@@ -1,0 +1,526 @@
+ From its inception in 1920 with the passage of Public Law 236 , 66 th Congress , the purpose of the vocational rehabilitation program has been to assist the States , by means of grants-in-aid , to return disabled men and women to productive , gainful employment .
+5
+#7 passage NOUN passage%1:04:01::
+#29 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#32 means NOUN means%1:06:00::
+#37 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#39 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The authority for the program was renewed several times until the vocational rehabilitation program was made permanent as Title 5 , of the Social Security Act in 1935 .
+4
+#1 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#8 time NOUN time%1:11:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Up to this time and for the next eight years , the services provided disabled persons consisted mainly of training , counseling , and placement on a job .
+9
+#3 time NOUN time%1:11:00::
+#7 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#9 year NOUN year%1:28:00::,year%1:28:01::
+#12 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#13 provide VERB provide%2:34:00::,provide%2:40:00::
+#15 person NOUN person%1:03:00::,person%1:08:00::
+#19 training NOUN training%1:04:00::
+#21 counsel NOUN counsel%1:10:00::
+#27 job NOUN job%1:04:00::,job%1:06:00::
+Recognizing the limitations of such a program , the 78 th Congress in 1943 passed P. L. 113 , which broadened the concept of rehabilitation to include the provision of physical restoration services to remove or reduce disabilities , and which revised the financing structure .
+11
+#0 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#2 limitation NOUN limitation%1:04:00::
+#6 program NOUN program%1:09:00::,program%1:09:01::
+#14 pass VERB pass%2:41:02::
+#28 provision NOUN provision%1:04:01::,provision%1:21:00::
+#30 physical ADJ physical%3:01:00::,physical%5:00:00:material:01
+#31 restoration NOUN restoration%1:26:00::
+#32 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#34 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#36 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#41 revise VERB revise%2:32:00::
+Despite the successful rehabilitation of over a half million disabled persons in the first eleven years after 1943 , the existing program was still seen to be inadequate to cope with the nation 's backlog of an estimated two million disabled .
+6
+#10 person NOUN person%1:03:00::,person%1:08:00::
+#13 first ADJ first%3:00:00::,first%4:02:00::
+#15 year NOUN year%1:28:00::,year%1:28:01::
+#21 program NOUN program%1:09:00::,program%1:09:01::
+#23 still ADV still%4:02:00::
+#24 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+To assist the States , therefore , in rehabilitating handicapped individuals , " so that they may prepare for and engage in remunerative employment to the extent of their capabilities " , the 83 rd Congress enacted the Vocational Rehabilitation Amendments of 1954 ( P. L. 565 ) .
+4
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#17 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#20 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#36 enact VERB enact%2:41:00::
+These amendments to the Vocational Rehabilitation Act were designed to help provide for more specialized rehabilitation facilities , for more sheltered and " half-way " workshops , for greater numbers of adequately trained personnel , for more comprehensive services to individuals ( particularly to the homebound and the blind ) , and for other administrative improvements to increase the program 's overall effectiveness .
+9
+#16 facility NOUN facility%1:04:00::,facility%1:04:01::,facility%1:06:00::
+#25 workshop NOUN workshop%1:04:00::
+#28 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#29 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#37 comprehensive ADJ comprehensive%3:00:00::
+#38 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#42 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#48 blind NOUN blind%1:14:00::
+#59 program NOUN program%1:09:00::,program%1:09:01::
+Under the law as it existed until 1943 , the Federal Government made grants to the States on the basis of population , matching State expenditures on a 50 - 50 basis .
+5
+#2 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#5 exist VERB exist%2:42:00::
+#12 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 grant NOUN grant%1:04:00::
+#16 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Under P. L. 113 , 78 th Congress , the Federal Government assumed responsibility for 100 % of necessary State expenditures in connection with administration and the counseling and placement of the disabled , and for 50 % of the necessary costs of providing clients with rehabilitation case services .
+9
+#12 assume VERB assume%2:40:00::,assume%2:40:01::
+#18 necessary ADJ necessary%3:00:00::
+#24 administration NOUN administration%1:04:00::
+#27 counsel NOUN counsel%1:10:00::
+#40 necessary ADJ necessary%3:00:00::
+#43 provide VERB provide%2:34:00::,provide%2:40:00::
+#44 client NOUN client%1:18:00::
+#47 case NOUN case%1:18:03::,case%1:18:04::,case%1:26:02::
+#48 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+Throughout these years , the statutory authorization was for such sums as were necessary to carry out the provisions of the Act .
+4
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#10 sum NOUN sum%1:21:00::
+#13 necessary ADJ necessary%3:00:00::
+#18 provision NOUN provision%1:10:00::
+The 1954 Amendments completely changed the financing of the vocational rehabilitation program , providing for a three part grant structure - for ( 1 ) basic support ; ( 2 ) extension and improvement ; and ( 3 ) research , demonstrations , training and traineeships for vocational rehabilitation - and in addition for short-term training and instruction .
+10
+#4 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#17 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#18 grant NOUN grant%1:04:00::
+#25 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#26 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#31 extension NOUN extension%1:04:02::,extension%1:06:00::,extension%1:06:01::,extension%1:10:00::,extension%1:28:00::
+#41 demonstration NOUN demonstration%1:10:03::
+#43 training NOUN training%1:04:00::
+#55 training NOUN training%1:04:00::
+#57 instruction NOUN instruction%1:04:01::
+The first part of the new structure - that for supporting the basic program of vocational rehabilitation services - is described in this Section .
+9
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#5 new ADJ new%3:00:00::
+#10 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#12 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#13 program NOUN program%1:09:00::,program%1:09:01::
+#17 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#20 describe VERB describe%2:32:01::
+#23 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+Subsequent sections on grants describe the other categories of the grant structure .
+6
+#1 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#3 grant NOUN grant%1:04:00::
+#4 describe VERB describe%2:32:01::
+#6 other ADJ other%5:00:02:past:00
+#7 category NOUN category%1:14:00::
+#10 grant NOUN grant%1:04:00::
+The following table shows , for selected years , the authorizations , appropriations , allotment base , Federal grants to States and State matching funds for this part of the grant program .
+10
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#2 table NOUN table%1:14:00::
+#7 year NOUN year%1:28:00::,year%1:28:01::
+#12 appropriation NOUN appropriation%1:21:00::
+#15 base NOUN base%1:09:00::,base%1:10:01::
+#18 grant NOUN grant%1:04:00::
+#20 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#27 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#30 grant NOUN grant%1:04:00::
+#31 program NOUN program%1:09:00::,program%1:09:01::
+In order to assist the States in maintaining basic vocational rehabilitation services , Section 2 of the amended Act provides that allotments to States for support of such services be based on ( 1 ) need , as measured by a State 's population , and ( 2 ) fiscal capacity , as measured by its per capita income .
+10
+#5 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#8 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#11 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#13 section NOUN section%1:06:00::,section%1:10:00::,section%1:15:01::,section%1:23:00::
+#19 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#23 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#25 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#28 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#30 base VERB base%2:31:00::
+#41 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The Act further provides for a " floor " or minimum allotment , set at the 1954 level , which is called the " base " allotment , and a " ceiling " or maximum allotment , for each State .
+9
+#2 further ADV further%4:02:02::,further%4:02:03::
+#3 provide VERB provide%2:32:00::,provide%2:34:00::,provide%2:40:08::
+#7 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#13 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#17 level NOUN level%1:26:00::,level%1:26:01::
+#21 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#24 base NOUN base%1:09:00::,base%1:10:01::
+#31 ceiling NOUN ceiling%1:06:00::
+#39 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+It stipulates , in addition , that all amounts remaining as a result of imposing the " ceiling " , and not used for insuring the " floor " , be redistributed to those States still below their maximums .
+7
+#14 impose VERB impose%2:32:00::,impose%2:40:00::,impose%2:41:00::
+#17 ceiling NOUN ceiling%1:06:00::
+#22 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#24 insure VERB insure%2:32:00::,insure%2:32:04::,insure%2:40:00::
+#27 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#34 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#35 still ADV still%4:02:00::
+These provisions are designed to reflect the differences in wealth and population among the States , with the objective that a vocationally handicapped person have access to needed services regardless of whether he resides in a State with a low or high per capita income or a sparsely or thickly populated State .
+12
+#1 provision NOUN provision%1:10:00::
+#5 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#14 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#18 objective NOUN objective%1:09:00::
+#23 person NOUN person%1:03:00::,person%1:08:00::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 access NOUN access%1:07:00::
+#28 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#36 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#39 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#41 high ADJ high%3:00:02::
+#51 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The provisions are also designed to avoid disruption in State programs already in operation , which might otherwise result from the allotment of funds on the basis of wealth and population alone .
+6
+#1 provision NOUN provision%1:10:00::
+#6 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#10 program NOUN program%1:09:00::,program%1:09:01::
+#11 already ADV already%4:02:00::
+#17 otherwise ADV otherwise%4:02:01::
+#31 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+The method used in computing the allotments is specifically set forth in the Act .
+1
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The term " State " means the several States , the District of Columbia , the Virgin Islands , Guam and Puerto Rico ; the term " United States " includes the several States and the District of Columbia , and excludes the Virgin Islands , Guam and Puerto Rico , and , prior to 1962 , Alaska and Hawaii .
+7
+#1 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#8 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#25 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#30 include VERB include%2:42:00::
+#33 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The following steps are employed in calculations :
+3
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#4 employ VERB employ%2:34:00::
+For each State ( except Puerto Rico , Guam , the Virgin Islands , and , prior to 1962 , Alaska and Hawaii ) determine average per capita income based on the last three years .
+4
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#24 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#32 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#34 year NOUN year%1:28:00::,year%1:28:01::
+( See Source of Data , below for per capita income data to be used in this step . )
+3
+#11 data NOUN data%1:14:00::,datum%1:09:00::
+#14 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+Determine the average per capita income for the U. S. based on the last three years .
+3
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#13 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#15 year NOUN year%1:28:00::,year%1:28:01::
+( See Source of Data , below , for per capita income data to be used in this step . )
+4
+#4 data NOUN data%1:14:00::,datum%1:09:00::
+#12 data NOUN data%1:14:00::,datum%1:09:00::
+#15 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+Determine the ratio of 50 % to the average per capita income of the U. S. ( Divide 50 by the result obtained in item 2 above . )
+3
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#17 divide VERB divide%2:31:00::
+#22 obtain VERB obtain%2:40:00::
+Determine for each State ( except the Virgin Islands , Guam and Puerto Rico , and , prior to 1962 , Alaska and Hawaii ) that percentage which bears the same ratio to 50 % as the particular State 's average per capita income bears to the average per capita income of the U. S. .
+5
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#30 same ADJ same%3:00:00::,same%3:00:02::
+#37 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#38 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+( Multiply the result obtained in item 3 above by the result obtained for each State in item 1 above . )
+3
+#4 obtain VERB obtain%2:40:00::
+#12 obtain VERB obtain%2:40:00::
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Determine the particular State 's " allotment percentage " .
+3
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#2 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+By law this is 75 % for the Virgin Islands , Guam and Puerto Rico .
+1
+#1 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+( Alaska and Hawaii had fixed allotment percentages in effect prior to fiscal year 1962 . )
+1
+#5 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+In all other States it is the difference obtained by subtracting from 100 the result obtained in item 4 above ; except that no State shall have an allotment percentage less than 33 - 1 3 % nor more than 75 % .
+6
+#2 other ADJ other%3:00:00::
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#8 obtain VERB obtain%2:40:00::
+#15 obtain VERB obtain%2:40:00::
+#24 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+If the resulting difference for the particular State is less or more than these extremes , the State 's allotment percentage must be raised or lowered to the appropriate extreme .
+6
+#6 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#7 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#14 extreme NOUN extreme%1:07:00::
+#17 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#25 lower VERB lower%2:30:01::
+#29 extreme NOUN extreme%1:07:00::
+Square each State 's allotment percentage .
+1
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Determine each State 's population .
+2
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+( See Source of Data , below for population data to be used in this step . )
+4
+#4 data NOUN data%1:14:00::,datum%1:09:00::
+#9 data NOUN data%1:14:00::,datum%1:09:00::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+Multiply the population of each State by the square of its allotment percentage .
+2
+#5 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#8 square NOUN square%1:23:00::
+( Multiply result obtained in item 7 above , by result obtained in item 6 above . )
+2
+#3 obtain VERB obtain%2:40:00::
+#11 obtain VERB obtain%2:40:00::
+Determine the sum of the products obtained in item 8 above , for all the States .
+5
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#2 sum NOUN sum%1:06:00::,sum%1:21:00::
+#5 product NOUN product%1:09:00::
+#6 obtain VERB obtain%2:40:00::
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+( For each State , make all computations set forth in items 1 to 8 above , and then add the results obtained for each State in item 8 . )
+5
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 add VERB add%2:31:00::
+#22 obtain VERB obtain%2:40:00::
+#25 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Determine the ratio that the amount being allotted is to the sum of the products for all the States .
+3
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#11 sum NOUN sum%1:06:00::,sum%1:21:00::
+#18 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+( Divide the amount being allotted by the result obtained in item 9 above . )
+2
+#1 divide VERB divide%2:31:00::
+#9 obtain VERB obtain%2:40:00::
+Determine the particular State 's unadjusted allotment for the particular fiscal year .
+4
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#2 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#9 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+( Multiply the State product in item 8 above by the result obtained in item 10 above . )
+2
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#12 obtain VERB obtain%2:40:00::
+Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is greater than its maximum allotment , and if so lower its unadjusted allotment to its maximum allotment .
+6
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#3 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#4 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 obtain VERB obtain%2:40:00::
+#17 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#26 lower VERB lower%2:30:01::
+( Each State 's unadjusted allotment for any fiscal year , which exceeds its minimum allotment described in item 13 below by a percentage greater than one and one-half times the percentage by which the sum being allotted exceeds $ 23000000 , must be reduced by the amount of the excess . )
+7
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#16 describe VERB describe%2:32:01::
+#24 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#29 time NOUN time%1:28:00::
+#35 sum NOUN sum%1:21:00::
+#44 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#50 excess NOUN excess%1:07:02::
+Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is less than its minimum ( base ) allotment , and if so raise its unadjusted allotment to its minimum allotment .
+5
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#3 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#4 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#10 obtain VERB obtain%2:40:00::
+#29 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+Regardless of its unadjusted allotment , each State is guaranteed by law a minimum allotment each year equal to the allotment which it received in fiscal year 1954 - increased by a uniform percentage of 5.4865771 which brings total 1954 allotments to all States up to $ 23000000 .
+4
+#7 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#11 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#17 equal ADJ equal%3:00:00::
+#43 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The funds recouped by reductions in item 12 above are used : first , to increase the unadjusted allotments to the specified minimum in those States where the unadjusted allotment is less than the minimum allotment ( item 13 above ) ; and second , to increase uniformly the allotments to those States whose allotments are below their maximums , with adjustments to prevent the allotment of any State from thereby exceeding its maximum .
+7
+#4 reduction NOUN reduction%1:04:00::,reduction%1:04:02::,reduction%1:22:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#25 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#31 less ADV less%4:02:00::,less%4:02:01::
+#52 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#63 prevent VERB prevent%2:41:00::
+#68 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+For the States which maintain two separate agencies - one for the vocational rehabilitation of the blind , and one for the rehabilitation of persons other than the blind - the Act specifies that their minimum ( base ) allotment shall be divided between the two agencies in the same proportion as it was divided in fiscal year 1954 .
+9
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#7 agency NOUN agency%1:14:00::,agency%1:14:01::
+#16 blind NOUN blind%1:14:00::
+#24 person NOUN person%1:03:00::,person%1:08:00::
+#28 blind NOUN blind%1:14:00::
+#42 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#46 agency NOUN agency%1:14:00::,agency%1:14:01::
+#49 same ADJ same%3:00:00::,same%3:00:02::
+#54 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+Funds allotted in addition to their minimum allotment are apportioned to the two agencies as they may determine .
+2
+#13 agency NOUN agency%1:14:00::,agency%1:14:01::
+#17 determine VERB determine%2:31:01::,determine%2:32:03::
+As is the case with the allotment provisions for support of vocational rehabilitation services , the matching requirements are also based on a statutory formula .
+5
+#3 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#9 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#13 service NOUN service%1:04:00::,service%1:04:05::,service%1:04:06::,service%1:04:07::,service%1:04:08::,service%1:14:00::,service%1:14:05::,services%1:04:00::
+#20 base VERB base%2:31:00::
+#24 formula NOUN formula%1:09:00::,formula%1:10:01::
+Prior to 1960 , in order to provide matching for the minimum ( base ) allotment , State funds had to equal 1954 State funds .
+1
+#19 have VERB have%2:42:08::
+Prior to and since 1960 the rest of the support allotment is matched at rates related to the fiscal capacity of the State , with a pivot of 40 % State ( or 60 % Federal ) participation in total program costs .
+6
+#6 rest NOUN rest%1:24:00::
+#9 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#12 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+#14 rate NOUN rate%1:21:00::
+#22 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#40 program NOUN program%1:09:00::,program%1:09:01::
+The percentage of Federal participation in such costs for any State is referred to in the law as that State 's " Federal share " .
+5
+#10 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#12 refer VERB refer%2:32:00::,refer%2:42:00::
+#16 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#19 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#23 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+For purposes of this explanation , this percentage is referred to as the States " unadjusted Federal share " .
+3
+#9 refer VERB refer%2:32:00::,refer%2:42:00::
+#13 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#17 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+Beginning in 1960 , the matching requirements for the base allotment are being adjusted ( upward or downward , as required ) 25 % a year , so that by 1963 the entire support allotment will be matched on the basis of a 40 % pivot State share , with maximum and minimum State shares of 50 % and 30 % , respectively .
+7
+#0 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#13 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#27 so CONJ so%4:02:10::
+#33 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#37 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+#47 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#54 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+The pre 1960 rate of Federal participation with respect to any State 's base allotment , as well as the adjusted rate in effect during the 1960 - 1962 period , is designated by the statute as that State 's " adjusted Federal Share " .
+6
+#3 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#11 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#21 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#29 period NOUN period%1:28:00::,period%1:28:03::
+#38 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#43 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+The provisions for determining a State 's unadjusted Federal share are designed to reflect the varying financial resources among the States .
+7
+#1 provision NOUN provision%1:10:00::
+#3 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#5 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#9 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#13 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#17 resource NOUN resource%1:07:00::,resource%1:21:00::
+#20 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The purpose of the adjusted Federal share relating to the base allotment and of the transition provisions for reaching the unadjusted Federal share is to prevent dislocations from abrupt changes in matching rates .
+6
+#6 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#7 relate VERB relate%2:31:00::,relate%2:32:00::,relate%2:41:00::,relate%2:42:00::,relate%2:42:01::
+#22 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#25 prevent VERB prevent%2:41:00::
+#31 match VERB match%2:30:07::,match%2:41:00::,match%2:42:00::
+#32 rate NOUN rate%1:21:00::
+The method used for computing the respective Federal and State shares in total program costs is specifically set forth in the Act .
+3
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#13 program NOUN program%1:09:00::,program%1:09:01::
+The term " State " means the several States , the District of Columbia , the Virgin Islands , Guam and Puerto Rico ; the term " United States " includes the several States and the District of Columbia and excludes the Virgin Islands , Guam and Puerto Rico , and , prior to 1962 , Alaska and Hawaii .
+7
+#1 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#5 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#8 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#25 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#30 include VERB include%2:42:00::
+#33 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+The following steps are employed in the calculations :
+3
+#1 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#2 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+#4 employ VERB employ%2:34:00::
+For each State ( except the Virgin Islands , Guam , Puerto Rico , and , prior to 1962 , Alaska and Hawaii ) , determine the average per capita income for the last three years .
+4
+#2 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#25 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#33 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#35 year NOUN year%1:28:00::,year%1:28:01::
+( the same amount used in item 1 under Method of Computing allotments , above . )
+2
+#2 same ADJ same%3:00:00::,same%3:00:02::
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Determine the average per capita income for the United States for the last three years .
+3
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#12 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#14 year NOUN year%1:28:00::,year%1:28:01::
+( The same amount used in item 2 under Method of Computing Allotments , above . )
+2
+#2 same ADJ same%3:00:00::,same%3:00:02::
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Determine the ratio of 40 % to the average per capita income of the United States .
+1
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+( Divide 40 by the amount used in item 2 above . )
+2
+#1 divide VERB divide%2:31:00::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Determine for each State ( except the Virgin Islands , Guam , Puerto Rico , and , prior to 1962 , Alaska and hawaii ) , that percentage which bears the same ratio to 40 % as the particular State 's average per capita income bears to the average per capita income of the United States .
+5
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#31 same ADJ same%3:00:00::,same%3:00:02::
+#38 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#39 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+( Multiply the result obtained in item 3 above by the amount used for each State in item 1 above . )
+3
+#4 obtain VERB obtain%2:40:00::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Determine the particular State 's " Federal Share " .
+4
+#0 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#2 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#7 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+By law this is 70 % for the Virgin Islands , Guam and Puerto Rico .
+1
+#1 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+( Alaska and Hawaii had fixed Federal share percentages in effect prior to fiscal year 1962 . )
+2
+#5 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#7 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+In all other States it is the difference obtained by subtracting from 100 the result obtained in item 4 above ; except that no State shall have a Federal share less than 50 % nor more than 70 % .
+7
+#2 other ADJ other%3:00:00::
+#3 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#8 obtain VERB obtain%2:40:00::
+#15 obtain VERB obtain%2:40:00::
+#24 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#29 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+If the resulting difference for the particular State is less or more than these extremes , the State 's Federal share must be raised or lowered to the appropriate extreme .
+7
+#6 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#7 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#14 extreme NOUN extreme%1:07:00::
+#17 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#20 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#25 lower VERB lower%2:30:01::
+#29 extreme NOUN extreme%1:07:00::

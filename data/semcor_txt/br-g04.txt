@@ -1,0 +1,360 @@
+ Suddenly , however , their posture changed and the game ended .
+1
+#6 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+They went as rigid as black statuary - six figures , lean and tall and angular , went still .
+2
+#1 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+#17 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+They all swung at the same instant in the same direction .
+1
+#2 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+They saw it before I did , even with my binoculars .
+1
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+It was nothing more than a tiny distant rain squall , a dull gray sheet which reached from a layer of clouds to the earth .
+1
+#16 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+A white man would not have seen it .
+1
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Watching , they waited until the squall thickened and began to move in a long drifting slant across the dry burning land .
+4
+#0 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#9 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#11 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+They were chasing a rain cloud .
+1
+#2 chase VERB chase%2:38:00::
+I followed them in the jeep and now they did not care .
+2
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#11 care VERB care%2:37:00::,care%2:37:12::
+Sometimes I guessed it was because the rain squall had changed direction .
+1
+#10 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+It is the gait of the human who must run to live : arms dangling , legs barely swinging over the ground , head hung down and only occasionally swinging up to see the target , a loose motion that is just short of stumbling and yet is wonderfully graceful .
+5
+#9 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#11 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#18 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#29 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#32 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+They ran for three hours .
+1
+#1 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+Finally , avoiding hummocks and seeking low ground , they intercepted the rain squall .
+1
+#2 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+For ten minutes they ran beneath the squall , raising their arms and , for the first time , shouting and capering .
+3
+#4 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#9 raise VERB raise%2:36:01::,raise%2:36:02::,raise%2:38:00::,raise%2:38:01::,raise%2:38:02::
+#19 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+Then the wind died and the rain squall held steady .
+1
+#3 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+They were studying the ground .
+1
+#2 study VERB study%2:31:00::
+Suddenly one of them shouted , ran a few feet , bent forward and put his mouth to the ground .
+3
+#4 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#6 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#14 put VERB put%2:35:00::,put%2:35:05::
+He had found a depression with rain water in it .
+1
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+He bent down , a black cranelike figure , and put his mouth to the ground .
+1
+#10 put VERB put%2:35:00::,put%2:35:05::
+In an instant he had sucked it dry .
+1
+#5 suck VERB suck%2:34:04::
+The aborigine lives on the cruelest land I have ever seen .
+1
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Which does not mean that it is ugly .
+1
+#3 mean VERB mean%2:31:00::,mean%2:31:05::,mean%2:42:03::
+They are huge areas which have been swept by winds for so many centuries that there is no soil left , but only deep bare ridges fifty or sixty yards apart with ravines between them thirty or forty feet deep and the only thing that moves is a scuttling layer of sand .
+2
+#45 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#48 scuttle VERB scuttle%2:38:00::
+But much of the land which the aborigine wanders looks as if it should be hospitable .
+1
+#9 look VERB look%2:39:01::,look%2:42:02::
+It is softened by the saltbush and the bluebush , has a peaceful quality , the hills roll softly .
+1
+#17 roll VERB roll%2:35:01::,roll%2:38:01::,roll%2:38:10::,roll%2:38:11::,roll%2:42:00::
+The malignancy of such a landscape has been beautifully described by the Australian Charles Bean .
+1
+#9 describe VERB describe%2:32:01::
+He tells of three men who started out on a trip across a single paddock , a ten-by-ten-mile square owned by a sheep grazer .
+2
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#19 own VERB owned%3:00:00::
+They went well-equipped with everything except knowledge of the " outback " country .
+1
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Nothing appalling or horrible rushed upon these men .
+1
+#4 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+Only there happened - nothing .
+1
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+They lay , with the birds hopping from branch to branch above them and the bright sky peeping down at them .
+3
+#1 lie VERB lie%2:35:00::,lie%2:38:00::
+#6 hop VERB hop%2:38:04::
+#17 peep VERB peep%2:39:00::
+No one came " .
+1
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+The white men died .
+1
+#3 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+And countless others like them have died .
+1
+#6 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Even today range riders will come upon mummified bodies of men who attempted nothing more difficult than a twenty-mile hike and slowly lost direction , were tortured by the heat , driven mad by the constant and unfulfilled promise of the landscape , and who finally died .
+2
+#31 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+#46 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+The aborigine is not deceived ; he knows that the land is hard and pitiless .
+1
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He knows that the economy of life in the " outback " is awful .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+I do not know if such a way of life can come to be a self-conscious challenge , but I suspect that it can .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#20 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+Perhaps this is what gives the aborigine his odd air of dignity .
+1
+#4 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Seeing an aborigine today is a difficult thing .
+1
+#0 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Many of them have drifted into the cities and towns and seaports .
+1
+#4 drift VERB drift%2:38:01::
+Others are confined to vast reservations , and not only does the Australian government justifiably not wish them to be viewed as exhibits in a zoo , but on their reservations they are extremely fugitive , shunning camps , coming together only for corroborees at which their strange culture comes to its highest pitch - which is very low indeed .
+2
+#39 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#49 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+I persuaded an Australian friend who had lived " outback " for years to take me to see some aborigines living in the bush .
+3
+#14 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 live VERB live%2:42:08::
+It was a difficult and ambiguous kind of negotiation , even though the rancher was said to be expert in his knowledge of the aborigines and their language .
+1
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Finally , however , the arrangements were made and we drove out into the bush in a Land Rover .
+2
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+We followed the asphalt road for a few miles and then swung off onto a smaller road which was nothing more than two tire marks on the earth .
+2
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#11 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+The rancher went a mile down this road and then , when he reached a big red boulder , swung off the road .
+3
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#19 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+At once he started to glance toward the instrument panel .
+2
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#5 glance VERB glance%2:38:00::,glance%2:39:00::
+It took me a moment to realize what was odd about that panel : there was a gimbaled compass welded to it , which rocked gently back and forth as the Land Rover bounced about .
+4
+#1 take VERB take%2:40:06::,take%2:42:03::
+#6 realize VERB realize%2:31:01::
+#19 weld VERB weld%2:35:00::
+#24 rock VERB rock%2:38:06::
+The rancher was navigating his way across the flatland .
+1
+#3 navigate VERB navigate%2:38:00::
+" Do you always navigate like this " ?
+1
+#4 navigate VERB navigate%2:38:00::
+I asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Damned right " , he said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Once I get out on the flat I do .
+1
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Some chaps that know an area well can make their way by landmarks - a tree here , a wash here , a boulder there .
+1
+#3 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+But if you do n't know the place like the palm of your hand , you 'd better use a compass and the speedometer .
+2
+#5 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#18 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The landscape kept repeating itself .
+2
+#2 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#3 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+I would try to memorize landmarks and saw in a half-hour that it was hopeless .
+1
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Finally we approached the bivouac of the aborigines .
+1
+#2 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+They were camped beside a large column-shaped boulder : a man , his lubra , and two children .
+1
+#2 camp VERB camp%2:42:00::
+The sun was not yet high and all of them were in the small area of shade cast by the boulder .
+1
+#17 cast VERB cast%2:36:02::
+Its ribs showed , it was a yellow nondescript color , it suffered from a variety of sores , hair had scabbed off its body in patches .
+2
+#2 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#12 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+It lay with its head on its paws and only its eyes moving , watching us carefully .
+3
+#1 lie VERB lie%2:35:00::,lie%2:38:00::
+#12 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+It struck me as a very bright and very malnourished dog .
+1
+#1 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+" The buggers love shade " , the rancher said .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I suppose because it saves them some loss of body water .
+1
+#2 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+They 'll move around that rock all day , following the shade .
+2
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+During the hottest part of the day , of course , the sun comes straight down and there is n't any shade " .
+1
+#13 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+We drove close to the boulder , stopped the Land Rover , and walked over toward the family .
+3
+#1 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#7 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#13 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+He gazed away from us as we approached .
+1
+#7 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+Every bone and muscle in his body showed , but he did not give the appearance of starving .
+2
+#7 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#17 starve VERB starve%2:34:00::
+There was something about his face that disturbed me and it took several seconds to realize what .
+2
+#11 take VERB take%2:40:06::,take%2:42:03::
+#15 realize VERB realize%2:31:01::
+It was not merely that flies were crawling over his face but his narrowed eyelids did not blink when the flies crawled into his eye sockets .
+3
+#7 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#17 blink VERB blink%2:29:00::
+#21 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+A fly would crawl down the bulging forehead , into the socket of the eye , walk along the man 's lashes and across the wet surface of the eyeball , and the eye did not blink .
+3
+#3 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+#16 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#36 blink VERB blink%2:29:00::
+The Australian and I both were wearing insect repellent and were not badly bothered by insects , but my eyes watered as we stood watching the aborigine .
+5
+#6 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#13 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+#20 water VERB water%2:30:04::
+#23 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#24 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+I turned to look at the lubra .
+1
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+She remained squatting on her heels all the time we were there ; like the man , she was entirely naked .
+1
+#2 squat VERB squat%2:35:00::
+Her long thin arms moved in a slow rhythmical gesture over the family possessions which were placed in front of her .
+2
+#4 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#16 place VERB place%2:31:13::
+There were two rubbing sticks for making fire , two stones shaped roughly like knives , a woven-root container which held a few pounds of dried worms and the dead body of some rodent .
+2
+#6 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#20 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+There was also a long wooden spear and a woomera , a spear-throwing device which gives the spear an enormous velocity and high accuracy .
+1
+#15 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Everything was burnished with sweat and grease so that all of the objects seemed to have been carved from the same material and to be ageless .
+1
+#17 carve VERB carve%2:35:02::
+The two children , both boys , wandered around the Australian and me for a few moments and then returned to their work .
+1
+#19 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+They squatted on their heels with their heads bent far forward , their eyes only a few inches from the ground .
+1
+#1 squat VERB squat%2:35:00::
+They had located the runway of a colony of ants and as the ants came out of the ground , the boys picked them up , one at a time , and pinched them dead .
+2
+#22 pick VERB pick%2:35:01::
+#32 pinch VERB pinch%2:35:00::
+The tiny bodies , dropped onto a dry leaf , made a pile as big as a small apple .
+2
+#4 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#10 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+It was also subtly familiar , for it was the odor of the human body , but multiplied innumerable times because of the fact that the aborigines never bathed .
+1
+#28 bathe VERB bathe%2:29:01::
+One 's impulse is to say that the smell was a stink and unpleasant .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The smell is sexual , but so powerfully so that a civilized nose must deny it .
+1
+#14 deny VERB deny%2:32:00::,deny%2:32:01::
+Their skin was covered with a thin coating of sweat and dirt which had almost the consistency of a second skin .
+1
+#3 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+They roll at night in ashes to keep warm and their second skin has a light dusty cast to it .
+2
+#1 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+#7 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+In spots such as the elbows and knees the second skin is worn off and I realized the aborigines were much darker than they appeared ; as if the coating of sweat , dirt , and ashes were a cosmetic .
+2
+#16 realize VERB realize%2:31:01::
+#24 appear VERB appear%2:30:00::
+The boys had beautiful dark eyes and unlike their father they brushed constantly at the flies and blinked their eyes .
+2
+#11 brush VERB brush%2:30:00::,brush%2:35:00::
+#17 blink VERB blink%2:29:00::
+" That smell is something , eh , mate " ? the Australian asked .
+1
+#13 ask VERB ask%2:32:00::,ask%2:32:04::
+" They swear that every person smells different and every family smells different from every other .
+3
+#2 swear VERB swear%2:32:02::
+#6 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+#11 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+At the corroborees , when they get to dancing and sweating , you 'll see them rubbing up against a man who 's supposed to have a specially good smell .
+3
+#8 dance VERB dance%2:36:00::,dance%2:38:01::
+#10 sweat VERB sweat%2:29:00::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Idje , here " , and he nodded at the man , " is said to have great odor .
+2
+#7 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The stink is all the same to me , but I really think they can make one another out blindfolded " .
+1
+#12 think VERB think%2:31:01::,think%2:31:03::
+" Here , Idje , you fella like tabac " ? he said sharply .
+1
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Australian stopped trying to talk a pidgin I could understand , and spoke strange words from deep in his chest .
+3
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#13 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::

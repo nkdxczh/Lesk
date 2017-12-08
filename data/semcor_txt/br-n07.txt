@@ -1,0 +1,414 @@
+" Tie him up " .
+1
+#1 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+Before they could guess his intention Rankin stepped forward and swung the guard 's own gun against the uncovered head , hard .
+2
+#7 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#10 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+The man went over without sound , falling to the bare floor .
+1
+#7 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+Barton said harshly , " Why did you do that " ?
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" What did you want me to do , kiss him ?
+1
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+He dumped me in solitary twice " .
+1
+#1 dump VERB dump%2:38:01::
+Barton caught the lighter man 's shoulder and swung him around .
+2
+#1 catch VERB catch%2:35:00::
+#8 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+" Let 's get one thing straight , you and me .
+2
+#1 let VERB let%2:32:00::
+#3 get VERB get%2:30:02::,get%2:31:09::
+The only reason we brought you was to get Miller out .
+1
+#8 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+If you ever try anything without my orders I 'll kill you " .
+2
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Fred Rankin looked at him .
+1
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+It seemed to Barton that the green eyes mocked him , the thin-lipped smile held insolence , but he had no time to waste now .
+2
+#14 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Let 's move " .
+2
+#0 let VERB let%2:32:00::
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+There were three other men within this prison whom Barton would have liked to liberate , but they were in other cell blocks .
+1
+#12 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+They moved slowly , toward the main gate , following the wall .
+2
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+They reached the guard house without alerting the men on the walls above , and Powers slipped through the door .
+2
+#1 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#16 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+Two men were on duty inside , playing pinochle , relaxed .
+1
+#7 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+They looked up in surprise as Powers came in .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+" It 's Curtiss " , he said , naming the man Rankin had hit .
+3
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#14 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+The sergeant in charge climbed to his feet .
+1
+#4 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+" He 's having some kind of a fit " .
+1
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The sergeant turned to the door .
+1
+#2 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+The sergeant froze .
+1
+#2 freeze VERB freeze%2:38:00::
+Powers had not followed .
+1
+#3 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Powers was covering the remaining guard .
+1
+#2 cover VERB cover%2:33:00::,cover%2:33:01::,cover%2:33:13::
+The man half reached for the cord of the alarm bell .
+1
+#3 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+Powers knocked his arm aside .
+1
+#1 knock VERB knock%2:35:04::
+Even Barton could not quite believe it .
+1
+#5 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+It had gone without a hitch .
+1
+#2 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+They slid through the wicket in the big gate , ghosted across the dark ground .
+1
+#10 ghost VERB ghost%2:38:00::
+Five minutes later they reached the horses .
+1
+#4 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Barton was relieved to see that Carl Dill and Emmett Foster had brought extra mounts .
+1
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He had been worried that with Miller and Rankin added to the escape party they would be short .
+1
+#9 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+They walked the horses , heading along the river , Barton and Emmett Foster in the lead , seven men riding quietly through the night .
+3
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#5 head VERB head%2:38:00::,head%2:38:01::
+#20 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+The only thing which would have attracted attention was that two wore the uniform of prison guards , three the striped suits of convicts .
+1
+#11 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+In a small grove against the river they halted , turning deep into the protection of the trees .
+2
+#8 halt VERB halt%2:38:01::
+#10 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+He had been one of the original Night Riders , one who had escaped the trial .
+1
+#13 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+It was to him that Barton had sent Carl Dill on Dill 's release from the prison .
+1
+#7 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Clyde Miller was crying softly to himself , shedding his striped suit and fumbling into the nondescript butternut pants , the worn brown shirt .
+1
+#8 shed VERB shed%2:35:00::
+Barton finished his dressing and extended his hand to Powers .
+2
+#1 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#5 extend VERB extend%2:29:01::,extend%2:40:05::
+" I won n't even try to thank you " .
+1
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+He said in a studied voice , " I did n't do it for you .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You 're the only man the Night Riders will follow .
+1
+#9 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+We 've been starving and I do n't like to starve " .
+2
+#3 starve VERB starve%2:34:00::
+#10 starve VERB starve%2:34:00::
+Barton turned away , his eyes falling upon Rankin beside his horse .
+1
+#6 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+The murderer lifted his head .
+1
+#2 lift VERB lift%2:29:00::,lift%2:32:02::,lift%2:35:04::,lift%2:38:01::,lift%2:38:03::
+" Meaning you want me to ride out " ?
+2
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+" I got no place to go " .
+1
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+He did not trust Rankin , his violent temper , his killer instinct .
+1
+#3 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+It was all right to put a bunch of ranchers onto horses , to call them Night Riders , to set out to attack the largest mining combination the country had ever seen if all they wanted was adventure .
+4
+#5 put VERB put%2:35:00::,put%2:35:05::
+#14 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#32 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#36 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+But if they really hoped to succeed they needed professionals , men who knew how to use a gun against men , who would match the killers on the other side .
+4
+#6 succeed VERB succeed%2:41:00::
+#8 need VERB need%2:42:00::
+#13 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+" Your choice " , he said briefly , and turned to Kid Boyd .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Bury those uniforms so they won n't be found " .
+2
+#1 bury VERB bury%2:39:00::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Then Barton touched Carl Dill 's arm and moved off , up the river bank .
+2
+#2 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#8 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+He wanted a careful , uninterrupted report from Dill on the conditions in the valley .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+They squatted on their heels in the deep mud and Dill found a cigar in his breast pocket , passing it over silently .
+2
+#1 squat VERB squat%2:35:00::
+#11 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+He too knew the agony of going for weeks , sometimes months without the solace of tobacco .
+2
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+Mitchell Barton drew in the fragrance deeply , letting the smoke lie warm and soothing in his throat for a moment before he exhaled .
+2
+#8 let VERB let%2:30:01::,let%2:41:00::
+#11 lie VERB lie%2:42:03::
+Through the gloom he could not see the man beside him clearly but he knew him thoroughly .
+2
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+He had been the auditor for the mining syndicate , and he had stolen fifty thousand dollars of the syndicate 's money .
+1
+#13 steal VERB steal%2:33:00::,steal%2:40:00::
+The one thing they had in common was their hatred .
+1
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+It had drawn them together , and since his release from prison Dill had worked tirelessly to effect this night 's escape .
+1
+#14 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+He said now , " I 've got the perfect headquarters set up .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Mitch Barton knew the place .
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+They had spent a million dollars , carving in a road , putting up buildings , drilling their haulage tunnel .
+2
+#7 carve VERB carve%2:35:02::
+#16 drill VERB drill%2:35:00::,drilled%5:00:00:trained:00
+Then the vein had petered out and the whole project had been abandoned .
+1
+#12 abandon VERB abandon%2:40:01::
+" The road 's washed badly " , said Dill , " but there 's a trail you can get over with a horse .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Barton nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" How do the valley people feel " ?
+1
+#6 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+But Kruger 's men keep them off balance , and they do n't trust me .
+2
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#13 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+When they learn you 're in the hills though , they 'll rally , do n't worry about that " .
+3
+#2 learn VERB learn%2:31:01::,learn%2:31:03::
+#12 rally VERB rally%2:35:01::
+#16 worry VERB worry%2:37:00::,worry%2:37:01::
+Barton waited for a long moment , then asked the question which lay always uppermost in his mind .
+3
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#12 lie VERB lie%2:42:03::
+Did you find him " ?
+1
+#2 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Dill was silent as if he hated to answer , and Barton had a cold , sick feeling of apprehension .
+1
+#8 answer VERB answer%2:31:00::,answer%2:32:00::
+" Your sister-in-law has the faro bank in Cap Ayres ' saloon " .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Barton cursed under his breath .
+1
+#1 curse VERB curse%2:32:00::,curse%2:32:02::
+After another long pause he asked , " How many people know who they are " ?
+1
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+Your cousin Finley saw to that .
+1
+#3 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+He 's informed them of everything you 've ever written him .
+2
+#2 inform VERB inform%2:32:00::,inform%2:32:10::
+#9 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+He wants your ranch " .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+He said tensely , " All right .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Let 's go get the boy " .
+1
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+I almost did n't tell you " .
+1
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+" If you had n't I 'd have killed you " .
+1
+#8 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+" But you can n't ride into the Ferry .
+1
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+They 'll be there waiting for you .
+1
+#4 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+I understand how you feel about the child " .
+2
+#1 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#4 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+" I never saw him .
+1
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+My wife died in childbirth after I was sent away .
+1
+#2 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+" I can n't leave him there .
+1
+#4 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Donald Kruger would like nothing better than to hold him as hostage , and I would n't entrust a snake to his tender care .
+2
+#3 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#8 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+Barton 's men cut the telegraph wires in half a dozen places , carrying away whole sections to make repairs more difficult .
+1
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It was over an hour before their escape was discovered , but still the news that Barton was free flashed across the central portion of the state .
+2
+#9 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#19 flash VERB flash%2:32:00::,flash%2:39:01::
+It reached Donald Kruger in his massive home in Burlingame .
+1
+#1 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+It reached the mines at North San Juan and Bloomfield .
+1
+#1 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+It brought men out of bed and sent them into hurried conferences .
+1
+#7 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+For everyone involved knew that the whole valley was a powder keg , and Mitchell Barton the fuse which could send it into explosive violence .
+2
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Creighton Hague sat in his office above the Ione pit .
+1
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+It was partially cemented by ages and pressure , yet it crumpled before the onslaught of the powerful streams , the force of a thousand fire hoses , and with the gold it held washed down through the long sluices .
+1
+#33 hold VERB hold%2:34:00::,hold%2:42:05::,hold%2:42:07::,hold%2:42:13::
+The monitors ran twenty-four hours each day .
+1
+#2 run VERB run%2:35:00::,run%2:35:04::,run%2:36:01::
+Hague , like all who worked near the pits , was partly deafened from the constant assault against his eardrums .
+1
+#5 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+He was a big man , wearing a neat flannel shirt against the cold foothill air .
+1
+#6 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+Fat showed in loose rolls beneath the shirt .
+1
+#1 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+He was proud of his accomplishments , proud of his job , proud that Donald Kruger and his associates trusted him .
+1
+#19 trust VERB trust%2:31:00::,trust%2:31:02::,trust%2:37:00::,trust%2:40:00::,trust%2:41:00::
+He lived and breathed for the mining company .
+1
+#1 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+No man could have reached his spot nor held it without being ruthless , and Hague had made a virtue of ruthlessness all of his life .
+2
+#4 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+There came a ghost of noise at the office door and Hague swung to see Kodyke in the entrance from the outer room .
+2
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+The eyes always held Hague , eyes of a dead man , lidless as a lizard 's , with the fixed intensity of a cobra .
+1
+#3 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+Even Hague was repelled by the machinelike deadliness that was Kodyke .
+1
+#3 repel VERB repel%2:39:00::
+He knew nothing about the man 's history .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Kodyke had appeared at the mine one day bearing a letter from Kruger .
+2
+#2 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#8 bear VERB bear%2:35:00::,bear%2:40:00::,bear%2:41:00::,bear%2:42:01::
+Kodyke was to head the dread company police .
+1
+#3 head VERB head%2:38:02::,head%2:41:00::
+He ran the change rooms .
+1
+#1 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+He supervised the cleanups and handled the shipments of raw gold which each week went out to San Francisco .
+1
+#5 handle VERB handle%2:41:00::,handle%2:41:03::
+He pulled open the top drawer of his desk and drew out a tintype .
+2
+#1 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#10 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+We want him back there or we want him dead " .
+2
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#7 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Kodyke took the picture in a lean hand , studying it thoughtfully .
+2
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#9 study VERB study%2:31:00::
+It cost us a hundred thousand dollars and thirty days lost time to fix them .
+2
+#1 cost VERB cost%2:42:00::,cost%2:42:01::
+#13 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+We do n't want Barton 's Night Riders loose again " .
+1
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+The gunman nodded , slipping the picture into his breast pocket , saying nothing .
+3
+#2 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#4 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Normally Hague wasted no words , but now he found himself unable to stop their flow although he knew Kodyke was aware of all he said .
+4
+#2 waste VERB waste%2:34:05::,waste%2:40:00::
+#9 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::

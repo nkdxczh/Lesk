@@ -1,0 +1,635 @@
+ There was one fact which Rector could not overlook , one truth which he could not deny .
+2
+#8 overlook VERB overlook%2:39:01::
+#16 deny VERB deny%2:32:00::,deny%2:32:01::
+As long as there were two human beings working together on the same project , there would be competition and you could no more escape it than you could expect to escape the grave .
+7
+#8 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#9 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#12 same ADJ same%3:00:00::,same%3:00:02::
+#13 project NOUN project%1:04:00::,project%1:09:00::
+#24 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#31 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#33 grave NOUN grave%1:06:00::
+No matter how devoted a man was , no matter how fully he gave his life to the Lord , he could never extinguish that one spark of pride that gave him definition as an individual .
+8
+#3 devoted ADJ devoted%5:00:00:dedicated:00
+#11 fully ADV fully%4:02:04::
+#13 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#18 lord NOUN lord%1:18:01::
+#26 spark NOUN spark%1:23:00::
+#28 pride NOUN pride%1:12:01::
+#30 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#32 definition NOUN definition%1:10:00::
+All of the jobs in the mission might be equal in the eyes of the Lord , but they were certainly not equal in the eyes of the Lord 's servants .
+8
+#3 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#6 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#9 equal ADJ equal%3:00:00::
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+#15 lord NOUN lord%1:18:01::
+#22 equal ADJ equal%3:00:00::
+#25 eye NOUN eye%1:08:00::,eye%1:09:01::
+#28 lord NOUN lord%1:18:01::
+It was only natural that Fletcher would strive for a position in which he could make the decisions .
+2
+#3 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+#10 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+Even Rector himself was prey to this spirit of competition and he knew it , not for a more exalted office in the hierarchy of the church - his ambitions for the bishopry had died very early in his career - but for the one clear victory he had talked about to the colonel .
+5
+#7 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#12 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#19 exalted ADJ exalted%5:00:00:noble:01
+#34 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#45 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+He was not sure how much of this desire was due to his devotion to the church and how much was his own ego , demanding to be satisfied , for the two were intertwined and could not be separated .
+2
+#22 own ADJ own%5:00:00:personal:00
+#37 not ADV not%4:02:00::
+He wanted desperately to see Kayabashi defeated , the Communists in the village rooted out , the mission standing triumphant , for in the triumph of the Lord he himself would be triumphant , too .
+6
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 communist NOUN communist%1:18:00::
+#24 triumph NOUN triumph%1:12:00::
+#27 lord NOUN lord%1:18:01::
+#34 too ADV too%4:02:01::
+But perhaps this was a part of the eternal plan , that man 's ambition when linked with God would be a driving , indefatigable force for good in the world .
+7
+#5 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#9 plan NOUN plan%1:09:00::
+#12 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#18 God NOUN god%1:18:00::
+#25 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#27 good NOUN good%1:07:02::
+#30 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+How foolish it was to try to fathom the truth in an area where only faith would suffice .
+5
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 fathom VERB fathom%2:31:00::
+#12 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 faith NOUN faith%1:09:01::,faith%1:14:00::
+He would have to work without questioning the motives which made him work and content himself with the thought that the eventual victory , however it was brought about , would be sweet indeed .
+7
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#8 motive NOUN motive%1:03:00::
+#12 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#18 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#24 however ADV however%4:02:00::,however%4:02:02::
+#32 sweet ADJ sweet%5:00:00:melodious:00,sweet%5:00:01:pleasing:00,sweet%5:00:02:pleasing:00
+#33 indeed ADV indeed%4:02:03::
+His first move was to send Hino to the village to spend a few days .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#5 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#14 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+His arm had been giving him some trouble and Rector was not enough of a medical expert to determine whether it had healed improperly or whether Hino was simply rebelling against the tedious work in the print shop , using the stiffness in his arm as an excuse .
+9
+#1 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#7 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#12 enough ADV enough%4:02:00::
+#18 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#28 simply ADV simply%4:02:00::,simply%4:02:02::
+#33 work NOUN work%1:06:01::
+#39 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#44 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#47 excuse NOUN excuse%1:10:00::
+In any event Rector sent him to the local hospital to have it checked , telling him to keep his ears open while he was in the village to see if he could find out what Kayabashi was planning .
+7
+#4 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#9 hospital NOUN hospital%1:06:00::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#15 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#29 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#38 plan VERB plan%2:31:00::,plan%2:31:01::
+Hino was elated at the prospect .
+1
+#5 prospect NOUN prospect%1:26:00::
+He was allowed to spend his nights at an inn near the hospital and he was given some extra money to go to the pachinko parlor - an excellent place to make contact with the enemy .
+9
+#2 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#6 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#12 hospital NOUN hospital%1:06:00::
+#16 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#25 parlor NOUN parlor%1:06:01::
+#28 excellent ADJ excellent%5:00:00:superior:02
+#29 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+He left with all the joyous spirit of a child going on a holiday , nodding attentively as Rector gave him his final instructions .
+6
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#10 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#15 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#19 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#23 instruction NOUN instruction%1:10:02::,instruction%1:10:04::
+He was to get involved in no arguments ; he was to try to make no converts ; he was simply to listen and report back what he heard .
+6
+#3 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#7 argument NOUN argument%1:10:00::
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 simply ADV simply%4:02:00::,simply%4:02:02::
+#24 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+It was a ridiculous situation and Rector knew it , for Hino , frankly partisan , openly gregarious , would make a poor espionage agent .
+4
+#4 situation NOUN situation%1:26:01::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 make VERB make%2:31:10::,make%2:42:05::
+#22 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+If he wanted to know anything , he would end up asking about it point-blank , but in this guileless manner he would probably receive more truthful answers than if he tried to get them by indirection .
+5
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 ask VERB ask%2:32:00::,ask%2:32:04::
+#20 manner NOUN manner%1:07:01::;1:07:02::
+#31 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#33 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+In all of his experience in the mission field Rector had never seen a convert quite like Hino .
+5
+#7 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#8 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+#11 never ADV never%4:02:00::
+#12 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 quite ADV quite%4:02:02::
+From the moment that Hino had first walked into the mission to ask for a job , any job - his qualifications neatly written on a piece of paper in a precise hand - he had been ready to become a Christian .
+10
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#6 first ADJ first%3:00:00::,first%4:02:00::
+#7 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#10 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#12 ask VERB ask%2:32:01::,ask%2:32:05::
+#15 job NOUN job%1:04:00::,job%1:06:00::
+#21 qualification NOUN qualification%1:07:00::
+#32 hand NOUN hand%1:09:00::
+#37 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#39 become VERB become%2:30:00::,become%2:42:01::
+He had already been studying the Bible ; he knew the fundamentals , and after studying with Fletcher for a time he approached Rector , announced that he wanted to be baptized and that was that .
+4
+#2 already ADV already%4:02:00::
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#15 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#28 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Rector had never been able to find out much about Hino 's past .
+3
+#2 never ADV never%4:02:00::
+#4 able ADJ able%3:00:00::
+#12 past NOUN past%1:28:01::
+Hino talked very little about himself except for the infrequent times when he used a personal illustration in connection with another subject .
+4
+#3 little ADV little%4:02:00::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#21 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+Putting the pieces of this mosaic together , Rector had the vague outlines of a biography .
+5
+#0 put VERB put%2:35:00::,put%2:35:05::
+#5 mosaic NOUN mosaic%1:06:00::
+#6 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 outline NOUN outline%1:10:00::
+Hino was the fourth son of an elderly farmer who lived on the coast , in Chiba , and divided his life between the land and the sea , supplementing the marginal livelihood on his small rented farm with seasonal employment on a fishing boat .
+5
+#8 farmer NOUN farmer%1:18:00::
+#13 coast NOUN coast%1:17:00::
+#19 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#21 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#24 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+Without exception Hino 's brothers turned to either one or both of their father 's occupations , but Hino showed a talent for neither and instead spent most of his time on the beach where he repaired nets and proved immensely popular as a storyteller .
+8
+#4 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#13 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#15 occupation NOUN occupation%1:04:00::
+#21 talent NOUN talent%1:09:00::,talent%1:18:00::
+#30 time NOUN time%1:28:01::,time%1:28:05::
+#37 net NOUN net%1:06:00::
+#39 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#41 popular ADJ popular%5:00:01:common:01
+He had gone into the Japanese navy , had been trained as an officer , had participated in one or two battles - he never went into detail regarding his military experience - and at the age of twenty-five , quite as a bolt out of the blue , he had walked into the mission as if he belonged here and had become a Christian .
+14
+#6 navy NOUN navy%1:14:00::
+#10 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#13 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#16 participate VERB participate%2:33:00::
+#24 never ADV never%4:02:00::
+#27 detail NOUN detail%1:10:00::,detail%1:24:00::
+#36 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#40 quite ADV quite%4:02:02::
+#43 bolt NOUN bolt%1:19:00::
+#51 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#54 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#58 belong VERB belong%2:42:02::,belong%2:42:07::
+#59 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#62 become VERB become%2:30:00::,become%2:42:01::
+Rector was often curious ; often tempted to ask questions but he never did .
+2
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#12 never ADV never%4:02:00::
+If and when Hino decided to tell him about his experiences , he would do so unasked .
+1
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Rector had no doubt that Hino would come back from the village bursting with information , ready to impart it with his customary gusto , liberally embellished with his active imagnation .
+4
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#14 information NOUN information%1:09:00::,information%1:10:02::
+#16 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#23 gusto NOUN gusto%1:12:00::
+When the telephone rang on the day after Hino went down to the village , Rector had a hunch it would be Hino with some morsel of information too important to wait until his return , for there were few telephones in the village and the phone in Rector 's office rarely rang unless it was important .
+16
+#2 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#3 ring VERB ring%2:39:00::,ring%2:39:01::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#10 down ADV down%4:02:00::,down%4:02:02::
+#16 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#18 hunch NOUN hunch%1:09:00::
+#27 information NOUN information%1:09:00::,information%1:10:02::
+#28 too ADV too%4:02:00::
+#31 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#34 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#40 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#46 phone NOUN phone%1:06:00::
+#50 office NOUN office%1:06:00::
+#51 rarely ADV rarely%4:02:00::
+#52 ring VERB ring%2:39:00::,ring%2:39:01::
+He was surprised to find Kayabashi 's secretary on the other end of the line .
+4
+#4 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#10 other ADJ other%3:00:00::
+#11 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#14 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+He was even more startled when he heard what Kayabashi wanted .
+1
+#10 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+The oyabun was entertaining a group of dignitaries , the secretary said , businessmen from Tokyo for the most part , and Kayabashi wished to show them the mission .
+5
+#3 entertain VERB entertain%2:41:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 businessman NOUN businessman%1:18:00::
+#25 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#28 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+They had never seen one before and had expressed a curiosity about it .
+5
+#2 never ADV never%4:02:00::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 before ADV before%4:02:03::
+#8 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#10 curiosity NOUN curiosity%1:09:00::
+Rector said .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+When would the oyabun like to bring his guests up here " ?
+1
+#4 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+" This afternoon " , the secretary said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" At three o'clock if it will be of convenience to you at that time " .
+1
+#9 convenience NOUN convenience%1:26:00::
+" All right " , Rector said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He was about to hang up the phone , but a note of hesitancy in the secretary 's voice left the conversation open .
+5
+#7 phone NOUN phone%1:06:00::
+#11 note NOUN note%1:07:00::,note%1:10:02::
+#18 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#19 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#22 open ADJ open%3:00:00::,open%5:00:00:susceptible:00,open%5:00:00:unconstricted:00,open%5:00:00:unrestricted:00,open%5:00:00:unsettled:02
+He had something more to say .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I beg to inquire if the back is now safe for travelers " , he said .
+6
+#2 beg VERB beg%2:40:00::
+#4 inquire VERB inquire%2:32:01::
+#7 back ADJ back%5:00:00:posterior:00
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Unless the oyabun has been working on it " , he said , then checked himself and added : " You can tell Kayabashi-san that the back road is in very good condition and will be quite safe for his party to use " .
+11
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 then ADV then%4:02:00::
+#15 check VERB check%2:33:06::,check%2:38:12::,check%2:38:14::,check%2:41:08::,check%2:41:14::
+#18 add VERB add%2:32:01::
+#23 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#27 back ADJ back%5:00:00:posterior:00
+#28 road NOUN road%1:04:00::,road%1:06:00::
+#37 quite ADV quite%4:02:02::
+#38 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#41 party NOUN party%1:14:02::
+#43 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The secretary sighed with relief and then the telephone clicked in Rector 's hand .
+3
+#4 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+#8 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#13 hand NOUN hand%1:08:00::,hand%1:10:01::
+Rector had no idea why Kayabashi wanted to visit the mission .
+5
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#3 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#6 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#8 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#10 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+For the oyabun to make such a trip was either a sign of great weakness or an indication of equally great confidence , and from all the available information it was probably the latter .
+7
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#7 trip NOUN trip%1:04:00::
+#13 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#19 equally ADV equally%4:02:01::
+#20 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#28 information NOUN information%1:09:00::,information%1:10:02::
+#33 latter ADJ latter%3:00:00::
+Kayabashi must feel fairly certain of his victory in order to make a visit like this , a trip which could be so easily misinterpreted by the people in the village .
+6
+#3 fairly ADV fairly%4:02:02::
+#4 certain ADJ certain%3:00:01::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#18 trip NOUN trip%1:04:00::
+#22 so ADV so%4:02:03::,so%4:02:07::
+#23 easily ADV easily%4:02:01::,easily%4:02:06::
+At the same time , it was unlikely that any businessmen would spend a day in a Christian mission out of mere curiosity .
+4
+#10 businessman NOUN businessman%1:18:00::
+#14 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#22 curiosity NOUN curiosity%1:09:00::
+No , Kayabashi was bringing his associates here for a specific purpose and Rector would not be able to fathom it until they arrived .
+6
+#6 associate NOUN associate%1:18:00::
+#7 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#10 specific ADJ specific%3:00:00::,specific%5:00:00:specified:00
+#15 not ADV not%4:02:00::
+#17 able ADJ able%3:00:00::
+#19 fathom VERB fathom%2:31:00::
+When he had given the call a few moments thought , he went into the kitchen to ask Mrs. Yamata to prepare tea and sushi for the visitors , using the formal English china and the silver tea service which had been donated to the mission , then he went outside to inspect the grounds .
+12
+#5 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#8 moment NOUN moment%1:28:00::,moment%1:28:01::
+#9 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#15 kitchen NOUN kitchen%1:06:00::
+#17 ask VERB ask%2:32:01::,ask%2:32:05::
+#21 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#22 tea NOUN tea%1:13:02::
+#31 formal ADJ formal%3:00:01::,formal%3:00:02::,formal%5:00:00:dignified:00,formal%5:00:00:official:00
+#45 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#47 then ADV then%4:02:00::
+#49 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#54 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+Fujimoto had a pile of cuttings near one side of the lawn .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 pile NOUN pile%1:14:00::
+#5 cutting NOUN cutting%1:17:00::
+#11 lawn NOUN lawn%1:15:00::
+Rector asked him to move it for the time being ; he wanted the mission compound to be effortlessly spotless .
+5
+#1 ask VERB ask%2:32:01::,ask%2:32:05::
+#4 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#14 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#15 compound NOUN compound%1:06:00::
+A good initial impression would be important now .
+3
+#1 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#3 impression NOUN impression%1:07:00::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+He went into the print shop , where Fletcher had just finished cleaning the press .
+3
+#10 just ADV just%4:02:05::
+#11 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#14 press NOUN press%1:06:01::
+" How many pamphlets do we have in stock " ?
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Rector said .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I should say about a hundred thousand " , Fletcher said .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I would like to enact a little tableau this afternoon " , Rector said , He explained about the visit and the effect he wished to create , the picture of a very busy mission .
+5
+#3 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#5 enact VERB enact%2:36:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 effect NOUN effect%1:09:00::,effect%1:19:00::
+#35 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+He did not wish to deceive Kayabashi exactly , just to display the mission activities in a graphic and impressive manner .
+7
+#2 not ADV not%4:02:00::
+#7 exactly ADV exactly%4:02:02::
+#9 just ADV just%4:02:00::,just%4:02:03::
+#13 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#14 activity NOUN activity%1:04:00::,activity%1:26:00::
+#17 graphic ADJ graphic%5:00:00:realistic:00
+#20 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+Fletcher nodded as he listened to the instructions and said he would arrange the things Rector requested .
+3
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 arrange VERB arrange%2:32:04::,arrange%2:35:00::
+Rector 's next stop was at the schoolroom , where Mavis was monitoring a test .
+3
+#2 next ADJ next%5:00:00:close:01
+#3 stop NOUN stop%1:10:01::
+#14 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+He beckoned to her from the door and she slipped quietly outside .
+2
+#9 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#11 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+He told her of the visitors and then of his plans .
+2
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 plan NOUN plan%1:09:01::
+" How many children do you have present today " ? he said .
+3
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 present ADJ present%3:00:02::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Fifteen " , she said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" No , only fourteen .
+1
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+She has a pretty bad cold " .
+3
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#4 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#5 cold NOUN cold%1:26:00::
+" I would like them to appear very busy today , not busy exactly , but joyous , exuberant , full of life .
+4
+#3 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#6 appear VERB appear%2:30:00::
+#11 not ADV not%4:02:00::
+#13 exactly ADV exactly%4:02:02::
+I want to create the impression of a compound full of children .
+4
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 impression NOUN impression%1:07:00::
+#8 compound NOUN compound%1:06:00::
+#9 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+Do you think you can manage it " ?
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#5 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+" I 'll try " .
+1
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+As Rector was walking back toward the residential hall , Johnson came out of the basement and bounded up to him .
+4
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#4 back ADV back%4:02:01::,back%4:02:04::
+#8 hall NOUN hall%1:06:01::,hall%1:06:02::,hall%1:06:06::
+#17 bound VERB bound%2:38:01::
+The altercation in the coffee house had done little to dampen his spirits , but he was still a little wary around Rector for they had not yet discussed the incident .
+3
+#10 dampen VERB dampen%2:30:01::
+#12 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#17 still ADV still%4:02:00::
+" I think I 've fixed the pump so we won't have to worry about it for a long time " , he said .
+5
+#2 think VERB think%2:31:01::,think%2:31:03::
+#5 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+#7 pump NOUN pump%1:06:00::
+#13 worry VERB worry%2:37:00::,worry%2:37:01::
+#23 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 've adjusted the gauge so that the pump cuts out before the water gets too low " .
+6
+#3 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#5 gauge NOUN gage%1:06:00::
+#9 pump NOUN pump%1:06:00::
+#14 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#15 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#16 too ADV too%4:02:00::
+" Fine " , Rector said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He looked out over the expanse of the compound .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 compound NOUN compound%1:06:00::
+It was going to take a lot of activity to fill it .
+2
+#4 take VERB take%2:40:06::,take%2:42:03::
+#8 activity NOUN activity%1:04:00::,activity%1:26:00::
+" Have you ever operated a transit " ? he said .
+4
+#3 ever ADV ever%4:02:05::
+#4 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#6 transit NOUN transit%1:06:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" No , sir " , Johnson said .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You are about to become a first-class surveyor " , Rector said .
+2
+#5 become VERB become%2:30:00::,become%2:42:01::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" When Konishi gets back with the jeep , I want you to round up two or three Japanese boys .
+2
+#10 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#19 boy NOUN boy%1:18:03::
+Konishi can help you .
+1
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+You 'll find an old transit in the basement .
+3
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#4 old ADJ old%3:00:01::,old%3:00:02::
+#5 transit NOUN transit%1:06:00::
+The glass is out of it , but that won't matter .
+2
+#1 glass NOUN glass%1:27:00::
+#10 matter VERB matter%2:42:00::
+It looks pretty efficient and that 's the important thing " .
+1
+#1 look VERB look%2:39:01::,look%2:42:02::
+Johnson nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+He said he could do it .
+1
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Rector was warming to his over-all strategy by the time he got back to the residential hall .
+1
+#16 hall NOUN hall%1:06:01::,hall%1:06:02::,hall%1:06:06::
+It was rather a childish game , all in all , but everybody seemed to be getting into the spirit of the thing and he could not remember when he had enjoyed planning anything quite so much .
+7
+#2 rather ADV rather%4:02:00::,rather%4:02:04::
+#5 game NOUN game%1:04:00::,game%1:09:00::
+#22 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#31 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#32 plan VERB plan%2:31:00::,plan%2:31:01::
+#34 quite ADV quite%4:02:02::
+#35 so ADV so%4:02:03::,so%4:02:07::
+He was not sure what effect it would have , but that was really beside the point when you got right down to it .
+5
+#5 effect NOUN effect%1:09:00::,effect%1:19:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#16 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+#20 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+He was not going to lose the mission by default , and whatever reason Kayabashi had for bringing his little sight-seeing group to the mission , he was going to be in for a surprise .
+6
+#2 not ADV not%4:02:00::
+#7 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#13 reason NOUN reason%1:09:01::,reason%1:16:00::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#24 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#34 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+He found Elizabeth in the parlor and asked her to make sure everything was in order in the residential hall , and then to take charge of the office while the party was here .
+7
+#1 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#5 parlor NOUN parlor%1:06:00::
+#7 ask VERB ask%2:32:01::,ask%2:32:05::
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 hall NOUN hall%1:06:01::,hall%1:06:02::,hall%1:06:06::
+#28 office NOUN office%1:06:00::
+#33 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+When everything had been done , Rector went back to his desk to occupy himself with his monthly report until three o'clock .
+2
+#13 occupy VERB occupy%2:31:00::,occupy%2:41:00::,occupy%2:42:04::
+#18 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+At two thirty he sent Fujimoto to the top of the wall at the northeast corner of the mission to keep an eye on the ridge road and give a signal when he first glimpsed the approach of Kayabashi 's party .
+9
+#4 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#8 top NOUN top%1:15:00::,top%1:15:01::
+#14 northeast ADJ northeast%5:00:02:north:00
+#18 mission NOUN mission%1:04:00::,mission%1:04:02::,mission%1:14:01::
+#26 road NOUN road%1:04:00::,road%1:06:00::
+#28 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+#30 signal NOUN signal%1:10:00::
+#36 approach NOUN approach%1:04:00::,approach%1:07:01::,approach%1:15:00::
+#40 party NOUN party%1:14:02::
+Then Rector , attired in his best blue serge suit , sat in a chair out on the lawn , in the shade of a tree , smoking a cigarette and waiting .
+10
+#6 good ADJ best%3:00:00::,good%3:00:01::
+#7 blue ADJ blue%5:00:00:chromatic:00
+#9 suit NOUN suit%1:06:00::
+#11 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#14 chair NOUN chair%1:06:00::,chair%1:06:01::
+#18 lawn NOUN lawn%1:15:00::
+#22 shade NOUN shade%1:06:01::
+#25 tree NOUN tree%1:20:00::
+#27 smoke VERB smoke%2:34:00::
+#31 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+The air was cooler here , and the lacy pattern of the trees threw a dappled shadow on the grass , an effect which he found pleasant .
+10
+#1 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#3 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#9 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#12 tree NOUN tree%1:20:00::
+#13 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#16 shadow NOUN shadow%1:15:00::
+#19 grass NOUN grass%1:20:00::
+#22 effect NOUN effect%1:09:00::,effect%1:19:00::
+#25 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::

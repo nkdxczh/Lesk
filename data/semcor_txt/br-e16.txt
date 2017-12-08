@@ -1,0 +1,329 @@
+Menfolk can ride in the forward cockpit where the helmsman has a clear view .
+2
+#2 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Youngsters can sleep or amuse themselves safely in the large cabin which has 5 - foot 11 - inch headroom , bunks for three , galley and marine toilet .
+3
+#2 sleep VERB sleep%2:29:00::
+#4 amuse VERB amuse%2:41:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The 80 - hp motor drives her at 25 mph with six aboard !
+1
+#5 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+She also banks into a turn like a fine runabout - not digging in on the outside to throw passengers all over the boat like many a small cabin cruiser .
+3
+#2 bank VERB bank%2:40:00::
+#12 dig VERB dig%2:35:01::
+#18 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+We 've been out in five-foot waves and stayed dry .
+1
+#8 stay VERB stay%2:42:02::
+A lot of thought went into storage space construction .
+1
+#4 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+The cabin has several shelves for small items and storage under the bunks for water skiis , life jackets , etc. .
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The aft cockpit has a * * f storage bin over six feet long that doubles as a seat .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 double VERB double%2:35:01::
+A comparable manufactured boat would cost close to $ 3000 .
+1
+#5 cost VERB cost%2:42:00::,cost%2:42:01::
+A Gator trailer , Model 565 , is used to transport the boat to the waterways .
+2
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 transport VERB transport%2:35:01::
+This piece of equipment costs a little over $ 600 but it will save you that in mooring and hauling fees in a few years .
+2
+#4 cost VERB cost%2:42:00::,cost%2:42:01::
+#13 save VERB save%2:30:00::,save%2:40:02::,save%2:40:04::
+All framing in Hotei is one-inch mahogany which , in the dressed state you buy it , is about the 13 16 - inch thickness specified in the drawings .
+1
+#14 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+Therefore , the lumber is bought in planks and ripped to size for battens , etc. , on a table saw .
+2
+#5 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#9 rip VERB rip%2:35:00::
+Besides flathead bronze screws , silicon bronze Stronghold nails ( made by Independent Nail + Packing Co. , Bridgewater , Mass . ) are used extensively in assembly and Weldwood resorcinal glue is used in all the joints .
+3
+#10 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#24 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#33 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Start by laying out the six frames and the transom on a level floor .
+1
+#0 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+Draw each outline in a different-color chalk , one on top of the other .
+1
+#0 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+The transom frame is made first with the joints lapped , glued and fastened with one-inch , No. 12 Stronghold nails .
+2
+#4 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#9 lap VERB lap%2:42:00::
+After notching it for the keelson , chines and battens , the half-inch plywood transom is secured to it with glue and the same type nails .
+1
+#1 notch VERB notch%2:35:00::
+All frames are butted at the joints and 3 8 - inch plywood gussets are glued and nailed on each side of each joint , again using the one-inch , No. 12 nails .
+3
+#3 butt VERB butt%2:35:01::
+#17 nail VERB nail%2:35:00::
+#26 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The frames are notched only for the keelson and the chines .
+1
+#3 notch VERB notch%2:35:00::
+If notched for the battens , they would require more work , be weakened and limber holes would have to be bored so that bilge water could flow through .
+3
+#1 notch VERB notch%2:35:00::
+#21 bore VERB bore%2:35:00::
+#27 flow VERB flow%2:30:00::,flow%2:38:00::
+Nowhere in the boat do the frames come in contact with the plywood planking .
+1
+#7 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+This is an important step because any misalignment would cause progressively worse misalignment in the hull as you advance in construction .
+1
+#18 advance VERB advance%2:30:01::,advance%2:30:09::,advance%2:32:00::,advance%2:33:00::,advance%2:38:00::,advance%2:41:01::
+After the frames and transom are set up on the jig and temporarily braced , a piece of three-inch-wide mahogany ( only widths will be given since the 13 16 - inch thickness is used throughout ) is butted between frames one and two below the line of the keelson .
+3
+#25 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#34 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#38 butt VERB butt%2:35:01::
+The frames are glued and screwed to this piece .
+1
+#5 screw VERB screw%2:35:01::
+The joints are also reinforced on each side with small blocks set in resin-saturated Fiberglas cloth and nailed .
+2
+#11 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#17 nail VERB nail%2:35:00::
+The keelson , made of two three-inch widths , is next installed .
+2
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#11 install VERB install%2:35:00::
+The first piece is glued and screwed to the frames and transom and the piece butted between frames one and two .
+2
+#6 screw VERB screw%2:35:01::
+#15 butt VERB butt%2:35:01::
+The second piece is in turn glued and screwed to the first .
+1
+#8 screw VERB screw%2:35:01::
+Note , however , that it is six inches shorter at the forward end .
+1
+#0 note VERB note%2:32:00::,note%2:39:00::
+One-inch , No .10 screws are used in both cases .
+1
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+A stem jig is next cut to the proper shape and temporarily fastened to frame one .
+1
+#5 cut VERB cut%2:36:00::,cut%2:36:01::,cut%2:36:11::
+Take two three-inch-wide pieces and rip them down the center of the thickness to make the four .
+3
+#0 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#5 rip VERB rip%2:35:00::
+#14 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Then spread a generous amount of glue on the four pieces and bend them into place on the jig .
+1
+#1 spread VERB spread%2:35:12::,spread%2:35:13::,spread%2:42:00::
+The first two pieces butt against the inner member of the keelson and are glued and screwed to the brace between the first two frames .
+1
+#16 screw VERB screw%2:35:01::
+The second two pieces lap over the inner member of the keelson and butt against the outer member .
+1
+#4 lap VERB lap%2:42:00::
+They 're glued and screwed to the inner member of the keelson .
+1
+#4 screw VERB screw%2:35:01::
+A number of C clamps hold the pieces together on the jig until the glue sets .
+1
+#15 set VERB set%2:29:05::,set%2:30:01::,set%2:30:07::,set%2:35:15::
+The battens are carefully fastened in place after some necessary fairing on all frames .
+1
+#10 fair VERB fair%2:35:00::
+Glue and 1 - 1 2 - inch , No. 10 screws are used .
+1
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+With the exception of two battens , all run to the stem where they are glued and screwed after careful beveling .
+2
+#8 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#17 screw VERB screw%2:35:01::
+The chines go in the same way except that they are made of two pieces of two-inch wood for strength and easier bending .
+1
+#11 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The aluminum , flush against the battens , acted as a fairing stick and enabled me to plane the chines and keelson to the proper bevels easily .
+2
+#14 enable VERB enable%2:30:00::,enabling%3:00:00::
+#17 plane VERB plane%2:35:03::
+If you do n't own a planer and do n't want to buy one , it 's well worth renting .
+3
+#4 own VERB owned%3:00:00::
+#10 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#12 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+This can be obtained in 42 - inch widths 24 feet long .
+1
+#3 obtain VERB obtain%2:40:00::
+The 42 - inch width leaves very little waste .
+1
+#5 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Four pieces are used .
+1
+#3 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Plank the sides first , using glue and one-inch , No. 12 Stronghold nails at all battens , the stem and the transom .
+2
+#0 plank VERB plank%2:35:00::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Another person inside with a weight against each batten will help in the fastening .
+1
+#10 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+The best procedure is to have a few friends hold the planking in place while you mark it off .
+1
+#5 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Then trim the excess .
+1
+#1 trim VERB trim%2:35:03::
+I used a Homemaster Routo-Jig made by Porter Cable for this job .
+2
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+Then it is marked on the inside where it comes in contact with the transom , frames , keelson and all the battens .
+2
+#3 mark VERB mark%2:30:00::,mark%2:31:08::,mark%2:39:00::
+#9 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+It may then be pre drilled for the fastenings .
+1
+#5 drill VERB drill%2:35:00::,drilled%5:00:00:trained:00
+The next step is to remove it and spread glue where it has been marked at the contact points .
+3
+#5 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#8 spread VERB spread%2:35:12::,spread%2:35:13::,spread%2:42:00::
+#14 mark VERB mark%2:30:00::,mark%2:31:08::,mark%2:39:00::
+Then it is replaced and fastened .
+1
+#3 replace VERB replace%2:35:00::
+The bottom planking is applied in the same manner .
+1
+#4 apply VERB apply%2:40:00::
+After planking , the bottom gets a layer of Fiberglas .
+1
+#1 plank VERB plank%2:35:00::
+Then the chines are rounded off and the bottom is rough sanded in preparation .
+1
+#11 sand VERB sand%2:35:00::
+Since the sides are also covered up to the spray rails , they are also rough sanded in that area .
+2
+#5 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#16 sand VERB sand%2:35:00::
+The cloth is laid on one half of the bottom at a time .
+1
+#3 lay VERB lay%2:35:00::,lay%2:36:00::
+A 50 - inch width is used on each side and it laps the keel line by about three inches .
+2
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 lap VERB lap%2:42:00::
+Lay the cloth in place and trim it to size .
+2
+#0 lay VERB lay%2:35:00::,lay%2:36:00::
+#6 trim VERB trim%2:35:03::
+Then remove it and give the whole bottom a coat of resin .
+1
+#1 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+When the resin has hardened , mix up another batch with a pigment added if you wish .
+1
+#13 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+I used bright red , mixing the pigment in thoroughly before adding the hardener .
+2
+#1 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#11 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+Using a cheap brush , coat one side of the bottom with the resin and then apply the cloth .
+2
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#16 apply VERB apply%2:40:00::
+When the cloth is smooth , apply another coat of resin , spreading it with a paint roller .
+2
+#6 apply VERB apply%2:40:00::
+#12 spread VERB spread%2:35:12::,spread%2:35:13::,spread%2:42:00::
+Be sure it is well saturated and then allow it to harden .
+1
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+When the whole bottom has hardened , use a disk sander to feather the edges of the cloth at the keel line and near the spray rail .
+1
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Then lay a three-inch-wide strip of cloth along the keel line from the transom to the point of the stem .
+1
+#1 lay VERB lay%2:35:00::,lay%2:36:00::
+Before the resin has hardened , screw a one-inch mahogany keel strip along the centerline .
+1
+#6 screw VERB screw%2:35:01::
+The hull is now turned over ( with the help of about seven friends ) and placed in a level , well-braced position .
+1
+#16 place VERB place%2:31:13::
+I set it on the Gator trailer .
+1
+#1 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+I laid three layers of glass cloth on the inside of the stem , also installing a bow eye at this time .
+2
+#1 lay VERB lay%2:35:00::,lay%2:36:00::
+#15 install VERB install%2:35:00::
+Again , these blocks were set in resin-saturated glass cloth and nailed .
+2
+#5 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#11 nail VERB nail%2:35:00::
+After trimming off the excess on the frames and transom which was used to fasten them to the jig at a working height , the top of the side planking is installed .
+2
+#1 trim VERB trim%2:35:03::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+These flaring parts really help to keep the boat dry .
+2
+#4 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#6 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+When they 're on , the top edges are planed even with the sheer batten .
+1
+#9 plane VERB plane%2:35:03::
+The sides of the motor well run from the bottom battens to the top and from frame six to the transom , forming a real strong transom brace .
+2
+#6 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#22 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+Note another piece of wood six inches wide is fastened to the transom between these pieces .
+1
+#0 note VERB note%2:32:00::,note%2:39:00::
+Most floor battens are glued and screwed to the flooring .
+1
+#6 screw VERB screw%2:35:01::
+The exception is where the flooring butts .
+1
+#6 butt VERB butt%2:35:01::
+These battens are glued and screwed to the frames .
+1
+#5 screw VERB screw%2:35:01::
+With all deck battens in place , the bilge is cleaned and painted up to the floor line .
+1
+#12 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+Use one coat of Firzite and one coat of marine paint .
+1
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Bottoms of the floorboards are also painted and the flooring is then screwed in place .
+2
+#6 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+#12 screw VERB screw%2:35:01::
+The windshield glass is shatterproof and Plexiglas is used in the cabin .
+1
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Inside , bunks are framed up and installed as indicated .
+2
+#7 install VERB install%2:35:00::
+#9 indicate VERB indicate%2:32:00::
+A head is a handy thing to have and I installed one under a removable section of the port bunk .
+2
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 install VERB install%2:35:00::
+The sink in the hinged panel above the bunk drains into the head and a five-gallon water tank is mounted on the bulkhead above the sink .
+2
+#9 drain VERB drain%2:30:01::
+#19 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+For padding the seats and bunks , I used Ensolite , Type M .
+1
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Lightweight , non-absorbent , fire resistant and dimensionally stable , it is easily bonded to the wood with contact cement .
+1
+#13 bond VERB bond%2:41:13::
+Available in * * f sheets , it costs about a dollar a square foot .
+1
+#8 cost VERB cost%2:42:00::,cost%2:42:01::

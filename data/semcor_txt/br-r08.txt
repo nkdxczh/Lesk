@@ -1,0 +1,513 @@
+ Pueri Aquam De Silvas Ad Agricolas Portant , a delightful vignette set in the unforgettable epoch of pre Punic War Rome .
+3
+#10 vignette NOUN vignette%1:10:00::
+#11 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#20 Rome NOUN rome%1:15:00::
+Marcellus , the hero , is beset from all sides by the problems of approaching manhood .
+5
+#3 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+#6 beset VERB beset%2:37:00::
+#9 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#12 problem NOUN problem%1:09:00::,problem%1:26:00::
+#14 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+The story opens on the eve of his fifty-third birthday , as he prepares for the two weeks of festivities that are to follow .
+3
+#1 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#2 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#23 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Suddenly , a messenger arrives and , just before collapsing dead at his feet , informs him that the Saracens have invaded Silesia , the home province of his affianced .
+6
+#3 messenger NOUN messenger%1:18:00::
+#9 collapse VERB collapse%2:29:00::
+#10 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#13 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#15 inform VERB inform%2:32:00::,inform%2:32:10::
+#26 province NOUN province%1:15:00::
+He at once cancels the celebrations and , buckling on his scimitar , stumbles blindly from the house , where he is hit and killed by a passing oxcart .
+5
+#3 cancel VERB cancel%2:41:03::
+#17 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#22 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#24 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#27 passing ADJ passing%5:00:00:satisfactory:00
+An unusual , if not extraordinary , rendering of the classic myth that involves the rescue of Prometheus from the rock by the U.S. Cavalry was given last week in the warehouse of the Albany Leather Conduit Company amid cheers of " Hubba hubba " and " Yalagaloo pip pip " !
+7
+#4 not ADV not%4:02:00::
+#7 rendering NOUN rendering%1:06:00::
+#11 myth NOUN myth%1:10:00::
+#20 rock NOUN rock%1:13:00::,rock%1:17:01::
+#26 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+#27 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#39 cheer NOUN cheer%1:10:00::
+After a " busy " overture , the curtain rises on a farm scene - the Ranavan Valley in northern Maine .
+4
+#5 overture NOUN overture%1:10:01::
+#9 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#13 scene NOUN scene%1:06:00::,scene%1:10:00::,scene%1:11:00::
+#19 northern ADJ northern%5:00:01:north:00,northern%5:00:02:north:00
+A dead armadillo , the sole occupant of the stage , symbolizes the crisis and destruction of the Old Order .
+2
+#1 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#9 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+Old Order , acted and atonally sung by Grunnfeu Arapacis , the lovely Serbantian import , then entered and delivered the well-known invocation to the god Phineoppus , whereupon the stage is quite unexpectedly visited by a company of wandering Gorshek priests , symbolizing Love , Lust , Prudence and General Motors , respectively .
+9
+#3 act VERB act%2:29:00::,act%2:36:00::
+#6 sing VERB sing%2:32:08::,sing%2:36:01::
+#14 import NOUN import%1:06:00::
+#16 then ADV then%4:02:00::
+#17 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#19 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+#30 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+#32 quite ADV quite%4:02:02::
+#34 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+According to the myth , Old Order then vanishes at stage left and reappears at extreme stage right , but director Shuz skillfully sidesteps the rather gooshey problem of stage effects by simply having Miss Arapacis walk across the stage .
+8
+#3 myth NOUN myth%1:10:00::
+#8 vanish VERB vanish%2:30:01::
+#15 extreme ADJ extreme%5:00:00:distant:01
+#25 rather ADV rather%4:02:00::,rather%4:02:04::
+#27 problem NOUN problem%1:09:00::,problem%1:26:00::
+#32 simply ADV simply%4:02:00::,simply%4:02:02::
+#36 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#39 stage NOUN stage%1:06:00::,stage%1:10:00::,stage%1:15:00::
+The night we saw it , a rather unpleasant situation arose when the soloist refused to approach the armadillo , complaining - in ad-lib - that " it smelled " .
+5
+#7 rather ADV rather%4:02:00::,rather%4:02:04::
+#9 situation NOUN situation%1:26:01::
+#10 arise VERB arise%2:30:00::,arise%2:42:01::
+#16 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#28 smell VERB smell%2:39:00::,smell%2:39:02::,smell%2:39:03::
+We caught the early train to New York .
+3
+#1 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#3 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#4 train NOUN train%1:06:00::
+The Dharma Dictionary , a list of highly unusual terms used in connection with Eurasian proto-senility cults .
+5
+#5 list NOUN list%1:10:00::
+#9 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#14 Eurasian ADJ eurasian%3:01:00::
+It 's somewhat off the beaten track , to be sure , but therein lies its variety and charm .
+3
+#14 lie VERB lie%2:42:03::
+#16 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#18 charm NOUN charm%1:07:00::
+For example , probably very few people know that the word " visrhanik " that is bantered about so much today stems from the verb " bouanahsha " : to salivate .
+6
+#6 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#18 so ADV so%4:02:03::,so%4:02:07::
+#21 stem VERB stem%2:42:00::
+#30 salivate VERB salivate%2:29:00::
+Likewise , and equally fascinating , is the news that such unlikely synonyms as " pratakku " , " sweathruna " , and the tongue-twister " nnuolapertar-it-vuh-karti-biri-pitknoumen " all originated in the same village in Bathar-on-Walli Province and are all used to express sentiments concerning British " imperialism " .
+7
+#3 equally ADV equally%4:02:01::
+#32 same ADJ same%3:00:00::,same%3:00:02::
+#40 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#42 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#43 sentiment NOUN sentiment%1:09:00::
+#44 concern VERB concern%2:42:00::,concern%2:42:01::
+#45 British ADJ british%3:01:00::
+The terms are fairly safe to use on this side of the ocean , but before you start spouting them to your date , it might be best to find out if he was a member of Major Pockmanster 's Delhi Regiment , since resentment toward the natives was reportedly very high in that outfit .
+9
+#1 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#3 fairly ADV fairly%4:02:02::
+#4 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#18 spout VERB spout%2:32:00::
+#22 date NOUN date%1:14:00::,date%1:18:00::,date%1:28:05::
+#27 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#35 member NOUN member%1:18:00::,member%1:24:00::
+The Breeze And Chancellor Neitzbohr , a movie melodrama that concerns the attempts of a West German politician to woo a plaster cast of the Apollo Belvedere .
+3
+#8 melodrama NOUN melodrama%1:10:00::
+#10 concern VERB concern%2:42:00::,concern%2:42:01::
+#15 west ADJ west%3:00:00::
+As you have doubtless guessed already , the plot is plastered with Freudian , Jungian , and Meinckian theory .
+2
+#5 already ADV already%4:02:00::
+#8 plot NOUN plot%1:10:00::
+For example , when the film is only four minutes old , Neitzbohr refers to a small , Victorian piano stool as " Wilhelmina " , and we are thereupon subjected to a flashback that informs us that this very piano stool was once used by an epileptic governess whose name , of course , was Doris ( the English equivalent , when passed through middle Gaelic derivations , of Wilhelmina ) .
+13
+#5 film NOUN film%1:10:00::,film%1:10:01::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#9 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#10 old PRT old%3:00:02::
+#13 refer VERB refer%2:32:00::,refer%2:42:00::
+#30 subject VERB subject%2:33:00::
+#35 inform VERB inform%2:32:00::,inform%2:32:10::
+#43 once ADV once%4:02:01::
+#44 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#50 name NOUN name%1:14:00::
+#59 English NOUN english%1:09:00::
+#65 middle ADJ middle%5:00:01:central:01
+#67 derivation NOUN derivation%1:04:00::
+For the remainder of the movie , Chancellor Neitzbohr proceeds to lash the piano stool with a slat from a Venetian blind that used to hang in the pre-war Reichstag .
+3
+#2 remainder NOUN remainder%1:24:00::
+#11 lash VERB lash%2:35:01::
+#25 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+In this manner , he seeks to expunge from his own soul the guilt pangs caused by his personal assaults against the English at Dunkirk .
+4
+#2 manner NOUN manner%1:07:01::;1:07:02::,manner%1:07:02::,manner%1:09:01::
+#10 own ADJ own%5:00:00:personal:00
+#11 soul NOUN soul%1:12:00::,soul%1:18:00::
+#19 assault NOUN assault%1:04:01::
+As we find out at the end , it is not the stool ( symbolizing Doris , therefore the English ) that he is punishing but the piece of Venetian blind .
+3
+#6 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#10 not ADV not%4:02:00::
+#12 stool NOUN stool%1:06:00::
+And , when the slat finally shatters , we see him count the fragments , all the while muttering , " He loves me , he loves me not " .
+4
+#6 shatter VERB shatter%2:30:01::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 count VERB count%2:32:00::,count%2:32:01::
+#17 while NOUN while%1:28:00::
+After a few tortuous moments of wondering who " he " is , the camera pans across the room to the plaster statue , and we realize that Neitzbohr is trying to redeem himself in the eyes of a mute piece of sculpture .
+9
+#4 moment NOUN moment%1:28:00::,moment%1:28:01::
+#6 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#15 pan VERB pan%2:38:00::
+#18 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#21 plaster NOUN plaster%1:27:00::
+#26 realize VERB realize%2:31:01::
+#30 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#32 redeem VERB redeem%2:41:04::
+#39 mute ADJ mute%5:00:00:inarticulate:00
+The effect , needless to say , is almost terrifying , and though at times a bit obscure , the film is certainly a much needed catharsis for the " repressed " movie-goer .
+4
+#1 effect NOUN effect%1:09:00::,effect%1:19:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 film NOUN film%1:10:00::,film%1:10:01::
+#26 catharsis NOUN catharsis%1:04:00::
+THE MUSIC OF BINI SALFININISTAS , CAPITAL LP 63711 - R , one of the rare recordings of this titanic , yet unsung , composer .
+2
+#15 rare ADJ rare%5:00:00:scarce:00
+#19 titanic ADJ titanic%5:00:00:large:00
+Those persons who were lucky enough to see and hear the performance of his work at the Brest-Silevniov Festival in August , 1916 , will certainly welcome his return to public notice ; and it is not unlikely that , even as the great Bach lay dormant for so many years , so has the erudite , ingenious SalFininistas passed through his " purgatory " of neglect .
+9
+#1 person NOUN person%1:03:00::,person%1:08:00::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 performance NOUN performance%1:04:01::,performance%1:10:00::
+#14 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#26 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+#28 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#43 great ADJ great%5:00:01:extraordinary:00
+#48 so ADV so%4:02:03::,so%4:02:07::
+#50 year NOUN year%1:28:00::,year%1:28:01::
+But now , under the guidance of the contemporary composer Marc Schlek , Jr. , a major revival is under way .
+4
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#5 guidance NOUN guidance%1:10:00::
+#8 contemporary ADJ contemporary%5:00:00:modern:00
+#16 major ADJ major%3:00:05::,major%3:00:06::
+As he leads the Neurenschatz Skolkau Orchestra , Schlek gives a tremendously inspired performance of both the Baslot and Rattzhenfuut concertos , including the controversial Tschilwyk cadenza , which was included at the conductor 's insistence .
+6
+#2 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+#12 inspired ADJ inspired%5:00:00:glorious:00
+#13 performance NOUN performance%1:04:01::,performance%1:10:00::
+#22 include VERB include%2:42:00::
+#30 include VERB include%2:31:00::,include%2:41:03::
+#33 conductor NOUN conductor%1:18:01::
+A major portion of the credit should also go to flautist Haumd for his rendering of the almost impossible " Indianapolis " movement in the Baslot .
+5
+#1 major ADJ major%3:00:05::,major%3:00:06::
+#5 credit NOUN credit%1:04:01::,credit%1:10:00::,credit%1:10:01::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#14 render VERB render%2:30:00::,render%2:32:04::,render%2:36:03::
+#22 movement NOUN movement%1:10:00::
+Not only was Haumd 's intonation and phrasing without flaw , but he seemed to take every tonal eccentricity in stride .
+3
+#5 intonation NOUN intonation%1:04:02::
+#9 flaw NOUN flaw%1:26:00::
+#18 eccentricity NOUN eccentricity%1:07:01::
+For example , to move ( as the score requires ) from the lowest F major register up to a barely audible N minor in four seconds , not skipping , at the same time , even one of the 407 fingerings , seems a feat too absurd to consider , and it is to the flautist 's credit that he remained silent throughout the passage .
+10
+#4 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#8 score NOUN score%1:10:00::
+#16 register NOUN register%1:07:00::
+#23 minor ADJ minor%3:00:04::
+#26 second NOUN second%1:28:00::,second%1:28:01::
+#28 not ADV not%4:02:00::
+#29 skip VERB skip%2:38:00::
+#46 too ADV too%4:02:00::
+#58 credit NOUN credit%1:04:01::,credit%1:10:00::,credit%1:10:01::
+#65 passage NOUN passage%1:10:00::,passage%1:10:01::
+We would have preferred , however , to have had the rest of the orchestra refrain from laughing at this and other spots on the recording , since it mars an otherwise sober , if not lofty , performance .
+11
+#3 prefer VERB prefer%2:31:00::
+#5 however ADV however%4:02:04::
+#11 rest NOUN rest%1:24:00::
+#14 orchestra NOUN orchestra%1:14:00::
+#21 other ADJ other%3:00:00::
+#22 spot NOUN spot%1:10:01::,spot%1:15:01::
+#25 recording NOUN recording%1:04:00::,recording%1:06:00::,recording%1:06:01::
+#31 otherwise ADV otherwise%4:02:01::
+#35 not ADV not%4:02:00::
+#36 lofty ADJ lofty%5:00:00:high:01
+#38 performance NOUN performance%1:04:01::,performance%1:10:00::
+As Broadway itself becomes increasingly weighted down by trite , heavy-handed , commercially successful musicals and inspirational problem dramas , the American theatre is going through an inexorable renaissance in that nebulous area known as " off-Broadway " .
+4
+#3 become VERB become%2:30:00::,become%2:42:01::
+#17 problem NOUN problem%1:09:00::,problem%1:26:00::
+#18 drama NOUN drama%1:10:00::,drama%1:10:01::
+#32 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+For the last two years , this frontier of the arts has produced a number of so-called " non dramas " which have left indelible , bittersweet impressions on the psyche of this veteran theatregoer .
+9
+#2 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#10 art NOUN art%1:04:00::,art%1:09:00::
+#12 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#14 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#19 drama NOUN drama%1:10:00::,drama%1:10:01::
+#23 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#27 impression NOUN impression%1:07:00::
+#30 psyche NOUN psyche%1:09:00::
+The latest and , significantly , greatest fruit of this theatrical vine is The , an adaptation of Basho 's classic frog haiku by Roger Entwhistle , a former University of Maryland chemistry instructor .
+6
+#1 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+#6 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#7 fruit NOUN fruit%1:20:00::
+#21 frog NOUN frog%1:05:00::
+#28 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#32 chemistry NOUN chemistry%1:09:00::
+Although the play does show a certain structural amateurishness ( there are eleven acts varying in length from twenty-five seconds to an hour and a half ) , the statement it makes concerning the ceaseless yearning and searching of youth is profound and worthy of our attention .
+10
+#2 play NOUN play%1:10:01::,play%1:10:03::
+#6 certain ADJ certain%5:00:00:definite:00
+#13 act NOUN act%1:10:00::,act%1:10:02::
+#16 length NOUN length%1:07:00::,length%1:07:01::,length%1:07:02::
+#19 second NOUN second%1:28:00::,second%1:28:01::
+#22 hour NOUN hour%1:07:00::,hours%1:28:01::
+#31 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#32 concern VERB concern%2:42:00::,concern%2:42:01::
+#41 profound ADJ profound%3:00:00::
+#46 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+The action centers about a group of outspoken and offbeat students sitting around a table in a cafeteria and their collective and ultimately fruitless search for a cup of hot coffee .
+9
+#1 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#2 center VERB center%2:31:00::
+#9 offbeat ADJ offbeat%5:00:00:unconventional:01
+#11 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#14 table NOUN table%1:06:01::,table%1:13:01::,table%1:14:01::
+#23 fruitless ADJ fruitless%5:00:00:unproductive:00
+#27 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#29 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#30 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+They are relentlessly rebuffed on all sides by a waitress , the police , and an intruding government tutor .
+2
+#16 intrude VERB intrude%2:41:00::
+#17 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+The innocence that they tried to conceal at the beginning is clearly destroyed forever when one of them , asking for a piece of lemon-meringue pie , gets a plate of English muffins instead .
+5
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 forever ADV forever%4:02:00::
+#19 ask VERB ask%2:32:01::,ask%2:32:05::
+#27 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#29 plate NOUN plate%1:06:00::,plate%1:06:02::,plate%1:06:03::,plate%1:13:01::,plate%1:23:00::
+Leaving the theatre after the performance , I had a flash of intuition that life , after all ( as Rilke said ) , is just a search for the nonexistent cup of hot coffee , and that this unpretentious , moving , clever , bitter slice of life was the greatest thing to happen to the American theatre since Brooks Atkinson retired .
+15
+#0 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 performance NOUN performance%1:04:01::,performance%1:10:00::
+#8 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#10 flash NOUN flash%1:28:00::
+#14 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 just ADV just%4:02:00::,just%4:02:03::
+#31 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#33 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#34 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#41 moving ADJ moving%3:00:01::
+#45 bitter ADJ bitter%5:00:00:intolerable:00
+#48 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#52 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#62 retire VERB retire%2:33:00::,retire%2:41:01::,retire%2:41:02::,retire%2:41:03::,retire%2:41:04::
+Aging but still precocious , French feline enfant terrible Francoisette Lagoon has succeeded in shocking jaded old Paris again , this time with a sexy ballet scenario called The Lascivious Interlude , the story of a nymphomaniac trip-hammer operator who falls hopelessly in love with a middle-aged steam shovel .
+8
+#2 still ADV still%4:02:00::
+#12 succeed VERB succeed%2:41:00::
+#14 shock VERB shock%2:37:02::
+#16 old ADJ old%3:00:01::,old%3:00:02::
+#17 Paris NOUN paris%1:15:00::
+#21 time NOUN time%1:11:00::
+#33 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#41 hopelessly ADV hopelessly%4:02:03::
+A biting , pithy parable of the all pervading hollowness of modern life , the piece has been set by Mlle Lagoon to a sumptuous score ( a single motif played over and over by four thousand French horns ) by existentialist hot-shot Jean-Paul Sartre .
+6
+#3 pithy ADJ pithy%5:00:00:concise:00
+#12 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#18 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#25 score NOUN score%1:10:00::
+#28 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#30 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+Petite , lovely Yvette Chadroe plays the nymphomaniac engagingly .
+1
+#5 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+Ever since Bambi , and , more recently , Born Free , there have been a lot of books about animals , but few compare with Max Fink 's wry , understated , charming , and immensely readable My Friend , the Quizzical Salamander .
+5
+#6 more ADV more%4:02:00::
+#18 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#24 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#29 wry ADJ wry%5:00:00:humorous:00
+#37 readable ADJ readable%5:00:00:legible:00
+Done in the modern style of a " confession " , Fink tells in exquisite detail how he came to know , and , more important , love his mother 's pet salamander , Alicia .
+9
+#4 style NOUN style%1:07:00::,style%1:09:00::,style%1:10:00::
+#8 confession NOUN confession%1:10:01::
+#12 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 detail NOUN detail%1:10:00::,detail%1:24:00::
+#20 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#24 more ADV more%4:02:00::
+#29 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#31 pet NOUN pet%1:05:00::
+#32 salamander NOUN salamander%1:05:00::
+It is not an entirely happy book , as Mrs. Fink soon becomes jealous of Alicia and , in retaliation , refuses to continue to scrape the algae off her glass .
+6
+#5 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#6 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#11 soon ADV soon%4:02:00::
+#12 become VERB become%2:30:00::,become%2:42:01::
+#23 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#25 scrape VERB scrape%2:35:02::
+Max , in a fit of despair , takes Alicia and runs off for two marvelous weeks in Burbank ( Fink calls it " the most wonderful and lovely fourteen days in my whole life " ) , at the end of which Alicia tragically contracts Parkinson's disease and dies .
+9
+#4 fit NOUN fit%1:26:00::
+#21 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#25 most ADV most%4:02:00::
+#30 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#33 whole ADJ whole%3:00:00::
+#34 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#40 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#45 contract VERB contract%2:30:00::
+#49 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+This brief resume hardly does the book justice , but I heartily recommend it to all those who are engages with the major problems of our time .
+7
+#3 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#6 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#11 heartily ADV heartily%4:02:01::
+#12 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+#22 major ADJ major%3:00:05::,major%3:00:06::
+#23 problem NOUN problem%1:09:00::,problem%1:26:00::
+#26 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+Opera in the Grand Tradition , along with mah-jongg , seems to be staging a well deserved comeback .
+3
+#0 opera NOUN opera%1:06:00::
+#13 stage VERB stage%2:36:01::
+#17 comeback NOUN comeback%1:04:00::
+In this country , the two guiding lights are , without doubt , Felix Fing and Anna Pulova .
+1
+#2 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+Fing , a lean , chiseled , impeccable gentleman of the old school who was once mistaken on the street for Sir Cedric Hardwicke , is responsible for the rediscovery of Verdi 's earliest , most raucous opera , Nabisco , a sumptuous bout-de-souffle with a haunting leitmotiv that struck me as being highly reminiscent of the Mudugno version of " Volare " .
+8
+#3 lean ADJ lean%3:00:04::
+#8 gentleman NOUN gentleman%1:18:00::
+#15 once ADV once%4:02:00::
+#33 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#35 most ADV most%4:02:00::
+#37 opera NOUN opera%1:06:00::
+#49 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+#58 version NOUN version%1:10:01::
+Miss Pulova has a voice that Maria Callas once described as " like chipping teeth with a screw driver " , and her round , opalescent face becomes fascinatingly reflective of the emotions demanded by the role of Rosalie .
+10
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 voice NOUN voice%1:07:00::,voice%1:10:02::
+#8 once ADV once%4:02:00::
+#9 describe VERB describe%2:32:01::
+#13 chip VERB chip%2:35:00::
+#14 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#23 round ADJ round%3:00:00::
+#26 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#27 become VERB become%2:30:00::,become%2:42:01::
+#29 reflective ADJ reflective%3:00:00::
+The Champs Elysees is literally littered this summer with the prostrate bodies of France 's beat-up beatnik jeunes filles .
+3
+#5 litter VERB litter%2:35:00::
+#7 summer NOUN summer%1:28:00::
+#11 body NOUN body%1:08:00::,body%1:08:02::
+Cause of all this commotion : squat , pug-nosed , balding , hopelessly ugly Jean-Pierre Bravado , a Bogartian figure , who plays a sadistic , amoral , philosophic Tasti-Freeze salesman in old New-Waver Fredrico de Mille Rossilini 's endlessly provocative film , A Sour Sponge .
+5
+#0 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#12 hopelessly ADV hopelessly%4:02:03::
+#19 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#22 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+#41 film NOUN film%1:10:00::,film%1:10:01::
+Bravado has been alternately described as " a symbol of the new grandeur of France and myself " ( De Gaulle ) and " a decadent , disgusting slob " !
+2
+#4 describe VERB describe%2:32:01::
+#11 new ADJ new%3:00:00::,new%5:00:00:original:00
+( Norman Mailer ) , but no one can deny that the screen crackles with electricity whenever he is on it .
+3
+#9 deny VERB deny%2:32:00::,deny%2:32:01::
+#12 screen NOUN screen%1:06:05::
+#15 electricity NOUN electricity%1:12:00::
+Soaring to stardom along with him , Margo Felicity Brighetti , a luscious and curvaceously beguiling Italian starlet , turns in a creditable performance as an airplane mechanic .
+2
+#23 performance NOUN performance%1:04:01::,performance%1:10:00::
+#27 mechanic NOUN mechanic%1:18:01::
+The battle of the drib-drool continues , but most of New York 's knowing sophisticates of Abstract Expressionism are stamping their feet impatiently in expectation of V ( for Vindication ) Day , September first , when Augustus Quasimodo 's first one-man show opens at the Guggenheim .
+7
+#5 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#13 knowing ADJ knowing%5:00:00:intended:00
+#19 stamp VERB stamp%2:38:00::
+#21 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#40 first ADJ first%3:00:00::,first%4:02:00::
+#42 show NOUN show%1:04:00::,show%1:10:00::
+#43 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+We have heard that after seeing Mr. Quasimodo 's work it will be virtually impossible to deny the artistic validity and importance of the whole abstract movement .
+6
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#13 virtually ADV virtually%4:02:02::
+#16 deny VERB deny%2:32:00::,deny%2:32:01::
+#24 whole ADJ whole%3:00:00::
+#26 movement NOUN movement%1:04:03::
+And it is thought by many who think about such things that Quasimodo is the logical culmination of a school that started with Monet , progressed through Kandinsky and the cubist Picasso , and blossomed just recently in Pollock and De Kooning .
+2
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#19 school NOUN school%1:14:02::
+Quasimodo defines his own art as " the search for what is not there " .
+4
+#1 define VERB define%2:32:00::,defined%3:00:00::
+#3 own ADJ own%5:00:00:personal:00
+#12 not ADV not%4:02:00::
+#13 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+" I paint the nothing " , he said once to Franz Kline and myself , " the nothing that is behind the something , the inexpressible , unpaintable ' tick ' in the unconscious , the ' spirit ' of the moment resting forever , suspended like a huge balloon , in non time " .
+8
+#2 paint VERB paint%2:36:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 once ADV once%4:02:00::
+#38 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#42 moment NOUN moment%1:28:00::,moment%1:28:01::
+#44 forever ADV forever%4:02:00::
+#50 balloon NOUN balloon%1:06:01::
+#54 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+It is his relentlessness and unwavering adherence to this revolutionary artistic philosophy that has enabled him to paint such pictures as " The Invasion of Cuba " .
+2
+#14 enable VERB enable%2:30:00::,enabling%3:00:00::
+#17 paint VERB paint%2:36:01::
+In this work , his use of non color is startling and skillful .
+2
+#2 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#8 color NOUN color%1:07:00::,color%1:27:00::
+The sweep of space , the delicate counterbalance of the white masses , the over-all completeness and unity , the originality and imagination , all entitle it to be called an authentic masterpiece .
+7
+#6 delicate ADJ delicate%3:00:00::
+#10 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#11 mass NOUN mass%1:07:01::,mass%1:14:02::,mass%1:17:00::,mass%1:23:00::
+#17 unity NOUN unity%1:07:00::,unity%1:26:00::
+#25 entitle VERB entitled%5:00:00:eligible:00
+#29 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#31 authentic ADJ authentic%5:00:00:genuine:00
+I asked Quasimodo recently how he accomplished this , and he replied that he had painted his model " a beautiful shade of red and then had her breathe on the canvas " , which was his typical tongue-in-cheek way of chiding me for my lack of sensitivity .
+6
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+#15 paint VERB paint%2:36:01::
+#21 shade NOUN shade%1:07:00::
+#23 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#26 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#39 way NOUN way%1:04:00::,way%1:09:00::

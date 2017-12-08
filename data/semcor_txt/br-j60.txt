@@ -1,0 +1,614 @@
+ ( Los Angeles in 1957 finally bowed to the skyscraper . )
+1
+#9 skyscraper NOUN skyscraper%1:06:00::
+And without high density in the core , rapid-transit systems cannot be maintained economically , let alone built from scratch at today 's prices .
+5
+#2 high ADJ high%3:00:02::
+#6 core NOUN core%1:17:00::
+#9 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#12 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#23 price NOUN price%1:07:01::,price%1:21:00::
+However , the building of freeways and garages cannot continue forever .
+4
+#0 however ADV however%4:02:04::
+#7 garage NOUN garage%1:06:00::
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#10 forever ADV forever%4:02:00::
+The new interchange among the four Los Angeles freeways , including the grade-constructed accesses , occupies by itself no less than eighty acres of downtown land , one-eighth of a square mile , an area about the size of Rockefeller Center in New York .
+7
+#2 interchange NOUN interchange%1:06:00::
+#10 include VERB include%2:42:00::
+#13 access NOUN access%1:07:00::
+#15 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#18 no ADV no%4:02:01::
+#25 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#37 size NOUN size%1:07:00::,size%1:07:02::
+It is hard to believe that this mass of intertwined concrete constitutes what the law calls " the highest and best use " of centrally located urban land .
+10
+#2 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 mass NOUN mass%1:07:01::,mass%1:14:02::,mass%1:17:00::,mass%1:23:00::
+#11 constitute VERB constitute%2:41:00::,constitute%2:42:00::,constitute%2:42:03::
+#14 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#15 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#18 high ADJ high%3:00:02::
+#20 good ADJ best%3:00:00::,good%3:00:01::
+#26 urban ADJ urban%3:01:00::
+#27 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+As it affects the city 's fiscal situation , such an interchange is ruinous ; it removes forever from the tax rolls property which should be taxed to pay for the city services .
+11
+#2 affect VERB affect%2:30:00::,affect%2:42:00::
+#4 city NOUN city%1:15:00::,city%1:15:01::
+#7 situation NOUN situation%1:26:01::
+#11 interchange NOUN interchange%1:06:00::
+#13 ruinous ADJ ruinous%5:00:00:harmful:00
+#17 forever ADV forever%4:02:00::
+#20 tax NOUN tax%1:21:00::
+#22 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#26 tax VERB tax%2:40:00::
+#28 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#31 city NOUN city%1:15:00::,city%1:15:01::
+Subways improved land values without taking away land ; freeways boost valuation less ( because the garages they require are not prime buildings by a long shot ) , and reduce the acreage that can be taxed .
+9
+#0 subway NOUN subway%1:06:00::
+#3 value NOUN value%1:21:00::,values%1:09:00::
+#12 less ADV less%4:02:00::,less%4:02:01::
+#16 garage NOUN garage%1:06:00::
+#20 not ADV not%4:02:00::
+#21 prime ADJ prime%5:00:00:mature:01
+#22 building NOUN building%1:06:00::
+#30 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#36 tax VERB tax%2:40:00::
+Downtown Los Angeles is already two-thirds freeway , interchange , street , parking lot and garage - one of those preposterous " if " statistics has already come to pass .
+4
+#4 already ADV already%4:02:00::
+#8 interchange NOUN interchange%1:06:00::
+#15 garage NOUN garage%1:06:00::
+#26 already ADV already%4:02:00::
+The freeway with narrowly spaced interchanges concentrates and mitigates the access problem , but it also acts inevitably as an artificial , isolating boundary .
+5
+#3 narrowly ADV narrowly%4:02:00::
+#5 interchange NOUN interchange%1:06:00::
+#10 access NOUN access%1:07:00::
+#11 problem NOUN problem%1:09:00::,problem%1:26:00::
+#20 artificial ADJ artificial%3:00:00::
+City planners do not always use this boundary as effectively as they might .
+5
+#0 city NOUN city%1:15:00::,city%1:15:01::
+#1 planner NOUN planner%1:18:00::
+#3 not ADV not%4:02:00::
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+Less ambitious freeway plans may be more successful - especially when the roadways and interchanges are raised , allowing for cross access at many points and providing parking areas below the ramp .
+9
+#0 less ADV less%4:02:00::,less%4:02:01::
+#3 plan NOUN plan%1:06:00::,plan%1:09:01::
+#6 more ADV more%4:02:00::
+#9 especially ADV especially%4:02:00::
+#14 interchange NOUN interchange%1:06:00::
+#21 access NOUN access%1:07:00::
+#24 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#26 provide VERB provide%2:34:00::,provide%2:40:00::
+#31 ramp NOUN ramp%1:06:00::
+Meanwhile , the automobile and its friend the truck have cost the central city some of its industrial dominance .
+2
+#8 truck NOUN truck%1:06:00::,truck%1:06:01::
+#10 cost VERB cost%2:42:00::,cost%2:42:01::
+In ever greater numbers , factories are locating in the suburbs or in " industrial parks " removed from the city 's political jurisdiction .
+4
+#2 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#3 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#5 factory NOUN factory%1:06:00::
+#20 city NOUN city%1:15:00::,city%1:15:01::
+The appeal of the suburb is particularly strong for heavy industry , which must move bulky objects along a lengthy assembly line and wants enough land area to do the entire job on one floor .
+10
+#1 appeal NOUN appeal%1:07:00::
+#6 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#7 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#9 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#10 industry NOUN industry%1:04:00::,industry%1:14:00::
+#14 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#16 object NOUN object%1:03:00::
+#23 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#31 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#34 floor NOUN floor%1:06:01::
+To light industry , the economies of being on one floor are much slighter , but efficiency engineers usually believe in them , and manufacturers looking for ways to cut costs cannot be prevented from turning to efficiency engineers .
+8
+#1 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#2 industry NOUN industry%1:04:00::,industry%1:14:00::
+#5 economy NOUN economy%1:04:00::,economy%1:07:00::,economy%1:09:01::,economy%1:14:00::
+#10 floor NOUN floor%1:06:01::
+#13 slight ADJ slight%5:00:00:insignificant:00
+#27 way NOUN way%1:04:00::,way%1:09:00::
+#29 cut VERB cut%2:30:00::,cut%2:30:06::,cut%2:30:08::,cut%2:35:08::,cut%2:41:13::,cut%2:42:00::
+#33 prevent VERB prevent%2:41:00::
+This movement of industry away from the central cities is not so catastrophically new as some prophets seem to believe .
+6
+#1 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#3 industry NOUN industry%1:04:00::,industry%1:14:00::
+#4 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#10 not ADV not%4:02:00::
+#16 prophet NOUN prophet%1:18:00::
+#19 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+It is merely the latest example of the leapfrog growth which formed the pattern of virtually all American cities .
+7
+#4 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+#5 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#9 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#11 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#13 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#15 virtually ADV virtually%4:02:02::
+#18 city NOUN city%1:15:00::,city%1:15:01::
+The big factories which are relatively near the centers of our cities - the rubber factories in Akron , Chrysler 's Detroit plants , U. S. Steel 's Pittsburgh works - often began on these sites at a time when that was the edge of the city , yet close to transport ( river ) , storage ( piers ) and power ( river ) .
+16
+#1 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#2 factory NOUN factory%1:06:00::
+#6 near ADV nearer%4:02:00::
+#8 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#11 city NOUN city%1:15:00::,city%1:15:01::
+#14 rubber NOUN rubber%1:06:02::
+#15 factory NOUN factory%1:06:00::
+#22 plant NOUN plant%1:06:01::
+#32 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#35 site NOUN site%1:15:00::,site%1:15:02::
+#43 edge NOUN edge%1:06:01::
+#46 city NOUN city%1:15:00::,city%1:15:01::
+#49 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#51 transport NOUN transport%1:06:00::
+#58 pier NOUN pier%1:06:00::
+#61 power NOUN power%1:19:00::
+The " leapfrog " was a phenomenon of the railroad and the steam turbine , and the time when the belts of residence surrounding the old factory area were not yet blighted .
+5
+#6 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#20 belt NOUN belt%1:06:00::
+#25 old ADJ old%3:00:01::,old%3:00:02::
+#26 factory NOUN factory%1:06:00::
+#27 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+The truck and the car gave the manufacturer a new degree of freedom in selecting his plant site .
+4
+#1 truck NOUN truck%1:06:00::,truck%1:06:01::
+#5 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#16 plant NOUN plant%1:06:01::
+#17 site NOUN site%1:15:00::,site%1:15:02::
+Until internal combustion became cheap , he had to be near a railroad siding and a trolley line or an existing large community of lower-class homes .
+4
+#3 become VERB become%2:30:00::,become%2:42:01::
+#21 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#22 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#25 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The railroad siding is still important - it is usually , though not always , true that long-haul shipment by rail is cheaper than trucking .
+4
+#4 still ADV still%4:02:00::
+#13 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#15 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#20 rail NOUN rail%1:06:01::
+But anybody who promises a substantial volume of business can get a railroad to run a short spur to his plant these days , and many businesses can live without the railroad .
+13
+#3 promise VERB promise%2:32:00::,promise%2:32:01::
+#5 substantial ADJ substantial%5:00:00:considerable:00,substantial%5:00:00:sound:01,substantial%5:00:00:wholesome:00
+#6 volume NOUN volume%1:07:03::,volume%1:23:00::
+#8 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#10 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#12 railroad NOUN railroad%1:06:00::
+#16 short ADJ short%3:00:01::
+#17 spur NOUN spur%1:25:00::
+#20 plant NOUN plant%1:06:01::
+#22 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#26 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#28 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#31 railroad NOUN railroad%1:06:00::
+And there are now many millions of workers for whom the factory with the big parking lot , which can be reached by driving across or against the usual pattern of rush hour traffic and grille route bus lines , is actually more convenient than the walk-to factory .
+10
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#7 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#11 factory NOUN factory%1:06:00::
+#14 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#21 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#23 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#29 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#33 traffic NOUN traffic%1:14:00::
+#42 more ADV more%4:02:00::
+#47 factory NOUN factory%1:06:00::
+Willow Run , General Electric 's enormous installations at Louisville and Syracuse , the Pentagon , Boeing in Seattle , Douglas and Lockheed in Los Angeles , the new automobile assembly plants everywhere - none of these is substantially served by any sort of conventional mass rapid transit .
+7
+#7 installation NOUN installation%1:06:00::
+#14 pentagon NOUN pentagon%1:06:00::
+#30 assembly NOUN assembly%1:06:00::
+#31 plant NOUN plant%1:06:01::
+#38 substantially ADV substantially%4:02:01::
+#39 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#42 sort NOUN sort%1:09:00::,sort%1:18:00::
+They are all suburban plants , relying on the roads to keep them supplied with workers .
+4
+#4 plant NOUN plant%1:06:01::
+#9 road NOUN road%1:04:00::,road%1:06:00::
+#11 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+#15 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+And wherever the new thruways go up their banks are lined by neat glass and metal and colored brick light industry .
+8
+#8 bank NOUN bank%1:04:00::,bank%1:17:00::,bank%1:17:02::
+#12 neat ADJ neat%5:00:00:tidy:00
+#13 glass NOUN glass%1:27:00::
+#15 metal NOUN metal%1:27:00::
+#17 colored ADJ colored%5:00:00:black:02
+#18 brick NOUN brick%1:06:00::
+#19 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#20 industry NOUN industry%1:04:00::,industry%1:14:00::
+The drive along Massachusetts ' Route 128 , the by-pass which makes an arc about twenty miles from downtown Boston , may be a vision of the future .
+5
+#1 drive NOUN drive%1:06:00::,drive%1:06:01::
+#13 arc NOUN arc%1:25:00::,arc%1:25:01::
+#19 Boston NOUN boston%1:15:00::
+#24 vision NOUN vision%1:09:01::,vision%1:09:02::,vision%1:09:03::
+#27 future NOUN future%1:10:00::,future%1:28:00::
+The future could be worse .
+2
+#1 future NOUN future%1:10:00::,future%1:28:00::
+#4 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+The plants along Route 128 are mostly well designed and nicely set against the New England rocks and trees .
+4
+#1 plant NOUN plant%1:06:01::
+#11 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#16 rock NOUN rock%1:13:00::,rock%1:17:01::
+#18 tree NOUN tree%1:20:00::
+They can even be rather grand , like Edward Land 's monument to the astonishing success of Polaroid .
+2
+#4 rather ADV rather%4:02:00::,rather%4:02:04::
+#5 grand ADJ grand%5:00:00:large:00
+But they deny the values of the city - the crowded , competitive , tolerant city , the " melting pot " which gave off so many of the most admirable American qualities .
+8
+#2 deny VERB deny%2:32:00::,deny%2:32:01::
+#7 city NOUN city%1:15:00::,city%1:15:01::
+#12 competitive ADJ competitive%3:00:00::
+#14 tolerant ADJ tolerant%3:00:00::
+#15 city NOUN city%1:15:00::,city%1:15:01::
+#25 so ADV so%4:02:03::,so%4:02:07::
+#29 most ADV most%4:02:00::
+#32 quality NOUN quality%1:07:00::,quality%1:07:01::,quality%1:09:00::
+They are segregated businesses , combining again on one site the factory and the office , drawing their work force from segregated communities .
+7
+#3 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#5 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#9 site NOUN site%1:15:00::,site%1:15:02::
+#11 factory NOUN factory%1:06:00::
+#14 office NOUN office%1:06:00::
+#16 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#22 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+It is interesting to note how many of the plants on Massachusetts ' Route 128 draw most of their income either from the government in non-competitive cost-plus arrangements , or from the exploitation of patents which grant at least a partial monopoly .
+10
+#4 note VERB note%2:32:00::,note%2:39:00::
+#9 plant NOUN plant%1:06:01::
+#15 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#23 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#27 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#32 exploitation NOUN exploitation%1:04:00::
+#34 patent NOUN patent%1:10:00::
+#36 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#40 partial ADJ partial%5:00:00:incomplete:00
+#41 monopoly NOUN monopoly%1:26:02::
+While the factories were always the center of the labor market , they were often on the city 's periphery .
+4
+#2 factory NOUN factory%1:06:00::
+#4 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#6 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#17 city NOUN city%1:15:00::,city%1:15:01::
+In spreading the factories even farther , the automobile may not have changed to any great extent the growth pattern of the cities .
+8
+#1 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#3 factory NOUN factory%1:06:00::
+#10 not ADV not%4:02:00::
+#12 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#15 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#18 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+#19 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#22 city NOUN city%1:15:00::,city%1:15:01::
+Even the loss of hotel business to the outskirt 's motel has been relatively painless ; the hotel-motel demarcation is becoming harder to find every year .
+5
+#4 hotel NOUN hotel%1:06:00::
+#5 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#20 become VERB become%2:30:00::,become%2:42:01::
+#21 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#23 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+What hurts most is the damage the automobile has done to central-city retailing , especially in those cities where public transit is feeble .
+3
+#5 damage NOUN damage%1:04:00::
+#14 especially ADV especially%4:02:00::
+#17 city NOUN city%1:15:00::,city%1:15:01::
+Some retailing , of course , always spreads with the population - grocery stores , drugstores , local haberdasheries and dress shops , candy stores and the like .
+2
+#6 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#7 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+But whenever a major purchase was contemplated forty years ago - a new bedroom set or a winter coat , an Easter bonnet , a bicycle for Junior - the family set off for the downtown department store , where the selection would be greatest .
+8
+#3 major ADJ major%3:00:05::,major%3:00:06::
+#4 purchase NOUN purchase%1:04:00::
+#8 year NOUN year%1:28:00::,year%1:28:01::
+#18 coat NOUN coat%1:06:00::
+#22 bonnet NOUN bonnet%1:06:00::
+#27 junior NOUN junior%1:18:00::
+#30 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#41 selection NOUN selection%1:22:00::
+These stores are still there , but the volume of the " downtown store " has been on a relative decline , while in many cities the suburban " branch " sells more and more dry goods .
+8
+#1 store NOUN store%1:06:00::
+#3 still ADV still%4:02:00::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#8 volume NOUN volume%1:07:03::,volume%1:23:00::
+#13 store NOUN store%1:06:00::
+#19 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#25 city NOUN city%1:15:00::,city%1:15:01::
+#31 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+If the retailer and hotelman 's downtown unit sales have been decreasing , however , his dollar volume continues to rise , and it is dollars which you put in the bank .
+6
+#7 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#8 sale NOUN sale%1:04:00::,sale%1:04:02::
+#13 however ADV however%4:02:04::
+#18 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#20 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#31 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+In most discussions of this phenomenon , the figures are substantially inflated .
+4
+#5 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#8 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#10 substantially ADV substantially%4:02:01::
+#11 inflated ADJ inflated%5:00:00:pretentious:00
+No suburban shopping-center branch - not even Hudson 's vast Northland outside Detroit - does anything like the unit volume of business or carries anything like the variety of merchandise to be found in the home store .
+10
+#5 not ADV not%4:02:00::
+#11 outside ADV outside%4:02:01::
+#18 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#19 volume NOUN volume%1:07:03::,volume%1:23:00::
+#21 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#23 carry VERB carry%2:32:02::,carry%2:40:00::
+#27 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#32 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#35 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#36 store NOUN store%1:06:00::
+Telephone orders distort the picture :
+1
+#2 distort VERB distort%2:32:00::
+the suburbanite naturally calls a local rather than a central city number if both are listed in an advertisement , especially if the local call eliminates city sales tax .
+7
+#3 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#9 central ADJ central%3:00:01::,central%5:00:00:important:00
+#10 city NOUN city%1:15:00::,city%1:15:01::
+#11 number NOUN number%1:10:01::,number%1:23:00::
+#15 list VERB list%2:32:00::,list%2:41:00::
+#20 especially ADV especially%4:02:00::
+#26 city NOUN city%1:15:00::,city%1:15:01::
+The suburban branch is thereby credited with a sale which would have been made even if its glass doors had never opened .
+4
+#5 credit VERB credit%2:31:12::
+#8 sale NOUN sale%1:04:00::,sale%1:04:02::
+#13 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 never ADV never%4:02:00::
+Accounting procedures which continue to charge a disproportionate overhead and warehouse expense to the main store make the branches seem more profitable than they are .
+8
+#0 account NOUN account%1:21:02::,accounting%1:09:00::
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#5 charge VERB charge%2:40:01::,charge%2:40:03::
+#8 overhead NOUN overhead%1:21:00::
+#15 store NOUN store%1:06:00::
+#16 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 more ADV more%4:02:00::
+#21 profitable ADJ profitable%3:00:00::
+In many cases that statement " We break even on our downtown operation and make money on our branches " would be turned around if the cost analysis were recalculated on terms less prejudicial to the old store .
+7
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#12 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#14 make VERB make%2:40:01::
+#31 term NOUN term%1:10:01::,term%1:10:02::
+#32 less ADV less%4:02:00::,less%4:02:01::
+#36 old ADJ old%3:00:01::,old%3:00:02::
+#37 store NOUN store%1:06:00::
+Fear of the competition - always a great motivating force in the American economy - makes retailers who do not have suburban operations exaggerate both the volume and the profitability of their rival 's shiny new branches .
+7
+#5 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#9 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#13 economy NOUN economy%1:14:00::
+#19 not ADV not%4:02:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#26 volume NOUN volume%1:07:03::,volume%1:23:00::
+The fact seems to be that very many large branch stores are uneconomical , that the choice of location in the suburbs is as important as it was downtown , and that even highly suburbanized cities will support only so many big branches .
+7
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 store NOUN store%1:06:00::
+#35 city NOUN city%1:15:00::,city%1:15:01::
+#37 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#38 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#39 so ADV so%4:02:03::,so%4:02:07::
+#41 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+Moreover , the cost of operations is always high in any new store , as the conservative bankers who act as controllers for retail giants are beginning to discover .
+7
+#5 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#7 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#8 high ADJ high%3:00:02::
+#12 store NOUN store%1:06:00::
+#24 giant NOUN giant%1:18:02::
+#26 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#28 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+When all has been said , however , the big branch store remains a major break with history in the development of American retailing .
+8
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 however ADV however%4:02:04::
+#9 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#11 store NOUN store%1:06:00::
+#14 major ADJ major%3:00:05::,major%3:00:06::
+#15 break NOUN break%1:04:01::
+#17 history NOUN history%1:28:02::
+#20 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+Just as the suburban factory may be more convenient than the downtown plant to the worker with a car , the trip to the shopping center may seem far easier than to the downtown department store , though both are the same distance from home .
+10
+#0 just ADV just%4:02:05::
+#4 factory NOUN factory%1:06:00::
+#7 more ADV more%4:02:00::
+#12 plant NOUN plant%1:06:01::
+#15 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#21 trip NOUN trip%1:04:00::
+#28 far ADV far%4:02:02::
+#29 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#42 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#44 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Indeed , there are some cities where the suburban shopping pulls customers who are geographically much nearer to downtown .
+5
+#0 indeed ADV indeed%4:02:03::
+#5 city NOUN city%1:15:00::,city%1:15:01::
+#9 shopping NOUN shopping%1:06:00::
+#10 pull VERB pull%2:35:02::,pull%2:41:00::
+#11 customer NOUN customer%1:18:00::
+Raymond Vernon reports that residents of East St. Louis have been driving across the Mississippi , through the heart of downtown St. Louis and out to the western suburbs for major shopping , simply because parking is easier at the big branches than it is in the heart of town .
+12
+#2 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#4 resident NOUN resident%1:18:01::
+#11 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#14 Mississippi NOUN mississippi%1:17:00::
+#18 heart NOUN heart%1:09:01::,heart%1:15:00::
+#27 western ADJ western%3:00:02::,western%5:00:01:west:00
+#30 major ADJ major%3:00:05::,major%3:00:06::
+#31 shop NOUN shop%1:06:00::
+#33 simply ADV simply%4:02:00::,simply%4:02:02::
+#37 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#40 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#47 heart NOUN heart%1:09:01::,heart%1:15:00::
+To the extent that the problem is merely parking , an aggressive downtown management , like that of Lazarus Brothers in Columbus , Ohio , can fight back successfully by building a garage on the lot next door .
+5
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#13 management NOUN management%1:04:00::,management%1:14:00::
+#21 Columbus NOUN columbus%1:15:00::
+#32 garage NOUN garage%1:06:00::
+#35 lot NOUN lot%1:15:00::
+If the distant patron of the suburban branch has been frightened away from downtown by traffic problems , however , the city store can only pressure the politicians to do something about the highways or await the completion of the federal highway program .
+9
+#2 distant ADJ distant%3:00:01::,distant%3:00:02::,distant%5:00:01:far:00
+#3 patron NOUN patron%1:18:00::
+#15 traffic NOUN traffic%1:14:00::
+#16 problem NOUN problem%1:09:00::,problem%1:26:00::
+#18 however ADV however%4:02:04::
+#21 city NOUN city%1:15:00::,city%1:15:01::
+#22 store NOUN store%1:06:00::
+#24 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#42 program NOUN program%1:09:00::,program%1:09:01::
+And if the affection for the suburban branch reflects a desire to shop with " nice people " , rather than with the indiscriminate urban mass which supports the downtown department store , the central location may be in serious trouble .
+11
+#3 affection NOUN affection%1:12:00::
+#8 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#12 shop VERB shop%2:40:00::
+#15 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#16 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#19 rather ADV rather%4:02:02::
+#24 urban ADJ urban%3:01:00::
+#25 mass NOUN mass%1:14:01::
+#27 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#34 central ADJ central%3:00:01::,central%5:00:00:important:00
+#40 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Today , according to land economist Homer Hoyt , shopping centers and their associated parking lots cover some 46000 acres of land , which is almost exactly the total land area in all the nation 's Central Business Districts put together .
+6
+#13 associated ADJ associate%5:00:00:subordinate:01
+#16 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+#26 exactly ADV exactly%4:02:02::
+#36 central ADJ central%3:00:01::,central%5:00:00:important:00
+#39 put VERB put%2:31:13::,put%2:34:00::
+#40 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+The downtown store continues to offer the great inducement of variety , both within its gates and across the street , where other department stores are immediately convenient for the shopper who wants to see what is available before making up her mind .
+7
+#2 store NOUN store%1:06:00::
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#10 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#15 gate NOUN gate%1:06:00::
+#26 immediately ADV immediately%4:02:00::,immediately%4:02:05::
+#32 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+If anything may be predicted in the quicksilver world of retailing , it seems likely that the suburban branch will come to dominate children 's clothing ( taking the kid downtown is too much of a production ) , household gadgetry and the discount business in big-ticket items .
+4
+#8 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#20 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#27 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#29 kid NOUN kid%1:18:00::
+Department stores were built on dry goods , especially ladies ' fashions , and in this area , in the long run , the suburban branches will be hard put to compete against downtown .
+4
+#8 especially ADV especially%4:02:00::
+#9 lady NOUN lady%1:18:01::,lady%1:18:02::
+#11 fashion NOUN fashion%1:09:00::
+#16 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+If this analysis is correct , the suburban branches will turn out to be what management 's cost accountants refuse to acknowledge , marginal operations rather than major factors .
+5
+#15 management NOUN management%1:04:00::,management%1:14:00::
+#21 acknowledge VERB acknowledge%2:32:00::
+#24 operation NOUN operation%1:04:04::,operation%1:04:06::,operation%1:04:07::,operation%1:22:01::,operation%1:26:00::
+#27 major ADJ major%3:00:05::,major%3:00:06::
+#28 factor NOUN factor%1:08:00::,factor%1:18:00::
+Historically in America the appeal of cities has been their color and life , the variety of experience they offered .
+5
+#4 appeal NOUN appeal%1:07:00::
+#6 city NOUN city%1:15:00::,city%1:15:01::
+#10 color NOUN color%1:07:02::,color%1:07:03::,color%1:07:04::;1:07:03::,color%1:27:00::
+#12 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#15 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+" How ya gonna keep ' em down on the farm " ?
+1
+#4 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+was a question that had to be asked long before they saw Paree .
+1
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+Though Americans usually lived in groups segregated by national origin or religious belief , they liked to work and shop in the noise and vitality of downtown .
+5
+#1 American NOUN american%1:18:00::,american%1:18:01::
+#9 origin NOUN origin%1:15:00::
+#17 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#19 shop VERB shop%2:40:00::
+#22 noise NOUN noise%1:09:00::
+Only a radical change in the nature of the population in the central city would be likely to destroy this preference - and we must now turn our attention to the question of whether such a change , gloomily foreseen by so many urban diagnosticians , is actually upon us .
+12
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 radical ADJ radical%5:00:00:immoderate:00
+#3 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#6 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#20 preference NOUN preference%1:12:00::
+#25 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#26 turn VERB turn%2:30:00::,turn%2:32:14::,turn%2:38:14::
+#28 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#36 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#41 so ADV so%4:02:03::,so%4:02:07::
+#43 urban ADJ urban%3:01:00::
+#47 actually ADV actually%4:02:01::
+In their book American Skyline , Christopher Tunnard and Henry Hope Reed argue that Franklin Roosevelt 's New Deal was what made the modern suburb a possibility - a fine ironical argument , when you consider how suburbanites tend to vote .
+6
+#2 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#12 argue VERB argue%2:32:02::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#29 fine ADJ fine%3:00:00::,fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:thin:01
+#31 argument NOUN argument%1:10:02::
+#38 tend VERB tend%2:42:01::
+The first superhighways - New York 's Henry Hudson and Chicago 's Lake Shore , San Francisco 's Bay Bridge and its approaches , a good slice of the Pennsylvania Turnpike - were built as part of the federal works program which was going to cure the depression .
+8
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 superhighway NOUN superhighway%1:06:00::
+#22 approach NOUN approach%1:04:02::,approach%1:06:00::
+#25 good ADJ good%5:00:00:complete:00
+#26 slice NOUN slice%1:13:00::
+#35 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#45 cure VERB cure%2:29:00::
+#47 depression NOUN depression%1:28:00::
+At the same time , Roosevelt 's Federal Housing Administration , coupled with Henry Morgenthau 's cheap-money policy , permitted ordinary lower-middle-class families to build their own homes .
+5
+#17 policy NOUN policy%1:09:00::,policy%1:10:00::
+#20 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#22 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#26 own ADJ own%5:00:00:personal:00
+#27 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Bankers who had been reluctant to lend without better security than the house itself got that security from the U. S. government ; householders who had been unable to pick up the burden of short-term high interest mortgages found they could borrow for twenty-five years at 4 per cent , under government aegis .
+13
+#6 lend VERB lend%2:40:00::
+#8 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#9 security NOUN security%1:21:00::,security%1:21:01::
+#12 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#14 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#16 security NOUN security%1:21:00::,security%1:21:01::
+#21 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#32 burden NOUN burden%1:06:01::
+#35 high ADJ high%3:00:02::
+#36 interest NOUN interest%1:21:00::
+#38 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#44 year NOUN year%1:28:00::,year%1:28:01::
+#51 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::

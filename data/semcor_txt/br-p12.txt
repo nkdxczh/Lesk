@@ -1,0 +1,723 @@
+ " I had a rather small place of my own .
+4
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 rather ADV rather%4:02:00::,rather%4:02:04::
+#6 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#9 own ADJ own%5:00:00:personal:00
+A nice bachelor apartment in a place called the Lancaster Arms " .
+3
+#1 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#2 bachelor NOUN bachelor%1:18:00::
+#6 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+" Uhhu " , she said , hardly listening as she studied her left eyelid .
+3
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#13 left ADJ left%5:00:00:unexhausted:00
+" And then I had another place farther downtown I used as a studio " .
+3
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#13 studio NOUN studio%1:06:02::
+" I 'm not a man who has many close intimate friends , Carla " , he said , wanting her to know all about him .
+7
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#10 intimate ADJ intimate%5:00:00:close:02
+#11 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#17 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#22 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+" Oh , I 'd drink with newspaper people .
+1
+#5 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+I think I was what you might call a convivial man , and yet it was when I was alone in my studio , doing my work , that I really felt alive .
+7
+#1 think VERB think%2:31:01::,think%2:31:03::
+#7 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#19 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+#22 studio NOUN studio%1:06:02::
+#30 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#31 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#32 alive ADJ alive%3:00:04::
+But I think a man needs at least one intimate friend to communicate with " .
+6
+#2 think VERB think%2:31:01::,think%2:31:03::
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#5 need VERB need%2:42:00::
+#9 intimate ADJ intimate%5:00:00:close:02
+#10 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#12 communicate VERB communicate%2:32:02::
+Pausing , he waited for her to turn , to ask a question .
+3
+#3 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#10 ask VERB ask%2:32:00::,ask%2:32:04::
+She showed no interest at all in the life he had led back home , and it hurt him a little .
+5
+#1 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#3 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#8 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#12 back ADV back%4:02:01::,back%4:02:04::
+#13 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+" Me " ? she asked , turning slowly .
+2
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+" Did you make friends easily " ?
+2
+#4 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#5 easily ADV easily%4:02:01::,easily%4:02:06::
+" Somehow I imagine that as you grew up you were alone a lot .
+2
+#3 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#11 alone ADV alone%4:02:00::,alone%4:02:01::,alone%5:00:00:exclusive:00,alone%5:00:00:unaccompanied:00,alone%5:00:00:unsocial:00
+" I guess so " , she said taking a Kleenex from her purse .
+3
+#3 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+When she had wiped some of the lipstick from her mouth , she stared solemnly at her image in the mirror .
+2
+#3 wipe VERB wipe%2:35:00::
+#17 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+" Are your people still alive " ? he asked , trying to touch a part of her life Alberto had n't discussed ; so he could have something of her for himself .
+8
+#3 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#4 still ADV still%4:02:00::
+#5 alive ADJ alive%3:00:01::
+#9 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 touch VERB touch%2:30:00::,touch%2:37:00::
+#15 part NOUN part%1:06:00::,part%1:15:00::,part%1:24:00::
+#27 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" You talk so well , Carla " , he went on .
+2
+#3 so ADV so%4:02:03::,so%4:02:07::
+#4 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+" You seem to have read so much , you have a natural gift for words " , he added , trying to flatter her vanity .
+10
+#5 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#6 so ADV so%4:02:03::,so%4:02:07::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+#13 gift NOUN gift%1:09:00::
+#15 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#19 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#21 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#23 flatter VERB flatter%2:32:00::
+#25 vanity NOUN vanity%1:12:00::
+" You must have been good at history at school .
+3
+#5 good ADJ best%3:00:00::,good%3:00:01::
+#7 history NOUN history%1:28:00::
+#9 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+Where did you go to school " ?
+1
+#5 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+" What is this " ? she asked , turning suddenly .
+2
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+#9 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+" Do n't you know all about me by this time ?
+2
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 time NOUN time%1:11:00::
+My name 's Carla Caneli .
+1
+#1 name NOUN name%1:14:00::
+You know something more about me every day , do n't you ?
+1
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+Would you be happier if I made up some stories about my life , told you some lies ?
+4
+#3 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#9 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#17 lie NOUN lie%1:10:00::
+Why are you trying to worry me " ?
+2
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 worry VERB worry%2:37:00::,worry%2:37:01::
+" I 'm not trying to worry you " .
+2
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 worry VERB worry%2:37:00::,worry%2:37:01::
+" Well , all right then " .
+1
+#5 then ADV then%4:02:02::
+The cleansing tissues she had been using had been falling on the floor , and he got up and picked up one , then another , hoping she would notice what he was doing .
+5
+#2 tissue NOUN tissue%1:27:02::
+#6 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#9 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#12 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#23 then ADV then%4:02:00::
+At home he had been a clean orderly man , and now he had to hide his annoyance .
+3
+#6 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Was she just naturally sloppy about everything but her physical appearance ?
+5
+#2 just ADV just%4:02:00::,just%4:02:03::
+#3 naturally ADV naturally%4:02:00::,naturally%4:02:01::,naturally%4:02:02::
+#4 sloppy ADJ sloppy%5:00:00:emotional:00
+#9 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#10 appearance NOUN appearance%1:04:02::,appearance%1:07:00::
+he wondered .
+1
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+Would he have to clean up after her every day , clean the kitchen , the bathroom , and get down on his knees and scrub the kitchen floor , then hang up her dresses , pick up her stockings , make the bed while she lay around ?
+7
+#13 kitchen NOUN kitchen%1:06:00::
+#27 kitchen NOUN kitchen%1:06:00::
+#28 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#30 then ADV then%4:02:00::
+#34 dress NOUN dress%1:06:00::
+#41 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#43 bed NOUN bed%1:06:00::
+He straightened up , ready to vent his exasperation , then grew afraid .
+4
+#4 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#6 vent VERB vent%2:32:00::
+#10 then ADV then%4:02:00::
+#11 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+If he dwelt on the indignities he suffered he would lose all respect for her , and without the respect he might lose his view of her , too .
+7
+#2 dwell VERB dwell%2:31:00::
+#7 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#10 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#12 respect NOUN respect%1:04:03::,respect%1:07:00::,respect%1:09:01::,respect%1:26:00::
+#19 respect NOUN respect%1:04:03::,respect%1:07:00::,respect%1:09:01::,respect%1:26:00::
+#22 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#28 too ADV too%4:02:01::
+" What 's the matter " ? she asked suddenly .
+1
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+Nothing at all " , he said quietly .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Are those the only shoes you have , Sam " ?
+2
+#5 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" The heavy thick soles .
+3
+#2 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#3 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#4 sole NOUN sole%1:08:00::
+Look at them " .
+1
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+" They 're an expensive English shoe for walking around a lot .
+1
+#6 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+" Sam , no one around here wears such heavy soles .
+4
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#7 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#9 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#10 sole NOUN sole%1:08:00::
+" Maybe I could " , he said , surprised that she could turn from herself and notice anything about him .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 'll get an elegant pair of thin soled Italian shoes tomorrow , Carla " .
+2
+#8 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#11 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+" And I do n't know why you want to go on wearing that outfit " , she said , making a face .
+5
+#8 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#12 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#20 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He had put on the gray jacket and the dark gray slacks and the fawn colored shirt he had worn that first night in Rome when he had encountered her on the street .
+8
+#5 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#9 dark ADJ dark%3:00:01::,dark%3:00:02::,dark%5:00:00:black:02,dark%5:00:00:brunet:00
+#10 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#11 slack NOUN slacks%1:06:00::
+#14 fawn NOUN fawn%1:07:00::
+#15 colored ADJ colored%5:00:00:black:02
+#19 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#21 first ADJ first%3:00:00::,first%4:02:00::
+Ca n't you wear something else and look a little more as though you belonged " ?
+4
+#3 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#7 look VERB look%2:39:01::,look%2:42:02::
+#10 more ADV more%4:02:00::
+#14 belong VERB belong%2:42:02::,belong%2:42:07::
+" I do n't mind at all " , he said , delighted with her attention .
+2
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+Changing his clothes , he put on his dark-blue flannel suit , and laid away the gray jacket with the feeling that he might be putting it aside for good .
+6
+#9 flannel NOUN flannel%1:06:03::
+#10 suit NOUN suit%1:06:00::
+#13 lay VERB lay%2:35:01::
+#16 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#20 feeling NOUN feeling%1:09:03::
+#25 put VERB put%2:35:00::,put%2:35:05::
+But it was a hopeful sign , he told himself .
+2
+#5 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+She no longer wanted anything about him to remind her of the circumstances of their meeting that first night in Parioli .
+4
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#12 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#15 meeting NOUN meeting%1:11:00::,meeting%1:14:01::
+#17 first ADJ first%3:00:00::,first%4:02:00::
+That day they loafed around , just getting the feel of the city .
+4
+#4 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+#6 just ADV just%4:02:00::,just%4:02:03::
+#9 feel NOUN feel%1:04:00::
+#12 city NOUN city%1:15:00::,city%1:15:01::
+They looked at the ruins of the old Roman wall on the lower Via Veneto , then they went to the Farnese Gardens .
+3
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 Roman ADJ roman%3:01:02::
+#16 then ADV then%4:02:00::
+She had some amusing scandal about the Farneses in the old days .
+2
+#10 old ADJ old%3:00:01::
+#11 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+Then they took a taxi to Trastevere .
+2
+#0 then ADV then%4:02:00::
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+" There 's a church you should see " , she said .
+2
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+And when they stood by the fountain in the piazza looking at Santa Maria he had to keep a straight face , not letting on he had been there with Alberto .
+6
+#3 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#6 fountain NOUN fountain%1:06:02::
+#9 piazza NOUN piazza%1:15:00::
+#10 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#17 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#28 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He let her tell him all about the church .
+2
+#1 let VERB let%2:30:01::,let%2:41:00::
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Then they had dinner .
+2
+#0 then ADV then%4:02:00::
+#2 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+All evening she was eloquent and pleased with herself .
+1
+#1 evening NOUN evening%1:28:00::,evening%1:28:02::
+And in the morning when he woke up at ten the church bells were ringing .
+2
+#3 morning NOUN morning%1:28:00::,morning%1:28:01::
+#14 ring VERB ring%2:39:00::,ring%2:39:01::
+He had never heard so many bells , and as he lay there listening , he thought of her scolding him for his remarks when he had looked up at the obelisk and the church at the top of the Spanish Steps .
+6
+#2 never ADV never%4:02:00::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#6 bell NOUN bell%1:28:00::
+#27 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#31 obelisk NOUN obelisk%1:06:00::
+#37 top NOUN top%1:15:00::,top%1:15:01::
+It was a good thing that she clung to her religion , he thought .
+3
+#3 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#4 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#13 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+She might like to take him to St. Peter 's .
+1
+#4 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+" Carla , wake up " , he said shaking her .
+2
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+You could take me to St. Peter 's " .
+1
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+" Come on , you 'll be late " .
+1
+#7 late ADJ late%3:00:00::
+" I think I 'll sleep in this morning " , she said drowsily , and as she snuggled against him , he wondered if she ever went to church .
+5
+#2 think VERB think%2:31:01::,think%2:31:03::
+#8 morning NOUN morning%1:28:00::,morning%1:28:01::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#26 ever ADV ever%4:02:05::
+Why did he want her to go to church ?
+1
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+he wondered .
+1
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+Probably because it was a place where she might get a feeling of certainty and security .
+3
+#5 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#11 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#15 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+It was too bad he had no feeling himself for church .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Not his poor mother 's fault .
+3
+#2 poor ADJ poor%5:00:00:unfortunate:00
+#3 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#5 fault NOUN fault%1:07:01::
+As for himself , he just did n't have the temperament for it .
+3
+#5 just ADV just%4:02:00::,just%4:02:03::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 temperament NOUN temperament%1:07:00::
+From the time he had been at college he had achieved a certain tranquility and composure by accepting the fact that there were certain things he could never know .
+8
+#2 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#7 college NOUN college%1:14:00::,college%1:14:01::
+#12 certain ADJ certain%5:00:00:definite:00
+#17 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#23 certain ADJ certain%5:00:00:definite:00
+#24 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#27 never ADV never%4:02:00::
+#28 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Then he thought of those Old Testament figures on the ceiling of the Sistine Chapel .
+3
+#0 then ADV then%4:02:00::
+#7 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#10 ceiling NOUN ceiling%1:06:00::
+Just figures out of a tribal folklore .
+2
+#0 just ADV just%4:02:00::,just%4:02:03::
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+Could he honestly believe it would be good for Carla to have those old prophets gripping her imagination now ?
+7
+#2 honestly ADV honestly%4:02:01::
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#11 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#13 old ADJ old%3:00:01::
+#14 prophet NOUN prophet%1:18:00::
+#15 grip VERB grip%2:37:00::
+#18 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Being a woman though , she would take only what she needed from church .
+2
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 need VERB need%2:42:00::
+Or a Protestant , or one of those amusing dogmatic atheists , or a strict orthodox Communist .
+2
+#15 orthodox ADJ orthodox%3:00:00::
+#16 communist NOUN communist%1:18:00::
+It was the times , he was sure .
+1
+#3 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+All the ideologies changing from day to day , right under his eyes , so how could a man look to any one of them for an enlargement of his freedom ?
+7
+#2 ideology NOUN ideology%1:09:01::
+#3 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#9 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+#18 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Look somewhere else .
+1
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+Just the same , he thought , pondering over it , it would be a good thing for a girl like Carla if she got up and went to church .
+4
+#5 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#15 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#16 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#19 girl NOUN girl%1:18:01::,girl%1:18:03::
+A half hour later he got her up to go out for breakfast so the Ferraros , hearing them hurrying down the stairs , would think they were going to a late mass .
+4
+#3 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#13 so CONJ so%4:02:10::
+#25 think VERB think%2:31:01::,think%2:31:03::
+#31 late ADJ late%3:00:00::,late%3:00:01::,late%3:00:02::
+It seemed to him that if the Ferraros felt sure of them , could place them , it would help him to feel more sure of himself with Carla .
+3
+#8 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#19 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#23 more ADV more%4:02:00::,more%4:02:01::
+" Since we 're having coffee with them this afternoon " , he said , " I think I 'll ask the daughter if we can pay her to come in every day to clean for us " .
+6
+#4 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#5 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 think VERB think%2:31:01::,think%2:31:03::
+#26 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#29 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+And he waited for her to say , " Oh , no , I can do it , Sam .
+2
+#2 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+There 's so little to do " .
+2
+#2 so ADV so%4:02:03::,so%4:02:07::
+#3 little ADV little%1:23:00::
+" Why not " ? she said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 'm not good at that kind of thing " .
+2
+#4 good ADJ best%3:00:00::,good%3:00:01::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+" This afternoon let 's take an air with them .
+1
+#7 air NOUN air%1:04:01::,air%1:07:00::
+Let 's be fine superior people of great dignity " , he said as if he were joking .
+4
+#3 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#4 superior ADJ superior%3:00:01::
+#7 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" If you find it necessary , Sam , go ahead " , she said , turning on the stair .
+4
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#5 necessary ADJ necessary%3:00:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+Her words remained with him , worrying him for hours .
+3
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#6 worry VERB worry%2:37:00::,worry%2:37:01::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+He did n't know how she would behave with other people .
+3
+#7 behave VERB behave%2:41:00::,behave%2:41:01::
+#9 other ADJ other%3:00:00::
+#10 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+When they walked into the Ferraro apartment , the old lady , bowing and smiling , said softly .
+5
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#9 old ADJ old%3:00:01::,old%3:00:02::
+#10 lady NOUN lady%1:18:01::,lady%1:18:02::
+#12 bow VERB bow%2:38:00::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Ciao , " and put out her hand .
+1
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+Her little brown face wrinkled up , her brown eyes gleamed , and with her little gestures she said all the courteous things .
+4
+#3 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#9 eye NOUN eye%1:08:00::,eye%1:09:01::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+Agnese , smiling too , said , " ' Ello " , and then more slowly , " I am happy " .
+4
+#3 too ADV too%4:02:01::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 more ADV more%4:02:00::,more%4:02:01::
+#20 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+And they sat down and began their little coffee party .
+3
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#8 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+#9 party NOUN party%1:14:00::
+The Ferraros offered them biscuits with the coffee .
+2
+#4 biscuit NOUN biscuit%1:13:00::
+#7 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+Acting only as interpreter Carla , her hands folded on her lap , was utterly impersonal .
+5
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 hand NOUN hand%1:08:00::,hand%1:10:01::
+#8 fold VERB fold%2:35:00::
+#11 lap NOUN lap%1:26:00::
+#15 impersonal ADJ impersonal%5:00:00:objective:00
+She would turn to them , then turn to him , then turn again .
+5
+#2 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#6 then ADV then%4:02:00::
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#11 then ADV then%4:02:00::
+#12 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+Watching her , he felt like a spectator at a tennis game , with the ball being bounced back and forth .
+5
+#0 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#4 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#11 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#15 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#17 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+Signora Ferraro , bobbing her head encouragingly , asked Sam about Canada , having a special interest .
+4
+#3 bob VERB bob%2:32:00::
+#5 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Carla translated .
+1
+#1 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+The old woman had a nephew from North Italy , a poor boy from a lumber mill who had got tired of the seasonal unemployment , and who had migrated to Canada to work on the railway .
+6
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 poor ADJ poor%3:00:00::,poor%3:00:03::
+#12 boy NOUN boy%1:18:03::
+#15 lumber NOUN lumber%1:27:00::
+#16 mill NOUN mill%1:06:00::
+#19 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+For a year the boy had lived in the bush in a boxcar .
+4
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#4 boy NOUN boy%1:18:03::
+#6 live VERB live%2:42:08::
+#9 bush NOUN bush%1:15:00::
+Did many of Sam 's countrymen live in boxcars in the bush ?
+3
+#5 countryman NOUN countryman%1:18:00::
+#6 live VERB live%2:42:08::
+#11 bush NOUN bush%1:15:00::
+Had Sam ever lived in a boxcar ?
+2
+#2 ever ADV ever%4:02:05::
+#3 live VERB live%2:42:08::
+she wanted to know .
+1
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Regretfully Sam explained that he had no experience with boxcars .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Just the same , the old woman said , she would write to her nephew in his boxcar and tell him she had met a nice man from his adopted country .
+7
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#19 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#23 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#25 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+#26 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#30 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+And Sam thanked her , and hoped he might meet her nephew back home , and asked her if she had any further news of the Pope .
+5
+#9 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#13 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#16 ask VERB ask%2:32:00::,ask%2:32:04::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 further ADJ further%5:00:00:far:00
+A very great Pope , this one , the old woman explained , her black eyes sparkling .
+4
+#2 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#14 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#15 eye NOUN eye%1:08:00::,eye%1:09:01::
+#16 sparkling ADJ sparkling%5:00:00:starry:00
+But very mystical too .
+1
+#3 too ADV too%4:02:01::
+It was said that he had had a vision .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Just as thousands that day in Portugal had seen the sun dancing in the sky , he had seen the same thing later in his own garden , and she turned to Agnese for confirmation .
+9
+#4 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#10 sun NOUN sun%1:17:00::,sun%1:17:01::
+#18 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 same ADJ same%3:00:00::,same%3:00:02::
+#22 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#25 own ADJ own%5:00:00:personal:00
+#26 garden NOUN garden%1:06:00::
+#34 confirmation NOUN confirmation%1:10:01::
+Agnese had been sitting quietly , listening with the serenity of the unaware .
+1
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+Now a little flush came on her pale homely face and enchantment in her eyes .
+7
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 flush NOUN flush%1:04:00::
+#7 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#8 homely ADJ homely%5:00:00:unattractive:00
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#11 enchantment NOUN enchantment%1:12:00::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+The Holy Father would die soon , she said to Carla , so she could translate for Sam , although he had a brilliant doctor , a man who did not need the assistance of those doctors offered by the great rulers of the world .
+14
+#4 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#5 soon ADV soon%4:02:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 so CONJ so%4:02:10::
+#15 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 brilliant ADJ brilliant%5:00:00:impressive:00,brilliant%5:00:00:superior:02
+#24 doctor NOUN doctor%1:18:00::
+#27 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#31 need VERB need%2:42:00::
+#36 doctor NOUN doctor%1:18:00::
+#40 great ADJ great%5:00:00:good:01,great%5:00:01:extraordinary:00
+#41 ruler NOUN ruler%1:18:00::
+#44 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Yes , the Pope could die and quickly be made a saint .
+3
+#5 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 saint NOUN saint%1:18:00::
+No , he was indeed a saint now .
+3
+#4 indeed ADV indeed%4:02:03::
+#6 saint NOUN saint%1:18:00::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Nodding approvingly and swelling with importance , the old lady whispered confidentially .
+3
+#0 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#8 old ADJ old%3:00:01::,old%3:00:02::
+#9 lady NOUN lady%1:18:01::,lady%1:18:02::
+There was a certain discontent among the cardinals .
+1
+#7 cardinal NOUN cardinal%1:05:00::
+The Pope , in the splendor of his great intellect , had neglected them a little .
+1
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+There would be changes made , and Signor Raymond should understand that when the Pope died it was like the end of a regime in Rome .
+6
+#3 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#15 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#20 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#23 regime NOUN regime%1:14:00::
+Jobs would be lost and new faces would become prominent .
+4
+#3 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#5 new ADJ new%3:00:00::
+#6 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#8 become VERB become%2:30:00::,become%2:42:01::
+Did Signor Raymond understand ?
+1
+#3 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Indeed he did , Sam said solemnly , trying to get Carla 's eye .
+4
+#0 indeed ADV indeed%4:02:03::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#10 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+Surely she could see that these women were her Italians , too , he thought .
+4
+#0 surely ADV surely%4:02:00::
+#9 Italian NOUN italian%1:18:00::
+#11 too ADV too%4:02:01::
+#14 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Devout , orthodox and plain like a family she might meet in Brooklyn or Malta or Ireland .
+4
+#2 orthodox ADJ orthodox%3:00:00::
+#4 plain ADJ plain%3:00:01::
+#7 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#10 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+But Carla ; eyes were on Agnese whose glowing face and softening eyes gave her a look of warmth and happiness .
+4
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#12 eye NOUN eye%1:08:00::,eye%1:09:01::
+#16 look NOUN look%1:07:00::
+And Carla , watching in wonder , turned to Sam .
+1
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+" It means so much to her .
+2
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#3 so ADV so%4:02:03::,so%4:02:07::
+It 's like a flame , I guess " , she said in a dreamy tone .
+2
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::

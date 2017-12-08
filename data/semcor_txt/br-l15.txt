@@ -1,0 +1,604 @@
+" That damn door " , said the police chief .
+2
+#2 damn ADJ damn%5:00:00:cursed:00
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Madden 's dark face wore a meditative look .
+2
+#4 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#7 look NOUN look%1:04:00::,look%1:07:01::
+" If there was collusion between an outside murderer and a member of the household it would be an elementary precaution to check on the door later .
+3
+#11 member NOUN member%1:18:00::,member%1:24:00::
+#22 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#26 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+And it makes a very poor red herring for an inside job .
+2
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+Much better to break a cellar window " .
+3
+#1 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#3 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#6 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+" Do n't forget , there was the hope it would pass for a natural death " , Pauling reminded him .
+3
+#8 hope NOUN hope%1:09:00::,hope%1:18:00::
+#11 pass VERB pass%2:41:04::,pass%2:41:07::,pass%2:41:08::,pass%2:41:11::
+#14 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+" Well , with a house as big as that there must be at least one cellar window that would n't be noticed right away unless there was a police investigation " .
+3
+#5 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#7 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#17 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+And a pane of glass is n't hard to " -
+1
+#7 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+The telephone interrupted him .
+2
+#1 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#2 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+He scooped up the receiver and said , " Police chief " , into the mouthpiece , and then , " Oh yes , Mr. Benson .
+4
+#4 receiver NOUN receiver%1:06:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 mouthpiece NOUN mouthpiece%1:06:03::
+#18 then ADV then%4:02:00::
+With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , " Uh-huh " and " I see " at intervals .
+8
+#3 hand NOUN hand%1:08:00::,hand%1:10:01::
+#5 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#7 pad NOUN pad%1:27:01::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#16 note NOUN note%1:10:00::,note%1:10:02::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#29 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#32 interval NOUN interval%1:28:00::
+At last he said , " Well , thank you for calling , Mr. Benson .
+2
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Although there was no doubt in my mind and we 've been handling it as one I 'm glad to have it made official " .
+2
+#12 handle VERB handle%2:41:00::,handle%2:41:03::
+#22 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" Coroner " , he said to Madden .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" He 's just heard from the pathologist who says Mrs. Meeker apparently died from suffocation " .
+2
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Pauling looked at his notes .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 note NOUN note%1:10:00::,note%1:10:02::
+" Many minute hemorrhages in the lungs ; particles of lint and thread in the mouth and nostrils .
+3
+#8 particle NOUN particle%1:17:00::,particle%1:27:01::
+#12 thread NOUN thread%1:06:00::
+#15 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+Scrapings from the bed linen identical with the lint and thread found in the nasal and oral cavities .
+2
+#5 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+#10 thread NOUN thread%1:06:00::
+No other cause of death apparent .
+1
+#2 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+Trachea clear of mucus and foreign objects .
+3
+#1 clear ADJ clear%3:00:00::,clear%5:00:00:discerning:00,clear%5:00:00:unobstructed:00,clear%5:00:00:unqualified:02,clear%5:00:00:untroubled:00
+#5 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#6 object NOUN object%1:03:00::
+Brain examined for thrombosis , clot or hemorrhage .
+3
+#0 brain NOUN brain%1:08:00::,brain%1:13:00::
+#1 examine VERB examine%2:31:00::,examine%2:32:01::
+#5 clot NOUN clot%1:08:00::
+No signs of these , no gross hemorrhage of lungs , heart , brain or stomach " .
+5
+#1 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#6 gross ADJ gross%5:00:00:fat:01
+#11 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#13 brain NOUN brain%1:08:00::,brain%1:13:00::
+#15 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+Oh , the time of death .
+1
+#3 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+The duration of the digestive process varies , the pathologist says , but the empty stomach and the findings in the upper gastrointestinal tract indicate that Mrs. Meeker died several hours after her seven o ' clock dinner .
+9
+#5 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#15 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+#18 finding NOUN finding%1:04:00::,finding%1:04:01::
+#21 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#23 tract NOUN tract%1:08:00::
+#28 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#30 hour NOUN hour%1:07:00::,hours%1:28:01::
+Probably around midnight , give or take an hour either way " .
+2
+#8 hour NOUN hour%1:07:00::,hours%1:28:01::
+#10 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+" So there it is " , he said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+However likely it was , Pauling said , he could n't limit himself to it .
+3
+#0 however ADV however%4:02:00::,however%4:02:02::
+#1 likely ADJ likely%3:00:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He had to look for other prospects , other motives until more conclusive evidence pointing to Johnston came to light .
+5
+#1 have VERB have%2:42:08::
+#6 prospect NOUN prospect%1:26:00::
+#9 motive NOUN motive%1:03:00::
+#11 more ADV more%4:02:00::,more%4:02:01::
+#14 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+Madden , with his investigation centered on the fraud , said that tomorrow he would go to the Bronx bank through which Mrs. Meeker 's checks to Johnston had cleared .
+4
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#25 check NOUN check%1:21:00::
+#29 clear VERB clear%2:32:01::,clear%2:38:01::,clear%2:40:07::,clear%2:41:01::
+He might have been in collusion with Johnston on the fraud ; he might be Mrs. Meeker 's murderer or have played some part in her death .
+1
+#23 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+This was Madden 's suggestion ; the police chief shook his head over it .
+2
+#9 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+If Arthur Williams was involved in the fraud or the murder , then he too had another identity .
+4
+#12 then ADV then%4:02:02::
+#14 too ADV too%4:02:01::
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+No one the Medfield police had questioned professed to know any more about him than about Johnston .
+1
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Scholarship applicant ?
+1
+#0 scholarship NOUN scholarship%1:21:00::
+Pauling looked doubtful .
+2
+#1 look VERB look%2:39:01::,look%2:42:02::
+#2 doubtful ADJ doubtful%5:00:00:unsettled:02
+Madden explained that he was thinking of an application sent directly to Mrs. Meeker .
+2
+#8 application NOUN application%1:10:00::
+#9 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock .
+10
+#0 then ADV then%4:02:00::
+#2 ask VERB ask%2:32:01::,ask%2:32:05::
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 phone NOUN phone%1:06:00::
+#8 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+#13 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#17 just ADV just%4:02:05::
+#18 leave VERB leave%2:38:00::,leave%2:41:00::
+#20 keep VERB keep%2:41:05::
+#23 date NOUN date%1:14:00::,date%1:18:00::,date%1:28:05::
+Madden said that he would see him at two and made another call , this one to Mrs. Meeker 's lawyers .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#12 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+Mr. Hohlbein was out for the day , but Mr. Garth would be free at one-thirty .
+2
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#13 free ADJ free%5:00:01:unoccupied:00,free%5:00:02:unoccupied:00
+The secretary 's tone indicated that an appointment at such short notice was a concession for which Madden should be duly grateful .
+5
+#3 tone NOUN tone%1:07:01::,tone%1:10:00::,tone%1:10:01::,tone%1:10:02::
+#4 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#7 appointment NOUN appointment%1:14:00::
+#11 notice NOUN notice%1:10:03::
+#14 concession NOUN concession%1:10:02::
+He had lunch with Pauling .
+1
+#1 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+Promptly at one-thirty he entered Hohlbein and Garth 's elegant suite of offices in Medfield 's newest professional building .
+7
+#0 promptly ADV promptly%4:02:00::
+#4 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#10 suite NOUN suite%1:14:01::
+#12 office NOUN office%1:06:00::
+#16 new ADJ new%3:00:00::
+#17 professional ADJ professional%3:01:01::
+#18 building NOUN building%1:06:00::
+He disliked Garth on sight , conservative clothes and haircut , smile a shade too earnestly boyish for a man who must be well into his thirties , handclasp too consciously quick and firm .
+7
+#4 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#7 clothes NOUN clothes%1:06:00::
+#9 haircut NOUN haircut%1:08:00::
+#13 shade NOUN shade%1:07:00::
+#19 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#31 quick ADJ quick%5:00:00:active:01,quick%5:00:00:hurried:00,quick%5:00:02:fast:01
+#33 firm ADJ firm%5:00:00:forceful:00,firm%5:00:00:hard:01,firm%5:00:00:resolute:00,firm%5:00:00:secure:02
+Youngish man on the make , Madden labeled him , and was ready to guess that in a correct , not too pushing fashion , the junior partner of the firm had political ambitions ; that Mrs. Garth would be impeccably suitable as the wife of a rising young lawyer ; that there were three children , two boys and a girl ; that she was active in the Woman 's Club and he in Lions , Rotary , and Jaycee ; and finally , that neither of them had harbored an unorthodox opinion since their wedding day .
+9
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#23 fashion NOUN fashion%1:07:00::
+#27 partner NOUN partner%1:18:02::
+#31 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#47 rising ADJ rising%5:00:00:ascending:00
+#58 boy NOUN boy%1:18:03::
+#61 girl NOUN girl%1:18:01::,girl%1:18:03::
+#90 harbor VERB harbor%2:39:00::
+Madden knew that he could be completely wrong about all this , but also knew that he would go right on disliking Garth .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#7 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#14 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#19 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair , which would not , he said more than once , have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it .
+6
+#9 refer VERB refer%2:32:00::,refer%2:42:00::
+#18 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+#22 not ADV not%4:02:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 once ADV once%4:02:00::
+#31 ever ADV ever%4:02:05::
+Madden regretted not being able to find fault with so true a statement .
+4
+#2 not ADV not%4:02:00::
+#4 able ADJ able%3:00:00::
+#9 so ADV so%4:02:03::,so%4:02:07::
+#10 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+He asked to see a copy of Mrs. Meeker 's will .
+4
+#1 ask VERB ask%2:32:01::,ask%2:32:05::
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#5 copy NOUN copy%1:10:00::
+#10 will NOUN will%1:10:00::
+Garth brought one out .
+1
+#3 out ADV out%4:02:04::
+The date , October 8 , 1957 , immediately caught the inspector 's eye .
+3
+#1 date NOUN date%1:14:00::,date%1:28:00::,date%1:28:03::,date%1:28:05::
+#9 catch VERB catch%2:35:07::,catch%2:36:12::,catch%2:39:01::,catch%2:39:12::
+#11 inspector NOUN inspector%1:18:01::
+" Fairly recent " , he remarked .
+3
+#1 fairly ADV fairly%4:02:02::
+#2 recent ADJ recent%5:00:00:past:00
+#6 remark VERB remark%2:32:01::
+" Was she in the habit of making new wills " ?
+4
+#5 habit NOUN habit%1:04:02::
+#7 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#8 new ADJ new%3:00:00::
+#9 will NOUN will%1:10:00::
+She had reason to change the one she made right after Mr. Meeker 's death .
+3
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#2 reason NOUN reason%1:09:01::,reason%1:16:00::
+#9 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+Her estate had grown considerably .
+2
+#1 estate NOUN estate%1:21:02::
+#3 grow VERB grow%2:30:04::
+She wanted to make a more equitable distribution of it among the groups that would benefit the most ; particularly the scholarship fund .
+6
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 more ADV more%4:02:00::,more%4:02:01::
+#6 equitable ADJ equitable%3:00:00::
+#19 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#21 scholarship NOUN scholarship%1:21:00::
+At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth " .
+8
+#2 time NOUN time%1:11:00::
+#4 will NOUN will%1:10:00::
+#19 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#22 just ADV just%4:02:05::
+#24 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#26 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#27 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+" Mr. Hohlbein and I have noticed some lapses since , though .
+1
+#8 lapse NOUN lapse%1:04:01::
+Most of them this past year , I 'd say .
+2
+#5 year NOUN year%1:28:00::,year%1:28:01::
+#9 say VERB say%2:32:01::
+Even two or three years ago I doubt that she 'd have become involved in this unfortunate Johnston affair .
+4
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#7 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#12 become VERB become%2:30:00::,become%2:42:01::
+#18 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+She 'd have consulted us , you see .
+1
+#7 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+She always did before , and showed the utmost confidence in whatever we advised " .
+3
+#1 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#3 before ADV before%4:02:03::
+#6 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+The inspector nodded , doubting this .
+3
+#1 inspector NOUN inspector%1:18:01::
+#2 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#4 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+Mrs. Meeker had n't struck him as ready to seek anyone 's advise , least of all Garth 's .
+2
+#4 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+#7 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+It would have been Hohlbein who handled her affairs .
+2
+#6 handle VERB handle%2:41:00::,handle%2:41:03::
+#8 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+Madden settled back to read the will .
+3
+#1 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+#4 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#6 will NOUN will%1:10:00::
+He skimmed over the millions that went to Meeker Park , Medfield Hospital , the civic center , the Public Health Nursing Association , the library , and so on , pausing when he came to the scholarship fund .
+3
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#34 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#37 scholarship NOUN scholarship%1:21:00::
+Two millions were added to what had been set aside for it in Mrs. Meeker 's lifetime , and the proviso made that as long as Brian Thayer continued to discharge his duties as administrator of the fund to the satisfaction of the board of trustees ( hereinafter appointed by the bank administering the estate ) he was to be retained in his present capacity at a salary commensurate with the increased responsibilities enlargement of the fund would entail .
+10
+#3 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#28 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#48 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#51 bank NOUN bank%1:14:00::,bank%1:21:00::,bank%1:21:01::
+#52 administer VERB administer%2:41:00::
+#54 estate NOUN estate%1:21:02::
+#63 present ADJ present%3:00:01::
+#64 capacity NOUN capacity%1:04:01::
+#78 entail VERB entail%2:42:01::
+A splendid vote of confidence in Thayer , Madden reflected .
+1
+#9 reflect VERB reflect%2:31:00::
+Tenure , too .
+2
+#0 tenure NOUN tenure%1:28:00::
+#2 too ADV too%4:02:01::
+Very nice for him .
+1
+#1 nice ADJ nice%3:00:00::,nice%5:00:02:precise:00
+He went on to personal bequests , a list of names largely unknown to him .
+2
+#8 list NOUN list%1:10:00::
+#10 name NOUN name%1:14:00::
+Twenty-five thousand to each of the great-nieces in Oregon ( not much to blood relatives out of millions ) ten thousand to this friend and that , five thousand to another ; to Brian Thayer , the sum of ten thousand dollars ; to the Pecks , ten thousand each ; to Joan Sheldon the conditional bequest of ten thousand to be paid to her in the event that she was still in Mrs. Meeker 's employ at the time of the latter 's death .
+7
+#23 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#37 sum NOUN sum%1:21:00::
+#55 conditional ADJ conditional%3:00:00::
+#62 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#71 still ADV still%4:02:00::
+#79 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#82 latter ADJ latter%3:00:00::
+( No additional five thousand for each year after Joan 's twenty-first birthday ; Mrs. Meeker had n't got around to taking care of that . )
+1
+#7 year NOUN year%1:28:00::,year%1:28:01::
+Too bad , Madden thought .
+1
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Joan Sheldon had earned the larger bequest .
+1
+#5 large ADJ large%3:00:00::,large%5:00:00:significant:00
+Mr. Hohlbein was left twenty thousand , Garth ten .
+1
+#3 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+There were no other names Madden recognized .
+3
+#3 other ADJ other%3:00:00::
+#4 name NOUN name%1:14:00::
+#6 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+Arthur Williams 's might well have been included , he felt .
+2
+#7 include VERB include%2:31:00::,include%2:41:03::
+#10 feel VERB feel%2:31:00::,feel%2:39:00::
+Mrs. Meeker had spent a small fortune on a search for him but had made no provision for him in her will if he should be found after her death , and had never mentioned his name to her lawyers .
+5
+#16 provision NOUN provision%1:10:00::
+#21 will NOUN will%1:10:00::
+#26 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#33 never ADV never%4:02:00::
+#36 name NOUN name%1:14:00::
+Madden took up this point with Garth , who shrugged it off .
+1
+#4 point NOUN point%1:07:01::,point%1:09:01::,point%1:09:02::,point%1:10:01::,point%1:24:04::
+" Old people have their idiosyncrasies " .
+3
+#1 old ADJ old%3:00:01::,old%3:00:02::
+#2 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+" This one came a bit high at thirty thousand or more " .
+1
+#6 high ADJ high%3:00:02::
+" Well , she had a number of them where money was concerned " , Garth said .
+4
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#12 concern VERB concern%2:42:00::,concern%2:42:01::
+#16 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Sometimes we 'd have trouble persuading her to make tax-exempt charitable contributions , and I 've known her to quarrel with a plumber over a bill for fixing a faucet ; the next moment she 'd put another half million into the scholarship fund or thirty thousand into something as impractical as this unfortunate Johnston affair .
+12
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#11 charitable ADJ charitable%5:00:00:kind:00
+#20 quarrel VERB quarrel%2:32:00::
+#26 bill NOUN bill%1:10:01::
+#28 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+#33 next ADJ next%5:00:00:incoming:00,next%5:00:00:succeeding:00
+#34 moment NOUN moment%1:28:00::,moment%1:28:01::
+#37 put VERB put%2:35:00::,put%2:35:05::
+#43 scholarship NOUN scholarship%1:21:00::
+#51 impractical ADJ impractical%3:00:00::
+#56 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+Madden inquired next about the audit of the scholarship fund .
+2
+#1 inquire VERB inquire%2:32:01::
+#8 scholarship NOUN scholarship%1:21:00::
+There was an annual audit , Garth informed him .
+1
+#7 inform VERB inform%2:32:00::,inform%2:32:10::
+No discrepancies or shortages had ever been found .
+1
+#5 ever ADV ever%4:02:05::
+Brian Thayer was a thoroughly honest and competent administrator .
+1
+#4 thoroughly ADV thoroughly%4:02:01::
+His salary had reached the ten thousand mark .
+2
+#3 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#7 mark NOUN mark%1:10:03::
+His expenses ran another four or five thousand .
+1
+#2 run VERB run%2:42:07::
+The lawyer did n't know him very well although he saw him occasionally at some dinner party - Thayer , like himself , Madden reflected , was the extra man so prized by hostesses - and found him easy enough to talk to .
+6
+#4 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#24 reflect VERB reflect%2:31:00::
+#29 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#30 so ADV so%4:02:03::,so%4:02:07::
+#31 prize VERB prize%2:31:00::
+#38 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+But he did n't play golf , did n't seem to belong to any local clubs - his work took him away a lot , of course - which probably accounted for his tendency to keep to himself .
+5
+#4 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#5 golf NOUN golf%1:04:00::
+#15 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#18 work NOUN work%1:06:01::
+#21 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+Garth 's glance began to flicker to his watch .
+4
+#2 glance NOUN glance%1:04:00::
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#5 flicker VERB flicker%2:38:00::
+#8 watch NOUN watch%1:06:00::
+He said that he had already told the police chief that he did n't know what insurance man had recommended Johnston to Mrs. Meeker .
+7
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 already ADV already%4:02:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#14 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#16 insurance NOUN insurance%1:21:02::
+#17 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#19 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+The whole thing , his manner conveyed , was so far outside the normal routine of Hohlbein and Garth that it practically demanded being swept under the rug .
+4
+#5 manner NOUN manner%1:07:01::;1:07:02::
+#9 so ADV so%4:02:03::,so%4:02:07::
+#13 normal ADJ normal%3:00:01::,normal%3:00:03::
+#21 practically ADV practically%4:02:00::
+No doubt Mrs. Meeker had snubbed him many a time and he felt no grief over her passing .
+4
+#5 snub VERB snub%2:32:00::
+#9 time NOUN time%1:11:00::
+#12 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#17 passing NOUN passing%1:11:00::
+It would be all right with him , he decided , if his investigation of the fraud , with its probable by-product of murder , led to Garth 's door .
+1
+#25 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+Motive ?
+1
+#0 motive NOUN motive%1:03:00::
+At first glance , not much of a motive for a man of his standing ; but for all his air of affluence , who could tell what his private financial picture was ?
+6
+#4 not ADV not%4:02:00::
+#8 motive NOUN motive%1:03:00::
+#11 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#14 standing NOUN standing%1:26:00::
+#20 air NOUN air%1:04:01::,air%1:07:00::
+#26 tell VERB tell%2:31:00::,tell%2:31:01::
+The inspector knew as he left that this was wishful thinking .
+3
+#1 inspector NOUN inspector%1:18:01::
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#5 leave VERB leave%2:38:00::,leave%2:41:00::
+Nevertheless , he made a mental note to look into Garth 's financial background .
+4
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#5 mental ADJ mental%3:01:00::
+#6 note NOUN note%1:10:00::,note%1:10:02::
+#13 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+Brian Thayer had a downtown address .
+2
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 address NOUN address%1:10:04::,address%1:15:00::
+He lived in an apartment house not over three or four years old , a reclaimed island of landscaped brick and glass on the fringe of the business district .
+7
+#1 live VERB live%2:42:08::
+#6 not ADV not%4:02:00::
+#12 old PRT old%3:00:02::
+#16 island NOUN island%1:06:00::
+#19 brick NOUN brick%1:06:00::
+#21 glass NOUN glass%1:27:00::
+#24 fringe NOUN fringe%1:14:00::
+He occupied a two bedroom apartment on the fourth floor , using the second bedroom as his office .
+4
+#1 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#9 floor NOUN floor%1:06:01::
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 office NOUN office%1:06:00::
+Airy and bright , the apartment was furnished with good modern furniture , rugs , and draperies .
+4
+#0 airy ADJ airy%5:00:00:ventilated:00
+#2 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#9 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#11 furniture NOUN furniture%1:06:00::
+Done by a professional decorator , Madden thought , and somehow as impersonal , as unremarkable as its occupant .
+2
+#3 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#12 impersonal ADJ impersonal%5:00:00:objective:00
+In Dunston the rent would run close to two hundred a month ; in Medfield , perhaps twenty-five less , not all of it paid by Thayer , who could charge off one room on his expense account .
+6
+#3 rent NOUN rent%1:21:00::
+#5 run VERB run%2:42:07::
+#20 not ADV not%4:02:00::
+#24 pay VERB pay%2:40:01::,pay%2:40:04::,pay%2:40:13::,pay%2:40:14::,pay%2:42:00::
+#30 charge VERB charge%2:40:01::,charge%2:40:03::
+#33 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+He took Madden into the room he used as an office .
+3
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 office NOUN office%1:06:00::
+It contained a desk , files , a typewriter on a stand , and two big leather armchairs .
+5
+#1 contain VERB contain%2:42:00::,contain%2:42:06::
+#5 file NOUN file%1:10:00::
+#11 stand NOUN stand%1:15:00::
+#15 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#17 armchair NOUN armchair%1:06:00::
+A newspaper open at stock-market reports lay on one of them .
+2
+#2 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#5 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+The inspector declined .
+1
+#1 inspector NOUN inspector%1:18:01::
+To begin the interview , he asked if Thayer , with more time to think it over , could add to what he had said the other day about Johnston .
+6
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#6 ask VERB ask%2:32:00::,ask%2:32:04::
+#12 time NOUN time%1:28:01::,time%1:28:05::
+#24 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#26 other ADJ other%3:00:00::
+#27 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Thayer shook his head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" It 's all I think about , too .
+1
+#8 too ADV too%4:02:01::
+It 's still unbelievable that it was murder .
+1
+#2 still ADV still%4:02:00::
+For all her domineering ways , I can n't conceive of her having had a deadly enemy " .
+2
+#4 way NOUN way%1:04:00::,way%1:09:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::

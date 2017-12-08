@@ -1,0 +1,660 @@
+ As a result , although we still make use of this distinction , there is much confusion as to the meaning of the basic terms employed .
+8
+#6 still ADV still%4:02:00::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 distinction NOUN distinction%1:09:00::
+#16 confusion NOUN confusion%1:04:01::,confusion%1:26:01::
+#20 meaning NOUN meaning%1:09:00::
+#23 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#24 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#25 employ VERB employ%2:34:00::
+Just what is meant by " spirit " and by " matter " ?
+4
+#0 just ADV just%4:02:05::
+#3 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#6 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#11 matter NOUN matter%1:03:00::,matter%1:10:00::
+The terms are generally taken for granted as though they referred to direct and axiomatic elements in the common experience of all .
+5
+#1 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#3 generally ADV generally%4:02:01::
+#10 refer VERB refer%2:32:00::,refer%2:42:00::
+#12 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#15 element NOUN element%1:06:00::,element%1:09:00::
+Yet in the contemporary context this is precisely what one must not do .
+1
+#3 contemporary ADJ contemporary%5:00:00:modern:00
+For in the modern world neither " spirit " nor " matter " refer to any generally agreed-upon elements of experience .
+4
+#7 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#11 matter NOUN matter%1:03:00::,matter%1:10:00::
+#13 refer VERB refer%2:32:00::,refer%2:42:00::
+#18 element NOUN element%1:06:00::,element%1:09:00::
+We are in a transitional stage in which many of the connotations of former usage have had to be revised or rejected .
+3
+#5 stage NOUN stage%1:04:00::,stage%1:26:00::
+#13 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#19 revise VERB revise%2:32:00::
+When the words are used , we are never sure which of the traditional meanings the user may have in mind , or to what extent his revisions and rejections of former understandings correspond to ours .
+6
+#2 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#4 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#8 never ADV never%4:02:01::
+#16 user NOUN user%1:18:01::
+#31 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+#33 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+One of the most widespread features of contemporary thought is the almost universal disbelief in the reality of spirit .
+5
+#3 most ADV most%4:02:00::
+#5 feature NOUN feature%1:08:00::,feature%1:09:01::
+#7 contemporary ADJ contemporary%5:00:00:modern:00
+#8 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#18 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+Just a few centuries ago the world of spirits was as populous and real as the world of material entities .
+5
+#0 just ADV just%4:02:00::,just%4:02:03::
+#3 century NOUN century%1:28:00::
+#6 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#8 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#18 material ADJ material%3:00:04::
+Not only in popular thought but in that of the highly educated as well was this true .
+3
+#3 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#4 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#16 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+Demons , fairies , angels , and a host of other spiritual beings were as much a part of the experiential world of western man as were rocks and trees and stars .
+11
+#2 fairy NOUN fairy%1:18:00::
+#4 angel NOUN angel%1:18:00::
+#8 host NOUN host%1:13:00::,host%1:14:00::,host%1:14:02::
+#10 other ADJ other%5:00:02:past:00
+#17 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#21 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#23 western ADJ western%3:00:01::
+#24 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#27 rock NOUN rock%1:13:00::,rock%1:17:01::
+#29 tree NOUN tree%1:20:00::
+#31 star NOUN star%1:17:01::
+In such a world the words " matter " and " spirit " both referred to directly known realities in the common experience of all .
+6
+#3 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#5 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#7 matter NOUN matter%1:03:00::,matter%1:10:00::
+#11 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#14 refer VERB refer%2:32:00::,refer%2:42:00::
+#18 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+In it important elements of Christianity and of the Biblical view of reality in general , which now cause us much difficulty , could be responded to quite naturally and spontaneously .
+6
+#3 element NOUN element%1:06:00::,element%1:09:00::
+#10 view NOUN view%1:09:04::
+#12 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#17 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#27 quite ADV quite%4:02:02::
+#28 naturally ADV naturally%4:02:00::,naturally%4:02:01::,naturally%4:02:02::
+The progress of science over these last few centuries and the gradual replacement of Biblical by scientific categories of reality have to a large extent emptied the spirit world of the entities which previously populated it .
+5
+#6 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#8 century NOUN century%1:28:00::
+#17 category NOUN category%1:14:00::
+#19 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#23 large ADJ large%3:00:00::,large%5:00:00:significant:00
+In carrying out this program science has undoubtedly performed a very considerable service for which it can claim due credit .
+3
+#4 program NOUN program%1:09:00::,program%1:09:01::
+#8 perform VERB perform%2:36:00::,perform%2:41:00::
+#18 due ADJ due%3:00:02::
+The objectification of the world of spirit in popular superstition had certainly gone far beyond what the experience of spirit could justify or support .
+9
+#4 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#6 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#8 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#12 go VERB go%2:30:01::,go%2:42:03::,go%2:42:10::,go%2:42:12::
+#13 far ADV far%4:02:00::
+#14 beyond ADV beyond%4:02:01::
+#19 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#21 justify VERB justify%2:32:00::,justify%2:32:01::
+#23 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+Science is fully competent to deal with any element of experience which arises from an object in space and time .
+6
+#2 fully ADV fully%4:02:04::
+#5 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#8 element NOUN element%1:06:00::,element%1:09:00::
+#12 arise VERB arise%2:30:00::,arise%2:42:01::
+#15 object NOUN object%1:03:00::
+#19 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+When , therefore , it turned its attention to the concrete entities with which popular imagination had peopled the world of spirit , these entities soon lost whatever status they had enjoyed as actual elements of external reality .
+12
+#7 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#14 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#19 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#21 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#25 soon ADV soon%4:02:00::
+#26 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#28 status NOUN status%1:26:00::,status%1:26:01::
+#31 enjoy VERB enjoy%2:39:00::
+#33 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#34 element NOUN element%1:06:00::,element%1:09:00::
+#36 external ADJ external%5:00:00:extrinsic:00
+#37 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+In doing so science has unquestionably cleared up widespread misconceptions , removed extraneous and illusory sources of fear , and dispelled many undesirable popular superstitions .
+2
+#11 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#23 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+There have been , indeed , many important and valuable gains from the development of our present scientific view of the world for which we may be rightly grateful .
+5
+#4 indeed ADV indeed%4:02:03::
+#13 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#16 present ADJ present%3:00:01::
+#18 view NOUN view%1:09:04::
+#21 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+All this has not , however , been an unmixed blessing .
+2
+#3 not ADV not%4:02:00::
+#5 however ADV however%4:02:04::
+The scientific debunking of the spirit world has been in a way too successful and too thorough .
+2
+#12 too ADV too%4:02:00::
+#15 too ADV too%4:02:00::
+The house has been swept so clean that contemporary man has been left with no means , or at best with wholly inadequate means , for dealing with his experience of spirit .
+8
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 clean ADJ clean%3:00:01::,clean%3:00:03::,clean%5:00:00:empty:00,clean%5:00:00:pure:02
+#8 contemporary ADJ contemporary%5:00:00:modern:00
+#9 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#15 means NOUN means%1:06:00::
+#23 means NOUN means%1:06:00::
+#26 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#31 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+Although the particular form of conceptualization which popular imagination had made in response to the experience of spirit was undoubtedly defective , the raw experience itself which led to such excesses remains with us as vividly as ever .
+9
+#2 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#3 form NOUN form%1:09:01::,form%1:10:00::
+#7 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#17 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#23 raw ADJ raw%5:00:00:unprocessed:00
+#27 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#30 excess NOUN excess%1:07:02::
+#37 ever ADV ever%4:02:05::
+We simply find ourselves in the position of having no means for inquiring into the structure and meaning of this range of our experience .
+7
+#1 simply ADV simply%4:02:00::,simply%4:02:02::
+#6 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 means NOUN means%1:06:00::
+#12 inquire VERB enquire%2:32:02::
+#17 meaning NOUN meaning%1:09:00::
+#20 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+There is no framework or structure of thought with respect to which we can organize it and no part of reality , as we know and apprehend it , with respect to which we can refer this experience .
+6
+#7 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#14 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#18 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#20 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#24 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#26 apprehend VERB apprehend%2:31:00::
+Science has simply left us helpless and powerless in this important sector of our lives .
+2
+#3 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#11 sector NOUN sector%1:15:00::
+The situation in which we find ourselves is brought out with dramatic force in Arthur Miller 's play The Crucible , which deals with the Salem witch trials .
+7
+#1 situation NOUN situation%1:26:01::
+#11 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#12 force NOUN force%1:07:01::,force%1:07:02::,force%1:18:00::
+#17 play NOUN play%1:10:01::,play%1:10:03::
+#22 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#26 witch NOUN witch%1:18:02::
+#27 trial NOUN trial%1:04:02::
+As the play opens the audience is introduced to the community of Salem in Puritan America at the end of the eighteenth century .
+5
+#2 play NOUN play%1:10:01::,play%1:10:03::
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#5 audience NOUN audience%1:14:01::
+#18 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#22 century NOUN century%1:28:00::
+Aside from a quaint concern with witches and devils which provides the immediate problem in the opening scene , it is a quite normal community .
+8
+#4 concern NOUN concern%1:09:01::,concern%1:12:01::
+#6 witch NOUN witch%1:18:02::
+#8 devil NOUN devil%1:18:00::
+#10 provide VERB provide%2:34:00::,provide%2:40:00::
+#13 problem NOUN problem%1:09:00::,problem%1:26:00::
+#16 opening ADJ opening%3:00:00::
+#17 scene NOUN scene%1:06:00::,scene%1:10:00::,scene%1:11:00::
+#23 normal ADJ normal%3:00:01::,normal%3:00:03::
+The conversation of the characters creates an atmosphere suggesting the usual mixture of pleasures , foibles , irritations , and concerns which would characterize the common life of a normal village in any age .
+6
+#4 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#15 foible NOUN foible%1:07:00::
+#20 concern NOUN concern%1:09:00::
+#26 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#29 normal ADJ normal%3:00:01::,normal%3:00:03::
+#33 age NOUN age%1:28:02::,age%1:28:03::
+There is no occasion to feel uneasy or disturbed about these people .
+1
+#11 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Instead , the audience can sit back at ease and , from the perspective of an enlightened time which no longer believes in such things , enjoy the dead seriousness with which the characters in the play take the witches and devils which are under discussion .
+9
+#3 audience NOUN audience%1:14:01::
+#13 perspective NOUN perspective%1:09:00::
+#17 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#24 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#26 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#33 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#36 play NOUN play%1:10:01::,play%1:10:03::
+#39 witch NOUN witch%1:18:02::
+#41 devil NOUN devil%1:18:00::
+A teenage girl , Abigail Williams , is being sharply questioned by her minister uncle , the Reverend Samuel Parris , about a wild night affair in the woods in which she and some other girls had seemed to have had contact with these evil beings .
+11
+#2 girl NOUN girl%1:18:01::,girl%1:18:03::
+#13 minister NOUN minister%1:18:00::
+#23 wild ADJ wild%3:00:02::,wild%5:00:00:enthusiastic:00,wild%5:00:00:insane:00,wild%5:00:00:passionate:00,wild%5:00:00:stormy:00,wild%5:00:00:unsupported:02,wild%5:00:01:uncontrolled:00
+#24 night NOUN night%1:28:00::
+#25 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+#28 wood NOUN wood%1:14:00::
+#34 other ADJ other%3:00:00::
+#35 girl NOUN girl%1:18:01::,girl%1:18:03::
+#40 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#41 contact NOUN contact%1:04:00::,contact%1:04:02::,contact%1:06:00::,contact%1:06:01::
+#45 being NOUN being%1:03:00::
+For all involved in this discussion the devil is a real entity who can really be confronted in the woods on a dark night , the demon world is populated with real creatures , and witches actually can be seen flying through the air .
+12
+#7 devil NOUN devil%1:18:00::
+#10 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+#14 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#19 wood NOUN wood%1:14:00::
+#26 demon NOUN demon%1:18:01::
+#27 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#31 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+#35 witch NOUN witch%1:18:02::
+#36 actually ADV actually%4:02:01::
+#39 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#40 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+#43 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+As the play unfolds , however , the audience is subtly brought into the grip of an awful evil which grows with ominously gathering power and soon engulfs the community .
+8
+#2 play NOUN play%1:10:01::,play%1:10:03::
+#5 however ADV however%4:02:04::
+#8 audience NOUN audience%1:14:01::
+#14 grip NOUN grip%1:04:00::
+#20 grow VERB grow%2:30:04::
+#23 gather VERB gather%2:30:00::
+#24 power NOUN power%1:18:00::
+#26 soon ADV soon%4:02:00::
+Everyone in Salem , saint and sinner alike , is swept up by it .
+1
+#4 saint NOUN saint%1:18:00::
+It is like a mysterious epidemic which , starting first with Abigail and Parris , spreads inexorably with a dreadfully growing virulence through the whole town until all have been infected by it .
+5
+#4 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#8 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#15 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+#19 dreadfully ADV dreadfully%4:02:00::
+#24 whole ADJ whole%3:00:00::
+It grows terribly and unavoidably in power and leaves in its wake a trail of misery , moral disintegration , and destruction .
+7
+#1 grow VERB grow%2:30:04::
+#2 terribly ADV terribly%4:02:01::
+#6 power NOUN power%1:07:00::,power%1:07:02::
+#8 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#11 wake NOUN wake%1:11:00::
+#13 trail NOUN trail%1:17:01::
+#17 moral ADJ moral%3:00:00::
+The audience leaves the play under a spell , It is the kind of spell which the exposure to spirit in its living active manifestation always evokes .
+8
+#1 audience NOUN audience%1:14:01::
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#4 play NOUN play%1:10:01::,play%1:10:03::
+#7 spell NOUN spell%1:26:00::
+#14 spell NOUN spell%1:26:00::
+#17 exposure NOUN exposure%1:26:01::
+#25 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#26 evoke VERB evoke%2:32:01::
+If one asks about this play , what it is that comes upon this community and works within it with such terrible power , there is no better answer to give than " spirit " .
+4
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#5 play NOUN play%1:10:01::,play%1:10:03::
+#22 power NOUN power%1:07:00::,power%1:07:02::
+#27 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+This is not to attempt to say what spirit is , but only to employ a commonly used word to designate or simply identify a common experience .
+7
+#2 not ADV not%4:02:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 employ VERB employ%2:34:00::
+#17 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#22 simply ADV simply%4:02:00::,simply%4:02:02::
+In the end the good man , John Proctor , expresses what the audience has already come to feel when he says , " A fire , a fire is burning !
+9
+#4 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#13 audience NOUN audience%1:14:01::
+#15 already ADV already%4:02:00::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#28 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#30 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+I hear the boot of Lucifer , I see his filthy face " !
+4
+#3 boot NOUN boot%1:06:00::
+#5 Lucifer NOUN lucifer%1:18:00::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+The tragic irony of the play is that the very belief in and concern with a devil who could be met in the woods and combatted with formulae set out in books was the very thing that prevented them from detecting the real devil when he came among them .
+14
+#1 tragic ADJ tragic%5:00:00:sad:00
+#5 play NOUN play%1:10:01::,play%1:10:03::
+#10 belief NOUN belief%1:09:00::,belief%1:09:01::
+#13 concern NOUN concern%1:09:01::,concern%1:12:01::
+#16 devil NOUN devil%1:18:00::
+#20 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#23 wood NOUN wood%1:14:00::
+#27 formula NOUN formula%1:09:00::,formula%1:10:01::
+#31 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#35 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#37 prevent VERB prevent%2:41:00::
+#42 real ADJ real%3:00:00::,real%5:00:00:true:00
+#43 devil NOUN devil%1:18:00::
+#46 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+We marvel at their blindness for not seeing this .
+1
+#7 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Yet are not we of the mid twentieth century , who rightly do not believe there is any such " thing " as the devil , just as bad off as they - only in a different way ?
+10
+#2 not ADV not%4:02:00::
+#8 century NOUN century%1:28:00::
+#13 not ADV not%4:02:00::
+#14 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#24 devil NOUN devil%1:18:00::
+#26 just ADV just%4:02:05::
+#28 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+#33 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#36 different ADJ different%5:00:00:unusual:00
+#37 way NOUN way%1:04:00::,way%1:09:00::
+In our disbelief we think that we can no longer even use the word and so are unable to even name the elemental power which is so vividly real in this play .
+7
+#4 think VERB think%2:31:01::,think%2:31:03::
+#11 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#13 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#20 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#23 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#26 so ADV so%4:02:03::,so%4:02:07::
+#31 play NOUN play%1:10:01::,play%1:10:03::
+We are left helpless to cope with it because we do not dare speak of it as anything real for fear that to do so would imply a commitment to that which has already been discredited and proved false .
+7
+#2 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#11 not ADV not%4:02:00::
+#13 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#28 commitment NOUN commitment%1:04:00::
+#33 already ADV already%4:02:00::
+#37 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#38 false ADJ false%3:00:00::
+Even Mr. Miller himself seems uncertain on this score .
+1
+#8 score NOUN score%1:04:00::,score%1:09:00::,score%1:09:01::,score%1:14:00::,score%1:23:00::
+In a long commentary which he has inserted in the published text of the first act of the play , he says at one point : " However , that experience never raised a doubt in his mind as to the reality of the underworld or the existence of Lucifer 's many faced lieutenants .
+14
+#2 long ADJ long%3:00:02::
+#7 insert VERB insert%2:35:00::,insert%2:35:01::
+#11 text NOUN text%1:10:00::
+#14 first ADJ first%3:00:00::,first%4:02:00::
+#15 act NOUN act%1:10:00::,act%1:10:02::
+#18 play NOUN play%1:10:01::,play%1:10:03::
+#21 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#24 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#27 however ADV however%4:02:04::
+#31 never ADV never%4:02:00::
+#32 raise VERB raise%2:32:01::,raise%2:37:08::
+#37 mind NOUN mind%1:09:00::,mind%1:09:04::
+#44 underworld NOUN underworld%1:09:00::
+#49 Lucifer NOUN lucifer%1:18:00::
+And his belief is not to his discredit .
+2
+#2 belief NOUN belief%1:09:00::,belief%1:09:01::
+#4 not ADV not%4:02:00::
+Better minds than Hale 's were - and still are - convinced that there is a society of spirits beyond our ken " .
+3
+#0 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#8 still ADV still%4:02:00::
+#18 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+( page 33 ) On the other hand , a little later on he says :
+2
+#1 page NOUN page%1:10:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Since 1692 a great but superficial change has wiped out God 's beard and the Devil 's horns , but the world is still gripped between two diametrically opposed absolutes .
+7
+#7 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#11 God NOUN god%1:18:00::
+#13 beard NOUN beard%1:20:00::
+#16 devil NOUN devil%1:18:00::
+#18 horn NOUN horn%1:05:01::
+#22 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#24 still ADV still%4:02:00::
+The concept of unity , in which positive and negative are attributes of the same force , in which good and evil are relative , ever-changing , and always joined to the same phenomenon - such a concept is still reserved to the physical sciences and to the few who have grasped the history of ideas .
+11
+#3 unity NOUN unity%1:07:00::,unity%1:26:00::
+#11 attribute NOUN attribute%1:03:00::
+#14 same ADJ same%3:00:00::,same%3:00:02::
+#19 good NOUN good%1:07:02::
+#23 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#28 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#32 same ADJ same%3:00:00::,same%3:00:02::
+#33 phenomenon NOUN phenomenon%1:03:00::,phenomenon%1:11:00::
+#39 still ADV still%4:02:00::
+#53 history NOUN history%1:28:02::
+#55 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+When we see the steady and methodical inculcation into humanity of the idea of man 's worthlessness - until redeemed - the necessity of the Devil may become evident as a weapon , a weapon designed and used time and time again in every age to whip men into a surrender to a particular church or church-state " .
+14
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 steady ADJ steady%3:00:00::
+#9 humanity NOUN humanity%1:05:00::
+#12 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#14 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#19 redeem VERB redeem%2:40:04::
+#22 necessity NOUN necessity%1:26:00::
+#25 devil NOUN devil%1:18:00::
+#27 become VERB become%2:30:00::,become%2:42:01::
+#37 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#44 age NOUN age%1:28:02::,age%1:28:03::
+#46 whip VERB whip%2:35:00::
+#47 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#53 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+Apparently he does not intend that those who read or view this play should think of the devil as being actually real .
+7
+#3 not ADV not%4:02:00::
+#4 intend VERB intend%2:31:01::,intend%2:32:00::
+#8 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#12 play NOUN play%1:10:01::,play%1:10:03::
+#17 devil NOUN devil%1:18:00::
+#20 actually ADV actually%4:02:01::
+#21 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+Yet such is the dramatic power of his writing that the audience is nevertheless left in the grip of the terrible power and potency of that which came over Salem .
+8
+#4 dramatic ADJ dramatic%3:00:00::,dramatic%5:00:00:impressive:00
+#5 power NOUN power%1:07:00::,power%1:07:02::
+#8 writing NOUN writing%1:10:02::
+#11 audience NOUN audience%1:14:01::
+#14 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#21 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#23 potency NOUN potency%1:07:00::
+#27 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+It casts a spell upon them so that they leave with a feeling of having been in the mysterious presence of an evil power .
+6
+#1 cast VERB cast%2:36:02::
+#3 spell NOUN spell%1:26:00::
+#9 leave VERB leave%2:38:00::,leave%2:41:00::
+#12 feeling NOUN feeling%1:09:03::
+#18 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#23 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+It is not enough in accounting for this feeling to analyze it into the wickedness of individual people added together to produce a cumulative effect .
+7
+#2 not ADV not%4:02:00::
+#8 feeling NOUN feeling%1:09:03::
+#16 individual ADJ individual%5:00:00:independent:00
+#17 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#19 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#21 produce VERB produce%2:39:00::
+#24 effect NOUN effect%1:09:00::,effect%1:19:00::
+For this does not account for the integral , elemental power of that which grows with abounding vigor as the play unfolds , nor does it explain the strange numinous sense of presentness which comes over those who watch the play like a spell .
+12
+#3 not ADV not%4:02:00::
+#7 integral ADJ integral%5:00:00:whole:00
+#10 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#14 grow VERB grow%2:30:04::
+#17 vigor NOUN vigor%1:07:00::
+#20 play NOUN play%1:10:01::,play%1:10:03::
+#28 strange ADJ strange%3:00:00::
+#30 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#34 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#38 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#40 play NOUN play%1:10:01::,play%1:10:03::
+#43 spell NOUN spell%1:26:00::
+The reality of spirit emerges in this play in spite of the author 's convictions to the contrary .
+2
+#7 play NOUN play%1:10:01::,play%1:10:03::
+#14 conviction NOUN conviction%1:09:00::
+There is nothing in the whole range of human experience more widely known and universally felt than spirit .
+5
+#5 whole ADJ whole%3:00:00::
+#6 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#10 more ADV more%4:02:00::
+#11 widely ADV widely%4:02:01::
+#15 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+Apart from spirit there could be no community , for it is spirit which draws men into community and gives to any community its unity , cohesiveness , and permanence .
+7
+#0 apart ADV apart%4:02:01::,apart%4:02:06::
+#7 community NOUN community%1:21:00::,community%1:26:00::
+#14 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#15 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#17 community NOUN community%1:21:00::,community%1:26:00::
+#19 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#24 unity NOUN unity%1:07:00::,unity%1:26:00::
+Think , for example , of the spirit of the Marine Corps .
+2
+#0 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+Surely this is a reality we all acknowledge .
+3
+#0 surely ADV surely%4:02:00::
+#4 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#7 acknowledge VERB acknowledge%2:31:02::,acknowledge%2:32:01::,acknowledge%2:32:02::
+We cannot , of course , assign it any substance .
+2
+#6 assign VERB assign%2:31:02::,assign%2:34:00::
+#9 substance NOUN substance%1:03:00::
+It is not material and is not a " thing " occupying space and time .
+5
+#2 not ADV not%4:02:00::
+#3 material ADJ material%3:00:04::
+#6 not ADV not%4:02:00::
+#11 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#14 time NOUN time%1:03:00::,time%1:11:01::,time%1:28:03::,time%1:28:04::
+Yet it exists and has an objective reality which can be experienced and known .
+4
+#2 exist VERB exist%2:42:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 objective ADJ objective%5:00:00:real:00
+#7 reality NOUN reality%1:09:00::,reality%1:26:02::
+So it is too with many other spirits which we all know : the spirit of Nazism or Communism , school spirit , the spirit of a street corner gang or a football team , the spirit of Rotary or the Ku Klux Klan .
+10
+#3 too ADV too%4:02:01::
+#6 other ADJ other%3:00:00::
+#7 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#11 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#20 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#21 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#24 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#29 gang NOUN gang%1:14:00::
+#36 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+Every community , if it is alive has a spirit , and that spirit is the center of its unity and identity .
+8
+#1 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#6 alive ADJ alive%3:00:01::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#13 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#16 center NOUN center%1:09:00::,center%1:15:01::,center%1:15:02::
+#19 unity NOUN unity%1:07:00::,unity%1:26:00::
+#21 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+In searching for clues which might lead us to a fresh apprehension of the reality of spirit , the close connection between spirit and community is likely to prove the most fruitful .
+9
+#3 clue NOUN clue%1:10:01::
+#6 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#11 apprehension NOUN apprehension%1:09:00::
+#16 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#19 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#20 connection NOUN connection%1:04:00::,connection%1:04:01::,connection%1:06:00::,connection%1:06:00::;1:26:00::,connection%1:18:01::,connection%1:24:00::
+#22 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#28 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#30 most ADV most%4:02:00::
+For it is primarily in community that we know and experience spirit .
+2
+#8 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#11 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+It is spirit which gives life to a community and causes it to cohere .
+4
+#2 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#4 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#5 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#13 cohere VERB cohere%2:42:01::
+It is the spirit which is the source of a community 's drawing power by means of which others are drawn into it from the world outside so that the community grows and prospers .
+5
+#3 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#15 means NOUN means%1:06:00::
+#20 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#25 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#31 grow VERB grow%2:30:04::
+Yet the spirit which lives in community is not identical with the community .
+4
+#2 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#4 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#8 not ADV not%4:02:00::
+#9 identical ADJ identical%3:00:00::,identical%5:00:00:same:02
+The idea of community and the idea of spirit are two distinct and separable ideas .
+6
+#1 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#3 community NOUN community%1:21:00::,community%1:26:00::
+#6 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+#8 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#11 distinct ADJ distinct%5:00:00:separate:00
+#14 idea NOUN idea%1:09:00::,idea%1:09:02::,idea%1:09:03::
+One characteristic of the spirit in community is its givenness .
+2
+#1 characteristic NOUN characteristic%1:07:00::,characteristic%1:09:00::
+#4 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+The members of the community do not create the spirit but rather find it present and waiting for them .
+7
+#1 member NOUN member%1:18:00::,member%1:24:00::
+#6 not ADV not%4:02:00::
+#9 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#11 rather ADV rather%4:02:02::
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#14 present ADJ present%3:00:02::
+#16 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+It is for them a given which they and they alone possess .
+3
+#5 given NOUN giving%1:10:00::
+#10 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+#11 possess VERB possess%2:40:00::,possess%2:42:00::
+The spirit of the Marine Corps was present and operative before any of the present members of it came into it .
+6
+#1 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#7 present ADJ present%3:00:02::
+#9 operative ADJ operative%5:00:00:significant:00
+#14 present ADJ present%3:00:01::
+#15 member NOUN member%1:18:00::,member%1:24:00::
+#18 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+It is they , of course , who keep it alive and preserve it so the same spirit will continue to be present in the Corps for future recruits to find as they come into it .
+8
+#8 keep VERB keep%2:34:00::,keep%2:40:01::,keep%2:42:01::,keep%2:42:02::
+#10 alive ADJ alive%3:00:01::
+#16 same ADJ same%3:00:00::,same%3:00:02::
+#17 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#19 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#22 present ADJ present%3:00:02::
+#30 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#33 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::

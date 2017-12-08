@@ -1,0 +1,613 @@
+ Consider a simple , closed , plane curve C which is a real analytic image of the unit circle , and which is given by **f .
+4
+#4 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#14 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#18 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+#23 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+These are real analytic periodic functions with period T .
+2
+#4 periodic ADJ periodic%3:00:00::
+#7 period NOUN period%1:28:00::,period%1:28:03::
+In the following paper it is shown that in a certain definite sense , exactly an odd number of squares can be inscribed in every such curve which does not contain an infinite number of inscribed squares .
+12
+#2 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#3 paper NOUN paper%1:10:00::
+#6 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#12 sense NOUN sense%1:10:00::
+#16 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#19 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#29 not ADV not%4:02:00::
+#30 contain VERB contain%2:42:00::,contain%2:42:06::
+#32 infinite ADJ infinite%3:00:00::
+#33 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#36 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+This theorem is similar to the theorem of Kakutani that there exists a circumscribing cube around any closed , bounded convex set in **f .
+4
+#11 exist VERB exist%2:42:00::
+#13 circumscribe VERB circumscribe%2:35:01::
+#17 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#21 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+The latter theorem has been generalized by Yamabe and Yujobo , and Cairns to show that in **f there are families of such cubes .
+4
+#1 latter ADJ latter%3:00:00::
+#5 generalize VERB generalise%2:32:01::
+#14 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#20 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+Here , for the case of squares inscribed in plane curves , we remove the restriction to convexity and give certain other results .
+5
+#4 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#6 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#13 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#19 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#21 other ADJ other%3:00:00::
+A square inscribed in a curve C means a square with its four corner points on the curve , though it may not lie entirely in the interior of C .
+7
+#1 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#7 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#9 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#13 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#14 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#23 lie VERB lie%2:42:03::
+#27 interior NOUN interior%1:15:00::
+Indeed , the spiral **f , with the two endpoints connected by a straight line possesses only one inscribed square .
+5
+#0 indeed ADV indeed%4:02:03::
+#3 spiral NOUN spiral%1:06:01::
+#15 possess VERB possess%2:40:00::,possess%2:42:00::
+#16 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+The square has one corner point on the straight line segment , and does not lie entirely in the interior .
+7
+#1 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#5 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#14 not ADV not%4:02:00::
+#15 lie VERB lie%2:42:03::
+#19 interior NOUN interior%1:15:00::
+On C , from the point P at **f to the point Q at **f , we construct the chord , and upon the chord as a side erect a square in such a way that as s approaches zero the square is inside C .
+7
+#5 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#19 chord NOUN chord%1:25:00::
+#24 chord NOUN chord%1:25:00::
+#30 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#34 way NOUN way%1:04:00::,way%1:09:00::
+#38 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#41 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+As s increases we consider the two free corner points of the square , **f and **f , adjacent to P and Q respectively .
+3
+#8 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#9 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#12 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+As s approaches T the square will be outside C and therefore both **f and **f must cross C an odd number of times as s varies from zero to T .
+5
+#2 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#5 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#8 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#20 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#21 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+The points may also touch C without crossing .
+3
+#1 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#4 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#7 cross VERB cross%2:38:01::,cross%2:38:03::,cross%2:38:04::,cross%2:41:00::
+Suppose **f crosses C when **f .
+1
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+We now have certain squares with three corners on C .
+4
+#1 now ADV now%4:02:02::,now%4:02:07::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#7 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+For any such square the middle corner of these will be called the vertex of the square and the corner not on the curve will be called the diagonal point of the square .
+11
+#3 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#5 middle ADJ middle%5:00:01:central:01
+#6 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#11 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#13 vertex NOUN vertex%1:09:00::
+#16 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#19 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#20 not ADV not%4:02:00::
+#26 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#29 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#32 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+Each point on C , as a vertex , may possess a finite number of corresponding diagonal points by the above construction .
+6
+#1 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#7 vertex NOUN vertex%1:09:00::
+#10 possess VERB possess%2:40:00::,possess%2:42:00::
+#12 finite ADJ finite%3:00:00::
+#13 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#15 corresponding ADJ corresponding%5:00:00:similar:00
+To each paired vertex and diagonal point there corresponds a unique forward corner point , i.e. , the corner on C reached first by proceeding along C from the vertex in the direction of increasing t .
+9
+#3 vertex NOUN vertex%1:09:00::
+#6 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#8 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#11 forward ADJ forward%3:00:03::
+#12 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#13 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#18 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#29 vertex NOUN vertex%1:09:00::
+#32 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+If the vertex is at **f , and if the interior of C is on the left as one moves in the direction of increasing t , then every such corner can be found from the curve obtained by rotating C clockwise through 90 ` about the vertex .
+9
+#2 vertex NOUN vertex%1:09:00::
+#10 interior NOUN interior%1:15:00::
+#19 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#22 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#27 then ADV then%4:02:02::
+#30 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#33 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#37 obtain VERB obtain%2:40:00::
+#47 vertex NOUN vertex%1:09:00::
+The set of intersections of **f , the rotated curve , with the original curve C consists of just the set of forward corner points on C corresponding to the vertex at **f , plus the vertex itself .
+10
+#1 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#13 original ADJ original%5:00:01:first:00
+#18 just ADV just%4:02:00::,just%4:02:03::
+#20 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#22 forward ADJ forward%3:00:03::
+#23 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#24 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#27 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#30 vertex NOUN vertex%1:09:00::
+#36 vertex NOUN vertex%1:09:00::
+We note that two such curves C and **f , cannot coincide at more than a finite number of points ; otherwise , being analytic , they would coincide at all points , which is impossible since they do not coincide near **f .
+7
+#1 note VERB note%2:32:00::,note%2:39:00::
+#16 finite ADJ finite%3:00:00::
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#19 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#21 otherwise ADV otherwise%4:02:01::
+#31 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#39 not ADV not%4:02:00::
+With each vertex we associate certain numerical values , namely the set of positive differences in the parameter t between the vertex and its corresponding forward corner points .
+8
+#2 vertex NOUN vertex%1:09:00::
+#7 value NOUN value%1:09:00::
+#11 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#21 vertex NOUN vertex%1:09:00::
+#24 corresponding ADJ corresponding%5:00:00:similar:00
+#25 forward ADJ forward%3:00:03::
+#26 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#27 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+For the vertex at **f , these values will be denoted by **f .
+2
+#2 vertex NOUN vertex%1:09:00::
+#7 value NOUN value%1:09:00::
+The function f ( t ) defined in this way is multi valued .
+2
+#6 define VERB define%2:32:00::,defined%3:00:00::
+#9 way NOUN way%1:04:00::,way%1:09:00::
+We consider now the graph of the function f ( t ) on **f .
+2
+#2 now ADV now%4:02:02::,now%4:02:07::
+#4 graph NOUN graph%1:10:00::
+We will refer to the plane of C and **f as the C-plane and to the plane of the graph as the f-plane .
+4
+#2 refer VERB refer%2:32:00::,refer%2:42:00::
+#5 plane NOUN plane%1:06:00::
+#16 plane NOUN plane%1:06:00::
+#19 graph NOUN graph%1:10:00::
+The graph , as a set , may have a finite number of components .
+5
+#1 graph NOUN graph%1:10:00::
+#5 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 finite ADJ finite%3:00:00::
+#11 number NOUN number%1:10:01::,number%1:23:00::
+We will denote the values of f ( t ) on different components by **f .
+1
+#4 value NOUN value%1:09:00::
+Each point with abscissa t on the graph represents an intersection between C and **f .
+2
+#1 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#7 graph NOUN graph%1:10:00::
+There are two types of such intersections , depending essentially on whether the curves cross at the point of intersection .
+2
+#3 type NOUN type%1:18:00::
+#8 depend VERB depend%2:42:00::
+An ordinary point will be any point of intersection A such that in every neighborhood of A in the C-plane , **f meets both the interior and the exterior of C .
+4
+#1 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#2 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#22 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#25 interior NOUN interior%1:15:00::
+Any other point of intersection between C and **f will be called a tangent point .
+3
+#1 other ADJ other%3:00:00::
+#11 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#14 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+This terminology will also be applied to the corresponding points in the f-plane .
+3
+#5 apply VERB apply%2:34:00::
+#8 corresponding ADJ corresponding%5:00:00:similar:00
+#9 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+We can now prove several lemmas .
+3
+#2 now ADV now%4:02:02::,now%4:02:07::
+#3 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#5 lemma NOUN lemma%1:10:00::
+In some neighborhood in the f-plane of any ordinary point of the graph , the function f is a single valued , continuous function .
+5
+#8 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#9 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#12 graph NOUN graph%1:10:00::
+#19 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#22 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+We first show that the function is single valued in some neighborhood .
+2
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#7 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+With the vertex at **f in the C-plane we assume that **f is the parametric location on C of an ordinary intersection Q between C and **f .
+3
+#2 vertex NOUN vertex%1:09:00::
+#9 assume VERB assume%2:31:00::
+#20 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+In the f-plane the coordinates of the corresponding point are **f .
+3
+#4 coordinate NOUN co-ordinate%1:09:00::
+#7 corresponding ADJ corresponding%5:00:00:similar:00
+#8 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+We know that in the C-plane both C and **f are analytic .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+In the C-plane we construct a set of rectangular Cartesian coordinates u , v with the origin at Q and such that both C and **f have finite slope at Q .
+7
+#6 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#8 rectangular ADJ rectangular%5:00:00:angular:00
+#10 coordinate NOUN co-ordinate%1:09:00::
+#16 origin NOUN origin%1:09:00::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#27 finite ADJ finite%3:00:00::
+#28 slope NOUN slope%1:07:00::
+In a neighborhood of Q the difference between these functions is also a single valued , analytic function of u .
+1
+#13 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+Furthermore , one can find a neighborhood of Q in which the difference function is monotone , for since it is analytic it can have only a finite number of extrema in any interval .
+6
+#4 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#13 function NOUN function%1:24:00::
+#24 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#27 finite ADJ finite%3:00:00::
+#28 number NOUN number%1:10:01::,number%1:23:00::
+Now , to find **f , one needs the intersection of C and **f near Q .
+3
+#0 now ADV now%4:02:07::
+#3 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#14 near ADJ near%3:00:00::
+But **f is just the curve **f translated without rotation through a small arc , for **f is always obtained by rotating C through exactly 90 ` .
+5
+#3 just ADV just%4:02:00::,just%4:02:03::
+#7 translate VERB translate%2:30:00::,translate%2:30:01::
+#13 arc NOUN arc%1:25:00::,arc%1:25:01::
+#18 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#19 obtain VERB obtain%2:40:00::
+The arc is itself a segment of an analytic curve .
+2
+#1 arc NOUN arc%1:25:00::,arc%1:25:01::
+#5 segment NOUN segment%1:17:00::
+Thus if e is sufficiently small , there can be only one intersection of C and **f near Q , for if there were more than one intersection for every e then the difference between C and **f near Q would not be a monotone function .
+6
+#0 thus ADV thus%4:02:00::
+#10 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#31 then ADV then%4:02:02::
+#38 near ADJ near%3:00:00::
+#41 not ADV not%4:02:00::
+#45 function NOUN function%1:24:00::
+Therefore , **f is single valued near Q .
+2
+#4 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#6 near ADJ near%3:00:00::
+It is also seen that **f , since the change from **f to **f is accomplished by a continuous translation .
+3
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#9 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#18 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+Thus **f is also continuous at **f , and in a neighborhood of **f which does not contain a tangent point .
+5
+#0 thus ADV thus%4:02:00::
+#4 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#16 not ADV not%4:02:00::
+#17 contain VERB contain%2:42:00::,contain%2:42:06::
+#20 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+We turn now to the set of tangent points on the graph .
+5
+#1 turn VERB turn%2:30:00::,turn%2:32:14::,turn%2:38:14::
+#2 now ADV now%4:02:02::,now%4:02:07::
+#5 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#8 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#11 graph NOUN graph%1:10:00::
+This set must consist of isolated points and closed intervals .
+2
+#1 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#6 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+The fact that there can not be any limit points of the set except in closed intervals follows from the argument used in Lemma 1 , namely , that near any tangent point in the C-plane the curves C and **f are analytic , and therefore the difference between them must be a monotone function in some neighborhood on either side of the tangent point .
+9
+#5 not ADV not%4:02:00::
+#12 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#17 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#21 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#23 lemma NOUN lemma%1:10:00::
+#32 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#54 function NOUN function%1:24:00::
+#60 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#64 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+This prevents the occurrence of an infinite sequence of isolated tangent points .
+4
+#1 prevent VERB prevent%2:41:00::
+#6 infinite ADJ infinite%3:00:00::
+#7 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#11 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+In some neighborhood of an isolated tangent point in the f-plane , say **f , the function **f is either double valued or has no values defined , except at the tangent point itself , where it is single valued .
+9
+#7 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#12 say VERB say%2:32:01::
+#16 function NOUN function%1:24:00::
+#20 double ADJ double%5:00:02:multiple:00
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 value NOUN value%1:09:00::
+#26 define VERB define%2:32:00::,defined%3:00:00::
+#32 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#38 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+A tangent point Q in the C-plane occurs when C and **f are tangent to one another .
+1
+#2 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+A continuous change in t through an amount e results in a translation along an analytic arc of the curve **f .
+3
+#1 continuous ADJ continuous%3:00:01::,continuous%3:00:02::
+#2 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#16 arc NOUN arc%1:25:00::,arc%1:25:01::
+There are three possibilities : ( a ) **f remains tangent to C as it is translated ; ( b ) **f moves away from C and does not intersect it at all for **f ; ( c ) **f cuts across C and there are two ordinary intersections for every t in **f .
+4
+#16 translate VERB translate%2:30:00::,translate%2:30:01::
+#22 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#28 not ADV not%4:02:00::
+#47 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+The first possibility results in a closed interval of tangent points in the f-plane , the end points of which fall into category ( b ) or ( c ) .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#10 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#22 category NOUN category%1:14:00::
+In the second category the function **f has no values defined in a neighborhood **f .
+6
+#2 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#3 category NOUN category%1:14:00::
+#5 function NOUN function%1:24:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 value NOUN value%1:09:00::
+#10 define VERB define%2:32:00::,defined%3:00:00::
+In the third category the function is double valued in this interval .
+3
+#3 category NOUN category%1:14:00::
+#5 function NOUN function%1:24:00::
+#7 double ADJ double%5:00:02:multiple:00
+The same remarks apply to an interval on the other side of **f .
+4
+#1 same ADJ same%3:00:00::,same%3:00:02::
+#3 apply VERB apply%2:42:00::
+#9 other ADJ other%3:00:00::
+#10 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+Again , the analyticity of the two curves guarantee that such intervals exist .
+1
+#12 exist VERB exist%2:42:00::
+In the neighborhood of an end point of an interval of tangent points in the f-plane the function is two valued or no valued on one side , and is a single valued function consisting entirely of tangent points on the other side .
+6
+#12 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#17 function NOUN function%1:24:00::
+#31 single ADJ single%3:00:00::,single%3:00:05::,single%5:00:00:unshared:00
+#33 function NOUN function%1:24:00::
+#38 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#41 other ADJ other%3:00:00::
+With the above results we can make the following remarks about the graph of f .
+2
+#8 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#12 graph NOUN graph%1:10:00::
+First , for any value of t for which all values of f ( t ) are ordinary points the number of values of f ( t ) must be odd .
+7
+#4 value NOUN value%1:09:00::
+#10 value NOUN value%1:09:00::
+#17 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#18 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#20 number NOUN number%1:10:01::,number%1:23:00::
+#22 value NOUN value%1:09:00::
+#30 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+For it is clear that the total number of ordinary intersections of C and **f must be even ( otherwise , starting in the interior of C , **f could not finally return to the interior ) , and the center of rotation at t is the argument of the function , not a value .
+14
+#3 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#7 number NOUN number%1:10:01::,number%1:23:00::
+#9 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#17 even ADJ even%5:00:01:equal:00
+#19 otherwise ADV otherwise%4:02:01::
+#21 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#24 interior NOUN interior%1:15:00::
+#30 not ADV not%4:02:00::
+#32 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#35 interior NOUN interior%1:15:00::
+#40 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+#50 function NOUN function%1:24:00::
+#52 not ADV not%4:02:00::
+#54 value NOUN value%1:09:00::
+Therefore , for any value of t the number of values of f ( t ) is equal to the ( finite ) number of tangent points corresponding to the argument t plus an odd number .
+10
+#4 value NOUN value%1:09:00::
+#8 number NOUN number%1:10:01::,number%1:23:00::
+#10 value NOUN value%1:09:00::
+#17 equal ADJ equal%3:00:00::
+#21 finite ADJ finite%3:00:00::
+#23 number NOUN number%1:10:01::,number%1:23:00::
+#26 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#27 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+#34 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#35 number NOUN number%1:10:01::,number%1:23:00::
+The number of ordinary values of the function f ( t ) at t will be called its multiplicity at t .
+5
+#1 number NOUN number%1:10:01::,number%1:23:00::
+#3 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#4 value NOUN value%1:09:00::
+#7 function NOUN function%1:24:00::
+#16 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+The graph of f has at least one component whose support is the entire interval [ 0 , T ] .
+2
+#1 graph NOUN graph%1:10:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+We suppose not .
+2
+#1 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#2 not ADV not%4:02:00::
+Then every component of the graph of f must be defined over a bounded sub-interval .
+3
+#0 then ADV then%4:02:02::
+#5 graph NOUN graph%1:10:00::
+#10 define VERB define%2:32:00::,defined%3:00:00::
+Suppose **f is defined in the sub-interval **f .
+2
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#3 define VERB define%2:32:00::,defined%3:00:00::
+Now **f and **f must both be tangent points on the nth component in the f-plane ; otherwise by Lemma 1 the component would extend beyond these points .
+6
+#0 now ADV now%4:02:02::,now%4:02:07::
+#8 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#17 otherwise ADV otherwise%4:02:01::
+#19 lemma NOUN lemma%1:10:00::
+#24 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#27 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+Further , we see by Lemma 2 that the multiplicity of f can only change at a tangent point , and at such a point can only change by an even integer .
+11
+#0 further ADV further%4:02:02::,further%4:02:03::
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#5 lemma NOUN lemma%1:10:00::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#18 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#24 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#26 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#27 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#30 even ADJ even%3:00:02::
+#31 integer NOUN integer%1:23:00::
+Thus the multiplicity of **f for a given t must be an even number .
+4
+#0 thus ADV thus%4:02:00::
+#7 given ADJ give%2:32:03::
+#12 even ADJ even%3:00:02::
+#13 number NOUN number%1:10:01::,number%1:23:00::
+This is true of all components which have such a bounded support .
+2
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But this is a contradiction , for we know that the multiplicity of f ( t ) is odd for every t .
+2
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#18 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+We have shown that the graph of f contains at least one component whose inverse is the entire interval [ 0 , T ] , and whose multiplicity is odd .
+4
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#5 graph NOUN graph%1:10:00::
+#8 contain VERB contain%2:42:00::,contain%2:42:06::
+#29 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+There must be an odd number of such components , which will be called complete components .
+4
+#4 odd ADJ odd%3:00:00::,odd%5:00:00:inexact:00
+#5 number NOUN number%1:10:01::,number%1:23:00::
+#13 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#14 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+The remaining ( incomplete ) components all have an even number of ordinary points at any argument , and are defined only on a proper sub-interval of [ 0 , T ] .
+8
+#1 remaining ADJ remaining%5:00:00:unexhausted:00
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#9 even ADJ even%3:00:02::
+#10 number NOUN number%1:10:01::,number%1:23:00::
+#12 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#13 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#20 define VERB define%2:32:00::,defined%3:00:00::
+#21 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+We must now show that on some component of the graph there exist two points for which the corresponding diagonal points in the C-plane are on opposite sides of C .
+8
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#10 graph NOUN graph%1:10:00::
+#12 exist VERB exist%2:42:00::
+#14 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#18 corresponding ADJ corresponding%5:00:00:similar:00
+#20 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#27 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+We again consider a fixed point P at **f and a variable point Q at **f on C .
+4
+#4 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#5 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#11 variable ADJ variable%3:00:00::
+#12 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+We erect a square with PQ as a side and with free corners **f and **f adjacent to P and Q respectively .
+2
+#3 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#12 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+As s varies from zero to T , the values of s for which **f and **f cross C will be denoted by **f and **f respectively .
+1
+#9 value NOUN value%1:09:00::
+We have **f , plus tangent points .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+These s-values are just the ordinary values of **f .
+3
+#3 just ADV just%4:02:00::,just%4:02:03::
+#5 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#6 value NOUN value%1:09:00::
+The values **f are the ordinary values at **f of a multi valued function g ( t ) which has components corresponding to those of f ( t ) .
+6
+#1 value NOUN value%1:09:00::
+#5 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#6 value NOUN value%1:09:00::
+#13 function NOUN function%1:24:00::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 correspond VERB correspond%2:42:00::,correspond%2:42:01::
+We first define a function b ( t ) as follows : given the set of squares such that each has three corners on C and vertex at t , b ( t ) is the corresponding set of positive parametric differences between t and the backward corner points .
+12
+#2 define VERB define%2:32:00::,defined%3:00:00::
+#4 function NOUN function%1:24:00::
+#12 given ADP given%1:09:00::
+#14 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#16 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#26 vertex NOUN vertex%1:09:00::
+#36 corresponding ADJ corresponding%5:00:00:similar:00
+#37 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#47 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#48 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+The functions f and b have exactly the same multiplicity at every argument t .
+3
+#1 function NOUN function%1:24:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 same ADJ same%3:00:00::,same%3:00:02::
+Now with P fixed at **f , **f-values occur when the corner **f crosses C , and are among the values of s such that **f .
+3
+#3 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#11 corner NOUN corner%1:06:00::,corner%1:06:02::,corner%1:15:00::,corner%1:25:00::,corner%1:26:01::
+#20 value NOUN value%1:09:00::
+The roots of this equation are just the ordinates of the intersections of the graph of b with a straight line of unit slope through **f in the b-plane ( the plane of the graph of b ) .
+7
+#1 root NOUN root%1:14:00::,root%1:23:00::
+#4 equation NOUN equation%1:10:00::
+#6 just ADV just%4:02:00::,just%4:02:03::
+#14 graph NOUN graph%1:10:00::
+#23 slope NOUN slope%1:07:00::
+#31 plane NOUN plane%1:06:00::
+#34 graph NOUN graph%1:10:00::
+We define these values as **f , and define g ( t ) in the same way for each t .
+5
+#1 define VERB define%2:32:00::,defined%3:00:00::
+#3 value NOUN value%1:09:00::
+#8 define VERB define%2:32:00::,defined%3:00:00::
+#15 same ADJ same%3:00:00::
+#16 way NOUN way%1:04:00::,way%1:09:00::
+Thus we obtain g ( t ) by introducing an oblique g ( t ) - axis in the b-plane .
+3
+#0 thus ADV thus%4:02:00::
+#2 obtain VERB obtain%2:40:00::
+#10 oblique ADJ oblique%3:00:00::

@@ -1,0 +1,548 @@
+ Important as was Mr. O' Donnell 's essay , his thesis is so restricting as to deny Faulkner the stature which he obviously has .
+3
+#7 essay NOUN essay%1:10:00::
+#16 deny VERB deny%2:40:00::,deny%2:40:04::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He and also Mr. Cowley and Mr. Warren have fallen to the temptation which besets many of us to read into our authors - Nathaniel Hawthorne , for example , and Herman Melville - protests against modernism , material progress , and science which are genuine protests of our own but may not have been theirs .
+7
+#9 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#14 beset VERB beset%2:37:00::
+#34 protest NOUN protest%1:10:00::
+#38 material ADJ material%3:00:04::
+#46 protest NOUN protest%1:10:00::
+#49 own ADJ own%5:00:00:personal:00
+#52 not ADV not%4:02:00::
+Faulkner 's total works today , and in fact those of his works which existed in 1946 when Mr. Cowley made his comment , or in 1939 , when Mr. O' Donnell wrote his essay , reveal no such simple attitude toward the South .
+7
+#2 total ADJ total%5:00:00:whole:00,total%5:00:02:complete:00
+#3 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#12 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#14 exist VERB exist%2:42:00::
+#32 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#34 essay NOUN essay%1:10:00::
+#43 south NOUN south%1:15:01::
+If he is a traditionalist , he is an eclectic traditionalist .
+1
+#9 eclectic ADJ eclectic%5:00:00:discriminating:00
+If he condemns the recent or the present , he condemns the past with no less force .
+5
+#2 condemn VERB condemn%2:32:00::
+#7 present NOUN present%1:10:00::,present%1:28:00::
+#10 condemn VERB condemn%2:32:00::
+#12 past NOUN past%1:28:01::
+#16 force NOUN force%1:07:01::,force%1:07:02::,force%1:18:00::
+If he sees the heroic in a Sartoris or a Sutpen , he sees also - and he shows - the blind and the mean , and he sees the Compson family disintegrating from within .
+6
+#2 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#13 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#18 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#24 mean ADJ mean%5:00:00:nasty:00
+#28 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#31 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+If the barn-burner 's family produces a Flem Snopes , who personifies commercialism and materialism in hyperbolic crassness , the Compson family produces a Jason Compson 4 , .
+6
+#4 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#5 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#14 materialism NOUN materialism%1:26:00::
+#16 hyperbolic ADJ hyperbolic%5:00:00:increased:00
+#21 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#22 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Faulkner is a most untraditional traditionalist .
+1
+#3 most ADV most%4:02:00::
+They have indicated the direction but they have not been explicit enough , I believe , in pointing out Faulkner 's independence , his questioning if not indeed challenging the Southern tradition .
+6
+#2 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#4 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#8 not ADV not%4:02:00::
+#11 enough ADV enough%4:02:00::
+#14 believe VERB believe%2:31:03::
+#31 tradition NOUN tradition%1:09:01::
+Faulkner 's is not the mind of the apologist which Mr. O' Donnell implies that it is .
+2
+#3 not ADV not%4:02:00::
+#5 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+He is not one to remain more comfortably and unquestioningly within a body of social , cultural , or literary traditions than he was within the traditions - or possibly the regulations - governing his tenure in the post office at Oxford , Mississippi , thirty-five years ago .
+11
+#2 not ADV not%4:02:00::
+#6 more ADV more%4:02:00::
+#14 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#19 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#20 tradition NOUN tradition%1:09:01::
+#26 tradition NOUN tradition%1:09:01::
+#31 regulation NOUN regulation%1:10:00::
+#33 govern VERB govern%2:41:01::,govern%2:41:02::
+#35 tenure NOUN tenure%1:28:00::
+#43 Mississippi NOUN mississippi%1:17:00::
+#46 year NOUN year%1:28:00::,year%1:28:01::
+That is not to deny that he has been aware of traditions , of course , that he is steeped in them , in fact , or that he has dealt with them , in his books .
+6
+#2 not ADV not%4:02:00::
+#4 deny VERB deny%2:32:00::,deny%2:32:01::
+#11 tradition NOUN tradition%1:09:01::
+#19 steep VERB steep%3:00:00::
+#30 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#36 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+It is to say rather , I believe , that he has brought to bear on the history , the traditions , and the lore of his region a critical , skeptical mind - the same mind which has made of him an inveterate experimenter in literary form and technique .
+12
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 rather ADV rather%4:02:02::
+#17 history NOUN history%1:28:02::
+#20 tradition NOUN tradition%1:09:01::
+#24 lore NOUN lore%1:09:00::
+#29 critical ADJ critical%3:00:01::,critical%3:00:02::
+#31 skeptical ADJ sceptical%5:00:00:distrustful:00
+#32 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+#35 same ADJ same%3:00:00::,same%3:00:02::
+#39 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#46 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#47 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+He has employed from his section rich immediate materials which in a loose sense can be termed Southern .
+6
+#2 employ VERB employ%2:34:00::
+#5 section NOUN section%1:06:00::,section%1:09:00::,section%1:14:00::,section%1:14:01::,section%1:14:04::
+#7 immediate ADJ immediate%3:00:00::,immediate%5:00:00:close:01
+#8 material NOUN material%1:06:01::,material%1:10:00::
+#12 loose ADJ loose%5:00:00:unofficial:00
+#13 sense NOUN sense%1:10:00::
+The fact that he has cast over those materials the light of a skeptical mind does not make him any the less Southern , I rather think , for the South has been no more solid than other regions except in the political and related areas where patronage and force and intimidation and fear may produce a surface uniformity .
+13
+#5 cast VERB cast%2:36:02::
+#8 material NOUN material%1:06:01::,material%1:10:00::
+#13 skeptical ADJ sceptical%5:00:00:distrustful:00
+#16 not ADV not%4:02:00::
+#17 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#25 rather ADV rather%4:02:00::,rather%4:02:04::
+#26 think VERB think%2:31:01::,think%2:31:03::
+#30 south NOUN south%1:15:01::
+#37 other ADJ other%3:00:00::
+#45 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#47 patronage NOUN patronage%1:04:01::
+#49 force NOUN force%1:07:00::
+#55 produce VERB produce%2:39:00::
+Some of us might be inclined to argue , in fact , that an independence of mind and action and an intolerance of regimentation , either mental or physical , are particularly Southern traits .
+4
+#7 argue VERB argue%2:32:02::
+#18 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#26 mental ADJ mental%3:01:00::
+#31 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+There is no necessity , I suppose , to assert that Mr. Faulkner is Southern .
+2
+#3 necessity NOUN necessity%1:26:00::
+#6 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+It would not be easy to discover a more thoroughly Southern pedigree than that of his family .
+6
+#2 not ADV not%4:02:00::
+#4 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#8 more ADV more%4:02:00::
+#9 thoroughly ADV thoroughly%4:02:00::
+#11 pedigree NOUN pedigree%1:14:00::
+#16 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+And , after all , he has lived comfortably at both Oxford , Mississippi , and Charlottesville , Virginia .
+3
+#7 live VERB live%2:42:08::
+#13 Mississippi NOUN mississippi%1:17:00::
+#18 Virginia NOUN virginia%1:15:00::
+The young William Faulkner in New Orleans in the 1920 's impressed the novelist Hamilton Basso as obviously conscious of being a Southerner , and there is no evidence that since then he has ever considered himself any less so .
+3
+#11 impress VERB impress%2:37:01::
+#34 ever ADV ever%4:02:05::
+#38 little ADV little%4:02:00::
+Besides showing no inclination , apparently , to absent himself from his native region even for short periods , and in addition writing a shelf of books set in the region , he has handled in those books an astonishingly complete list of matters which have been important in the South during the past hundred years .
+15
+#1 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#3 inclination NOUN inclination%1:07:00::
+#12 native ADJ native%3:00:02::
+#16 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#17 period NOUN period%1:28:00::,period%1:28:03::
+#22 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#26 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#27 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#34 handle VERB handle%2:41:00::,handle%2:41:03::
+#37 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#40 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#41 list NOUN list%1:10:00::
+#43 matter NOUN matter%1:09:00::,matter%1:09:01::
+#50 south NOUN south%1:15:01::
+#55 year NOUN year%1:28:00::,year%1:28:01::
+It is more difficult with Faulkner than with most authors to say what is the extent and what is the source of his knowledge .
+3
+#2 more ADV more%4:02:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 knowledge NOUN knowledge%1:03:00::
+His own testimony is that he has read very little in the history of the South , implying that what he knows of that history has come to him orally and that he knows the world around him primarily from his own unassisted observation .
+11
+#1 own ADJ own%5:00:00:personal:00
+#7 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#9 little ADV little%4:02:00::
+#12 history NOUN history%1:28:00::
+#15 south NOUN south%1:15:01::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#24 history NOUN history%1:28:02::
+#26 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#33 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#41 own ADJ own%5:00:00:personal:00
+#43 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+His denials of extensive reading notwithstanding , it is no doubt safe to assume that he has spent time schooling himself in Southern history and that he has gained some acquaintance with the chief literary authors who have lived in the South or have written about the South .
+13
+#3 extensive ADJ extensive%5:00:00:large:00
+#4 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#11 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#13 assume VERB assume%2:31:00::
+#18 time NOUN time%1:28:01::,time%1:28:05::
+#19 school VERB school%2:41:01::
+#23 history NOUN history%1:28:02::
+#28 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#30 acquaintance NOUN acquaintance%1:09:00::
+#34 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#38 live VERB live%2:42:08::
+#41 south NOUN south%1:15:01::
+#47 south NOUN south%1:15:01::
+To believe otherwise would be unrealistic .
+1
+#2 otherwise ADV otherwise%4:02:03::
+But in looking at Faulkner against his background in Mississippi and the South , it is important not to lose the broader perspective .
+7
+#7 background NOUN background%1:07:00::,background%1:09:01::,background%1:26:00::
+#9 Mississippi NOUN mississippi%1:17:00::
+#12 south NOUN south%1:15:01::
+#17 not ADV not%4:02:00::
+#19 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#21 broad ADJ broad%5:00:00:comprehensive:00,broad%5:00:00:general:00
+#22 perspective NOUN perspective%1:09:00::
+His earliest work reflected heavy influences from English and continental writers .
+4
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#2 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#3 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+#9 continental ADJ continental%3:00:00::
+Evidence is plentiful that early and later also he has been indebted to the Gothic romancers , who deal in extravagant horror , to the symbolists writing at the end of the preceding century , and in particular to the stream-of-consciousness novelists , Henry James and James Joyce among them .
+7
+#4 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#6 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#18 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#21 horror NOUN horror%1:12:01::
+#26 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#29 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#33 century NOUN century%1:28:00::
+His repeated experimentation with the techniques of fiction testifies to an independence of mind and an originality of approach , but it also shows him touching at many points the stream of literary development back of him .
+6
+#18 approach NOUN approach%1:04:02::,approach%1:06:00::
+#25 touch VERB touch%2:30:00::,touch%2:37:00::
+#28 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#30 stream NOUN stream%1:04:00::,stream%1:11:00::,stream%1:14:00::,stream%1:26:00::
+#32 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#33 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+My intention , therefore , is not to say that Faulkner 's awareness has been confined within the borders of the South , but rather that he has looked at his world as a Southerner and that presumably his outlook is Southern .
+7
+#1 intention NOUN intention%1:09:00::
+#6 not ADV not%4:02:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#18 border NOUN border%1:25:00::
+#21 south NOUN south%1:15:01::
+#24 rather ADV rather%4:02:02::
+#39 outlook NOUN outlook%1:09:01::
+The ingredients of Faulkner 's novels and stories are by no means new with him , and most of the problems he takes up have had the attention of authors before him .
+4
+#7 story NOUN story%1:10:00::,story%1:10:01::,story%1:10:02::,story%1:10:03::
+#12 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#20 problem NOUN problem%1:09:00::,problem%1:26:00::
+#27 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+A useful comment on his relation to his region may be made , I think , by noting briefly how in handling Southern materials and Southern problems he has deviated from the pattern set by other Southern authors while remaining faithful to the essential character of the region .
+11
+#5 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 think VERB think%2:31:01::,think%2:31:03::
+#17 note VERB note%2:32:00::,note%2:39:00::
+#21 handle VERB handle%2:41:00::,handle%2:41:03::
+#23 material NOUN material%1:06:01::,material%1:10:00::
+#26 problem NOUN problem%1:09:00::,problem%1:26:00::
+#32 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#33 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#35 other ADJ other%3:00:00::
+#43 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+The planter aristocracy has appeared in literature at least since John Pendleton Kennedy published Swallow-Barn in 1832 and in his genial portrait of Frank Meriwether presiding over his plantation dominion initiated the most persistent tradition of Southern literature .
+9
+#1 planter NOUN planter%1:18:00::
+#4 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#13 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#20 genial ADJ genial%5:00:00:friendly:01
+#21 portrait NOUN portrait%1:06:00::
+#25 preside VERB preside%2:41:00::
+#30 initiate VERB initiate%2:30:00::
+#32 most ADV most%4:02:00::
+#34 tradition NOUN tradition%1:09:01::
+The thoroughgoing idealization of the planter society did not come , however , until after the Civil War when Southern writers were eager to defend a way of life which had been destroyed .
+4
+#5 planter NOUN planter%1:18:00::
+#6 society NOUN society%1:14:00::,society%1:14:02::
+#8 not ADV not%4:02:00::
+#9 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+As they looked with nostalgia to a society which had been swept away , they were probably no more than half conscious that they painted in colors which had never existed .
+3
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 society NOUN society%1:14:00::,society%1:14:02::
+#30 exist VERB exist%2:42:00::
+Their books found no less willing readers outside than inside the South , even while memories of the war were still sharp .
+7
+#1 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#2 find VERB find%2:38:10::,find%2:39:05::,find%2:40:02::
+#4 less ADV less%4:02:00::,less%4:02:01::
+#6 reader NOUN reader%1:18:02::,reader%1:18:04::,reader%1:18:05::,reader%1:18:06::
+#11 south NOUN south%1:15:01::
+#15 memory NOUN memory%1:09:00::,memory%1:09:02::
+#20 still ADV still%4:02:00::
+The tradition reached its apex , perhaps , in the works of Thomas Nelson Page toward the end of the century , and reappeared undiminished as late as 1934 in the best-selling novel So Red the Rose , by Stark Young .
+5
+#1 tradition NOUN tradition%1:09:01::
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#10 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#17 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#20 century NOUN century%1:28:00::
+Although Faulkner was the heir in his own family to this tradition , he did not have Stark Young 's inclination to romanticize and sentimentalize the planter society .
+8
+#7 own ADJ own%5:00:00:personal:00
+#8 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#11 tradition NOUN tradition%1:09:01::
+#15 not ADV not%4:02:00::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 inclination NOUN inclination%1:07:00::
+#26 planter NOUN planter%1:18:00::
+#27 society NOUN society%1:14:00::,society%1:14:02::
+The myth of the Southern plantation has had only a tangential relation with actuality , as Francis Pendleton Gaines showed forty years ago , and I suspect it has had a far narrower acceptance as something real than has generally been supposed .
+14
+#1 myth NOUN myth%1:10:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#11 relation NOUN relation%1:03:00::,relation%1:04:00::,relation%1:04:01::,relations%1:24:00::
+#19 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#21 year NOUN year%1:28:00::,year%1:28:01::
+#26 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#31 far ADV far%4:02:02::
+#32 narrow ADJ narrow%3:00:02::,narrow%3:00:06::,narrow%5:00:00:careful:00
+#33 acceptance NOUN acceptance%1:07:00::
+#36 real ADJ real%3:00:02::,real%5:00:00:concrete:00,real%5:00:00:serious:00
+#39 generally ADV generally%4:02:02::
+#41 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+Faulkner has found it useful , but he has employed it with his habitual independence of mind and skeptical outlook .
+4
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#9 employ VERB employ%2:34:00::
+#18 skeptical ADJ sceptical%5:00:00:distrustful:00
+#19 outlook NOUN outlook%1:09:01::
+Without saying or seeming to say that in portraying the Sartoris and the Compson families Faulkner 's chief concern is social criticism , we can say nevertheless that through those families he dramatizes his comment on the planter dynasties as they have existed since the decades before the Civil War .
+10
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#18 concern NOUN concern%1:09:00::
+#20 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#21 criticism NOUN criticism%1:10:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#30 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#37 planter NOUN planter%1:18:00::
+#42 exist VERB exist%2:42:00::
+It may be that in this comment he has broken from the conventional pattern more violently than in any other regard , for the treatment in his books is far removed from even the genial irony of Ellen Glasgow , who was the only important novelist before him to challenge the conventional picture of planter society .
+9
+#13 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#14 more ADV more%4:02:00::
+#19 other ADJ other%5:00:02:past:00
+#27 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#29 far ADV far%4:02:02::
+#34 genial ADJ genial%5:00:00:friendly:01
+#49 challenge VERB challenge%2:32:02::,challenge%2:32:03::
+#54 planter NOUN planter%1:18:00::
+#55 society NOUN society%1:14:00::,society%1:14:02::
+Faulkner 's low-class characters had but few counterparts in earlier Southern novels dealing with plantation life .
+5
+#3 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#7 counterpart NOUN counterpart%1:09:00::
+#9 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#12 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#15 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+They have an ancestry extending back , however , at least to 1728 , when William Byrd described the Lubberlanders he encountered in the back country of Virginia and North Carolina .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+#5 back ADV back%4:02:01::,back%4:02:04::
+#7 however ADV however%4:02:04::
+#17 describe VERB describe%2:32:01::
+#27 Virginia NOUN virginia%1:15:00::
+The chief literary antecedents of the Snopes clan appeared in the realistic , humorous writing which originated in the South and the Southwest in the three decades before the Civil War .
+5
+#2 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#8 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#11 realistic ADJ realistic%5:00:00:representational:00
+#14 writing NOUN writing%1:10:02::
+#19 south NOUN south%1:15:01::
+These narratives of coarse action and crude language appeared first in local newspapers , as a rule , and later found their way between book covers , though rarely into the planters ' libraries beside the morocco bound volumes of Horace , Mr. Addison , Mr. Pope , and Sir Walter Scott .
+13
+#3 coarse ADJ coarse%5:00:00:unrefined:01
+#4 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#6 crude ADJ crude%5:00:00:indecent:00
+#7 language NOUN language%1:10:01::,language%1:10:02::,language%1:10:03::
+#8 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#16 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+#19 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#22 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#24 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#25 cover NOUN cover%1:06:01::,cover%1:06:02::,cover%1:06:03::,cover%1:06:04::
+#28 rarely ADV rarely%4:02:00::
+#31 planter NOUN planter%1:18:00::
+#38 volume NOUN volume%1:06:00::,volume%1:10:00::
+There is evidence to suggest , in fact , that many authors of the humorous sketches were prompted to write them - or to make them as indelicate as they are - by way of protesting against the artificial refinements which had come to dominate the polite letters of the South .
+6
+#17 prompt VERB prompt%2:32:00::
+#19 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#33 way NOUN way%1:04:00::,way%1:09:00::
+#35 protest VERB protest%2:32:00::,protest%2:41:00::
+#47 letter NOUN letter%1:10:00::
+#50 south NOUN south%1:15:01::
+William Gilmore Simms , sturdy realist that he was , pleaded for a natural robustness such as he found in his favorites the great Elizabethans , to vivify the pale writings being produced around him .
+5
+#10 plead VERB plead%2:32:00::,plead%2:32:03::
+#18 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#29 pale ADJ pale%5:00:00:colorless:03,pale%5:00:00:weak:00
+#30 writing NOUN writing%1:10:02::
+#32 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+Simms admired the raucous tales emanating from the backwoods , but he had himself social affiliations which would not allow him to approve them fully .
+5
+#4 tale NOUN tale%1:10:00::
+#14 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#18 not ADV not%4:02:00::
+#22 approve VERB approve%2:31:00::,approve%2:32:00::
+#24 fully ADV fully%4:02:04::
+Augustus Baldwin Longstreet , a preacher and a college and university president in four Southern states , published the earliest of these backwoods sketches and in the character Ransy Sniffle , in the accounts of sharp horse-trading and eye gouging physical combat , and in the shockingly unliterary speech of his characters , he set an example followed by many after him .
+16
+#8 college NOUN college%1:14:00::,college%1:14:01::
+#11 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#15 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#17 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#19 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#27 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#33 account NOUN account%1:10:03::
+#35 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+#38 eye NOUN eye%1:08:00::,eye%1:09:01::
+#39 gouge VERB gouge%2:35:01::
+#40 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#48 speech NOUN speech%1:10:00::,speech%1:10:02::
+#51 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#54 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#56 example NOUN example%1:09:00::
+#57 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+Others who wrote of low characters and low life included Thomas Bangs Thorpe , creator of the Big Bear of Arkansas and Tom Owen , the Bee-Hunter ; Johnson Jones Hooper , whose character Simon Suggs bears a close kinship to Flem Snopes in both his willingness to take cruel advantage of all and sundry and the sharpness with which he habitually carried out his will ; and George Washington Harris , whose Tennessee hillbilly character Sut Lovingood perpetrated more unmalicious mischief and more unintended pain than any other character in literature .
+16
+#4 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#5 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#7 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#8 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#9 include VERB include%2:42:00::
+#33 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#38 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#65 will NOUN will%1:09:01::,willpower%1:07:00::
+#73 Tennessee NOUN tennessee%1:17:00::
+#74 hillbilly NOUN hillbilly%1:18:00::
+#75 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#79 more ADV more%4:02:01::
+#83 more ADV more%4:02:01::
+#85 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+#88 other ADJ other%3:00:00::
+#89 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+It would be profitable , I believe , to read these realistic humorists alongside Faulkner 's works , the thought being not that he necessarily read them and owed anything to them directly , but rather that they dealt a hundred years ago with a class of people and a type of life which have continued down to our time , to Faulkner 's time .
+17
+#3 profitable ADJ profitable%3:00:00::
+#6 believe VERB believe%2:31:03::
+#9 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#11 realistic ADJ realistic%5:00:00:representational:00
+#16 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#21 not ADV not%4:02:00::
+#25 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#32 directly ADV directly%4:02:05::
+#35 rather ADV rather%4:02:02::
+#38 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+#41 year NOUN year%1:28:00::,year%1:28:01::
+#45 class NOUN class%1:07:00::,class%1:14:01::
+#50 type NOUN type%1:18:00::
+#52 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#55 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#59 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#64 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+Such a comparison reminds us that in employing low characters in his works Faulkner is recording actuality in the South and moreover is following a long established literary precedent .
+10
+#2 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#7 employ VERB employ%2:34:00::
+#8 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#9 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#12 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#15 record VERB record%2:32:00::,record%2:32:03::
+#19 south NOUN south%1:15:01::
+#25 long ADJ long%3:00:01::,long%5:00:00:tall:00
+#26 established ADJ established%3:00:00::
+#27 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+Such characters , with their low existence and often low morality , produce humorous effects in his novels and tales , as they did in the writing of Longstreet and Hooper and Harris , but it need not be added that he gives them far subtler and more intricate functions than they had in the earlier writers ; nor is there need to add that among them are some of the most highly individualized and most successful of his characters .
+17
+#1 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#5 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#9 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#12 produce VERB produce%2:39:00::
+#14 effect NOUN effect%1:09:00::,effect%1:19:00::
+#19 tale NOUN tale%1:10:00::
+#26 writing NOUN writing%1:10:02::
+#37 not ADV not%4:02:00::
+#42 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+#44 far ADV far%4:02:02::
+#49 function NOUN function%1:04:00::,function%1:07:00::,function%1:10:00::
+#52 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#55 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#61 need NOUN need%1:26:00::
+#71 most ADV most%4:02:00::
+#75 most ADV most%4:02:00::
+#79 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+One of the early humorists already mentioned , Thomas Bangs Thorpe , can be used to illustrate another point where Faulkner touches authentic Southern materials and also earlier literary treatment of those materials .
+10
+#3 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#5 already ADV already%4:02:00::
+#14 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+#21 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#22 authentic ADJ authentic%5:00:00:genuine:00
+#24 material NOUN material%1:06:01::,material%1:10:00::
+#27 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#28 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#32 material NOUN material%1:06:01::,material%1:10:00::
+Thorpe came to Louisiana from the East as a young man prepared to find in the new country the setting of romantic adventure and idealized beauty .
+9
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#6 east NOUN east%1:15:02::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#13 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#16 new ADJ new%3:00:00::,new%5:00:00:unprecedented:00
+#17 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#19 setting NOUN setting%1:06:00::
+#25 beauty NOUN beauty%1:07:00::
+But Thorpe saw also the hardships of pioneer existence , the cultural poverty of the frontier settlements , and the slack morality which abounded in the new regions .
+2
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#20 slack ADJ slack%5:00:00:negligent:00
+As a consequence of the tensions thus produced in his thoughts and feelings , he wrote on the one hand sketches of idealized hunting trips and on the other an anecdote of the village of Hardscrabble , Arkansas , where no one had ever seen a piano ; and he wrote also the masterpiece of frontier humor , " The Big Bear of Arkansas " , in which earthy realism is placed alongside the exaggeration of the backwoods tall-tale and the awe with which man contemplates the grandeur and the mysteries of nature .
+18
+#2 consequence NOUN consequence%1:19:00::
+#5 tension NOUN tension%1:26:00::,tension%1:26:02::
+#6 thus ADV thus%4:02:01::
+#7 produce VERB produce%2:39:00::
+#10 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#12 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#23 hunt NOUN hunt%1:04:01::
+#24 trip NOUN trip%1:04:00::
+#43 ever ADV ever%4:02:05::
+#44 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#46 piano NOUN piano%1:06:00::
+#50 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#56 humor NOUN humor%1:07:01::
+#69 realism NOUN realism%1:07:00::
+#71 place VERB place%2:31:13::
+#84 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#90 mystery NOUN mystery%1:09:00::
+#92 nature NOUN nature%1:18:00::,nature%1:26:00::

@@ -1,0 +1,734 @@
+ Sizzling temperatures and hot summer pavements are anything but kind to the feet .
+3
+#3 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#4 summer NOUN summer%1:28:00::
+#12 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+That is why it is important to invest in comfortable , airy types of shoes .
+5
+#7 invest VERB invest%2:40:00::
+#9 comfortable ADJ comfortable%3:00:01::
+#11 airy ADJ airy%5:00:00:ventilated:00
+#12 type NOUN type%1:18:00::
+#14 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+There are many soft and light shoe leathers available .
+2
+#3 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#5 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+Many styles have perforations and an almost weightlessness achieved via unlined leathers .
+4
+#1 style NOUN style%1:09:01::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 unlined ADJ unlined%3:00:00::
+#11 leather NOUN leather%1:27:00::
+Styles run the gamut from slender and tapered with elongated toes to a newer squared toe shape .
+6
+#0 style NOUN style%1:09:01::
+#3 gamut NOUN gamut%1:07:00::
+#5 slender ADJ slender%5:00:00:thin:03
+#10 toe NOUN toe%1:08:01::
+#14 square ADJ square%3:00:00::
+#16 shape NOUN shape%1:07:00::,shape%1:07:01::
+Heels place emphasis on the long legged silhouette .
+2
+#0 heel NOUN heel%1:06:00::
+#1 place VERB place%2:31:13::
+Wine glass heels are to be found in both high and semi-heights .
+3
+#2 heel NOUN heel%1:06:00::
+#6 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#9 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+Stacked heels are also popular on dressy or tailored shoes .
+2
+#4 popular ADJ popular%5:00:01:common:01
+#9 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+Just the barest suggestion of a heel is found on teenage pumps .
+4
+#2 bare ADJ bare%5:00:00:meager:00
+#6 heel NOUN heel%1:06:00::
+#8 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 pump NOUN pump%1:06:01::
+While white is the coolest summer shade , there are lots of pastel hues along with tintable fabrics that will blend with any wardrobe color .
+7
+#1 white NOUN white%1:06:03::
+#4 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#5 summer NOUN summer%1:28:00::
+#6 shade NOUN shade%1:06:01::
+#10 lot PRON lots%1:23:00::
+#17 fabric NOUN fabric%1:06:00::
+#24 color NOUN color%1:07:00::,color%1:27:00::
+In the tintable group are high and little heels , squared and oval throats , and shantung like textures .
+2
+#5 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#10 square ADJ square%3:00:00::
+Do n't overlook the straws this year .
+2
+#2 overlook VERB overlook%2:39:01::
+#6 year NOUN year%1:28:00::,year%1:28:01::
+They come in crisp basket weaves in natural honey hues , along with lacy open weaves with a lustre finish in natural , white , black and a whole range of colors .
+12
+#3 crisp ADJ crisp%5:00:00:cold:01
+#7 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#14 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#15 weave NOUN weave%1:06:00::
+#18 luster NOUN luster%1:07:00::
+#19 finish NOUN finish%1:26:00::
+#21 natural ADJ natural%3:00:02::,natural%5:00:00:unprocessed:00
+#23 white NOUN white%1:06:03::
+#25 black NOUN black%1:07:00::
+#28 whole ADJ whole%3:00:00::
+#29 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#31 color NOUN color%1:07:00::,color%1:27:00::
+In the casual field straws feature wedge heels of cork or carved wood in a variety of styles .
+4
+#2 casual ADJ casual%5:00:01:informal:01
+#12 wood NOUN wood%1:06:02::
+#15 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#17 style NOUN style%1:09:01::
+For added comfort some of the Italian designed sandals have foam padded cushioning .
+3
+#2 comfort NOUN comfort%1:26:01::
+#8 sandal NOUN sandal%1:06:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The citrus tones popular in clothing are also to be found afoot .
+3
+#3 popular ADJ popular%5:00:00:nonclassical:00,popular%5:00:01:common:01
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#11 afoot ADV afoot%5:00:00:current:00
+Orange and lemon are considered important as are such pastels as blue and lilac .
+2
+#2 lemon NOUN lemon%1:07:00::
+#9 pastel NOUN pastel%1:07:00::
+In a brighter nautical vein is Ile de France blue .
+2
+#2 bright ADJ bright%3:00:00::,bright%5:00:00:colorful:00,bright%5:00:00:light:06
+#4 vein NOUN vein%1:10:00::
+Contrast trim provides other touches of color .
+5
+#1 trim NOUN trim%1:06:00::
+#2 provide VERB provide%2:34:00::,provide%2:40:00::
+#3 other ADJ other%5:00:02:past:00
+#4 touch NOUN touch%1:07:01::,touch%1:09:03::,touch%1:23:00::
+#6 color NOUN color%1:07:00::,color%1:27:00::
+Spectators in white crush textures dip toe and heel in smooth black , navy and taffy tan .
+9
+#2 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#5 dip VERB dip%2:36:00::
+#6 toe NOUN toe%1:08:01::
+#8 heel NOUN heel%1:06:00::
+#10 smooth ADJ smooth%3:00:00::
+#11 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#13 navy NOUN navy%1:07:00::
+#15 taffy NOUN taffy%1:13:00::
+#16 tan NOUN tan%1:07:00::
+Designed for summer comfort are the shoes illustrated .
+3
+#2 summer NOUN summer%1:28:00::
+#3 comfort NOUN comfort%1:26:01::
+#6 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+At the left is a pair of dressy straw pumps in a light , but crisp texture .
+4
+#2 left NOUN left%1:08:00::
+#8 straw NOUN straw%1:27:00::
+#9 pump NOUN pump%1:06:01::
+#15 crisp ADJ crisp%5:00:00:cold:01
+In a lacy open weave shoes have a luster finish , braided collar and bow highlight on the squared throat .
+9
+#3 open ADJ open%3:00:01::,open%5:00:00:coarse:00,open%5:00:00:unenclosed:00,open%5:00:00:unobstructed:00,open%5:00:00:unprotected:00,open%5:00:00:vulnerable:00
+#4 weave NOUN weave%1:06:00::
+#5 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 luster NOUN luster%1:07:02::
+#9 finish NOUN finish%1:26:00::
+#14 bow NOUN bow%1:06:03::
+#15 highlight VERB highlight%2:30:00::
+#18 square ADJ square%3:00:00::
+At right is a casual style in a crushed unlined white leather .
+5
+#1 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#4 casual ADJ casual%5:00:01:informal:01
+#5 style NOUN style%1:09:01::
+#9 unlined ADJ unlined%3:00:00::
+#10 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+Flats have a scalloped throat .
+2
+#0 flat NOUN flats%1:06:00::
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+An electric toothbrush ( Broxodent ) may soon take its place next to the electric razor in the American bathroom .
+3
+#7 soon ADV soon%4:02:00::
+#8 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#10 place NOUN place%1:04:00::,place%1:04:01::,place%1:09:00::,place%1:15:03::,place%1:26:00::,place%1:26:02::
+The brush moves up and down and is small enough to clean every dental surface , including the back of the teeth .
+8
+#1 brush NOUN brush%1:05:00::,brush%1:06:00::
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 enough ADV enough%4:02:00::
+#13 dental ADJ dental%3:01:00::
+#14 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#16 include VERB include%2:42:00::
+#18 back NOUN back%1:06:00::,back%1:15:02::
+#21 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+In addition , the motor has the seal of approval of the Underwriters Laboratories , which means it is safe .
+3
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#16 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#19 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+The unit consists of a small motor that goes on as soon as it is plugged in .
+1
+#1 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+The speed is controlled by pressing on the two brake buttons located where the index finger and thumb are placed when holding the motor .
+5
+#3 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#5 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#9 brake NOUN brake%1:06:00::
+#19 place VERB place%2:31:13::
+#21 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+The brushes can be cleaned and sterilized by boiling and are detachable so that every member of the family can have his own .
+6
+#6 sterilize VERB sterilise%2:29:01::
+#8 boiling NOUN boiling%1:04:00::
+#15 member NOUN member%1:18:00::,member%1:24:00::
+#18 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 own ADJ own%5:00:00:personal:00
+Most of us brush our teeth by hand .
+2
+#3 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#5 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+The same can be said of shaving yet the electric razor has proved useful to many men .
+4
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 shave NOUN shave%1:04:00::
+#12 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#16 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The electric toothbrush moves in a vertical direction , the way dentists recommend .
+5
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#6 vertical ADJ vertical%3:00:00::
+#7 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#10 way NOUN way%1:04:00::,way%1:09:00::
+#12 recommend VERB recommend%2:30:00::,recommend%2:32:00::,recommend%2:32:01::
+In addition , it is small enough to get into crevices , jacket and crown margins , malposed anteriors , and the back teeth .
+2
+#6 enough ADV enough%4:02:00::
+#15 margin NOUN margin%1:25:00::
+The bristles are soft enough to massage the gums and not scratch the enamel .
+5
+#3 soft ADJ soft%3:00:01::,soft%5:00:00:mild:00
+#4 enough ADV enough%4:02:00::
+#6 massage VERB massage%2:35:00::
+#8 gum NOUN gum%1:08:00::
+#11 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+It is conceivable that Broxodent could do a better job than ordinary brushing , especially in those who do not brush their teeth properly .
+8
+#8 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#9 job NOUN job%1:04:01::,job%1:04:02::,job%1:04:04::,job%1:06:01::,job%1:10:01::,job%1:26:00::
+#11 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#12 brush NOUN brush%1:05:00::,brush%1:06:00::
+#14 especially ADV especially%4:02:00::
+#20 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#22 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#23 properly ADV properly%4:02:00::
+Several dentists and patients with special dental problems have experimented with the device .
+4
+#3 patient NOUN patient%1:18:00::
+#6 dental ADJ dental%3:01:00::
+#7 problem NOUN problem%1:09:00::,problem%1:26:00::
+#12 device NOUN device%1:06:00::
+The results were good although they are difficult to compare with hand brushing , particularly when the individual knows how to brush his teeth properly .
+8
+#3 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#9 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#14 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#18 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#21 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+#23 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#24 properly ADV properly%4:02:00::
+The electric gadget is most helpful when there are many crowned teeth and in individuals who are elderly , bedfast with a chronic disease , or are handicapped by disorders such as cerebral palsy or muscular dystrophy .
+2
+#1 electric ADJ electric%3:01:00::
+#11 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+But for many of us , it will prove an enjoyable luxury .
+1
+#8 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+It is not as convenient as the old type toothbrush and the paste tends to shimmy of the bristles .
+4
+#2 not ADV not%4:02:00::
+#7 old ADJ old%3:00:01::
+#8 type NOUN type%1:18:00::
+#13 tend VERB tend%2:42:01::
+Since the apparatus is new , it requires experimentation and changes in technique .
+2
+#2 apparatus NOUN apparatus%1:06:00::
+#10 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+writes : Does numbness in the left hand at night , which awakens the person , indicate brain tumor ?
+2
+#14 person NOUN person%1:03:00::,person%1:08:00::
+#16 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+This is a common symptom and the cause usually is pressure on the nerve leading to the affected hand .
+7
+#3 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#7 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+#10 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#13 nerve NOUN nerve%1:08:00::
+#14 lead VERB lead%2:32:00::,lead%2:38:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:03::,lead%2:42:12::
+#17 affected ADJ affected%3:00:00::
+#18 hand NOUN hand%1:08:00::,hand%1:10:01::
+The pressure may come from muscles , tendons , or bones anywhere from the neck to the hand .
+6
+#1 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#5 muscle NOUN muscle%1:08:00::,muscle%1:08:01::
+#10 bone NOUN bone%1:08:00::
+#14 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+#17 hand NOUN hand%1:08:00::,hand%1:10:01::
+writes : Do steam baths have any health value ?
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+No , other than cleaning out the pores and making the sweat glands work harder .
+2
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 hard ADV hard%4:02:00::
+An ordinary hot bath or shower will do the same .
+5
+#1 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#2 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#3 bath NOUN bath%1:06:00::
+#5 shower NOUN shower%1:04:00::
+#9 same PRON same%3:00:02::
+writes : What makes my hands numb when sewing ?
+2
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#5 hand NOUN hand%1:08:00::,hand%1:10:01::
+There are many possibilities , including poor circulation , a variety of neurological conditions , and functional disorders .
+6
+#5 include VERB include%2:42:00::
+#6 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+#7 circulation NOUN circulation%1:19:00::
+#10 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#13 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#16 functional ADJ functional%3:00:02::
+This manifestation may be an early sign of multiple sclerosis or the beginning of sewer 's cramp .
+4
+#5 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#6 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#14 sewer NOUN sewer%1:18:00::
+#16 cramp NOUN cramp%1:26:00::
+writes : Does a brace help in sciatica ?
+2
+#4 brace NOUN brace%1:06:04::
+#5 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+A back brace might help , depending upon the cause of sciatica .
+2
+#4 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#9 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+writes : Does the cholesterol go down when most of the thyroid gland is removed ?
+1
+#14 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+The cholesterol level in the blood is influenced by the glands of the body .
+4
+#2 level NOUN level%1:26:00::,level%1:26:01::
+#5 blood NOUN blood%1:04:00::,blood%1:08:00::
+#10 gland NOUN gland%1:08:00::
+#13 body NOUN body%1:08:00::,body%1:08:02::
+It is low when the thyroid is overactive and high when the gland is sluggish .
+4
+#2 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#5 thyroid NOUN thyroid%1:08:00::
+#9 high ADJ high%3:00:02::
+#12 gland NOUN gland%1:08:00::
+The latter is likely to occur when the thyroid is removed .
+3
+#1 latter ADJ latter%3:00:00::
+#8 thyroid NOUN thyroid%1:08:00::
+#10 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+The gap between the bookshelf and the record cabinet grows smaller with each new recording catalogue .
+5
+#1 gap NOUN gap%1:04:00::
+#7 record NOUN record%1:06:00::
+#8 cabinet NOUN cabinet%1:06:00::
+#13 new ADJ new%3:00:00::
+#14 recording NOUN recording%1:04:00::,recording%1:06:00::,recording%1:06:01::
+There 's more reading and instruction to be heard on discs than ever before , although the spoken rather than the sung word is as old as Thomas Alva Edison 's first experiment in recorded sound .
+7
+#3 reading NOUN reading%1:09:00::,reading%1:09:01::,reading%1:10:00::,reading%1:10:02::
+#10 disk NOUN disk%1:06:02::
+#12 ever ADV ever%4:02:05::
+#13 before ADV before%4:02:03::
+#22 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#25 old ADJ old%3:00:01::
+#31 first ADJ first%3:00:00::,first%4:02:00::
+Edison could hardly have guessed , however , that Sophocles would one day appear in stereo .
+5
+#2 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#6 however ADV however%4:02:04::
+#12 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#13 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#15 stereo NOUN stereo%1:06:00::
+If the record buyer 's tastes are somewhat eclectic or even the slightest bit esoteric , he will find them satisfied on educational records .
+7
+#2 record NOUN record%1:06:00::
+#5 taste NOUN taste%1:09:01::,taste%1:12:02::
+#8 eclectic ADJ eclectic%5:00:00:discriminating:00
+#12 slight ADJ slight%5:00:00:insignificant:00
+#13 bit NOUN bit%1:23:01::
+#18 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#23 record NOUN record%1:06:00::
+And he will avoid eye-strain in the process .
+2
+#3 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#7 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+Everything from poetry to phonetics , history to histrionics , philosophy to party games has been adapted to the turntable .
+2
+#6 history NOUN history%1:28:00::
+#8 histrionic NOUN histrionics%1:10:01::
+For sheer ambition , take the Decca series titled modestly " Wisdom " .
+3
+#1 sheer ADJ sheer%5:00:00:complete:00
+#4 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#7 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+Volumes One and Two , selected from the sound tracks of a television series , contain " conversations with the elder wise men of our day " .
+5
+#0 volume NOUN volume%1:06:00::,volume%1:10:00::
+#12 television NOUN television%1:06:00::
+#13 series NOUN series%1:10:01::
+#15 contain VERB contain%2:42:00::,contain%2:42:06::
+#25 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+These sages include poet Carl Sandburg , statesman Jawaharlal Nehru and sculptor Jacques Lipchitz , in Volume One , and playwright Sean O'Casey , David Ben-Gurion , philosopher Bertrand Russell and the late Frank Lloyd Wright in the second set .
+6
+#1 sage NOUN sage%1:18:00::
+#2 include VERB include%2:42:00::
+#16 volume NOUN volume%1:06:00::,volume%1:10:00::
+#32 late ADJ late%5:00:00:dead:01,late%5:00:02:past:00
+#38 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#39 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+Hugh Downs is heard interviewing Wright , for an added prestige fillip .
+1
+#11 fillip NOUN fillip%1:09:00::
+There 's more specialization and a narrower purpose in two albums recently issued by Dover Publications .
+3
+#6 narrow ADJ narrow%3:00:02::,narrow%3:00:06::,narrow%5:00:00:careful:00
+#10 album NOUN album%1:10:00::
+#12 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+Dover " publishes " what the company calls " Listen and Learn " productions designed to teach foreign languages .
+6
+#2 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#6 company NOUN company%1:14:03::
+#7 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#13 production NOUN production%1:04:00::,production%1:10:00::
+#17 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#18 language NOUN language%1:10:00::
+Previous presentations have been on French , Spanish , Russian , Italian , German and Japanese .
+8
+#0 previous ADJ previous%5:00:00:preceding:00
+#1 presentation NOUN presentation%1:04:01::
+#5 French NOUN french%1:10:00::
+#7 Spanish NOUN spanish%1:10:00::
+#9 Russian NOUN russian%1:10:00::
+#11 Italian NOUN italian%1:10:00::
+#13 German NOUN german%1:10:00::
+#15 Japanese NOUN japanese%1:18:00::
+But the firm has recognized the tight dollar and the tourist 's desire to visit the " smaller , less traveled and relatively inexpensive countries " , and is now prepared to teach modern Greek and Portuguese through recordings .
+8
+#4 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#6 tight ADJ tight%3:00:02::
+#10 tourist NOUN tourist%1:18:00::
+#14 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+#20 traveled ADJ traveled%3:00:00::
+#24 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#29 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#36 Portuguese NOUN portuguese%1:10:00::
+The respective vocabularies " essential for travel " are available in separate albums .
+2
+#4 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#12 album NOUN album%1:10:00::
+Thanks to Spoken Arts Records , history buffs may hear Lincoln 's " most memorable speeches and letters " in a two disc set , interpreted by Lincoln authority and lecturer Roy P. Basler .
+9
+#6 history NOUN history%1:28:00::
+#7 buff NOUN buff%1:18:00::
+#13 most ADV most%4:02:00::
+#15 speech NOUN speech%1:10:00::,speech%1:10:02::
+#17 letter NOUN letter%1:10:00::
+#22 disk NOUN disk%1:06:02::
+#23 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#25 interpret VERB interpret%2:31:00::,interpret%2:32:00::,interpret%2:32:01::,interpret%2:36:00::
+#28 authority NOUN authority%1:07:00::,authority%1:07:02::,authority%1:18:01::
+As a contemporary bonus , the set includes Carl Sandburg 's address at a joint session of Congress , delivered on Lincoln 's birthday two years ago .
+8
+#2 contemporary ADJ contemporary%5:00:00:modern:00
+#6 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#7 include VERB include%2:42:00::
+#11 address NOUN address%1:10:00::,address%1:10:03::
+#15 session NOUN session%1:10:00::
+#17 congress NOUN congress%1:14:00::,congress%1:14:01::
+#19 deliver VERB deliver%2:32:00::,deliver%2:32:01::
+#25 year NOUN year%1:28:00::,year%1:28:01::
+For those who " like poetry but never get around to reading it " , the Library of Congress makes it possible for poets to be heard reading their own work .
+6
+#7 never ADV never%4:02:00::
+#11 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#19 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#27 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#29 own ADJ own%5:00:00:personal:00
+#30 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+The program was instituted in 1940 , and releases are available only from the Recording Laboratory of the Library of Congress , Washington 25 , D. C. A catalogue is available on request .
+5
+#1 program NOUN program%1:09:00::,program%1:09:01::
+#3 institute VERB institute%2:36:01::
+#8 release NOUN release%1:04:00::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 Washington NOUN washington%1:15:01::
+Newest on the list are John Ciardi , W. D. Snodgrass , I. A. Richards , Oscar Williams , Robert Hillyer , John Hall Wheelock , Stephen Vincent Benet , Edwin Muir , John Peal Bishop and Maxwell Bodenheim .
+2
+#0 new ADJ new%3:00:00::
+#3 list NOUN list%1:10:00::
+Two poets are paired on each record , in the order given above .
+3
+#6 record NOUN record%1:06:00::
+#10 order NOUN order%1:10:02::,order%1:14:00::,order%1:26:00::,order%1:26:02::
+#11 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Decca is not the only large commercial company to impart instruction .
+5
+#2 not ADV not%4:02:00::
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#6 commercial ADJ commercial%3:01:00::
+#7 company NOUN company%1:14:03::
+RCA Victor has an ambitious and useful project in a stereo series called " Adventures in Music " , which is an instructional record library for elementary schools .
+5
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 project NOUN project%1:04:00::,project%1:09:00::
+#11 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+#16 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#23 record NOUN record%1:06:00::
+Howard Mitchell and the National Symphony perform in the first two releases , designed for grades one and two .
+4
+#6 perform VERB perform%2:36:00::,perform%2:36:01::
+#9 first ADJ first%3:00:00::,first%4:02:00::
+#11 release NOUN release%1:04:00::
+#15 grade NOUN grade%1:07:00::,grade%1:09:00::,grade%1:10:00::,grade%1:14:00::
+Teaching guides are included with each record .
+3
+#1 guide NOUN guide%1:09:00::
+#3 include VERB include%2:42:00::
+#6 record NOUN record%1:06:00::
+In an effort to fortify himself against the unforeseen upsets sure to arise in the future , Herbert A. Leggett , banker editor of the Phoenix " Arizona Progress " , reflects upon a few of the depressing experiences of the feverish fifties .
+6
+#9 upset NOUN upset%1:04:00::
+#12 arise VERB arise%2:30:00::,arise%2:42:01::
+#15 future NOUN future%1:10:00::,future%1:28:00::
+#22 editor NOUN editor%1:18:00::
+#25 Phoenix NOUN phoenix%1:15:00::
+#31 reflect VERB reflect%2:31:00::
+One of the roughest was the TV quiz shows , which gave him inferiority complexes .
+3
+#3 rough ADJ rough%5:00:00:aggressive:00,rough%5:00:00:difficult:00,rough%5:00:00:stormy:00
+#7 quiz NOUN quiz%1:10:00::
+#8 show NOUN show%1:04:00::,show%1:10:00::
+Though it was a great relief when the big brains on these shows turned out to be frauds and phonies , it did irreparable damage to the ego of the editor and many another intelligent , well-informed American .
+7
+#4 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#5 relief NOUN relief%1:04:01::,relief%1:11:00::,relief%1:12:00::,relief%1:26:00::,relief%1:28:00::
+#8 big ADJ big%5:00:00:conspicuous:00,big%5:00:00:important:00
+#12 show NOUN show%1:04:00::,show%1:10:00::
+#24 damage NOUN damage%1:04:00::
+#30 editor NOUN editor%1:18:00::
+#37 American NOUN american%1:18:00::,american%1:18:01::
+But the one that upset the financially wise was the professional dancer who related in a book how he parlayed his earnings into a $ 2000000 profit on the stock market .
+4
+#4 upset VERB upset%2:37:01::
+#10 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#13 relate VERB relate%2:32:00::
+#16 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+Every man who dabbles in the market to make a little easy money on the side and suffers losses could at the time hardly face his wife who was wondering how her husband could be so dumb .
+8
+#6 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+#8 make VERB make%2:40:01::
+#17 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#23 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#24 face VERB face%2:32:00::,face%2:32:03::
+#29 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#35 so ADV so%4:02:03::,so%4:02:07::
+#36 dumb ADJ dumb%5:00:00:stupid:00
+Investors breathed more freely when it was learned that this acrobatic dancer had turned magician and was only doing a best seller book to make some dough .
+6
+#7 learn VERB learn%2:31:01::,learn%2:31:03::
+#13 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#17 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#24 make VERB make%2:40:01::
+#26 dough NOUN dough%1:21:00::
+People who take us for suckers are like the Westerner who had on exhibit his superior marksmanship in the form of a number of bull's-eye achievements .
+6
+#0 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#5 sucker NOUN sucker%1:18:01::
+#15 superior ADJ superior%3:00:01::
+#19 form NOUN form%1:09:01::,form%1:10:00::
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#25 achievement NOUN achievement%1:04:00::
+The promoter who wanted to sign him up for the circus asked him how he was able to do it .
+4
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#10 circus NOUN circus%1:04:01::
+#11 ask VERB ask%2:32:00::,ask%2:32:04::
+#16 able ADJ able%3:00:00::
+His answer was simple but honest .
+1
+#3 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+He just shot at the board and then drew circles around the holes to form a bull's-eye .
+7
+#1 just ADV just%4:02:00::,just%4:02:03::
+#2 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#5 board NOUN board%1:06:00::,board%1:06:03::,board%1:27:00::
+#8 draw VERB draw%2:35:01::,draw%2:36:00::,draw%2:36:02::
+#9 circle NOUN circle%1:06:02::,circle%1:25:00::,circle%1:25:01::
+#12 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#14 form VERB form%2:30:01::,form%2:30:05::,form%2:36:00::
+One of the obstacles to the easy control of a 2 - year old child is a lack of verbal communication .
+5
+#6 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#7 control VERB control%2:35:00::,control%2:37:06::,control%2:41:00::,control%2:41:01::
+#12 year NOUN years%1:28:00::
+#19 verbal ADJ verbal%5:00:00:spoken:00
+#20 communication NOUN communication%1:03:00::,communication%1:10:01::
+The child understands no .
+1
+#2 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+He senses his mother 's disapproval .
+1
+#3 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+But explanations leave him confused and unmoved .
+1
+#2 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+If his mother loves him , he clings to that love as a ballast .
+3
+#2 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#10 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#13 ballast NOUN ballast%1:06:00::
+He wants Mommy to think him a good boy .
+3
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#8 boy NOUN boy%1:18:03::
+He does n't want her to look frowningly at him , or speak to him angrily .
+2
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+He wants to be called sweet , good , considerate and mother 's little helper .
+5
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#4 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#5 sweet ADJ sweet%5:00:00:lovable:00
+#7 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#11 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+But even mother 's loving attitude will not always prevent misbehavior .
+3
+#2 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#8 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#9 prevent VERB prevent%2:41:00::
+His desires are so strong that he needs constant reassurance of his mother 's love for him and what she expects of him , in order to overcome them .
+5
+#3 so ADV so%4:02:03::,so%4:02:07::
+#4 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#7 need VERB need%2:42:00::
+#12 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#14 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+His own inner voice , which should tell him what not to do , has not developed .
+6
+#1 own ADJ own%5:00:00:personal:00
+#2 inner ADJ inner%5:00:00:inward:00
+#3 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 not ADV not%4:02:00::
+#16 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+It won't develop until he has words with which to clothe it .
+2
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+The conscience is non-existent in the 2 - year old .
+1
+#8 year NOUN years%1:28:00::
+What can a mother do then to prevent misbehavior ?
+3
+#3 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#5 then ADV then%4:02:02::
+#7 prevent VERB prevent%2:41:00::
+She can decrease the number of temptations .
+1
+#4 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+She can remove all knick-knacks within reach .
+1
+#2 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+The fewer nos she has to utter the more effective they will be .
+2
+#6 utter VERB utter%2:32:02::
+#9 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+If he can't play with Mommy 's magazines , he should have some old numbers of his own .
+6
+#3 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#7 magazine NOUN magazine%1:10:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 old ADJ old%3:00:01::,old%3:00:02::
+#14 number NOUN number%1:06:00::,number%1:10:00::,number%1:10:04::
+#17 own ADJ own%5:00:00:personal:00
+If Daddy 's books are out of bounds his own picture books are not .
+2
+#3 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#9 own ADJ own%5:00:00:personal:00
+Toys he has can be made to act as substitutes for family temptations such as refrigerator and gas stove .
+4
+#0 toy NOUN toy%1:06:03::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+During this precarious period of development the mother should continue to influence the growth of the child 's conscience .
+6
+#2 precarious ADJ precarious%5:00:00:insecure:02
+#3 period NOUN period%1:28:00::,period%1:28:03::
+#5 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#7 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#13 growth NOUN growth%1:11:01::;1:22:01::,growth%1:22:00::,growth%1:22:02::
+She tells him of the consequences of his behavior .
+2
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#5 consequence NOUN consequence%1:19:00::
+If he bites a playmate she says , " Danny won't like you " .
+4
+#2 bite VERB bite%2:35:00::
+#4 playmate NOUN playmate%1:18:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 like VERB like%2:37:05::
+If he snatches a toy , she says , " Caroline wants her own truck just as you do " .
+6
+#4 toy NOUN toy%1:06:03::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#13 own ADJ own%5:00:00:personal:00
+#14 truck NOUN truck%1:06:00::,truck%1:06:01::
+#15 just ADV just%4:02:05::
+There is no use trying to " Explain " to a 2 - year old .
+2
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#13 year NOUN years%1:28:00::
+Actions speak louder .
+2
+#0 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+Remove the child from the scene of his misbehavior .
+2
+#0 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#5 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+Substitute approved objects for forbidden ones and keep telling him how he is to act .
+4
+#2 object NOUN object%1:03:00::
+#7 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#8 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#14 act VERB act%2:29:00::,act%2:41:00::
+He won't submit to his natural desires all the time , and it 's Mother 's love that is responsible for his good behavior .
+4
+#2 submit VERB submit%2:31:12::,submit%2:33:00::,submit%2:41:00::
+#14 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#16 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#22 good ADJ good%3:00:01::,good%5:00:01:sound:00

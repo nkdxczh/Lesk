@@ -1,0 +1,226 @@
+ Every library borrower , or at least those whose taste goes beyond the five-cent fiction rentals , knows what it is to hear the librarian say apologetically , " I 'm sorry , but we do n't have that book .
+3
+#17 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#37 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Behind this reply , and its many variations , is the ever-present budget problem all libraries must face , from the largest to the smallest .
+1
+#17 face VERB face%2:32:00::,face%2:32:03::
+What to buy out of the year 's grist of nearly 15000 book titles ?
+1
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+What to buy for adult and child readers , for lovers of fiction and nonfiction , for a clientele whose wants are incredibly diversified , when your budget is pitifully small ?
+1
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+A startlingly high percentage do not exceed $ 500 annually , which includes the librarian 's salary , and not even the New York Public has enough money to meet its needs - this in the world 's richest city .
+3
+#12 include VERB include%2:42:00::
+#25 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#29 meet VERB meet%2:41:02::,meet%2:42:01::
+Confronted with this situation , most libraries either endure the severe limitations of their budgets and do what they can with what they have , or else depend on the bounty of patrons and local governments to supplement their annual funds .
+2
+#8 endure VERB endure%2:31:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In some parts of the country , however , a co-operative movement has begun to grow , under the wing of state governments , whereby , with the financial help of the state , libraries share their book resources on a county-wide or regional basis .
+2
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#15 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+New York State has what is probably the most advanced of these co-operative systems , so well developed that it has become a model for others to follow .
+3
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 become VERB become%2:30:00::,become%2:42:01::
+#27 follow VERB follow%2:30:00::,follow%2:36:00::,follow%2:36:01::,follow%2:41:10::
+Because it is so large a state , with marked contrasts in population density , the organization of the New York co-operative offers a cross-section of how the plan works .
+1
+#29 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+At one extreme are the systems of upper New York State , where libraries in two or more counties combine to serve a large , sparsely populated area .
+2
+#19 combine VERB combine%2:30:00::,combine%2:35:01::,combine%2:40:00::,combine%2:41:00::
+#21 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+At the other are organizations like the newly formed Nassau Library System , in a high-density area , with ample resources and a rapidly growing territory to serve .
+2
+#24 grow VERB grow%2:30:04::
+#27 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+Both these types , and those in between , are in existence by reason of a legislative interest in libraries that began at Albany as early as 1950 , with the creation by the legislature of county library systems financed by county governments with matching funds from the state .
+1
+#21 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+It was a step in the right direction , but it took an additional act passed in 1958 to establish fully the thriving systems of today .
+2
+#15 pass VERB pass%2:41:02::
+#19 establish VERB establish%2:36:01::,establish%2:41:00::
+Under this law annual grants are given to systems in substantial amounts .
+1
+#6 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+An earlier difficulty was overcome by making it clear that individual libraries in any area might join or not , as they saw fit .
+2
+#6 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#22 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+A large , well-stocked library , surrounded in a county by smaller ones , may feel that the demands on its resources are likely to be too great .
+1
+#15 feel VERB feel%2:31:00::,feel%2:39:00::
+The local community maintains responsibility for the financial support of its own library program , facilities , and services , but wider resources and additional services become available through membership in a system .
+2
+#3 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#26 become VERB become%2:30:00::,become%2:42:01::
+All services are given without cost to members .
+1
+#3 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+So obvious are these advantages that nearly 95 per cent of the population of New York State now has access to a system , and enthusiastic librarians foresee the day , not too distant , when all the libraries in the state will belong to a co-op .
+1
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+To set up a co-operative library system , the law requires a central book collection of 100000 nonfiction volumes as the nucleus , and the system is organized around it .
+1
+#27 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+Each system develops differently , according to the area it serves , but the universal goal is to pool the resources of a given area for maximum efficiency .
+3
+#2 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#10 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#18 pool VERB pool%2:40:00::
+The basic state grant is thirty cents for each person served , and there is a further book incentive grant that provides an extra twenty cents up to fifty cents per capita , if a library spends a certain number of dollars .
+2
+#10 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#21 provide VERB provide%2:34:00::,provide%2:40:00::
+In Nassau County , for example , the heavily settled Long Island suburb of New York City , the system is credited by the state with serving one million persons , a figure that has doubled since 1950 .
+3
+#21 credit VERB credit%2:31:12::
+#26 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#35 double VERB double%2:40:03::
+The Nassau system recognizes that its major task it to broaden reference service , what with the constant expansion of education and knowledge , and the pressure of population growth in a metropolitan area .
+1
+#3 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+The need is for reference works of a more specialized nature than individual libraries , adequate to satisfy everyday needs , could afford .
+1
+#22 afford VERB afford%2:34:00::,afford%2:42:00::
+Nassau is currently building a central collection of reference materials in its Hempstead headquarters , which will reach its goal of 100000 volumes by 1965 .
+1
+#17 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+The major part of this collection is in the central headquarters building , and the remainder is divided among five libraries in the system designated as subject centers .
+1
+#17 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+On microfilm , headquarters also has a file of the New York Times from its founding in 1851 to the present day , as well as bound volumes of important periodicals .
+1
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Headquarters gets about 100 requests every day .
+1
+#1 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+It is connected by teletype with the State Library in Albany , which will supply any book to a system that the system itself cannot provide .
+1
+#25 provide VERB provide%2:34:00::,provide%2:40:00::
+The books are carried around by truck in canvas bags from headquarters to the other libraries .
+1
+#3 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+East Meadow has philosophy , psychology , and religion ; Freeport houses social science , pure science , and language ; history , biography , and education are centered in Hempstead ; Levittown has applied science , business , and literature ; while Hewlett-Woodmere is the repository of art , music , and foreign languages .
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 house VERB house%2:42:02::
+#33 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The reference coordinator at headquarters also serves as a consultant , and is available to work with the local librarian in helping to strengthen local reference service .
+3
+#6 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#15 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#21 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Public libraries in Nassau County have been lending books to each other by mail for a quarter-century , but the system enables this process to operate on an organized and far more comprehensive basis .
+3
+#7 lend VERB lend%2:40:00::
+#21 enable VERB enable%2:30:00::,enabling%3:00:00::
+#25 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+Local libraries find , too , that the new plan saves tax dollars because books can be bought through the system , and since the system buys in bulk it is able to obtain larger discounts than would be available to an individual library .
+5
+#2 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#10 save VERB save%2:30:00::,save%2:40:02::,save%2:40:04::
+#17 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#26 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#33 obtain VERB obtain%2:40:00::
+Further money is saved through economy in bookkeeping and clerical detail as the result of central billing .
+1
+#3 save VERB save%2:30:00::,save%2:40:02::,save%2:40:04::
+Schools and community groups turn to the headquarters film library for documentary , art , and experimental films to show at libraries that sponsor local programs , and to organizations in member communities .
+2
+#19 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#23 sponsor VERB sponsor%2:40:00::
+The most recent film catalogue , available at each library , lists 110 titles presently in the collection , any of which may be borrowed without charge .
+1
+#11 list VERB list%2:32:00::,list%2:41:00::
+This catalogue lists separately films suitable for children , young adults , or adults , although some classics cut across age groups , such as " Nanook of the North " , " The Emperor 's Nightingale " , and " The Red Balloon " .
+1
+#2 list VERB list%2:32:00::,list%2:41:00::
+Workshops are conducted by the system 's audio-visual consultant for the staffs of member libraries , teaching them the effective use of film as a library service .
+1
+#2 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+The system well understands that one of its primary responsibilities is to bring children and books together ; consequently an experienced children 's librarian at headquarters conducts a guidance program designed to promote well-planned library activities , cooperating with the children 's librarians in member libraries by means of individual conferences , workshops , and frequent visits .
+2
+#3 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#26 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+Headquarters has also set up a central juvenile book-review and book-selection center , to provide better methods of purchasing and selection .
+1
+#14 provide VERB provide%2:34:00::,provide%2:40:00::
+In addition to the interlibrary loan service and the children 's program , headquarters has a public relations director who seeks to get wider grassroots support for quality library service in the county ; it prepares cooperative displays ( posters , booklists , brochures , and other promotional material ) for use in member libraries ; it maintains a central exhibit collection to share displays already created and used ; and it publishes Sum and Substance , a monthly newsletter , which reports the system 's activities to the staffs and trustees of member libraries .
+5
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#35 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#72 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#82 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+The system itself is governed by a board of trustees , geographically representing its membership .
+1
+#4 govern VERB govern%2:41:01::,govern%2:41:02::
+Librarians , a patient breed of men and women who have borne much with dedication , can begin to see results today .
+3
+#11 bear VERB bear%2:31:00::
+#17 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#19 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+To them especially the librarians , with the help of co-ops , hope they will never have to say , " I 'm sorry , we do n't have that book " .
+3
+#16 have VERB have%2:42:08::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The great advances made in recent years in Communist strength and in our own capacity to destroy require an educated citizenry in the Western world .
+1
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The desire and ability to read are important aspects of our cultural life .
+1
+#5 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+We cannot consider ourselves educated if we do not read ; if we are not discriminating in our reading ; if we do not know how to use what we do read .
+5
+#9 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#15 discriminate VERB discriminate%2:31:00::
+#24 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#27 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#31 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+We must not permit our society to become a slave to the scientific age , as might well happen without the cultural and spiritual restraint that comes from the development of the human mind through wisdom absorbed from the written word .
+3
+#7 become VERB become%2:30:00::,become%2:42:01::
+#18 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#36 absorb VERB absorb%2:31:00::,absorb%2:35:00::,absorb%2:35:10::,absorb%2:43:00::
+A fundamental source of knowledge in the world today is the book found in our libraries .
+1
+#12 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+Although progress has been made in America 's system of libraries it still falls short of what is required if we are to maintain the standards that are needed for an informed America .
+2
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#23 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+The problem grows in intensity each year as man 's knowledge , and his capacity to translate such knowledge to the written word , continue to expand .
+3
+#2 grow VERB grow%2:30:04::
+#16 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+#24 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+The inadequacy of our library system will become critical unless we act vigorously to correct this condition .
+2
+#7 become VERB become%2:30:00::,become%2:42:01::
+#11 act VERB act%2:33:00::,act%2:41:00::
+In college libraries , 57 per cent of the total number of books are owned by 124 of 1509 institutions surveyed last year by the U. S. Office of Education .
+2
+#14 own VERB owned%3:00:00::
+#20 survey VERB survey%2:39:00::
+And over 66 per cent of the elementary schools with 150 or more pupils do not have any library at all .
+1
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+In every aspect of service - to the public , to children in schools , to colleges and universities - the library of today is failing to render vitally needed services .
+1
+#27 render VERB render%2:32:01::,render%2:36:00::,render%2:40:01::,render%2:40:02::,render%2:40:03::
+Only public understanding and support can provide that service .
+1
+#6 provide VERB provide%2:34:00::,provide%2:40:00::
+This is one of the main reasons for National Library Week , April 16 - 22 , and for its theme : " For a richer , fuller life , read " !
+1
+#30 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::

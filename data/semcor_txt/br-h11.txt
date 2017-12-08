@@ -1,0 +1,571 @@
+ Another recent achievement was the successful development of a method for the complete combustion in a bomb calorimeter of a metal in fluorine when the product is relatively non-volatile .
+5
+#1 recent ADJ recent%5:00:00:past:00
+#2 achievement NOUN achievement%1:04:00::
+#12 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#20 metal NOUN metal%1:27:00::
+#25 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+This work gave a heat of formation of aluminum fluoride which closely substantiates a value which had been determined by a less direct method , and raises this property to 15 percent above that accepted a few years ago .
+8
+#14 value NOUN value%1:09:00::
+#18 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+#21 less ADV less%4:02:00::,less%4:02:01::
+#22 direct ADJ direct%3:00:00::,direct%3:00:04::,direct%5:00:00:absolute:00,direct%5:00:00:exact:00,direct%5:00:00:immediate:00
+#26 raise VERB raise%2:30:00::,raise%2:31:00::,raise%2:33:08::,raise%2:33:09::,raise%2:41:04::,raising%1:11:00::
+#28 property NOUN property%1:07:00::,property%1:09:00::
+#34 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#37 year NOUN year%1:28:00::,year%1:28:01::
+Similar measurements are being initiated to resolve a large discrepancy in the heat of formation of another important combustion product , beryllium fluoride .
+3
+#6 resolve VERB resolve%2:31:01::,resolve%2:32:00::
+#8 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#19 product NOUN product%1:06:00::,product%1:06:01::,product%1:19:00::
+The development and testing of new apparatus to measure other properties is nearing completion .
+4
+#3 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#5 new ADJ new%3:00:00::
+#6 apparatus NOUN apparatus%1:06:00::
+#10 property NOUN property%1:07:00::,property%1:09:00::
+In one of these , an exploding wire device to study systems thermodynamically up to 6000 * * f and 100 atmospheres pressure , a major goal was achieved .
+8
+#7 wire NOUN wire%1:06:00::,wire%1:06:01::,wire%1:15:00::
+#8 device NOUN device%1:06:00::
+#10 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#11 system NOUN system%1:06:00::,system%1:08:00::,system%1:08:01::,system%1:09:00::,system%1:09:02::,system%1:14:00::
+#21 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#22 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#25 major ADJ major%3:00:05::,major%3:00:06::
+#26 goal NOUN goal%1:09:00::,goal%1:15:00::
+The accuracy of measuring the total electrical energy entering an exploding wire during a few microseconds was verified when two independent types of comparison with the heat energy produced had an uncertainty of less than 2 percent .
+8
+#7 energy NOUN energy%1:19:00::
+#8 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#11 wire NOUN wire%1:06:00::,wire%1:06:01::,wire%1:15:00::
+#20 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#21 type NOUN type%1:18:00::
+#23 comparison NOUN comparison%1:07:00::,comparison%1:24:00::
+#28 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#29 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+This agreement is considered very good for such short time intervals .
+4
+#5 good ADJ best%3:00:00::,good%3:00:01::
+#8 short ADJ short%3:00:00::,short%3:00:02::,short%3:00:05::
+#9 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#10 interval NOUN interval%1:09:00::
+The method of calibration employs a fixed resistance element as a calorimeter .
+3
+#4 employ VERB employ%2:34:00::
+#6 fixed ADJ fixed%5:00:00:determinate:01,fixed%5:00:00:nonmoving:00,fixed%5:00:00:unchangeable:00
+#7 resistance NOUN resistance%1:19:01::
+The element is inserted in the discharge circuit in place of the exploding wire , and the calorimetric heating of the element is measured with high accuracy .
+6
+#3 insert VERB insert%2:35:00::,insert%2:35:01::
+#6 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#7 circuit NOUN circuit%1:06:00::
+#12 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#23 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#25 high ADJ high%3:00:02::
+This is used as a reference for comparing the ohmic heating and the electrical energy obtained from the measured current through the element and the measured voltage across the element .
+5
+#2 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#5 reference NOUN reference%1:04:00::,reference%1:10:06::
+#7 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#14 energy NOUN energy%1:19:00::
+#15 obtain VERB obtain%2:40:00::
+A high-speed shutter has been developed in order to permit photographic observation of any portion of the electrical wire explosion .
+3
+#2 shutter NOUN shutter%1:06:01::
+#5 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#11 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+The shutter consists of two parts : a fast opening part and a fast closing part .
+3
+#1 shutter NOUN shutter%1:06:01::
+#8 fast ADV fast%4:02:01::
+#13 fast ADV fast%4:02:01::
+Using Edgerton 's method , the fast closing action is obtained from the blackening of a window by exploding a series of parallel lead wires .
+8
+#0 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#6 fast ADV fast%4:02:01::
+#7 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#8 action NOUN action%1:04:02::,action%1:06:00::
+#10 obtain VERB obtain%2:40:00::
+#16 window NOUN window%1:06:00::,window%1:06:02::,window%1:06:03::
+#18 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#20 series NOUN series%1:11:00::,series%1:14:00::,series%1:14:01::
+The fast opening of the shutter consists of a piece of aluminum foil ( approximately * * f ) placed directly in front of the camera lens so that no light may pass into the camera .
+8
+#1 fast ADJ fast%3:00:01::
+#5 shutter NOUN shutter%1:06:01::
+#19 place VERB place%2:31:13::
+#20 directly ADV directly%4:02:05::
+#27 so CONJ so%4:02:10::
+#30 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#32 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#35 camera NOUN camera%1:06:00::
+The opening action is obtained when a capacitor , charged to high voltage , is suddenly discharged through the foil .
+6
+#2 action NOUN action%1:04:02::,action%1:06:00::
+#4 obtain VERB obtain%2:40:00::
+#9 charge VERB charge%2:30:00::,charge%2:30:03::,charge%2:30:13::,charge%2:35:00::
+#11 high ADJ high%3:00:02::
+#16 discharge VERB discharge%2:29:00::
+#19 foil NOUN foil%1:06:01::
+During the discharge the magnetic forces set up by the passage of current cause the edges of the foil to roll inward toward its center line , thus allowing light to pass into the camera .
+10
+#2 discharge NOUN discharge%1:04:00::,discharge%1:04:04::,discharge%1:11:00::,discharge%1:19:00::,discharge%1:22:00::,discharge%1:27:00::
+#10 passage NOUN passage%1:04:00::,passage%1:04:04::,passage%1:06:00::
+#15 edge NOUN edge%1:06:01::
+#18 foil NOUN foil%1:06:01::
+#20 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+#27 thus ADV thus%4:02:01::
+#28 allow VERB allow%2:31:01::,allow%2:42:00::,allow%2:42:07::
+#29 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#31 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#34 camera NOUN camera%1:06:00::
+Experiments have shown that the shutter is 75 percent open in about 60 - 80 microseconds .
+3
+#2 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#5 shutter NOUN shutter%1:06:01::
+#9 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+The shutter aperture may be made larger or smaller by changing the foil area and adjusting the electrical energy input to the foil .
+7
+#1 shutter NOUN shutter%1:06:01::
+#6 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#12 foil NOUN foil%1:06:01::
+#13 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#15 adjust VERB adjust%2:30:00::,adjust%2:30:01::
+#19 input NOUN input%1:10:00::
+#22 foil NOUN foil%1:06:01::
+Besides the well-known hydrogen line at 21 cm wavelength , the spectra of extraterrestrial radio sources may contain sharp lines characteristic of other atoms , ions , and small molecules .
+6
+#4 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#8 wavelength NOUN wavelength%1:07:00::
+#11 spectrum NOUN spectrum%1:19:00::
+#17 contain VERB contain%2:42:00::,contain%2:42:06::
+#19 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#22 other ADJ other%3:00:00::
+The detection and study of such line spectra would add considerably to present information on interstellar gas clouds and , perhaps , planetary atmospheres .
+9
+#3 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#6 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#7 spectrum NOUN spectrum%1:19:00::
+#9 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#12 present ADJ present%3:00:01::
+#13 information NOUN information%1:10:00::,information%1:14:00::
+#16 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#17 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#23 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+Among the most likely producers of detectable radio line spectra are the light diatomic hydrides OH and CH ; somewhat less likely sources are the heavier hydrides SH , SiH , and ScH .
+7
+#2 most ADV most%4:02:00::
+#4 producer NOUN producer%1:11:00::
+#8 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#9 spectrum NOUN spectrum%1:19:00::
+#12 light ADJ light%3:00:01::,light%3:00:04::,light%3:00:07::,light%5:00:00:digestible:00,light%5:00:00:light-duty:00,light%5:00:00:loose:02,light%5:00:00:nonfat:00,light%5:00:00:thin:01,light%5:00:00:unstressed:00
+#20 less ADV less%4:02:00::,less%4:02:01::
+#25 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+Very small concentrations of these hydrides should be detectable ; in interstellar gas , concentrations as low as * * f molecules / * * f may be sufficient , as compared to the * * f hydrogen atoms * * f required for detection of the 21 - cm line .
+6
+#2 concentration NOUN concentration%1:04:01::
+#12 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#14 concentration NOUN concentration%1:04:01::
+#16 low ADJ low%3:00:02::,low%5:00:00:insufficient:00
+#31 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#50 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+High sensitivity in radio telescopes is achieved by reducing the bandwidth of the receiver ; therefore , only with precise foreknowledge of the line frequencies is an astronomical search for the radio spectra of these molecules feasible .
+8
+#0 high ADJ high%3:00:02::
+#8 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#10 bandwidth NOUN bandwidth%1:23:00::
+#13 receiver NOUN receiver%1:06:00::
+#17 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#23 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#24 frequency NOUN frequency%1:24:00::
+#27 astronomical ADJ astronomical%3:01:00::
+To secure precise measurements of these frequencies , a research program in free radical microwave spectroscopy has been started .
+2
+#6 frequency NOUN frequency%1:24:00::
+#10 program NOUN program%1:09:00::,program%1:09:01::
+Since conventional methods are insensitive at the low frequencies of these molecular transitions , the paramagnetic resonance method is being used instead .
+2
+#16 resonance NOUN resonance%1:19:00::
+#20 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+This involves the application of a strong magnetic field to the radical vapor , which shifts the low-frequency spectra to a conveniently high microwave range , where they may be measured with optimum sensitivity .
+5
+#6 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+#18 spectrum NOUN spectrum%1:19:00::
+#22 high ADJ high%3:00:02::
+#24 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#30 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+The first diatomic hydride investigated by the paramagnetic resonance method was the OH radical .
+3
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#8 resonance NOUN resonance%1:19:00::
+#13 radical NOUN radical%1:27:00::
+Results of this experiment include the frequencies of the two strong spectral lines by which OH may be identified in interstellar gas ; the frequencies are 1665.32 and 1667.36 * * f , with an uncertainty of 0.10 * * f .
+8
+#4 include VERB include%2:42:00::
+#6 frequency NOUN frequency%1:24:00::
+#10 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+#11 spectral ADJ spectral%3:01:00::
+#12 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#18 identify VERB identify%2:31:00::,identify%2:32:00::
+#21 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#24 frequency NOUN frequency%1:24:00::
+Success in observing these spectral lines has so far , apparently , been confined to the laboratory ; extraterrestrial observations have yet to be reported .
+6
+#2 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#4 spectral ADJ spectral%3:01:00::
+#5 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#19 observation NOUN observation%1:04:00::,observation%1:04:01::,observation%1:09:00::
+#21 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+#24 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Preparations are being made for similar experiments on CH and SH radicals .
+2
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#11 radical NOUN radical%1:27:00::
+The Bureau is pursuing an active program to provide a temperature scale and thermometer calibration services in the range 1.5 to 20 * * f .
+5
+#3 pursue VERB pursue%2:35:00::,pursue%2:41:00::,pursue%2:41:01::
+#6 program NOUN program%1:09:00::,program%1:09:01::
+#8 provide VERB provide%2:34:00::,provide%2:40:00::
+#11 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#18 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+The efforts and accomplishments fall into three main categories : absolute thermometry based upon the velocity of sound in helium gas , secondary thermometry involving principally studies of the behavior of germanium resistors , and helium 4 vapor-pressure measurements ( see p. 144 ) .
+5
+#8 category NOUN category%1:14:00::
+#12 base VERB base%2:31:00::
+#17 sound NOUN sound%1:10:01::,sound%1:11:00::,sound%1:19:00::
+#20 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#22 secondary ADJ secondary%5:00:00:incidental:00
+An acoustical interferometer has been constructed and used , with helium gas as the thermometric fluid , to measure temperatures near 4.2 and 2.1 * * f .
+3
+#7 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#11 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#18 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+Such an interferometer provides a means of absolute temperature measurement , and may be used as an alternative to the gas thermometer .
+3
+#3 provide VERB provide%2:34:00::,provide%2:40:00::
+#5 means NOUN means%1:06:00::
+#14 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+When values of temperature derived with this instrument were compared with the accepted values associated with liquid helium 4 vapor pressures , differences of about 10 and 7 millidegrees respectively were found .
+6
+#1 value NOUN value%1:09:00::
+#7 instrument NOUN instrument%1:04:00::,instrument%1:06:00::
+#9 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#13 value NOUN value%1:09:00::
+#16 liquid ADJ liquid%3:00:00::
+#31 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+This result is preliminary , and work is continuing .
+1
+#8 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+Carbon resistors and impurity doped germanium resistors have been investigated for use as precision secondary thermometers in the liquid helium temperature region .
+3
+#0 carbon NOUN carbon%1:06:00::
+#14 secondary ADJ secondary%5:00:00:incidental:00
+#18 liquid ADJ liquid%3:00:00::
+Several germanium resistors have been thermally cycled from 300 to 4.2 * * f and their resistances have been found to be reproducible within 1 3 millidegree when temperatures were derived from a vapor pressure thermometer whose tubing is jacketed through most of the liquid helium .
+4
+#6 cycle VERB cycle%2:30:00::
+#16 resistance NOUN resistance%1:19:01::
+#19 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#44 liquid ADJ liquid%3:00:00::
+Preliminary calibrations of the resistors have been made from 4.21 to 2.16 * * f at every 0.1 * * f .
+1
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The estimated standard deviations of the data for two of the resistors were 1 millidegree ; and for the third resistor , 3.3 millidegrees .
+1
+#6 data NOUN data%1:14:00::,datum%1:09:00::
+The reproducibilities of helium vapor-pressure thermometers have been investigated in conjunction with a " constant temperature " liquid helium bath from 4.2 to 1.8 * * f .
+3
+#10 conjunction NOUN conjunction%1:07:00::
+#17 liquid ADJ liquid%3:00:00::
+#19 bath NOUN bath%1:06:00::
+Surface temperature gradients have been found to exist in liquid helium baths contained in 15 - and 25 - liter metallic storage dewars .
+5
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#7 exist VERB exist%2:42:00::
+#9 liquid ADJ liquid%3:00:00::
+#11 bath NOUN bath%1:06:00::
+#12 contain VERB contain%2:42:00::,contain%2:42:06::
+The gradient was about one half of a millidegree at 4.2 * * f but increased to several millidegrees for bath temperatures slightly greater than the | l point .
+5
+#1 gradient NOUN gradient%1:07:01::
+#3 about ADV about%4:02:00::
+#20 bath NOUN bath%1:06:00::
+#22 slightly ADV slightly%4:02:01::
+#23 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+A hydrostatic head correction has been neither necessary nor applicable in the determination of vapor pressures or temperatures for the bulk liquid helium .
+3
+#7 necessary ADJ necessary%3:00:00::
+#12 determination NOUN determination%1:04:01::
+#21 liquid ADJ liquid%3:00:00::
+However , the surface temperature gradient can produce erroneous vapor-pressure measurements for the bulk liquid helium unless precautions are taken to isolate the tube ( which passes through the surface to the vapor pressure bulb ) from the liquid helium surface .
+9
+#0 however ADV however%4:02:04::
+#7 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+#14 liquid ADJ liquid%3:00:00::
+#19 take VERB take%2:31:02::,take%2:34:00::
+#23 tube NOUN tube%1:06:00::,tube%1:06:02::
+#29 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#34 bulb NOUN bulb%1:06:00::
+#38 liquid ADJ liquid%3:00:00::
+#40 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+It has also been observed , in helium 2 , , that large discrepancies can exist between surface vapor pressures and those pressures measured by a vapor pressure thermometer .
+5
+#4 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#12 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#15 exist VERB exist%2:42:00::
+#22 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#23 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+This has been attributed to helium film flow in the vapor pressure thermometer .
+2
+#6 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+#7 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+In this case also the design of the thermometer can be modified to reduce the helium film flow .
+5
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#5 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#13 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+#16 film NOUN film%1:06:00::,film%1:06:01::,film%1:06:02::
+#17 flow NOUN flow%1:04:00::,flow%1:11:00::,flow%1:28:00::
+Precise pressure volume temperature measurements on corrosive gases are dependent on a sensitive yet rugged pressure transducer .
+5
+#1 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#2 volume NOUN volume%1:07:03::,volume%1:23:00::
+#7 gas NOUN gas%1:26:00::,gas%1:26:01::,gas%1:27:00::,gas%1:27:02::
+#12 sensitive ADJ sensitive%3:00:01::,sensitive%3:00:02::,sensitive%3:00:04::
+#15 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+A prototype which fulfills the requirements was developed and thoroughly tested .
+3
+#3 fulfill VERB fulfil%2:36:00::
+#7 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+#9 thoroughly ADV thoroughly%4:02:00::
+The transducer is a null type instrument and employs a stretched diaphragm , 0.001 in. thick and 1 in. in diameter .
+6
+#5 type NOUN type%1:18:00::
+#6 instrument NOUN instrument%1:04:00::,instrument%1:06:00::,instrument%1:18:00::
+#8 employ VERB employ%2:34:00::
+#11 diaphragm NOUN diaphragm%1:08:00::
+#15 thick ADJ thick%3:00:01::,thick%5:00:00:concentrated:00
+#20 diameter NOUN diameter%1:07:00::,diameter%1:25:00::
+A small pressure unbalance displaces the diaphragm and changes the capacitance between the diaphragm and an electrically insulated plate spaced 0.001 in. apart ( for * * f ) .
+7
+#2 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#6 diaphragm NOUN diaphragm%1:08:00::
+#8 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#13 diaphragm NOUN diaphragm%1:08:00::
+#17 insulate VERB insulate%2:30:01::
+#19 space VERB space%2:38:00::
+#22 apart ADV apart%4:02:03::
+Spherical concave backing surfaces support the diaphragm when excessive pressures are applied and prevent the stresses within the diaphragm from exceeding the elastic limit .
+9
+#2 back VERB backing%1:06:00::
+#3 surface NOUN surface%1:09:00::,surface%1:15:00::,surface%1:17:00::
+#4 support VERB support%2:31:04::,support%2:40:00::
+#6 diaphragm NOUN diaphragm%1:08:00::
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#13 prevent VERB prevent%2:41:00::
+#15 stress NOUN stress%1:19:00::,stress%1:26:01::
+#18 diaphragm NOUN diaphragm%1:08:00::
+#23 limit NOUN limit%1:07:00::,limit%1:15:00::,limit%1:15:02::
+Over a temperature range from 25 to 200 * * f and at pressures up to 250 atm , an overload of 300 psi , applied for a period of one day , results in an uncertainty in the pressure of , at most , one millimeter of mercury .
+6
+#3 range NOUN range%1:07:00::,range%1:09:00::,range%1:14:00::,range%1:14:01::,range%1:15:01::
+#13 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#17 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#28 period NOUN period%1:28:00::,period%1:28:03::
+#31 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#39 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+A 6 - year study of the transport properties of air at elevated temperatures has been completed .
+6
+#3 year NOUN year%1:28:00::,year%1:28:01::
+#4 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#7 transport NOUN transport%1:06:00::
+#8 property NOUN property%1:07:00::,property%1:09:00::
+#10 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#16 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+This project was carried out under sponsorship of the Ballistic Missile Division of the Air Research and Development Command , U. S. Air Force , and had as its goal the investigation of the transport by diffusion of the heat energy of chemical binding .
+5
+#1 project NOUN project%1:04:00::,project%1:09:00::
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#29 goal NOUN goal%1:09:00::,goal%1:15:00::
+#34 transport NOUN transport%1:06:00::
+#43 binding NOUN binding%1:07:00::
+A significant effect discovered during the study is the existence of Prandtl numbers reaching values of more than unity in the nitrogen dissociation region .
+5
+#2 effect NOUN effect%1:09:00::,effect%1:19:00::
+#3 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#6 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#12 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#14 value NOUN value%1:09:00::
+Another effect discovered is the large coefficient of thermal diffusion tending to separate nitrogen from the oxygen when temperature differences straddling the nitrogen dissociation region are present .
+6
+#1 effect NOUN effect%1:09:00::,effect%1:19:00::
+#2 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#5 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 tend VERB tend%2:42:01::
+#12 separate VERB separate%2:31:01::,separate%2:35:02::,separate%2:41:01::
+#26 present ADJ present%3:00:02::
+The results of the study , based on collision integrals computed from the latest critically evaluated data on intermolecular forces in air , will be reported in the form of a table of viscosity , thermal conductivity , thermal diffusion , and diffusion coefficients at temperatures of 1000 to 10000 * * f and of logarithm of pressure in atmospheres from * * f to * * f times normal density .
+12
+#4 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#6 base VERB base%2:31:00::
+#13 late ADJ late%5:00:00:past:00,latest%5:00:00:current:00
+#16 data NOUN data%1:14:00::,datum%1:09:00::
+#19 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#21 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#25 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#31 table NOUN table%1:14:00::
+#43 coefficient NOUN coefficient%1:23:00::
+#57 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#59 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#69 normal ADJ normal%3:00:01::,normal%3:00:03::
+In March , 1961 , representatives of the national laboratories of Australia , Canada , The Netherlands , United Kingdom , U. S. S. R. , United States , and West Germany , met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 * * f .
+6
+#5 representative NOUN representative%1:18:00::
+#33 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#38 devise VERB devise%2:36:00::
+#39 means NOUN means%1:06:00::
+#41 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#47 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+As a first step toward this goal , arrangements were worked out for comparing the scales now in use through circulation of a group of standard platinum resistance thermometers for calibration by each national laboratory .
+7
+#6 goal NOUN goal%1:09:00::,goal%1:15:00::
+#8 arrangement NOUN arrangement%1:09:01::
+#13 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#15 scale NOUN scale%1:06:00::,scale%1:24:01::,scale%1:24:03::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#20 circulation NOUN circulation%1:10:00::
+#25 standard ADJ standard%3:00:01::,standard%3:00:03::,standard%5:00:00:common:01,standard%5:00:00:regular:00
+Such a group of thermometers was obtained and calibrated at the NBS .
+1
+#6 obtain VERB obtain%2:40:00::
+These thermometers have now been sent to the United Kingdom for calibration at the National Physical Laboratory .
+1
+#5 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+During the last week of march 1961 , Columbus , Ohio was the site of the Fourth Symposium on Temperature , Its Measurement and Control in Science and Industry .
+3
+#2 last ADJ last%5:00:00:unlikely:00
+#8 Columbus NOUN columbus%1:15:00::
+#13 site NOUN site%1:15:00::,site%1:15:02::
+The Symposium , which was jointly sponsored by the American Institute of Physics , the Instrument Society of America , and the National Bureau of Standards , attracted nearly one thousand registrants , including many from abroad .
+4
+#6 sponsor VERB sponsor%2:40:00::
+#28 nearly ADV nearly%4:02:00::
+#33 include VERB include%2:42:00::
+#36 abroad ADV abroad%4:02:00::
+The Bureau contributed to the planning and success of the Symposium through the efforts of Mr. W. A. Wildhack , General Chairman , and Dr. C. M. Herzfeld , Program Chairman .
+1
+#5 planning NOUN planning%1:04:00::,planning%1:04:02::,planning%1:09:00::
+Dr. A. V. Astin , NBS Director , opened the 5 - day session with introductory remarks , following which a total of twenty-six papers were given throughout the week by NBS scientists , from both the Washington and Boulder Laboratories .
+3
+#8 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+#12 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#26 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+In addition to the basic programs in wavelength standards , spectroscopy , solid state physics , interactions of the free electron and atomic constants which are necessary to provide the foundation for technological progress , the Bureau has strengthened its activities in laboratory astrophysics .
+9
+#4 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#5 program NOUN program%1:09:00::,program%1:09:01::
+#7 wavelength NOUN wavelength%1:07:00::
+#14 physics NOUN physics%1:09:00::
+#19 free ADJ free%3:00:00::,free%3:00:02::
+#26 necessary ADJ necessary%3:00:00::
+#28 provide VERB provide%2:34:00::,provide%2:40:00::
+#30 foundation NOUN foundation%1:24:00::
+#40 activity NOUN activity%1:04:00::,activity%1:26:00::
+The programs in infrared spectroscopy are undergoing reorientation toward wavelength standards in the far infrared , the application of infrared techniques to solid state studies , and increased emphasis on high resolution instrumentation .
+7
+#1 program NOUN program%1:09:00::,program%1:09:01::
+#9 wavelength NOUN wavelength%1:07:00::
+#17 application NOUN application%1:04:02::
+#24 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#30 high ADJ high%3:00:02::
+#31 resolution NOUN resolution%1:19:00::,resolution%1:19:01::
+#32 instrumentation NOUN instrumentation%1:04:00::
+Two data centers have been established for the collection , indexing , critical evaluation , and dissemination of bibliographies and critical values in the fields of transition probabilities and collision cross sections .
+7
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#5 establish VERB establish%2:36:01::,establish%2:41:00::
+#8 collection NOUN collection%1:04:00::
+#10 index VERB index%2:41:00::
+#12 critical ADJ critical%3:00:01::,critical%3:00:02::
+#20 critical ADJ critical%3:00:01::,critical%3:00:02::
+#24 field NOUN field%1:09:00::,field%1:09:01::,field%1:14:03::
+Under the sponsorship of the Office of Naval Research and the Advanced Research Projects Agency , a data center was established to gather and index all published information on atomic transition probabilities .
+5
+#17 data NOUN data%1:14:00::,datum%1:09:00::
+#20 establish VERB establish%2:36:01::,establish%2:41:00::
+#22 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#24 index VERB index%2:41:00::
+#27 information NOUN information%1:09:00::,information%1:10:02::
+An exhaustive survey was made of the literature , and a primary reference file of approximately 600 references was catalogued .
+4
+#2 survey NOUN survey%1:04:01::
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#13 file NOUN file%1:10:00::
+#17 reference NOUN reference%1:10:02::,reference%1:10:03::,reference%1:10:07::
+Selected bibliographies and tables of available data are now in preparation .
+3
+#3 table NOUN table%1:14:00::
+#6 data NOUN data%1:14:00::,datum%1:09:00::
+#8 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+A wall stabilized high current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen .
+4
+#3 high ADJ high%3:00:02::
+#5 arc NOUN arc%1:19:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#12 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+This apparatus will also be used to measure transition probabilities of a large number of other elements .
+4
+#1 apparatus NOUN apparatus%1:06:00::
+#5 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#7 measure VERB measure%2:30:00::,measure%2:31:00::,measure%2:31:01::,measure%2:42:00::
+#16 element NOUN element%1:06:00::,element%1:09:00::
+A study of the hydrogen line profiles indicates that a measurement of these profiles can be used to calculate a temperature for the arc plasma that is reliable to about * * f percent .
+8
+#1 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#5 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#6 profile NOUN profile%1:10:01::
+#7 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#13 profile NOUN profile%1:10:01::
+#16 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#18 calculate VERB calculate%2:31:00::,calculate%2:31:03::,calculate%2:31:05::
+#23 arc NOUN arc%1:19:00::
+A set of tables containing spectral intensities for 39000 lines of 70 elements , as observed in a copper matrix in a d-c arc , was completed and published .
+12
+#1 set NOUN set%1:04:00::,set%1:14:00::,set%1:14:01::,set%1:14:02::,set%1:28:00::
+#3 table NOUN table%1:14:00::
+#4 contain VERB contain%2:42:00::,contain%2:42:06::
+#5 spectral ADJ spectral%3:01:00::
+#6 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#9 line NOUN line%1:09:00::,line%1:10:01::,line%1:10:03::,line%1:14:02::,line%1:15:00::,line%1:15:01::,line%1:19:00::,line%1:25:00::,line%1:25:01::
+#15 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#18 copper NOUN cu%1:27:00::
+#19 matrix NOUN matrix%1:17:00::
+#23 arc NOUN arc%1:19:00::
+#26 complete VERB complete%2:30:02::,complete%2:33:00::,complete%2:41:00::
+#28 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+Studies of the intensity data indicate that they may be converted to approximate transition probabilities .
+5
+#0 study NOUN study%1:04:00::,study%1:09:01::,study%1:09:04::,study%1:10:00::,study%1:18:00::
+#3 intensity NOUN intensity%1:07:00::,intensity%1:07:03::
+#4 data NOUN data%1:14:00::,datum%1:09:00::
+#5 indicate VERB indicate%2:32:00::,indicate%2:32:02::,indicate%2:32:03::
+#10 convert VERB convert%2:30:01::,convert%2:30:02::,convert%2:30:03::,convert%2:30:04::,convert%2:30:07::
+These data are not of the precision obtainable by the methods previously mentioned , but the vast number of approximate values available will be useful in many areas .
+4
+#1 data NOUN data%1:14:00::,datum%1:09:00::
+#17 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#20 value NOUN value%1:09:00::
+#27 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+Research continues on the very complex spectra of the rare earth elements .
+3
+#1 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#5 complex ADJ complex%3:00:00::
+#6 spectrum NOUN spectrum%1:19:00::
+New computer and automation techniques were applied to these spectra with considerable success .
+3
+#0 new ADJ new%3:00:00::
+#6 apply VERB apply%2:34:00::
+#9 spectrum NOUN spectrum%1:19:00::

@@ -1,0 +1,197 @@
+For almost one-sixth of the national population discrimination in the free selection of residence casts a considerable shadow upon these values assumed as self-evident by most Americans .
+2
+#14 cast VERB cast%2:36:02::
+#21 assume VERB assume%2:31:00::
+Few business groups in recent years have come under heavier pressure to face these realities than real estate brokers and home builders .
+2
+#7 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+#12 face VERB face%2:32:00::,face%2:32:03::
+How does the local realtor see himself in the context of housing restrictions based on race , religion or ethnic attachment ?
+1
+#13 base VERB base%2:31:00::
+What does he conceive his role to be in this area of social unrest ?
+1
+#3 conceive VERB conceive%2:31:00::,conceive%2:36:00::
+What social , ethical and theological insights can the church and university help him bring to bear upon his situation ?
+1
+#12 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Several New England realtors were invited to participate in a small colloquium of property lawyers , political scientists , economists , social psychologists , social ethicists and theologians .
+1
+#7 participate VERB participate%2:33:00::
+For a number of years , Wesleyan has been drawing varied groups of political and business leaders into these informal discussions with members of the faculty and student body , attempting to explore and clarify aspects of their responsibility for public policy .
+1
+#34 clarify VERB clarify%2:32:00::
+This article presents our observations of that session , of the realtors as they saw themselves and as the faculty and students saw them .
+3
+#2 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#14 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#22 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Such conversation quickly reveals an ethically significant ambivalence in the self-images held by most realtors .
+1
+#11 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+Within the membership of this group , as has been found true of men in other professional or trade associations , the most ready portrayal of oneself to " the public " is that of a neutral agent simply serving the interests of a seller or buyer and mediating between them .
+2
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#39 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+Professional responsibility is seen to consist largely in serving the wishes of the client fairly and in an efficient manner .
+3
+#3 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#5 consist VERB consist%2:42:01::
+#8 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+Obviously , much more than customer expectation is determining the realtor 's role .
+1
+#8 determine VERB determine%2:31:02::,determine%2:32:03::
+Judgments are continually rendered regarding the potential buyers ' income , educational level and above all , racial extraction ; and whether these would qualify them for " congenial " , " happy " relations to other people in certain community areas .
+1
+#3 render VERB render%2:32:01::,render%2:36:00::,render%2:40:01::,render%2:40:02::,render%2:40:03::
+How explicit such factors have been historically is evident in any chronology of restrictive covenant cases or in a review of NAREB 's Code of Ethics Article 34 in the Code , adopted in 1924 , states that " a Realtor should never be instrumental in introducing into a neighborhood a character of property or occupancy , members of any race or nationality , or any individuals whose presence will clearly be detrimental to property values in that neighborhood " .
+1
+#46 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+Though the reference to race was stricken by the association in 1950 , being an agent of such " detrimental " influences still appears as the cardinal sin realtors see themselves committed to avoid .
+2
+#29 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#33 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+The rationale for this avoidance was most frequently expressed in economic terms ; all feared the supposed stigma they believed would inevitably attach to any realtor who openly introduced non-white , particularly Negro , peoples into all-white , restricted areas .
+3
+#8 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#19 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#28 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+They would become tagged as men not interested in being purely real estate " professionals " but agitators for some kind of " cause " or " reform " , and this was no longer to be a " pro " .
+1
+#2 become VERB become%2:30:00::,become%2:42:01::
+These men - for the most part educated in our " best " New England colleges , well established financially and socially in the community - under kindly but insistent probing , reveal little or no objective or explicit criteria or data for their generalizations about the interests and attitudes of the people they claim to serve , or about the public responses that actually follow their occasional breach of a " client-service relationship " .
+2
+#56 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#65 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+This narrow " professionalism " does not even fit the present realities of their situation , as the pressure of minorities and the power and respectability of the realtors increase .
+1
+#8 fit VERB fit%2:42:01::
+As our discussion continued , the inadequacy of the " client relationship " as an interpretation of their " way of operating " became evident .
+3
+#3 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#21 operate VERB operate%2:33:00::,operate%2:35:00::,operate%2:35:03::,operate%2:41:00::
+#23 become VERB become%2:30:00::,become%2:42:01::
+Realtors live in their communities as specialists in a given area of work , as members of social and professional organizations , as citizens and civic leaders , as church laymen , as university alumni , as newspaper readers , etc. .
+1
+#1 live VERB live%2:42:08::
+It seems to us that choices exercised by realtors in moral situations center in at least three areas :
+2
+#6 exercise VERB exercise%2:34:00::
+#12 center VERB center%2:31:00::
+( 1 ) the various ways in which they interpret a particular social issue ; ( 2 ) their pattern of involvement in the regular legal and political processes ; and , most pervasively , ( 3 ) their interpretation of who is a " real pro " , of what it means to be a professional man in a technical , fragmented society .
+2
+#9 interpret VERB interpret%2:32:00::
+#52 mean VERB mean%2:31:05::,mean%2:42:00::
+( 1 ) Most of the realtors minimized their own understanding of and role in the racial issue , pleading that they only reflect the attitudes and intentions of their society .
+2
+#19 plead VERB plead%2:32:00::,plead%2:32:01::,plead%2:32:02::,plead%2:32:03::
+#23 reflect VERB reflect%2:32:01::,reflect%2:39:00::,reflect%2:39:01::,reflect%2:39:02::
+There is some reality to this ; the Commission on Race and Housing concluded that " there is no reason to believe that real estate men are either more or less racially prejudiced , on the whole , than any other segment of the American population " .
+2
+#13 conclude VERB conclude%2:31:00::,conclude%2:32:01::
+#21 believe VERB believe%2:31:03::
+But such a reaction obscures the powerful efforts made in the past by both NAREB and its local boards for the maintenance of restrictive clauses and practices .
+1
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Also , it does not recognize the elements of choice and judgment continually employed .
+2
+#5 recognize VERB recognize%2:31:02::,recognize%2:41:00::,recognize%2:41:01::
+#13 employ VERB employ%2:34:00::
+Like business and university groups generally , these men had very limited knowledge of recent sociological and psychological studies and findings that might illumine the decisions they make .
+1
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Recent studies by the Commission on Race and Housing and others , however , point to a vast complex of factors that often do not warrant this conclusion .
+1
+#14 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+There are increasing numbers of neighborhoods that are integrated residentially without great loss of property values , the white population having taken the initiative in preparing the areas for an appreciation of the Negroes ' desire for well-kept housing , privacy , etc. .
+2
+#8 integrate VERB integrate%2:41:00::
+#25 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+Data on the decline of property values in an area after a new racial group enters it has to be assessed in terms of the trends in property values before the group comes in .
+1
+#15 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+Often they are able to get in only because the area is declining economically .
+1
+#12 decline VERB decline%2:30:00::
+Significantly , no realtor and few of the faculty present were familiar with any of the six volumes ( published by the University of California Press ) that present the commission 's findings .
+2
+#19 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#28 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+No one anticipates any radical shift in this situation , but questions concerning reading habits , the availability of such data and the places where it is discussed must surely be raised .
+3
+#2 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+#12 concern VERB concern%2:42:00::,concern%2:42:01::
+#31 raise VERB raise%2:32:01::,raise%2:37:08::
+The role of both church and university as sources of information and settings within which the implications of such information may be explored needs consideration .
+1
+#23 need VERB need%2:42:00::
+Relevant " facts " , however , extend beyond considerations of property values and maintenance of " harmonious " neighborhoods .
+1
+#7 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+Discussion of minority housing necessarily involves such basic issues as the intensity of one 's democratic conviction and religious belief concerning equality of opportunity , the function and limitations of government in the securing of such equality , and the spotlight that world opinion plays upon local incidents of racial agitation and strife .
+1
+#20 concern VERB concern%2:42:00::,concern%2:42:01::
+( 2 ) Realtors realize , of course , that they are involved in an increasingly complex legal and political system that is opening up opportunities for leverage on their relation to clients as well as opportunities for evasion of their responsibility for racial discrimination in housing .
+2
+#4 realize VERB realize%2:31:01::
+#12 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+On the positive side , recent Federal action has largely undermined the legal sanction so long enjoyed by the segregationist position ; anti-discriminatory statutes in housing have now been adopted by thirteen states and , while specific provisions have varied , the tendency is clearly toward expanding coverage .
+2
+#10 undermine VERB undermine%2:41:00::
+#16 enjoy VERB enjoy%2:39:00::
+Realtors in attendance at the colloquium expressed interest , for example , in Connecticut 's new housing law as setting standards of equity that they would like " to have to obey " , but in support of which none had been willing to go on public record .
+4
+#6 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#19 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#26 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#44 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+Judicial opinion since the Supreme Court decision on Shelley v. Kraemer ( 1948 ) has rendered racial restrictive covenants unenforcible .
+1
+#15 render VERB render%2:30:00::
+Such a decision should have placed a powerful weapon in the hands of the entire housing industry , but there is little evidence that realtors , or at least their associations , have repudiated the principle in such clauses .
+1
+#5 place VERB place%2:31:13::
+In the states that have passed laws preventing discrimination in the sale or rental of housing , support by real estate associations for compliance and broadened coverage through additional legislation could help remove the label of " social reformism " that most realtors individually seem determined to avoid .
+5
+#5 pass VERB pass%2:41:02::
+#7 prevent VERB prevent%2:41:00::
+#31 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#32 remove VERB remove%2:30:00::,remove%2:40:00::,remove%2:41:00::
+#47 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+But as yet , no real estate board has been willing officially to support such laws or to admit the permissibility of introducing minority buyers into all-white neighborhoods .
+2
+#13 support VERB support%2:32:00::,support%2:36:00::,support%2:40:00::,support%2:41:00::,support%2:41:01::,support%2:42:00::
+#22 introduce VERB introduce%2:31:00::,introduce%2:36:00::,introduce%2:36:01::
+One of the roles of the social scientist , ethicist or theologian in our discussions with the realtors became that of encouraging greater awareness of the opportunities offered by the legal and political processes for the exercise of broad social responsibilities in their work .
+1
+#18 become VERB become%2:30:00::,become%2:42:01::
+But responsiveness to these opportunities presumes that all of us judge the good as a human good and not simply as a professional , white , American good .
+1
+#5 presume VERB presume%2:31:00::
+Such judgments are meaningful only in so far as persons are members of a world , let us say a community , that embraces Scarsdale or Yonkers , but is also infinitely richer since it is all-inclusive .
+1
+#18 say VERB say%2:32:01::
+Racial discrimination is wrong , then , not because it goes against the grain of a faculty member trying to converse with a few realtors but because it goes against the grain of creation and against the will of the Creator .
+1
+#18 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Thus , moral issues concerning the nature of the legal and political processes take on theological dimensions .
+1
+#4 concern VERB concern%2:42:00::,concern%2:42:01::
+( 3 ) Over the years , individuals engaged in the sale of real estate have developed remarkable unity in the methods and practices employed .
+3
+#8 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#16 develop VERB develop%2:32:00::,develop%2:36:01::
+#24 employ VERB employ%2:34:00::
+Most realtors and real estate brokers talk of themselves as " professional people " with the cultural and moral values held by the traditional professions .
+1
+#20 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+But what significance attaches to " professional " , beyond the narrow sense of skillfulness in meeting a client 's stated needs as already noted ?
+2
+#16 meet VERB meet%2:41:02::,meet%2:42:01::
+#24 note VERB note%2:32:00::,note%2:39:00::
+Our faculty and students pressed this issue more than any other .
+1
+#4 press VERB press%2:32:00::,press%2:32:01::,press%2:41:12::,press%2:42:00::
+As a theologian in the group pointed out , a professional was , before the modern period of technical specialization , one who " professed " to be a bearer and critic of his culture in the use of his particular skills .
+1
+#24 profess VERB profess%2:32:03::

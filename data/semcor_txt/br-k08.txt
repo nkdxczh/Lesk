@@ -1,0 +1,632 @@
+ Rousseau is so persuasive that Voltaire is almost convinced that he should burn his books , too .
+4
+#2 so ADV so%4:02:03::,so%4:02:07::
+#12 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#14 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#16 too ADV too%4:02:01::
+But while the two men are riding into the country , where they are going to dinner , they are attacked in the dark of the forest by a band of thieves , who strip them of everything , including most of their clothes .
+8
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#9 country NOUN country%1:15:02::
+#14 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#23 dark NOUN dark%1:26:00::,dark%1:28:00::
+#29 band NOUN band%1:14:01::
+#39 include VERB include%2:42:00::
+#43 clothes NOUN clothes%1:06:00::
+" You must be a very learned man " , says Voltaire to one of the bandits .
+2
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" A learned man " ? the bandit laughs in his face .
+2
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#11 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He goes to the chief himself .
+1
+#4 chief NOUN chief%1:18:02::
+" At what university did you study " ? he asks .
+2
+#6 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#10 ask VERB ask%2:32:00::,ask%2:32:04::
+He refuses to believe that the bandit chief never attended a higher institution .
+5
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 chief NOUN chief%1:18:02::
+#8 never ADV never%4:02:00::
+#9 attend VERB attend%2:42:00::
+#12 institution NOUN institution%1:14:00::
+" To have become so corrupt " , he says , " surely you must have studied many arts and sciences " .
+7
+#3 become VERB become%2:30:00::,become%2:42:01::
+#4 so ADV so%4:02:03::,so%4:02:07::
+#5 corrupt ADJ corrupt%3:00:04::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 surely ADV surely%4:02:00::
+#16 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#18 art NOUN art%1:09:00::,arts%1:09:00::
+The chief , annoyed by these questions , knocks Voltaire down and shouts at him that he not only never went to any school , but never even learned how to read .
+8
+#1 chief NOUN chief%1:18:02::
+#10 down ADV down%4:02:00::,down%4:02:02::
+#12 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#19 never ADV never%4:02:00::
+#23 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#26 never ADV never%4:02:00::
+#28 learn VERB learn%2:31:01::,learn%2:31:03::
+#31 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+When finally the two bedraggled men reach their friend 's home , Voltaire 's fears are once again aroused .
+5
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#8 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#10 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#18 arouse VERB arouse%2:37:00::
+For it is such a distinguished place , with such fine works of art and such a big library , that there can be little doubt but that the owner has become depraved by all this culture .
+5
+#6 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#10 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+#17 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#31 become VERB become%2:30:00::,become%2:42:01::
+#36 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+To Voltaire 's surprise , however , their host gives them fresh clothes to put on , opens his purse to lend them money and sits them down before a good dinner .
+9
+#3 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+#5 however ADV however%4:02:04::
+#8 host NOUN host%1:14:01::,host%1:18:00::,host%1:18:01::,host%1:18:02::
+#9 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#11 fresh ADJ fresh%5:00:00:original:00
+#12 clothes NOUN clothes%1:06:00::
+#17 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#21 lend VERB lend%2:40:00::
+#30 good ADJ good%3:00:01::
+Immediately after dinner , however , Rousseau asks for still another favor .
+3
+#4 however ADV however%4:02:04::
+#7 ask VERB ask%2:32:01::,ask%2:32:05::
+#11 favor NOUN favor%1:04:00::
+Could he have pen and paper , please ?
+3
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 pen NOUN pen%1:06:00::
+#5 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+He is in a hurry to write another essay against culture .
+3
+#6 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#8 essay NOUN essay%1:10:00::
+#10 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+Such was the impromptu that Voltaire gave to howls of laughter at Sans Souci and that was soon circulated in manuscript throughout the literary circles of Europe , to be printed sometime later , but with the name of Timon of Athens , the famous misanthrope , substituted for that of Rousseau .
+7
+#17 soon ADV soon%4:02:00::
+#18 circulate VERB circulate%2:32:00::
+#23 literary ADJ literary%3:01:00::,literary%5:00:00:literate:01
+#24 circle NOUN circle%1:14:00::
+#30 print VERB print%2:36:03::
+#32 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#37 name NOUN name%1:14:00::
+How could the rich , for whom life was made so simple , ever understand the subterfuges , the lies , the frauds , the errors , sins and even crimes to which the poor were driven in their efforts to overcome the great advantages the rich had in the race of life ?
+14
+#3 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#7 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#9 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#13 ever ADV ever%4:02:05::
+#14 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#19 lie NOUN lie%1:10:00::
+#27 sin NOUN sin%1:04:00::
+#34 poor ADJ poor%3:00:00::,poor%3:00:03::
+#46 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#47 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#50 race NOUN race%1:06:00::
+#52 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+How , for example , could a Voltaire understand the strange predicament in which a Rousseau would find himself when , soon after the furor of his first Discourse , he acquired still another title to fame ?
+5
+#8 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#10 strange ADJ strange%3:00:00::
+#11 predicament NOUN predicament%1:26:00::
+#21 soon ADV soon%4:02:00::
+#27 first ADJ first%3:00:00::,first%4:02:00::
+Ever since he had first begun to study music and to teach it , Rousseau had dreamed of piercing through to fame as the result of a successful opera .
+6
+#0 ever ADV ever%4:02:00::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#8 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#16 dream VERB dream%2:36:00::
+#28 opera NOUN opera%1:06:00::
+But his facility in this genre was not great .
+1
+#2 facility NOUN facility%1:07:00::,facility%1:09:01::
+And his efforts to get a performance for his Gallant Muses invariably failed .
+3
+#4 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 performance NOUN performance%1:04:01::,performance%1:10:00::
+#12 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+And for good reasons .
+1
+#3 reason NOUN reason%1:09:01::,reason%1:16:00::
+His operatic music had little merit .
+1
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But then one day , while on a week 's visit to the country home of a retired Swiss jeweler , Rousseau amused the company with a few little melodies he had written , to which he attached no great importance .
+6
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#13 country NOUN country%1:15:02::
+#14 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#17 retired ADJ retired%5:00:00:inactive:08
+#32 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#37 attach VERB attach%2:35:00::,attach%2:35:01::
+He was really amazed to discover the other guests so excited about these delicate little songs .
+5
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#5 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#7 other ADJ other%3:00:00::
+#9 so ADV so%4:02:03::,so%4:02:07::
+#13 delicate ADJ delicate%3:00:00::
+" Put a few such songs together " , they urged him .
+2
+#1 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#6 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+" String them onto some sort of little plot , and you 'll have a delightful operetta " .
+3
+#1 string VERB string%2:35:05::
+#5 sort NOUN sort%1:09:00::,sort%1:18:00::
+#8 plot NOUN plot%1:10:00::
+He did n't believe them .
+1
+#3 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+" Nonsense " , he said .
+2
+#1 nonsense NOUN nonsense%1:10:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" This is the sort of stuff I write and then throw away " !
+4
+#4 sort NOUN sort%1:09:00::,sort%1:18:00::
+#6 stuff NOUN stuff%1:07:00::
+#8 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#10 then ADV then%4:02:00::
+" Heaven forbid " ! cried the ladies , enchanted by his music .
+1
+#7 lady NOUN lady%1:18:01::,lady%1:18:02::
+" You must make an opera out of this material " .
+3
+#3 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#5 opera NOUN opera%1:06:00::
+#9 material NOUN material%1:06:01::,material%1:10:00::
+And they would n't leave off arguing and pleading until he had promised .
+3
+#6 argue VERB argue%2:32:00::
+#8 plead VERB plead%2:32:00::,plead%2:32:03::
+#12 promise VERB promise%2:32:00::,promise%2:32:01::
+Oh , the irony and the bitterness of it !
+1
+#6 bitterness NOUN bitterness%1:12:00::
+That after all his years of effort to become a composer , he should now , now when he was still stoutly replying to the critics of his Discourse on the Arts and Sciences , be so close to a success in music and have to reject it .
+9
+#4 year NOUN year%1:28:00::,year%1:28:01::
+#8 become VERB become%2:30:00::,become%2:42:01::
+#14 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#20 still ADV still%4:02:00::
+#25 critic NOUN critic%1:18:01::
+#36 so ADV so%4:02:03::,so%4:02:07::
+#37 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#42 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+Or at least appear to reject it !
+1
+#3 appear VERB appear%2:30:00::
+You could n't on the one hand decry the arts and at the same time practice them , could you ?
+1
+#9 art NOUN art%1:04:00::,art%1:09:00::
+Well , yes , perhaps in literature , since you could argue that you could n't keep silent about your feelings against literature and so were involved in spite of yourself .
+2
+#11 argue VERB argue%2:32:02::
+#16 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+But now music too ?
+2
+#2 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#3 too ADV too%4:02:01::
+And the fault , of course , was Rameau 's .
+1
+#2 fault NOUN fault%1:07:01::
+The fault was Rameau 's and that of the whole culture of this Parisian age .
+4
+#1 fault NOUN fault%1:07:01::
+#9 whole ADJ whole%3:00:00::
+#10 culture NOUN culture%1:09:00::,culture%1:09:02::,culture%1:14:00::,culture%1:26:00::
+#14 age NOUN age%1:28:02::,age%1:28:03::
+For it was Rameau 's type of music that he had been trying to write , and that he could n't write .
+5
+#5 type NOUN type%1:18:00::
+#7 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#14 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#21 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+These little songs , however , were sweet nothings from the heart , tender memories of his childhood , little melodies that anyone could hum and that would make one want to weep .
+5
+#4 however ADV however%4:02:04::
+#13 tender ADJ tender%3:00:03::
+#14 memory NOUN memory%1:09:00::,memory%1:09:02::
+#24 hum VERB hum%2:32:01::
+#32 weep VERB weep%2:29:00::
+He could n't appear as a composer now .
+2
+#3 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+That glory , craved for so long , was now forbidden to him .
+3
+#1 glory NOUN glory%1:26:00::
+#5 so ADV so%4:02:03::,so%4:02:07::
+#9 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Still , just for the ladies , and just for this once , for this one weekend in the country , he would make a little piece out of his melodies .
+7
+#0 still ADV still%4:02:04::
+#2 just ADV just%4:02:00::,just%4:02:03::
+#5 lady NOUN lady%1:18:01::,lady%1:18:02::
+#8 just ADV just%4:02:00::,just%4:02:03::
+#11 once ADV once%4:02:00::
+#19 country NOUN country%1:15:02::
+#23 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+The ladies were delighted and Jean Jacques was applauded .
+1
+#1 lady NOUN lady%1:18:01::,lady%1:18:02::
+And everyone went to work to learn the parts which he wrote .
+4
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#6 learn VERB learn%2:31:01::,learn%2:31:03::
+#8 part NOUN part%1:04:01::,part%1:09:02::,part%1:10:00::,part%1:24:00::
+#11 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+But then , after the little operetta had been given its feeble amateur rendering , everyone insisted that it was too good to be lost forever , and that the Royal Academy of Music must now have the manuscript in order to give it the really first-rate performance it merited .
+10
+#1 then ADV then%4:02:00::
+#13 rendering NOUN rendering%1:06:00::
+#20 too ADV too%4:02:00::
+#24 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#25 forever ADV forever%4:02:00::
+#35 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#36 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#42 give VERB give%2:32:08::,give%2:36:02::,give%2:40:05::,give%2:41:00::
+#45 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#47 performance NOUN performance%1:04:01::,performance%1:10:00::
+Rousseau was aware that he must seem like a hypocrite , standing there and arguing that he could not possibly permit a public performance .
+5
+#11 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#12 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#14 argue VERB argue%2:32:00::
+#19 possibly ADV possibly%4:02:01::
+#23 performance NOUN performance%1:04:01::,performance%1:10:00::
+The ladies especially could n't understand what troubled him .
+2
+#1 lady NOUN lady%1:18:01::,lady%1:18:02::
+#5 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Every woman has had the experience of saying no when she meant yes , and saying yes when she meant no .
+9
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 no NOUN no%1:10:00::
+#11 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#12 yes NOUN yes%1:10:00::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 yes NOUN yes%1:10:00::
+#19 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#20 no NOUN no%1:10:00::
+Rousseau had to admit that though he could n't agree to a public performance , he would indeed , just for his own private satisfaction , dearly love to know how his work would sound when done by professional musicians and by trained voices .
+11
+#3 admit VERB admit%2:32:00::
+#9 agree VERB agree%2:32:00::,agree%2:32:01::
+#13 performance NOUN performance%1:04:01::,performance%1:10:00::
+#17 indeed ADV indeed%4:02:03::
+#19 just ADV just%4:02:00::,just%4:02:03::
+#22 own ADJ own%5:00:00:personal:00
+#26 dearly ADV dearly%4:02:00::
+#29 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#32 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#34 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+#38 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+" I 'd simply like to know if it is as good as you kind people seem to think " , he said .
+6
+#3 simply ADV simply%4:02:00::,simply%4:02:02::
+#4 like VERB like%2:31:00::,like%2:37:01::,like%2:37:04::,like%2:37:06::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#15 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#18 think VERB think%2:31:01::,think%2:31:03::
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The musicians of the Royal Opera would not rehearse a work merely to see how it would sound .
+4
+#7 not ADV not%4:02:00::
+#10 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#13 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#17 sound VERB sound%2:32:00::,sound%2:39:00::,sound%2:39:02::
+Merely to satisfy the author 's curiosity .
+1
+#6 curiosity NOUN curiosity%1:09:00::
+Rousseau agreed .
+1
+#1 agree VERB agree%2:32:00::,agree%2:32:01::
+But he recalled that Rameau had once had a private performance of his opera Armide , behind closed doors , just for himself alone .
+9
+#2 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#6 once ADV once%4:02:00::
+#7 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#9 private ADJ private%3:00:00::,private%5:00:02:personal:00
+#10 performance NOUN performance%1:04:01::,performance%1:10:00::
+#13 opera NOUN opera%1:06:00::
+#17 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+#20 just ADV just%4:02:00::,just%4:02:03::
+#23 alone ADV alone%4:02:00::,alone%5:00:00:exclusive:00
+Duclos understood what was bothering Rousseau : that the writer of the Prosopopoeia of Fabricius should now become known as the writer of an amusing little operetta .
+4
+#1 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#4 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#17 become VERB become%2:30:00::,become%2:42:01::
+" Let me do the submitting to the Royal Academy " , he suggested .
+1
+#5 submit VERB submit%2:32:00::,submit%2:32:01::
+" Your name will never appear .
+2
+#2 name NOUN name%1:14:00::
+#5 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+No one will even suspect that it is your work " .
+1
+#9 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+But now what crazy twists and turns of his emotions !
+2
+#3 crazy ADJ crazy%5:00:00:insane:00
+#6 turn NOUN turn%1:04:01::,turn%1:04:06::,turn%1:04:07::,turn%1:11:00::,turn%1:11:01::,turn%1:25:00::
+Afraid at one and the same time that his work might be turned down - which would be a blow to his pride even though no one knew he was the author - and that the work would be accepted , and then that his violent feelings in the matter would certainly betray how deeply concerned he was in spite of himself .
+10
+#9 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#19 blow NOUN blow%1:04:01::
+#22 pride NOUN pride%1:12:01::
+#27 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#36 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#39 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#42 then ADV then%4:02:00::
+#46 feeling NOUN feeling%1:03:00::,feelings%1:12:00::
+#49 matter NOUN matter%1:09:00::,matter%1:09:01::
+#52 betray VERB betray%2:32:01::
+And how anxious this lover of obscurity was for applause !
+1
+#2 anxious ADJ anxious%5:00:00:eager:00
+And thus torn between his desire to be known as the composer of a successful opera and the necessity of remaining true to his proclaimed desire for anonymity , Rousseau suffered through several painful weeks .
+4
+#1 thus ADV thus%4:02:00::
+#15 opera NOUN opera%1:06:00::
+#18 necessity NOUN necessity%1:26:00::
+#30 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+All these emotions were screwed up to new heights when , after acceptance and the first rehearsals , there ensued such a buzz of excitement among Parisian music lovers that Duclos had to come running to Rousseau to inform him that the news had reached the superintendent of the King 's amusements , and that he was now demanding that the work be offered first at the royal summer palace of Fontainebleau .
+11
+#8 height NOUN height%1:07:00::,height%1:26:00::
+#12 acceptance NOUN acceptance%1:04:03::
+#15 first ADJ first%3:00:00::,first%4:02:00::
+#33 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#34 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#38 inform VERB inform%2:32:00::,inform%2:32:10::
+#44 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#49 king NOUN king%1:18:01::,king%1:26:00::
+#57 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#61 work NOUN work%1:06:00::,work%1:06:02::,works%1:26:00::
+#68 summer NOUN summer%1:28:00::
+Imagine the honor of it !
+2
+#0 imagine VERB imagine%2:31:01::,imagine%2:36:00::
+#2 honor NOUN honor%1:07:00::
+Jean Jacques asked , striving to appear unimpressed .
+2
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+#6 appear VERB appear%2:30:00::
+" I refused " , Duclos said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+But I said I would first have to get the author 's permission .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#8 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+And I was certain he would refuse " .
+1
+#3 certain ADJ certain%3:00:01::
+Why had not this success come to him before he had plunged into his Discourse , and before he had committed himself to a life of austerity and denial ?
+3
+#5 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#11 plunge VERB plunge%2:38:00::
+#20 commit VERB commit%2:32:01::
+Now , when everything was opening up to him - even the court of Louis / 15 15 , !
+1
+#12 court NOUN court%1:06:04::,court%1:14:00::,court%1:14:01::
+- he had to play a role of self-effacement .
+1
+#4 play VERB play%2:36:02::,play%2:36:03::,play%2:41:12::
+Back and forth Duclos had to go , between M. de Cury and Jean Jacques and between the Duke d'Aumont and Jean Jacques again , as his little operetta , The Village Soothsayer , though still unperformed , took on ever more importance .
+3
+#6 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#35 still ADV still%4:02:00::
+#40 ever ADV ever%4:02:05::
+And of course the news of who the composer was did finally begin to get around among his closest friends .
+3
+#12 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#18 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#19 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+But they , naturally , kept his secret well , and the public at large knew only of a great excitement in musical and court circles .
+5
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#16 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#22 musical ADJ musical%3:00:01::,musical%3:00:02::,musical%3:01:00::
+#24 court NOUN court%1:06:04::,court%1:14:00::,court%1:14:01::
+#25 circle NOUN circle%1:14:00::
+How titillating it was to go among people who did not know him as the composer , but who talked in the most glowing terms of the promise of the piece after having heard the first rehearsals .
+6
+#5 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#7 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#11 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#22 most ADV most%4:02:00::
+#24 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#35 first ADJ first%3:00:00::,first%4:02:00::
+The furor was such that people who could not possibly have squirmed their way into the rehearsals were pretending that they were intimate with the whole affair and that it would be sensational .
+8
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#8 not ADV not%4:02:00::
+#9 possibly ADV possibly%4:02:01::
+#13 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#18 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#22 intimate ADJ intimate%5:00:00:close:02
+#25 whole ADJ whole%3:00:00::
+#26 affair NOUN affair%1:09:00::,affair%1:11:00::,affairs%1:09:00::
+And listening to such a conversation one morning while taking a cup of chocolate in a cafe , Rousseau found himself bathed in perspiration , trembling lest his authorship become known , and at the same time dreaming of the startling effect he would make if he should proclaim himself suddenly as the composer .
+9
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+#9 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#11 cup NOUN cup%1:06:00::,cup%1:06:01::,cup%1:23:01::,cup%1:23:02::
+#16 cafe NOUN cafe%1:06:00::
+#21 bathe VERB bathe%2:35:00::
+#29 become VERB become%2:30:00::,become%2:42:01::
+#37 dream VERB dream%2:36:00::
+#41 effect NOUN effect%1:09:00::,effect%1:19:00::
+#44 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He felt himself now , as he himself says in his Confessions , at a crucial point of his life .
+3
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 point NOUN point%1:06:01::,point%1:09:00::,point%1:15:00::,point%1:26:00::,point%1:28:00::
+And that was why , on the day of the performance , when a carriage from the royal stables called to take him to the palace , he did not bother to shave .
+8
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 performance NOUN performance%1:04:01::,performance%1:10:00::
+#14 carriage NOUN carriage%1:06:03::
+#19 call VERB call%2:41:00::,call%2:41:12::
+#21 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#29 not ADV not%4:02:00::
+#30 bother VERB bother%2:41:00::
+#32 shave VERB shave%2:29:00::
+On the contrary , he was pleased that his face showed a neglect of several days .
+3
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#10 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Seeing him in that condition , and about to enter the hall where the King , the Queen , the whole royal family and all the members of the highest aristocracy would be present , Grimm and the Abbe Raynal and others tried to stop him .
+8
+#0 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+#9 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#11 hall NOUN hall%1:06:01::,hall%1:06:02::,hall%1:06:06::
+#20 whole ADJ whole%3:00:00::
+#26 member NOUN member%1:18:00::,member%1:24:00::
+#33 present ADJ present%3:00:02::
+#42 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Jean Jacques asked .
+1
+#2 ask VERB ask%2:32:00::,ask%2:32:04::
+" You have n't dressed for the occasion " ! they pointed out to him .
+2
+#4 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#7 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+" I'm dressed as I always am " , Rousseau said .
+3
+#2 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#5 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Neither better nor worse " .
+2
+#2 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#4 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+" At home , yes " , they argued .
+3
+#2 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#4 yes NOUN yes%1:10:00::
+#8 argue VERB argue%2:32:00::
+" But here you are in the palace .
+1
+#2 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+There 's the King .
+1
+#3 king NOUN king%1:18:01::,king%1:26:00::
+" If they are here , then surely I have the right to be here " , Rousseau said .
+7
+#4 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#6 then ADV then%4:02:02::
+#7 surely ADV surely%4:02:00::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 right NOUN right%1:07:00::,right%1:21:00::
+#14 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" And even more right .
+1
+#4 right NOUN right%1:07:00::,right%1:21:00::
+" But in such a slovenly condition " .
+1
+#6 condition NOUN condition%1:09:00::,condition%1:26:00::,condition%1:26:01::,condition%1:26:02::,condition%1:26:05::
+Rousseau asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+" Is it because of my slovenliness that hair grows on my face ?
+2
+#9 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#12 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Surely it would grow there whether I washed myself or not .
+4
+#0 surely ADV surely%4:02:00::
+#3 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#7 wash VERB wash%2:29:00::,wash%2:30:05::,wash%2:30:06::,wash%2:35:00::,wash%2:35:02::,wash%2:42:00::,washed%5:00:00:clean:01
+A hundred years ago I would have worn a beard with pride .
+2
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#9 beard NOUN beard%1:20:00::
+And those without beards would have stood out as not dressed for the occasion .
+4
+#3 beard NOUN beard%1:20:00::
+#9 not ADV not%4:02:00::
+#10 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#13 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+Now times have changed , and I must pretend that hair does n't grow on my face .
+5
+#1 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#3 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#8 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#13 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#16 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+That 's the fashion .
+1
+#3 fashion NOUN fashion%1:09:00::
+And fashion is the real king here .
+4
+#1 fashion NOUN fashion%1:09:00::
+#4 real ADJ real%3:00:00::,real%5:00:00:true:00
+#5 king NOUN king%1:18:01::,king%1:26:00::
+#6 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+Not Louis / 15 , , since even he obeys .
+1
+#0 not ADV not%4:02:00::
+Now , if you do n't mind , I should like to hear my own piece performed " .
+2
+#6 mind VERB mind%2:32:00::
+#14 own ADJ own%5:00:00:personal:00
+But of course behind his boldness he did n't feel bold at all .
+1
+#10 bold ADJ bold%3:00:00::
+He trembled lest his piece should fail .
+1
+#6 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+And this in addition to his usual fear of being among people of high society .
+1
+#11 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+His fear of making some inane or inappropriate remark .
+1
+#3 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+And even deeper than that :
+1
+#2 deep ADJ deep%5:00:00:artful:00,deep%5:00:00:colorful:00,deep%5:00:00:esoteric:00,deep%5:00:00:intense:00,deep%5:00:00:profound:00
+his fear lest in this closed hall he should suddenly itch to relieve himself .
+1
+#5 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+Could he walk out in the midst of his piece ?
+1
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Here , before the court ?
+2
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#4 court NOUN court%1:06:04::,court%1:14:00::,court%1:14:01::
+Before the King ?
+1
+#2 king NOUN king%1:18:01::,king%1:26:00::

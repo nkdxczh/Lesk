@@ -1,0 +1,413 @@
+Mickey paused with him , waiting , no longer impatient , trying now to think it out , do a little planning .
+2
+#5 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#11 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+He looked down over the banister at the hotel desk , with the telephone and pen set .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+If I could call in , they could check the story while we were on our way .
+1
+#8 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+I would n't have to tell them I had Roberts -
+1
+#5 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Then he heard it , like a muffled thud , felt a subtle change in air pressure .
+1
+#10 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+He glanced up in time to see Roberts hurtling down on him from above , literally flying through the air , his bloody face twisted .
+3
+#1 glance VERB glance%2:38:00::,glance%2:39:00::
+#6 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#16 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+Mickey tried to flatten against the banister , gripped it with one hand , but Roberts ' full weight struck him at that moment in the groin .
+3
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#8 grip VERB grip%2:35:00::
+#19 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+He gasped for air and the impact tore his hand from the rail .
+1
+#7 tear VERB tear%2:35:00::,tear%2:35:01::
+He tumbled with Roberts , helpless and in agony , over and over , down the steps .
+1
+#1 tumble VERB tumble%2:30:00::
+By a wrenching effort , he managed to hunch and draw in , to take the final fall on his back and shoulders rather than his head .
+1
+#6 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+When his vision cleared he saw the taller one scrambling upward , reaching .
+4
+#3 clear VERB clear%2:31:00::,clear%2:39:05::,clear%2:43:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#9 scramble VERB scramble%2:38:00::
+#12 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+Mickey was on his knees when Roberts turned on the stairs and the razor flashed in his hand .
+2
+#7 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#14 flash VERB flash%2:30:04::,flash%2:32:00::,flash%2:39:00::,flash%2:39:01::
+He felt his empty pocket and knew that Roberts had retrieved the only weapon at hand .
+2
+#1 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Mickey 's eyes fixed on the other 's feet , which would first betray the moment and direction of an attack .
+2
+#3 fix VERB fix%2:30:00::,fix%2:35:00::,fix%2:35:01::
+#13 betray VERB betray%2:32:01::
+He rose stiffly , forcing his knees to lock .
+2
+#1 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#4 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+He made himself back off slowly , his eyes wary on Roberts , who now had no more to lose than he .
+2
+#1 make VERB make%2:36:15::
+#19 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+The pain dulled as he moved , and he steadied inside .
+2
+#5 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#9 steady VERB steady%2:35:00::
+After a moment he extended one hand , the fingers curled .
+1
+#4 extend VERB extend%2:29:01::,extend%2:40:05::
+" Come on " , he said .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You want to be that big a fool - I was hoping for this " .
+1
+#2 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Roberts brushed at his eyes with his free hand and started down the steps .
+1
+#10 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+He held the razor well out to one side .
+1
+#1 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+He was invulnerable to attack , but he could be handled , Mickey knew , if he could be brought to make the first move .
+3
+#10 handle VERB handle%2:41:00::,handle%2:41:03::
+#13 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#21 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+They were eight feet apart when Roberts cleared the last step .
+1
+#7 clear VERB clear%2:38:00::
+Mickey waited with slack arms .
+1
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+" Any time , Roberts " , he said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Or would it be easier if I put my hands in my pockets " ?
+1
+#8 put VERB put%2:35:00::,put%2:35:05::
+He advanced slowly , directly , giving no hint of a feint to either side .
+2
+#1 advance VERB advance%2:30:01::,advance%2:30:09::,advance%2:32:00::,advance%2:33:00::,advance%2:38:00::,advance%2:41:01::
+#6 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+He was just short of arm 's reach when he stopped .
+1
+#10 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Mickey backed off two steps , forcing him to come on again .
+1
+#6 force VERB force%2:35:01::,force%2:35:03::,force%2:36:00::
+There was a fixed grin on Roberts ' face , made hideous by the swollen nose and the smeared blood .
+1
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Mickey backed off again and Roberts hesitated , then came along .
+1
+#9 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+They moved in a series of rhythmic fits and starts , a macabre dance - two steps back , two steps forward , two steps back .
+1
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Mickey felt his shoulders come up against the wall beside the heavy slab front door .
+1
+#1 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+This was going to be it now , any second , and what he had to remember was to keep his eye on the razor , no matter what , even if Roberts should feint with a kick to the groin , the deadly hand was his exclusive concern .
+1
+#19 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+The kick came , sudden and vicious but short .
+1
+#2 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+Mickey 's guts twisted with the effort , but he kept his eye on the weapon .
+2
+#3 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#10 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+It moved in a silver arc toward his throat , then veered downward .
+2
+#1 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#11 veer VERB veer%2:38:00::
+He hunched his left shoulder into it and slashed at Roberts ' forearm with his own , felt the blade slide off his sleeve .
+1
+#17 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+Before Roberts could move inside to cut upward toward his face , he slammed his right fist into Roberts ' belly .
+1
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Roberts sagged and slashed at him wildly .
+1
+#1 sag VERB sag%2:38:01::
+Ducking , Mickey tripped and fell to one side , landing heavily on the wood floor .
+4
+#0 duck VERB duck%2:38:00::
+#3 trip VERB trip%2:38:01::
+#5 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#10 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+He felt it rip at the side of his jacket and a momentary sting under his left ribs .
+1
+#3 rip VERB rip%2:35:00::
+He got a knee up into Roberts ' belly , used both hands and heaved him clear , then scrambled to his feet .
+4
+#1 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#10 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#14 heave VERB heave%2:35:01::
+#19 scramble VERB scramble%2:38:00::
+Still clutching the razor , Roberts came up into a crouch , shaking his head .
+1
+#12 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+When he charged Mickey was ready .
+1
+#2 charge VERB charge%2:33:00::,charge%2:38:00::
+He hit Roberts with his left fist in the ribs and the razor cut toward him feebly , then wobbled in mid-air .
+1
+#1 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+With his right fist , and nearly all his weight behind it , he smashed at the bloodstained face .
+1
+#14 smash VERB smash%2:30:10::
+Roberts careened backward , his back arched , fought for balance and , failing , stumbled against the newel post at the foot of the stairs .
+2
+#1 careen VERB careen%2:38:00::
+#13 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+The sound of his head striking the solid wood was an ultimate , sudden-end sound .
+1
+#5 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+He fell on his side across the lowest step , rolled over once , then lay still .
+2
+#1 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#15 lie VERB lie%2:35:00::,lie%2:38:00::
+After a minute he went to Roberts , looked at one of his eyes and felt for a pulse .
+3
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#8 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#15 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+He could n't feel any .
+1
+#3 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+Roberts appeared to be dead ; if not yet , then soon , very soon .
+1
+#1 appear VERB appear%2:30:00::
+It seemed to him that a long time had passed before he decided what to do .
+1
+#9 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+There 's no way to take him in now and keep those other two - Wister and the one who hired the two of them - from finding out about Roberts and lamming out .
+3
+#5 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#20 hire VERB hire%2:41:00::
+#32 lam VERB lam%2:38:00::
+The local law here would hold me till they check clear back home , and maybe more than that .
+2
+#5 hold VERB hold%2:31:04::,hold%2:35:03::,hold%2:40:04::,hold%2:42:00::,hold%2:42:01::
+#9 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+He looked at where Roberts lay sprawled on the step .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 lie VERB lie%2:35:00::,lie%2:38:00::
+One thing , he thought , nobody knows about it yet .
+2
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He climbed the stairs , went into Roberts ' room , found a suitcase and packed as much into it as he could .
+3
+#1 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#11 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#15 pack VERB pack%2:35:00::,pack%2:35:08::,pack%2:35:11::,pack%2:38:00::,pack%2:38:02::,pack%2:42:00::
+He left a few things .
+1
+#1 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Walking away on impulse , he might logically leave behind what it was inconvenient to carry .
+2
+#0 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#15 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+When he had closed the suitcase he found a rag and moved about the room , wiping carefully everything he might have touched .
+5
+#3 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#7 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#11 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#16 wipe VERB wipe%2:35:00::
+#22 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+It took him nearly an hour .
+1
+#1 take VERB take%2:40:06::,take%2:42:03::
+He left the rest of his things and returned to the lobby .
+2
+#1 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#8 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+He set Roberts ' suitcase near the front door , went outside and walked back to the garage .
+3
+#1 set VERB set%2:35:00::
+#10 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+He was mildly surprised to find it was snowing .
+2
+#5 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#8 snow VERB snow%2:43:00::
+It snowed softly , silently , an undulating interruption of his vision against the night sky .
+1
+#1 snow VERB snow%2:43:00::
+He could feel it on his face and in his hair .
+1
+#2 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+He found the key to the Jeep , got it started and warmed it up for five minutes .
+2
+#8 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#10 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+Then he backed out and swung around to the front drive .
+1
+#5 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+He put it in his own pocket for safekeeping .
+1
+#1 put VERB put%2:35:00::,put%2:35:05::
+He took the suitcase out to the Jeep and put it in the front seat .
+2
+#1 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#9 put VERB put%2:35:00::,put%2:35:05::
+The body was heavier than he had anticipated .
+1
+#7 anticipate VERB anticipate%2:37:00::,anticipate%2:41:00::,anticipated%5:00:00:expected:00
+He got it onto his shoulder after some work and carried it outside and down to the Jeep .
+2
+#1 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#10 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+He dumped it into the back and made sure it would n't roll out , then returned to the porch and closed the front door , making sure it was unlocked .
+5
+#1 dump VERB dump%2:38:01::
+#12 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+#16 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#21 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#26 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He drove carefully in the direction of the brief tour they had taken earlier .
+2
+#1 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#12 take VERB take%2:31:02::,take%2:34:00::
+It snowed continuously , but quietly , evenly .
+1
+#1 snow VERB snow%2:43:00::
+When he reached the dip in the woods , he saw that already the earlier ruts were barely discernible .
+2
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#10 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+The Jeep fought its way through the low spot and got onto higher ground .
+1
+#10 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+He drove in low gear to the fork in the road and swung as close as possible to the entrance to the abandoned mine .
+2
+#1 drive VERB drive%2:38:00::,drive%2:38:01::,drive%2:38:02::,drive%2:38:09::
+#12 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+He parked facing it and left the headlights on , but when he started into the tunnel with the suitcase , he found the illumination extended no farther than half a dozen feet into the passage .
+5
+#2 face VERB face%2:38:00::,face%2:42:00::
+#5 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#13 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#22 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#25 extend VERB extend%2:29:00::,extend%2:30:01::,extend%2:30:02::,extend%2:40:04::,extend%2:42:01::,extend%2:42:03::
+He went back and got the flashlight , returned to the tunnel and carried the suitcase to the edge of the pit he had found earlier .
+3
+#8 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#13 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#24 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+He tossed the bag into the pit and watched dry dust spray up around it .
+2
+#1 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#8 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+When the dust settled , he went back to the Jeep and carefully worked Roberts ' body onto his shoulder .
+2
+#3 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+#13 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+It was n't like carrying the suitcase .
+1
+#4 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Twice he nearly fell .
+1
+#3 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+Inside the passage , he had to work his way over the fallen timber and nearly collapsed under his clumsy burden .
+1
+#16 collapse VERB collapse%2:29:00::
+By the time he reached the edge of the pit he was panting and his shoulder and back ached under the drag of the dead weight .
+2
+#4 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#18 ache VERB ache%2:39:00::
+He stood looking down for a few seconds , then backed up two or three paces from the edge .
+2
+#1 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+There was too much weight casually to toss it away .
+1
+#7 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+He could feel himself falling in with it and being unable to get out .
+2
+#2 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#4 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+It would be a bad place to die .
+1
+#7 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+It was too late to worry about that .
+1
+#5 worry VERB worry%2:37:00::,worry%2:37:01::
+He knelt slowly and dumped the corpse onto the floor of the tunnel .
+1
+#4 dump VERB dump%2:38:01::
+He was shaking with tension and it took him a couple of minutes to get his breath and settle down .
+3
+#2 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#7 take VERB take%2:40:06::,take%2:42:03::
+#18 settle VERB settle%2:30:00::,settle%2:30:01::,settle%2:30:02::,settle%2:30:03::,settle%2:30:05::
+Then he got on his knees and rolled Roberts ' body toward the edge .
+2
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#7 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+It hung momentarily on the point of dropping off .
+1
+#7 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+He gave it a strong push , heard it slide , then tumble dryly into the hole .
+1
+#12 tumble VERB tumble%2:30:00::
+He got to his feet and threw the flashlight beam into the pit .
+2
+#1 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#6 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+The body lay in an awkward sprawl twelve or fifteen feet below the level of the tunnel floor .
+1
+#2 lie VERB lie%2:35:00::,lie%2:38:00::
+There was little chance anyone would enter this shaft during the winter .
+1
+#6 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+The external signs of his approach to it would be covered by the snow , probably by the next day .
+1
+#10 cover VERB cover%2:35:00::,cover%2:35:01::,cover%2:35:14::,cover%2:38:00::,cover%2:39:14::,cover%2:42:01::,covered%3:00:00::
+He had started to back into the turn when he remembered the razor in his pocket .
+1
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+He climbed down , went back into the tunnel and tossed the razor into the pit .
+1
+#10 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+It landed on Roberts ' sprawled right thigh , poised precariously , then slid off to the ground .
+1
+#1 land VERB land%2:30:00::,land%2:38:00::,land%2:38:01::
+In the garage he checked the Jeep for signs of the use he had made of it .
+2
+#4 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#14 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+There were stains here and there and he cleaned them off , using an oiled rag he found on a nail .
+2
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+He wiped the steering wheel and all the places he might have touched the Jeep .
+2
+#1 wipe VERB wipe%2:35:00::
+#12 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+He replaced the flashlight where it had been stowed , got into his own car and backed it out of the garage .
+2
+#1 replace VERB replace%2:35:00::
+#10 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+Liz Peabody , he thought , might spend some time grieving for her lost lover , but he doubted that she would launch an investigation .
+3
+#4 think VERB think%2:31:01::,think%2:31:03::
+#18 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+#22 launch VERB launch%2:35:00::,launch%2:35:04::
+Still she would probably have sense enough not to call in the local sheriff to find her boy friend who , apparently , had run away .
+2
+#4 have VERB have%2:40:00::,have%2:42:00::
+#15 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::

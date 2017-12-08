@@ -1,0 +1,235 @@
+ At last the White House is going to get some much-copied furniture by that master American craftsman , Duncan Phyfe , whose designs were snubbed in his lifetime when the U. S. Presidents of the 19 th Century sent abroad for their furnishings .
+2
+#8 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#24 snub VERB snub%2:32:00::
+The American Institute of Decorators has acquired a rare complete set of sofas and chairs which are to be placed in the Executive Mansion 's library .
+1
+#19 place VERB place%2:31:13::
+The gift is being presented by " heirs and descendants of the Rutherford family of New Jersey , whose famous estate , " Tranquility " , was located near the Duncan Phyfe workshop at Andover , N. J. .
+1
+#4 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+Authenticated pieces of Duncan Phyfe furniture are uncommon , although millions of American homes today display pieces patterned after the style trends he set 150 years ago .
+2
+#17 pattern VERB pattern%2:42:00::
+#23 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+The AID has found a mantlepiece attributed to Samuel McIntyre of Salem , Mass. , an architect and woodcarver who competed for the designing of the Capitol here in 1792 .
+1
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+The mantel was found in a recently demolished Salem house and is being fitted over the White House library fireplace .
+2
+#3 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#13 fit VERB fit%2:30:02::,fit%2:40:00::
+It will be painted to match the paneling in the room .
+2
+#3 paint VERB paint%2:35:00::,paint%2:35:01::,paint%2:36:00::
+#5 match VERB match%2:30:01::,match%2:35:08::
+Mrs. Lenygon 's committee associates , announced formally yesterday by the AID in New York , include Mrs. Allen Lehman McCluskey and Stephen J. Jussel , both wellknown Manhattan decorators .
+1
+#16 include VERB include%2:42:00::
+Regional representatives appointed to serve from each section of the country include Frank E. Barnes of Boston .
+3
+#2 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#4 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#11 include VERB include%2:42:00::
+President Kennedy could n't stay away from his desk for the 75 - minute young people 's concert played on the White House lawn yesterday by the 85 - piece Transylvania Symphony Orchestra from Brevard , N. C. .
+1
+#18 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+But he left the doors to his office open so he could hear the music .
+1
+#2 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+At 4 p. m. the President left the White House to welcome the young musicians , students from the ages of 12 to 18 who spend six weeks at the Brevard Music Center summer camp , and to greet the 325 crippled , cardiac and blind children from the District area who were special guests at the concert .
+3
+#6 leave VERB leave%2:38:00::,leave%2:41:00::
+#11 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+#38 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+It was the first in the series of " Concerts for Young People by Young People " to be sponsored by First Lady Jacqueline Kennedy at the White House .
+1
+#19 sponsor VERB sponsor%2:40:00::
+She was not present yesterday , however , to enjoy the music or watch the faces of the delighted audience .
+2
+#9 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#13 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+She is vacationing at the Kennedy summer home in Hyannis Port , Mass. , and in his welcoming remarks , the President said he was representing her .
+2
+#22 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#25 represent VERB represent%2:41:00::
+As he approached the open bandstand , erected facing the South entrance to the Executive Mansion , the band struck up the " Star Spangled Banner " and followed it with " Hail to the Chief " .
+2
+#2 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#8 face VERB face%2:38:00::,face%2:42:00::
+" I think they played Hail to the Chief better than the Marine Corps Band , and we are grateful to them " , President Kennedy remarked after mounting the bandstand and shaking hands with conductor James Christian Pfohl .
+3
+#4 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+#26 remark VERB remark%2:32:01::
+#28 mount VERB mount%2:35:07::,mount%2:38:00::,mount%2:38:01::
+After paying tribute to the conductor and his white-clad youthful students , President Kennedy said , " As an American I have the greatest possible pride in the work that is being done in dozens of schools stretching across the United States - schools where devoted teachers are studying with interested young men and women and opening up the whole wide horizon of serious music " .
+5
+#1 pay VERB pay%2:41:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#37 stretch VERB stretch%2:42:00::
+#48 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+He added " I think that sometimes in this country we are not aware as we should be of the extraordinary work that is being done in this field " .
+2
+#1 add VERB add%2:32:01::
+#4 think VERB think%2:31:01::,think%2:31:03::
+Displaying his knowledge of music , the New England-born President remarked that " probably the best chamber music in the world is played in Vermont , by young Americans - and here in this school where they have produced extraordinary musicians and teachers , and their work is being duplicated all across the United States .
+3
+#10 remark VERB remark%2:32:01::
+#22 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+#38 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+" This is a great national cultural asset , and therefore it is a great source of satisfaction to me , representing as I do today my wife , to welcome all of you here today at the White House " .
+2
+#21 represent VERB represent%2:41:00::
+#30 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+As he left the bandstand to return to his office , the slender , sun-tanned Chief Executive paused along the way to shake hands with the members of the audience in wheel chairs forming the first row under the field tent set up for the guests .
+3
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#33 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+He expressed surprise to learn that pretty , blonde Patricia Holbrook , 16 , of Mount Rainier , had attended the Joseph P. Kennedy School for the Handicapped in Boston .
+3
+#1 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+#4 learn VERB learn%2:31:01::,learn%2:31:03::
+#19 attend VERB attend%2:42:00::
+Patricia now attends the C. Melvin Sharpe Health School in the District .
+1
+#2 attend VERB attend%2:42:00::
+Each of the children invited to the concert wore a name tag marked with a red , white and blue ribbon .
+1
+#8 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+They enjoyed lemonade and cookies served before and during the concert by teenage sons and daughters of members of the White House staff .
+2
+#1 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#5 serve VERB serve%2:33:00::,serve%2:34:00::,serve%2:34:01::,serve%2:42:12::
+Many of the music-loving members of the President 's staff gathered around the tent listening and watching the rapt attention given by the young seated audience .
+3
+#10 gather VERB gather%2:30:00::
+#16 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#20 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+Henry Hall Wilson , a student at the music camp 25 years ago and now on the President 's staff as liaison representative with the House of Representatives , turned guest conductor for a Sousa march , the " Stars and Stripes Forever " .
+1
+#29 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+Transylvania Symphony Conductor Pfohl said yesterday that Mrs. Kennedy 's Social Secretary , Letitia Baldrige , told about plans for White House youth concerts before the National Symphony Orchestra League in Philadelphia last spring .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#16 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He said he contacted a friend , Henry Hall Wilson , on the President 's staff and asked whether his orchestra could play , in the series .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+A flow of correspondence between Pfohl and Miss Baldrige resulted in an invitation to the 85 - student North Carolina group to play the first concert .
+1
+#22 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+One of the most interested " students " on the tour which the Brevard group took at the National Gallery yesterday following their concert at the White House , was Letitia Baldrige , social secretary to First Lady Jacqueline Kennedy .
+2
+#15 take VERB take%2:31:02::,take%2:34:00::
+#21 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Miss Bouton headed up one of the four groups that went on simultaneous tours after the Gallery had closed at 5 p. m. .
+2
+#10 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#18 close VERB close%2:32:05::,close%2:39:10::,close%2:41:00::,close%2:41:01::,close%2:42:00::
+The Brevard visitors had very little to say at the beginning of the tour but warmed up later .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+They decided that they thought Rembrandt 's self-portrait made him look " sad " .
+3
+#4 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 look VERB look%2:39:01::,look%2:42:02::
+Gallery Director John Walker greeted the group , standing on one of the benches in the downstairs lobby to speak to them .
+2
+#4 greet VERB greet%2:31:00::,greet%2:32:01::,greet%2:39:00::
+#8 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+He pointed out to the young musicians that the National Gallery " is the only museum in the country to have a full-time music director , Richard Bales , I 'm sure you 've heard af him and his record , ' The Confederacy " ' .
+1
+#20 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Along with the gallery aide who explained the various paintings and sculptures to each group , went one of the Gallery 's blue-uniformed guards .
+1
+#16 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+A few of them said they " preferred contemporary art " .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 prefer VERB prefer%2:31:00::
+The thing that impressed one of the visitors the most was the Gallery 's rotunda fountain " because it 's on the second floor " .
+1
+#3 impress VERB impress%2:37:01::
+More than 250 Scottish Rite Masons and guests gathered in their House of the Temple to pay tribute to their most prominent leader , Albert Pike , who headed the Scottish Rite from 1859 to 1891 .
+3
+#8 gather VERB gather%2:30:00::
+#16 pay VERB pay%2:41:00::
+#28 head VERB head%2:38:02::,head%2:41:00::
+They came together in the huge , high-ceilinged Council Chamber to hear the late leader eulogized .
+1
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+C. Wheeler Barnes of Denver , head of the Scottish Rite in Colorado , praised Pike as a historian , author , poet , journalist , lawyer , jurist , soldier and musician , who devoted most of his mature years to the strengthening of the Masonic Order .
+1
+#35 devote VERB devote%2:31:00::
+A reception and tea followed .
+1
+#4 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+About 1500 delegates are expected to register today for the biennial session of the Ancient and Accepted Scottish Rite for the Southern Jurisdiction of the United States .
+1
+#6 register VERB register%2:32:03::,register%2:32:05::,register%2:41:00::,register%2:41:01::
+The opening session of the 5 - day session will begin at 10 a. m. today .
+1
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+A wreath will be placed at the tomb of George Washington , one of this Nation 's first Masons - a past master of Washington-Alexandria Lodge 22 in Alexandria .
+1
+#4 place VERB place%2:31:13::
+The marriage of John and Mary Black had clearly reached the breaking point after eight years .
+1
+#9 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+John had a job in a small firm where the work was dull and monotonous .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He would come home in the evening tired and discouraged - in no frame of mind to play with their three children , or spend much time chatting with his wife .
+2
+#2 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#17 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+Hurt by his lack of interest and attention , Mary complained often that he did n't help around the house , and that he did n't really care about the family .
+2
+#16 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#27 care VERB care%2:37:00::,care%2:37:12::
+He in turn told her she demanded too much .
+1
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Mary decided she had had enough .
+1
+#4 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Without any definite plan in mind , she went to a judge to see what could be done .
+2
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Family Service , sharing in UGF , has five agencies in the Washington area .
+1
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Because neither of them really wanted their marriage to break up , Mr. and Mrs. Black agreed to a series of interviews at Family Service of Northern Virginia , the agency nearest them .
+2
+#5 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#16 agree VERB agree%2:32:00::,agree%2:32:01::
+For nearly a year , they have been receiving counseling , separately and together , in an effort to understand and overcome the antagonisms which had given rise to the possibility of divorce .
+1
+#19 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+The interviews have led each of them to a new appreciation of the problems confronting the other .
+1
+#3 lead VERB lead%2:32:01::,lead%2:36:00::,lead%2:38:01::,lead%2:41:12::,lead%2:42:01::
+They are now working together toward solving their difficulties .
+1
+#3 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Mary is cheery and gay when her husband comes home in the evenings , and the children 's bed-time is frequently preceeded by a session of happy , family rough-housing .
+1
+#8 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Family Service has helped hundreds of families in this area .
+1
+#3 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+But to the families it serves , their help cannot be measured .
+1
+#5 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+Anticipated heavy traffic along the Skyline Drive failed to materialize yesterday , park rangers said , and those who made the trip got a leisurely view of the fall colors through skies swept clear of haze .
+4
+#7 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+#9 materialize VERB materialise%2:30:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#22 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::

@@ -1,0 +1,802 @@
+ With a sneer , the man spread his legs and , a third time , confronted them .
+4
+#5 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 spread VERB spread%2:35:03::,spread%5:00:00:distributed:00
+#8 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#13 time NOUN time%1:11:00::
+Once more , Katie reared , and whinnied in fear .
+1
+#4 rear VERB rear%2:38:00::
+For a moment , boy and mount hung in midair .
+4
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#4 boy NOUN boy%1:18:03::
+#6 mount NOUN mount%1:05:00::
+#7 hang VERB hang%2:35:06::,hang%2:42:00::
+Stevie twisted and , frantically , commanded the mare to leap straight ahead .
+4
+#1 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#6 command VERB command%2:32:00::,command%2:32:01::,command%2:41:00::,command%2:42:00::
+#8 mare NOUN mare%1:05:00::
+#11 straight ADV straight%4:02:05::
+With a bold arm , he dared once more to obstruct them .
+2
+#2 bold ADJ bold%3:00:00::
+#3 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+Katie reared a third time , then , trembling , descended .
+3
+#1 rear VERB rear%2:38:00::
+#4 time NOUN time%1:11:00::
+#10 descend VERB descend%2:38:00::
+Seizing the bridle , he tugged with all his might and forced Katie to her knees .
+3
+#0 seize VERB seize%2:31:00::,seize%2:31:04::,seize%2:40:01::,seize%2:40:02::
+#9 might NOUN might%1:07:00::
+#11 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+Stevie could feel himself toppling .
+1
+#2 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+He saw the ground coming up - and the stranger 's head .
+3
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+#11 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+With incredible ferocity , he brought his fists together and struck .
+3
+#1 incredible ADJ incredible%3:00:00::
+#8 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+#10 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+The blow encountered silky hair and hard bone .
+2
+#1 blow NOUN blow%1:04:01::
+#7 bone NOUN bone%1:08:00::
+The man uttered a weird cry , spun about , and collapsed in the sand .
+5
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 utter VERB utter%2:32:02::
+#7 spin VERB spin%2:38:01::
+#8 about ADV about%4:02:01::
+#11 collapse VERB collapse%2:29:00::
+Katie scrambled to her feet , Stevie agilely retaining his seat .
+2
+#1 scramble VERB scramble%2:38:00::
+#4 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+Again Katie reared , and now , wickedly , he compelled her to bring her hooves down again and again upon the sprawled figure of the stranger .
+3
+#2 rear VERB rear%2:38:00::
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#23 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+He could feel his own feet , iron-shod , striking repeatedly until the body was limp .
+5
+#2 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#4 own ADJ own%5:00:00:personal:00
+#5 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#9 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#13 body NOUN body%1:08:00::,body%1:08:02::
+He gloated , and his lips slavered .
+1
+#5 lip NOUN lip%1:08:00::,lip%1:20:00::
+They rode around and around to trample the figure into the sand .
+2
+#1 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#8 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+Only the top of the head , with a spot bare and white as a clamshell , remained visible .
+6
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 top NOUN top%1:15:00::,top%1:15:01::
+#5 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#9 spot NOUN spot%1:04:00::,spot%1:07:00::,spot%1:07:01::,spot%1:10:02::,spot%1:15:01::
+#12 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#18 visible ADJ visible%3:00:00::
+Stevie was shouting triumphantly .
+1
+#2 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+A train hooted .
+1
+#1 train NOUN train%1:06:00::
+Instantly , he chilled .
+2
+#0 instantly ADV instantly%4:02:00::
+#3 chill VERB chill%1:12:00::
+They were pursuing him .
+1
+#2 pursue VERB pursue%2:38:00::
+He was frightened ; his fists clutched so tightly that his knuckles hurt .
+1
+#7 so ADV so%4:02:03::,so%4:02:07::
+Then Katie stumbled , and again he was falling , falling !
+3
+#0 then ADV then%4:02:00::
+#8 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#10 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+His mother was nudging him , but he was still falling .
+3
+#1 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#9 still ADV still%4:02:00::
+#10 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+His head hung over the boards of Katie 's stall ; before it was sprawled the mangled corpse of the bearded stranger .
+4
+#1 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#2 hang VERB hang%2:35:00::,hang%2:35:02::,hang%2:35:03::,hang%2:35:04::,hang%2:36:00::
+#5 board NOUN board%1:06:00::,board%1:27:00::
+#9 stall NOUN stall%1:06:03::
+We're nearly there " .
+2
+#1 nearly ADV nearly%4:02:00::
+#2 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He had been dreaming .
+1
+#3 dream VERB dream%2:36:00::,dream%2:39:00::
+He was safe in his Mama 's arms .
+3
+#2 safe ADJ safe%3:00:01::,safe%3:00:02::,safe%5:00:00:unadventurous:00
+#5 mama NOUN mama%1:18:00::
+#7 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+The train had slowed .
+1
+#1 train NOUN train%1:06:00::
+Houses winked as the cars rolled beside a little depot .
+2
+#0 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#5 roll VERB roll%2:35:01::,roll%2:38:01::,roll%2:38:10::,roll%2:38:11::,roll%2:42:00::
+" Po ' Chavis " ! the trainman called .
+1
+#8 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+He came by and repeated , " Po ' Chavis " !
+3
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#2 by ADV by%4:02:00::
+#4 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+The room vibrated as if a giant hand had rocked it .
+2
+#1 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 rock VERB rock%2:38:06::
+a dull boom and a throbbing echo .
+3
+#1 dull ADJ dull%5:00:00:unsaturated:03
+#2 boom NOUN boom%1:11:01::
+#6 echo NOUN echo%1:07:00::
+The walls bulged , the floor trembled , the windowpanes rattled .
+3
+#5 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+#9 windowpane NOUN windowpane%1:06:00::
+#10 rattle VERB rattle%2:38:00::
+He stared at the far morning , expecting a pendulum to swing across the horizon .
+3
+#5 morning NOUN morning%1:28:00::,morning%1:28:01::
+#11 swing VERB swing%2:38:00::,swing%2:38:03::
+#14 horizon NOUN horizon%1:15:00::
+He raced to the window and yanked at the sash .
+3
+#1 race VERB race%2:38:00::
+#4 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#9 sash NOUN sash%1:06:00::
+the wood was old , the paint alligatored .
+3
+#1 wood NOUN wood%1:06:02::
+#3 old ADJ old%3:00:01::,old%3:00:02::
+#6 paint NOUN paint%1:06:00::
+A fresh breeze saluted him .
+1
+#2 breeze NOUN breeze%1:19:00::
+He put his his head out .
+2
+#1 put VERB put%2:35:00::,put%2:35:05::
+#4 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+There was the slate roof of the church ; ivy climbed the red brick walls like a green scaled monster .
+5
+#0 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#10 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#12 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#13 brick NOUN brick%1:06:00::
+#17 green ADJ green%5:00:00:chromatic:00
+The clock which had struck presented an innocent face .
+4
+#1 clock NOUN clock%1:06:00::
+#4 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#5 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#7 innocent ADJ innocent%5:00:00:uninformed:00
+In the kitchen Mama was wiping the cupboards .
+3
+#2 kitchen NOUN kitchen%1:06:00::
+#3 mama NOUN mama%1:18:00::
+#5 wipe VERB wipe%2:35:00::
+" There 's a tower and a steeple on the church a million feet high .
+3
+#4 tower NOUN tower%1:06:00::
+#13 foot NOUN foot%1:23:00::
+#14 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+And the loudest clock in the whole world " !
+3
+#3 clock NOUN clock%1:06:00::
+#6 whole ADJ whole%3:00:00::
+#7 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+" I know , Stephen " , she smiled .
+1
+#2 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" They say that our steeple is one hundred and sixty-two feet high .
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 foot NOUN foot%1:23:00::
+#12 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+The clock you heard strike - it 's really the town clock - was installed last April by Mrs. Shorter , on her birthday " .
+6
+#1 clock NOUN clock%1:06:00::
+#4 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#8 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#11 clock NOUN clock%1:06:00::
+#14 install VERB install%2:35:00::
+#15 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+He dressed , and sped outdoors .
+2
+#1 dress VERB dress%2:29:00::,dress%2:29:01::,dress%2:29:07::,dress%2:35:04::
+#4 speed VERB speed%2:30:02::
+He crossed Broome Street to Orange Square .
+1
+#1 cross VERB cross%2:38:00::
+The steeple leaned backward , while the church advanced like a headless creature in a long , shapeless coat .
+2
+#15 long ADJ long%3:00:01::
+#18 coat NOUN coat%1:06:00::
+The spire seemed to hold up the sky .
+1
+#1 spire NOUN spire%1:06:00::
+The Dutch Reformed Church , with two steeples and its own school was on Main Street ; the Episcopal Church was one block down Sussex Street ; the Catholic Saint Mary's Church , with an even taller steeple and a cross on top , stood on Ball Street .
+8
+#10 own ADJ own%5:00:00:personal:00
+#11 school NOUN school%1:06:00::,school%1:14:03::,school%1:28:00::
+#22 block NOUN block%1:15:00::
+#28 catholic ADJ catholic%3:01:00::
+#36 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#40 cross NOUN cross%1:04:00::
+#42 top NOUN top%1:15:00::,top%1:15:01::
+#44 stand VERB stand%2:42:00::,stand%2:42:02::,stand%2:42:03::,stand%2:42:04::,stand%2:42:06::
+The Catholics had the largest cemetery , near the Neversink River where Main Street ran south ; Stevie whistled when he passed these alien grounds .
+7
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#14 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#15 south ADV south%4:02:00::
+#18 whistle VERB whistle%2:39:00::
+#21 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#24 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+God was everywhere , in the belfry , in the steeple , in the clouds , in the trees , and in the mountains hulking on the horizon .
+4
+#0 God NOUN god%1:18:00::
+#14 cloud NOUN cloud%1:14:00::,cloud%1:19:01::
+#18 tree NOUN tree%1:20:00::
+#27 horizon NOUN horizon%1:15:00::
+Somewhere , beyond , where shadows lurked , must be the yawning pit of which Papa preached and the dreadful Lake of Fire .
+3
+#2 beyond ADV beyond%4:02:01::
+#12 pit NOUN pit%1:06:00::
+#15 papa NOUN papa%1:18:00::
+So , walking in awe , he became familiar with God , who resided chiefly in Drew Centennial Church with its high steeple and clock .
+5
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#7 become VERB become%2:30:00::,become%2:42:01::
+#10 God NOUN god%1:18:00::
+#21 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#24 clock NOUN clock%1:06:00::
+There was no church like Drew Church , no preacher like Papa , who was intimate with Him , and could consign sinners to hellfire .
+2
+#11 papa NOUN papa%1:18:00::
+#15 intimate ADJ intimate%5:00:00:close:02
+To know God he must follow in Papa 's footsteps .
+3
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#2 God NOUN god%1:18:00::
+#7 papa NOUN papa%1:18:00::
+The veterans , idling on their benches in the Square , beneath the soldiers ' monument , got to their feet when Papa approached : " Morning , Reverend " !
+5
+#6 bench NOUN bench%1:06:00::
+#13 soldier NOUN soldier%1:18:00::
+#22 papa NOUN papa%1:18:00::
+#23 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+#26 morning X morning%1:10:00::
+His being and His will - Stevie could not divide God from his Papa - illumined every parish face , turned the choir into a band of angels , and the pulpit into the tollgate to Heaven .
+11
+#1 being NOUN being%1:03:00::
+#4 will NOUN will%1:09:01::,willpower%1:07:00::
+#8 not ADV not%4:02:00::
+#9 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#10 God NOUN god%1:18:00::
+#13 papa NOUN papa%1:18:00::
+#18 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#20 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#25 band NOUN band%1:14:01::
+#27 angel NOUN angel%1:18:00::
+#36 heaven NOUN heaven%1:15:01::
+" We have nine hundred and eleven members in our charge " , Mama announced , " and three hundred and eighty Sunday-school scholars " .
+4
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 member NOUN member%1:18:00::,member%1:24:00::
+#10 charge NOUN charge%1:04:00::,charge%1:04:03::,charge%1:10:01::,charge%1:18:00::
+#13 mama NOUN mama%1:18:00::
+When Papa went out to do God 's work , Stevie often accompanied him in the buggy , which was drawn by Violet , the new black mare .
+7
+#1 papa NOUN papa%1:18:00::
+#6 God NOUN god%1:18:00::
+#8 work NOUN work%1:04:00::
+#12 accompany VERB accompanied%3:00:00::
+#20 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#26 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#27 mare NOUN mare%1:05:00::
+Although they journeyed westerly as far as Germantown , beyond the Erie roundhouse and the machine shop , and along the Delaware and Hudson Canal , and northward to Brooklyn , below Point Peter , he could see the church spire wherever he looked back .
+4
+#5 far ADV far%4:02:00::
+#12 roundhouse NOUN roundhouse%1:06:00::
+#37 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#40 spire NOUN spire%1:06:00::
+Sometimes they went south and rolled past the tollhouse - " Afternoon , Reverend " !
+3
+#2 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#3 south NOUN south%1:24:00::
+#5 roll VERB roll%2:35:01::,roll%2:38:01::,roll%2:38:10::,roll%2:38:11::,roll%2:42:00::
+- and crossed the suspension bridge to Matamoras ; that was Pennsylvania .
+1
+#2 cross VERB cross%2:38:00::
+In the Delaware River , three long islands were overgrown with greening trees and underbrush .
+4
+#6 long ADJ long%3:00:01::
+#7 island NOUN island%1:06:00::
+#9 overgrown ADJ overgrown%5:00:00:covered:00
+#12 tree NOUN tree%1:20:00::
+South of Laurel Grove Cemetery , and below the junction of the Neversink and the Delaware , was the Tri-State Rock , from which Stevie could spy New Jersey and Pennsylvania , as well as New York , simply by spinning around on his heel .
+6
+#9 junction NOUN junction%1:04:00::
+#15 Delaware NOUN delaware_river%1:17:00::
+#38 simply ADV simply%4:02:00::,simply%4:02:02::
+#40 spin VERB spin%2:38:01::
+#41 around ADV around%4:02:08::,around%4:02:09::
+#44 heel NOUN heel%1:06:00::
+On these excursions , Papa instructed him on man 's chief end , which was his duty to God and his own salvation .
+8
+#2 excursion NOUN excursion%1:04:00::
+#4 papa NOUN papa%1:18:00::
+#5 instruct VERB instruct%2:32:00::
+#8 man NOUN man%1:05:01::,man%1:18:04::,man%1:18:04::;1:18:00::,man%1:18:06::
+#11 end NOUN end%1:09:02::,end%1:11:00::
+#16 duty NOUN duty%1:04:00::,duty%1:04:02::
+#18 God NOUN god%1:18:00::
+#21 own ADJ own%5:00:00:personal:00
+However , a boy 's lively eyes might rove .
+4
+#0 however ADV however%4:02:04::
+#3 boy NOUN boy%1:18:03::
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+#8 rove VERB rove%2:38:00::
+Where Cuddleback Brook purled into the Neversink was a magnificent swimming hole .
+1
+#3 purl VERB purl%2:32:00::
+Papa pointed a scornful finger at the splashing youth : " Idle recreation " !
+4
+#0 papa NOUN papa%1:18:00::
+#1 point VERB point%2:32:00::,point%2:32:11::,point%2:32:12::,point%2:33:00::,point%2:33:02::,point%2:42:00::
+#8 youth NOUN youth%1:18:00::
+#12 recreation NOUN recreation%1:04:00::
+Stevie saw no idols ; it troubled him that he could n't always see what Papa saw .
+3
+#12 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#13 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#15 papa NOUN papa%1:18:00::
+He was torn between the excitement in the sun inflamed waters and a little engine chugging northward on the Monticello Branch .
+3
+#8 sun NOUN sun%1:18:00::,sun%1:19:00::
+#14 engine NOUN engine%1:06:01::
+#15 chug VERB chug%2:39:00::
+Ludie inquired every evening , pretending that he did not care .
+4
+#1 inquire VERB inquire%2:32:01::
+#3 evening NOUN evening%1:28:00::,evening%1:28:02::
+#5 pretend VERB pretend%2:32:00::,pretend%2:32:01::,pretend%2:36:00::
+#10 care VERB care%2:37:00::,care%2:37:12::
+Stevie flared .
+1
+#1 flare VERB flare%2:43:01::
+" Somebody 's got to be a preacher in the family .
+1
+#10 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+He made a will and last testament before we left Paterson .
+4
+#3 will NOUN will%1:10:00::
+#5 last ADJ last%5:00:00:unlikely:00
+#6 testament NOUN testament%1:10:00::
+#9 leave VERB leave%2:38:00::,leave%2:41:00::
+Uncle and Aunt Howe were the witnesses " .
+1
+#6 witness NOUN witness%1:18:00::
+" Will he die " ?
+1
+#3 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+To speak of Papa dying was a sin .
+4
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#3 papa NOUN papa%1:18:00::
+#4 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#7 sin NOUN sin%1:04:00::
+It could never happen as long as God was alert and the Drew steeple stood guard with its peaked lance .
+5
+#2 never ADV never%4:02:00::
+#3 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#7 God NOUN god%1:18:00::
+#18 peaked ADJ peaked%5:00:00:pointed:00
+#19 lance NOUN lance%1:06:00::
+Stevie was constantly slipping into the church .
+1
+#3 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+He pulled with all his strength at the heavy , brass bound door , and shuffled along the wainscoted wall .
+4
+#1 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#5 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#8 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#15 shuffle VERB shuffle%2:38:00::
+The cold , mysterious presence of God was all around him .
+5
+#1 cold ADJ cold%3:00:02::,cold%5:00:00:cool:03,cold%5:00:00:inhumane:00,cold%5:00:00:unenthusiastic:00,cold%5:00:00:unloving:00
+#3 mysterious ADJ mysterious%5:00:00:inexplicable:00
+#6 God NOUN god%1:18:00::
+#8 all ADV all%4:02:00::
+#9 around ADV around%4:02:06::,around%4:02:07::
+At the end of a shaft of light , the pews appeared to be broad stairs in a long dungeon .
+4
+#2 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#11 appear VERB appear%2:30:00::
+#14 broad ADJ broad%3:00:04::,broad%5:00:00:large:00
+#18 long ADJ long%3:00:01::
+Far away , standing before a curtained window in the study room , was his father , hands tucked under his coattails , and staring into the dark church .
+9
+#0 far ADV far%4:02:00::
+#1 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#3 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#7 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#11 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#15 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#17 hand NOUN hand%1:08:00::,hand%1:10:01::
+#18 tuck VERB tuck%2:35:01::
+#27 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+The figure was wreathed in an extraordinary luminescence .
+1
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+The boy shuddered at the deathly pale countenance with its wrinkles and gray hair .
+6
+#1 boy NOUN boy%1:18:03::
+#6 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#7 countenance NOUN countenance%1:07:00::
+#10 wrinkle NOUN wrinkle%1:25:00::
+#12 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+#13 hair NOUN hair%1:08:00::
+Would Papa really die ?
+3
+#1 papa NOUN papa%1:18:00::
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#3 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+The mouth was thin lipped and wide , the long cleft in the upper lip like a slide .
+7
+#1 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#3 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#6 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#9 long ADJ long%3:00:01::
+#13 upper ADJ upper%5:00:00:superior:01,upper%5:00:00:top(a):00,upper%5:00:00:top:00
+#14 lip NOUN lip%1:08:00::,lip%1:20:00::
+#17 slide NOUN slide%1:06:03::
+When Papa 's slender fingers removed the spectacles , there were red indentations on the bridge of the strong nose .
+8
+#1 papa NOUN papa%1:18:00::
+#3 slender ADJ slender%5:00:00:thin:03
+#5 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#11 red ADJ red%5:00:00:colored:00,red%5:00:01:chromatic:00
+#12 indentation NOUN indentation%1:25:00::
+#15 bridge NOUN bridge%1:08:00::
+#18 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+#19 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+" It 's time you began to think on God , Stephen .
+4
+#3 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#9 God NOUN god%1:18:00::
+Therefore , give Him your affection and store up His love for you .
+2
+#5 affection NOUN affection%1:12:00::
+#10 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+Open your heart to Him and pray , Stephen , pray !
+2
+#0 open VERB open%2:30:00::,open%2:30:01::,open%2:35:06::
+#2 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+For His mercy and His guidance to spare you from evil and eternal punishment in the Lake of Fire " .
+3
+#2 mercy NOUN mercy%1:04:00::
+#5 guidance NOUN guidance%1:10:00::
+#7 spare VERB spare%2:41:00::
+Stevie had heard these words many times , yet on each occasion they caused him to tremble .
+3
+#4 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#6 time NOUN time%1:11:00::
+#11 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+He strove to think of God and His eternal wrath ; he must pray to be spared .
+3
+#3 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#5 God NOUN god%1:18:00::
+#16 spare VERB spare%2:41:00::
+Papa was disappointed that none of the brothers had heard the Call .
+2
+#7 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#11 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+Burt was at Hackettstown and Will at Albany Law School , where they surely could not hear it .
+2
+#13 surely ADV surely%4:02:00::
+#15 not ADV not%4:02:00::
+Someday God would choose him .
+1
+#1 God NOUN god%1:18:00::
+He would hear the Call and would run to tell Papa .
+4
+#4 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#7 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 papa NOUN papa%1:18:00::
+The stern face would relax , the black clad arms would embrace him , " My son " !
+6
+#2 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#4 relax VERB relax%2:29:00::,relax%2:30:01::,relax%2:30:02::,relax%2:41:02::
+#7 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#8 clad ADJ clad%3:00:00::
+#9 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#11 embrace VERB embrace%2:35:00::
+Yet how might he know the Call when it came ?
+3
+#4 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#6 call NOUN call%1:04:00::,call%1:04:04::,call%1:10:01::,call%1:10:02::,call%1:10:03::,call%1:10:04::,call%1:10:05::,call%1:10:06::,call%1:10:07::,call%1:10:08::
+#9 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+Probably , as in Scriptures , a still , small voice would whisper .
+1
+#10 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+It would summon him once ; if he missed it , never again .
+2
+#4 once ADV once%4:02:00::
+#8 miss VERB miss%2:31:00::,miss%2:32:00::,miss%2:35:00::,miss%2:37:00::,miss%2:38:00::,miss%2:39:00::,miss%2:42:00::,miss%2:42:01::
+What if it came when he was playing , or was asleep and dreaming ?
+3
+#3 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#7 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#13 dream VERB dream%2:36:00::,dream%2:39:00::
+He must not fail to hear it .
+2
+#2 not ADV not%4:02:00::
+#3 fail VERB fail%2:37:00::,fail%2:41:02::,fail%2:41:12::
+He was Papa 's chosen ; therefore , nothing but good could happen to him , even in God 's wrathful storms .
+4
+#2 papa NOUN papa%1:18:00::
+#10 good NOUN good%1:07:02::
+#18 God NOUN god%1:18:00::
+#21 storm NOUN storm%1:19:00::
+When the skies grew dark and thunder rolled across the valley , he was unafraid .
+3
+#3 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+#4 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#7 roll VERB roll%2:32:00::,roll%2:39:00::,roll%2:42:00::
+Aggie might fly into a closet , shut the door and bury her head in the clothes ; he dared to wait for the lightning .
+6
+#2 fly VERB fly%2:35:01::,fly%2:38:00::,fly%2:38:02::,fly%2:38:06::,fly%2:38:08::
+#5 closet NOUN closet%1:06:02::
+#11 bury VERB bury%2:39:00::
+#13 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#16 clothes NOUN clothes%1:06:00::
+#21 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Lightning could strike you blind if you were a sinner !
+2
+#2 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#4 blind ADJ blind%3:00:00::
+He clenched his fists and faced the terror .
+2
+#5 face VERB face%2:32:00::,face%2:32:03::
+#7 terror NOUN terror%1:04:00::
+Thunder crashed ; barrels tumbled down the mountainsides , and bounced and bounced till their own fury split them open .
+9
+#1 crash VERB crash%2:39:00::
+#4 tumble VERB tumble%2:30:00::
+#5 down ADV down%4:02:00::,down%4:02:02::
+#10 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+#12 bounce VERB bounce%2:35:03::,bounce%2:38:00::,bounce%2:40:00::
+#15 own ADJ own%5:00:00:personal:00
+#16 fury NOUN fury%1:12:00::
+#17 split VERB split%2:41:03::
+#19 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+Lightning might strike the steeples of the other churches ; not of Drew Church .
+2
+#2 strike VERB strike%2:30:00::,strike%2:32:00::,strike%2:33:00::,strike%2:35:00::,strike%2:35:01::,strike%2:35:03::,strike%2:36:00::,strike%2:38:02::,strike%2:42:00::
+#7 other ADJ other%3:00:00::
+A flash illumined the trees as a crooked bolt twigged in several directions .
+5
+#1 flash NOUN flash%1:10:01::
+#4 tree NOUN tree%1:20:00::
+#7 crooked ADJ crooked%5:00:00:irregular:00
+#8 bolt NOUN bolt%1:19:00::
+#12 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+He ran out into the downpour , sped across the yard and into the buggy room .
+3
+#1 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#7 speed VERB speed%2:30:02::
+#15 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+he shouted , and was aghast at the echoes .
+2
+#1 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#8 echo NOUN echo%1:07:00::
+He would save her .
+1
+#2 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+If there was a fire or a flood he would save Mama first and Violet next .
+4
+#4 fire NOUN fire%1:11:00::,fire%1:12:00::,fire%1:22:00::,fire%1:27:00::,fire%1:27:01::
+#7 flood NOUN flood%1:19:00::
+#10 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+#11 mama NOUN mama%1:18:00::
+Drenched and shaking , he stood near the sweet-smelling stall and dared to pat her muzzle .
+3
+#2 shake VERB shake%2:29:00::,shake%2:38:00::,shake%2:38:01::,shake%2:38:04::
+#9 stall NOUN stall%1:06:03::
+#15 muzzle NOUN muzzle%1:05:00::
+After the storm , the sky cleared blue and cool , and fragrant air swept the hills .
+7
+#2 storm NOUN storm%1:19:00::
+#6 clear VERB clear%2:31:00::,clear%2:39:05::,clear%2:43:00::
+#7 blue ADJ blue%5:00:00:chromatic:00
+#9 cool ADJ cool%3:00:01::,cool%3:00:02::,cool%5:00:00:composed:00
+#13 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#14 sweep VERB sweep%2:33:00::,sweep%2:38:00::,sweep%2:42:00::,sweep%2:42:03::,sweep%2:42:10::
+#16 hill NOUN hill%1:06:01::,hill%1:17:00::
+When the sun came out , Stevie strode proudly into Orange Square , smiling like a landlord on industrious tenants .
+2
+#2 sun NOUN sun%1:17:00::,sun%1:17:01::
+#7 stride VERB stride%2:38:00::
+The fountain had brimmed over , the cannon were wet , the soldiers ' monument glistened .
+4
+#1 fountain NOUN fountain%1:06:02::
+#7 cannon NOUN cannon%1:06:00::
+#9 wet ADJ wet%3:00:01::,wet%3:00:05::
+#12 soldier NOUN soldier%1:18:00::
+Even before the benches had dried , the Civil War veterans were straggling back to their places .
+3
+#3 bench NOUN bench%1:06:00::
+#5 dry VERB dried%5:00:00:preserved:02,dry%2:30:01::
+#13 back ADV back%4:02:01::,back%4:02:04::
+The great spire shone as if the lightning had polished it .
+3
+#1 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#2 spire NOUN spire%1:06:00::
+#3 shine VERB shine%2:43:00::
+The pointed shadow had nearly touched him .
+4
+#1 pointed ADJ pointed%3:00:00::
+#2 shadow NOUN shadow%1:15:00::
+#4 nearly ADV nearly%4:02:00::
+#5 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+He trailed Ludie to the baseball game in the lot on Kingston Street near the Dutch Reformed .
+1
+#9 lot NOUN lot%1:15:00::
+" Go on home " !
+1
+#3 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+" Someone 'll tell Papa " !
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#4 papa NOUN papa%1:18:00::
+No one told on Ludie , not even when he slipped live grasshoppers into the mite-box .
+2
+#10 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#11 live ADJ live%3:00:01::
+Ludie did as he pleased .
+1
+#4 please VERB please%2:37:01::
+Ludie took his slingshot and climbed to the rooftop to shoot at crows .
+4
+#1 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#5 climb VERB climb%2:30:00::,climb%2:30:01::,climb%2:38:00::,climb%2:38:06::
+#10 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#12 crow NOUN crow%1:05:00::
+Ludie chewed roofer 's tar .
+1
+#4 tar NOUN tar%1:27:00::
+Ludie had a cigar box full of marbles and shooters , and a Roman candle from last Fourth of July .
+5
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#7 marble NOUN marble%1:06:00::
+#9 shooter NOUN shooter%1:06:00::
+#16 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Ludie hopped rides on freight cars , and was chased by Mr. Yankton , the railroad guard .
+5
+#1 hop VERB hop%2:38:04::
+#2 ride NOUN ride%1:04:00::
+#9 chase VERB chase%2:38:00::
+#15 railroad NOUN railroad%1:06:00::
+#16 guard NOUN guard%1:14:00::,guard%1:18:01::,guard%1:18:03::,guard%1:18:04::
+He came home overheated , ran straight to the ice-chest , and gulped shivery cold water .
+6
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#2 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#5 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#6 straight ADV straight%4:02:05::
+#14 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#15 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+He , too , cocked his cap at a jaunty angle , jingled marbles in his pocket , and swaggered down Main Street .
+5
+#2 too ADV too%4:02:01::
+#4 cock VERB cock%2:38:01::
+#6 cap NOUN cap%1:06:04::
+#13 marble NOUN marble%1:06:00::
+#16 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+On the Christophers ' lawn , little girls in white pinafores were playing grownups at a tea party .
+3
+#4 lawn NOUN lawn%1:15:00::
+#9 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#12 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+A Newfoundland sat solemnly beside a doghouse half his size .
+3
+#1 Newfoundland NOUN newfoundland%1:05:00::
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#9 size NOUN size%1:07:00::,size%1:07:02::
+Stevie yearned for a dog .
+1
+#4 dog NOUN dog%1:05:00::
+He wondered whether God had a dog in the sky .
+4
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#3 God NOUN god%1:18:00::
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 dog NOUN dog%1:05:00::
+He meandered down Pike Street , past the First National Bank with its green window shades .
+1
+#13 green ADJ green%5:00:00:chromatic:00
+He crossed the tracks to Delaware House , where ladies in gay dresses and men in straw boaters and waxed mustaches crowded the verandah .
+9
+#1 cross VERB cross%2:38:00::
+#3 track NOUN track%1:06:02::
+#9 lady NOUN lady%1:18:01::,lady%1:18:02::
+#11 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#12 dress NOUN dress%1:06:00::
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 straw NOUN straw%1:27:00::
+#17 boater NOUN boater%1:06:00::
+#21 crowd VERB crowd%2:42:00::
+A tall lady , with a ruffled collar very low on her bosom , turned insolent green eyes upon him .
+7
+#1 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#2 lady NOUN lady%1:18:01::,lady%1:18:02::
+#7 collar NOUN collar%1:07:00::
+#9 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#14 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#16 green ADJ green%5:00:00:chromatic:00
+#17 eye NOUN eye%1:08:00::,eye%1:09:01::
+She was taller than Aggie .
+1
+#2 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+She was so beautiful with her rosy mouth and haughty air that she had to be wicked .
+4
+#2 so ADV so%4:02:03::,so%4:02:07::
+#6 rosy ADJ rosy%5:00:00:healthy:00
+#7 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#10 air NOUN air%1:04:01::,air%1:07:00::
+Fiddles screeched ; a piano tinkled .
+3
+#0 fiddle NOUN fiddle%1:06:00::
+#4 piano NOUN piano%1:06:00::
+#5 tinkle VERB tinkle%2:39:00::
+" P.J. " - as Ludie called the town - was crowded with summer people who came to the mountains to escape the heat in the big cities .
+8
+#6 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#13 summer NOUN summer%1:28:00::
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#16 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#21 escape VERB escape%2:30:04::,escape%2:32:00::,escape%2:32:04::,escape%2:38:00::,escape%2:38:02::
+#23 heat NOUN heat%1:06:00::,heat%1:07:01::,heat%1:09:00::,heat%1:19:00::
+#26 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#27 city NOUN city%1:15:00::,city%1:15:01::
+They stayed at hotels and boardinghouses , or at private homes .
+2
+#3 hotel NOUN hotel%1:06:00::
+#10 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+Rich people went to Delaware House , Opera House , American House or Fowler House .
+1
+#1 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::

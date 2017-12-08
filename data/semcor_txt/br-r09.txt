@@ -1,0 +1,554 @@
+ Dear Sirs : Let me begin by clearing up any possible misconception in your minds , wherever you are .
+3
+#3 let VERB let%2:32:00::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#14 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+The collective by which I address you in the title above is neither patronizing nor jocose but an exact industrial term in use among professional thieves .
+5
+#5 address VERB address%2:32:00::,address%2:32:02::,address%2:41:08::
+#9 title NOUN title%1:10:00::,title%1:10:02::,title%1:10:03::
+#12 neither ADV neither%5:00:00:incomplete:00
+#20 term NOUN term%1:10:00::,term%1:10:01::,terms%1:26:00::
+#24 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+It is , I am reliably given to understand , the technical argot for those who engage in your particular branch of the boost ; i.e. , burglars who rob while the tenants are absent , in contrast to hot slough prowlers , those who work while the occupants are home .
+5
+#11 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#16 engage VERB engage%2:31:00::,engage%2:35:00::,engage%2:41:06::,engage%2:41:12::
+#19 particular ADJ particular%5:00:00:uncommon:00,particular%5:00:02:specific:00
+#34 absent ADJ absent%3:00:00::
+#45 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+Since the latter obviously require an audacity you do not possess , you may perhaps suppose that I am taunting you as socially inferior .
+6
+#2 latter ADJ latter%3:00:00::
+#6 audacity NOUN audacity%1:07:00::
+#9 not ADV not%4:02:00::
+#10 possess VERB possess%2:40:00::,possess%2:42:00::
+#15 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#23 inferior ADJ inferior%5:00:00:bottom:00
+Far from it ; I merely draw an etymological distinction , hoping that specialists and busy people like you will welcome such precision in a layman .
+6
+#0 far ADV far%4:02:02::
+#6 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#9 distinction NOUN distinction%1:09:00::
+#16 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#20 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+#25 layman NOUN layman%1:18:00::
+Above all , disabuse yourselves of any thought that I propose to vent moral indignation at your rifling my residence , to whimper over the loss of a few objets d'art , or to shame you into rectitude .
+5
+#7 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+#10 propose VERB propose%2:31:00::,propose%2:31:01::,propose%2:32:00::,propose%2:41:00::
+#12 vent VERB vent%2:32:00::
+#13 moral ADJ moral%3:00:00::
+#17 rifle VERB rifle%2:35:13::
+My object , rather , is to alert you to an aspect or two of the affair that could have the gravest implications for you , far beyond the legal sanctions society might inflict .
+10
+#1 object NOUN object%1:09:00::,object%1:09:02::,object%1:10:00::
+#3 rather ADV rather%4:02:02::
+#11 aspect NOUN aspect%1:07:02::,aspect%1:07:02::;1:09:00::
+#16 affair NOUN affair%1:26:00::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#22 implication NOUN implication%1:09:00::
+#26 far ADV far%4:02:02::
+#29 legal ADJ legal%3:00:00::,legal%5:00:00:valid:00
+#30 sanction NOUN sanction%1:04:02::
+#31 society NOUN society%1:14:00::,society%1:14:02::
+You have unwittingly set in motion forces so malign , so vindictive , that it would be downright inhumane of me not to warn you about them .
+4
+#6 force NOUN force%1:07:00::,force%1:07:01::,force%1:18:00::,force%1:19:00::
+#7 so ADV so%4:02:03::,so%4:02:07::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#21 not ADV not%4:02:00::
+Quite candidly , fellows , I would n't be in your shoes for all the rice in China .
+2
+#0 quite ADV quite%4:02:02::
+#3 fellow NOUN fellow%1:18:00::
+As you 've doubtless forgotten the circumstances in the press of more recent depredations , permit me to recapitulate them briefly .
+3
+#6 circumstance NOUN circumstance%1:26:01::,circumstance%1:26:02::,circumstances%1:26:02::
+#9 press NOUN press%1:04:00::
+#12 recent ADJ recent%5:00:00:past:00
+Sometime on Saturday evening , August 22nd , while my family and I were dining at the Hostaria dell 'Orso , in Rome , you jimmied a window of our home in Bucks County , Pennsylvania , and let yourselves into the premises .
+5
+#3 evening NOUN evening%1:28:00::,evening%1:28:02::
+#10 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#27 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#30 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#38 let VERB let%2:30:01::,let%2:41:00::
+Hastening to the attic , the temperature of which was easily hotter than the Gold Coast , you proceeded to mask the windows with a fancy wool coverlet , some khaki pants , and the like , and to ransack the innumerable boxes and barrels stored there .
+9
+#10 easily ADV easily%4:02:05::
+#11 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+#22 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#25 fancy ADJ fancy%3:00:00::
+#26 wool NOUN wool%1:27:00::
+#31 pants NOUN panting%1:06:00::
+#42 box NOUN box%1:06:00::,box%1:06:03::,box%1:23:00::,box%1:23:00::;1:06:00::
+#44 barrel NOUN barrel%1:06:00::
+#46 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+What you were looking for ( unless you make a hobby of collecting old tennis rackets and fly screens ) eludes me , but to judge from phonograph records scattered about a fumed oak Victrola , you danced two tangos and a paso doble , which must have been fairly enervating in that milieu .
+8
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 hobby NOUN hobby%1:04:00::
+#12 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#13 old ADJ old%3:00:01::,old%3:00:02::
+#17 fly NOUN fly%1:04:00::
+#37 dance VERB dance%2:36:00::,dance%2:38:01::
+#39 tango NOUN tango%1:04:00::
+#49 fairly ADV fairly%4:02:02::
+You then descended one story , glommed a television set from the music room - the only constructive feature of your visit , by the way - and , returning to the ground floor , entered the master bedroom .
+9
+#1 then ADV then%4:02:00::
+#2 descend VERB descend%2:38:00::
+#4 story NOUN story%1:06:00::
+#12 music NOUN music%1:04:00::,music%1:09:00::,music%1:09:01::,music%1:10:00::
+#13 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#17 constructive ADJ constructive%3:00:00::
+#18 feature NOUN feature%1:08:00::,feature%1:09:01::
+#29 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#35 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+From the curio cabinet on its south wall and the bureaus beneath , you abstracted seventeen ivory , metal , wood , and stone sculptures of Oriental and African origin , two snuffboxes , and a jade handled magnifying glass .
+12
+#3 cabinet NOUN cabinet%1:06:00::
+#6 south ADJ south%3:00:00::
+#10 bureau NOUN bureau%1:06:00::
+#11 beneath ADV beneath%4:02:00::
+#14 abstract VERB abstract%2:32:00::
+#16 ivory NOUN ivory%1:27:00::
+#18 metal NOUN metal%1:27:00::
+#20 wood NOUN wood%1:06:02::
+#23 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#26 oriental ADJ oriental%5:00:00:eastern:01
+#29 origin NOUN origin%1:15:00::
+#36 jade NOUN jade%1:27:00::
+Rummaging through a stack of drawers nearby , you unearthed an antique French chess set in ivory and sandalwood , which , along with two box Kodaks , you added to your haul .
+6
+#3 stack NOUN stack%1:14:00::
+#5 drawer NOUN drawer%1:06:00::
+#11 antique ADJ antique%5:00:00:old:01
+#16 ivory NOUN ivory%1:27:00::
+#29 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+#32 haul NOUN haul%1:23:00::
+Then , having wrapped the lot in an afghan my dog customarily slept on , you lammed out the front door , considerately leaving it open for neighbors to discover .
+9
+#0 then ADV then%4:02:00::
+#3 wrap VERB wrap%2:35:00::
+#5 lot NOUN lot%1:14:00::,lot%1:14:01::
+#8 Afghan NOUN afghan%1:06:00::
+#10 dog NOUN dog%1:05:00::
+#12 sleep VERB sleep%2:29:00::
+#16 lam VERB lam%2:38:00::
+#25 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#29 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+So much for the tiresome facts , as familiar to you , I'm sure , as to the constables and state troopers who followed in your wake .
+5
+#8 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#18 constable NOUN constable%1:18:00::
+#20 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+#21 trooper NOUN trooper%1:18:02::
+#26 wake NOUN wake%1:11:00::
+The foregoing , aided by several clues I 'll withhold to keep you on your toes , will pursue you with a tenacity worthy of Inspector Javert , but before they close in , gird yourselves , I repeat , for a vengeance infinitely more pitiless .
+4
+#6 clue NOUN clue%1:10:01::
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#18 pursue VERB pursue%2:38:00::
+#38 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+Fourteen of the sculptures you took posses properties of a most curious and terrifying nature , as you will observe when your limbs begin to wither and your hair falls out in patches .
+9
+#5 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#7 property NOUN property%1:07:00::,property%1:09:00::
+#10 most ADV most%4:02:01::
+#14 nature NOUN nature%1:07:01::,nature%1:07:02::,nature%1:09:00::
+#19 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+#22 limb NOUN limb%1:06:00::
+#23 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#25 wither VERB wither%2:30:00::
+#32 patch NOUN patch%1:06:00::
+In time , these minor manifestations will multiply and effloresce , riddling you with frambesia , the king's evil , sheep rot , and clonic spasm , until your very existence becomes a burden and you cry out for release .
+5
+#4 minor ADJ minor%3:00:07::
+#11 riddle VERB riddle%2:35:00::
+#31 become VERB become%2:30:00::,become%2:42:01::
+#33 burden NOUN burden%1:06:01::
+#39 release NOUN release%1:22:00::
+All this , though , is simply a prelude , a curtain-raiser , for what ensues , and I doubt whether any Occidental could accurately forecast it .
+3
+#6 simply ADV simply%4:02:00::,simply%4:02:02::
+#8 prelude NOUN prelude%1:11:00::
+#19 doubt VERB doubt%2:31:00::,doubt%2:31:01::
+If , however , it would help to intensify your anguish , I can delimit the powers of a few of the divinities you 've affronted and describe the punishment they meted out in one analogous instance .
+7
+#2 however ADV however%4:02:04::
+#6 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#8 intensify VERB intensify%2:30:00::
+#16 power NOUN power%1:18:00::
+#22 divinity NOUN divinity%1:07:00::
+#27 describe VERB describe%2:32:01::
+#36 instance NOUN instance%1:09:00::
+First of all , the six figures of the Buddha you heisted - four Siamese heads , a black obsidian statuette in the earth touching position , and a large brass figure of the Dying Buddha on a teakwood base .
+9
+#6 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#14 Siamese NOUN siamese%1:18:00::
+#15 head NOUN head%1:06:00::,head%1:06:03::,head%1:08:00::,head%1:15:00::,head%1:17:01::,head%1:20:00::
+#18 black ADJ black%3:00:01::,black%5:00:00:dark:01,black%5:00:00:dirty:01,black%5:00:00:undiluted:00
+#23 earth NOUN earth%1:17:01::,earth%1:27:00::,earth%1:27:01::
+#24 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#29 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#31 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#39 base NOUN base%1:06:00::,base%1:06:01::,base%1:15:00::,base%1:17:00::,base%1:25:00::
+Now , you probably share the widespread Western belief that the Lord Buddha is the most compassionate of the gods , much more so than Jehovah and Allah and the rest .
+6
+#0 now ADV now%4:02:07::
+#7 western ADJ western%3:00:01::
+#8 belief NOUN belief%1:09:00::,belief%1:09:01::
+#15 most ADV most%4:02:00::
+#23 so ADV so%4:02:03::,so%4:02:07::
+#30 rest NOUN rest%1:24:00::
+Well , ordinarily he is , except ( as the Wheel of the Law specifies ) toward impious folk who steal , disturb , or maltreat the Presence .
+3
+#2 ordinarily ADV ordinarily%4:02:00::
+#18 folk NOUN folk%1:14:00::
+#20 steal VERB steal%2:33:00::,steal%2:40:00::
+Very peculiar retribution indeed seems to overtake such jokers .
+3
+#1 peculiar ADJ peculiar%5:00:00:strange:00
+#6 overtake VERB overtake%2:38:00::
+#8 joker NOUN joker%1:18:00::
+Eight or ten years ago , a couple of French hoods stole a priceless Khmer head from the Musee Guimet , in Paris , and a week later crawled into the Salpetriere with unmistakable symptoms of leprosy .
+9
+#3 year NOUN year%1:28:00::,year%1:28:01::
+#9 French ADJ french%3:01:00::
+#10 hood NOUN hood%1:18:00::
+#11 steal VERB steal%2:33:00::,steal%2:40:00::
+#14 Khmer NOUN khmer%1:10:00::
+#15 head NOUN head%1:06:00::,head%1:06:03::,head%1:08:00::,head%1:15:00::,head%1:17:01::,head%1:20:00::
+#22 Paris NOUN paris%1:15:00::
+#27 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#28 crawl VERB crawl%2:38:00::,crawl%2:38:01::,crawl%2:38:03::
+Hell 's own amount of chaulmoogra oil did nothing to alleviate their torment ; they expired amid indescribable fantods , imploring the Blessed One to forgive their desecration .
+2
+#2 own ADJ own%5:00:00:personal:00
+#15 expire VERB expire%2:30:00::
+Any reputable French interne can supply you with a dozen similar instances , and I 'll presently recount a case out of my own personal experience , but , for the moment , let 's resume our catalogue .
+9
+#2 French ADJ french%3:01:00::
+#9 dozen NOUN dozen%1:23:00::
+#11 instance NOUN instance%1:09:00::
+#16 presently ADV presently%4:02:00::
+#17 recount VERB recount%2:32:00::
+#19 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#23 own ADJ own%5:00:00:personal:00
+#24 personal ADJ personal%5:00:00:subjective:00
+#33 let VERB let%2:32:00::
+Whether the pair of Sudanese ivory carvings you lifted really possess the juju to turn your livers to lead , as a dealer in Khartoum assured me , I am not competent to say .
+9
+#5 ivory NOUN ivory%1:27:00::
+#9 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#10 possess VERB possess%2:40:00::,possess%2:42:00::
+#12 juju NOUN juju%1:06:00::
+#14 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#16 liver NOUN liver%1:13:00::
+#22 dealer NOUN dealer%1:18:02::
+#25 assure VERB assure%2:32:01::,assure%2:32:02::
+#33 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Likewise the ivory Chinese female figure known as a " doctor lady " ( provenance Honan ) ; a friend of mine removing her from the curio cabinet for inspection was felled as if by a hammer , but he had previously drunk a quantity of applejack .
+12
+#0 likewise ADV likewise%4:02:01::
+#2 ivory NOUN ivory%1:27:00::
+#5 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#10 doctor NOUN doctor%1:18:00::
+#11 lady NOUN lady%1:18:01::,lady%1:18:02::
+#19 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#22 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#27 cabinet NOUN cabinet%1:06:00::
+#31 fell VERB fell%2:35:00::
+#36 hammer NOUN hammer%1:06:00::
+#42 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+#44 quantity NOUN quantity%1:03:00::,quantity%1:07:00::
+The three Indian brass deities , though - Ganessa , Siva , and Krishna - are an altogether different cup of tea .
+2
+#2 Indian ADJ indian%3:01:00::
+#18 different ADJ different%5:00:00:unusual:00
+They hail from Travancore , a state in the subcontinent where Kali , the goddess of death , is worshiped .
+2
+#1 hail VERB hail%1:19:00::
+#6 state NOUN state%1:14:01::,state%1:14:02::,state%1:15:01::
+Have you ever heard of thuggee ?
+1
+#2 ever ADV ever%4:02:05::
+But it is the wooden sculpture from Bali , the one representing two men with their heads bent backward and their bodies interlaced by a fish , that I particularly call to your attention .
+9
+#4 wooden ADJ wooden%5:00:00:woody:00
+#13 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#17 bend VERB bend%2:35:08::,bend%2:38:02::
+#18 backward ADV backward%4:02:03::
+#21 body NOUN body%1:08:00::,body%1:08:02::
+#25 fish NOUN fish%1:13:00::
+#29 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+#33 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+Oddly enough , this is an amulet against housebreakers , presented to the mem and me by a local rajah in 1949 .
+1
+#10 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+Inscribed around its base is a charm in Balinese , a dialect I take it you do n't comprehend .
+6
+#0 inscribe VERB inscribe%2:32:03::
+#3 base NOUN base%1:06:00::,base%1:06:01::,base%1:15:00::,base%1:17:00::,base%1:25:00::
+#6 charm NOUN charm%1:10:00::
+#8 Balinese NOUN balinese%1:10:00::
+#13 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#18 comprehend VERB comprehend%2:31:00::
+Neither do I , but the Tjokorda Agoeng was good enough to translate , and I 'll do as much for you .
+2
+#9 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#12 translate VERB translate%2:30:01::,translate%2:32:00::,translate%2:42:00::
+Whosoever violates our rooftree , the legend states , can expect maximal sorrow .
+2
+#6 legend NOUN legend%1:10:01::
+#7 state VERB state%2:32:01::,state%2:32:02::
+The teeth will rain from his mouth like pebbles , his wife will make him cocu with fishmongers , and a trolley car will grow in his stomach .
+4
+#1 tooth NOUN tooth%1:04:00::,tooth%1:05:02::,tooth%1:06:01::
+#6 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#24 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+#27 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+Furthermore - and this , to me , strikes an especially warming note - it shall avail the vandals naught to throw away or dispose of their loot .
+7
+#8 strike VERB strike%2:35:02::,strike%2:37:00::,strike%2:39:00::
+#10 especially ADV especially%4:02:00::
+#11 warm ADJ warm%3:00:02::,warm%5:00:00:excitable:00,warm%5:00:00:lively:00,warm%5:00:00:loving:00
+#12 note NOUN note%1:07:00::,note%1:10:02::
+#16 avail VERB avail%2:41:00::
+#18 vandal NOUN vandal%1:18:00::
+#24 dispose VERB dispose%2:40:11::
+The cycle of disaster starts the moment they touch any belonging of ours , and dogs them unto the forty-fifth generation .
+6
+#1 cycle NOUN cycle%1:28:00::
+#4 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#6 moment NOUN moment%1:28:00::,moment%1:28:01::
+#8 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#15 dog VERB dog%2:38:00::
+#20 generation NOUN generation%1:14:00::,generation%1:28:00::,generation%1:28:01::
+Still , there it is .
+1
+#0 still ADV still%4:02:04::
+Now , you no doubt regard the preceding as pap ; you 're tooling around full of gage in your hot rods , gorging yourselves on pizza and playing pinball in the taverns and generally behaving like Ubermenschen .
+6
+#0 now ADV now%4:02:07::
+#9 pap NOUN pap%1:08:00::
+#15 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#28 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#34 generally ADV generally%4:02:02::
+#35 behave VERB behave%2:41:00::,behave%2:41:01::
+In that case , listen to what befell another wisenheimer who tangled with our joss .
+1
+#2 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+A couple of years back , I occupied a Village apartment whose outer staircase contained the type of niche called a " coffin turn " .
+4
+#4 back ADV back%4:02:01::,back%4:02:04::
+#7 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#14 contain VERB contain%2:42:00::,contain%2:42:06::
+#16 type NOUN type%1:18:00::
+In it was a stone Tibetan Buddha I had picked up in Bombay , and occasionally , to make merit , my wife and I garlanded it with flowers or laid a few pennies in its lap .
+7
+#4 stone NOUN stone%1:07:00::,stone%1:17:00::,stone%1:27:00::
+#5 Tibetan NOUN tibetan%1:18:00::
+#18 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#28 flower NOUN flower%1:20:00::,flower%1:28:00::
+#30 lay VERB lay%2:35:01::
+#33 penny NOUN penny%1:23:00::
+#36 lap NOUN lap%1:26:00::
+After a while , we became aware that the money was disappearing as fast as we replenished it .
+3
+#2 while NOUN while%1:28:00::
+#5 become VERB become%2:30:00::,become%2:42:01::
+#11 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+Our suspicions eventually centered , by the process of elimination , on a grocer 's boy , a thoroughly bad hat , who delivered cartons to the people overhead .
+6
+#1 suspicion NOUN suspicion%1:09:01::
+#7 process NOUN process%1:03:00::,process%1:04:00::,process%1:22:00::
+#15 boy NOUN boy%1:18:03::
+#18 thoroughly ADV thoroughly%4:02:01::
+#23 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+#27 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+The more I probed into this young man 's activities and character , the less savory I found him .
+4
+#9 activity NOUN activity%1:04:00::,activity%1:26:00::
+#11 character NOUN character%1:07:01::,character%1:09:00::,character%1:26:00::
+#15 savory ADJ savory%3:00:00::
+#17 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+I learned , for example , that he made a practice of yapping at dogs he encountered and , in winter , of sprinkling salt on the icy pavement to scarify their feet .
+8
+#1 learn VERB learn%2:31:01::,learn%2:31:03::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#10 practice NOUN practice%1:04:00::,practice%1:04:03::,practice%1:04:04::,practice%1:09:00::;1:04:00::
+#14 dog NOUN dog%1:05:00::
+#23 sprinkle VERB sprinkle%2:35:00::
+#24 salt NOUN salt%1:27:00::
+#30 scarify VERB scarify%2:35:00::
+#32 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+His energy was prodigious ; sometimes he would be up before dawn , clad as a garbage collector and hurling pails into areaways to exasperate us , and thereafter would hurry to the Bronx Zoo to grimace at the lions and press cigar butts against their paws .
+6
+#1 energy NOUN energy%1:07:02::,energy%1:19:01::
+#3 prodigious ADJ prodigious%5:00:00:large:00
+#9 up ADV up%4:02:00::,up%4:02:02::
+#13 clad ADJ clad%3:00:00::
+#39 lion NOUN lion%1:05:00::
+#41 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+Evenings , he was frequently to be seen at restaurants like Enrico + Paglieri's or Peter's Backyard drunkenly donning ladies ' hats and singing " O Sole Mio " .
+4
+#0 evening NOUN evening%1:28:00::,evening%1:28:02::
+#7 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 lady NOUN lady%1:18:01::,lady%1:18:02::
+#23 sing VERB sing%2:32:08::,sing%2:36:01::
+Well , the odious little toad went along chivying animals and humans who could n't retaliate , and in due course , as was inevitable , overreached himself .
+2
+#5 toad NOUN toad%1:05:00::
+#26 overreach VERB overreach%2:41:00::
+One morning , we discovered not only that the pennies were missing from the idol but that a cigarette had been stubbed out in its lap .
+4
+#1 morning NOUN morning%1:28:00::,morning%1:28:01::
+#4 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#9 penny NOUN penny%1:23:00::
+#25 lap NOUN lap%1:26:00::
+" Now he 's bought it " , said my wife contentedly .
+2
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" No divinity will hold still for that .
+1
+#2 divinity NOUN divinity%1:07:00::
+He 's really asking for it " .
+1
+#2 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+And how right she was .
+1
+#2 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+The next time we saw him , he was a changed person ; he had aged thirty years , and his face , the color of tallow , was crisscrossed with wrinkles , as though it had been wrapped in chicken wire .
+8
+#2 time NOUN time%1:11:00::
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 person NOUN person%1:03:00::,person%1:08:00::
+#21 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#24 color NOUN color%1:07:00::,color%1:27:00::
+#31 wrinkle NOUN wrinkle%1:25:00::
+#38 wrap VERB wrap%2:35:00::
+#40 chicken NOUN chicken%1:13:00::
+Some sort of nemesis was haunting his footsteps , he told us in a quavering voice - either an ape specter or Abe Spector , a process server , we could n't determine which .
+3
+#10 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#15 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#32 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+His eyes had the same dreadful rigid stare as Dr. Grimesby Roylott 's when he was found before his open safe wearing the speckled band .
+7
+#1 eye NOUN eye%1:08:00::,eye%1:09:01::
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 same ADJ same%3:00:00::,same%3:00:02::
+#16 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#19 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#20 safe NOUN safe%1:06:00::
+#21 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+The grocery the youth worked for soon tired of his depressing effect on customers , most of whom were sufficiently neurotic without the threat of incubi , and let him go .
+6
+#3 youth NOUN youth%1:18:00::
+#4 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#6 soon ADV soon%4:02:00::
+#11 effect NOUN effect%1:09:00::,effect%1:19:00::
+#13 customer NOUN customer%1:18:00::
+#23 threat NOUN threat%1:10:00::,threat%1:26:00::
+The beautiful , the satisfying part of his disintegration , however , was the masterly way the Buddha polished him off .
+3
+#5 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#10 however ADV however%4:02:04::
+#15 way NOUN way%1:04:00::,way%1:09:00::
+Reduced to beggary , he at last got a job as office boy to a television producer .
+4
+#7 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#9 job NOUN job%1:04:00::,job%1:06:00::
+#15 television NOUN television%1:06:00::
+#16 producer NOUN producer%1:18:02::
+His hubris , deficiency of taste , and sadism carried him straightaway to the top .
+3
+#5 taste NOUN taste%1:09:01::,taste%1:12:02::
+#9 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#14 top NOUN top%1:07:02::,top%1:26:00::
+He evolved programs that plumbed new depths of bathos and besmirched whole networks , and quickly superseded his boss .
+7
+#1 evolve VERB evolve%2:30:00::
+#4 plumb VERB plumb%2:31:00::
+#5 new ADJ new%3:00:00::,new%5:00:00:original:00
+#6 depth NOUN depth%1:07:01::,depth%1:07:02::
+#11 whole ADJ whole%3:00:00::
+#12 network NOUN network%1:06:01::,network%1:06:02::,network%1:14:00::
+#18 boss NOUN boss%1:18:01::
+Not long ago , I rode down with him in an elevator in Radio City ; he was talking to himself thirteen to the dozen and smoking two cigars at once , clearly a man in extremis .
+6
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#6 down ADV down%4:02:00::,down%4:02:02::
+#11 elevator NOUN elevator%1:06:00::
+#24 dozen NOUN dozen%1:23:00::
+#26 smoke VERB smoke%2:34:00::
+#34 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+" See that guy " ? the operator asked pityingly .
+4
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 guy NOUN guy%1:18:00::
+#7 operator NOUN operator%1:18:00::
+#8 ask VERB ask%2:32:00::,ask%2:32:04::
+However one looks at it , therefore , I 'd say that your horoscope for this autumn is the reverse of rosy .
+4
+#0 however ADV however%4:02:00::,however%4:02:02::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 reverse NOUN reverse%1:04:01::
+#21 rosy ADJ rosy%5:00:00:auspicious:00
+The inventory you acquired from me is n't going to be easy to move ; you can't very well sidle up to people on the street and ask if they want to buy a hot Bodhisattva .
+6
+#11 easy ADJ easy%5:00:00:impressionable:00,easy%5:00:00:pleasing:00,easy%5:00:00:unchaste:00
+#22 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#27 ask VERB ask%2:32:00::,ask%2:32:04::
+#30 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#32 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#34 hot ADJ hot%5:00:00:active:01,hot%5:00:00:fast:01,hot%5:00:00:fresh:01,hot%5:00:00:illegal:00,hot%5:00:00:near:00,hot%5:00:00:new:00,hot%5:00:00:popular:00,hot%5:00:00:unpleasant:00,hot%5:00:00:wanted:00
+Additionally , since you 're going to be hors de combat pretty soon with sprue , yaws , Delhi boil , the Granville wilt , liver fluke , bilharziasis , and a host of other complications of the hex you 've aroused , you must n't expect to be lionized socially .
+5
+#12 soon ADV soon%4:02:00::
+#14 sprue NOUN sprue%1:26:00::
+#32 host NOUN host%1:13:00::,host%1:14:00::,host%1:14:02::
+#38 hex NOUN hex%1:10:00::
+#41 arouse VERB arouse%2:37:00::
+My advice , if you live long enough to continue your vocation , is that the next time you 're attracted by the exotic , pass it up - it 's nothing but a headache .
+4
+#5 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#6 long NOUN longing%1:12:00::
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#17 time NOUN time%1:11:00::
+As you can count on me to do the same .
+1
+#9 same PRON same%3:00:02::
+The doors of the D train slid shut , and as I dropped into a seat and , exhaling , looked up across the aisle , the whole aviary in my head burst into song .
+6
+#5 train NOUN train%1:06:00::
+#12 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+#15 seat NOUN seat%1:06:00::,seat%1:06:01::,seat%1:06:03::,seat%1:07:00::,seat%1:15:00::,seat%1:15:01::
+#20 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#27 whole ADJ whole%3:00:00::
+#31 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+She was a living doll and no mistake - the blue-black bang , the wide cheekbones , olive flushed , that betrayed the Cherokee strain in her Midwestern lineage , and the mouth whose only fault , in the novelist 's carping phrase , was that the lower lip was a trifle too voluptuous .
+9
+#11 bang NOUN bang%1:08:00::
+#14 wide ADJ wide%3:00:00::,wide%3:00:02::,wide%5:00:00:open:08
+#17 olive ADJ olive%5:00:00:chromatic:00
+#21 betray VERB betray%2:32:01::
+#28 lineage NOUN lineage%1:14:00::
+#32 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+#35 fault NOUN fault%1:04:00::
+#48 lip NOUN lip%1:08:00::,lip%1:20:00::
+#52 too ADV too%4:02:00::
+From what I was able to gauge in a swift , greedy glance , the figure inside the coral colored boucle dress was stupefying .
+7
+#4 able ADJ able%3:00:00::
+#6 gauge VERB gauge%2:32:00::
+#12 glance NOUN glance%1:04:00::
+#15 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#18 coral NOUN coral%1:27:00::
+#19 colored ADJ colored%5:00:00:black:02
+#21 dress NOUN dress%1:06:00::

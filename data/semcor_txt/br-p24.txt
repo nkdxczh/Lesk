@@ -1,0 +1,830 @@
+ There was a crowd in the stands for a change and the sun was hot .
+4
+#6 stand NOUN stand%1:15:00::
+#9 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#12 sun NOUN sun%1:18:00::,sun%1:19:00::
+#14 hot ADJ hot%3:00:01::,hot%5:00:00:charged:00,hot%5:00:00:radioactive:00
+The new Riverside pitcher turned out to have an overhand fast ball that took a hop .
+4
+#1 new ADJ new%3:00:00::
+#3 pitcher NOUN pitcher%1:18:00::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 hop NOUN hop%1:04:00::
+For a few innings the Anniston team could n't figure him out .
+1
+#3 inning NOUN inning%1:28:00::
+Then , in the fifth , Anniston 's kid catcher caught onto a curve and smacked the ball into left center field .
+4
+#0 then ADV then%4:02:01::
+#8 kid NOUN kid%1:18:00::
+#15 smack VERB smack%2:35:02::
+#17 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+Eddie Lee , Riverside 's redheaded playing manager , ran after the ball but it rolled past him .
+3
+#9 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#12 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#15 roll VERB roll%2:30:07::,roll%2:35:00::,roll%2:38:00::,roll%2:38:11::,roll%2:38:12::
+Phil Rossoff cut over to center from left field to get the relay .
+2
+#2 cut VERB cut%2:38:08::,cut%2:38:12::,cut%2:38:13::
+#5 center NOUN center%1:06:02::,center%1:13:00::,center%1:14:00::,center%1:15:00::,center%1:15:02::,center%1:18:00::
+Eddie caught up with the ball near the fence and threw it to Phil .
+3
+#5 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#8 fence NOUN fence%1:06:00::
+#10 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+Eddie shouted .
+1
+#1 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+Phil spun around and made an accurate throw into Mike Deegan 's hands on third base .
+4
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#6 accurate ADJ accurate%5:00:00:correct:00
+#7 throw NOUN throw%1:04:00::
+#12 hand NOUN hand%1:08:00::,hand%1:10:01::
+Mike caught the ball just as the catcher slid into the bag .
+3
+#3 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#4 just ADV just%4:02:05::
+#11 bag NOUN bag%1:06:00::
+But the Anniston boy had begun his slide too late .
+5
+#3 boy NOUN boy%1:18:03::
+#5 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#7 slide NOUN slide%1:06:03::
+#8 too ADV too%4:02:00::
+#9 late ADV late%4:02:00::
+He came into the bag with his body and Mike Deegan brought the ball down full in his face .
+7
+#1 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#4 bag NOUN bag%1:06:00::
+#7 body NOUN body%1:08:00::,body%1:08:02::
+#13 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#14 down ADV down%4:02:00::,down%4:02:02::
+#15 full ADV fuller%1:18:00::
+#18 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+" You bastard " ! the Anniston catcher screamed .
+1
+#2 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+He jumped to his feet and started to throw punches .
+2
+#6 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#9 punch NOUN punch%1:04:00::
+Mike Deegan tossed his glove away and began to swing at the catcher .
+2
+#7 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#9 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+This brought in everybody from both sides , while the spectators stood up and added to the uproar .
+1
+#6 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+The fighters were separated in a few minutes .
+3
+#1 fighter NOUN fighter%1:18:00::
+#3 separate VERB separate%2:35:00::,separate%2:35:01::,separate%2:38:00::,separate%2:41:01::,separate%2:41:02::,separated%5:00:00:distributed:00
+#7 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+The game was resumed .
+1
+#1 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+But Mike Deegan was boiling mad now .
+1
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+When the inning was over he cursed the Anniston catcher all the way into the dugout .
+2
+#6 curse VERB curse%2:32:00::,curse%2:32:02::
+#15 dugout NOUN dugout%1:06:00::
+Phil Rossoff , coming in from left field , stopped at the water fountain for a drink .
+1
+#9 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Mike Deegan was standing beside it , facing the field .
+3
+#3 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#7 face VERB face%2:38:00::,face%2:42:00::
+#9 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+He was eyeing the Anniston catcher warming up his pitcher before the inning began .
+2
+#9 pitcher NOUN pitcher%1:18:00::
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+" Keep your eyes open , sonny " !
+3
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#3 eye NOUN eye%1:08:00::,eye%1:09:01::
+#4 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+" You 're in for trouble " .
+1
+#5 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+The Anniston catcher did not reply with words .
+1
+#7 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+He simply turned to Mike and smiled .
+1
+#1 simply ADV simply%4:02:00::,simply%4:02:02::
+This so infuriated Deegan that he spun around and said : " I 'll get that little bastard .
+4
+#1 so ADV so%4:02:03::,so%4:02:07::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+#17 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+So help me God , I 'll get him " .
+1
+#7 get VERB get%2:31:10::,get%2:33:00::,get%2:35:03::,get%2:35:09::,get%2:37:11::,get%2:39:09::,get%2:39:14::
+Phil Rossoff said : " Why do n't you leave him alone " ?
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+" Mind your own goddamn business " , Mike Deegan said .
+3
+#3 own ADJ own%5:00:00:personal:00
+#5 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He stepped into the dugout , wondering why Deegan was always looking for trouble .
+5
+#1 step VERB step%2:30:01::,step%2:38:01::,step%2:38:03::,step%2:38:04::
+#4 dugout NOUN dugout%1:06:00::
+#6 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#10 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#13 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Maybe the answer was in his eyes .
+1
+#6 eye NOUN eye%1:08:00::,eye%1:09:01::
+When Deegan smiled his eyes never fit in with his lips .
+3
+#4 eye NOUN eye%1:08:00::,eye%1:09:01::
+#5 never ADV never%4:02:01::
+#10 lip NOUN lip%1:08:00::,lip%1:20:00::
+In the last of the sixth inning Mike Deegan got up to bat and hit a fast ball over the left fielder 's head .
+4
+#2 last NOUN last%1:24:00::
+#12 bat VERB bat%2:35:01::
+#14 hit VERB hit%2:33:02::,hit%2:35:00::,hit%2:35:03::
+#23 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+By the time the fielder got his hands on the ball Deegan was rounding third base and heading for home .
+7
+#2 time NOUN time%1:11:00::
+#5 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#7 hand NOUN hand%1:08:00::,hand%1:10:01::
+#10 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#13 round VERB round%2:30:01::
+#17 head VERB head%2:38:00::,head%2:38:01::
+#19 home NOUN home%1:06:02::,home%1:26:00::
+The left fielder threw and it was a good one .
+2
+#3 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#8 good ADJ good%3:00:01::,good%5:00:00:nice:00
+But Mike had no chance of being tagged .
+2
+#4 chance NOUN chance%1:07:00::,chance%1:26:00::
+#7 tag VERB tag%2:35:01::
+Both fell heavily to the ground .
+3
+#1 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#2 heavily ADV heavily%4:02:02::,heavily%4:02:03::,heavily%4:02:05::,heavily%4:02:06::
+#5 ground NOUN ground%1:17:00::,ground%1:27:00::,grounds%1:15:00::
+Only Mike got to his feet .
+2
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+He went back to touch home plate , turned and walked to the dugout without looking back .
+4
+#4 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#8 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#10 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#13 dugout NOUN dugout%1:06:00::
+The Anniston players and their manager ran out on the field .
+3
+#2 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#6 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#10 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+They poured water over their catcher 's face .
+2
+#2 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He did not move .
+1
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+Then the manager called for a doctor .
+2
+#0 then ADV then%4:02:00::
+#6 doctor NOUN doctor%1:18:00::
+The Riverside physician came down to look over the injured ballplayer .
+3
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#6 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#9 injured ADJ injured%3:00:00::
+Then , quickly , and a little nervously , the doctor ordered a couple of ballplayers to carry the catcher into the dressing room .
+4
+#0 then ADV then%4:02:00::
+#10 doctor NOUN doctor%1:18:00::
+#11 order VERB order%2:32:01::,order%2:32:02::
+#17 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Mike Deegan was sitting on the bench , watching .
+3
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#6 bench NOUN bench%1:06:02::
+#8 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+When the ballplayers started to carry the catcher off the field he said : " That ought to teach the sonofabitch " .
+4
+#3 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#5 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#10 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#12 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Phil Rossoff , seated next to Deegan , got up and moved to the other end of the bench .
+3
+#11 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#14 other ADJ other%3:00:00::
+#15 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+The Anniston manager was coming over to the Riverside dugout .
+2
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 dugout NOUN dugout%1:06:00::
+He was followed by four of his men .
+2
+#2 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+It began to look as if something was going to happen .
+3
+#1 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#3 look VERB look%2:39:01::,look%2:42:02::
+#10 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Mike sat quietly watching the manager come nearer .
+3
+#1 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Eddie Lee moved over to Mike Deegan 's side .
+2
+#2 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#8 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+No one said a word .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#4 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+The Anniston manager came right up to the dugout in front of Mike .
+3
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#4 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#8 dugout NOUN dugout%1:06:00::
+His face was flushed .
+2
+#1 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#3 flushed ADJ flushed%5:00:00:colored:00
+" Deegan " , the manager said , his voice pitched low , quivering .
+2
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+" That was a rotten thing to do " .
+1
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+" For God 's sake " , Mike said , waving the manager away .
+4
+#4 sake NOUN sake%1:09:00::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#10 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#13 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+" Stop it , will you ?
+1
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+Tell your guys not to block the plate " .
+3
+#2 guy NOUN guy%1:18:00::
+#5 block VERB block%2:33:00::
+#7 plate NOUN plate%1:06:02::,plate%1:06:04::,plate%1:06:05::,plate%1:08:00::,plate%1:17:00::
+" That 's what you say " .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+The Anniston manager looked at Eddie Lee .
+1
+#3 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+It was a cold and calculated look .
+2
+#3 cold ADJ cold%3:00:02::,cold%5:00:00:cool:03,cold%5:00:00:inhumane:00,cold%5:00:00:unenthusiastic:00,cold%5:00:00:unloving:00
+#6 look NOUN look%1:04:00::,look%1:07:01::
+He turned and went back across the field to his dugout .
+3
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#7 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#10 dugout NOUN dugout%1:06:00::
+He called in the pitcher who had been pitching , and a big , heavy , powerfully built right hander moved out to the mound for Anniston .
+6
+#4 pitcher NOUN pitcher%1:18:00::
+#8 pitch VERB pitch%2:35:13::
+#14 heavy ADJ heavy%3:00:01::,heavy%3:00:02::,heavy%3:00:03::,heavy%3:00:07::,heavy%5:00:00:full:00
+#18 right ADJ right%3:00:00::
+#20 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#24 mound NOUN mound%1:06:00::
+The game started again and in the eighth inning Mike Deegan came up to bat .
+4
+#1 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+#2 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#11 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#14 bat VERB bat%2:35:01::
+Everyone in the ball park seemed to be standing and shouting .
+2
+#8 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#10 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+The first ball the hefty pitcher threw came in for Mike 's head .
+6
+#1 first ADJ first%3:00:00::,first%4:02:00::
+#2 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#5 pitcher NOUN pitcher%1:18:00::
+#6 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#12 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Deegan fell into the dirt , the ball going over him .
+3
+#1 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#7 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+He arose slowly and brushed himself off .
+2
+#1 arise VERB arise%2:38:00::
+#4 brush VERB brush%2:30:00::,brush%2:35:01::,brush%2:35:02::,brush%2:35:10::
+He got back into the batter's box and on the next pitch dropped into the dirt again .
+3
+#10 next ADJ next%5:00:00:close:01
+#11 pitch NOUN pitch%1:04:03::
+#12 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+" Hit the bum " ! somebody yelled from the Anniston bench .
+2
+#1 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+#3 bum NOUN bum%1:18:01::
+In the Riverside dugout Frankie Ricco , shortstop , whispered into Phil 's ear : " There 's gonna be a fight " .
+2
+#3 dugout NOUN dugout%1:06:00::
+#13 ear NOUN ear%1:08:00::,ear%1:09:00::,ear%1:09:01::
+" Look at those bastards " !
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 bastard NOUN bastard%1:06:00::,bastard%1:18:00::
+Charlie Haydon , a pitcher , said .
+2
+#4 pitcher NOUN pitcher%1:18:00::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" They 're looking for trouble " .
+1
+#5 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+Mike was slow getting into the box this time .
+3
+#2 slow ADJ slow%3:00:01::
+#3 get VERB get%2:35:03::,get%2:38:15::,get%2:40:14::
+#8 time NOUN time%1:11:00::
+When he finally did he had to duck his head quickly away as the pitch came in .
+4
+#7 duck VERB duck%2:38:00::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#11 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#14 pitch NOUN pitch%1:04:03::
+" Listen " ! he shouted to the pitcher .
+2
+#5 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+#8 pitcher NOUN pitcher%1:18:00::
+" One more and I 'm coming out there " !
+1
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+" I 'll be waiting " ! the pitcher yelled back .
+1
+#8 pitcher NOUN pitcher%1:18:00::
+Mike Deegan pounded the rubber plate with the end of his bat .
+5
+#2 pound VERB pound%2:35:00::
+#4 rubber NOUN rubber%1:06:02::
+#5 plate NOUN plate%1:06:02::,plate%1:06:04::,plate%1:06:05::,plate%1:08:00::,plate%1:17:00::
+#8 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+#11 bat NOUN bat%1:06:02::
+He stood flat-footed in the box , but not very close to the plate now .
+4
+#1 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#10 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#13 plate NOUN plate%1:06:02::,plate%1:06:04::,plate%1:06:05::,plate%1:08:00::,plate%1:17:00::
+#14 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The pitcher wound up and the ball came in straight for Mike 's head .
+5
+#1 pitcher NOUN pitcher%1:18:00::
+#6 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#9 straight ADV straight%4:02:05::
+#13 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Deegan dropped , got up , turned and , holding the bat with both hands up against his chest , began to walk slowly out to the mound .
+9
+#1 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+#6 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#9 hold VERB hold%2:35:00::,hold%2:35:01::,hold%2:35:03::,hold%2:42:01::
+#11 bat NOUN bat%1:06:02::
+#14 hand NOUN hand%1:08:00::,hand%1:10:01::
+#18 chest NOUN chest%1:08:00::,chest%1:08:01::
+#20 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#22 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#27 mound NOUN mound%1:06:00::
+The pitcher tossed his glove away and came towards Mike Deegan .
+2
+#1 pitcher NOUN pitcher%1:18:00::
+#7 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+They were both walking towards each other , unhurried .
+1
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Riverside and Anniston players rushed out on the field .
+2
+#3 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#8 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+In the next moment , it seemed , the infield was crowded with spectators , ballplayers , cops , kids and a dog .
+5
+#3 moment NOUN moment%1:28:00::,moment%1:28:01::
+#9 infield NOUN infield%1:06:00::
+#17 cop NOUN cop%1:18:00::
+#19 kid NOUN kid%1:18:00::
+#22 dog NOUN dog%1:05:00::
+There was much shouting and screaming .
+1
+#3 shout NOUN shout%1:10:00::
+Mike and the Anniston pitcher were pulled away before they even came together .
+2
+#4 pitcher NOUN pitcher%1:18:00::
+#12 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+Phil Rossoff and two other Riverside players did not go out on the field when the fighting started .
+5
+#4 other ADJ other%3:00:00::
+#6 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+#9 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 field NOUN field%1:15:00::,field%1:15:01::,field%1:15:02::,field%1:15:04::,field%1:15:05::,field%1:17:00::
+#17 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+After the game , Phil was taking off his sweatshirt in the dressing room when Mike Deegan came in .
+1
+#2 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+" It 's a helluva thing " , Mike said , looking at Phil , " when a guy 's own team-mate won n't come out and help him in a fight " .
+6
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#11 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#18 guy NOUN guy%1:18:00::
+#20 own ADJ own%5:00:00:personal:00
+#27 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+Phil sighed and pulled the wet sweatshirt over his head .
+3
+#3 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#5 wet ADJ wet%3:00:01::,wet%3:00:05::
+#9 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Frankie Ricco sat down on the bench near Phil .
+1
+#7 near ADV nearer%4:02:00::
+The other players were undressing quietly .
+2
+#1 other ADJ other%3:00:00::
+#2 player NOUN player%1:18:01::,player%1:18:03::,player%1:18:04::
+Eddie Lee had not come in yet .
+1
+#6 yet ADV yet%4:02:00::,yet%4:02:02::,yet%4:02:04::
+Mike went over to Phil and stood over him .
+2
+#1 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#6 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+" Why the hell did n't you come out when you saw them gang up on me " ?
+1
+#11 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" I did n't think it was necessary " .
+2
+#4 think VERB think%2:31:01::,think%2:31:03::
+#7 necessary ADJ necessary%3:00:00::
+Now that 's just fine !
+2
+#3 just ADV just%4:02:00::,just%4:02:03::
+#4 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+You did n't think it was necessary " .
+2
+#3 think VERB think%2:31:01::,think%2:31:03::
+#6 necessary ADJ necessary%3:00:00::
+Mike placed both his hands on his hips .
+3
+#1 place VERB place%2:31:13::
+#4 hand NOUN hand%1:08:00::,hand%1:10:01::
+#7 hip NOUN hip%1:08:00::
+He pushed his jaw forward .
+2
+#1 push VERB push%2:32:01::,push%2:38:00::
+#4 forward ADV forward%4:02:00::,forward%4:02:04::
+" Listen , wise guy , if you think I 'm gonna do all the fighting for this ball club you 're crazy " .
+2
+#8 think VERB think%2:31:01::,think%2:31:03::
+#22 crazy ADJ crazy%5:00:00:insane:00
+Mike had a good two inches over Phil and Phil had to look up into Mike 's face .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#3 good ADJ good%5:00:00:complete:00
+#5 inch NOUN inch%1:23:02::
+#12 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#13 up ADV up%4:02:00::,up%4:02:02::
+#17 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+" I did n't ask you to fight for the ball club " , Phil said slowly .
+2
+#4 ask VERB ask%2:32:01::,ask%2:32:05::
+#15 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You trying to say I started the fight " ?
+3
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 start VERB start%2:30:01::,start%2:36:00::,start%2:36:01::,start%2:38:00::,start%2:38:01::
+" I 'm not trying to say anything " .
+2
+#4 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Phil turned away and opened his locker , and then he heard Mike Deegan say : " You 're yellow , Rossoff " !
+4
+#4 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#6 locker NOUN locker%1:06:00::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 yellow ADJ yellow%5:00:00:dishonorable:00
+and Phil banged his locker door shut and spun around .
+2
+#2 bang VERB bang%2:38:00::
+#4 locker NOUN locker%1:06:00::
+But before anything could happen Frankie Ricco was between them and Eddie Lee had come into the dressing room .
+1
+#4 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+" Phil , come into my office " , Eddie said .
+3
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#6 office NOUN office%1:06:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Phil followed Eddie into the office and shut the door .
+2
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#5 office NOUN office%1:06:00::
+" I 'm doing you a favor " , Eddie said quickly .
+2
+#6 favor NOUN favor%1:04:00::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You get your unconditional release as of today " .
+1
+#5 release NOUN release%1:22:00::
+Phil 's eyes widened just a trifle .
+2
+#2 eye NOUN eye%1:08:00::,eye%1:09:01::
+#4 just ADV just%4:02:00::,just%4:02:03::
+" The best thing for you to do " , Eddie said , " is go home .
+3
+#2 best ADJ best%3:00:00::,best%5:00:00:advisable:00
+#3 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+You do n't belong in professional baseball " .
+1
+#3 belong VERB belong%2:42:02::,belong%2:42:07::
+Phil had to clear his throat .
+1
+#3 clear VERB clear%2:30:01::,clear%2:30:02::,clear%2:30:10::,clear%2:31:00::,clear%2:38:00::
+" Is this because of what happened out there " ?
+1
+#6 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+" No " , Eddie said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" But it does confirm what I 've suspected all along " .
+2
+#4 confirm VERB confirm%2:30:00::,confirm%2:32:00::,confirm%2:41:01::
+#8 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+This is the second time " .
+2
+#3 second ADJ second%1:06:00::,second%1:24:00::,second%3:00:00::,second%4:02:00::,second%5:00:00:ordinal:00
+#4 time NOUN time%1:11:00::
+" Sit down , sit down " , Eddie said .
+1
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I 'm not saying you 're yellow .
+2
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 yellow ADJ yellow%5:00:00:dishonorable:00
+I am saying you 're not a professional ballplayer " .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+Eddie Lee leaned forward over the desk .
+1
+#3 forward ADV forward%4:02:00::,forward%4:02:04::
+You have n't got the heart for baseball " .
+1
+#5 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+Phil shook his head and Eddie frowned .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+Suddenly his voice grew hard .
+2
+#2 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#3 grow VERB grow%2:30:00::,grow%2:30:03::,grow%2:30:10::
+" What the hell do you think baseball is ?
+1
+#6 think VERB think%2:31:01::,think%2:31:03::
+You 're not in the big leagues , but if you can n't give and take down here what the hell do you think it 'll be like up there " ?
+2
+#17 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#23 think VERB think%2:31:01::,think%2:31:03::
+Phil started to say something but Eddie cut him short .
+2
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Now do n't tell me what a good ball player you are .
+2
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 good ADJ best%3:00:00::,good%3:00:01::
+I know you 've got talent .
+1
+#5 talent NOUN talent%1:09:00::,talent%1:18:00::
+But what you have n't got is the heart to back up that talent with .
+2
+#8 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#13 talent NOUN talent%1:09:00::,talent%1:18:00::
+The heart , Phil .
+1
+#1 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+You just have n't got the heart for pro-ball , and that 's it " .
+2
+#1 just ADV just%4:02:00::,just%4:02:03::
+#6 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+Dazed , Phil said : " I do n't get it .
+1
+#3 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Eddie stood up abruptly , then sat down just as abruptly .
+2
+#5 then ADV then%4:02:00::
+#8 just ADV just%4:02:05::
+Or even the way you run bases .
+1
+#3 way NOUN way%1:04:00::,way%1:09:00::
+I tell you when it 's necessary to hurt in order to win - you won n't do it .
+3
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#6 necessary ADJ necessary%3:00:00::
+#12 win VERB win%2:33:00::
+That 's what I mean by no heart for the game .
+3
+#4 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#7 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#10 game NOUN game%1:04:00::,game%1:04:03::,game%1:06:00::,game%1:23:00::,game%1:28:00::
+Baseball 's no cinch .
+1
+#3 cinch NOUN cinch%1:04:01::
+Deegan had no business ramming into that kid out there .
+2
+#3 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#7 kid NOUN kid%1:18:00::
+He did it because he knows for each guy he puts out of commission that 's one less who might take his job away later on .
+3
+#8 guy NOUN guy%1:18:00::
+#10 put VERB put%2:31:00::,put%2:32:00::,put%2:35:05::
+#22 job NOUN job%1:04:00::,job%1:06:00::
+What the hell do you think baseball is ?
+1
+#5 think VERB think%2:31:01::,think%2:31:03::
+A sport ?
+1
+#1 sport NOUN sport%1:04:00::
+And you 've got to be ready to cut to ribbons anybody who want to take your way of life away from you " !
+1
+#6 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+He 's wrong !
+1
+#2 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+Phil thought .
+1
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+It 's only his opinion .
+1
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+There were other clubs in this league .
+2
+#3 club NOUN club%1:06:02::,club%1:06:04::,club%1:14:00::,club%1:14:01::
+#6 league NOUN league%1:14:01::
+He was a little pale and shaky .
+1
+#4 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+His lips felt glued together .
+2
+#1 lip NOUN lip%1:08:00::,lip%1:20:00::
+#4 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+" I think you 're wrong , Eddie " , he said finally .
+3
+#2 think VERB think%2:31:01::,think%2:31:03::
+#5 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Eddie nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+You 'll get your pay in the morning " .
+1
+#7 morning NOUN morning%1:28:00::,morning%1:28:01::
+Phil turned and left the room , hearing Eddie say :
+4
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#3 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Someday you 'll see I was right " .
+2
+#4 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+#7 right ADJ right%3:00:02::,right%3:00:04::,right%5:00:00:appropriate:00,right%5:00:00:opportune:00,right%5:00:00:satisfactory:00,right%5:00:01:proper:00
+Outside in the dressing room , Frankie Ricco sat on the bench dressed in his street clothes .
+1
+#8 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+" What happened " ?
+1
+#2 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Frankie asked .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+Phil said : " I got my release " .
+2
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 release NOUN release%1:22:00::
+" You crazy " ?
+1
+#2 crazy ADJ crazy%5:00:00:insane:00
+Frankie shook his head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" I do n't know " , Phil said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+They were silent for a few moments .
+1
+#6 moment NOUN moment%1:28:00::,moment%1:28:01::
+Then Frankie said : " What are you gonna do " ?
+2
+#0 then ADV then%4:02:00::
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Phil started to take his clothes off and Frankie sat down on the bench again .
+2
+#1 start VERB start%2:30:00::,start%2:30:01::,start%2:38:02::,start%2:41:00::,start%2:42:00::,start%2:42:03::
+#5 clothes NOUN clothes%1:06:00::
+Phil took off one shoe and stared at it .
+1
+#4 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+" Do n't take it like this " , Frankie said .
+2
+#3 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Hell , plenty of guys get let out and come back later .
+2
+#5 guy NOUN guy%1:18:00::
+#12 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+The leagues are full of guys like that " .
+3
+#1 league NOUN league%1:14:01::
+#3 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#5 guy NOUN guy%1:18:00::
+Phil did not answer .
+1
+#3 answer VERB answer%2:31:00::,answer%2:32:00::
+" Why not try another club " ?
+1
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Phil looked up .
+1
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+What the hell right did Eddie have saying a thing like that ?
+4
+#3 right NOUN right%1:07:00::,right%1:21:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+" Springfield 's in tomorrow " , Frankie said .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+He just did n't know what he was talking about , saying a thing like that .
+3
+#1 just ADV just%4:02:00::,just%4:02:03::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+" Ask Whitey for a job " .
+2
+#1 ask VERB ask%2:32:01::,ask%2:32:05::
+#5 job NOUN job%1:04:00::,job%1:06:00::
+Phil nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" Sure " , he said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Frankie nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+" Do n't worry " , Frankie said .
+2
+#3 worry VERB worry%2:37:00::,worry%2:37:01::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" You 'll get a job there .
+1
+#5 job NOUN job%1:04:00::,job%1:06:00::
+He needs outfielders bad " .
+1
+#1 need VERB need%2:42:00::
+" I 'm not worried about it " , Phil said .
+2
+#4 worry VERB worry%2:37:00::,worry%2:37:01::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" That 's the way to talk .
+1
+#4 way NOUN way%1:04:00::,way%1:09:00::
+What else did Eddie have to say " ?
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Nothing " , Phil said .
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::

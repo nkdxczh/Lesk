@@ -1,0 +1,745 @@
+ Standing in the shelter of the tent - a rejected hospital tent on which the rain now dripped , no longer drumming - Adam watched his own hands touch the objects on the improvised counter of boards laid across two beef barrels .
+13
+#0 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#10 hospital NOUN hospital%1:06:00::
+#16 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#24 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#26 own ADJ own%5:00:00:personal:00
+#27 hand NOUN hand%1:08:00::,hand%1:10:01::
+#28 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#30 object NOUN object%1:03:00::
+#34 counter NOUN counter%1:06:00::
+#36 board NOUN board%1:06:00::,board%1:27:00::
+#37 lay VERB lay%2:35:00::,lay%2:36:00::
+#40 beef NOUN beef%1:13:00::
+#41 barrel NOUN barrel%1:06:00::
+There was , of course , no real need to rearrange everything .
+3
+#6 no DET no%4:02:01::
+#7 real ADJ real%3:00:00::,real%5:00:00:true:00
+#8 need NOUN need%1:26:00::
+A quarter inch this way or that for the hardbake , or the toffee , or the barley sugar , or the sardines , or the bitters , or the condensed milk , or the stationery , or the needles - what could it mean ?
+6
+#2 inch NOUN inch%1:23:02::
+#4 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#18 sugar NOUN sugar%1:13:00::
+#22 sardine NOUN sardine%1:13:00::
+#39 needle NOUN needle%1:06:00::
+#44 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+Adam watched his own hands make the caressing , anxious movement that , when rain falls and nobody comes , and ruin draws close like a cat rubbing against the ankles , has been the ritual of stall vendors , forever .
+11
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#3 own ADJ own%5:00:00:personal:00
+#4 hand NOUN hand%1:08:00::,hand%1:10:01::
+#5 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#9 anxious ADJ anxious%5:00:00:troubled:00
+#10 movement NOUN movement%1:04:04::,movement%1:09:00::,movement%1:22:00::
+#15 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#18 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#26 cat NOUN cat%1:05:00::,cat%1:05:02::,cat%1:06:00::
+#37 stall NOUN stall%1:06:00::
+#40 forever ADV forever%4:02:00::
+He knew its meaning .
+2
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#3 meaning NOUN meaning%1:09:00::
+He had seen a dry , old , yellowing hand reach out , with that painful solicitude , to touch , to rearrange , to shift aimlessly , some object worth a pfennig .
+6
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#4 dry ADJ dry%3:00:01::
+#6 old ADJ old%3:00:01::,old%3:00:02::
+#9 hand NOUN hand%1:08:00::,hand%1:10:01::
+#19 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#29 object NOUN object%1:03:00::
+Back in Bavaria he had seen that gesture , and at that sight his heart had always died within him .
+6
+#0 back ADV back%4:02:01::,back%4:02:04::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+#14 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#16 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#17 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+On such occasions he had not had the courage to look at the face above the hand , whatever face it might be .
+7
+#2 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#5 not ADV not%4:02:00::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#13 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#16 hand NOUN hand%1:08:00::,hand%1:10:01::
+#19 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+Now the face was his own .
+3
+#0 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#2 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#5 own ADJ own%5:00:00:personal:00
+He wondered what expression , as he made that gesture , was on his face .
+4
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#3 expression NOUN expression%1:07:00::
+#7 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He wondered if it wore the old anxiety , or the old , taut stoicism .
+6
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#4 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#6 old ADJ old%3:00:01::,old%3:00:02::
+#11 old ADJ old%3:00:01::,old%3:00:02::
+#13 taut ADJ taut%5:00:00:tense:03
+#14 stoicism NOUN stoicism%1:07:00::
+But there was no need , he remembered , for his hand to reach out , for his face to show concern or stoicism .
+6
+#4 need NOUN need%1:26:00::
+#11 hand NOUN hand%1:08:00::,hand%1:10:01::
+#18 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#20 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#21 concern NOUN concern%1:09:01::,concern%1:12:01::
+#23 stoicism NOUN stoicism%1:07:00::
+It was nothing to him if rain fell and nobody came .
+2
+#7 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+#10 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Then why was he assuming the role - the gesture and the suffering ?
+1
+#0 then ADV then%4:02:02::
+Or was he now taking the role - the gesture and the suffering - because it was the only way to affirm his history and identity in the torpid , befogged loneliness of this land .
+7
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#19 way NOUN way%1:04:00::,way%1:09:00::
+#21 affirm VERB affirm%2:31:00::
+#23 history NOUN history%1:28:02::
+#25 identity NOUN identity%1:07:00::,identity%1:07:02::,identity%1:09:00::
+#31 loneliness NOUN loneliness%1:26:00::
+This was Virginia .
+1
+#2 Virginia NOUN virginia%1:15:00::
+He looked out of the tent at the company street .
+1
+#8 company NOUN company%1:14:02::,company%1:14:03::
+Beyond that misty gray of the rain , he saw the stretching hutment , low diminutive log cabins , chinked with mud , with doorways a man would have to crouch to get through , with roofs of tenting laid over boughs or boards from hardtack boxes , or fence rails , with cranky chimneys of sticks and dried mud .
+8
+#3 gray NOUN gray%1:06:00::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#21 mud NOUN mud%1:27:00::
+#33 through ADV through%4:02:01::
+#43 board NOUN board%1:06:00::,board%1:27:00::
+#58 dry ADJ dry%3:00:01::
+#59 mud NOUN mud%1:27:00::
+The chimney of the hut across from him was surmounted by a beef barrel with ends knocked out .
+4
+#9 surmount VERB surmount%2:42:00::
+#12 beef NOUN beef%1:13:00::
+#13 barrel NOUN barrel%1:06:00::
+#15 end NOUN end%1:04:00::,end%1:09:00::,end%1:15:00::,end%1:15:02::,end%1:15:03::
+In this heavy air , however , that device did not seem to help .
+6
+#2 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#3 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+#5 however ADV however%4:02:04::
+#8 device NOUN device%1:06:00::
+#10 not ADV not%4:02:00::
+#13 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+The smoke from that chimney rose as sluggishly as smoke from any other , and hung as sadly in the drizzle , creeping back down along the sopping canvas of the roof .
+3
+#5 rise VERB rise%2:30:03::,rise%2:33:00::,rise%2:38:00::,rise%2:38:04::,rise%2:38:06::,rise%2:38:08::
+#15 hang VERB hang%2:35:06::,hang%2:42:00::
+#22 creep VERB creep%2:38:00::
+Over the door was a board with large , inept lettering :
+3
+#5 board NOUN board%1:06:00::,board%1:06:03::,board%1:27:00::
+#7 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#10 letter NOUN letter%1:10:01::,letter%1:10:02::
+This was the hut of Simms Purdew , the hero .
+1
+#9 hero NOUN hero%1:09:00::,hero%1:18:01::,hero%1:18:04::
+The men were huddled in those lairs .
+1
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+Adam knew the names of some .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#3 name NOUN name%1:14:00::
+He knew the faces of all , hairy or shaven , old or young , fat or thin , suffering or hardened , sad or gay , good or bad .
+9
+#1 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#3 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#7 hairy ADJ hairy%3:00:00::
+#11 old ADJ old%3:00:01::,old%3:00:02::
+#17 thin ADJ thin%3:00:02::,thin%3:00:03::,thin%5:00:00:narrow:00
+#23 sad ADJ sad%3:00:00::
+#25 gay ADJ gay%5:00:00:colorful:03,gay%5:00:02:joyous:00
+#27 good ADJ good%3:00:01::,good%5:00:01:sound:00
+#29 bad ADJ bad%3:00:00::,bad%5:00:00:harmful:00,bad%5:00:00:intense:00,bad%5:00:00:stale:00
+When they stood about his tent , chaffing each other , exchanging their obscenities , cursing command or weather , he had studied their faces .
+3
+#15 curse VERB curse%2:32:00::,curse%2:32:02::
+#22 study VERB study%2:31:00::
+#24 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He had had the need to understand what life lurked behind the mask of flesh , behind the oath , the banter , the sadness .
+4
+#2 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+#4 need NOUN need%1:26:00::
+#6 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#8 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+Once covertly looking at Simms Purdew , the only man in the world whom he hated , he had seen the heavy , slack , bestubbled jaw open and close to emit the cruel , obscene banter , and had seen the pale blue eyes go watery with whisky and merriment , and suddenly he was not seeing the face of that vile creature .
+15
+#2 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#19 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#21 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#23 slack ADJ slack%5:00:00:lax:01
+#29 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#40 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#42 pale ADJ pale%5:00:00:colorless:02,pale%5:00:00:colorless:03,pale%5:00:00:light:05
+#43 blue ADJ blue%5:00:00:chromatic:00
+#44 eye NOUN eye%1:08:00::,eye%1:09:01::
+#45 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+#48 whiskey NOUN whiskey%1:13:00::
+#57 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#59 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+He was seeing , somehow , the face of a young boy , the boy Simms Purdew must once have been , a boy with sorrel hair , and blue eyes dancing with gaiety , and the boy mouth grinning trustfully among the freckles .
+12
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#11 boy NOUN boy%1:18:03::
+#14 boy NOUN boy%1:18:03::
+#18 once ADV once%4:02:01::
+#23 boy NOUN boy%1:18:03::
+#26 hair NOUN hair%1:08:00::
+#29 blue ADJ blue%5:00:00:chromatic:00
+#30 eye NOUN eye%1:08:00::,eye%1:09:01::
+#31 dance VERB dance%2:38:01::,dance%2:38:02::
+#37 boy NOUN boy%1:18:03::
+#38 mouth NOUN mouth%1:08:01::,mouth%1:10:00::,mouth%1:18:00::
+In that moment of vision Adam heard the voice within himself saying : I must not hate him , I must not hate him or I shall die .
+4
+#2 moment NOUN moment%1:28:00::,moment%1:28:01::
+#8 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#27 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+His heart suddenly opened to joy .
+2
+#1 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:35:06::
+He thought that if once , only once , he could talk with Simms Purdew , something about his own life , and all life , would be clear and simple .
+8
+#4 once ADV once%4:02:00::
+#6 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 once ADV once%4:02:00::
+#19 own ADJ own%5:00:00:personal:00
+#20 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#24 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#28 clear ADJ clear%3:00:00::,clear%5:00:00:clearheaded:00
+#30 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+If Simms Purdew would turn to him and say : " Adam , you know when I was a boy , it was a funny thing happened .
+5
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#19 boy NOUN boy%1:18:03::
+#24 funny ADJ funny%5:00:00:ill:01,funny%5:00:00:questionable:00,funny%5:00:00:strange:00
+#25 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#26 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Lemme tell you now " -
+2
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#3 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+If only Simms Purdew could do that , whatever the thing he remembered and told .
+2
+#10 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#14 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+It would be a sign for the untellable , and he , Adam , would understand .
+1
+#15 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Now , Adam , in the gray light of afternoon , stared across at the hut opposite his tent , and thought of Simms Purdew lying in there in the gloom , snoring on his bunk , with the fumes of whisky choking the air .
+7
+#7 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#25 lie VERB lie%2:35:00::,lie%2:38:00::
+#27 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#30 gloom NOUN gloom%1:26:01::
+#35 bunk NOUN bunk%1:10:00::
+#41 whiskey NOUN whiskey%1:13:00::
+#44 air NOUN air%1:04:00::,air%1:10:02::,air%1:15:00::,air%1:15:01::,air%1:19:00::,air%1:27:00::,air%1:27:01::
+He saw the sign above the door of the hut : Home Sweet Home .
+2
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 sign NOUN sign%1:06:01::,sign%1:10:00::,sign%1:10:01::,sign%1:10:03::,sign%1:10:04::,sign%1:10:05::
+He saw the figure of a man in a poncho coming up the company street , with an armful of wood .
+5
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#20 wood NOUN wood%1:06:02::
+He carried the wood , carried the water , did the cooking , cleaning and mending , and occasionally got a kick in the butt for his pains .
+7
+#1 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#3 wood NOUN wood%1:06:02::
+#5 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#7 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#11 cooking NOUN cooking%1:04:00::
+#19 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#27 pain NOUN pains%1:04:00::
+Adam watched the moisture flow from the poncho .
+2
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#4 flow VERB flow%2:30:00::,flow%2:38:00::
+It gave the rubberized fabric a dull gleam , like metal .
+3
+#4 fabric NOUN fabric%1:06:00::
+#6 dull ADJ dull%5:00:00:unsaturated:03
+#10 metal NOUN metal%1:27:00::
+Pullen James humbly lowered his head , pushed aside the hardtack box door of the hut , and was gone from sight .
+4
+#3 lower VERB lower%2:30:01::
+#5 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#19 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#21 sight NOUN sight%1:04:00::,sight%1:09:00::,sight%1:09:01::,sight%1:09:02::,sight%1:09:03::
+Adam stared at the door and remembered that Simms Purdew had been awarded the Medal of Honor for gallantry at Antietam .
+1
+#18 gallantry NOUN gallantry%1:07:00::
+The street was again empty .
+1
+#4 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+The drizzle was slacking off now , but the light was grayer .
+3
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 light NOUN light%1:06:00::,light%1:07:01::,light%1:07:02::,light%1:10:00::,light%1:15:00::;1:19:00::,light%1:19:00::
+#11 gray ADJ gray%5:00:00:old:02,grey%5:00:00:achromatic:00
+With enormous interest , Adam watched his hands as they touched and shifted the objects on the board directly before him .
+7
+#2 interest NOUN interest%1:04:01::,interest%1:07:02::,interest%1:09:00::
+#5 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#7 hand NOUN hand%1:08:00::,hand%1:10:01::
+#10 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#14 object NOUN object%1:03:00::
+#17 board NOUN board%1:06:00::,board%1:06:03::,board%1:27:00::
+#18 directly ADV directly%4:02:05::
+Into the emptiness of the street , and his spirit , moved a form .
+4
+#2 emptiness NOUN emptiness%1:26:00::
+#9 spirit NOUN spirit%1:18:00::,spirit%1:18:01::,spirit%1:18:01::;1:18:00::
+#11 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#13 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+The form was swathed in an army blanket , much patched , fastened at the neck with a cord .
+5
+#1 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#7 blanket NOUN blanket%1:17:00::
+#10 patch VERB patch%2:30:01::
+#15 neck NOUN neck%1:06:00::,neck%1:08:00::,neck%1:13:00::
+#18 cord NOUN cord%1:06:00::
+From under the shapeless huddle of blanket the feet moved in the mud .
+4
+#6 blanket NOUN blanket%1:17:00::
+#8 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#9 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#12 mud NOUN mud%1:27:00::
+The feet wore army shoes , in obvious disrepair .
+3
+#1 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#2 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#4 shoe NOUN shoe%1:06:00::,shoe%1:06:01::
+The head was wrapped in a turban and on top of the turban rode a great hamper across which a piece of poncho had been flung .
+7
+#1 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#3 wrap VERB wrap%2:35:00::
+#6 turban NOUN turban%1:06:00::
+#9 top NOUN top%1:15:00::,top%1:15:01::
+#12 turban NOUN turban%1:06:00::
+#15 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#16 hamper NOUN hamper%1:06:00::
+The gray face stared straight ahead in the drizzle .
+2
+#2 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#4 straight ADV straight%4:02:05::
+Moisture ran down the cheeks , gathered at the tip of the nose , and at the chin .
+4
+#4 cheek NOUN cheek%1:08:00::
+#6 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#9 tip NOUN tip%1:15:00::
+#12 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+The figure was close enough now for him to see the nose twitching to dislodge the drop clinging there .
+9
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#3 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#4 enough ADV enough%4:02:00::
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#11 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#12 twitch VERB twitch%2:29:00::
+#16 drop NOUN drop%1:23:00::,drop%1:25:00::
+#18 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+The figure stopped and one hand was perilously freed from the hamper to scratch the nose .
+6
+#1 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+#2 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#5 hand NOUN hand%1:08:00::,hand%1:10:01::
+#11 hamper NOUN hamper%1:06:00::
+#13 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#15 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+Then the figure moved on .
+2
+#0 then ADV then%4:02:00::
+#2 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+This was one of the Irish women who had built their own huts down near the river .
+2
+#11 own ADJ own%5:00:00:personal:00
+#13 down ADV down%4:02:00::,down%4:02:02::
+Adam recognized this one .
+1
+#1 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+He recognized her because she was the one who , in a winter twilight , on the edge of camp , had once stopped him and reached down her hand to touch his fly .
+10
+#1 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#13 twilight NOUN twilight%1:19:00::
+#17 edge NOUN edge%1:06:01::
+#19 camp NOUN camp%1:06:01::,camp%1:14:00::
+#22 once ADV once%4:02:00::
+#26 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#27 down ADJ down%3:00:00::
+#29 hand NOUN hand%1:08:00::,hand%1:10:01::
+#31 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#33 fly NOUN fly%1:06:00::
+" Slice o ' mutton , bhoy " ? she had queried in her soft guttural .
+2
+#1 slice NOUN slice%1:13:00::
+#14 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+" Slice o ' mutton " ?
+1
+#1 slice NOUN slice%1:13:00::
+Her name was Mollie .
+1
+#1 name NOUN name%1:14:00::
+They called her Mollie the Mutton , and laughed .
+1
+#1 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Looking down the street after her , Adam saw that she had again stopped and again removed one hand from the basket .
+6
+#0 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#8 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#13 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#16 remove VERB remove%2:30:00::,remove%2:38:00::,remove%2:41:02::
+#18 hand NOUN hand%1:08:00::,hand%1:10:01::
+#21 basket NOUN basket%1:06:00::
+He could not make out , but he knew that again she was scratching her nose .
+3
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#13 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#15 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+Mollie the Mutton was scratching her nose .
+2
+#4 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#6 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+The words ran crazily in his head : Mollie the Mutton is scratching her nose in the rain .
+4
+#1 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#6 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#12 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#14 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+Then the words fell into a pattern : " Mollie the Mutton is scratching her nose , Scratching her nose in the rain .
+7
+#0 then ADV then%4:02:00::
+#2 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#6 pattern NOUN pattern%1:06:00::,pattern%1:09:00::
+#13 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#15 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+#17 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#19 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+Mollie the Mutton is scratching her nose in the rain " .
+2
+#4 scratch VERB scratch%2:35:00::,scratch%2:35:03::,scratch%2:35:04::,scratch%2:39:00::
+#6 nose NOUN nose%1:08:00::,nose%1:09:00::,nose%1:09:01::
+It came again and again .
+1
+#1 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+He felt trapped in that pattern , in the repetition .
+2
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#2 trap VERB trap%2:35:00::
+Suddenly he thought he might weep .
+1
+#5 weep VERB weep%2:29:00::
+He looked wildly around , at the now empty street , at the mud , at the rain .
+4
+#3 around ADV around%4:02:04::,around%4:02:05::,around%4:02:08::
+#7 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#13 mud NOUN mud%1:27:00::
+When he had stored his stock in the great oak chest , locked the two big hasps and secured the additional chain , tied the fly of the tent , and picked up the cash box , he moved up the darkening street .
+9
+#5 stock NOUN stock%1:05:00::,stock%1:06:00::,stock%1:21:01::
+#8 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#10 chest NOUN chest%1:06:00::,chest%1:06:01::
+#12 lock VERB lock%2:35:00::,lock%2:35:02::,lock%2:35:03::
+#15 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#21 chain NOUN chain%1:06:00::,chain%1:06:01::,chain%1:06:03::
+#23 tie VERB tie%2:30:00::,tie%2:30:01::,tie%2:35:00::,tie%2:35:01::,tie%2:36:00::
+#25 fly NOUN fly%1:06:00::
+#34 cash NOUN cash%1:21:00::
+He would consign the cash box into the hands of Jed Hawksworth , then stand by while his employer checked the contents and the list of items sold .
+7
+#4 cash NOUN cash%1:21:00::
+#8 hand NOUN hand%1:08:00::,hand%1:10:01::
+#13 then ADV then%4:02:00::
+#19 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#21 content NOUN content%1:10:00::,content%1:14:00::,content%1:24:00::
+#24 list NOUN list%1:10:00::
+#27 sell VERB sell%2:40:00::,sell%2:40:01::,sell%2:40:02::,sell%2:41:00::,sell%2:42:00::
+Then he -
+1
+#0 then ADV then%4:02:00::
+Then what ?
+1
+#0 then ADV then%4:02:00::
+He did not know .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+His mind closed on that prospect , as though fog had descended to blot out a valley .
+3
+#5 prospect NOUN prospect%1:26:00::
+#9 fog NOUN fog%1:09:00::
+#11 descend VERB descend%2:38:00::
+Far off , in the dusk , he heard voices singing , muffled but strong .
+3
+#9 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#10 sing VERB sing%2:32:08::,sing%2:36:01::
+#14 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:intense:00
+In one of the huts a group of men were huddled together , singing .
+2
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 sing VERB sing%2:32:08::,sing%2:36:01::
+He stopped .
+1
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+He strained to hear .
+1
+#1 strain VERB strain%2:33:00::
+He heard the words : " Rock of Ages , cleft for me , Let me hide myself in Thee !
+2
+#3 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#10 cleave VERB cleave%2:35:00::
+Let the water and the blood From Thy riven side " .
+2
+#2 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#5 blood NOUN blood%1:04:00::,blood%1:08:00::
+He thought : I am a Jew from Bavaria .
+1
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+He was standing there , he thought , in Virginia , in the thickening dusk , in a costly greatcoat that had belonged to another Jew .
+3
+#2 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#3 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#9 Virginia NOUN virginia%1:15:00::
+That other Jew , a young man too , had left that greatcoat behind , in a rich house , and marched away .
+6
+#1 other ADJ other%3:00:00::
+#7 too ADV too%4:02:01::
+#17 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#18 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#21 march VERB march%2:38:00::
+#22 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+He had crossed the river which now , beyond the woods yonder , was sliding darkly under the mist .
+4
+#2 cross VERB cross%2:38:00::
+#6 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 wood NOUN wood%1:14:00::
+#15 darkly ADV darkly%4:02:01::
+He had plunged into the dark woods beyond .
+3
+#5 dark ADJ dark%3:00:01::,dark%5:00:00:concealed:00,dark%5:00:00:inactive:03,dark%5:00:00:unenlightened:00
+#6 wood NOUN wood%1:14:00::
+#7 beyond ADV beyond%4:02:01::
+He had died there .
+2
+#2 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#3 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+What had that man , that other young Jew , felt as he stood in the twilight and heard other men , far away , singing together ?
+8
+#3 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#6 other ADJ other%3:00:00::
+#10 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#16 twilight NOUN twilight%1:19:00::
+#19 other ADJ other%3:00:00::
+#20 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#25 sing VERB sing%2:32:08::,sing%2:36:01::
+#26 together ADV together%4:02:02::,together%4:02:03::,together%4:02:05::,together%4:02:10::
+Adam thought of the hutments , regiment after regiment , row after row , the thousands of huts , stretching away into the night .
+6
+#6 regiment NOUN regiment%1:14:00::
+#8 regiment NOUN regiment%1:14:00::
+#10 row NOUN row%1:14:00::
+#12 row NOUN row%1:14:00::
+#20 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#23 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+He thought of the men , the nameless thousands , huddling in them .
+2
+#4 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#7 nameless ADJ nameless%5:00:00:anonymous:00
+He thought of Simms Purdew snoring on his bunk while Pullen James crouched by the hearth , skirmishing an undershirt for lice , and a wet log sizzled .
+4
+#8 bunk NOUN bunk%1:10:00::
+#21 louse NOUN louse%1:05:01::
+#25 wet ADJ wet%3:00:01::,wet%3:00:05::
+#26 log NOUN log%1:27:01::
+He thought of Simms Purdew , who once had risen at the edge of a cornfield , a maniacal scream on his lips , and swung a clubbed musket like a flail to beat down the swirl of Rebel bayonets about him .
+8
+#7 once ADV once%4:02:01::
+#9 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#12 edge NOUN edge%1:06:01::
+#22 lip NOUN lip%1:08:00::,lip%1:20:00::
+#25 swing VERB swing%2:33:00::,swing%2:35:00::,swing%2:38:02::
+#33 beat VERB beat%2:35:00::,beat%2:35:01::,beat%2:35:10::,beat%2:35:12::,beat%2:36:00::,beat%2:38:04::,beat%2:39:00::
+#34 down ADV down%4:02:00::,down%4:02:02::
+#39 bayonet NOUN bayonet%1:06:00::
+He felt the sweetness of pity flood through him , veining his very flesh .
+3
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#5 pity NOUN pity%1:12:00::
+#6 flood NOUN flood%1:04:01::
+Those men , lying in the huts , they did not know .
+3
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#3 lie VERB lie%2:35:00::,lie%2:38:00::
+#11 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+They did not know who they were or know their own worth .
+3
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 own ADJ own%5:00:00:personal:00
+In the pity for them his loneliness was gone .
+2
+#2 pity NOUN pity%1:12:00::
+#6 loneliness NOUN loneliness%1:12:00::
+Then he thought of Aaron Blaustein standing in his rich house saying : " God is tired of taking the blame .
+7
+#0 then ADV then%4:02:00::
+#6 stand VERB stand%2:35:00::,stand%2:35:01::,stand%2:42:03::
+#9 rich ADJ rich%3:00:02::,rich%3:00:03::,rich%5:00:00:valuable:00
+#10 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#14 God NOUN god%1:18:00::
+#18 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+He is going to let History take the blame for a while " .
+1
+#5 history NOUN history%1:28:00::
+He thought of the old man laughing under the glitter of the great chandelier .
+1
+#9 glitter NOUN glitter%1:07:00::
+He thought : Only in my heart can I make the world hang together .
+4
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#11 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+Adam rose from the crouch necessary to enter the hut .
+2
+#1 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#7 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+He saw Mose squatting by the hearth , breaking up hardtack into a pan .
+3
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#3 squat VERB squat%2:35:00::
+#13 pan NOUN pan%1:06:00::
+A pot was boiling on the coals .
+2
+#1 pot NOUN pot%1:06:00::
+#3 boil VERB boil%2:30:01::
+" Done give Ole Buckra all his money " ?
+1
+#2 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Mose asked softly .
+1
+#1 ask VERB ask%2:32:00::,ask%2:32:04::
+Adam nodded .
+1
+#1 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+And look what he done give us " .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#5 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Adam looked at the pot .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 pot NOUN pot%1:06:00::
+" What is it " ? he asked .
+1
+#7 ask VERB ask%2:32:00::,ask%2:32:04::
+" Chicken " , Mose said , and theatrically licked his lips .
+4
+#1 chicken NOUN chicken%1:13:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#9 lick VERB lick%2:35:00::
+#11 lip NOUN lip%1:08:00::,lip%1:20:00::
+" Gre't big fat chicken , yeah " .
+2
+#2 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#4 chicken NOUN chicken%1:13:00::
+He licked his lips again .
+2
+#1 lick VERB lick%2:35:00::
+#3 lip NOUN lip%1:08:00::,lip%1:20:00::
+Then : " Yeah .
+1
+#0 then ADV then%4:02:00::
+A chicken with six tits and a tail lak a corkscrew .
+3
+#1 chicken NOUN chicken%1:13:00::
+#4 tit NOUN tit%1:08:01::
+#7 tail NOUN tail%1:25:00::
+And hit squealed for slop " .
+2
+#2 squeal VERB squeal%2:32:01::
+#4 slop NOUN slop%1:13:01::
+It is the same ole same , tell me hit 's name .
+3
+#3 same ADJ same%3:00:00::
+#7 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 name NOUN name%1:14:00::
+It is sowbelly with tits on .
+1
+#4 tit NOUN tit%1:08:01::
+That po'k , it was so full of skippers it would jump and run and not come when you say , ' Hoo-pig ' .
+6
+#5 so ADV so%4:02:03::,so%4:02:07::
+#6 full ADJ full%3:00:00::,full%5:00:00:nourished:00,full%5:00:01:whole:00
+#11 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+#13 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#16 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#19 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Had to put my foot on it to hole it down while I cut it up fer the lob-scuse " .
+3
+#2 put VERB put%2:35:00::,put%2:35:05::
+#4 foot NOUN foot%1:04:00::,foot%1:05:00::,foot%1:05:01::,foot%1:15:00::,foot%1:18:00::
+#10 down ADJ down%3:00:00::
+He dumped the pan of crumbled hardtack into the boiling pot of lobscouse .
+3
+#1 dump VERB dump%2:38:01::
+#3 pan NOUN pan%1:06:00::
+#9 boil VERB boil%2:30:00::
+" Good ole lob-scuse " , he mumbled , and stirred the pot .
+3
+#7 mumble VERB mumble%2:32:00::
+#10 stir VERB stir%2:35:00::,stir%2:35:04::
+#12 pot NOUN pot%1:06:00::
+He stopped stirring and looked over his shoulder .
+4
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#2 stir VERB stir%2:35:00::,stir%2:35:04::
+#4 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#7 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+" Know what Ole Buckra et tonight " ? he demanded .
+1
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Know what I had to fix fer Ole Him " ?
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 fix VERB fix%2:30:01::,fix%2:30:03::,fix%2:36:00::,fix%2:36:01::
+Adam shook his head .
+2
+#1 shake VERB shake%2:30:00::,shake%2:30:01::,shake%2:32:00::,shake%2:38:02::,shake%2:38:04::
+#3 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+" Chicken " , Mose said .
+2
+#1 chicken NOUN chicken%1:13:00::
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::

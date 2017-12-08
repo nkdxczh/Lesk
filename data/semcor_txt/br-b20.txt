@@ -1,0 +1,579 @@
+ The nuclear war is already being fought , except that the bombs are not being dropped on enemy targets - not yet .
+5
+#1 nuclear ADJ nuclear%3:00:00::
+#4 already ADV already%4:02:00::
+#11 bomb NOUN bomb%1:06:00::
+#13 not ADV not%4:02:00::
+#15 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+It is being fought , moreover , in fairly close correspondence with the predictions of the soothsayers of the think factories .
+3
+#8 fairly ADV fairly%4:02:02::
+#9 close ADJ close%3:00:02::,close%5:00:00:accurate:00
+#10 correspondence NOUN correspondence%1:07:01::
+The biggest nuclear device the United States has exploded measured some 15 megatons , although our B-52s are said to be carrying two 20 - megaton bombs apiece .
+6
+#1 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#2 nuclear ADJ nuclear%3:00:00::
+#3 device NOUN device%1:06:00::
+#8 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#18 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#21 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+Some time ago , however , Mr. Khrushchev decided that when bigger bombs were made , the Soviet Union would make them .
+6
+#1 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#4 however ADV however%4:02:04::
+#11 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#12 bomb NOUN bomb%1:06:00::
+#14 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#20 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+He seems to have at least a few 30 - and 50 - megaton bombs on hand , since we cannot assume that he has exploded his entire stock .
+4
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 assume VERB assume%2:31:00::
+#25 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#28 stock NOUN stock%1:05:00::,stock%1:06:00::,stock%1:21:01::
+And now , of course , the hue and cry for counter escalation is being raised on our side .
+3
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#15 raise VERB raise%2:32:01::,raise%2:37:08::
+#18 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+So be it - then we must embark on a crash program for 200 - megaton bombs of the common or hydrogen variety , and neutron bombs , which do not exist but are said to be the coming thing .
+8
+#11 program NOUN program%1:09:00::,program%1:09:01::
+#19 common ADJ common%3:00:01::,common%5:00:00:familiar:02,common%5:00:00:ordinary:00
+#22 variety NOUN variety%1:07:00::,variety%1:09:01::,variety%1:10:00::,variety%1:14:01::
+#30 not ADV not%4:02:00::
+#31 exist VERB exist%2:42:00::
+#34 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#38 coming ADJ coming%5:00:01:future:00
+#39 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+So escalation proceeds , ad infinitum or , more accurately , until the contestants begin dropping them on each other instead of on their respective proving grounds .
+3
+#8 more ADV more%4:02:00::
+#14 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#15 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+The escalation must end sometime , and probably quite soon .
+1
+#9 soon ADV soon%4:02:00::
+" Only a discontinuity can end it " , Professor Morrison writes .
+1
+#1 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+" The discontinuity can either be that of war to destruction , or that of diplomatic policy " .
+2
+#15 diplomatic ADJ diplomatic%3:01:00::
+#16 policy NOUN policy%1:09:00::,policy%1:10:00::
+Morrison points out that since our country is more urbanized than the Soviet Union or Red China , it is the most vulnerable of the great powers - Europe of course must be written off out of hand .
+3
+#6 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#8 more ADV more%4:02:00::
+#21 most ADV most%4:02:00::
+He feels , therefore , that to seek a discontinuity in the arms policy of the United States is the least risky path our government can take .
+6
+#1 feel VERB feel%2:31:00::,feel%2:39:00::
+#12 arms NOUN arms%1:06:00::
+#13 policy NOUN policy%1:09:00::,policy%1:10:00::
+#20 least ADV less%4:02:01::
+#24 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#26 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+His proposal is opposed to that of Richard Nixon , Governor Rockefeller , past chairmen Strauss and McCone of the Atomic Energy Commission , Dr. Edward Teller and those others now enjoying their hour of triumph in the exacerbation of the cold war .
+7
+#1 proposal NOUN proposal%1:10:00::,proposal%1:10:01::
+#3 opposed ADJ opposed%3:00:00::
+#14 chairman NOUN chairman%1:18:01::
+#30 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#31 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+#33 hour NOUN hour%1:07:00::,hours%1:28:01::
+#35 triumph NOUN triumph%1:12:00::
+These gentlemen are calling for a resumption of testing - in the atmosphere - on the greatest possible scale , all in the name of national security .
+6
+#1 gentleman NOUN gentleman%1:18:00::
+#8 test NOUN test%1:04:00::,test%1:04:03::,test%1:09:02::,test%1:10:00::
+#12 atmosphere NOUN atmosphere%1:17:00::,atmosphere%1:23:00::,atmosphere%1:26:00::
+#16 great ADJ great%5:00:01:extraordinary:00,great%5:00:01:large:00,greater%3:00:00::
+#18 scale NOUN scale%1:24:01::,scale%1:24:03::
+#26 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+Escalation is their first love and their last ; they will be faithful unto death .
+3
+#3 first ADJ first%5:00:00:best:00
+#4 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#12 faithful ADJ faithful%3:00:00::
+Capable as their minds may be in some directions , these guardians of the nation 's security are incapable of learning , or even of observing .
+7
+#0 capable ADJ capable%5:00:00:adequate:00,capable%5:00:00:susceptible:00
+#3 mind NOUN mind%1:09:00::,mind%1:09:01::,mind%1:09:05::,mind%1:18:00::
+#8 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+#16 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#18 incapable ADJ incapable%3:00:02::
+#20 learn VERB learn%2:31:01::,learn%2:31:03::
+#25 observe VERB observe%2:32:00::,observe%2:39:00::,observe%2:39:01::,observe%2:39:02::
+If this capacity had not failed them , they would see that their enemy has made a disastrous miscalculation .
+3
+#2 capacity NOUN capacity%1:07:00::
+#4 not ADV not%4:02:00::
+#15 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+He has gained only one thing - he has exploded a 50 - megaton bomb and he probably has rockets with sufficient thrust to lob it over the shorter intercontinental ranges .
+7
+#2 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#9 explode VERB explode%2:30:01::,explode%2:30:02::,explode%2:30:03::,explode%2:30:04::,explode%2:31:00::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#19 rocket NOUN rocket%1:06:01::
+#22 thrust NOUN thrust%1:04:00::
+But if his purpose was to inspire terror , his action could hardly have miscarried more obviously .
+6
+#6 inspire VERB inspire%2:32:00::,inspire%2:32:01::,inspire%2:36:00::,inspire%2:37:00::
+#7 terror NOUN terror%1:04:00::
+#10 action NOUN action%1:04:01::,action%1:04:02::,action%1:26:00::
+#12 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#14 miscarry VERB miscarry%2:41:00::
+#15 more ADV more%4:02:00::
+Not terror , but anger and resentment have been the general reaction outside the Soviet sphere .
+2
+#1 terror NOUN terror%1:04:00::
+#15 sphere NOUN sphere%1:09:00::
+Khrushchev himself is reported to be concerned by the surge of animosity he has aroused , yet our own nuclear statesmen seem intent on following compulsively in his footsteps .
+5
+#3 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#6 concern VERB concern%2:42:01::
+#14 arouse VERB arouse%2:37:00::
+#18 own ADJ own%5:00:00:personal:00
+#19 nuclear ADJ nuclear%3:00:00::
+When one powerful nation strives to emulate the success of another , it is only natural .
+2
+#14 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#15 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+Thus , when the Russians sent up their first sputnik , American chagrin was human enough , and American determination to put American satellites into orbit was perfectly understandable .
+9
+#0 thus ADV thus%4:02:00::
+#4 Russian NOUN russian%1:18:00::
+#5 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#8 first ADJ first%3:00:00::,first%4:02:00::
+#15 enough ADV enough%4:02:00::
+#19 determination NOUN determination%1:07:00::
+#21 put VERB put%2:35:00::,put%2:35:05::
+#23 satellite NOUN satellite%1:06:00::
+#25 orbit NOUN orbit%1:15:00::
+But to imitate an opponent when he has made the mistake of his life would be a new high in statesmanlike folly .
+3
+#13 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#18 high NOUN high%1:15:00::
+#21 folly NOUN folly%1:04:01::
+When East Germans fled to the West by the thousands , paeans of joy rose from the throats of Western publicists .
+4
+#6 west NOUN west%1:15:00::,west%1:15:01::
+#14 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#19 western ADJ western%3:00:01::
+#20 publicist NOUN publicist%1:18:00::
+They are less vocal now , when it is the West Berliners who are migrating .
+3
+#2 less ADV less%4:02:00::,less%4:02:01::
+#3 vocal ADJ vocal%5:00:00:communicative:00
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The flood is not as great - only 700 a week according to one apparently conservative account - but it is symptomatic .
+4
+#1 flood NOUN flood%1:04:01::
+#3 not ADV not%4:02:00::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 account NOUN account%1:10:03::
+West Berlin morale is low and , in age distribution , the situation is unfavorable .
+3
+#8 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#12 situation NOUN situation%1:26:01::
+#14 unfavorable ADJ unfavorable%3:00:02::
+Nearly 18 per cent of West Berlin 's 2200000 residents are sixty-five or older , only 12.8 per cent are under fifteen .
+3
+#0 nearly ADV nearly%4:02:00::
+#9 resident NOUN resident%1:18:01::
+#15 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+R. H. S. Crossman , M.P. , writing in The Manchester Guardian , states that departures from West Berlin are now running at the rate not of 700 , but of 1700 a week , and applications to leave have risen to 1900 a week .
+8
+#7 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#13 state VERB state%2:32:01::,state%2:32:02::
+#20 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#21 run VERB run%2:30:03::,run%2:35:01::,run%2:38:13::,run%2:42:00::,run%2:42:01::,run%2:42:06::
+#24 rate NOUN rate%1:07:00::,rate%1:21:00::,rate%1:28:00::
+#36 application NOUN application%1:10:00::
+#38 leave VERB leave%2:38:00::,leave%2:41:00::
+#40 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+The official statistics show that 60 per cent are employed workers or independent professional people .
+4
+#3 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#10 worker NOUN worker%1:05:01::,worker%1:18:00::,worker%1:18:01::,worker%1:18:02::
+#13 professional ADJ professional%3:01:01::
+#14 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+Whole families are moving and removal firms are booked for months ahead .
+3
+#0 whole ADJ whole%3:00:00::
+#1 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#3 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+The weekly loss is partly counterbalanced by 500 arrivals each week from West Germany , but the hard truth , says Crossman , is that " The closing off of East Berlin without interference from the West and with the use only of East German , as distinct from Russian , troops was a major Communist victory , which dealt West Berlin a deadly , possibly a fatal , blow .
+9
+#20 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#33 interference NOUN interference%1:06:00::
+#36 west NOUN west%1:15:00::,west%1:15:01::
+#41 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#47 distinct ADJ distinct%5:00:00:separate:00
+#51 troop NOUN troop%1:14:00::
+#54 major ADJ major%3:00:05::,major%3:00:06::
+#59 deal VERB deal%2:40:01::
+#69 blow NOUN blow%1:04:01::
+The gallant half city is dying on its feet " .
+3
+#1 gallant ADJ gallant%5:00:00:brave:00
+#3 city NOUN city%1:15:00::,city%1:15:01::
+#5 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+Another piece of evidence appears in a dispatch from Bonn in the Observer ( London ) .
+3
+#4 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#7 dispatch NOUN despatch%1:10:00::
+#14 London NOUN london%1:15:00::
+Mark Arnold-Foster writes : " People are leaving [ West Berlin ] because they think it is dying .
+5
+#2 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#5 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#7 leave VERB leave%2:38:00::,leave%2:41:00::
+#14 think VERB think%2:31:01::,think%2:31:03::
+#17 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+They are leaving so fast that the president of the West German Employers' Federation issued an appeal this week to factory workers in the West to volunteer for six months ' front-line work in factories in West Berlin .
+8
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#3 so ADV so%4:02:03::,so%4:02:07::
+#7 president NOUN president%1:18:00::,president%1:18:01::,president%1:18:02::,president%1:18:03::
+#14 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#16 appeal NOUN appeal%1:10:00::,appeal%1:10:02::
+#24 west NOUN west%1:15:00::,west%1:15:01::
+#32 work NOUN work%1:04:00::
+#34 factory NOUN factory%1:06:00::
+Berlin 's resilience is amazing , but if it has to hire its labor in the West the struggle will be hard indeed " .
+6
+#2 resilience NOUN resilience%1:07:00::
+#11 hire VERB hire%2:41:00::
+#13 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#16 west NOUN west%1:15:00::,west%1:15:01::
+#21 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#22 indeed ADV indeed%4:02:03::
+The only hope for West Berlin lies in a compromise which will bring down the wall and reunite the city .
+2
+#2 hope NOUN hope%1:09:00::,hope%1:18:00::
+#19 city NOUN city%1:15:00::,city%1:15:01::
+State Department officials refusing to show their passes at the boundary , and driving two blocks into East Berlin under military escort , will not avail .
+4
+#5 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#7 pass NOUN pass%1:10:00::
+#13 drive VERB drive%2:34:07::,drive%2:35:01::,drive%2:35:03::,drive%2:35:06::,drive%2:35:07::,drive%2:38:00::
+#15 block NOUN block%1:15:00::
+Tanks lined up at the border will be no more helpful .
+2
+#0 tank NOUN tank%1:06:01::
+#5 border NOUN border%1:25:00::
+The materials for compromise are at hand : The Nation , Walter Lippmann and other sober commentators ( see Alan Clark on p. 367 ) have spelled them out again and again .
+2
+#1 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#14 other ADJ other%5:00:02:past:00
+A compromise will leave both sides without the glow of triumph , but it will save Berlin .
+4
+#3 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#5 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#10 triumph NOUN triumph%1:12:00::
+#15 save VERB save%2:30:00::,save%2:41:01::,save%2:41:02::,save%2:41:05::
+Or the city can be a graveyard monument to Western intransigence , if that is what the West wants .
+4
+#2 city NOUN city%1:15:00::,city%1:15:01::
+#9 western ADJ western%3:00:01::
+#17 west NOUN west%1:15:00::,west%1:15:01::
+#18 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+The removal of Stalin 's body from the mausoleum he shared with Lenin to less distinguished quarters in the Kremlin wall is not unprecedented in history .
+4
+#5 body NOUN body%1:08:00::,body%1:08:02::
+#16 quarter NOUN quarters%1:06:00::
+#22 not ADV not%4:02:00::
+#25 history NOUN history%1:28:02::
+A British writer , Richard Haestier , in a book , Dead Men Tell Tales , recalls that in the turmoil preceding French Revolution the body of Henry /4 , , who had died nearly 180 years earlier , was torn to pieces by a mob .
+9
+#1 British ADJ british%3:01:00::
+#9 book NOUN book%1:06:00::,book%1:10:00::,book%1:10:01::,book%1:10:02::,book%1:10:03::,book%1:10:04::
+#16 recall VERB recall%2:31:00::,recall%2:32:02::,recall%2:42:00::
+#25 body NOUN body%1:08:00::,body%1:08:02::
+#33 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#34 nearly ADV nearly%4:02:00::
+#36 year NOUN year%1:28:00::,year%1:28:01::
+#37 early ADV early%4:02:00::,early%4:02:01::,early%4:02:02::
+#40 tear VERB tear%2:35:00::,tear%2:35:01::
+And in England , after the Restoration , the body of Cromwell was disinterred and hanged at Tyburn .
+3
+#6 restoration NOUN restoration%1:04:00::
+#9 body NOUN body%1:08:00::,body%1:08:02::
+#15 hang VERB hang%2:41:00::
+The head was then fixed on a pole at Westminster , and the rest of the body was buried under the gallows .
+7
+#1 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#3 then ADV then%4:02:00::
+#4 fix VERB fix%2:30:00::,fix%2:35:00::
+#7 pole NOUN pole%1:06:02::
+#13 rest NOUN rest%1:24:00::
+#16 body NOUN body%1:08:00::,body%1:08:02::
+#18 bury VERB bury%2:39:00::
+Contemplating these posthumous punishments , Stalin should not lose all hope .
+2
+#8 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+#10 hope NOUN hope%1:09:00::,hope%1:18:00::
+In 1899 , Parliament erected a statue to Cromwell in Westminster , facing Whitehall and there , presumably , he still stands .
+3
+#12 face VERB face%2:38:00::,face%2:42:00::
+#15 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#20 still ADV still%4:02:00::
+Nikita Khrushchev , however , has created yet another problem for himself .
+3
+#3 however ADV however%4:02:04::
+#7 yet ADV yet%4:02:03::
+#9 problem NOUN problem%1:09:00::,problem%1:26:00::
+The Lenin tomb is obviously adequate for double occupancy , Moscow is a crowded city , and the creed of communism deplores waste .
+4
+#7 double ADJ double%5:00:02:multiple:00
+#10 Moscow NOUN moscow%1:15:00::
+#14 city NOUN city%1:15:00::,city%1:15:01::
+#22 waste NOUN waste%1:04:00::
+Who will take Stalin 's place beside Lenin ?
+1
+#2 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+There is Karl Marx , of course , buried in London .
+2
+#8 bury VERB bury%2:39:00::
+#10 London NOUN london%1:15:00::
+The Macmillan government might be willing to let him go , but he has been dead seventy-eight years and even the Soviet morticians could not make him look presentable .
+5
+#2 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#15 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#17 year NOUN year%1:28:00::,year%1:28:01::
+#25 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#27 look VERB look%2:39:01::,look%2:42:02::
+Who , then , is of sufficient stature to lodge with Lenin ?
+2
+#2 then ADV then%4:02:02::
+#9 lodge VERB lodge%2:42:02::
+Since he has just shown who is top dog , he may not be ready to receive this highest honor in the gift of the Soviet people .
+5
+#12 not ADV not%4:02:00::
+#16 receive VERB receive%2:30:00::,receive%2:34:00::,receive%2:35:00::,receive%2:39:03::,receive%2:40:00::,receive%2:41:00::
+#19 honor NOUN honor%1:07:00::
+#22 gift NOUN gift%1:04:00::
+#26 people NOUN people%1:14:01::
+Besides , he can hardly avoid musing on the instability of death which , what with exhumations and rehabilitations , seems to match that of life .
+4
+#4 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+#5 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#22 match VERB match%2:30:01::,match%2:35:08::
+#25 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+Suppose he did lie beside Lenin , would it be permanent ?
+1
+#0 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+If some future Khrushchev decided to rake up the misdeeds of his revered predecessor , would not the factory workers pass the same resolutions applauding his dispossession ?
+3
+#20 pass VERB pass%2:41:02::
+#22 same ADJ same%3:00:00::,same%3:00:02::
+#23 resolution NOUN resolution%1:07:00::,resolution%1:10:01::
+When a man is laid to rest , he is entitled to stay put .
+1
+#10 entitle VERB entitled%5:00:00:eligible:00
+If Nikita buys a small plot in some modest rural cemetery , everyone will understand .
+4
+#2 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#5 plot NOUN plot%1:15:00::
+#8 modest ADJ modest%5:00:00:moderate:00
+#14 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+The appointment of U Thant of Burma as the U.N.'s Acting Secretary General - at this writing , the choice appears to be certain - offers further proof that in politics it is more important to have no influential enemies than to have influential friends .
+7
+#1 appointment NOUN appointment%1:18:00::
+#20 appear VERB appear%2:30:00::
+#23 certain ADJ certain%3:00:01::
+#26 further ADJ further%5:00:00:far:00
+#27 proof NOUN proof%1:09:00::
+#33 more ADV more%4:02:00::
+#44 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+Mongi Slim of Tunisia and Frederick Boland of Ireland were early favorites in the running , but France did n't like the former and the Soviet Union would have none of the latter .
+3
+#10 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#20 like VERB like%2:37:05::
+#32 latter ADJ latter%3:00:00::
+With the neutralists maintaining pressure for one of their own to succeed Mr. Hammarskjold , U Thant emerged as the only possible candidate unlikely to be waylaid by a veto .
+4
+#3 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#4 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+#9 own ADJ own%5:00:00:personal:00
+#11 succeed VERB succeed%2:41:00::,succeed%2:41:01::
+What is interesting is that his positive qualifications for the post were revealed only as a kind of tail to his candidacy .
+4
+#7 qualification NOUN qualification%1:07:00::
+#10 post NOUN post%1:04:00::
+#13 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#18 tail NOUN tail%1:06:01::
+In all the bitter in-fighting , the squabbles over election procedures , the complicated numbers game that East and West played on the assistant secretaries ' theme , the gentleman from Burma showed himself both as a man of principle and a skilled diplomat .
+7
+#3 bitter ADJ bitter%5:00:00:hostile:01,bitter%5:00:00:resentful:00
+#13 complicated ADJ complicated%5:00:00:complex:00
+#19 west NOUN west%1:15:00::,west%1:15:01::
+#20 play VERB play%2:29:00::,play%2:31:01::,play%2:33:00::,play%2:34:13::,play%2:41:00::,play%2:41:03::,play%2:41:13::
+#26 theme NOUN theme%1:10:02::
+#29 gentleman NOUN gentleman%1:18:00::
+#39 principle NOUN principle%1:09:01::,principle%1:09:02::,principle%1:09:03::,principle%1:09:04::,principle%1:10:00::
+He has , moreover , another qualification which augurs well for the future .
+4
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#6 qualification NOUN qualification%1:07:00::
+#9 well ADV best%4:02:01::,well%4:02:01::,well%4:02:07::,well%4:02:08::,well%4:02:09::,well%4:02:10::,well%4:02:13::
+#12 future NOUN future%1:10:00::,future%1:28:00::
+He is a Buddhist , which means that to him peace and the sanctity of human life are not only religious dogma , but a profound and unshakable Weltanschauung .
+3
+#10 peace NOUN peace%1:10:00::,peace%1:26:00::,peace%1:26:01::,peace%1:26:02::
+#16 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+#25 profound ADJ profound%5:00:00:intense:00
+U Thant of course , will hold office until the spring of 1963 , when Mr. Hammarskjold 's term would have come to an end .
+5
+#6 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+#7 office NOUN office%1:04:02::,office%1:14:01::,office%1:26:00::
+#10 spring NOUN spring%1:28:00::
+#18 term NOUN term%1:28:00::,term%1:28:01::
+#24 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+Whether the compromises - on both sides - that made possible the interim appointment can then be repeated remains to be seen .
+4
+#6 side NOUN side%1:09:00::,side%1:10:00::,side%1:14:00::,side%1:14:01::
+#13 appointment NOUN appointment%1:18:00::
+#17 repeat VERB repeat%2:30:00::,repeat%2:36:00::,repeat%2:41:00::
+#21 see VERB see%2:31:00::,see%2:31:08::,see%2:31:13::,see%2:36:00::,see%2:39:02::
+Mr. Khrushchev 's demand for a troika is dormant , not dead ; the West may or not remain satisfied with the kind of neutralism that U Thant represents .
+3
+#6 troika NOUN troika%1:14:00::
+#11 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#14 west NOUN west%1:15:00::,west%1:15:01::
+In a sense , the showdown promised by Mr. Hammarskjold 's sudden and tragic death has been avoided ; no precedents have been set as yet ; structurally , the U.N. is still fluid , vulnerable to the pressures that its new and enlarged membership are bringing to bear upon it .
+5
+#6 promise VERB promise%2:32:02::,promise%2:42:00::
+#13 tragic ADJ tragic%5:00:00:sad:00
+#17 avoid VERB avoid%2:32:00::,avoid%2:34:00::,avoid%2:41:01::
+#23 set VERB set%2:30:01::,set%2:32:00::,set%2:32:01::,set%2:36:12::,set%5:00:00:ready:00
+#38 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+But at least the pessimists who believed that the world organization had plunged to its death in that plane crash in the Congo have been proved wrong .
+5
+#18 plane NOUN plane%1:06:01::
+#19 crash NOUN crash%1:11:00::
+#22 Congo NOUN congo%1:15:01::
+#25 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+#26 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+No one who has studied the radical Right can suppose that words are their sole staple in trade .
+5
+#4 study VERB study%2:31:00::,study%2:31:02::,study%2:31:03::,study%2:39:00::
+#6 radical ADJ radical%5:00:00:new:00
+#9 suppose VERB suppose%2:31:00::,suppose%2:31:05::,suppose%2:32:00::
+#11 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#15 staple NOUN staple%1:27:00::
+These are mentalities which crave action - and they are beginning to get it , as Messrs. Salsich and Engh report on page 372 .
+5
+#2 mentality NOUN mentality%1:09:01::
+#5 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#20 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#22 page NOUN page%1:10:00::
+Even in areas where political connotations are ( deliberately ? )
+2
+#2 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+#8 deliberately ADV deliberately%4:02:00::
+left vague , the spirit of vigilantism is spreading .
+3
+#0 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#4 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#8 spread VERB spread%2:32:00::,spread%2:35:00::,spread%2:35:07::,spread%2:38:00::,spread%2:38:02::,spread%2:42:00::
+Friends , a picture magazine distributed by Chevrolet dealers , describes a paramilitary organization of employees of the Gulf Telephone Company at Foley , Alabama .
+4
+#4 magazine NOUN magazine%1:10:00::
+#5 distribute VERB distribute%2:32:00::,distribute%2:40:00::,distribute%2:41:00::,distribute%2:42:02::
+#8 dealer NOUN dealer%1:18:02::
+#10 describe VERB describe%2:32:01::
+" If the day should ever come that foreign invaders swarm ashore along the Gulf Coast " , the account reads , " they can count on heavy opposition from a group of commando trained telephone employees - all girls .
+10
+#3 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#5 ever ADV ever%4:02:05::
+#6 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#8 foreign ADJ foreign%3:00:01::,foreign%3:00:02::,foreign%5:00:00:adulterating:00
+#10 swarm VERB swarm%2:38:00::
+#19 account NOUN account%1:10:03::
+#20 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#27 heavy ADJ heavy%3:00:01::,heavy%5:00:00:cloudy:00,heavy%5:00:00:compact:00,heavy%5:00:00:dull:03,heavy%5:00:00:heavy-footed:00,heavy%5:00:00:indigestible:00,heavy%5:00:04:thick:01
+#35 telephone NOUN telephone%1:06:00::,telephone%1:10:00::
+#39 girl NOUN girl%1:18:01::,girl%1:18:03::
+Heavily armed and mobilized as a fast moving Civil Defense outfit , 23 operators and office personnel stand ready to move into action at a minute 's notice " .
+11
+#0 heavily ADV heavily%4:02:00::
+#1 armed ADJ armed%3:00:03::
+#3 mobilize VERB mobilise%2:30:02::
+#6 fast ADV fast%4:02:01::
+#7 moving ADJ moving%3:00:02::
+#15 office NOUN office%1:06:00::
+#17 stand VERB stand%2:31:01::,stand%2:32:02::,stand%2:35:10::,stand%2:42:01::,stand%2:42:03::,stand%2:42:04::
+#18 ready ADJ ready%3:00:00::,ready%5:00:00:prepared:00,ready%5:00:00:willing:00
+#22 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#25 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#27 notice NOUN notice%1:10:03::
+According to Friends , the unit was organized by John Snook , a former World War /2 , commando who is vice president and general manager of the telephone company .
+3
+#5 unit NOUN unit%1:03:00::,unit%1:14:00::,unit%1:17:00::,unit%1:24:00::
+#7 organize VERB organize%2:30:00::,organize%2:31:00::,organize%2:41:00::,organize%2:41:01::,organize%2:41:02::
+#13 former ADJ former%5:00:01:past:00,former%5:00:02:past:00
+The girls , very fetching in their uniforms , are shown firing rockets from a launcher mounted on a dump truck ; they are also trained with carbines , automatic weapons , pistols , rifles and other such ladies ' accessories .
+12
+#1 girl NOUN girl%1:18:01::,girl%1:18:03::
+#7 uniform NOUN uniform%1:06:00::
+#10 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#11 fire VERB fire%2:33:00::,fire%2:33:02::
+#12 rocket NOUN rocket%1:06:01::
+#16 mount VERB mount%2:30:01::,mount%2:35:00::,mount%2:36:01::
+#25 train VERB train%2:29:00::,train%2:31:00::,train%2:31:01::,train%2:32:00::,train%2:41:02::,train%2:41:03::
+#29 automatic ADJ automatic%3:00:00::
+#32 pistol NOUN pistol%1:06:00::
+#36 other ADJ other%5:00:02:past:00
+#38 lady NOUN lady%1:18:01::,lady%1:18:02::
+#40 accessory NOUN accessory%1:06:00::
+This may be opera bouffe now , but it will become more serious should the cold war mount in frenzy .
+4
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#10 become VERB become%2:30:00::,become%2:42:01::
+#11 more ADV more%4:02:00::
+#17 mount VERB mount%2:30:00::,mount%2:36:01::
+The country is committed to the doctrine of security by military means .
+3
+#1 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#8 security NOUN security%1:04:00::,security%1:12:00::,security%1:26:00::
+#11 means NOUN means%1:06:00::
+The doctrine has never worked ; it is not working now .
+5
+#3 never ADV never%4:02:00::
+#4 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#8 not ADV not%4:02:00::
+#9 work VERB work%2:35:02::,work%2:36:01::,work%2:38:02::,work%2:39:10::,work%2:41:03::,work%2:41:10::,work%2:41:11::
+#10 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+The official military establishment can only threaten to use its nuclear arms ; it cannot bring them into actual play .
+7
+#3 establishment NOUN establishment%1:14:01::,establishment%1:14:02::;1:14:00::
+#5 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#10 nuclear ADJ nuclear%3:00:00::
+#11 arms NOUN arms%1:06:00::
+#18 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+#19 play NOUN play%1:04:01::,play%1:04:02::,play%1:04:03::,play%1:26:00::,play%1:28:00::
+A more dangerous formula for national frustration cannot be imagined .
+3
+#1 more ADV more%4:02:00::
+#3 formula NOUN formula%1:09:00::,formula%1:10:01::
+#9 imagine VERB imagine%2:31:01::
+As the civic temper rises , the more naive citizens begin to play soldier - but the guns are real .
+5
+#3 temper NOUN temper%1:12:00::
+#4 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+#7 more ADV more%4:02:00::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#13 soldier NOUN soldier%1:18:00::
+Soon they will begin to hunt down the traitors they are assured are in our midst .
+3
+#0 soon ADV soon%4:02:00::
+#3 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#11 assure VERB assure%2:32:01::,assure%2:32:02::

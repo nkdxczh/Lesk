@@ -1,0 +1,328 @@
+Did n't you read it ?
+1
+#3 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+She 's married that tenant ! "
+1
+#2 marry VERB marry%2:41:00::,marry%2:41:01::
+" I read it , yes .
+1
+#2 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+This ought to simplify Tolley 's life " .
+1
+#1 ought VERB ought%2:42:00::
+Laban had more to say .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Tolley had gone to live in California .
+1
+#4 live VERB live%2:42:08::
+He 'd mentioned it , himself , at church and everybody seemed to have the idea that Tolley had left because Jenny had jilted him for Roy robards .
+2
+#13 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 leave VERB leave%2:38:00::,leave%2:41:00::
+Zion stayed to get my pin , but it 'll be a cold day in June when I go back " .
+1
+#1 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+Kizzie turned to go inside .
+2
+#1 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#3 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+" Let me stay and take the pictures you wanted , Mamma .
+4
+#1 let VERB let%2:30:01::,let%2:41:00::
+#3 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#5 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#9 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+She swung around .
+1
+#1 swing VERB swing%2:35:00::,swing%2:38:00::,swing%2:38:03::
+You told me to bring my camera .
+1
+#1 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Why should I want pictures of an empty room now ?
+1
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Tolley had no idea of marrying that sneaky little Jenny !
+2
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#5 marry VERB marry%2:41:00::,marry%2:41:01::
+This - trip of his had nothing to do with her consorting with tenants , and I am going to see that everybody at Mt. Pleasant understands that simple fact .
+3
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+#26 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+Wait for me , Laban , I 'll be dressed in half a second " !
+1
+#0 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Frank followed her into the bedroom , hooked her dress up the back .
+2
+#1 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#7 hook VERB hook%2:35:00::
+You know it and I 'll tell everybody exactly how it happened " .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+What else was there to say ?
+1
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Returning to the log-house he found some favorite lines from Jonathan Swift on his lips : " Under the window in stormy weather I marry this man and woman together .
+3
+#0 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#5 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#24 marry VERB marry%2:41:00::,marry%2:41:01::
+Let none but Him who rules the thunder Put this man and woman asunder " .
+2
+#0 let VERB let%2:30:01::,let%2:41:00::
+#5 rule VERB rule%2:31:00::,rule%2:41:00::,rule%2:42:00::,rule%2:42:01::
+He questioned God 's taking time to telegraph the message , but he felt better about Kizzie , and he took the sealed envelope from its pigeonhole , wondering why he had preserved it .
+4
+#4 take VERB take%2:40:06::,take%2:42:03::
+#13 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#20 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#28 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+If he died before she did , she would never be unable to resist opening it .
+2
+#2 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#14 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+In any case he would be thrusting a burden on his remaining sons , making them parties to a deception peculiarly his own .
+1
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It was simply his necessity to confess which had made him write and keep this thing .
+3
+#9 make VERB make%2:36:15::
+#11 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#13 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+" You 've told God , Frank " , he said .
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#10 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Reaching for an old clay pot , relic of pioneer days , he tore the envelope in pieces , dropping them into it , touching the little pyre to flame , watching it curl , the red sealing wax melting and bubbling in the feathery ash .
+6
+#0 reach VERB reach%2:35:00::,reach%2:38:06::,reach%2:40:00::,reach%2:42:00::
+#13 tear VERB tear%2:35:00::,tear%2:35:01::
+#19 drop VERB drop%2:29:00::,drop%2:34:00::,drop%2:35:00::,drop%2:38:00::
+#31 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#33 curl VERB curl%2:35:01::
+#39 melt VERB melt%2:30:00::
+" ' And let me go , for the night gathers me , and in the night shall no man gather fruit " ' .
+2
+#3 let VERB let%2:30:01::,let%2:41:00::
+#20 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+He poured his thimble of wine for the toast he 'd made so often .
+1
+#11 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+But this last time he drank not to Brace but " To Tolley " !
+1
+#5 drink VERB drink%2:34:00::,drink%2:34:01::,drink%2:34:12::
+Mr. Robards - Jenny was the only person she knew of in the Mt. Pleasant neighborhood who called him that - was kind but too easygoing .
+1
+#17 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+It did n't bother him for everybody from the blacksmith to the preacher to say , " Howdy , Miss Jenny " , adding a careless " Roy " , but it did her .
+3
+#3 bother VERB bother%2:37:00::,bother%2:41:00::,bother%2:41:01::
+#14 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#23 add VERB add%2:32:01::
+He could put a stop to it , she told him again and again .
+1
+#9 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+Simply call Mr. Whipsnade Oscar , and Dr. Dunne P. G. , and C ' un Major Frank .
+1
+#1 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Mr. Robards laughed , said he 'd feel a damn fool , plain-out could n't do that even to please her .
+3
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#19 please VERB please%2:37:00::,please%2:37:03::
+" You could try .
+1
+#3 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+And if I ever hear you say ' Mist Laban ' again I 'll scream .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+And do n't tell me you did n't at church Sunday .
+1
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He really had n't meant to , he assured her , but it was plain to her that the importance of these small things was lost on Mr. Robards .
+1
+#8 assure VERB assure%2:32:01::,assure%2:32:02::
+How strange it was that he could give her this handsome house and carte blanche as to its beautiful furnishings , and fail her in - spiritual ways .
+1
+#7 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+Another weakness - far more irritating than his manner of speaking , which he made only token effort to change - was his devotion to that old horse of Tolley 's .
+2
+#14 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#19 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+He called her " the Mare " much as Mrs. Whipsnade spoke of " the Queen , God bless her " .
+2
+#1 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+#11 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+For the first few months of their marriage she had tried to be nice about Gunny , going out with him to watch this pearl without price stamp imperiously around in her stall .
+4
+#10 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#17 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#22 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#27 stamp VERB stamp%2:38:00::
+And what had happened ?
+1
+#3 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+Gunny invariably tried to bite her .
+2
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#4 bite VERB bite%2:35:00::
+Nerves , Mr. Robards said , just a nip anyway .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Never , " Quit that , you sor ' l devil " !
+1
+#3 quit VERB quit%2:38:00::
+Never concern for his wife 's nerves , or the danger that the curled lip and big teeth might mark their own dear baby due in January .
+1
+#19 mark VERB mark%2:30:00::
+Listening for hours to his laments that the war and " Mist Fair 's " poverty afterwards had robbed the mare of many a racing triumph , and to his predictions of greatness for the procession of foals to come , Jenny could look forward to years of conflict with an animal who disliked her intensely and showed it .
+1
+#57 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+Gunny symbolized so much that was unpleasant - Tolley , the indifference with which the Fairbrothers and indeed the whole neighborhood now treated her and which she would die rather than acknowledge to her husband , his lack of understanding and sympathy in her present condition , her disgusting swollen stomach .
+3
+#22 treat VERB treat%2:29:00::,treat%2:30:01::,treat%2:31:00::,treat%2:32:00::,treat%2:41:00::,treated%3:00:00::
+#28 die VERB die%2:30:00::
+#31 acknowledge VERB acknowledge%2:32:00::
+Jenny 's aversion to having Dr. Dunne , a former admirer , seemed silly to him , but he would humor her , get anybody she wanted , the best never being too good for her .
+1
+#26 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+The chances were against his being here to humor her when her time came , she was sure .
+1
+#13 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+He would be in the barn , or riding for the veterinarian !
+1
+#8 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+Night after night he stayed with Gunny in the dead of winter , rubbing her with quarts of expensive liniment , fussing over her bran mash as the cook did over charlotte russe , tracking manure on the pretty new carpet when he did come to the house .
+2
+#34 track VERB track%2:38:00::
+#44 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+Yet when the dear baby came , he had Tillie over here in a jiffy , and was as attentive and sweet and worried and happy when it was all over as any husband could have been .
+1
+#5 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+Jenny wished now that she had had Dr. Dunne , feeling that somehow he would n't have allowed the dear baby to turn into triplets .
+2
+#10 feel VERB feel%2:31:00::,feel%2:39:00::
+#17 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+There was something not nice about triplets , though their father seemed pleased , showing no disappointment that they had n't been the son he wanted , saying , " You do n't see triplets trippin ' down the pike ever ' day , Miss Jen , hon .
+4
+#14 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#25 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#27 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#33 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Edmonia for her mother , she said firmly , Jennifer , for herself , and - .
+1
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Just wait till she saw the Mare 's foal .
+2
+#1 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#4 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" Why do n't you name him Jesus Christ ! "
+1
+#5 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+He 'd had no idea how unhappy his sweet peach had been .
+1
+#2 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Of course she was n't herself right now , but as her strength came back her spirits did n't seem to rise with it .
+1
+#21 rise VERB rise%2:30:00::,rise%2:30:03::,rise%2:37:00::,rise%2:38:02::
+He had a good idea why not .
+1
+#1 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Those elegant " At Home " cards she sent out , now she could wear her pretty clothes again , and had the house all trimmed up , had n't brought many callers in two whole months .
+2
+#14 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#21 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Doc Dunne and Miss Sis had come .
+1
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+So had Miss Shawnee Rakestraw , full of criticisms about the changes here , giving thanks that her dear old father had gone to his Heavenly Rest last year , saying how much she enjoyed her boarding house in town in inclement weather , was looking forward to Quinzaine Spa this summer .
+3
+#22 go VERB go%2:30:03::,go%2:34:00::,go%2:38:01::,go%2:42:00::
+#30 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#34 enjoy VERB enjoy%2:34:00::;2:37:00::,enjoy%2:37:00::
+Miss Kizzie had been right snippy ever since they were married , though you 'd have thought a namesake would have brought her round .
+1
+#10 marry VERB marry%2:41:00::,marry%2:41:01::
+Oh , she 'd come to see them once , left silver teething rings for all of the trips .
+3
+#4 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#6 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#10 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+But when Miss Jen went over right away to return the call , Miss Kiz could n't have been very cordial , for she 'd come back before she hardly had time to get there .
+3
+#4 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#9 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#30 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+More and more , these days , she 'd been driving that pretty little mare that looked like her , over to Tillie 's and Nick 's - his own old square frame box on posts , chickens and cats and pups under the house , everybody friendly inside , making a to-do over the babies dressed like dollies .
+1
+#50 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+It made him pretty hot under the collar , after the idea Miss Sis had given him , to be told by Miss Kiz that her holy spa was all reserved for this summer and next , if you please , and that much as she regretted it , they would be unable to entertain Mrs. Robards and the children .
+3
+#1 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#20 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#54 entertain VERB entertain%2:41:00::
+He did n't tell Miss Jen , but she must have got word from the cook or nurse , who of course knew those Quinzaine nigs , and she really took a fit .
+2
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#22 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+If he ever did such a thing again she 'd die of shame .
+1
+#10 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+" Have a party an ' leave ' em out , hon " , he suggested .
+1
+#1 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+" A swell party , send an invite to ever ' body but them - those folks you met at the Galt House , the ones I 've got to know in this new Jockey Club affair , the whole dang neighborhood .
+4
+#5 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#18 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#28 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+#30 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+We 'll have oystchers - couple bar ' l oystchers 'll fetch in a crowd any time .
+1
+#2 have VERB have%2:29:00::,have%2:34:00::,have%2:36:00::
+I 'll see word gets round " .
+1
+#2 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+" Do n't you dare ! "
+1
+#4 dare VERB dare%2:41:01::
+He was downright worried about her , but there was one more thing he could try .
+1
+#15 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+Zion was surprised when Roy 's buggy stopped beside her on the pike one early summer day as she was walking home from the country school where she was teaching now that Eph Showers had had a call to preach in some mountain town .
+2
+#7 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#20 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+Roy smiled - he did have a nice smile - took off his hat most politely , told her to hop in , and he 'd give her a lift to Quinzaine .
+3
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#20 hop VERB hop%2:38:04::
+Her hesitation was only momentary and she hoped he did n't notice it , as she settled herself , asked quickly how Miss Jenny and the babies were getting on .
+2
+#16 settle VERB settle%2:35:00::,settle%2:38:01::,settle%2:38:04::,settle%2:38:07::,settle%2:38:09::
+#19 ask VERB ask%2:32:00::,ask%2:32:04::
+" See for yourself , Miss Zion .
+1
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+It won n't take a minute " .
+1
+#3 take VERB take%2:40:06::,take%2:42:03::
+" Them 's the purtiest babes you ever did see , but Miss Jen gets mighty lonesome .
+2
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#14 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::
+She 'll relish the sight of a friendly face .
+1
+#2 relish VERB relish%2:37:00::
+Miss Kiz won n't care your comin ' , will she " ?
+1
+#4 care VERB care%2:37:00::,care%2:37:12::
+" Why of course not " , Zion said uncomfortably .
+1
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::

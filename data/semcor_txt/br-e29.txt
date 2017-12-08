@@ -1,0 +1,578 @@
+ The controversy of the last few years over whether architects or interior designers should plan the interiors of modern buildings has brought clearly into focus one important difference of opinion .
+4
+#4 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#14 plan VERB plan%2:36:01::
+#16 interior NOUN interior%1:15:00::
+#19 building NOUN building%1:06:00::
+The architects do not believe that the education of the interior designer is sufficiently good or sufficiently extended to compare with that of the architect and that , therefore , the interior designer is incapable of understanding the architectural principles involved in planning the interior of a building .
+11
+#3 not ADV not%4:02:00::
+#4 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+#7 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#14 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#19 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#34 incapable ADJ incapable%3:00:02::
+#36 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#39 principle NOUN principle%1:09:00::,principle%1:09:03::
+#42 plan VERB plan%2:36:01::
+#44 interior NOUN interior%1:15:00::
+#47 building NOUN building%1:06:00::
+Ordinary politeness may have militated against this opinion being stated so badly but anyone with a wide acquaintance in both groups and who has sat through the many round tables , workshops or panel discussions - whatever they are called - on this subject will recognize that the final , boiled down crux of the matter is education .
+10
+#0 ordinary ADJ ordinary%3:00:00::,ordinary%5:00:02:common:01
+#9 state VERB state%2:32:01::,state%2:32:02::
+#10 so ADV so%4:02:03::,so%4:02:07::
+#11 badly ADV badly%4:02:00::
+#16 wide ADJ wide%5:00:00:large:00
+#17 acquaintance NOUN acquaintance%1:09:00::
+#24 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#31 workshop NOUN workshop%1:04:00::
+#43 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+#57 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+It is true that most architectural schools have five year courses , some even have six or more .
+5
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#6 school NOUN school%1:14:00::,school%1:14:03::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 course NOUN course%1:04:01::,course%1:14:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The element of public danger which enters so largely into architectural certification , however , would demand a prolonged study of structure .
+4
+#1 element NOUN element%1:06:00::,element%1:09:00::
+#3 public ADJ public%3:00:00::,public%5:00:00:common:02
+#7 so ADV so%4:02:03::,so%4:02:07::
+#13 however ADV however%4:02:04::
+This would , naturally , lengthen their courses far beyond the largely esthetic demands of interior designer 's training .
+5
+#3 naturally ADV naturally%4:02:00::
+#7 course NOUN course%1:04:01::,course%1:14:00::
+#8 far ADV far%4:02:02::
+#9 beyond ADV beyond%4:02:01::
+#18 training NOUN training%1:04:00::
+We may then dismiss the time difference between these courses and the usual four year course of the interior design student as not having serious bearing on the subject .
+7
+#5 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#15 course NOUN course%1:04:01::,course%1:14:00::
+#22 not ADV not%4:02:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 bearing NOUN bearing%1:24:01::
+#28 subject NOUN subject%1:09:01::,subject%1:10:01::,subject%1:10:02::,subject%1:18:01::
+The real question that follows is - how are those four years used and what is their value as training ?
+5
+#1 real ADJ real%3:00:00::,real%5:00:00:true:00
+#4 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#12 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+#17 value NOUN value%1:21:00::,values%1:09:00::
+#19 training NOUN training%1:04:00::
+The American Institute of Interior Designers has published a recommended course for designers and a percentage layout of such a course .
+3
+#7 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#10 course NOUN course%1:04:01::,course%1:14:00::
+#20 course NOUN course%1:04:01::,course%1:14:00::
+An examination of some forty catalogs of schools offering courses in interior design , for the most part schools accredited by membership in the National Association of Schools of Art , and a further " on the spot " inspection of a number of schools , show their courses adhere pretty closely to the recommendations .
+10
+#1 examination NOUN examination%1:09:03::
+#7 school NOUN school%1:14:00::,school%1:14:03::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#18 school NOUN school%1:14:00::,school%1:14:03::
+#19 accredit VERB accredit%2:41:01::
+#33 further ADV further%4:02:02::,further%4:02:03::
+#42 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#44 school NOUN school%1:14:00::,school%1:14:03::
+#46 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#48 course NOUN course%1:04:01::,course%1:14:00::
+One or two of the schools have a five year curriculum , but the usual pattern of American education has limited most of them to the four year plan which seems to be the minimum in acceptable institutions .
+6
+#5 school NOUN school%1:14:00::,school%1:14:03::
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#28 plan NOUN plan%1:09:00::
+#36 acceptable ADJ acceptable%3:00:00::
+#37 institution NOUN institution%1:14:00::
+The suggested course of the A.I.D. was based on the usual course offered and on the opinion of many educators as to curricular necessities .
+4
+#2 course NOUN course%1:04:01::,course%1:14:00::
+#7 base VERB base%2:31:00::
+#11 course NOUN course%1:04:01::,course%1:14:00::
+#23 necessity NOUN necessity%1:26:00::
+Obviously , the four year provision limits this to fundamentals and much desirable material must be eliminated .
+1
+#13 material NOUN material%1:06:01::,material%1:10:00::
+Without comparing the relative merits of the two courses - architecture versus interior design - let us examine the educational needs of the interior designer .
+5
+#1 compare VERB compare%2:31:00::,compare%2:31:01::,compare%2:42:00::
+#3 relative ADJ relative%3:00:00::,relative%5:00:00:proportionate:00
+#8 course NOUN course%1:04:01::,course%1:14:00::
+#10 architecture NOUN architecture%1:04:00::
+#17 examine VERB examine%2:31:00::,examine%2:32:01::
+" The Dictionary of Occupational Titles " published by the U. S. Department of Labor describes him as follows :
+2
+#7 publish VERB publish%2:32:00::,publish%2:36:00::,publish%2:36:01::
+#15 describe VERB describe%2:32:01::
+" Designs , plans and furnishes interiors of houses , commercial and institutional structures , hotels , clubs , ships , theaters , as well as set decorations for motion picture arts and television .
+6
+#3 plan VERB plan%2:36:01::
+#6 interior NOUN interior%1:15:00::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#10 commercial ADJ commercial%3:00:00::
+#15 hotel NOUN hotel%1:06:00::
+#33 television NOUN television%1:06:00::
+Makes drawings and plans of rooms showing placement of furniture , floor coverings , wall decorations , and determines color schemes .
+7
+#1 drawing NOUN drawing%1:04:01::
+#3 plan NOUN plan%1:06:00::,plan%1:09:01::
+#5 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#6 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#9 furniture NOUN furniture%1:06:00::
+#15 decoration NOUN decoration%1:06:00::
+#18 determine VERB determine%2:31:03::,determine%2:32:00::,determine%2:32:01::
+Furnishes complete cost estimates for clients approval .
+3
+#1 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+#5 client NOUN client%1:18:00::
+#6 approval NOUN approval%1:26:00::
+Makes necessary purchases , places contracts , supervises construction , installation , finishing and placement of furniture , fixtures and other correlated furnishings , and follows through to completion of project " .
+8
+#0 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#1 necessary ADJ necessary%3:00:00::
+#2 purchase NOUN purchase%1:04:00::
+#10 installation NOUN installation%1:04:00::
+#16 furniture NOUN furniture%1:06:00::
+#18 fixture NOUN fixture%1:06:00::
+#20 other ADJ other%5:00:02:past:00
+#30 project NOUN project%1:04:00::,project%1:09:00::
+In addition to this the U. S. Civil Service Bureau , when examining applicants for government positions as interior designers , expects that " when various needed objects are not obtainable on the market he will design them .
+5
+#15 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+#16 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#27 object NOUN object%1:03:00::
+#29 not ADV not%4:02:00::
+#33 market NOUN market%1:04:00::,market%1:14:00::,market%1:14:01::
+He must be capable of designing for and supervising the manufacture of any craft materials needed in the furnishings " .
+4
+#13 craft NOUN craft%1:09:01::
+#14 material NOUN material%1:06:00::,material%1:06:01::,material%1:18:00::,material%1:27:00::
+#15 need VERB need%2:42:00::
+#18 furnishing NOUN furnishing%1:06:00::
+The interior designer , then , must first be an artist but also understand carpentry and painting and lighting and plumbing and finance .
+4
+#4 then ADV then%4:02:02::
+#13 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#18 lighting NOUN lighting%1:26:00::
+#20 plumbing NOUN plumbing%1:04:01::
+Yet nobody will question the necessity of all this and any reputable interior designer does know all this and does practice it .
+3
+#5 necessity NOUN necessity%1:26:00::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#20 practice VERB practice%2:41:00::,practice%2:41:01::,practice%2:41:03::
+And further he must understand his obligation to the client to not only meet his physical necessities but also to enhance and improve his life and to enlarge the cultural horizon of our society .
+8
+#1 further ADV further%4:02:02::,further%4:02:03::
+#4 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+#9 client NOUN client%1:18:00::
+#13 meet VERB meet%2:41:02::,meet%2:42:01::
+#15 physical ADJ physical%3:00:00::,physical%5:00:00:energetic:00
+#16 necessity NOUN necessity%1:26:00::
+#30 horizon NOUN horizon%1:07:00::
+#33 society NOUN society%1:14:00::,society%1:14:02::
+Few will quarrel with the aim of the schools or with the wording of their curriculum .
+3
+#2 quarrel VERB quarrel%2:32:00::
+#5 aim NOUN aim%1:09:00::
+#12 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+It is in the quality of the teaching of all this that a question may arise .
+2
+#4 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+#15 arise VERB arise%2:30:00::,arise%2:42:01::
+The old established independent art schools try their best to fulfill their obligations .
+5
+#1 old ADJ old%3:00:01::
+#2 established ADJ established%3:00:00::
+#3 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#8 good ADJ best%3:00:00::,good%3:00:01::
+#10 fulfill VERB fulfil%2:36:00::
+Yet even here many a problem is presented ; as in a recent design competition with a floor plan and the simple command - " design a luxury apartment " ; no description of the client or his cultural level , no assertion of geographical area or local social necessities - simply " a luxury apartment " .
+11
+#5 problem NOUN problem%1:09:00::,problem%1:26:00::
+#7 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#12 recent ADJ recent%5:00:00:past:00
+#13 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#21 simple ADJ simple%3:00:02::,simple%5:00:02:plain:01
+#32 description NOUN description%1:10:00::,description%1:10:01::
+#35 client NOUN client%1:18:00::
+#39 level NOUN level%1:26:00::,level%1:26:01::
+#48 social ADJ social%3:00:00::,social%3:01:00::,social%3:01:02::,social%5:00:00:sociable:00
+#49 necessity NOUN necessity%1:26:00::
+#51 simply ADV simply%4:02:00::,simply%4:02:02::
+Working in a vacuum of minimal information can result only in show pieces that look good in exhibitions and catalogs and may please the public relations department but have little to do with the essence of interior design .
+8
+#0 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#3 vacuum NOUN vacuum%1:25:00::
+#5 minimal ADJ minimal%3:00:00::
+#9 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#14 look VERB look%2:39:01::,look%2:42:02::
+#15 good ADJ good%3:00:01::,good%5:00:00:nice:00
+#22 please VERB please%2:37:00::,please%2:37:03::
+#28 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+It is possible , of course , to work on extant or projected buildings where either architect or owner will explain their necessities so that the student may get " the feel " of real interior design demands .
+4
+#13 building NOUN building%1:06:00::
+#22 necessity NOUN necessity%1:26:00::
+#31 feel NOUN feel%1:04:00::
+#34 real ADJ real%3:00:00::,real%5:00:00:true:00
+Unfortunately , the purely synthetic problem is the rule .
+2
+#4 synthetic ADJ synthetic%3:00:01::
+#8 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+Instead they learn their dissection on the bulbs of plants .
+3
+#2 learn VERB learn%2:31:01::,learn%2:31:03::
+#7 bulb NOUN bulb%1:08:01::
+#9 plant NOUN plant%1:03:00::
+Thus technical efficiency is achieved at the expense of actual experience .
+3
+#0 thus ADV thus%4:02:00::
+#1 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#9 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+In the earlier years of training certain phases of the work must be covered and the synthetic problem has its use .
+7
+#2 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#5 training NOUN training%1:04:00::
+#7 phase NOUN phase%1:07:00::,phase%1:28:00::
+#10 work NOUN work%1:04:00::
+#13 cover VERB cover%2:32:01::,cover%2:32:02::,cover%2:42:02::
+#16 synthetic ADJ synthetic%3:00:01::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+But to continue to divorce advanced students from reality is inexcusable .
+3
+#2 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+#5 advanced ADJ advanced%5:00:00:precocious:00
+#8 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+Consultation with architects , clients , real estate men , fabric houses and furniture companies is essential to the proper development of class problems just as in actual work .
+11
+#4 client NOUN client%1:18:00::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 fabric NOUN fabric%1:06:00::
+#11 house NOUN house%1:06:01::,house%1:06:02::,house%1:14:03::,house%1:14:04::
+#13 furniture NOUN furniture%1:06:00::
+#14 company NOUN company%1:14:03::
+#16 essential ADJ essential%3:00:00::,essential%5:00:00:necessary:00
+#19 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#20 development NOUN development%1:04:01::,development%1:04:02::,development%1:11:01::,development%1:15:00::,development%1:22:02::,development%1:26:00::
+#24 just ADV just%4:02:05::
+#27 actual ADJ actual%3:00:00::,actual%5:00:00:true:00
+Fortunately , although only a few years ago they held the student at arms length , today the business houses welcome the opportunity to aid the student , not only from an increased sense of community responsibility but also from the realization that the student of today is the interior designer of tomorrow - that the student already is " in the trade " .
+6
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#19 house NOUN house%1:06:01::,house%1:06:02::,house%1:14:03::,house%1:14:04::
+#20 welcome VERB welcome%2:35:00::,welcome%2:40:00::
+#33 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#41 realization NOUN realisation%1:04:00::
+#57 already ADV already%4:02:00::
+Even the " history of furniture " can hardly be taught exclusively from photographs and lantern slides .
+3
+#3 history NOUN history%1:28:02::
+#5 furniture NOUN furniture%1:06:00::
+#8 hardly ADV hardly%4:02:00::,hardly%4:02:02::
+Here , too , the reality of actual furniture must be experienced .
+3
+#2 too ADV too%4:02:01::
+#5 reality NOUN reality%1:07:00::,reality%1:09:00::,reality%1:26:01::,reality%1:26:02::
+#8 furniture NOUN furniture%1:06:00::
+The professional organizations such as American Institute of Interior Designers , National Society of Interior Designers , Home Fashions League and various trade associations , can and do aid greatly in this work .
+3
+#1 professional ADJ professional%3:01:01::
+#2 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#32 work NOUN work%1:04:00::
+Certainly every educator involved in interior design should be a member and active in the work of one of these organizations .
+4
+#3 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#10 member NOUN member%1:18:00::,member%1:24:00::
+#15 work NOUN work%1:04:00::
+#20 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+Not only should every educator above the rank of instructor be expected to be a member of one of the professional organizations , but his first qualification for membership as an educator should be so sharply scrutinized that membership would be equivalent to certification to teach the subject .
+7
+#7 rank NOUN rank%1:26:00::,rank%1:26:01::
+#15 member NOUN member%1:18:00::,member%1:24:00::
+#20 professional ADJ professional%3:01:01::
+#21 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#26 qualification NOUN qualification%1:07:00::
+#34 so ADV so%4:02:03::,so%4:02:07::
+#47 subject NOUN subject%1:09:00::
+Participation for the educator in this case , however , would have to be raised to full and complete membership .
+4
+#6 case NOUN case%1:04:00::,case%1:09:00::,case%1:11:00::
+#8 however ADV however%4:02:04::
+#16 full ADJ full%5:00:00:complete:00,full%5:00:00:high:02,full%5:00:01:whole:00
+#18 complete ADJ complete%3:00:00::,complete%5:00:00:finished:01,complete%5:00:00:perfect:00
+The largest of these organizations at present denies to the full time educator any vote on the conduct and standards of the group and , indeed , refuses him even the right to attach the customary initials after his name in the college catalog .
+8
+#1 large ADJ large%3:00:00::,large%5:00:00:significant:00
+#4 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#17 conduct NOUN conduct%1:07:00::
+#25 indeed ADV indeed%4:02:03::
+#31 right NOUN right%1:07:00::,right%1:21:00::
+#33 attach VERB attach%2:35:01::,attach%2:35:02::,attach%2:41:03::
+#39 name NOUN name%1:14:00::
+#42 college NOUN college%1:14:00::,college%1:14:01::
+This anomalous status of the educator cannot fail to lower his standing in the eyes of the students .
+5
+#2 status NOUN status%1:26:00::,status%1:26:01::
+#7 fail VERB fail%2:41:00::,fail%2:41:07::,fail%2:41:08::
+#9 lower VERB lower%2:30:01::
+#11 standing NOUN standing%1:26:00::
+#14 eye NOUN eye%1:08:00::,eye%1:09:01::
+The professor in turn dares not tolerate the influence in his classes of an organization in the policies and standards of which he has no voice .
+6
+#1 professor NOUN full_professor%1:18:00::
+#5 not ADV not%4:02:00::
+#11 class NOUN class%1:04:00::,class%1:14:03::,class%1:14:04::
+#17 policy NOUN policy%1:09:00::,policy%1:10:00::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+This seems somewhat shortsighted since if the absolute educational qualifications for membership which the organizations profess are ever enforced , the educator will have the molding of the entire profession in his hands .
+8
+#7 absolute ADJ absolute%5:00:00:unequivocal:00
+#9 qualification NOUN qualification%1:07:00::
+#14 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+#17 ever ADV ever%4:02:05::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#25 mold VERB mold%2:36:01::
+#29 profession NOUN profession%1:14:00::
+#32 hand NOUN hand%1:09:00::
+In one way the Institutes and Societies do a disservice to the schools .
+2
+#4 institute NOUN institute%1:14:00::
+#12 school NOUN school%1:14:00::,school%1:14:03::
+That is in the continuance of the " grandfather clauses " in their membership requirements .
+1
+#4 continuance NOUN continuance%1:04:00::
+When these groups were first formed many prominent and accomplished decorators could not have had the advantage of school training since interior design courses were rare and undeveloped during their youth .
+8
+#5 form VERB form%2:41:00::,form%2:42:00::,form%2:42:02::
+#12 not ADV not%4:02:00::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 school NOUN school%1:14:00::,school%1:14:03::
+#19 training NOUN training%1:04:00::
+#23 course NOUN course%1:04:01::,course%1:14:00::
+#25 rare ADJ rare%5:00:00:scarce:00
+#30 youth NOUN youth%1:07:00::,youth%1:26:00::,youth%1:28:00::,youth%1:28:01::
+Long hard years of " on the job " training had brought them to their competence .
+3
+#1 hard ADJ hard%3:00:02::,hard%3:00:06::,hard%5:00:00:alcoholic:00,hard%5:00:00:bad:00,hard%5:00:01:effortful:00
+#9 training NOUN training%1:04:00::
+#15 competence NOUN competence%1:07:00::
+The necessity of that day has long disappeared .
+3
+#1 necessity NOUN necessity%1:26:00::
+#4 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#7 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+There is plenty of opportunity for proper education today .
+2
+#6 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#7 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+It is discouraging for students to realize that the societies do not truly uphold the standards for which they are supposed to stand .
+3
+#6 realize VERB realize%2:31:01::
+#11 not ADV not%4:02:00::
+#15 standard NOUN standard%1:09:00::,standard%1:21:00::
+The reason and the day of " grandfather clauses " has long since passed .
+3
+#1 reason NOUN reason%1:09:01::,reason%1:16:00::
+#4 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#13 pass VERB pass%2:30:00::,pass%2:38:03::,pass%2:42:00::
+No one can deny that these " back door " admissions to membership provisions have been seriously abused nor that they have not resulted in the admission of downright incompetents to membership in supposedly learned societies .
+7
+#3 deny VERB deny%2:32:00::,deny%2:32:01::
+#10 admission NOUN admission%1:04:00::
+#13 provision NOUN provision%1:10:00::
+#16 seriously ADV seriously%4:02:01::
+#17 abuse VERB abuse%2:30:02::
+#22 not ADV not%4:02:00::
+#26 admission NOUN admission%1:04:00::
+Beyond any question of curriculum and approach to subject must be the quality of the teachers themselves .
+3
+#6 approach NOUN approach%1:04:02::,approach%1:06:00::
+#8 subject NOUN subject%1:09:00::
+#12 quality NOUN quality%1:07:00::,quality%1:07:02::,quality%1:26:00::
+It will occur to anyone that the teacher must have adequate education , a depth and breadth of knowledge far beyond the immediate necessities of his course plus complete dedication to his subject and to his students .
+9
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#11 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#14 depth NOUN depth%1:07:01::,depth%1:07:02::
+#18 knowledge NOUN knowledge%1:03:00::
+#23 necessity NOUN necessity%1:26:00::
+#26 course NOUN course%1:04:01::,course%1:14:00::
+#28 complete ADJ complete%5:00:00:skilled:00
+#29 dedication NOUN dedication%1:11:00::
+#32 subject NOUN subject%1:09:00::
+The local decorator who rushes in for a few hours of teaching may but more likely may not have these qualifications .
+5
+#4 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+#9 hour NOUN hour%1:07:00::,hours%1:28:01::
+#14 more ADV more%4:02:00::
+#18 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#20 qualification NOUN qualification%1:07:00::
+Nor will the hack , the Jack-of-all-trades , still found in some of the smaller art schools , suffice .
+3
+#3 hack NOUN hack%1:18:01::
+#8 still ADV still%4:02:00::
+#9 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+Only a few years ago a middle western college circulated a request for a teacher of interior design .
+3
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#8 college NOUN college%1:14:00::,college%1:14:01::
+#9 circulate VERB circulate%2:32:00::
+At the end of its letter was the information that applicants for this position " must also be prepared to teach costume design and advertising art " .
+6
+#2 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#5 letter NOUN letter%1:10:00::
+#8 information NOUN information%1:09:00::,information%1:10:02::
+#13 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+#18 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#22 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+This kind of irresponsibility toward their students can scarcely build a strong professional attitude in the future designer .
+1
+#11 strong ADJ strong%3:00:00::,strong%3:00:04::,strong%5:00:00:forceful:00,strong%5:00:00:powerful:00
+We must build a corps of highly professional teachers of interior design who have had education , experience in the profession and are willing to take on the usual accompaniments of teaching - minimal income and minimal status among their confreres .
+8
+#7 professional ADJ professional%3:00:01::,professional%3:00:02::,professional%5:00:00:white-collar:00
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#20 profession NOUN profession%1:14:00::
+#29 accompaniment NOUN accompaniment%1:07:00::
+#33 minimal ADJ minimal%3:00:00::
+#36 minimal ADJ minimal%3:00:00::
+#37 status NOUN status%1:26:00::,status%1:26:01::
+Considerable specialization in teaching subjects such as architecture , furniture design , textiles and color is also desirable .
+6
+#4 subject NOUN subject%1:09:00::
+#7 architecture NOUN architecture%1:04:00::
+#9 furniture NOUN furniture%1:06:00::
+#10 design NOUN design%1:06:00::,design%1:06:01::,design%1:09:00::,design%1:09:01::
+#12 textile NOUN textile%1:06:00::
+#14 color NOUN color%1:07:00::,color%1:27:00::
+In all " degree " courses in interior design a number of " academic " or " general studies " courses are included .
+8
+#3 degree NOUN degree%1:10:00::
+#5 course NOUN course%1:04:01::,course%1:14:00::
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#13 academic ADJ academic%3:01:00::
+#17 general ADJ general%3:00:00::,general%5:00:00:common:01,general%5:00:00:comprehensive:00,general%5:00:00:undiversified:00
+#18 study NOUN study%1:09:02::,study%1:09:03::,study%1:10:00::
+#20 course NOUN course%1:04:01::,course%1:14:00::
+#22 include VERB include%2:42:00::
+It is only fair to demand that teachers of courses in English , history , psychology and so on be as well informed in matters of art , especially interior design , as are the art teachers educated in the academic subjects .
+9
+#2 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#3 fair ADJ fair%3:00:01::,fair%3:00:03::,fair%5:00:00:moderate:00
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#13 history NOUN history%1:28:00::
+#21 well ADV well%4:02:05::,well%4:02:11::,well%4:02:14::,well%4:02:15::
+#24 matter NOUN matter%1:09:00::,matter%1:09:01::
+#28 especially ADV especially%4:02:00::
+#40 academic ADJ academic%3:01:00::
+#41 subject NOUN subject%1:09:00::
+The proper correlation of the art with the academic can be achieved only if this standard is observed .
+2
+#1 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#8 academic ADJ academic%3:01:00::
+The matter of sympathy of the academic professors for art objectives also must be taken into account .
+4
+#1 matter NOUN matter%1:09:00::,matter%1:09:01::
+#3 sympathy NOUN sympathy%1:09:00::,sympathy%1:24:00::
+#7 professor NOUN full_professor%1:18:00::
+#10 objective NOUN objective%1:09:00::
+One technical question of school organization comes to mind here .
+3
+#1 technical ADJ technical%3:01:00::,technical%5:00:01:skilled:00
+#4 school NOUN school%1:14:00::,school%1:14:03::
+#5 organization NOUN organization%1:04:01::,organization%1:07:00::,organization%1:09:00::
+For proper accreditation of schools , teachers in any course must have a degree at least one level above that for which the student is a candidate .
+6
+#1 proper ADJ proper%3:00:00::,proper%5:00:00:appropriate:00
+#4 school NOUN school%1:14:00::,school%1:14:03::
+#9 course NOUN course%1:04:01::,course%1:14:00::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 degree NOUN degree%1:10:00::
+#17 level NOUN level%1:26:00::,level%1:26:01::
+Since there are almost no schools in the country offering graduate work in interior design this rule cannot at present be observed .
+4
+#5 school NOUN school%1:14:00::,school%1:14:03::
+#8 country NOUN country%1:14:00::,country%1:14:01::,country%1:14:01::;1:15:00::
+#11 work NOUN work%1:04:00::
+#16 rule NOUN rule%1:09:00::,rule%1:09:01::,rule%1:09:03::,rule%1:10:03::,rule%1:26:00::
+Indeed , it has only been a matter of the last few years that reputable schools of art have granted degrees at all .
+6
+#4 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#7 matter NOUN matter%1:09:00::,matter%1:09:01::
+#10 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+#15 school NOUN school%1:14:00::,school%1:14:03::
+#19 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#20 degree NOUN degree%1:10:00::
+The question , however , cannot be ignored for long .
+1
+#3 however ADV however%4:02:04::
+The basic problem involved is that a college setting up a graduate school must have an entirely separate faculty for the advanced degree .
+8
+#1 basic ADJ basic%3:00:00::,basic%5:00:00:standard:01
+#2 problem NOUN problem%1:09:00::,problem%1:26:00::
+#3 involve VERB involve%2:42:00::,involve%2:42:04::,involve%2:42:07::
+#7 college NOUN college%1:14:00::,college%1:14:01::
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 faculty NOUN faculty%1:09:00::
+#21 advanced ADJ advanced%5:00:00:precocious:00
+#22 degree NOUN degree%1:10:00::
+Most professors in the course must , naturally , again have a higher degree than the course offers .
+6
+#1 professor NOUN full_professor%1:18:00::
+#4 course NOUN course%1:04:01::,course%1:14:00::
+#7 naturally ADV naturally%4:02:00::
+#10 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#13 degree NOUN degree%1:10:00::
+#16 course NOUN course%1:04:01::,course%1:14:00::
+One solution is the acquisition of degrees in education but it is a poor substitute .
+4
+#1 solution NOUN solution%1:09:00::,solution%1:10:00::
+#6 degree NOUN degree%1:10:00::
+#8 education NOUN education%1:04:01::,education%1:09:00::,education%1:09:01::
+#13 poor ADJ poor%3:00:02::,poor%3:00:03::,poor%5:00:00:bad:00
+It is a sort of academic ring-around-a rosy and you solve it .
+1
+#5 academic ADJ academic%3:01:00::
+Only the independent art schools , that is , those not connected with any university or college , receive severe and separate investigation before accreditation by the various regional organizations .
+6
+#0 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#2 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#10 not ADV not%4:02:00::
+#16 college NOUN college%1:14:00::,college%1:14:01::
+#19 severe ADJ severe%5:00:01:bad:00
+#29 organization NOUN organization%1:14:00::,organization%1:14:01::;1:14:00::
+It has been the custom for most universities to stretch the blanket of accreditation for their liberal arts school to cover the shivering body of their fine arts department .
+2
+#4 custom NOUN custom%1:04:00::
+#18 school NOUN school%1:14:00::,school%1:14:03::
+This , plus the habit of many schools of simply adding interior design to the many subjects of their home economics department , yet , nevertheless , claiming that they teach interior design , has contributed to the low repute of many university courses in interior design .
+4
+#4 habit NOUN habit%1:04:02::
+#7 school NOUN school%1:14:00::,school%1:14:03::
+#16 subject NOUN subject%1:09:00::
+#43 course NOUN course%1:04:01::,course%1:14:00::
+In spite of this , many universities offer adequate and even distinguished courses in the subject .
+2
+#12 course NOUN course%1:04:01::,course%1:14:00::
+#15 subject NOUN subject%1:09:00::
+There will be no mitigation of these offences until all art schools , whether independent or attached to universities have separate accreditation - as do medical schools - by an art accreditation group such as the " National Association of Schools of Art " .
+4
+#7 offense NOUN offence%1:04:01::
+#14 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#16 attached ADJ attached%3:00:01::
+#19 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Independent art schools granting degrees must , naturally , follow this with academic accreditation by the appropriate regional group .
+5
+#0 independent ADJ independent%3:00:00::,independent%5:00:00:free:00,independent%5:00:00:nonpartisan:00
+#3 grant VERB grant%2:32:00::,grant%2:40:01::,grant%2:40:03::
+#4 degree NOUN degree%1:10:00::
+#9 follow VERB follow%2:38:00::,follow%2:42:00::,follow%2:42:01::,follow%2:42:03::,follow%2:42:05::
+#12 academic ADJ academic%3:01:00::

@@ -1,0 +1,643 @@
+ Cook had discovered a beef in his possession a few days earlier and , when he could not show the hide , arrested him .
+9
+#2 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#4 beef NOUN beef%1:13:00::
+#7 possession NOUN possession%1:15:00::
+#10 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#11 early ADV earlier%4:02:00::
+#17 not ADV not%4:02:00::
+#18 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#20 hide NOUN hide%1:05:00::
+#22 arrest VERB arrest%2:35:00::
+Thinking the evidence insufficient to get a conviction , he later released him .
+5
+#0 think VERB think%2:31:01::,think%2:31:03::
+#5 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#7 conviction NOUN conviction%1:04:00::
+#10 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#11 release VERB release%2:41:00::
+Even while suffering the trip to his home , Cook swore to Moore and Lane that he would kill the Indian .
+6
+#2 suffer VERB suffer%2:39:01::
+#4 trip NOUN trip%1:04:00::
+#7 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+#10 swear VERB swear%2:32:02::
+#18 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#20 Indian NOUN indian%1:10:00::
+Three weeks later following his recovery , armed with a writ issued by the Catskill justice on affidavits prepared by the district attorney , Cook and Russell rode to arrest Martinez .
+7
+#2 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#5 recovery NOUN recovery%1:11:00::
+#11 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#15 justice NOUN justice%1:18:00::
+#18 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#27 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#29 arrest VERB arrest%2:35:00::
+Arriving at daybreak , they found Julio in his corral and demanded that he surrender .
+1
+#5 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+Instead , he whirled and ran to his house for a gun forcing them to kill him , Cook reported .
+4
+#5 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#15 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#19 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+Both Cook 's and Russell 's lives were threatened by the Mexicans following the killing , but the company officers felt that in the end , it would serve to quiet them despite their immediate emotion .
+4
+#14 killing NOUN killing%1:04:00::
+#19 officer NOUN officer%1:18:02::,officer%1:18:03::
+#20 feel VERB feel%2:31:00::,feel%2:39:00::
+#28 serve VERB serve%2:35:01::,serve%2:41:00::,serve%2:42:01::
+General manager Pels even suggested that it might be wise to keep the Mexicans in suspense rather than accept their offers to sell out and move away , and try to have a few punished .
+7
+#11 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#15 suspense NOUN suspense%1:09:00::
+#18 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#25 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+#26 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#29 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#31 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+On February 17 , Russell and Cook were sent to the Pena Flor community on the Vermejo to see about renting out ranches the company had purchased .
+5
+#8 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#13 community NOUN community%1:14:00::,community%1:14:03::,community%1:14:04::,community%1:15:00::,community%1:21:00::
+#22 ranch NOUN ranch%1:06:00::
+#24 company NOUN company%1:14:03::
+#26 purchase VERB purchase%2:40:00::
+While talking with Julian M. Beall , Francisco Archuleta and Juan Marcus appeared , both heavily armed , and after watching the house for a while , rode away .
+5
+#12 appear VERB appear%2:30:01::,appear%2:30:02::,appear%2:36:00::,appear%2:41:03::
+#15 heavily ADV heavily%4:02:00::
+#16 armed ADJ armed%3:00:03::
+#20 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#22 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+It was nearly sundown before they finished the business with Beall and began riding down the stream .
+6
+#2 nearly ADV nearly%4:02:00::
+#6 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#8 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+#12 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#13 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#16 stream NOUN stream%1:17:00::
+They had traveled only a short distance when they spotted five Mexicans riding along a horse-trail across the stream just ahead of them .
+7
+#2 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#3 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#6 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#9 spot VERB spot%2:39:00::,spot%2:39:02::
+#12 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#18 stream NOUN stream%1:17:00::
+#19 just ADV just%4:02:04::
+Suspecting an ambush , the two deputies decided to ride up a side canyon taking a short cut into Catskill .
+3
+#0 suspect VERB suspect%2:32:00::,suspect%2:32:02::
+#9 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#14 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+After spending two nights ( Wednesday and Thursday ) in Catskill , the deputies again headed for the Vermejo to finish their business .
+4
+#3 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#15 head VERB head%2:38:00::,head%2:38:01::
+#20 finish VERB finish%2:30:01::,finish%2:30:02::,finish%2:30:03::,finish%2:34:00::
+#22 business NOUN business%1:04:01::,business%1:09:00::,business%1:09:01::
+They stayed with a rancher Friday night and by eleven o'clock Saturday morning passed the old Garnett Lee ranch .
+5
+#1 stay VERB stay%2:42:01::
+#4 rancher NOUN rancher%1:18:00::
+#12 morning NOUN morning%1:28:00::,morning%1:28:01::
+#15 old ADJ old%3:00:01::,old%3:00:02::
+#18 ranch NOUN ranch%1:06:00::
+Half a mile below at the mouth of Salyer 's Canyon was an old ranch that the company had purchased from A. J. Armstrong , occupied by a Mexican , his wife , and an old trapper .
+7
+#6 mouth NOUN mouth%1:06:00::,mouth%1:17:00::,mouth%1:17:01::
+#13 old ADJ old%3:00:01::,old%3:00:02::
+#14 ranch NOUN ranch%1:06:00::
+#17 company NOUN company%1:14:03::
+#19 purchase VERB purchase%2:40:00::
+#25 occupy VERB occupy%2:41:04::,occupy%2:42:00::,occupy%2:42:01::
+#35 old ADJ old%3:00:01::,old%3:00:02::
+There were three houses in Salyer 's Canyon just at the foot of a low bluff , the road winding along the top , entering above , and then passing down in front of the houses , thence to the Vermejo .
+12
+#3 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#8 just ADV just%4:02:05::
+#11 foot NOUN foot%1:15:00::
+#14 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#15 bluff NOUN bluff%1:17:00::
+#18 road NOUN road%1:04:00::,road%1:06:00::
+#19 wind VERB wind%2:38:00::
+#22 top NOUN top%1:15:00::,top%1:15:01::
+#24 enter VERB enter%2:33:00::,enter%2:35:03::,enter%2:36:00::,enter%2:38:00::
+#29 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#30 down ADV down%4:02:00::,down%4:02:02::
+#35 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+To the west of this road was another low bluff , forty or fifty feet high , covered with scrub oak and other brush .
+8
+#2 west NOUN west%1:24:00::,west%1:24:02::
+#5 road NOUN road%1:04:00::,road%1:06:00::
+#8 low ADJ low%3:00:01::,low%3:00:02::,low%3:00:03::,low%5:00:00:soft:04
+#9 bluff NOUN bluff%1:17:00::
+#14 foot NOUN foot%1:23:00::
+#15 high ADJ high%3:00:01::,high%3:00:02::,higher%5:00:02:high:02
+#22 other ADJ other%3:00:00::
+#23 brush NOUN brush%1:14:00::
+As they were riding along this winding road on the bench of land between the two bluffs , a volley of rifle fire suddenly crashed around the two officers .
+10
+#3 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#6 wind VERB wind%2:38:00::
+#7 road NOUN road%1:04:00::,road%1:06:00::
+#10 bench NOUN bench%1:17:00::
+#12 land NOUN land%1:15:02::,land%1:17:01::,land%1:21:00::
+#16 bluff NOUN bluff%1:17:00::
+#19 volley NOUN volley%1:04:00::
+#22 fire NOUN fire%1:04:00::,fire%1:10:00::
+#24 crash VERB crash%2:39:00::
+#28 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+Not a bullet touched Cook who was nearer the ambush , but one hit Russell in the leg and another broke his arm , passing on through his body .
+6
+#0 not ADV not%4:02:00::
+#2 bullet NOUN bullet%1:06:00::
+#3 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+#17 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#20 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#22 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+With the first reports , Russell 's horse wheeled to the right and ran towards the buildings while Cook , followed by a hail of bullets , raced towards the arroyo of Salyer 's Canyon immediately in front of him , just reaching it as his horse fell .
+14
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#7 horse NOUN horse%1:05:00::,horse%1:14:00::
+#8 wheel VERB wheel%2:38:00::
+#11 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#13 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#16 building NOUN building%1:06:00::
+#20 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#23 hail NOUN hail%1:19:00::
+#25 bullet NOUN bullet%1:06:00::
+#27 race VERB race%2:38:00::
+#35 immediately ADV immediately%4:02:00::,immediately%4:02:05::
+#42 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#46 horse NOUN horse%1:05:00::,horse%1:14:00::
+#47 fall VERB fall%2:30:11::,fall%2:30:13::,fall%2:30:14::,fall%2:38:01::,fall%2:38:03::,fall%2:38:11::,fall%2:43:00::
+Grabbing his Winchester from its sheath , Cook prepared to fight from behind the arroyo bank .
+3
+#0 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+#8 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+#15 bank NOUN bank%1:17:01::
+Bullets were so thick , throwing sand in his face , that he found it difficult to return the fire .
+7
+#0 bullet NOUN bullet%1:06:00::
+#2 so ADV so%4:02:03::,so%4:02:07::
+#5 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#9 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#13 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#17 return VERB return%2:32:01::,return%2:32:03::,return%2:35:01::,return%2:40:08::
+#19 fire NOUN fire%1:04:00::,fire%1:10:00::
+Noticing Russell 's horse in front of the long log building , he assumed his friend had slipped inside and would be able to put up a good fight , so he began working his way down the ditch to join him .
+12
+#3 horse NOUN horse%1:05:00::,horse%1:14:00::
+#8 long ADJ long%3:00:01::
+#9 log NOUN log%1:27:01::
+#10 building NOUN building%1:06:00::
+#13 assume VERB assume%2:31:00::
+#15 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#17 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+#18 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#22 able ADJ able%3:00:00::
+#32 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#33 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#35 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+At a very shallow place , two Mexicans rushed into the open for a shot .
+3
+#4 place NOUN place%1:10:00::,place%1:15:00::,place%1:15:04::,place%1:15:05::,place%1:15:06::,place%1:26:02::
+#8 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+#14 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+Dropping to one knee , Cook felled one , and the other struggled off with his comrade , sending no further fire in his direction .
+6
+#0 drop VERB drop%2:30:09::,drop%2:38:00::,drop%2:38:01::,drop%2:38:05::
+#6 fell VERB fell%2:35:00::
+#18 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#20 further ADJ further%5:00:00:far:00
+#21 fire NOUN fire%1:04:00::,fire%1:10:00::
+#24 direction NOUN direction%1:09:00::,direction%1:09:00::;1:15:00::,direction%1:09:01::,direction%1:15:00::,direction%1:24:00::
+Just before leaving the arroyo where he was partially concealed , he did hear shots down at the house .
+3
+#14 shot NOUN shot%1:04:00::,shot%1:06:00::,shot%1:10:00::,shot%1:18:00::
+#15 down ADV down%4:02:00::,down%4:02:02::
+#18 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+Russell had reached the house as Cook surmised , dismounted , but just as the old trapper opened the door to receive him , he fell into the trapper 's arms - dead .
+10
+#2 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#4 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#9 dismount VERB dismount%2:38:00::
+#12 just ADV just%4:02:05::
+#15 old ADJ old%3:00:01::,old%3:00:02::
+#17 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#21 receive VERB receive%2:32:00::,receive%2:35:00::,receive%2:41:00::
+#25 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#30 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#32 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+A bullet fired by one of the Mexicans hiding in a little chicken house had passed through his head , tearing a hole two inches square on the outgoing side .
+9
+#1 bullet NOUN bullet%1:06:00::
+#2 fire VERB fire%2:33:00::,fire%2:33:02::
+#12 chicken NOUN chicken%1:13:00::
+#18 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#20 tear VERB tear%2:35:00::,tear%2:35:01::
+#22 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#24 inch NOUN inch%1:23:02::
+#25 square ADJ square%3:00:00::
+#28 outgoing ADJ outgoing%3:00:01::
+Finding him dead , Cook caught Russell 's horse and rode to the cattle foreman 's house to report the incident and request bloodhounds to trail the assassins .
+8
+#0 find VERB find%2:31:09::,find%2:32:00::;2:40:02::,find%2:36:00::,find%2:39:02::,find%2:40:00::,find%2:40:03::
+#2 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#8 horse NOUN horse%1:05:00::,horse%1:14:00::
+#10 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#13 cattle NOUN cattle%1:05:00::
+#16 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#18 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#25 trail VERB trail%2:38:00::
+Before daylight Sunday morning , a posse of twenty-three men under the leadership of Deputy Sheriff Frank MacPherson of Catskill followed the trail to the house of Francisco Chaves , where 100 to 150 Mexicans had gathered .
+6
+#1 daylight NOUN daylight%1:19:00::
+#3 morning NOUN morning%1:28:00::,morning%1:28:01::
+#9 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#20 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+#25 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#36 gather VERB gather%2:30:00::
+MacPherson boldly approached the fortified adobe house and demanded entrance .
+1
+#2 approach VERB approach%2:38:00::,approach%2:38:01::,approach%2:41:00::,approach%2:42:00::
+The men inside informed him that they had some wounded men among them but he would not be allowed to see them even though he offered medical aid .
+8
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#3 inform VERB inform%2:32:00::,inform%2:32:10::
+#7 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 not ADV not%4:02:00::
+#18 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#20 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+The officer demanded the names of the injured men ; the Mexicans not only refused to give them , but told the possemen if they wanted a fight they could have it .
+8
+#1 officer NOUN officer%1:18:01::,officer%1:18:02::,officer%1:18:03::
+#4 name NOUN name%1:14:00::
+#7 injured ADJ injured%3:00:00::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#16 give VERB give%2:32:09::,give%2:32:10::,give%2:32:15::,give%2:36:00::,give%2:40:07::
+#20 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#25 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#30 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+Since the strength of the Mexicans had been underrated , too small a posse had been collected , and since the deputy had not been provided with search warrants , MacPherson and his men decided it was much wiser to withdraw .
+7
+#2 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#10 too ADV too%4:02:00::
+#16 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#23 not ADV not%4:02:00::
+#25 provide VERB provide%2:34:00::,provide%2:40:00::
+#33 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#40 withdraw VERB withdraw%2:30:00::,withdraw%2:38:00::,withdraw%2:40:01::,withdraw%2:41:00::,withdraw%2:41:01::
+The posse 's retreat encouraged the Mexicans to be overbearing and impudent .
+1
+#3 retreat NOUN retreat%1:04:02::
+During the following week , six tons of hay belonging to one rancher were burned ; some buildings , farm tools , two horses , plows , and hay owned by Bonito Lavato , a friendly interpreter for the company , and Pedro Chavez ' hay were stolen or destroyed ; and a store was broken into and robbed .
+15
+#2 following ADJ following%5:00:01:succeeding:00,following%5:00:02:succeeding(a):00
+#6 ton NOUN ton%1:23:01::
+#8 hay NOUN hay%1:13:00::
+#9 belong VERB belong%2:40:00::,belong%2:42:02::
+#12 rancher NOUN rancher%1:18:00::
+#14 burn VERB burn%2:30:00::,burn%2:30:02::,burn%2:30:03::,burn%2:43:01::
+#17 building NOUN building%1:06:00::
+#20 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#23 horse NOUN horse%1:05:00::,horse%1:14:00::
+#28 hay NOUN hay%1:13:00::
+#29 own VERB owned%3:00:00::
+#45 hay NOUN hay%1:13:00::
+#47 steal VERB steal%2:33:00::,steal%2:40:00::
+#53 store NOUN store%1:06:00::
+#55 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+District Attorney M. W. Mills warned that he would vigorously prosecute persons caught committing these crimes or carrying arms - he just did n't catch anyone .
+8
+#10 prosecute VERB prosecute%2:41:01::
+#11 person NOUN person%1:03:00::,person%1:08:00::
+#12 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+#13 commit VERB commit%2:41:00::
+#17 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#18 arms NOUN arms%1:06:00::
+#21 just ADV just%4:02:00::,just%4:02:03::
+#24 catch VERB catch%2:31:01::,catch%2:39:02::,catch%2:39:09::
+Increasing threats on his life finally convinced Cook that he should leave New Mexico .
+2
+#1 threat NOUN threat%1:10:00::,threat%1:10:01::
+#4 life NOUN life%1:10:00::,life%1:26:02::,life%1:28:01::
+His friends advised that it would be only a question of time until either the Mexicans killed him by ambuscade or he would be compelled to kill them in self-defense , perpetuating the troubles .
+5
+#1 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#7 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#16 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#26 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#33 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+By early summer , he wrote from Laramie that he was suffering from the wound inflicted in the ambush and was in a bad way financially , so Pels sent him a draft for $ 100 , warning that it was still not wise for him to return .
+9
+#1 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#2 summer NOUN summer%1:28:00::
+#5 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+#11 suffer VERB suffer%2:29:00::,suffer%2:30:00::,suffer%2:39:01::,suffer%2:39:02::
+#14 wound NOUN wound%1:26:00::
+#29 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#32 draft NOUN draft%1:21:00::
+#41 still ADV still%4:02:00::
+#47 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+Pels also sent a check for $ 100 to Russell 's widow and had a white marble monument erected on his grave .
+6
+#2 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#4 check NOUN check%1:21:00::
+#11 widow NOUN widow%1:18:00::
+#15 white ADJ white%3:00:01::,white%5:00:00:diluted:00
+#16 marble NOUN marble%1:06:01::
+#21 grave NOUN grave%1:06:00::
+Cattle stealing and killing , again serious during the spring of 1891 , placed the land grant company officers in a perplexing position .
+6
+#0 cattle NOUN cattle%1:05:00::
+#1 steal VERB steal%2:33:00::,steal%2:40:00::
+#9 spring NOUN spring%1:28:00::
+#13 place VERB place%2:31:13::
+#17 company NOUN company%1:14:03::
+#22 position NOUN position%1:04:01::,position%1:04:02::,position%1:09:00::,position%1:26:00::,position%1:26:02::
+They were reluctant to appoint sheriffs to protect the property , thus running the risk of creating disturbances such as that on the Vermejo , and yet the cowboys protested that they got no salary for arresting cattle thieves and running the risk of being shot .
+8
+#4 appoint VERB appoint%2:41:00::,appoint%2:41:01::
+#9 property NOUN property%1:06:00::,property%1:15:00::,property%1:21:00::
+#11 thus ADV thus%4:02:01::
+#28 cowboy NOUN cowboy%1:18:00::
+#29 protest VERB protest%2:32:00::,protest%2:41:00::
+#32 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+#36 arrest VERB arrest%2:35:00::
+#45 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+And the law virtually ignored the situation .
+3
+#2 law NOUN law%1:04:00::,law%1:09:00::,law%1:14:00::,law%1:14:01::
+#3 virtually ADV virtually%4:02:02::
+#6 situation NOUN situation%1:26:01::
+The judge became ill just as the Colfax District Court convened , no substitute was brought in , no criminal cases heard , only 5 out of 122 cases docketed were tried , and court adjourned sine die after sitting a few days instead of the usual three weeks .
+11
+#2 become VERB become%2:30:00::,become%2:42:01::
+#3 ill ADJ ill%3:00:01::
+#4 just ADV just%4:02:05::
+#20 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#23 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#28 case NOUN case%1:04:00::,case%1:10:01::,case%1:26:00::
+#29 docket VERB docket%2:32:00::
+#31 try VERB try%2:41:06::
+#34 court NOUN court%1:06:02::,court%1:06:05::
+#39 sit VERB sit%2:33:00::,sit%2:38:01::
+#42 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+" Litigants and witnesses were put to the expense and inconvenience of going long distances to transact business ; public money spent ; justice delayed ; nothing accomplished , and the whole distribution of justice in this county seems to be an absolute farce " .
+11
+#3 witness NOUN witness%1:18:00::
+#5 put VERB put%2:31:13::,put%2:34:00::
+#12 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#13 long ADJ long%3:00:01::
+#14 distance NOUN distance%1:07:00::,distance%1:07:01::,distance%1:12:00::,distance%1:15:00::,distance%1:28:01::
+#17 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+#19 public ADJ public%3:00:00::,public%5:00:00:common:02
+#23 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#31 whole ADJ whole%3:00:00::
+#34 justice NOUN justice%1:04:00::,justice%1:07:00::,justice%1:14:00::
+#42 absolute ADJ absolute%5:00:00:unequivocal:00
+Word reached the company that the man behind these depredations was Manuel Gonzales , a man with many followers , including a number who were kept in line through fear of him .
+7
+#1 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#15 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#18 follower NOUN followers%1:14:00::
+#20 include VERB include%2:42:00::
+#22 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#25 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Although wanted by the sheriff for killing an old man named Asher Jones , the warrant for his arrest had never been served .
+6
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#6 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#10 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#15 warrant NOUN warrant%1:10:00::
+#18 arrest NOUN arrest%1:04:00::
+#22 serve VERB serve%2:42:02::
+On May 19 , a deputy sheriff 's posse of eight men left Maxwell City and rode thirty-five miles up the Vermejo where they were joined by Juan Jose Martinez .
+3
+#11 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#12 leave VERB leave%2:38:00::,leave%2:41:00::
+#16 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+By 3 : 00 A.M. they reached his house and found it vacant .
+3
+#6 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+#8 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#10 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+When they were refused entrance to his brother 's house nearby , they smashed down the door , broke the window , and threw lighted clothes wet with kerosene into the room .
+10
+#7 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#9 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#13 smash VERB smash%2:30:10::
+#14 down ADV down%4:02:00::,down%4:02:02::
+#18 break VERB break%2:29:04::,break%2:30:00::,break%2:30:06::,break%2:30:10::,break%2:31:05::,break%2:31:06::,break%2:35:04::,break%2:35:09::,break%2:35:11::,break%2:37:00::,break%2:41:10::,break%2:41:11::
+#20 window NOUN window%1:06:00::,window%1:06:04::,window%1:06:05::
+#23 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#25 clothes NOUN clothes%1:06:00::
+#26 wet ADJ wet%3:00:01::,wet%3:00:05::
+#31 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+Still there was no Gonzales and the family would say nothing .
+2
+#7 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+#9 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+About 300 yards up the creek was a cluster of Mexican houses containing six rooms in the form of a square .
+6
+#2 yard NOUN yard%1:23:00::,yard%1:23:01::
+#11 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#12 contain VERB contain%2:42:00::,contain%2:42:06::
+#14 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#17 form NOUN form%1:07:01::,form%1:07:01::;1:08:00::,form%1:08:00::,form%1:09:00::
+#20 square NOUN square%1:06:01::,square%1:15:00::,square%1:25:00::,square%1:25:01::
+While prowling around these buildings , two of the posse recognized the voice of Gonzales speaking to the people inside .
+5
+#4 building NOUN building%1:06:00::
+#10 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+#12 voice NOUN voice%1:04:00::,voice%1:07:01::,voice%1:10:00::,voice%1:10:01::,voice%1:10:03::
+#18 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#19 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+He was promised that no harm would befall him if he would come out , but he cursed and replied that he would shoot any man coming near the door .
+4
+#2 promise VERB promise%2:32:00::,promise%2:32:01::
+#17 curse VERB curse%2:32:00::,curse%2:32:02::
+#23 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#25 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The posse then asked that he send out the women and children as the building would be fired or torn down over his head if necessary to take him dead or alive .
+9
+#2 then ADV then%4:02:00::
+#3 ask VERB ask%2:32:01::,ask%2:32:05::
+#14 building NOUN building%1:06:00::
+#17 fire VERB fire%2:30:01::
+#23 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#25 necessary ADJ necessary%3:00:00::
+#27 take VERB take%2:29:08::,take%2:30:00::,take%2:30:08::,take%2:31:01::,take%2:31:03::,take%2:32:02::,take%2:33:08::,take%2:34:00::,take%2:35:00::,take%2:35:14::,take%2:40:00::,take%2:40:01::,take%2:40:03::,take%2:40:04::,take%2:40:05::,take%2:40:08::,take%2:40:15::
+#29 dead ADJ dead%3:00:01::,dead%3:00:02::,dead%5:00:00:extinct:02,dead%5:00:00:inactive:03,dead%5:00:00:inelastic:00,dead%5:00:00:inoperative:00,dead%5:00:00:insensitive:01,dead%5:00:00:insensitive:02,dead%5:00:00:noncurrent:00,dead%5:00:00:standing:02,dead%5:00:00:uncharged:00,dead%5:00:00:unprofitable:00,dead%5:00:00:unreverberant:00
+#31 alive ADJ alive%3:00:01::
+In deadly earnest , the besiegers methodically stripped away portions of the roof and tossed lighted rags inside , only to have most stamped out by the women as soon as they hit the floor .
+7
+#7 strip VERB strip%2:35:00::
+#8 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#14 toss VERB toss%2:35:00::,toss%2:35:04::,toss%2:38:00::,toss%2:38:01::,toss%2:40:00::
+#16 rag NOUN rag%1:06:00::
+#17 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#19 only ADV only%4:02:00::,only%4:02:04::
+#34 floor NOUN floor%1:06:00::,floor%1:10:00::,floor%1:17:00::,floor%1:17:01::
+When it became obvious that he could stay inside no longer , taking a thousand to one chance Gonzales rushed outside , square against the muzzle of a Winchester .
+8
+#2 become VERB become%2:30:00::,become%2:42:01::
+#7 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#8 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#12 take VERB take%2:31:07::,take%2:31:09::,take%2:32:00::,take%2:33:08::,take%2:38:00::,take%2:39:00::,take%2:40:05::,take%2:41:00::,take%2:41:04::
+#17 chance NOUN chance%1:07:00::,chance%1:26:00::
+#19 rush VERB rush%2:30:00::,rush%2:30:01::,rush%2:33:00::,rush%2:38:00::,rush%2:38:10::
+#20 outside ADV outside%4:02:01::
+#25 muzzle NOUN muzzle%1:06:01::
+Shot near the heart , he turned to one side and plunged for a door to another room several feet away , three bullets following him .
+9
+#0 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#3 heart NOUN heart%1:07:01::,heart%1:08:00::,heart%1:09:00::,heart%1:12:04::
+#6 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#9 side NOUN side%1:08:00::,side%1:13:00::,side%1:15:00::,side%1:15:02::
+#17 room NOUN room%1:06:00::,room%1:14:00::,room%1:23:00::
+#19 foot NOUN foot%1:23:00::
+#20 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#23 bullet NOUN bullet%1:06:00::
+#24 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+As he pushed open the door he fell on his face , one of his comrades pulling him inside .
+6
+#2 push VERB push%2:32:01::,push%2:38:00::
+#3 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#7 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+#10 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#16 pull VERB pull%2:29:00::,pull%2:35:00::,pull%2:35:04::,pull%2:35:10::,pull%2:38:03::,pull%2:38:13::
+#18 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+Not realizing the seriousness of the wound , the besiegers warned that if he did not surrender the house would be burned down around him .
+5
+#0 not ADV not%4:02:00::
+#1 realize VERB realize%2:31:01::
+#6 wound NOUN wound%1:26:00::
+#15 not ADV not%4:02:00::
+#18 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+When the house was about half consumed , his comrade ran to the door and threw up his hands , declaring repeatedly that he did not know the whereabouts of Manuel .
+8
+#2 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#4 about ADV about%4:02:00::
+#10 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#15 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#18 hand NOUN hand%1:08:00::,hand%1:10:01::
+#20 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+#25 not ADV not%4:02:00::
+#26 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+Finding it true that he was not inside , the deputies returned to the first house and tore holes through the side and the roof until they could see a body on the bed covered by a blanket .
+13
+#0 find VERB find%2:30:13::,find%2:31:10::,find%2:32:00::,find%2:32:01::,find%2:39:01::,find%2:39:02::;2:40:02::
+#2 true ADJ true%3:00:04::,true%5:00:00:sincere:00,true%5:00:02:faithful:00
+#6 not ADV not%4:02:00::
+#7 inside ADV inside%4:02:00::,inside%4:02:01::,inside%4:02:03::
+#11 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#14 first ADJ first%3:00:00::,first%4:02:00::
+#15 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#17 tear VERB tear%2:35:00::,tear%2:35:01::
+#18 hole NOUN hole%1:06:00::,hole%1:06:01::,hole%1:17:01::,hole%1:17:02::,hole%1:25:00::
+#28 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#30 body NOUN body%1:08:00::,body%1:08:02::
+#33 bed NOUN bed%1:06:00::
+#37 blanket NOUN blanket%1:17:00::
+Several slugs fired into the bed jerked aside the blanket to reveal an apparently lifeless hand .
+5
+#1 slug NOUN slug%1:06:01::
+#2 fire VERB fire%2:33:00::,fire%2:33:02::
+#5 bed NOUN bed%1:06:00::
+#6 jerk VERB jerk%2:35:01::
+#9 blanket NOUN blanket%1:17:00::
+Shot six or eight times the body was draped with Russell 's pistol , belt , and cartridges .
+5
+#0 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#4 time NOUN time%1:11:00::
+#6 body NOUN body%1:08:00::,body%1:08:02::
+#12 pistol NOUN pistol%1:06:00::
+#14 belt NOUN belt%1:04:00::
+There was no extra horse so it was left to his comrades who , though numbering in the fifties , had stood around on the hillside nearby without firing a shot during the entire attack .
+4
+#4 horse NOUN horse%1:05:00::,horse%1:14:00::
+#8 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#15 number VERB number%2:42:00::
+#28 fire VERB fire%2:33:00::,fire%2:33:02::
+Early the next morning , a Mexican telephoned Pels that Celso Chavez , one of the posse members , was surrounded by ten Mexicans at his father 's home on the upper Vermejo .
+4
+#3 morning NOUN morning%1:28:00::,morning%1:28:01::
+#17 member NOUN member%1:18:00::,member%1:24:00::
+#26 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#28 home NOUN home%1:06:00::,home%1:14:00::,home%1:15:03::,home%1:15:04::,home%1:15:05::
+The sheriff and District Attorney Mills hastily swore out a number of warrants against men who had been riding about armed , according to signed statements by Chavez and Dr. I. P. George , and ordered Deputy Barney Clark of Raton to rescue the posseman .
+6
+#10 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#12 warrant NOUN warrant%1:10:00::
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#18 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#20 armed ADJ armed%3:00:03::
+#35 order VERB order%2:32:01::,order%2:32:02::
+Traveling all night , Clark and twelve men arrived at about seven o'clock May 22 .
+4
+#0 travel VERB travel%2:38:00::,travel%2:38:02::,travel%2:38:03::,travel%2:38:05::
+#2 night NOUN night%1:26:00::,night%1:28:00::,night%1:28:05::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#10 about ADV about%4:02:00::
+Occasionally they heard gun-shot signals and a number of horsemen were sighted on the hills , disappearing at the posse 's approach .
+6
+#4 signal NOUN signal%1:10:00::
+#7 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#11 sight VERB sight%2:39:00::
+#14 hill NOUN hill%1:06:01::,hill%1:17:00::
+#16 disappear VERB disappear%2:30:00::,disappear%2:30:02::,disappear%2:39:00::
+#21 approach NOUN approach%1:04:00::,approach%1:07:01::,approach%1:15:00::
+A Mexican justice of the peace had issue a writ against Chavez for taking part in the " murder " of Manuel Gonzales so he and his father were anxious to be taken out of danger .
+3
+#7 issue VERB issue%2:32:00::,issue%2:32:02::,issue%2:41:00::
+#27 father NOUN father%1:18:00::,father%1:18:02::,father%1:18:02::;1:18:01::,father%1:18:03::,father%1:18:05::,father%1:18:06::
+#29 anxious ADJ anxious%5:00:00:troubled:00
+The men helped them gather their belongings and escorted them to Raton along with three other families desiring to leave .
+5
+#1 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#2 help VERB help%2:29:00::,help%2:34:00::,help%2:41:00::,help%2:42:00::
+#4 gather VERB gather%2:30:00::,gather%2:35:03::,gather%2:35:04::,gather%2:35:05::,gather%2:41:00::
+#15 other ADJ other%3:00:00::
+#16 family NOUN family%1:14:00::,family%1:14:03::,family%1:14:04::,family%1:14:06::,family%1:18:00::
+The ten or more dangerous parties singled out for prosecution were still at large , and Pels realized that if these men entrenched themselves in their adobe houses , defending themselves through loopholes , it would be most difficult to capture them .
+7
+#5 party NOUN party%1:14:02::,party%1:18:00::
+#9 prosecution NOUN prosecution%1:04:00::
+#11 still ADV still%4:02:00::
+#17 realize VERB realize%2:31:01::
+#21 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#22 entrench VERB entrench%2:35:00::
+#37 most ADV most%4:02:01::
+Thus he wired J. P. Lower and Sons of Denver : " Have you any percussion hand grenades for throwing in a house or across a well loaded with balls or shrapnel shot ?
+8
+#0 thus ADV thus%4:02:00::
+#2 wire VERB wire%2:32:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#15 percussion NOUN percussion%1:04:01::
+#19 throw VERB throw%2:32:00::,throw%2:35:00::,throw%2:35:01::,throw%2:35:02::,throw%2:35:07::,throw%2:35:08::,throw%2:36:02::,throw%2:38:00::,throw%2:38:03::
+#22 house NOUN house%1:04:00::,house%1:06:00::,house%1:06:01::,house%1:14:00::
+#29 ball NOUN ball%1:04:01::,ball%1:06:03::,ball%1:25:00::
+#32 shot NOUN shot%1:06:00::,shot%1:06:03::
+If not , how long to order and what is the price " ?
+2
+#6 order VERB order%2:32:00::
+#11 price NOUN price%1:07:01::,price%1:21:00::
+He wisely decided that it would be foolish to create a disturbance during the coming roundup , particularly since the Mexicans were on their guard .
+2
+#14 coming ADJ coming%5:00:01:future:00
+#17 particularly ADV particularly%4:02:00::,particularly%4:02:02::
+His problem then became one of restraining the American fighters who wanted to clean out the Vermejo by force immediately .
+4
+#1 problem NOUN problem%1:09:00::,problem%1:26:00::
+#3 become VERB become%2:30:00::,become%2:42:01::
+#9 fighter NOUN fighter%1:18:00::
+#18 force NOUN force%1:07:00::

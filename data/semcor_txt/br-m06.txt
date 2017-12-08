@@ -1,0 +1,368 @@
+ It would have killed you in the cabin .
+1
+#3 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+Do you have anything for me " ?
+1
+#2 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Mercer stammered , not knowing what B ' dikkat meant , and the two-nosed man answered for him , " I think he has a nice baby head , but it is n't big enough for you to take yet " .
+5
+#4 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+#15 answer VERB answer%2:31:00::,answer%2:32:00::
+#21 think VERB think%2:31:01::,think%2:31:03::
+#23 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Mercer never noticed the needle touch his arm .
+1
+#5 touch VERB touch%2:35:01::,touch%2:35:04::,touch%2:39:00::,touch%2:42:01::,touch%2:42:02::
+B ' dikkat had turned to the next knot of people when the super-condamine hit Mercer .
+1
+#14 hit VERB hit%2:33:03::,hit%2:35:00::,hit%2:35:01::
+He tried to run after B ' dikkat , to hug the lead spacesuit , to tell B ' dikkat that he loved him .
+3
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 run VERB run%2:33:01::,run%2:38:00::,run%2:38:03::,run%2:38:04::;2:38:00::,run%2:38:05::,run%2:38:10::
+#16 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+He stumbled and fell , but it did not hurt .
+1
+#3 fall VERB fall%2:38:14::,fall%2:38:15::,fall%2:40:05::,fall%2:41:00::,fall%2:41:01::,fall%2:41:02::,fall%2:42:00::
+The many-bodied girl lay near him .
+1
+#3 lie VERB lie%2:35:00::,lie%2:38:00::
+The woman covered with growing hands came and sat beside them .
+2
+#6 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#8 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+She radiated warmth and good fellowship .
+1
+#1 radiate VERB radiate%2:43:00::
+Mercer thought that she looked very distinguished and charming .
+2
+#1 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#4 look VERB look%2:39:01::,look%2:42:02::
+It was foolish and snobbish to wear clothing when none of these nice people did .
+1
+#6 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+With one corner of his mind he knew that they were saying nothing , just expressing the euphoria of a drug so powerful that the known universe had forbidden it .
+3
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 express VERB express%2:32:00::,express%2:32:03::,express%2:39:09::,expressed%5:00:00:spoken:00
+He wondered how anyone could have the good luck to visit a planet as nice as this .
+3
+#1 wonder VERB wonder%2:32:12::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#10 visit VERB visit%2:32:00::,visit%2:38:01::,visit%2:42:04::
+He tried to tell the Lady Da , but the words were n't quite straight .
+2
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+A painful stab hit him in the abdomen .
+1
+#3 hit VERB hit%2:33:00::,hit%2:35:05::,hit%2:41:00::
+He forced himself to be deliberate .
+1
+#1 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+He rammed his mind into focus and said to the two ladies who lay pinkly nude beside him in the desert , " That was a good bite .
+1
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Maybe I will grow another head .
+1
+#3 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+That would make B ' dikkat happy " !
+1
+#2 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+The Lady Da forced the foremost of her bodies in an upright position .
+1
+#3 force VERB force%2:35:00::,force%2:35:02::,force%2:35:05::,force%2:41:00::
+People never live forever .
+1
+#2 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+We can die , too , we can die like real people .
+2
+#2 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+#8 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+With this he felt his lips thicken and his mind go slack .
+2
+#3 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#10 go VERB go%2:30:04::,go%2:38:00::,go%2:39:00::,go%2:42:03::
+In that beautiful place , among all those companionable and attractive people , he sat and smiled .
+1
+#14 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+B ' dikkat was sterilizing his knives .
+1
+#4 sterilize VERB sterilise%2:29:01::
+Mercer wondered how long the super-condamine had lasted him .
+2
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#7 last VERB last%2:42:01::
+He endured the ministrations of the dromozoa without screams or movement .
+1
+#1 endure VERB endure%2:31:00::
+The agonies of nerves and itching of skin were phenomena which happened somewhere near him , but meant nothing .
+2
+#11 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#17 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+He watched his own body with remote , casual interest .
+1
+#1 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+After a long time the half-man dragged himself over to the group with his powerful arms .
+1
+#6 drag VERB drag%2:32:00::,drag%2:35:00::,drag%2:35:01::,drag%2:35:02::,drag%2:38:06::,drag%2:38:10::
+Having arrived he blinked sleepily and friendlily at them , and lapsed back into the restful stupor from which he had emerged .
+2
+#3 blink VERB blink%2:29:00::
+#11 lapse VERB lapse%2:38:01::
+Mercer saw the sun rise on occasion , closed his eyes briefly , and opened them to see stars shining .
+5
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#8 close VERB close%2:35:00::,close%2:35:06::,close%2:35:11::,close%2:35:15::,close%2:38:10::,close%2:38:15::
+#14 open VERB open%2:35:00::,open%2:35:06::,open%2:35:08::,open%2:40:04::,open%2:42:00::
+#17 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#19 shine VERB shine%2:43:00::
+Time had no meaning .
+1
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The dromozoa fed him in their mysterious way ; the drug canceled out his needs for cycles of the body .
+1
+#2 feed VERB feed%2:30:00::,feed%2:34:01::,feed%2:34:03::,feed%2:41:00::
+The pains themselves had not changed ; he had .
+1
+#5 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Formerly he had noticed them - now he felt them .
+1
+#8 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+He tried to ask the Lady Da how long they had had the drug , and how much longer they would have to wait before they had it again .
+5
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#11 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#23 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#26 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+She smiled at him with benign , remote happiness ; apparently her many torsos , stretched out along the ground , had a greater capacity for retaining the drug than did his body .
+1
+#21 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+She meant him well , but was in no condition for articulate speech .
+1
+#1 mean VERB mean%2:31:00::,mean%2:31:05::,mean%2:42:03::
+The half-man lay on the ground , arteries pulsating prettily behind the half-transparent film which protected his abdominal cavity .
+1
+#2 lie VERB lie%2:35:00::,lie%2:38:00::
+Mercer squeezed the man 's shoulder .
+1
+#1 squeeze VERB squeeze%2:35:00::,squeeze%2:35:05::,squeeze%2:40:03::,squeeze%2:41:01::
+The half-man woke , recognized Mercer and gave him a healthily sleepy grin .
+2
+#2 wake VERB wake%2:29:02::
+#4 recognize VERB recognize%2:31:00::,recognize%2:39:01::,recognized%5:00:00:acknowledged:00
+Did you ever see a play " ?
+1
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+" You mean a game with cards " ?
+1
+#2 mean VERB mean%2:31:00::,mean%2:32:01::,mean%2:32:03::,mean%2:42:03::
+" No " , said the half-man , " a sort of eye-machine with real people doing the figures " .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" I never saw that " , said Mercer , " but I " -
+2
+#3 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#7 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" But you want to ask me when B ' dikkat is going to come back with the needle " .
+2
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 ask VERB ask%2:32:00::,ask%2:32:04::
+" Yes " , said Mercer , a little ashamed of his obviousness .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Soon " , said the half-man .
+1
+#4 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+We all know what is going to happen .
+1
+#7 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+We all know when it is going to happen .
+1
+#8 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+We all know what the dummies will do " - he gestured at the hummocks in which the decorticated men were cradled - " and we all know what the new people will ask .
+3
+#21 cradle VERB cradle%2:35:00::
+#27 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#33 ask VERB ask%2:32:00::,ask%2:32:04::
+But we never know how long a scene is going to take " .
+2
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 take VERB take%2:40:06::,take%2:42:03::
+" What 's a ' scene " ' ? asked Mercer .
+1
+#9 ask VERB ask%2:32:00::,ask%2:32:04::
+I mean we know the order in which things happen , but we have no clocks and nobody cares enough to count days or to make calendars and there 's not much climate here , so none of us know how long anything takes .
+7
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+#13 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#18 care VERB care%2:37:00::,care%2:37:12::
+#25 make VERB make%2:30:00::,make%2:30:02::,make%2:36:07::,make%2:36:08::,make%2:36:10::,make%2:36:11::,make%2:36:13::,make%2:41:00::
+#39 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#43 take VERB take%2:40:06::,take%2:42:03::
+I 'm inclined to think that they are about two Earth-weeks each " .
+1
+#4 think VERB think%2:31:01::,think%2:31:03::
+Mercer did not know what an " Earth-week " was , since he had not been a well-read man before his conviction , but he got nothing more from the half-man at that time .
+1
+#3 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The half-man received a dromozootic implant , turned red in the face , shouted senselessly at Mercer , " Take it out , you fool !
+2
+#7 turn VERB turn%2:30:01::,turn%2:30:03::,turn%2:30:09::,turn%2:30:14::,turn%2:42:00::
+#13 shout VERB shout%2:32:00::,shout%2:32:01::,shout%2:32:08::
+When Mercer looked on helplessly , the half-man twisted over on his side , his pink dusty back turned to Mercer , and wept hoarsely and quietly to himself .
+2
+#8 twist VERB twist%2:29:00::,twist%2:32:00::,twist%2:35:00::,twist%2:35:01::,twist%2:35:02::,twist%2:35:06::,twist%2:38:01::
+#23 weep VERB weep%2:29:00::
+Mercer himself could not tell how long it was before B ' dikkat came back .
+1
+#4 tell VERB tell%2:31:00::,tell%2:31:01::
+Once again B ' dikkat moved among them like a father ; once again they clustered like children .
+1
+#5 move VERB move%2:30:00::,move%2:33:00::,move%2:38:02::,move%2:38:03::
+This time B ' dikkat smiled pleasantly at the little head which had grown out of Mercer 's thigh - a sleeping child 's head , covered with light hair on top and with dainty eyebrows over the resting eyes .
+1
+#13 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+Mercer got the blissful needle .
+1
+#1 get VERB get%2:29:00::,get%2:29:01::,get%2:39:14::,get%2:40:00::
+When B ' dikkat cut the head from Mercer 's thigh , he felt the knife grinding against the cartilage which held the head to his own body .
+2
+#13 feel VERB feel%2:35:00::,feel%2:35:11::,feel%2:39:00::,feel%2:39:01::,feel%2:40:00::,feel%2:42:00::
+#16 grind VERB grind%2:30:00::
+He saw the child-face grimace as the head was cut ; he felt the far , cool flash of unimportant pain , as B ' dikkat dabbed the wound with a corrosive antiseptic which stopped all bleeding immediately .
+3
+#1 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+#12 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#26 dab VERB dab%2:35:01::
+The next time it was two legs growing from his chest .
+1
+#7 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+Or was that after the torso and legs , waist to toe-tips , of the little girl which had grown from his side ?
+1
+#19 grow VERB grow%2:29:00::,grow%2:30:01::,grow%2:30:02::,grow%2:30:03::,grow%2:42:00::
+In between teratologies , she was a pretty and shapely woman ; but the nicest thing about their relationship was her whisper to him , repeated some thousands of time , repeated with smiles and hope , " People never live forever " .
+3
+#25 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#31 repeat VERB repeat%2:32:00::,repeat%2:32:01::
+#40 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+Thus events occurred , and victims changed in appearance , and new ones arrived .
+1
+#6 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Sometimes B ' dikkat took the new ones , resting in the everlasting sleep of their burned-out brains , in a ground-truck to be added to other herds .
+1
+#24 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+The bodies in the truck threshed and bawled without human speech when the dromozoa struck them .
+1
+#5 thresh VERB thresh%2:35:00::
+Finally , Mercer did manage to follow B ' dikkat to the door of the cabin .
+2
+#4 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#6 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Only the memory of previous hurt , bewilderment and perplexity made him sure that if he did not ask B ' dikkat when he , Mercer , was happy , the answer would no longer be available when he needed it .
+3
+#10 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#18 ask VERB ask%2:32:00::,ask%2:32:04::
+#39 need VERB need%2:42:00::
+Fighting pleasure itself , he begged B ' dikkat to check the records and to tell him how long he had been there .
+2
+#10 check VERB check%2:31:01::,check%2:31:02::,check%2:31:12::,check%2:32:10::,check%2:41:08::,check%2:42:08::
+#15 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+B ' dikkat grudgingly agreed , but he did not come out of the doorway .
+1
+#4 agree VERB agree%2:32:00::,agree%2:32:01::
+He spoke through the public address box built into the cabin , and his gigantic voice roared out over the empty plain , so that the pink herd of talking people stirred gently in their happiness and wondered what their friend B ' dikkat might be wanting to tell them .
+6
+#1 speak VERB speak%2:32:00::,speak%2:32:01::,speak%2:32:02::,speak%2:32:03::,speak%2:39:00::
+#16 roar VERB roar%2:29:00::,roar%2:32:01::,roar%2:32:02::,roar%2:32:03::,roar%2:32:05::
+#31 stir VERB stir%2:36:00::,stir%2:38:01::,stir%2:38:04::
+#37 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#46 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#48 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+When he said it , they thought it exceedingly profound , though none of them understood it , since it was simply the amount of time that Mercer had been on Shayol :
+3
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#6 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+#15 understand VERB understand%2:31:00::,understand%2:31:01::,understand%2:31:02::,understand%2:31:03::,understand%2:31:04::
+The secret little corner of his mind , which stayed sane through happiness and pain , made him wonder about B ' dikkat .
+2
+#9 stay VERB stay%2:42:02::
+#18 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+What kept him happy without super-condamine ?
+1
+#1 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+Was B ' dikkat a crazy slave to his own duty or was he a man who had hopes of going back to his own planet some day , surrounded by a family of little cow-people resembling himself ?
+1
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+Mercer , despite his happiness , wept a little at the strange fate of B ' dikkat .
+1
+#6 weep VERB weep%2:29:00::
+His own fate he accepted .
+1
+#4 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+The dromozoa kept him alive , but he did not know how they did it .
+2
+#2 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#10 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+He staggered back to the group .
+1
+#1 stagger VERB stagger%2:38:01::
+The Lady Da , naked in the dusty plain , waved a hospitable hand and showed that there was a place for him to sit beside her .
+3
+#10 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#15 show VERB show%2:31:00::,show%2:32:00::,show%2:32:01::
+#24 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+There were unclaimed square miles of seating space around them , but he appreciated the kindliness of her gesture none the less .
+1
+#13 appreciate VERB appreciate%2:37:00::,appreciate%2:40:00::
+The land of Shayol did not change .
+1
+#6 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+Sometimes the bubbling sound of geysers came faintly across the plain to the herd of men ; those who could talk declared it to be the breathing of Captain Alvarez .
+1
+#21 declare VERB declare%2:32:00::,declare%2:32:01::,declare%2:32:04::,declare%2:32:05::,declare%2:32:06::
+" People never live forever " .
+1
+#3 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+Her statement was a hope , not a truth in which they could believe .
+1
+#13 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+They did not have the wit to follow the stars in their courses , to exchange names with each other , to harvest the experience of each for the wisdom of all .
+2
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 follow VERB follow%2:30:12::,follow%2:38:00::,follow%2:38:01::,follow%2:42:02::
+Though they saw the old-style chemical rockets lift up from the field beyond B ' dikkat 's cabin , they did not make plans to hide among the frozen crop of transmuted flesh .
+1
+#2 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+Far long ago , some other prisoner than one of these had tried to write a letter .
+2
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#14 write VERB write%2:32:00::,write%2:32:01::,write%2:32:08::
+Mercer read it , and so had a few of the others , but they could not tell which man had done it .
+2
+#1 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#17 tell VERB tell%2:31:00::,tell%2:31:01::
+Nor did they care .
+1
+#3 care VERB care%2:37:00::,care%2:37:12::
+The letter , scraped on stone , had been a message home .
+1
+#3 scrape VERB scrape%2:35:02::
+They could still read the opening : " Once , I was like you , stepping out of my window at the end of day , and letting the winds blow me gently toward the place I lived in .
+2
+#3 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+#27 let VERB let%2:30:01::,let%2:41:00::
+Once , like you , I had one head , two hands , ten fingers on my hands .
+1
+#6 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+The front part of my head was called a face , and I could talk with it .
+1
+#7 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Now I can only write , and that only when I get out of pain .
+2
+#4 write VERB write%2:32:00::,write%2:36:01::,write%2:36:03::
+#11 get VERB get%2:30:00::,get%2:30:02::,get%2:30:03::,get%2:30:12::,get%2:32:00::

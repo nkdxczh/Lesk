@@ -1,0 +1,527 @@
+ As part of the same arrangement , Torrio had , in the spirit of peace and good will , and in exchange for armed support in the April election campaign , bestowed upon O ' Banion a third share in the Hawthorne Smoke Shop proceeds and a cut in the Cicero beer trade .
+8
+#1 part NOUN part%1:06:00::,part%1:09:00::,part%1:17:00::
+#4 same ADJ same%3:00:00::,same%3:00:02::
+#5 arrangement NOUN arrangement%1:09:01::
+#12 spirit NOUN spirit%1:07:02::,spirit%1:07:03::,spirit%1:10:00::,spirit%1:18:00::,spirit%1:26:00::,spirit%1:26:01::
+#14 peace NOUN peace%1:12:00::,peace%1:26:00::
+#24 support NOUN support%1:04:00::,support%1:04:04::,support%1:09:00::
+#38 share NOUN share%1:04:00::,share%1:04:01::,share%1:21:00::,share%1:21:01::
+#47 cut NOUN cut%1:26:00::
+The coalition was to prove inadvisable .
+1
+#4 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+O ' Banion was a complex and frightening man , whose bright blue eyes stared with a kind of frozen candour into others ' .
+3
+#5 complex ADJ complex%3:00:00::
+#8 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 eye NOUN eye%1:08:00::,eye%1:09:01::
+He had a round , frank Irish face , creased in a jovial grin that stayed bleakly in place even when he was pumping bullets into someone 's body .
+6
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#9 crease VERB crease%2:35:01::
+#23 pump VERB pump%2:38:00::
+#24 bullet NOUN bullet%1:06:00::
+#28 body NOUN body%1:08:00::,body%1:08:02::
+He carried three guns - one in the right trouser pocket , one under his left armpit , one in the left outside coat pocket - and was equally lethal with both hands .
+10
+#1 carry VERB carry%2:35:02::,carry%2:38:03::,carry%2:42:01::
+#8 right ADJ right%3:00:00::
+#10 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#15 left ADJ left%5:00:00:unexhausted:00
+#21 left ADJ left%5:00:00:unexhausted:00
+#22 outside ADJ outside%3:00:00::,outside%3:00:04::,outside%5:00:00:inaccurate:00,outside%5:00:00:outer:00
+#23 coat NOUN coat%1:06:00::
+#24 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+#28 equally ADV equally%4:02:01::
+#32 hand NOUN hand%1:08:00::,hand%1:10:01::
+He killed accurately , freely , and dispassionately .
+1
+#1 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+The police credited him with twenty-five murders but he was never brought to trial for one of them .
+2
+#10 never ADV never%4:02:00::
+#13 trial NOUN trial%1:04:02::
+Like a fair number of bootleggers he disliked alcohol .
+2
+#2 fair ADJ fair%5:00:00:ordinary:00
+#3 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+He was an expert florist , tenderly dextrous in the arrangement of bouquets and wreaths .
+2
+#10 arrangement NOUN arrangement%1:04:02::,arrangement%1:09:01::,arrangement%1:14:00::
+#12 bouquet NOUN bouquet%1:06:00::
+He had no apparent comprehension of morality ; he divided humanity into " right guys " and " wrong guys " , and the wrong ones he was always willing to kill and trample under .
+9
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 comprehension NOUN comprehension%1:09:00::
+#9 divide VERB divide%2:38:00::,divide%2:41:00::,divide%2:42:00::
+#10 humanity NOUN humanity%1:05:00::
+#14 guy NOUN guy%1:18:00::
+#18 wrong ADJ wrong%3:00:01::
+#19 guy NOUN guy%1:18:00::
+#28 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#31 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+He had what was described by a psychologist as a " sunny brutality " .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#4 describe VERB describe%2:32:01::
+He walked with a heavy list to the right , as that leg was four inches shorter than the other , but the lurch did not reduce his feline quickness with his guns .
+9
+#1 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#4 heavy ADJ heavy%3:00:02::,heavy%5:00:00:dull:03,heavy%5:00:00:fat:01,heavy%5:00:00:important:00,heavy%5:00:01:effortful:00
+#8 right NOUN right%1:04:00::,right%1:06:00::,right%1:08:00::,right%1:15:00::
+#12 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+#15 inch NOUN inch%1:23:02::
+#16 short ADJ short%3:00:01::
+#23 lurch NOUN lurch%1:04:02::
+#25 not ADV not%4:02:00::
+#26 reduce VERB reduce%2:29:00::,reduce%2:30:00::,reduce%2:30:02::,reduce%2:30:05::,reduce%2:30:12::,reduce%2:41:03::
+Landesco thought him " just a superior sort of plugugly " but he was , in fact , with his aggression and hostility , and nerveless indifference to risking or administering pain , a casebook psychopath .
+6
+#4 just ADV just%4:02:00::,just%4:02:03::
+#6 superior ADJ superior%3:00:01::
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#25 nerveless ADJ nerveless%5:00:00:composed:00
+#30 administer VERB administer%2:41:01::
+#31 pain NOUN pain%1:09:00::,pain%1:09:01::,pain%1:12:00::,pain%1:26:00::
+He was also at this time , although not so interwoven in high politics and the rackets as Torrio and Capone , the most powerful and most dangerous mob leader in the Chicago underworld , the roughneck king .
+10
+#5 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#8 not ADV not%4:02:00::
+#9 so ADV so%4:02:03::,so%4:02:07::
+#16 racket NOUN racket%1:04:00::
+#23 most ADV most%4:02:00::
+#26 most ADV most%4:02:00::
+#29 leader NOUN leader%1:18:00::
+#33 underworld NOUN underworld%1:09:00::
+#36 roughneck NOUN roughneck%1:18:00::
+#37 king NOUN king%1:18:01::,king%1:26:00::
+O ' Banion was born in poverty , the son of an immigrant Irish plasterer , in the North Side 's Little Hell , close by the Sicilian quarter and Death Corner .
+2
+#24 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+#28 quarter NOUN quarter%1:15:00::
+He had been a choir boy at the Holy Name Cathedral and also served as an acolyte to Father O ' Brien .
+1
+#13 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+The influence of Mass was less pervasive than that of the congested , slum tenements among the bawdy houses , honkytonks , and sawdust saloons of his birthplace ; he ran wild with the child gangs of the neighbourhood , and went through the normal pressure-cooker course of thieving , police dodging , and housebreaking .
+7
+#14 tenement NOUN tenement%1:06:00::
+#20 honky-tonk NOUN honkytonk%1:06:00::
+#30 run VERB run%2:38:04::,run%2:38:11::
+#35 gang NOUN gang%1:14:00::
+#44 normal ADJ normal%3:00:01::,normal%3:00:03::
+#46 course NOUN course%1:04:00::,course%1:06:00::,course%1:15:00::,course%1:17:00::
+#51 dodge NOUN dodge%1:04:00::
+At the age of ten , when he was working as a newsboy in the Loop , he was knocked down by a streetcar which resulted in his permanently shortened leg .
+3
+#2 age NOUN age%1:07:00::,age%1:28:00::,age%1:28:01::
+#9 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#30 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+Because of this he was known as Gimpy ( but , as with Capone and his nickname of Scarface , never in his presence ) .
+1
+#20 never ADV never%4:02:00::
+In his teens O ' Banion was enrolled in the vicious Market Street gang and he became a singing waiter in McGovern's Cafe , a notoriously low and rowdy dive in North Clark Street , where befuddled customers were methodically looted of their money by the singing waiters before being thrown out .
+7
+#10 vicious ADJ vicious%5:00:00:wrong:01
+#13 gang NOUN gang%1:14:00::
+#16 become VERB become%2:30:00::,become%2:42:01::
+#19 waiter NOUN waiter%1:18:00::
+#26 low ADJ low%5:00:00:contemptible:00,low%5:00:00:humble:00,low%5:00:00:inferior:01,low%5:00:00:unrefined:01
+#29 dive NOUN dive%1:06:01::
+#47 waiter NOUN waiter%1:18:00::
+He then got a job with the Chicago Herald-Examiner as a circulation slugger , a rough fighter employed to see that his paper 's news pitches were not trespassed upon by rival vendors .
+11
+#1 then ADV then%4:02:00::
+#2 get VERB get%2:30:02::,get%2:31:03::,get%2:32:03::,get%2:35:00::,get%2:35:03::,get%2:38:00::,get%2:39:00::
+#4 job NOUN job%1:04:00::,job%1:06:00::
+#15 rough ADJ rough%5:00:00:aggressive:00,rough%5:00:00:difficult:00,rough%5:00:00:stormy:00
+#16 fighter NOUN fighter%1:18:00::
+#17 employ VERB employ%2:34:00::,employ%2:41:00::
+#19 see VERB see%2:31:03::,see%2:32:00::,see%2:38:03::,see%2:41:14::
+#22 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#25 pitch NOUN pitch%1:04:03::
+#27 not ADV not%4:02:00::
+#28 trespass VERB trespass%2:41:01::
+He was also at the same time gaining practical experience as a safe breaker and highwayman , and learning how to shoot to kill from a Neanderthal convicted murderer named Gene Geary , later committed to Chester Asylum as a homicidal maniac , but whose eyes misted with tears when the young Dion sang a ballad about an Irish mother in his clear and syrupy tenor .
+13
+#7 gain VERB gain%2:38:00::,gain%2:40:00::,gain%2:40:01::,gain%2:40:03::
+#8 practical ADJ practical%3:00:00::,practical%5:00:00:applied:00,practical%5:00:01:realistic:00
+#18 learn VERB learn%2:31:01::,learn%2:31:03::
+#21 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#23 kill VERB kill%2:30:08::;2:35:00::,kill%2:35:00::,kill%2:35:02::
+#29 name VERB name%2:32:02::,name%2:32:03::,name%2:32:04::,name%2:32:07::,name%2:41:01::
+#33 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#34 commit VERB commit%2:32:01::,commit%2:40:00::,commit%2:40:02::
+#45 eye NOUN eye%1:08:00::,eye%1:09:01::
+#48 tear NOUN tear%1:08:01::
+#53 sing VERB sing%2:32:08::,sing%2:36:01::
+#59 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#65 tenor NOUN tenor%1:07:00::
+O ' Banion 's first conflict with the police came in 1909 , at seventeen , when he was committed to Bridewell Prison for three months for burglary ; two years later he served another three months for assault .
+6
+#4 first ADJ first%3:00:00::,first%4:02:00::
+#9 come VERB come%2:30:13::,come%2:31:14::,come%2:42:04::,come%2:42:13::
+#19 commit VERB commit%2:32:01::,commit%2:40:00::,commit%2:40:02::
+#31 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#33 serve VERB serve%2:33:00::,serve%2:41:02::,serve%2:41:13::,serve%2:42:02::,serve%2:42:03::
+#38 assault NOUN assault%1:04:01::
+Those were his only interludes behind bars , although he collected four more charges on his police record in 1921 and 1922 , three for burglary and one for robbery .
+5
+#4 interlude NOUN interlude%1:28:00::
+#6 bar NOUN bar%1:06:00::,bar%1:06:02::,bar%1:06:06::,bar%1:07:00::,bar%1:17:00::
+#10 collect VERB collect%2:40:00::,collect%2:40:01::,collect%2:40:03::
+#13 charge NOUN charge%1:10:00::,charge%1:10:04::
+#17 record NOUN record%1:04:01::,record%1:10:00::,record%1:23:00::
+But by now O ' Banion 's political pull was beginning to be effective .
+4
+#2 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#8 pull NOUN pull%1:07:00::
+#10 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#13 effective ADJ effective%3:00:00::,effective%5:00:00:operative:00
+On the occasion of his 1922 indictment the $ 10000 bond was furnished by an alderman , and the charge was nolle prossed .
+3
+#2 occasion NOUN occasion%1:11:00::,occasion%1:11:01::,occasion%1:26:00::
+#6 indictment NOUN indictment%1:10:01::
+#19 charge NOUN charge%1:10:00::,charge%1:10:04::
+On one of his 1921 ventures he was actually come upon by a Detective Sergeant John J. Ryan down on his knees with a tool embedded in a labour office safe in the Postal Telegraph Building ; the jury wanted better evidence than that and he was acquitted , at a cost of $ 30000 in bribes , it was estimated .
+10
+#8 actually ADV actually%4:02:00::,actually%4:02:02::
+#18 down ADJ down%3:00:00::
+#24 tool NOUN tool%1:04:00::,tool%1:06:00::,tool%1:18:00::
+#25 embed VERB embed%2:33:00::
+#28 labor NOUN labor%1:04:00::,labor%1:14:00::,labor%1:14:01::
+#29 office NOUN office%1:06:00::
+#30 safe NOUN safe%1:06:00::
+#39 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#40 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#47 acquit VERB acquit%2:32:00::
+As promptly as Torrio , O ' Banion jumped into bootlegging .
+2
+#1 promptly ADV promptly%4:02:02::
+#8 jump VERB jump%2:30:00::,jump%2:30:01::,jump%2:38:00::,jump%2:38:11::
+He conducted it with less diplomacy and more spontaneous violence than the Sicilians , but he had his huge North Side portion to exploit and he made a great deal of money .
+3
+#1 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#16 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#26 make VERB make%2:40:01::
+Unlike the Sicilians , he additionally conducted holdups , robberies , and safe cracking expeditions , and refused to touch prostitution .
+6
+#6 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#7 holdup NOUN holdup%1:04:00::
+#12 safe NOUN safe%1:06:00::
+#13 crack NOUN crack%1:25:00::
+#14 expedition NOUN expedition%1:04:00::
+#19 touch VERB touch%2:30:00::,touch%2:34:00::,touch%2:35:03::,touch%2:41:00::
+He was also personally active in ward politics , and by 1924 O ' Banion had acquired sufficient political might to be able to state : " I always deliver my borough as per requirements " .
+7
+#3 personally ADV personally%4:02:03::
+#6 ward NOUN ward%1:15:00::
+#19 might NOUN might%1:07:00::
+#22 able ADJ able%3:00:00::
+#24 state VERB state%2:32:01::,state%2:32:02::
+#28 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#29 deliver VERB deliver%2:35:00::,deliver%2:40:01::,deliver%2:40:07::,deliver%2:41:01::
+Until 1924 O ' Banion pistoleers and knuckle-duster bullyboys had kept his North Side domain solidly Democratic .
+2
+#10 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+#16 democratic ADJ democratic%3:01:00::
+There was a question and answer gag that went around at that time : Q. " Who 'll carry the Forty-second and Forty-third wards " ?
+4
+#6 gag NOUN gag%1:10:00::
+#12 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+#18 carry VERB carry%2:33:01::,carry%2:33:02::
+#23 ward NOUN ward%1:15:00::
+A. " O ' Banion , in his pistol pocket " .
+2
+#8 pistol NOUN pistol%1:06:00::
+#9 pocket NOUN pocket%1:06:00::,pocket%1:06:01::,pocket%1:21:00::,pocket%1:25:00::
+But as November 1924 drew close the Democratic hierarchy was sorely troubled by grapevine reports that O ' Banion was being wooed by the opposition , and was meeting and conferring with important Republicans .
+8
+#2 November NOUN november%1:28:00::
+#4 draw VERB draw%2:30:08::,draw%2:30:14::,draw%2:35:02::,draw%2:35:03::,draw%2:38:02::
+#7 democratic ADJ democratic%3:01:00::
+#13 grapevine NOUN grapevine%1:10:00::
+#14 report NOUN report%1:09:00::,report%1:10:00::,report%1:10:03::,report%1:10:04::
+#28 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+#30 confer VERB confer%2:32:00::
+#33 republican NOUN republican%1:18:01::
+To forestall any change of allegiance , the Democrats hastily organised a testimonial banquet for O ' Banion , as public reward for his past services and as a reminder of where his loyalties lay .
+3
+#3 change NOUN change%1:04:00::,change%1:06:00::,change%1:06:01::,change%1:07:00::,change%1:11:00::
+#8 democrat NOUN democrat%1:18:01::
+#34 lie VERB lie%2:42:03::
+The reception was held in a private dining room of the Webster Hotel on Lincoln Park West .
+3
+#1 reception NOUN reception%1:14:00::
+#3 hold VERB hold%2:36:00::,holding%1:04:00::
+#6 private ADJ private%3:00:00::,private%5:00:02:personal:00
+It was an interesting fraternisation of ex convicts , union racketeers , ward heelers , sold-out officials , and gunmen .
+1
+#9 union NOUN union%1:14:01::,union%1:14:02::
+The guest list is in itself a little parable of the state of American civic life at this time .
+3
+#2 list NOUN list%1:10:00::
+#15 life NOUN life%1:03:00::,life%1:07:01::,life%1:09:00::,life%1:19:00::,life%1:26:01::
+#18 time NOUN time%1:11:01::,time%1:28:00::,time%1:28:05::,time%1:28:06::
+It included the top O ' Banion men and Chief of Detectives Michael Hughes .
+2
+#1 include VERB include%2:31:00::,include%2:41:03::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+When Mayor Dever heard of the banquet he summoned Hughes for an explanation of why he had been dishonouring the police department by consorting with these felons and fixers .
+3
+#18 dishonor VERB dishonor%2:41:00::
+#26 felon NOUN felon%1:18:00::
+#28 fixer NOUN fixer%1:27:00::
+Hughes said that he had understood the party was to be in honour of Jerry O ' Connor , the proprieter of a Loop gambling house .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 understand VERB understand%2:31:01::,understand%2:31:02::
+#7 party NOUN party%1:14:00::
+" But when I arrived and recognised a number of notorious characters I had thrown into the detective bureau basement half a dozen times , I knew I had been framed , and withdrew almost at once " .
+8
+#8 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#11 character NOUN character%1:09:01::,character%1:18:00::,character%1:18:02::
+#14 throw VERB throw%2:31:00::,throw%2:35:02::
+#18 bureau NOUN bureau%1:14:00::
+#23 time NOUN time%1:11:00::
+#26 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#30 frame VERB frame%2:31:00::
+#33 withdraw VERB withdraw%2:30:00::,withdraw%2:38:00::,withdraw%2:40:01::,withdraw%2:41:00::,withdraw%2:41:01::
+In fact , O ' Connor was honoured during the ceremony with the presentation of a $ 2500 diamond stickpin .
+4
+#7 honor VERB honor%2:41:01::
+#10 ceremony NOUN ceremony%1:11:00::
+#13 presentation NOUN presentation%1:04:01::
+#18 diamond NOUN diamond%1:27:00::
+There was a brief interruption while one of O ' Banion 's men jerked out both his guns and threatened to shoot a waiter who was pestering him for a tip .
+5
+#12 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#13 jerk VERB jerk%2:35:01::
+#21 shoot VERB shoot%2:33:00::,shoot%2:33:01::
+#23 waiter NOUN waiter%1:18:00::
+#30 tip NOUN tip%1:21:00::
+Then O ' Banion was presented with a platinum watch set with rubies and diamonds .
+5
+#0 then ADV then%4:02:00::
+#5 present VERB present%2:32:01::,present%2:32:06::,present%2:36:00::,present%2:39:00::,present%2:40:00::,present%2:40:01::,present%2:40:02::
+#9 watch NOUN watch%1:06:00::
+#10 set VERB set%2:30:06::,set%2:30:12::,set%2:31:04::,set%2:35:02::,set%2:35:09::,set%2:36:00::,set%2:36:01::,set%2:36:11::
+#14 diamond NOUN diamond%1:27:00::
+This dinner was the start of a new blatancy in the relationship between the gangs and the politicians , which , prior to 1924 , says Pasley , " had been maintained with more or less stealth " , but which henceforth was marked by these ostentatious gatherings , denounced by a clergyman as " Belshazzar feasts " , at which " politicians fraternized cheek by jowl with gangsters , openly , in the big downtown hotels " .
+10
+#4 start NOUN start%1:04:00::,start%1:07:00::,start%1:11:00::,start%1:28:00::
+#7 new ADJ new%3:00:00::
+#14 gang NOUN gang%1:14:00::
+#25 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#31 maintain VERB maintain%2:40:00::,maintain%2:42:00::
+#36 stealth NOUN stealth%1:04:00::
+#43 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#47 gathering NOUN gathering%1:04:00::
+#74 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#76 hotel NOUN hotel%1:06:00::
+Pasley continued : " They became an institution of the Chicago scene and marked the way to the moral and financial collapse of the municipal and county governments in 1928 - 29 " .
+7
+#1 continue VERB continue%2:32:00::,continue%2:42:01::
+#5 become VERB become%2:30:00::,become%2:42:01::
+#7 institution NOUN institution%1:09:00::
+#11 scene NOUN scene%1:09:00::,scene%1:11:00::,scene%1:15:00::,scene%1:26:00::,scene%1:26:01::
+#13 mark VERB mark%2:31:01::,mark%2:31:09::,mark%2:32:02::,mark%2:39:00::,mark%2:41:00::
+#15 way NOUN way%1:04:01::,way%1:04:02::,way%1:06:00::,way%1:07:02::,way%1:15:00::,way%1:21:00::
+#27 government NOUN government%1:04:00::,government%1:09:00::,government%1:09:01::,government%1:14:00::
+However , this inaugural feast did its sponsors no good whatever .
+2
+#0 however ADV however%4:02:04::
+#7 sponsor NOUN sponsor%1:18:01::
+O ' Banion accepted his platinum watch and the tributes to his loyalty , and proceeded with the bigger and better Republican deal .
+6
+#3 accept VERB accept%2:31:01::,accept%2:32:00::,accept%2:40:00::,accept%2:40:03::,accept%2:42:00::
+#6 watch NOUN watch%1:06:00::
+#9 tribute NOUN tribute%1:10:01::
+#18 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#20 better ADJ better%3:00:00::,better%5:00:00:advisable:00
+#22 deal NOUN deal%1:10:00::
+On Election Day - November 4 - he energetically marshalled his force of bludgeon men , bribers , and experts in forging repeat votes .
+4
+#4 November NOUN november%1:28:00::
+#9 marshal VERB marshal%2:35:00::
+#11 force NOUN force%1:14:01::,force%1:14:02::
+#14 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The result was a landslide for the Republican candidates .
+1
+#4 landslide NOUN landslide%1:11:01::
+This further demonstration of O ' Banion 's ballooning power did not please Torrio and Capone .
+5
+#1 further ADJ further%5:00:00:far:00
+#2 demonstration NOUN demonstration%1:10:03::
+#9 power NOUN power%1:07:00::,power%1:09:01::,power%1:14:00::,power%1:18:00::,power%1:26:00::
+#11 not ADV not%4:02:00::
+#12 please VERB please%2:37:00::,please%2:37:03::
+In the past year there had been too many examples of his euphoric self-confidence and self aggrandisement for their liking .
+3
+#7 too ADV too%4:02:00::
+#9 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#19 like NOUN like%1:09:00::
+He behaved publicly with a cocky , swaggering truculence that offended their vulpine Latin minds , and behaved towards them personally with an unimpressed insolence that enraged them beneath their blandness .
+4
+#1 behave VERB behave%2:41:00::,behave%2:41:01::
+#10 offend VERB offend%2:37:01::
+#17 behave VERB behave%2:41:00::,behave%2:41:01::
+#20 personally ADV personally%4:02:03::
+They were disturbed by his idiotic bravado - as , when his bodyguard , Yankee Schwartz , complained that he had been snubbed by Dave Miller , a prize-fight referee , chieftain of a Jewish gang and one of four brothers of tough reputation , who were Hirschey , a gambler politician in loose beer running league with Torrio and O ' Banion , Frank , a policeman , and Max , the youngest .
+7
+#22 snub VERB snub%2:32:00::
+#29 referee NOUN referee%1:18:00::
+#35 gang NOUN gang%1:14:00::
+#40 brother NOUN brother%1:18:00::,brother%1:18:02::,brother%1:18:04::
+#42 tough ADJ tough%3:00:01::,tough%3:00:02::,tough%3:00:03::,tough%5:00:00:rugged:00,tough%5:00:00:violent:00,tough%5:00:01:difficult:00
+#55 run VERB run%2:40:06::
+#56 league NOUN league%1:14:00::
+To settle this slight , O ' Banion went down to the La Salle Theatre in the Loop , where , he had learned , Dave Miller was attending the opening of a musical comedy .
+5
+#1 settle VERB settle%2:30:04::,settle%2:31:00::,settle%2:32:00::,settle%2:32:01::,settle%2:32:04::,settle%2:40:00::,settled%3:00:02::
+#8 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+#23 learn VERB learn%2:31:01::,learn%2:31:03::
+#28 attend VERB attend%2:42:00::
+#30 opening NOUN opening%1:10:00::
+At the end of the performance , Dave and Max came out into the brilliantly lit foyer among a surge of gowned and tuxedoed first nighters .
+2
+#2 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#5 performance NOUN performance%1:04:01::,performance%1:10:00::
+O ' Banion drew his guns and fired at Dave , severely wounding him in the stomach .
+4
+#3 draw VERB draw%2:30:05::,draw%2:30:15::,draw%2:31:13::,draw%2:33:01::,draw%2:34:01::,draw%2:35:04::,draw%2:38:01::,draw%2:40:00::,draw%2:40:01::,draw%2:42:00::
+#7 fire VERB fire%2:33:00::,fire%2:33:02::
+#11 severely ADV severely%4:02:01::
+#16 stomach NOUN stomach%1:08:00::,stomach%1:08:01::
+A second bullet ricocheted off Max 's belt buckle , leaving him unhurt but in some distress .
+3
+#2 bullet NOUN bullet%1:06:00::
+#10 leave VERB leave%2:40:06::,leave%2:42:00::,leave%2:42:02::
+#16 distress NOUN distress%1:26:00::
+O ' Banion tucked away his gun and walked out of the theatre ; he was neither prosecuted nor even arrested .
+5
+#3 tuck VERB tuck%2:35:01::
+#4 away ADV away%4:02:04::
+#8 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#17 prosecute VERB prosecute%2:41:01::
+#20 arrest VERB arrest%2:35:00::
+That sort of braggadocio , for that sort of reason , in the view of Torrio and Capone , was a nonsense .
+5
+#1 sort NOUN sort%1:09:00::,sort%1:18:00::
+#7 sort NOUN sort%1:09:00::,sort%1:18:00::
+#9 reason NOUN reason%1:09:01::,reason%1:16:00::
+#13 view NOUN view%1:09:04::
+#21 nonsense NOUN nonsense%1:06:00::
+A further example of the incompatible difference in personalities was when two policemen held up a Torrio beer convoy on a West Side street and demanded $ 300 to let it through .
+5
+#1 further ADJ further%5:00:00:far:00
+#2 example NOUN example%1:04:00::,example%1:09:02::,example%1:09:02::;1:09:00::
+#8 personality NOUN personality%1:07:00::
+#29 let VERB let%2:30:01::,let%2:41:00::
+#31 through ADV through%4:02:01::
+One of the beer runners telephoned O ' Banion - on a line tapped by the detective bureau - and reported the situation .
+5
+#12 line NOUN line%1:06:00::,line%1:06:01::,line%1:06:03::,line%1:06:05::,line%1:06:07::
+#13 tap VERB tap%2:39:00::
+#17 bureau NOUN bureau%1:14:00::
+#20 report VERB report%2:32:00::,report%2:32:01::,report%2:32:04::
+#22 situation NOUN situation%1:26:01::
+To them bums ?
+1
+#2 bum NOUN bum%1:18:01::
+Upon which the detective bureau despatched rifle squads to prevent trouble if O ' Banion should send his gunmen out to deal with the hijacking policemen .
+6
+#4 bureau NOUN bureau%1:14:00::
+#5 dispatch VERB despatch%2:38:00::
+#9 prevent VERB prevent%2:41:00::
+#10 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#16 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+#21 deal VERB deal%2:32:08::,deal%2:41:00::,deal%2:41:04::,deal%2:41:09::,deal%2:41:13::
+But in the meantime the beer runner , unhappy with this solution , telephoned Torrio and returned to O ' Banion with the message : " Say , Dionie , I just been talking to Johnny , and he said to let them cops have the three hundred .
+7
+#11 solution NOUN solution%1:09:00::,solution%1:10:00::
+#16 return VERB return%2:30:01::,return%2:32:00::,return%2:38:00::
+#23 message NOUN message%1:10:00::,message%1:10:01::
+#39 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#41 let VERB let%2:30:01::,let%2:41:00::
+#43 cop NOUN cop%1:18:00::
+#44 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+He says he do n't want no trouble " .
+3
+#1 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#5 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#7 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+But Torrio and Capone had graver cause to hate and distrust the Irishman .
+1
+#6 cause NOUN cause%1:03:00::,cause%1:10:00::,cause%1:11:00::
+For three years , since the liquor territorial conference , Torrio had , with his elastic patience , and because he knew that retaliation could cause only violent warfare and disaster to business , tolerated O ' Banion 's impudent double-crossing .
+7
+#6 liquor NOUN liquor%1:13:00::
+#7 territorial ADJ territorial%3:01:00::
+#8 conference NOUN conference%1:14:00::
+#16 patience NOUN patience%1:07:00::
+#21 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#26 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#32 business NOUN business%1:04:00::,business%1:04:01::,business%1:04:02::,business%1:14:00::
+They had suffered , in sulky silence , the sight of his sharp practice in Cicero .
+2
+#2 suffer VERB suffer%2:39:01::
+#12 sharp ADJ sharp%5:00:00:perceptive:00,sharp%5:00:00:smart:00,sharp%5:00:00:steep:00
+When , as a diplomatic gesture of amity and in payment for the loan of gunmen in the April election , Torrio had given O ' Banion a slice of Cicero , the profits from that district had been $ 20000 a month .
+4
+#4 diplomatic ADJ diplomatic%3:01:00::
+#10 payment NOUN payment%1:04:00::,payment%1:21:00::
+#23 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#28 slice NOUN slice%1:13:00::
+In six months O ' Banion had boosted the profits to $ 100000 a month - mainly by bringing pressure to bear on fifty Chicago speak-easy proprietors to shift out to the suburb .
+1
+#19 pressure NOUN pressure%1:07:00::,pressure%1:26:00::
+These booze customers had until then been buying their supplies from the Sheldon , Saltis-McErlane , and Druggan-Lake gangs , and now they were competing for trade with the Torrio-Capone saloons ; once again O ' Banion 's brash recklessness had caused a proliferation of ill will .
+4
+#7 buy VERB buy%2:40:00::,buy%2:40:02::,buy%2:40:03::
+#18 gang NOUN gang%1:14:00::
+#21 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#30 saloon NOUN saloon%1:06:01::
+The revenue from O ' Banion 's Cicero territory went up still higher , until the yield was more than the Torrio-Capone takings from the far bigger trade area of Chicago 's South and West Sides .
+6
+#8 territory NOUN territory%1:15:01::
+#12 high ADJ high%3:00:02::
+#22 taking NOUN takings%1:21:00::
+#25 far ADV far%4:02:00::,far%4:02:01::
+#26 big ADJ big%3:00:01::,big%5:00:00:intemperate:00,big%5:00:00:loud:00,big%5:00:00:mature:01,big%5:00:00:pregnant:00
+#28 area NOUN area%1:06:00::,area%1:07:00::,area%1:09:00::,area%1:15:01::
+But he still showed no intention of sharing with the syndicate .
+3
+#2 still ADV still%4:02:00::
+#3 show VERB show%2:31:00::,show%2:32:02::,show%2:39:01::
+#5 intention NOUN intention%1:09:00::
+At last , even the controlled Torrio was unable to hold still , and he tentatively suggested that O ' Banion should take a percentage in the Stickney brothels in return for one from his Cicero beer concession .
+1
+#22 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+O ' Banion 's reply was a raucous laugh and a flat refusal .
+1
+#8 laugh NOUN laugh%1:10:00::
+Still more jealous bitterness was engendered by the O ' Banion gang 's seizure from a West Side marshalling yard of a freight-car load of Canadian whisky worth $ 100000 and by one of the biggest coups of the Prohibition era - the Sibley warehouse robbery , which became famous for the cool brazenness of the operation .
+8
+#3 bitterness NOUN bitterness%1:12:00::
+#11 gang NOUN gang%1:14:00::
+#13 seizure NOUN seizure%1:04:02::
+#23 load NOUN load%1:06:02::
+#26 whiskey NOUN whiskey%1:13:00::
+#36 coup NOUN coup%1:04:01::
+#48 become VERB become%2:30:00::,become%2:42:01::
+#56 operation NOUN operation%1:04:03::
+Here was stored $ 1000000 worth of bonded whisky .
+2
+#0 here ADV here%4:02:00::,here%4:02:01::,here%4:02:02::
+#8 whiskey NOUN whiskey%1:13:00::
+These 1750 cases were carted off in a one night operation by the O ' Banion men , who left in their stead the same number of barrels filled with water .
+7
+#2 case NOUN case%1:06:00::,case%1:06:06::
+#10 operation NOUN operation%1:04:03::
+#19 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+#24 same ADJ same%3:00:00::,same%3:00:02::
+#25 number NOUN number%1:07:00::,number%1:14:00::,number%1:23:00::
+#27 barrel NOUN barrel%1:06:00::
+#30 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::

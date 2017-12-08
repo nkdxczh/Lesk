@@ -1,0 +1,726 @@
+ " Not since last night .
+1
+#3 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+I did n't think there was any reason to " .
+2
+#3 think VERB think%2:31:01::,think%2:31:03::
+#7 reason NOUN reason%1:09:01::,reason%1:16:00::
+Speak to him again anyway .
+1
+#4 anyway ADV anyway%4:02:00::
+Try talking to some of the fellows he works with , friends , anyone .
+3
+#0 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#8 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#11 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+Try to find out how happy he is with his wife , whether he plays around with women .
+2
+#0 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#5 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+You might try looking into his wife too .
+2
+#2 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 too ADV too%4:02:01::
+She might have been talking to some of her friends about her husband if they 've been having any trouble " .
+3
+#9 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#17 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#19 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+" You think Black 's the one we 're looking for " ?
+1
+#2 think VERB think%2:31:01::,think%2:31:03::
+I think he might be " , Conrad said grimly .
+2
+#1 think VERB think%2:31:01::,think%2:31:03::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Then again he might not " .
+1
+#5 not ADV not%4:02:00::
+" What a stinking world " , Rourke said .
+2
+#4 world NOUN world%1:09:00::,world%1:09:01::,world%1:14:01::,world%1:17:02::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+" Will you be coming back soon " ?
+1
+#6 soon ADV soon%4:02:00::
+" I think so .
+2
+#2 think VERB think%2:31:01::,think%2:31:03::
+#3 so ADV so%4:02:00::,so%4:02:05::,so%4:02:08::,so%4:02:10::
+I 'm on my way to see the Jacobs woman " .
+1
+#6 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+You do n't think Gilborn is the - " ?
+1
+#3 think VERB think%2:31:01::,think%2:31:03::
+" I do n't think anything .
+1
+#4 think VERB think%2:31:01::,think%2:31:03::
+I just do n't want to go off half cocked before picking up Black , that 's all " .
+2
+#1 just ADV just%4:02:00::,just%4:02:03::
+#4 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Conrad interrupted .
+1
+#1 interrupt VERB interrupt%2:30:00::,interrupt%2:30:04::
+" Gilborn says he was in his office all day with her yesterday .
+2
+#2 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#7 office NOUN office%1:06:00::
+I 'd like to make sure .
+1
+#4 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+Also , it 's just possible she might know something about Mrs. Gilborn " .
+1
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+" Right .
+1
+#1 right X right%4:02:00::
+I 'll see you later " .
+2
+#2 see VERB see%2:35:09::,see%2:38:00::,see%2:41:00::,see%2:41:11::
+#4 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+" It sure as hell does n't look like it , does it ?
+1
+#7 look VERB look%2:39:01::,look%2:42:02::
+I 'm telling you , if these corpses ever knew the trouble they put us to , they 'd think twice before letting themselves get knocked off " .
+5
+#2 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 ever ADV ever%4:02:05::
+#9 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 trouble NOUN trouble%1:04:02::,trouble%1:09:00::,trouble%1:11:00::,trouble%1:12:03::,trouble%1:26:02::
+#22 let VERB let%2:30:01::,let%2:41:00::
+" Remember to tell that to the next corpse you meet " .
+3
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#7 next ADJ next%5:00:00:close:01
+#10 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Conrad hung up and sat on the small telephone-booth bench , massaging his right leg .
+4
+#4 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#11 massage VERB massage%2:35:00::
+#13 right ADJ right%3:00:00::
+#14 leg NOUN leg%1:06:00::,leg%1:08:01::,leg%1:08:02::,leg%1:13:00::
+He looked at his watch .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 watch NOUN watch%1:06:00::
+It was ten minutes before eleven .
+1
+#3 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+He wondered how long it would be before they had a signed confession from Lionel Black .
+3
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#9 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 confession NOUN confession%1:10:01::
+Thirty years ' experience let him know , even at this early stage , that Black was his man .
+5
+#1 year NOUN year%1:28:00::,year%1:28:01::
+#6 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#11 early ADJ earliest%5:00:00:early:00,early%3:00:00::,early%3:00:01::,early%3:00:02::
+#12 stage NOUN stage%1:04:00::,stage%1:26:00::
+#18 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+But he still wanted to know why .
+3
+#2 still ADV still%4:02:04::
+#3 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+It was a cold , windy day , the day after Kitti 's death , but Stanley Gilborn paid no attention to the blustery October wind .
+6
+#3 cold ADJ cold%3:00:01::,cold%5:00:00:dead:01,cold%5:00:00:stale:00,cold%5:00:00:unconscious:00
+#5 windy ADJ windy%5:00:00:stormy:00
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#18 pay VERB pay%2:41:00::
+#20 attention NOUN attention%1:09:00::,attention%1:09:01::,attention%1:09:02::
+#25 wind NOUN wind%1:10:00::,wind%1:19:00::,wind%1:19:01::
+After leaving Conrad , Gilborn had no destination .
+3
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#7 destination NOUN destination%1:15:00::
+He simply walked , not noticing where he was , not caring .
+5
+#1 simply ADV simply%4:02:00::,simply%4:02:02::
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#4 not ADV not%4:02:00::
+#10 not ADV not%4:02:00::
+#11 care VERB care%2:37:00::,care%2:37:12::
+He stopped automatically at the street corners , waiting for the traffic lights to change , unheeding of other people , his coat open and flapping .
+7
+#1 stop VERB stop%2:30:12::,stop%2:38:00::,stop%2:38:02::,stop%2:41:00::,stop%2:42:00::,stop%2:42:13::
+#8 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#14 change VERB change%2:30:00::,change%2:30:01::,change%2:30:02::
+#18 other ADJ other%3:00:00::
+#19 people NOUN people%1:14:00::,people%1:14:01::,people%1:14:02::,people%1:14:03::
+#22 coat NOUN coat%1:06:00::
+#23 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+As he walked , he tried to think .
+3
+#2 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 think VERB think%2:31:00::,think%2:31:01::,think%2:31:02::,think%2:31:03::,think%2:31:06::,think%2:31:09::,think%2:31:13::,think%2:31:14::
+Mainly of what Conrad had tried to make him believe .
+2
+#5 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#9 believe VERB believe%2:31:00::,believe%2:31:01::,believe%2:31:03::
+There was nothing coherent about his thinking .
+2
+#3 coherent ADJ coherent%3:00:00::
+#6 thinking NOUN thinking%1:09:00::
+It was a succession of picture images passing through his mind : the same ones , different ones , in no apparent sequence , in no logical succession .
+7
+#3 succession NOUN succession%1:14:00::
+#6 image NOUN image%1:06:00::,image%1:06:01::,image%1:09:00::,image%1:09:02::,image%1:14:00::,image%1:18:00::
+#7 pass VERB pass%2:30:11::,pass%2:35:00::,pass%2:38:02::,pass%2:42:08::
+#13 same ADJ same%3:00:00::,same%3:00:02::
+#16 different ADJ different%5:00:00:unusual:00
+#22 sequence NOUN sequence%1:04:00::,sequence%1:11:00::,sequence%1:14:00::
+#27 succession NOUN succession%1:14:00::
+The enormity of what Conrad had told him made it impossible for Gilborn to accept , with any degree of realism , the actuality of it .
+6
+#1 enormity NOUN enormity%1:07:00::
+#6 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+#14 accept VERB accept%2:31:00::,accept%2:31:03::,accept%2:32:00::,accept%2:40:12::
+#18 degree NOUN degree%1:26:01::
+#20 realism NOUN realism%1:07:00::
+Conrad 's words had intellectual meaning for him only .
+4
+#2 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+#3 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#5 meaning NOUN meaning%1:09:00::
+#8 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+Gilborn remembered Conrad 's exact words .
+1
+#5 word NOUN word%1:10:00::,word%1:10:01::,word%1:10:02::,word%1:10:03::,word%1:10:04::,word%1:10:06::,word%1:23:00::
+He knew Conrad had told him the truth .
+2
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+When Kitti was alive - and he remembered the pressure of her hand resting lightly on his arm - she had been the center of his life .
+5
+#3 alive ADJ alive%3:00:01::
+#9 pressure NOUN pressure%1:09:00::,pressure%1:19:00::
+#12 hand NOUN hand%1:08:00::,hand%1:10:01::
+#14 lightly ADV lightly%4:02:00::
+#17 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+She was the sun , he the closest planet orbiting around her , the rest of the world existing and visible yet removed .
+3
+#3 sun NOUN sun%1:17:00::,sun%1:17:01::
+#14 rest NOUN rest%1:24:00::
+#20 visible ADJ visible%3:00:00::
+For fifty-five years he had lived , progressing towards a no-goal , eating , working , breathing without plan , without reason .
+5
+#2 year NOUN year%1:28:00::,year%1:28:01::
+#5 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#14 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#18 plan NOUN plan%1:09:01::
+#21 reason NOUN reason%1:09:01::,reason%1:16:00::
+Kitti had come along to justify everything .
+1
+#5 justify VERB justify%2:32:00::,justify%2:32:01::
+She was his goal , she was his reason .
+2
+#3 goal NOUN goal%1:09:00::,goal%1:15:00::
+#8 reason NOUN reason%1:09:01::,reason%1:16:00::
+He had lived all his life waiting for her .
+3
+#2 live VERB live%2:42:00::,live%2:42:01::,live%2:42:06::,live%2:42:07::,living%1:14:00::
+#5 life NOUN life%1:10:00::,life%1:28:01::,life%1:28:02::,life%1:28:03::
+#6 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+Not once , in the time that he had known her , had he ever considered the possibility , not once , not for one one-thousandth of a second , of her infidelity .
+7
+#0 not ADV not%4:02:00::
+#1 once ADV once%4:02:00::
+#9 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#14 ever ADV ever%4:02:05::
+#20 once ADV once%4:02:00::
+#28 second NOUN second%1:28:00::,second%1:28:01::
+#32 infidelity NOUN infidelity%1:07:00::
+He could not consider it now .
+2
+#2 not ADV not%4:02:00::
+#5 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Not really .
+2
+#0 not ADV not%4:02:00::
+#1 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+And so he walked , aimless again .
+1
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+The walk ended , inevitably , right in front of his hotel building .
+4
+#1 walk NOUN walk%1:04:00::
+#6 right ADV right%4:02:04::,right%4:02:06::,right%4:02:07::,right%4:02:08::
+#11 hotel NOUN hotel%1:06:00::
+#12 building NOUN building%1:06:00::
+The doorman began to nod his head automatically , then remembered who Gilborn was , what had happened to him the night before .
+5
+#2 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+#4 nod VERB nod%2:32:00::,nod%2:32:01::,nod%2:38:00::
+#6 head NOUN head%1:06:04::,head%1:08:00::,head%1:09:00::,head%1:23:00::
+#17 happen VERB happen%2:30:02::,happen%2:41:00::
+#22 before ADV before%4:02:03::
+He looked at Gilborn with undisguised curiosity .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#6 curiosity NOUN curiosity%1:09:00::
+Gilborn passed by him without seeing him .
+2
+#1 pass VERB pass%2:38:01::,pass%2:40:01::,pass%2:42:04::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He crossed the lobby and rode up in the elevator lost in his own thoughts .
+7
+#1 cross VERB cross%2:38:00::
+#3 lobby NOUN lobby%1:06:00::
+#5 ride VERB ride%2:38:00::,ride%2:38:01::,ride%2:38:04::,ride%2:38:07::,ride%2:42:03::
+#9 elevator NOUN elevator%1:06:00::
+#10 lose VERB lose%2:33:01::,lose%2:35:00::,lose%2:39:00::,lose%2:39:01::
+#13 own ADJ own%5:00:00:personal:00
+#14 thought NOUN thought%1:09:00::,thought%1:09:01::,thought%1:09:03::
+The police were no longer there .
+1
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+There was no evidence that anything was different than it had been .
+1
+#7 different ADJ different%5:00:00:unusual:00
+Except that Kitti was n't there .
+1
+#5 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+Without taking off his coat , he sat in the blue chair which still faced the closed bedroom door .
+7
+#4 coat NOUN coat%1:06:00::
+#7 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#10 blue ADJ blue%5:00:00:chromatic:00
+#11 chair NOUN chair%1:06:00::,chair%1:06:01::
+#13 still ADV still%4:02:00::
+#14 face VERB face%2:38:00::,face%2:42:00::
+#16 closed ADJ closed%3:00:01::,closed%3:00:02::,closed%3:00:03::,closed%5:00:00:restricted:00,closed%5:00:00:unreceptive:00
+At last , sitting there , in the familiar surroundings , the truth began to sink in .
+4
+#3 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#4 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+#8 familiar ADJ familiar%3:00:00::,familiar%3:00:02::,familiar%5:00:00:informed:00
+#13 begin VERB begin%2:30:01::,begin%2:32:03::,begin%2:41:04::,begin%2:42:00::,begin%2:42:02::,begin%2:42:04::
+He felt no anger towards Kitti , no sense that she had betrayed him .
+3
+#1 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#8 sense NOUN sense%1:09:02::,sense%1:09:05::,sense%1:09:06::
+#12 betray VERB betray%2:32:00::
+She was all he had , everything he had , everything he wanted .
+3
+#4 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#8 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#12 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+Where there is a left-hand entry in the ledger , there is a right-hand one , he remembered from his school days .
+2
+#5 entry NOUN entry%1:21:00::
+#8 ledger NOUN ledger%1:21:00::
+He rose from the chair , took off his coat .
+3
+#1 rise VERB rise%2:29:00::,rise%2:29:08::,rise%2:30:02::,rise%2:33:00::,rise%2:38:04::,rise%2:38:05::,rise%2:41:00::
+#4 chair NOUN chair%1:06:00::,chair%1:06:01::
+#9 coat NOUN coat%1:06:00::
+The bed still showed signs of where Kitti had lain .
+5
+#1 bed NOUN bed%1:06:00::
+#2 still ADV still%4:02:00::
+#3 show VERB show%2:32:03::,show%2:32:04::,show%2:36:00::,show%2:39:00::,show%2:39:01::,show%2:39:02::,show%2:39:04::
+#4 sign NOUN sign%1:10:03::,sign%1:10:05::,sign%1:11:00::,sign%1:26:00::
+#9 lie VERB lie%2:35:00::,lie%2:38:00::
+Gilborn stood there for a long time .
+1
+#2 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+He looked at the bed unblinkingly .
+2
+#1 look VERB look%2:29:00::,look%2:39:00::,look%2:39:02::,look%2:42:00::
+#4 bed NOUN bed%1:06:00::
+The bed was empty now .
+3
+#1 bed NOUN bed%1:06:00::
+#3 empty ADJ empty%3:00:00::,empty%5:00:00:meaningless:00
+#4 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+Kitti would lie in it no more .
+1
+#2 lie VERB lie%2:35:00::,lie%2:38:00::
+He would lie in it no more .
+1
+#2 lie VERB lie%2:35:00::,lie%2:38:00::
+Gilborn wondered whether Kitti had lain in that same bed with & & & Who ?
+4
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#5 lie VERB lie%2:35:00::,lie%2:38:00::
+#8 same ADJ same%3:00:00::,same%3:00:02::
+#9 bed NOUN bed%1:06:00::
+For thirty minutes , Stanley Gilborn stood there .
+2
+#2 minute NOUN minute%1:07:00::,minute%1:28:01::,minute%1:28:02::
+#7 there ADV there%4:02:00::,there%4:02:01::,there%4:02:02::
+At the end of the half-hour , racking his brains , thinking over and over again of Kitti , her friends , her past , he left the bedroom .
+5
+#2 end NOUN end%1:09:00::,end%1:10:00::,end%1:26:00::,ending%1:04:00::
+#7 rack VERB rack%2:37:01::
+#20 friend NOUN friend%1:18:02::,friend%1:18:03::,friend%1:18:04::
+#23 past NOUN past%1:28:01::
+#26 leave VERB leave%2:38:00::,leave%2:41:00::
+Gilborn put on his coat again .
+1
+#4 coat NOUN coat%1:06:00::
+Before leaving , he took one last , lingering look at the apartment .
+2
+#1 leave VERB leave%2:38:00::,leave%2:41:00::
+#6 last ADJ last%5:00:00:unlikely:00
+He knew he would never see it again .
+3
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#4 never ADV never%4:02:00::
+#5 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+In the street , walking as quickly as he could , Stanley Gilborn was a lone figure .
+2
+#4 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#16 figure NOUN figure%1:06:00::,figure%1:07:00::,figure%1:08:00::,figure%1:18:00::
+On Blanche Jacobs , Kitti Gilborn 's death had a quite different effect .
+3
+#10 quite ADV quite%4:02:02::
+#11 different ADJ different%5:00:00:unusual:00
+#12 effect NOUN effect%1:09:00::,effect%1:19:00::
+For Blanche , Kitti 's death was a source of guilty , but nonetheless soaring , happy hope .
+2
+#16 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#17 hope NOUN hope%1:09:00::,hope%1:18:00::
+In Blanche 's defense , it must be said she was unaware of the newborn hope .
+3
+#3 defense NOUN defense%1:04:00::,defense%1:04:01::,defense%1:04:03::,defense%1:04:03::;1:04:00::,defense%1:06:00::,defense%1:10:00::,defense%1:14:01::
+#8 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#15 hope NOUN hope%1:09:00::,hope%1:18:00::
+If anyone had asked her , she would have described herself only as nervous and worried .
+4
+#3 ask VERB ask%2:32:00::,ask%2:32:04::
+#9 describe VERB describe%2:32:01::
+#11 only ADV only%4:02:01::,only%4:02:02::,only%4:02:03::,only%4:02:05::
+#13 nervous ADJ nervous%5:00:00:troubled:00
+The figures on the worksheet paper in front of her were jumping and waving around so badly it was all she could do to make them out clearly enough to copy them with the typewriter .
+9
+#1 figure NOUN figure%1:07:01::,figure%1:21:00::,figure%1:23:00::
+#4 worksheet NOUN worksheet%1:10:01::
+#5 paper NOUN paper%1:06:00::,paper%1:10:03::,paper%1:14:00::,paper%1:27:00::
+#11 jump VERB jump%2:30:05::,jump%2:31:00::,jump%2:33:00::,jump%2:33:03::,jump%2:38:00::,jump%2:38:01::,jump%2:38:04::
+#13 wave VERB wave%2:32:00::,wave%2:35:00::,wave%2:38:00::
+#15 so ADV so%4:02:03::,so%4:02:07::
+#16 badly ADV badly%4:02:02::
+#28 enough ADV enough%4:02:00::
+#30 copy VERB copy%2:36:03::
+She wondered whether Stanley would call .
+2
+#1 wonder VERB wonder%2:31:00::,wonder%2:32:01::
+#5 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+She wanted to be with him , to give him the comfort and companionship she knew he needed .
+4
+#1 want VERB want%2:31:01::,want%2:34:00::,want%2:35:00::,want%2:37:00::
+#11 comfort NOUN comfort%1:04:00::
+#15 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#17 need VERB need%2:42:00::
+She had skipped her lunch hour in the fear that he might call while she was out .
+3
+#2 skip VERB skip%2:38:00::
+#5 hour NOUN hour%1:07:00::,hours%1:28:01::
+#12 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+And now she was feeling sick , both from concern about Stanley and hunger .
+4
+#1 now ADV now%4:02:01::,now%4:02:04::,now%4:02:05::,now%4:02:06::
+#4 feel VERB feel%2:31:00::,feel%2:31:01::,feel%2:37:00::
+#5 sick ADJ sick%5:00:02:ill:01
+#9 concern NOUN concern%1:09:01::,concern%1:12:01::
+Why had n't he called ?
+1
+#4 call VERB call%2:31:13::,call%2:32:01::,call%2:32:03::,call%2:32:05::,call%2:32:05::;2:32:01::,call%2:32:07::,call%2:32:09::,call%2:32:10::,call%2:32:15::,call%2:38:00::,call%2:41:04::
+Men , she reflected , even men like Stanley , are unpredictable .
+3
+#0 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+#3 reflect VERB reflect%2:31:00::
+#6 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+She tried to think of his unpredictable actions in the eleven years she had known him and discovered they were n't so many after all .
+6
+#1 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#7 action NOUN action%1:04:00::,action%1:04:02::,action%1:04:03::,action%1:10:00::,action%1:22:00::,action%1:26:00::
+#11 year NOUN year%1:28:00::,year%1:28:01::
+#14 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+#17 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#21 so ADV so%4:02:03::,so%4:02:07::
+Stanley really was quite predictable .
+2
+#1 really ADV really%4:02:00::,really%4:02:02::,really%4:02:03::
+#3 quite ADV quite%4:02:02::
+That was one of the things she liked about Stanley .
+1
+#5 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+He was n't like so many other men .
+3
+#4 so ADV so%4:02:03::,so%4:02:07::
+#6 other ADJ other%3:00:00::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+The dentist last night , for instance .
+1
+#2 last ADJ last%5:00:00:dying(a):00,last%5:00:00:past:00
+Dinner and the movies had been fine .
+1
+#6 fine ADJ fine%5:00:00:elegant:00,fine%5:00:00:precise:00,fine%5:00:00:pure:02,fine%5:00:00:satisfactory:00
+He had taken her upstairs to say good night .
+2
+#2 take VERB take%2:30:01::,take%2:38:09::,take%2:38:10::,take%2:38:11::,take%2:42:10::
+#6 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+She had invited him in for coffee .
+2
+#4 in ADJ in%5:00:00:successful:00
+#6 coffee NOUN coffee%1:07:00::,coffee%1:13:00::,coffee%1:13:01::
+It was in the kitchen , as she was watching the kettle , waiting for the water to boil , that he had grabbed for her .
+7
+#4 kitchen NOUN kitchen%1:06:00::
+#9 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#11 kettle NOUN kettle%1:06:00::
+#13 wait VERB wait%2:31:00::,wait%2:42:01::,waiting%5:00:00:ready:00
+#16 water NOUN water%1:17:00::,water%1:27:00::,water%1:27:01::,water%1:27:02::
+#18 boil VERB boil%2:30:01::
+#23 grab VERB grab%2:35:00::,grab%2:35:05::,grab%2:38:02::,grab%2:40:03::
+Without warning , without giving her a chance to prepare for it .
+1
+#4 give VERB give%2:31:00::,give%2:32:07::,give%2:36:03::,give%2:40:00::,give%2:40:05::,give%2:40:11::,give%2:41:00::,give%2:41:10::
+From behind , he had put his arms on her shoulders , turned her around , and pressed her to him , so close she could n't breathe .
+7
+#1 behind ADV behind%4:02:00::
+#5 put VERB put%2:35:00::,put%2:35:05::
+#7 arm NOUN arm%1:06:00::,arm%1:06:03::,arm%1:08:00::
+#10 shoulder NOUN shoulder%1:06:01::,shoulder%1:08:00::,shoulder%1:08:02::,shoulder%1:13:00::
+#12 turn VERB turn%2:29:00::,turn%2:33:13::,turn%2:35:11::,turn%2:38:00::,turn%2:38:01::,turn%2:38:02::,turn%2:38:04::,turn%2:38:13::,turn%2:41:10::
+#17 press VERB press%2:32:00::,press%2:33:00::,press%2:35:00::,press%2:35:02::,press%2:38:00::,press%2:42:01::
+#22 so ADV so%4:02:03::,so%4:02:07::
+Later , she apologized for the long scratch across his face , tried to explain she could n't help herself , that the panic arose in her unwanted .
+8
+#0 late ADV late%4:02:01::,late%4:02:02::,later%4:02:02::
+#6 long ADJ long%3:00:01::
+#7 scratch NOUN scratch%1:11:00::
+#10 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#12 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#18 help VERB help%2:42:08::
+#23 panic NOUN panic%1:12:00::
+#24 arise VERB arise%2:30:00::,arise%2:42:01::
+When he left , she knew she would never see him again .
+4
+#2 leave VERB leave%2:38:00::,leave%2:41:00::
+#5 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#8 never ADV never%4:02:00::
+#9 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+She could always predict what Stanley was going to do , ever since she first met him .
+2
+#2 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#15 meet VERB meet%2:33:00::,meet%2:38:06::,meet%2:39:00::,meet%2:41:00::,meet%2:41:01::,meet%2:41:03::,meet%2:42:00::,meet%2:42:02::
+Except for that one morning .
+1
+#4 morning NOUN morning%1:28:00::,morning%1:28:01::
+The morning he walked in to announce to her , blushing , that he was married .
+4
+#1 morning NOUN morning%1:28:00::,morning%1:28:01::
+#3 walk VERB walk%2:33:00::,walk%2:33:01::,walk%2:38:00::,walk%2:38:02::,walk%2:38:03::,walk%2:38:04::,walk%2:41:00::
+#4 in ADV in%4:02:01::
+#15 married ADJ married%3:01:00::
+She had assumed before then that one day he would ask her to marry him .
+3
+#2 assume VERB assume%2:31:00::
+#7 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#13 marry VERB marry%2:41:00::,marry%2:41:01::
+Blanche could n't remember when she had first arrived at this conclusion .
+1
+#11 conclusion NOUN conclusion%1:09:00::,conclusion%1:10:01::
+She thought it was sometime during the second week she worked for Stanley .
+1
+#10 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+It was nothing that he said or did , but it seemed so natural to her that she should be working for him , looking forward to his eventual proposal .
+4
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 so ADV so%4:02:03::,so%4:02:07::
+#13 natural ADJ natural%5:00:00:intelligent:00,natural%5:00:00:normal:01,natural%5:00:00:spontaneous:00,natural%5:00:00:unaffected:01
+#20 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+She was thirty-one years old then .
+2
+#4 old PRT old%3:00:02::
+#5 then ADV then%4:02:01::
+Her mother was already considerably concerned over her daughter 's future .
+3
+#1 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#3 already ADV already%4:02:00::
+#10 future NOUN future%1:10:00::,future%1:28:00::
+But Blanche had been able to maintain a serene and assured composure in the face of her widowed mother 's continued carping , had been able to resist her urgings to date anyone who offered the slightest possibility of matrimony .
+8
+#4 able ADJ able%3:00:00::
+#8 serene ADJ serene%5:00:00:composed:00
+#10 assured ADJ assured%5:00:00:confident:00
+#14 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#18 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#25 able ADJ able%3:00:00::
+#31 date VERB date%2:41:00::
+#36 slight ADJ slight%5:00:00:insignificant:00
+For Blanche , it was only a matter of time before Stanley would propose .
+2
+#5 only ADV only%4:02:00::,only%4:02:04::
+#13 propose VERB propose%2:32:01::
+It was to be expected that Stanley would be shy , slow in taking such a momentous step .
+4
+#9 shy ADJ shy%5:00:00:wary:00
+#11 slow ADJ slow%3:00:01::
+#13 take VERB take%2:31:02::,take%2:34:00::
+#17 step NOUN step%1:04:02::,step%1:23:00::,step%1:26:00::
+Stanley went along in life , she knew , convinced that he deserved the love and faith of no woman .
+3
+#7 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#14 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#16 faith NOUN faith%1:09:01::
+As a result , he never looked for it .
+1
+#5 never ADV never%4:02:00::
+But one day , she expected , he would somehow discover , without her having to tell him , that there was such a woman in the world ; a woman who was willing to give him love , faith , and anything else a woman could give a husband .
+6
+#2 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+#16 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#27 world NOUN world%1:14:02::,world%1:17:00::,world%1:17:01::
+#37 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+#39 faith NOUN faith%1:09:01::
+Indeed , there was a woman who , unasked , had already given him love .
+4
+#0 indeed ADV indeed%4:02:03::
+#11 already ADV already%4:02:00::
+#12 give VERB give%2:29:11::,give%2:31:02::,give%2:32:00::,give%2:32:01::;2:40:03::,give%2:32:02::,give%2:34:10::,give%2:40:00::,give%2:40:03::,give%2:40:13::,give%2:40:14::,give%2:41:00::
+#14 love NOUN love%1:12:00::,love%1:12:01::,love%1:18:00::
+On that first day , Blanche literally thought she was going to die , or , at the very least , go out of her mind .
+3
+#2 first ADJ first%3:00:00::,first%4:02:00::
+#3 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+It might have been easier for her if Kitti Walker had n't been everything that Blanche was not .
+1
+#17 not ADV not%4:02:00::
+Kitti was thirty years younger than Stanley , taller than Stanley , prettier than Stanley had any right to hope for , much less expect .
+3
+#8 tall ADJ tall%3:00:00::,tall%5:00:00:rhetorical:00
+#15 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#17 right NOUN right%1:07:00::,right%1:21:00::
+Kitti could have married a score of men .
+3
+#3 marry VERB marry%2:41:00::,marry%2:41:01::
+#5 score NOUN score%1:14:00::
+#7 man NOUN man%1:18:00::,man%1:18:03::,man%1:18:05::,man%1:18:07::,man%1:18:08::
+There was no reason for her to marry someone like Stanley Gilborn , there was no need for her to marry Stanley .
+4
+#3 reason NOUN reason%1:09:01::,reason%1:16:00::
+#7 marry VERB marry%2:41:00::,marry%2:41:01::
+#16 need NOUN need%1:26:00::
+#20 marry VERB marry%2:41:00::,marry%2:41:01::
+Kitti had come into the office , on somebody 's recommendation , because she needed help in preparing her income tax return .
+4
+#5 office NOUN office%1:06:00::
+#14 need VERB need%2:42:00::
+#15 help NOUN help%1:04:00::,help%1:07:00::,help%1:18:00::
+#17 prepare VERB prepare%2:30:00::,prepare%2:31:00::,prepare%2:36:01::,prepare%2:36:02::
+Stanley had filled out the return and because , when he was finished , it was close to the lunch hour , he had politely asked Kitti to join him , never expecting her to accept .
+2
+#5 return NOUN return%1:10:01::
+#16 close ADJ close%3:00:05::,close%5:00:00:confined:00,close%5:00:00:equal:00
+Blanche knew all this because the door to Stanley 's office was open and , without straining too hard , she could hear everything that was said .
+5
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 office NOUN office%1:06:00::
+#12 open ADJ open%3:00:01::,open%3:00:02::,open%3:00:08::,open%5:00:00:unsealed:01
+#18 hard ADV hard%4:02:00::
+#26 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+Stanley had gone out , saying he would be back in an hour .
+2
+#5 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#12 hour NOUN hour%1:07:00::,hours%1:28:01::
+After that day , Blanche still did n't know exactly what had happened .
+5
+#2 day NOUN day%1:26:00::,day%1:28:01::,day%1:28:03::,day%1:28:05::
+#5 still ADV still%4:02:00::
+#8 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#9 exactly ADV exactly%4:02:02::
+#12 happen VERB happen%2:30:00::,happen%2:30:02::,happen%2:40:12::,happen%2:41:00::
+There were mornings when Stanley came in late , afternoons when he left early , days when he did n't come in at all .
+4
+#2 morning NOUN morning%1:28:00::,morning%1:28:01::
+#12 leave VERB leave%2:38:00::,leave%2:41:00::
+#13 early ADV earlier%4:02:00::
+#15 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Blanche knew something must be causing Stanley 's new , strange behavior but she never once connected it with Kitti Walker .
+4
+#1 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+#10 strange ADJ strange%3:00:00::
+#14 never ADV never%4:02:00::
+#15 once ADV once%4:02:00::
+Then , six weeks after the day Kitti first came into the office , Stanley announced he and Kitti were married .
+4
+#0 then ADV then%4:02:00::
+#6 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#12 office NOUN office%1:06:00::
+#20 married ADJ married%3:01:00::
+Somehow , Blanche managed to cover the stunned surprise and offer her congratulations .
+3
+#3 manage VERB manage%2:41:03::,manage%2:41:08::,manage%2:41:09::
+#5 cover VERB cover%2:39:12::,cover%2:41:10::
+#8 surprise NOUN surprise%1:11:00::,surprise%1:12:00::
+That night the two of them left for a week 's honeymoon in Acapulco .
+1
+#6 leave VERB leave%2:38:00::,leave%2:41:00::
+While they were away Blanche came into the office every morning , running things as she had always run them for Stanley , going through the week in a dazed stupor , getting things done automatically , out of habit .
+9
+#5 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+#8 office NOUN office%1:06:00::
+#10 morning ADV morning%1:10:00::
+#12 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+#13 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#17 always ADV always%4:02:00::,always%4:02:01::,always%4:02:03::
+#18 run VERB run%2:30:07::,run%2:36:00::,run%2:41:02::
+#33 thing NOUN thing%1:04:00::,thing%1:07:00::,thing%1:09:01::,thing%1:09:02::,thing%1:10:00::,thing%1:11:00::
+#39 habit NOUN habit%1:04:02::
+For exactly one week , she was able to continue in this manner .
+2
+#7 able ADJ able%3:00:00::
+#9 continue VERB continue%2:38:00::,continue%2:41:00::,continue%2:42:01::,continue%2:42:06::,continue%2:42:10::
+On the morning of Stanley 's return , however , her strength left her .
+5
+#2 morning NOUN morning%1:28:00::,morning%1:28:01::
+#6 return NOUN return%1:04:00::,return%1:04:02::,return%1:04:04::,return%1:04:05::,return%1:11:01::
+#8 however ADV however%4:02:04::
+#11 strength NOUN strength%1:07:00::,strength%1:07:02::,strength%1:07:05::,strength%1:07:06::,strength%1:07:08::,strength%1:07:09::
+#12 leave VERB leave%2:38:00::,leave%2:41:00::
+Two hours of watching his serenely happy face , listening to his soft humming as he bent over his penciled figures , and Blanche had to leave .
+8
+#1 hour NOUN hour%1:07:00::,hours%1:28:01::
+#3 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+#6 happy ADJ happy%3:00:00::,happy%5:00:00:fortunate:00,happy%5:00:00:willing:00
+#7 face NOUN face%1:07:00::,face%1:07:03::,face%1:08:00::,face%1:18:00::,face%1:18:00::;1:08:00::
+#12 soft ADJ soft%3:00:03::,soft%3:00:04::,soft%5:00:00:clement:02,soft%5:00:00:dull:02,soft%5:00:00:falling:00
+#13 hum NOUN hum%1:26:00::
+#16 bend VERB bend%2:35:08::,bend%2:38:02::
+#26 leave VERB leave%2:38:00::,leave%2:41:00::
+She stayed away for ten days .
+3
+#1 stay VERB stay%2:42:02::
+#2 away ADV away%4:02:00::,away%4:02:03::,away%4:02:04::,away%4:02:08::
+#5 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+Those ten days were like no others that Blanche had known .
+2
+#2 day NOUN day%1:28:00::,day%1:28:02::,day%1:28:04::,day%1:28:06::,day%1:28:07::
+#10 know VERB know%2:31:02::,know%2:31:03::,know%2:31:04::,know%2:31:06::,know%2:31:11::,know%2:31:12::,know%2:31:14::
+Mostly , she stayed in bed .
+2
+#3 stay VERB stay%2:38:00::,stay%2:38:01::,stay%2:42:02::
+#5 bed NOUN bed%1:06:00::
+She did n't tell anyone , even her mother , what was wrong .
+3
+#3 tell VERB tell%2:32:00::,tell%2:32:01::,tell%2:32:02::,tell%2:32:03::
+#8 mother NOUN mother%1:09:00::,mother%1:18:00::,mother%1:18:01::,mother%1:18:02::
+#12 wrong ADJ wrong%3:00:02::,wrong%3:00:04::,wrong%5:00:00:inappropriate:00,wrong%5:00:00:malfunctioning:00
+She refused to have a doctor , insisting there was nothing a doctor could do for her .
+3
+#3 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+#5 doctor NOUN doctor%1:18:00::
+#12 doctor NOUN doctor%1:18:00::
