@@ -1,0 +1,213 @@
+ To write a play , the dramatist once needed an idea plus the imagination , the knowledge of life and the craft to develop it .
+3
+#1 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+#8 need VERB need%2:42:00::
+#23 develop VERB develop%2:30:00::,develop%2:30:04::,develop%2:30:09::,develop%2:30:12::,develop%2:30:13::,develop%2:33:03::,develop%2:35:04::
+Nowadays , more and more , all he needs is someone else 's book .
+1
+#8 need VERB need%2:42:00::
+To get started , he does not scan the world about him ; he and his prospective producer just read the bestseller lists .
+2
+#7 scan VERB scan%2:35:00::,scan%2:38:00::,scan%2:39:00::,scan%2:39:01::
+#19 read VERB read%2:31:00::,read%2:31:01::,read%2:31:02::,read%2:31:06::,read%2:31:09::,read%2:36:05::,read%2:42:00::
+So far this season , Broadway 's premieres have included twice as many adaptations and imports as original American stage plays .
+1
+#9 include VERB include%2:42:00::
+Of straight dramas , there are All the Way Home , which owes much of its poetic power to the James Agee novel , A Death in the Family ; The Wall , awkwardly based on the John Hersey novel ; Advise and Consent , lively but shallow theater drawn from the mountainously detailed bestseller ; Face of a Hero ( closed ) , based on a Pierre Boulle novel .
+3
+#34 base VERB base%2:31:00::
+#49 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+#64 base VERB base%2:31:00::
+The only original works attempting to reach any stature : Tennessee Williams ' disappointing domestic comedy , Period of Adjustment , and Arthur Laurents ' clever but empty Invitation to a March .
+1
+#6 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Clearly the most provocative plays are all imported originals - A Taste of Honey , by Britain 's young ( 19 when she wrote it ) Shelagh Delaney ; Becket , by France 's Jean Anouilh ; The Hostage ( closed ) , by Ireland 's Brendan Behan .
+1
+#23 write VERB write%2:32:00::,write%2:36:02::;2:36:00::,write%2:36:04::
+Wildcat and The Unsinkable Molly Brown were originals , but pretty bad , leaving top honors again to an import - the jaunty and charmingly French Irma La Douce .
+1
+#13 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+Some memorable plays have been drawn from books , notably Life with Father and Diary of Anne Frank .
+1
+#5 draw VERB draw%2:30:14::,draw%2:31:00::,draw%2:31:13::,draw%2:35:06::,draw%2:37:01::
+The difference is that the masters took the bare frame of a plot and filled it with their own world ; most modern adapters totally accept the world of a book , squeeze it dry of life , and add only one contribution of their own :
+2
+#32 squeeze VERB squeeze%2:35:00::,squeeze%2:35:05::,squeeze%2:40:03::,squeeze%2:41:01::
+#39 add VERB add%2:30:00::,add%2:32:01::,add%2:40:00::
+The most frequent excuse for the prevalence of unoriginals and tested imports is increasing production expense - producers cannot afford to take chances .
+1
+#19 afford VERB afford%2:34:00::,afford%2:42:00::
+Off-Broadway , where production is still comparatively cheap , is proving itself only slightly more original .
+1
+#10 prove VERB prove%2:31:01::,prove%2:31:02::,prove%2:32:00::,prove%2:41:03::,prove%2:42:00::
+He : " Come with me to the casbah " .
+1
+#3 come VERB come%2:30:03::,come%2:38:00::,come%2:38:02::,come%2:38:04::,come%2:42:02::
+That exchange was not only possible but commonplace last week in Manhattan , as more and more New Yorkers were discovering 29 th Street and Eighth Avenue , where half a dozen small nightclubs with names like Arabian Nights , Grecian Palace and Egyptian Gardens are the American inpost of belly dancing .
+1
+#20 discover VERB discover%2:31:01::,discover%2:36:00::,discover%2:39:00::,discover%2:39:03::
+Several more will open soon .
+1
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+Customers often bring their children ; between performances , enthusiastic young men from the audience will take the floor to demonstrate their own amateur graces .
+1
+#20 demonstrate VERB demonstrate%2:31:00::,demonstrate%2:32:00::,demonstrate%2:39:01::,demonstrated%5:00:00:incontestable:00
+Except for the odd uptown sex maniac or an overeager Greek sailor , the people watch in calm absorption .
+1
+#15 watch VERB watch%2:39:00::,watch%2:39:01::,watch%2:39:02::,watch%2:39:03::,watch%2:41:00::
+Small , shirt-sleeved orchestras play in 2 4 or 4 4 time , using guitars , violins , and more alien instruments with names that would open Sesame : the oud , grandfather of the lute ; the darbuka , a small drum with the treelike shape of a roemer glass ; the def , a low-pitched tambourine .
+2
+#4 play VERB play%2:36:05::,play%2:36:11::,play%2:36:12::
+#13 use VERB use%2:34:01::,use%2:34:02::,use%2:41:04::,use%2:41:14::
+The girls sit quietly with the musicians , wearing prim dresses or plain , secretarial shifts , until it is time to go off to a back room and reappear in the spare uniform of the harem .
+3
+#2 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#8 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#22 go VERB go%2:30:01::,go%2:34:00::,go%2:34:09::,go%2:38:00::,go%2:38:01::,go%2:38:09::,go%2:41:00::,go%2:42:00::,go%2:42:06::
+But a great many of what Variety calls the " cooch terpers " are considerably less cosmic than that .
+1
+#7 call VERB call%2:32:00::,call%2:32:02::,call%2:32:08::
+Each dancer follows the ancient Oriental pattern - she glides sideways with shoulders motionless while her stomach migrates , and , through breathing and muscle control , she sends ripples across her body to the fingertips and away to the far end of the room .
+3
+#2 follow VERB follow%2:30:00::,follow%2:30:01::,follow%2:31:00::,follow%2:31:14::,follow%2:41:02::
+#9 glide VERB glide%2:38:02::
+#28 send VERB send%2:32:00::,send%2:32:02::,send%2:33:00::,send%2:35:00::,send%2:38:00::,send%2:38:01::
+This is done at varying speeds , ranging from the slow and fast Shifte Telli ( a musical term meaning double strings ) to the fastest , ecstatic Karshilama ( meaning greetings or welcome ) .
+1
+#7 range VERB range%2:42:00::
+But they do not strip .
+1
+#4 strip VERB strip%2:35:00::
+The striptease is crass ; the belly dance leaves more to the imagination .
+1
+#8 leave VERB leave%2:30:03::,leave%2:31:05::,leave%2:40:01::
+When a dancer does well , she provokes a quiet bombardment of dollar bills - although the Manhattan clubs prohibit the more cosmopolitan practice of slipping the tips into the dancers ' costumes .
+1
+#25 slip VERB slip%2:30:00::,slip%2:30:04::,slip%2:38:00::,slip%2:38:01::,slip%2:38:02::
+Although they are forbidden to sit with the customers , the dancers are sometimes proffered drinks , and most of them can bolt one down in mid-shimmy .
+2
+#5 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#22 bolt VERB bolt%2:34:00::
+All over the country , belly clubs have never been bigger , especially in Detroit , Boston and Chicago , and even in small towns ; one of the best dancers , a Turkish girl named Semra , works at a roadhouse outside Bristol , Conn. .
+1
+#38 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+The girls are kept booked and moving by several agents , notably voluble , black-bearded Murat Somay , a Manhattan Turk who is the Sol Hurok of the central abdomen .
+1
+#3 keep VERB keep%2:35:10::,keep%2:40:10::,keep%2:42:00::,keep%2:42:03::
+He can offer nine Turkish girls , plans to import at least 15 more .
+2
+#7 plan VERB plan%2:31:00::,plan%2:31:01::
+#9 import VERB import%2:40:00::
+Sometimes they get their initial experience in church haflis , conducted by Lebanese and Syrians in the U. S. , where they dance with just as few veils across their bodies as in nightclubs .
+2
+#10 conduct VERB conduct%2:36:00::,conduct%2:36:04::,conduct%2:38:00::,conduct%2:38:01::
+#22 dance VERB dance%2:36:00::,dance%2:38:01::
+As the girls come to belly dancing from this and other origins , the melting pot has never bubbled more intriguingly .
+1
+#3 come VERB come%2:42:01::,come%2:42:03::,come%2:42:11::
+Jemela ( surname : Gerby ) , 23 , seems Hong Kong Oriental but has a Spanish father and an Indian mother , was born in America and educated at Holy Cross Academy and Textile High School , says she learned belly dancing at family picnics .
+3
+#14 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#38 say VERB say%2:32:01::,say%2:32:03::,say%2:32:04::,say%2:32:08::,say%2:32:09::,say%2:32:15::,say%2:42:00::
+#40 learn VERB learn%2:31:01::,learn%2:31:03::
+Serene ( Mrs. Wilson ) , 23 , was born in Budapest and raised in Manhattan .
+1
+#13 raise VERB raise%2:36:03::
+Daughter of a gypsy mother who taught her to dance , she is one of the few really beautiful girls in the New York casbah , with dark eyes and dark , waist-length hair , the face of an adolescent patrician and a lithe , glimmering body .
+1
+#9 dance VERB dance%2:36:00::,dance%2:38:01::
+Many belly dancers are married , but Serene is one of the few who will admit it .
+1
+#15 admit VERB admit%2:32:00::
+Marlene ( surname : Adamo ) , 25 , a Brazilian divorcee who learned the dance from Arabic friends in Paris , now lives on Manhattan 's West Side , is about the best belly dancer working the casbah , loves it so much that she dances on her day off .
+4
+#13 learn VERB learn%2:31:01::,learn%2:31:03::
+#23 live VERB live%2:42:08::
+#36 work VERB work%2:29:00::,work%2:31:13::,work%2:36:00::,work%2:36:12::,work%2:41:00::,work%2:41:02::,work%2:41:04::,work%2:41:05::
+#46 dance VERB dance%2:36:00::,dance%2:38:01::
+She has the small , highly developed body of a prime athlete , and holds in contempt the " girls who just move sex " .
+2
+#1 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#14 hold VERB hold%2:32:11::,hold%2:37:00::,hold%2:40:00::,hold%2:40:04::,hold%2:42:00::
+Leila ( Malia Phillips ) , 25 , is a Greenwich Village painter of Persianesque miniatures who has red hair that cascades almost to her ankles .
+2
+#17 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+#21 cascade VERB cascade%2:38:00::
+A graduate of Hollywood High School , she likes to imagine herself , as she takes the floor , " a village girl coming in to a festival " .
+1
+#10 imagine VERB imagine%2:31:01::
+Gloria ( surname : Ziraldo ) , circa 30 , who was born in Italy and once did " chorus work " in Toronto , has been around longer than most of the others , wistfully remembers the old days when " we used to get the seamen from the ships , you know , with big turtleneck sweaters and handkerchiefs and all .
+1
+#53 know VERB know%2:31:01::,know%2:31:02::,know%2:31:03::,know%2:31:15::
+The uptown crowd has moved in , and what girl worth her seventh veil would trade a turtleneck sweater for a button-down collar ?
+1
+#15 trade VERB trade%2:40:02::
+Of the handful of painters that Austria has produced in the 20 th century , only one , Oskar Kokoschka , is widely known in the U. S. .
+1
+#8 produce VERB produce%2:29:00::,produce%2:36:00::,produce%2:36:02::
+This state of unawareness may not last much longer .
+1
+#6 last VERB last%2:42:00::
+For ten years a small group of European and U. S. critics has been calling attention to the half-forgotten Austrian expressionist Egon Schiele , who died 42 years ago at the age of 28 .
+1
+#25 die VERB die%2:30:00::,die%2:30:01::,die%2:30:04::,die%2:39:00::
+The critics ' campaign finally inspired the first major U. S. exhibit of Schiele 's works .
+1
+#5 inspire VERB inspire%2:32:00::,inspire%2:32:01::,inspire%2:36:00::,inspire%2:37:00::
+The show has been to Boston and Manhattan , will in time reach Pittsburgh and Minneapolis .
+1
+#12 reach VERB reach%2:32:00::,reach%2:35:00::,reach%2:38:00::,reach%2:38:01::,reach%2:38:06::,reach%2:42:00::
+Last week it opened at the J. B. Speed Museum in Louisville , at the very moment that a second Schiele exhibit was being made ready at the Felix Landau gallery in Los Angeles .
+1
+#3 open VERB open%2:30:00::,open%2:30:01::,open%2:33:00::,open%2:41:00::,open%2:41:01::
+But he painted some of the boldest and most original pictures of his time , and even after nearly half a century , the tense , tormented world he put on canvas has lost none of its fascination .
+3
+#2 paint VERB paint%2:36:01::
+#29 put VERB put%2:35:00::,put%2:35:05::
+#33 lose VERB lose%2:33:00::,lose%2:33:01::,lose%2:37:00::,lose%2:40:02::
+The son of a railway stationmaster , Schiele lived most of his childhood in the drowsy Danubian town of Tulln , 14 miles northwest of Vienna .
+1
+#8 live VERB live%2:42:08::
+When he was 15 , his parents finally allowed him to attend classes at the Academy of Fine Arts in Vienna .
+2
+#8 allow VERB allow%2:32:00::,allow%2:32:06::,allow%2:40:00::,allow%2:41:00::
+#11 attend VERB attend%2:42:00::
+Even there he did not last for long .
+1
+#5 last VERB last%2:42:01::
+Gradually Schiele evolved a somber style of his own - and he had few inhibitions about his subject matter .
+2
+#2 evolve VERB evolve%2:30:00::
+#12 have VERB have%2:34:00::,have%2:40:00::,have%2:40:03::,have%2:40:04::,have%2:40:04::;2:40:00::,have%2:41:00::,have%2:42:00::
+His pictures were roundly denounced as " the most disgusting things one has ever seen in Vienna " .
+1
+#14 see VERB see%2:31:02::,see%2:39:00::,see%2:39:02::,see%2:39:03::;2:39:00::,see%2:39:11::,see%2:41:10::
+He himself was once convicted of painting erotica and jailed for 24 days - the first three of which he spent desperately trying to make paintings on the wall with his own spittle .
+3
+#6 paint VERB paint%2:36:01::
+#22 try VERB try%2:37:00::,try%2:41:00::,try%2:41:01::
+#24 make VERB make%2:29:06::,make%2:29:08::,make%2:30:00::,make%2:36:00::,make%2:36:05::,make%2:36:08::,make%2:41:03::,make%2:41:13::
+For years he wore hand-me-down suits and homemade paper collars , was even driven to scrounging for cigarette butts in Vienna 's gutters .
+2
+#3 wear VERB wear%2:29:00::,wear%2:29:02::,wear%2:42:01::
+#13 drive VERB drive%2:32:00::,drive%2:35:00::,drive%2:36:00::,drive%2:41:02::
+Drafted into the Austrian army , he rebelliously rejected discipline , wangled a Vienna billet , went on painting .
+2
+#0 draft VERB draft%2:36:05::
+#18 paint VERB paint%2:36:01::
+It was not until the last year of his life that he had his first moneymaking show .
+1
+#12 have VERB have%2:29:02::,have%2:30:00::,have%2:30:01::,have%2:32:00::,have%2:35:00::,have%2:39:06::,have%2:42:12::
+The unabashed sexuality of so many of this paintings was not the only thing that kept the public at bay :
+1
+#15 keep VERB keep%2:40:09::,keep%2:40:12::,keep%2:41:02::
+The children he painted were almost always in rags , his portraits were often ruthless to the point of ugliness , and his nudes - including several self-portraits - were stringy , contorted and strangely pathetic .
+2
+#3 paint VERB paint%2:36:01::
+#25 include VERB include%2:42:00::
+The subject he liked most was the female body , which he painted in every state - naked , half-dressed , muffled to the ears , sitting primly in a chair , lying tauntingly on a bed or locked in an embrace .
+4
+#3 like VERB like%2:37:05::
+#12 paint VERB paint%2:36:01::
+#26 sit VERB sit%2:35:00::,sit%2:35:01::,sit%2:38:00::,sit%2:38:03::,sit%2:39:00::,sit%2:42:05::
+#32 lie VERB lie%2:35:00::,lie%2:38:00::

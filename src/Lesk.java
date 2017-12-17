@@ -448,13 +448,6 @@ public class Lesk {
 			}
 		}
 
-		/*Collections.sort(precisions);
-		Collections.reverse(precisions);
-		Collections.sort(recalls);
-		Collections.reverse(recalls);
-		Collections.sort(f1s);
-		Collections.reverse(f1s);*/
-
 		for(int i = 0; i < precisions.size(); ++i){
 			res.add(precisions.get(i));
 			res.add(recalls.get(i));
@@ -475,22 +468,29 @@ public class Lesk {
 			e.printStackTrace();
 		}
 		//String context_opt = "ALL_WORDS";
-		String context_opt = "ALL_WORDS_R";
-		//String context_opt = "WINDOW";
+		//String context_opt = "ALL_WORDS_R";
+		String context_opt = "WINDOW";
 		//String context_opt = "POS";
-		int window_size = 3;
-		//String sim_opt = "JACCARD";
-		String sim_opt = "COSINE";
+		int window_size = 11;
+		String sim_opt = "JACCARD";
+		//String sim_opt = "COSINE";
 
 		model.predict(context_opt, window_size, sim_opt);
 
 		ArrayList<Double> res = model.evaluate(1);
-		System.out.print(args[0]);
+		double s = 0;
+		int index = 0;
+		while(index < res.size()){
+			s += res.get(index);
+			index += 3;
+		}
+		System.out.println(s / res.size());
+		/*System.out.print(args[0]);
 		System.out.print("\t");
 		System.out.print(res.get(0));
 		System.out.print("\t");
 		System.out.print(res.get(1));
 		System.out.print("\t");
-		System.out.println(res.get(2));
+		System.out.println(res.get(2));*/
 	}
 }
